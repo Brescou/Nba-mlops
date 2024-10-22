@@ -264,8 +264,7 @@ nba_endpoints_games = {
             "LeagueID": "00",
             "PlayerOrTeam": "T",
             "Season": None,
-            # "SeasonType": "Regular Season",
-            "SeasonType": "Playoffs",
+            "SeasonType": None,
             "Sorter": "DATE"
         }
     }

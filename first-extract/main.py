@@ -8,7 +8,7 @@ extractor = NBADataExtractor(
     delay=2,
     output_dir="./data/game/"
 )
-
 extractor.extract_seasons()
-
+extractor.change_season_type("Playoffs")
+extractor.extract_seasons()
 extractor.close_session()
