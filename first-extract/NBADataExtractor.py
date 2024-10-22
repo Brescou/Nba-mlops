@@ -1,7 +1,10 @@
+import csv
 import logging
+import os
 import time
 
 import requests
+from tqdm import tqdm
 
 logging.basicConfig(level=logging.INFO)
 
@@ -28,70 +31,80 @@ class NBADataExtractor:
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
     }
 
-    def __init__(self, endpoints, delay=1):
+    def __init__(self, endpoints, season_start=1996, season_end=None, delay=1, output_dir="./data/game/"):
         self.endpoints = endpoints
         self.delay = delay
         self.session = requests.Session()
         self.session.headers.update(self.HEADERS)
+        self.season_start = season_start
+        self.season_end = season_end if season_end else season_start  # Si season_end n'est pas spécifié, on le met égal à season_start
+        self.output_dir = output_dir
 
-    def _fetch_data(self, category, stat_type, season, season_type, group_quantity=None, retries=3, delay_factor=5):
-        endpoint_info = self.endpoints[category][stat_type]
-        url = endpoint_info["url"]
-        params = endpoint_info["params"].copy()
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+
+    def fetch_data(self, endpoint, params):
+        url = self.endpoints[endpoint]["url"]
+        response = self.session.get(url, params=params)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            logging.error(f"Failed to fetch data from {url} with status {response.status_code}")
+            return None
+
+    def fetch_game_logs(self, season):
+        endpoint = "game_log"
+        params = self.endpoints[endpoint]["params"].copy()
         params["Season"] = season
-        params["SeasonType"] = season_type
-        if "GroupQuantity" in params and group_quantity:
-            params["GroupQuantity"] = group_quantity
-        for attempt in range(retries):
-            try:
-                time.sleep(self.delay)
-                response = self.session.get(url, params=params)
+        return self.fetch_data(endpoint, params)
 
-                if response.status_code == 403:
-                    raise ForbiddenError("403 Error: Access denied. Your IP might be blocked.")
-                if response.status_code == 429:
-                    raise TooManyRequestsError("429 Error: Too many requests. Please try again later.")
-                if response.status_code != 200:
-                    response.raise_for_status()
-                logging.info(f"Successfully fetched data for {stat_type} in season {season}.")
-                return response.json()
+    def save_game_logs_to_csv(self, season, filename="game_logs.csv"):
+        game_logs = self.fetch_game_logs(season)
+        if game_logs:
+            file_path = os.path.join(self.output_dir, filename)
+            headers = [
+                'SEASON_ID', 'TEAM_ID', 'TEAM_ABBREVIATION', 'TEAM_NAME', 'GAME_ID', 'GAME_DATE', 'MATCHUP', 'WL',
+                'MIN',
+                'FGM', 'FGA', 'FG_PCT', 'FG3M', 'FG3A', 'FG3_PCT', 'FTM', 'FTA', 'FT_PCT', 'OREB', 'DREB', 'REB', 'AST',
+                'STL', 'BLK', 'TOV', 'PF', 'PTS', 'PLUS_MINUS', 'VIDEO_AVAILABLE', 'SEASON_YEAR'
+            ]
+            with open(file_path, mode='a', newline='') as file:
+                writer = csv.writer(file)
+                if file.tell() == 0:
+                    writer.writerow(headers)
+                for row in game_logs["resultSets"][0]["rowSet"]:
+                    row.append(season)
+                    writer.writerow(row)
+        else:
+            logging.error(f"No game logs found for season {season}.")
 
-            except requests.exceptions.HTTPError as errh:
-                logging.error(f"HTTP Error: {errh}")
-                raise
+    def extract_seasons(self):
+        filename = "playoff_game_logs_head.csv"
+        seasons_range = range(self.season_start, self.season_end + 1)
 
-            except requests.exceptions.ConnectionError as errc:
-                logging.error(f"Connection Error: {errc}")
-                raise
+        with tqdm(total=len(seasons_range), desc="Extracting seasons") as pbar:
+            for year in seasons_range:
+                season = f"{year}-{str(year + 1)[-2:]}"
+                pbar.set_postfix({'season': season})
 
-            except requests.exceptions.Timeout as errt:
-                logging.error(f"Timeout Error: {errt}")
-                raise
+                for attempt in range(3):
+                    try:
+                        self.save_game_logs_to_csv(season, filename)
+                        time.sleep(self.delay)
+                        break
 
-            except ForbiddenError as err403:
-                logging.error(f"{err403}")
-                raise
+                    except ForbiddenError:
+                        logging.error(f"Access forbidden for season {season}. Retrying...")
+                        time.sleep(60)
+                    except TooManyRequestsError:
+                        logging.error(f"Too many requests for season {season}. Waiting 1 minute before retrying...")
+                        time.sleep(60)
 
-            except TooManyRequestsError as err429:
-                logging.warning(f"{err429}")
-                if attempt < retries - 1:
-                    time.sleep(delay_factor)
-                    delay_factor *= 2
-                else:
-                    raise
+                    except Exception as e:
+                        logging.error(f"An error occurred: {e}")
+                        time.sleep(60)
 
-            except requests.exceptions.RequestException as err:
-                logging.error(f"Request Error: {err}")
-                raise
-
-    def fetch_player_stats(self, stat_type, season, season_type):
-        return self._fetch_data("player", stat_type, season, season_type)
-
-    def fetch_team_stats(self, stat_type, season, season_type):
-        return self._fetch_data("teams", stat_type, season, season_type)
-
-    def fetch_lineups_stats(self, stat_type, season, season_type, group_quantity=5):
-        return self._fetch_data("lineups", stat_type, season, season_type, group_quantity=group_quantity)
+                pbar.update(1)
 
     def close_session(self):
         self.session.close()

@@ -252,3 +252,21 @@ nba_endpoints_lineups = {
         }
     }
 }
+nba_endpoints_games = {
+    "game_log": {
+        "url": "https://stats.nba.com/stats/leaguegamelog",
+        "params": {
+            "Counter": "1000",
+            "DateFrom": "",
+            "DateTo": "",
+            "Direction": "DESC",
+            "ISTRound": "",
+            "LeagueID": "00",
+            "PlayerOrTeam": "T",
+            "Season": None,
+            # "SeasonType": "Regular Season",
+            "SeasonType": "Playoffs",
+            "Sorter": "DATE"
+        }
+    }
+}

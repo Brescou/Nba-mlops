@@ -1,17 +1,14 @@
-import os
-
 from NBADataExtractor import NBADataExtractor
-from dict_endpoint import nba_endpoints_player, nba_endpoints_teams, nba_endpoints_lineups
+from dict_endpoint import nba_endpoints_games
 
-if not os.path.exists("./data"):
-    os.makedirs("data")
+extractor = NBADataExtractor(
+    nba_endpoints_games,
+    season_start=1996,
+    season_end=2023,
+    delay=2,
+    output_dir="./data/game/"
+)
 
-seasons = [f"{year}-{year + 1}" for year in range(2000, 2024)]
+extractor.extract_seasons()
 
-nba_endpoints = {
-    "player": nba_endpoints_player,
-    "teams": nba_endpoints_teams,
-    "lineups": nba_endpoints_lineups
-}
-
-extractor = NBADataExtractor(nba_endpoints, delay=1)
+extractor.close_session()
