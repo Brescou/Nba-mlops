@@ -267,5 +267,13 @@ nba_endpoints_games = {
             "SeasonType": None,
             "Sorter": "DATE"
         }
+    },
+    "play_by_play": {
+        "url": "https://stats.nba.com/stats/playbyplayv3",
+        "params": {
+            "GameID": None,
+            "StartPeriod": "0",
+            "EndPeriod": "0"
+        }
     }
 }
