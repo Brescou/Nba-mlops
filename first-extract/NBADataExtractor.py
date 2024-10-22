@@ -66,31 +66,59 @@ class NBADataExtractor:
         params["SeasonType"] = self.season_type
         return self.fetch_data(endpoint, params)
 
-    def save_game_logs_to_csv(self, season, filename="game_logs.csv"):
+    def save_game_logs_to_csv(self, season):
         game_logs = self.fetch_game_logs(season)
         if game_logs:
-            file_path = os.path.join(self.output_dir, filename)
+            file_path = os.path.join(
+                self.output_dir, f"{self.season_type.lower().replace(' ', '_')}_game_logs.csv")
             headers = [
-                'SEASON_ID', 'TEAM_ID', 'TEAM_ABBREVIATION', 'TEAM_NAME', 'GAME_ID', 'GAME_DATE', 'MATCHUP', 'WL',
+                'SEASON_ID', 'GAME_ID', 'GAME_DATE', 'MATCHUP',
+                'HOME_TEAM_ID', 'HOME_TEAM_ABBREVIATION', 'HOME_TEAM_NAME', 'HOME_WL',
+                'AWAY_TEAM_ID', 'AWAY_TEAM_ABBREVIATION', 'AWAY_TEAM_NAME', 'AWAY_WL',
                 'SEASON_YEAR'
             ]
             with open(file_path, mode='a', newline='') as file:
                 writer = csv.writer(file)
                 if file.tell() == 0:
                     writer.writerow(headers)
+                games_dict = {}
                 for row in game_logs["resultSets"][0]["rowSet"]:
-                    filtered_row = [
-                        row[0],  # SEASON_ID
-                        row[1],  # TEAM_ID
-                        row[2],  # TEAM_ABBREVIATION
-                        row[3],  # TEAM_NAME
-                        row[4],  # GAME_ID
-                        row[5],  # GAME_DATE
-                        row[6],  # MATCHUP
-                        row[7],  # WL (Win/Loss)
-                        season  # SEASON_YEAR
-                    ]
-                    writer.writerow(filtered_row)
+                    game_id = row[4]  # GAME_ID
+                    if game_id not in games_dict:
+                        games_dict[game_id] = {}
+                    matchup = row[6]
+                    if "vs." in matchup:  # Home team
+                        games_dict[game_id]['home'] = {
+                            'team_id': row[1],
+                            'team_abbr': row[2],
+                            'team_name': row[3],
+                            'wl': row[7]  # Win/Loss
+                        }
+                    elif "@" in matchup:  # Away team
+                        games_dict[game_id]['away'] = {
+                            'team_id': row[1],
+                            'team_abbr': row[2],
+                            'team_name': row[3],
+                            'wl': row[7]  # Win/Loss
+                        }
+                    games_dict[game_id]['season_id'] = row[0]
+                    games_dict[game_id]['game_date'] = row[5]
+                    games_dict[game_id]['matchup'] = row[6]
+                    games_dict[game_id]['season_year'] = season
+                for game_id, data in games_dict.items():
+                    if 'home' in data and 'away' in data:
+                        merged_row = [
+                            data['season_id'],
+                            game_id,
+                            data['game_date'],
+                            data['matchup'],
+                            data['home']['team_id'], data['home']['team_abbr'], data['home']['team_name'],
+                            data['home']['wl'],
+                            data['away']['team_id'], data['away']['team_abbr'], data['away']['team_name'],
+                            data['away']['wl'],
+                            data['season_year']
+                        ]
+                        writer.writerow(merged_row)
         else:
             logging.error(f"No game logs found for season {season}.")
 
@@ -105,7 +133,7 @@ class NBADataExtractor:
 
                 for attempt in range(3):
                     try:
-                        self.save_game_logs_to_csv(season, filename)
+                        self.save_game_logs_to_csv(season)
                         time.sleep(self.delay)
                         break
 
