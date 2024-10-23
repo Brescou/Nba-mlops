@@ -15,15 +15,18 @@ logging.basicConfig(level=logging.INFO)
 
 class NBADataExtractor:
 
-    def __init__(self, endpoints, season_start=1996, season_end=None, delay=1, output_dir="./data/game/"):
+    def __init__(self, endpoints, season_start=1996, season_end=None,
+                 delay=None, output_dir="./data/game/"):
         self.endpoints = endpoints
-        self.delay = delay
+        self.params = NBAParams()
+        self.delay = delay if delay else self.params.DELAY
         self.session = requests.Session()
-        self.session.headers.update(NBAParams.get_headers())
+        self.session.headers.update(self.params.HEADERS)
         self.season_start = season_start
         self.season_end = season_end if season_end else season_start
         self.output_dir = output_dir
         self.season_type = "Regular Season"
+        self.timeout = self.params.TIMEOUT_REQUEST
 
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
@@ -34,11 +37,11 @@ class NBADataExtractor:
         self.season_type = season_type
         print(f"Season type changed to {self.season_type}")
 
-    def fetch_data(self, endpoint, params, timeout=30):
+    def fetch_data(self, endpoint, params):
         url = NBAParams.build_url(self.endpoints[endpoint])
         response = None
         try:
-            response = self.session.get(url, params=params, timeout=timeout)
+            response = self.session.get(url, params=params, timeout=self.timeout)
             response.raise_for_status()
             return response.json()
 

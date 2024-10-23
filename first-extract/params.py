@@ -1,3 +1,6 @@
+from random import randint
+
+
 class NBAParams:
     BASE_URL = "https://stats.nba.com/stats/"
 
@@ -21,13 +24,9 @@ class NBAParams:
                       "129.0.0.0 Safari/537.36"
     }
 
-    @classmethod
-    def get_headers(cls):
-        return cls.HEADERS
+    TIMEOUT_REQUEST = 10
 
-    @classmethod
-    def get_base_url(cls):
-        return cls.BASE_URL
+    DELAY = randint(1, 5)
 
     @classmethod
     def build_url(cls, endpoint):

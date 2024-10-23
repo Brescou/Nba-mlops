@@ -17,7 +17,6 @@ def main():
         nba_endpoints_games,
         season_start=1996,
         season_end=2023,
-        delay=3,
         output_dir="./data/game/"
     )
 
