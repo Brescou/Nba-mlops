@@ -1,7 +1,7 @@
 nba_endpoints_player = {
     "general": {
         "traditional": {
-            "url": "https://stats.nba.com/stats/leaguedashplayerstats",
+            "url": "leaguedashplayerstats",
             "params": {
                 "MeasureType": "Base",
                 "Season": None,
@@ -9,7 +9,7 @@ nba_endpoints_player = {
             }
         },
         "advanced": {
-            "url": "https://stats.nba.com/stats/leaguedashplayerstats",
+            "url": "leaguedashplayerstats",
             "params": {
                 "MeasureType": "Advanced",
                 "Season": None,
@@ -17,7 +17,7 @@ nba_endpoints_player = {
             }
         },
         "misc": {
-            "url": "https://stats.nba.com/stats/leaguedashplayerstats",
+            "url": "leaguedashplayerstats",
             "params": {
                 "MeasureType": "Misc",
                 "Season": None,
@@ -25,7 +25,7 @@ nba_endpoints_player = {
             }
         },
         "scoring": {
-            "url": "https://stats.nba.com/stats/leaguedashplayerstats",
+            "url": "leaguedashplayerstats",
             "params": {
                 "MeasureType": "Scoring",
                 "Season": None,
@@ -33,7 +33,7 @@ nba_endpoints_player = {
             }
         },
         "usage": {
-            "url": "https://stats.nba.com/stats/leaguedashplayerstats",
+            "url": "leaguedashplayerstats",
             "params": {
                 "MeasureType": "Usage",
                 "Season": None,
@@ -43,7 +43,7 @@ nba_endpoints_player = {
     },
     "clutch": {
         "traditional": {
-            "url": "https://stats.nba.com/stats/leaguedashplayerclutch",
+            "url": "leaguedashplayerclutch",
             "params": {
                 "MeasureType": "Base",
                 "Season": None,
@@ -51,7 +51,7 @@ nba_endpoints_player = {
             }
         },
         "advanced": {
-            "url": "https://stats.nba.com/stats/leaguedashplayerclutch",
+            "url": "leaguedashplayerclutch",
             "params": {
                 "MeasureType": "Advanced",
                 "Season": None,
@@ -61,7 +61,7 @@ nba_endpoints_player = {
     },
     "playtype": {
         "isolation": {
-            "url": "https://stats.nba.com/stats/synergyplaytypes",
+            "url": "synergyplaytypes",
             "params": {
                 "PlayType": "Isolation",
                 "SeasonYear": None,
@@ -69,7 +69,7 @@ nba_endpoints_player = {
             }
         },
         "pick_roll_ball_handler": {
-            "url": "https://stats.nba.com/stats/synergyplaytypes",
+            "url": "synergyplaytypes",
             "params": {
                 "PlayType": "PRBallHandler",
                 "SeasonYear": None,
@@ -79,7 +79,7 @@ nba_endpoints_player = {
     },
     "tracking": {
         "drives": {
-            "url": "https://stats.nba.com/stats/leaguedashptstats",
+            "url": "leaguedashptstats",
             "params": {
                 "PtMeasureType": "Drives",
                 "Season": None,
@@ -87,7 +87,7 @@ nba_endpoints_player = {
             }
         },
         "defensive_impact": {
-            "url": "https://stats.nba.com/stats/leaguedashptstats",
+            "url": "leaguedashptstats",
             "params": {
                 "PtMeasureType": "Defense",
                 "Season": None,
@@ -95,7 +95,7 @@ nba_endpoints_player = {
             }
         },
         "catch_shoot": {
-            "url": "https://stats.nba.com/stats/leaguedashptstats",
+            "url": "leaguedashptstats",
             "params": {
                 "PtMeasureType": "CatchShoot",
                 "Season": None,
@@ -105,7 +105,7 @@ nba_endpoints_player = {
     },
     "defense_dashboard": {
         "overall": {
-            "url": "https://stats.nba.com/stats/leaguedashptdefend",
+            "url": "leaguedashptdefend",
             "params": {
                 "DefenseCategory": "Overall",
                 "Season": None,
@@ -117,7 +117,7 @@ nba_endpoints_player = {
 nba_endpoints_teams = {
     "general": {
         "traditional": {
-            "url": "https://stats.nba.com/stats/leaguedashteamstats",
+            "url": "leaguedashteamstats",
             "params": {
                 "MeasureType": "Base",
                 "Season": None,
@@ -125,7 +125,7 @@ nba_endpoints_teams = {
             }
         },
         "advanced": {
-            "url": "https://stats.nba.com/stats/leaguedashteamstats",
+            "url": "leaguedashteamstats",
             "params": {
                 "MeasureType": "Advanced",
                 "Season": None,
@@ -133,7 +133,7 @@ nba_endpoints_teams = {
             }
         },
         "misc": {
-            "url": "https://stats.nba.com/stats/leaguedashteamstats",
+            "url": "leaguedashteamstats",
             "params": {
                 "MeasureType": "Misc",
                 "Season": None,
@@ -141,7 +141,7 @@ nba_endpoints_teams = {
             }
         },
         "scoring": {
-            "url": "https://stats.nba.com/stats/leaguedashteamstats",
+            "url": "leaguedashteamstats",
             "params": {
                 "MeasureType": "Scoring",
                 "Season": None,
@@ -151,7 +151,7 @@ nba_endpoints_teams = {
     },
     "clutch": {
         "traditional": {
-            "url": "https://stats.nba.com/stats/leaguedashteamclutch",
+            "url": "leaguedashteamclutch",
             "params": {
                 "MeasureType": "Base",
                 "Season": None,
@@ -161,7 +161,7 @@ nba_endpoints_teams = {
     },
     "tracking": {
         "drives": {
-            "url": "https://stats.nba.com/stats/leaguedashptstats",
+            "url": "leaguedashptstats",
             "params": {
                 "PtMeasureType": "Drives",
                 "Season": None,
@@ -169,7 +169,7 @@ nba_endpoints_teams = {
             }
         },
         "defensive_impact": {
-            "url": "https://stats.nba.com/stats/leaguedashptstats",
+            "url": "leaguedashptstats",
             "params": {
                 "PtMeasureType": "Defense",
                 "Season": None,
@@ -177,7 +177,7 @@ nba_endpoints_teams = {
             }
         },
         "catch_shoot": {
-            "url": "https://stats.nba.com/stats/leaguedashptstats",
+            "url": "leaguedashptstats",
             "params": {
                 "PtMeasureType": "CatchShoot",
                 "Season": None,
@@ -187,7 +187,7 @@ nba_endpoints_teams = {
     },
     "defense_dashboard": {
         "overall": {
-            "url": "https://stats.nba.com/stats/leaguedashptteamdefend",
+            "url": "leaguedashptteamdefend",
             "params": {
                 "DefenseCategory": "Overall",
                 "Season": None,
@@ -198,7 +198,7 @@ nba_endpoints_teams = {
 }
 nba_endpoints_lineups = {
     "traditional": {
-        "url": "https://stats.nba.com/stats/leaguedashlineups",
+        "url": "leaguedashlineups",
         "params": {
             "MeasureType": "Base",
             "Season": None,
@@ -207,7 +207,7 @@ nba_endpoints_lineups = {
         }
     },
     "advanced": {
-        "url": "https://stats.nba.com/stats/leaguedashlineups",
+        "url": "leaguedashlineups",
         "params": {
             "MeasureType": "Advanced",
             "Season": None,
@@ -216,7 +216,7 @@ nba_endpoints_lineups = {
         }
     },
     "misc": {
-        "url": "https://stats.nba.com/stats/leaguedashlineups",
+        "url": "leaguedashlineups",
         "params": {
             "MeasureType": "Misc",
             "Season": None,
@@ -225,7 +225,7 @@ nba_endpoints_lineups = {
         }
     },
     "four_factors": {
-        "url": "https://stats.nba.com/stats/leaguedashlineups",
+        "url": "leaguedashlineups",
         "params": {
             "MeasureType": "Four Factors",
             "Season": None,
@@ -234,7 +234,7 @@ nba_endpoints_lineups = {
         }
     },
     "scoring": {
-        "url": "https://stats.nba.com/stats/leaguedashlineups",
+        "url": "leaguedashlineups",
         "params": {
             "MeasureType": "Scoring",
             "Season": None,
@@ -243,7 +243,7 @@ nba_endpoints_lineups = {
         }
     },
     "opponent": {
-        "url": "https://stats.nba.com/stats/leaguedashlineups",
+        "url": "leaguedashlineups",
         "params": {
             "MeasureType": "Opponent",
             "Season": None,
@@ -254,7 +254,7 @@ nba_endpoints_lineups = {
 }
 nba_endpoints_games = {
     "game_log": {
-        "url": "https://stats.nba.com/stats/leaguegamelog",
+        "url": "leaguegamelog",
         "params": {
             "Counter": "1000",
             "DateFrom": "",
@@ -269,7 +269,7 @@ nba_endpoints_games = {
         }
     },
     "play_by_play": {
-        "url": "https://stats.nba.com/stats/playbyplayv3",
+        "url": "playbyplayv3",
         "params": {
             "GameID": None,
             "StartPeriod": "0",

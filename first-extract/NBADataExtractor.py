@@ -1,44 +1,27 @@
 import csv
 import logging
 import os
-import time
 import sys
+import time
+
 import pandas as pd
 import requests
 from tqdm import tqdm
+
+from params import NBAParams
 
 logging.basicConfig(level=logging.INFO)
 
 
 class NBADataExtractor:
-    BASE_URL = "https://stats.nba.com/stats/"
-
-    HEADERS = {
-        "accept": "*/*",
-        "accept-encoding": "gzip, deflate, br, zstd",
-        "accept-language": "fr,en-US;q=0.9,en;q=0.8,fr-FR;q=0.7",
-        "connection": "keep-alive",
-        "dnt": "1",
-        "host": "stats.nba.com",
-        "origin": "https://www.nba.com",
-        "referer": "https://www.nba.com/",
-        "sec-ch-ua": "\"Google Chrome\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
-        "sec-ch-ua-mobile": "?0",
-        "sec-ch-ua-platform": "\"Linux\"",
-        "sec-fetch-dest": "empty",
-        "sec-fetch-mode": "cors",
-        "sec-fetch-site": "same-site",
-        "sec-gpc": "1",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-    }
 
     def __init__(self, endpoints, season_start=1996, season_end=None, delay=1, output_dir="./data/game/"):
         self.endpoints = endpoints
         self.delay = delay
         self.session = requests.Session()
-        self.session.headers.update(self.HEADERS)
+        self.session.headers.update(NBAParams.get_headers())
         self.season_start = season_start
-        self.season_end = season_end if season_end else season_start  # Si season_end n'est pas spécifié, on le met égal à season_start
+        self.season_end = season_end if season_end else season_start
         self.output_dir = output_dir
         self.season_type = "Regular Season"
 
@@ -51,9 +34,9 @@ class NBADataExtractor:
         self.season_type = season_type
         print(f"Season type changed to {self.season_type}")
 
-
     def fetch_data(self, endpoint, params, timeout=30):
-        url = self.endpoints[endpoint]["url"]
+        url = NBAParams.build_url(self.endpoints[endpoint])
+        response = None
         try:
             response = self.session.get(url, params=params, timeout=timeout)
             response.raise_for_status()
@@ -75,15 +58,12 @@ class NBADataExtractor:
             logging.error(f"Error occurred: {e}")
             return None
 
-    def fetch_game_logs(self, season):
+    def save_game_logs_to_csv(self, season):
         endpoint = "game_log"
         params = self.endpoints[endpoint]["params"].copy()
         params["Season"] = season
         params["SeasonType"] = self.season_type
-        return self.fetch_data(endpoint, params)
-
-    def save_game_logs_to_csv(self, season):
-        game_logs = self.fetch_game_logs(season)
+        game_logs = self.fetch_data(endpoint, params)
         if game_logs:
             file_path = os.path.join(
                 self.output_dir, f"{self.season_type.lower().replace(' ', '_')}_game_logs.csv")
@@ -99,23 +79,23 @@ class NBADataExtractor:
                     writer.writerow(headers)
                 games_dict = {}
                 for row in game_logs["resultSets"][0]["rowSet"]:
-                    game_id = row[4]  # GAME_ID
+                    game_id = row[4]
                     if game_id not in games_dict:
                         games_dict[game_id] = {}
                     matchup = row[6]
-                    if "vs." in matchup:  # Home team
+                    if "vs." in matchup:
                         games_dict[game_id]['home'] = {
                             'team_id': row[1],
                             'team_abbr': row[2],
                             'team_name': row[3],
-                            'wl': row[7]  # Win/Loss
+                            'wl': row[7]
                         }
-                    elif "@" in matchup:  # Away team
+                    elif "@" in matchup:
                         games_dict[game_id]['away'] = {
                             'team_id': row[1],
                             'team_abbr': row[2],
                             'team_name': row[3],
-                            'wl': row[7]  # Win/Loss
+                            'wl': row[7]
                         }
                     games_dict[game_id]['season_id'] = row[0]
                     games_dict[game_id]['game_date'] = row[5]
@@ -139,20 +119,16 @@ class NBADataExtractor:
             logging.error(f"No game logs found for season {season}.")
 
     def extract_seasons(self):
-        filename = f"{self.season_type.lower().replace(' ', '_')}_game_logs_head.csv"
         seasons_range = range(self.season_start, self.season_end + 1)
-
         with tqdm(total=len(seasons_range), desc=f"Extracting {self.season_type} data") as pbar:
             for year in seasons_range:
                 season = f"{year}-{str(year + 1)[-2:]}"
                 pbar.set_postfix({'season': season})
-
                 for attempt in range(3):
                     try:
                         self.save_game_logs_to_csv(season)
                         time.sleep(self.delay)
                         break
-
                     except ForbiddenError:
                         logging.error(f"Access forbidden for season {season}. Retrying...")
                         time.sleep(60)
@@ -162,9 +138,7 @@ class NBADataExtractor:
                     except Exception as e:
                         logging.error(f"An error occurred: {e}")
                         time.sleep(60)
-
                 pbar.update(1)
-
         logging.info(f"Data extraction completed. Data saved to {self.output_dir}")
 
     def save_play_by_play_to_csv(self, season, game_id, season_type):
