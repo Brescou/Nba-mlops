@@ -26,7 +26,7 @@ class NBAParams:
 
     TIMEOUT_REQUEST = 10
 
-    DELAY = randint(1, 5)
+    DELAY = randint(0, 1)
 
     @classmethod
     def build_url(cls, endpoint):

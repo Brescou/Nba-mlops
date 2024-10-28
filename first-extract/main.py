@@ -23,12 +23,12 @@ def main():
     regular_season_path = "./data/game/regular_season_game_logs.csv"
     playoffs_path = "./data/game/playoffs_game_logs.csv"
 
-    if not os.path.exists(regular_season_path) and not os.path.exists(playoffs_path):
-        extractor.extract_seasons()
-        extractor.change_season_type("Playoffs")
-        extractor.extract_seasons()
-        initialize_dataframe(playoffs_path)
-        initialize_dataframe(regular_season_path)
+    # if not os.path.exists(regular_season_path) and not os.path.exists(playoffs_path):
+    #     extractor.extract_seasons()
+    #     extractor.change_season_type("Playoffs")
+    #     extractor.extract_seasons()
+    #     initialize_dataframe(playoffs_path)
+    #     initialize_dataframe(regular_season_path)
 
     extractor.extract_all_play_by_play()
     extractor.close_session()
