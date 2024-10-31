@@ -3,7 +3,7 @@ import requests
 import logging
 
 class NordVPNManager:
-    def __init__(self, country="France"):
+    def __init__(self, country="United_States"):
         self.country = country
         self.settings = None
         self.session = requests.Session()
@@ -38,7 +38,7 @@ class NordVPNManager:
 
 
 if __name__ == "__main__":
-    vpn = NordVPNManager(country="France")
+    vpn = NordVPNManager(country="United_States")
     vpn.connect()
     headers = {
         "Accept": "application/json",
