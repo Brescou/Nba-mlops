@@ -250,6 +250,10 @@ class NBADataExtractor:
             logging.error(f"Request Error occurred: {e}")
             return None
 
+    import os
+    import pandas as pd
+    import logging
+
     def fetch_player_stats(self, endpoint, sub_endpoint, season, season_type=None, **kwargs):
         params = self.endpoints[endpoint][sub_endpoint]["params"].copy()
         params["Season"] = season
@@ -260,20 +264,16 @@ class NBADataExtractor:
         if player_stats and "resultSets" in player_stats:
             headers = player_stats["resultSets"][0]["headers"]
             rows = player_stats["resultSets"][0]["rowSet"]
-            season_folder = f"data/player/{endpoint}/{sub_endpoint}/{season}/{season_type.lower().replace(' ', '_')}"
+            season_folder = f"data/player/{endpoint}/{sub_endpoint}/{season}"
             os.makedirs(season_folder, exist_ok=True)
-            for row in rows:
-                player_id = row[0]
-                player_file_path = os.path.join(season_folder, f"{player_id}.csv")
-                player_data = pd.DataFrame([row], columns=headers)
-                if os.path.exists(player_file_path):
-                    existing_player_data = pd.read_csv(player_file_path)
-                    if (player_data.shape[1] > existing_player_data.shape[1] or
-                            player_data.shape[0] > existing_player_data.shape[0] or
-                            not existing_player_data.equals(player_data)):
-                        player_data.to_csv(player_file_path, index=False)
-                else:
-                    player_data.to_csv(player_file_path, index=False)
+            season_file_path = os.path.join(season_folder, f"{season}_{season_type.lower().replace(' ', '_')}.csv")
+            season_data = pd.DataFrame(rows, columns=headers)
+            if os.path.exists(season_file_path):
+                existing_data = pd.read_csv(season_file_path)
+                if season_data.shape[1] > existing_data.shape[1] or season_data.shape[0] > existing_data.shape[0]:
+                    season_data.to_csv(season_file_path, index=False)
+            else:
+                season_data.to_csv(season_file_path, index=False)
         else:
             logging.error(f"No player stats found for {season}.")
 
