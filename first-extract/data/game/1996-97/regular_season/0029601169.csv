@@ -1,0 +1,424 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (35:40 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,h,Jump Ball Ratliff vs. Hill: Tip to Hunter,Jump Ball,,0,0
+3,2,PT11M40.00S,1,1610612765,DET,689,Ratliff,T. Ratliff,107,0,11,Made,1,2,0,2,h,Ratliff 11' Jump Shot (2 PTS) (McKie 1 AST),Made Shot,Jump Shot,0,0
+4,3,PT11M17.00S,1,1610612739,CLE,168,Mills,C. Mills,172,4,17,Made,1,2,2,4,v,Mills 17' Jump Shot (2 PTS) (Ferry 1 AST),Made Shot,Jump Shot,0,0
+5,4,PT11M01.00S,1,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,h,Ratliff Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0
+6,5,PT10M43.00S,1,1610612739,CLE,198,Ferry,D. Ferry,138,197,24,Missed,1,0,0,0,v,MISS Ferry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+7,6,PT10M41.00S,1,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+8,7,PT10M30.00S,1,1610612765,DET,283,Hunter,L. Hunter,-239,-1,24,Missed,1,0,0,0,h,MISS Hunter 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+9,8,PT10M27.00S,1,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,9,PT10M09.00S,1,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,Missed,1,0,0,0,v,MISS Ferry  Layup,Missed Shot,Layup Shot,0,0
+11,10,PT10M07.00S,1,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+12,11,PT09M51.00S,1,1610612739,CLE,168,Mills,C. Mills,129,-7,13,Missed,1,0,0,0,v,MISS Mills 13' Jump Shot,Missed Shot,Jump Shot,0,0
+13,12,PT09M49.00S,1,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+14,13,PT09M45.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,Missed,1,0,0,0,h,MISS Hill  Layup,Missed Shot,Layup Shot,0,0
+15,14,PT09M43.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+16,15,PT09M40.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,Made,1,4,2,6,h,Hill  Layup (2 PTS),Made Shot,Layup Shot,0,0
+17,16,PT09M23.00S,1,1610612739,CLE,210,Brandon,T. Brandon,140,-9,14,Missed,1,0,0,0,v,MISS Brandon 14' Jump Shot,Missed Shot,Jump Shot,0,0
+18,17,PT09M21.00S,1,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+19,18,PT09M17.00S,1,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon S.FOUL (P1.T1),Foul,Shooting,0,0
+20,19,PT09M17.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,5,2,7,h,Hill Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+21,20,PT09M17.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,6,2,8,h,Hill Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+22,21,PT09M04.00S,1,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0
+23,22,PT08M47.00S,1,1610612765,DET,283,Hunter,L. Hunter,60,54,8,Made,1,8,2,10,h,Hunter 8' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+24,23,PT08M31.00S,1,1610612739,CLE,682,Sura,B. Sura,0,0,0,Made,1,8,4,12,v,Sura  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+25,24,PT08M15.00S,1,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,Hunter Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+26,24,PT08M15.00S,1,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon STEAL (1 STL),,,0,0
+27,25,PT07M58.00S,1,1610612739,CLE,682,Sura,B. Sura,-44,240,24,Made,1,8,7,15,v,Sura 24' 3PT Jump Shot (5 PTS) (Brandon 1 AST),Made Shot,Jump Shot,0,0
+28,26,PT07M40.00S,1,1610612765,DET,255,Hill,G. Hill,-107,80,13,Made,1,10,7,17,h,Hill 13' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+29,27,PT07M17.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,0
+30,28,PT07M08.00S,1,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie S.FOUL (P1.T1),Foul,Shooting,0,0
+31,29,PT07M08.00S,1,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,10,8,18,v,Sura Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+32,30,PT07M08.00S,1,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,10,9,19,v,Sura Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+33,31,PT07M00.00S,1,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,Hunter OFF.Foul (P1),Foul,Offensive,0,0
+34,32,PT07M00.00S,1,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,Hunter Foul Turnover (P2.T3),Turnover,Foul,0,0
+35,33,PT06M51.00S,1,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,0
+36,34,PT06M51.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+37,35,PT06M39.00S,1,1610612765,DET,243,McKie,A. McKie,123,4,12,Missed,1,0,0,0,h,MISS McKie 12' Jump Shot,Missed Shot,Jump Shot,0,0
+38,36,PT06M36.00S,1,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+39,37,PT06M26.00S,1,1610612739,CLE,198,Ferry,D. Ferry,144,-7,14,Missed,1,0,0,0,v,MISS Ferry 14' Jump Shot,Missed Shot,Jump Shot,0,0
+40,38,PT06M23.00S,1,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+41,39,PT06M18.00S,1,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,Missed,1,0,0,0,h,MISS Ratliff  Layup,Missed Shot,Layup Shot,0,0
+42,40,PT06M16.00S,1,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+43,41,PT06M07.00S,1,1610612739,CLE,168,Mills,C. Mills,129,194,0,Made,1,10,12,22,v,Mills  3PT Jump Shot (5 PTS) (Brandon 2 AST),Made Shot,Jump Shot,0,0
+44,42,PT05M48.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,Made,1,12,12,24,h,Hill  Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+45,43,PT05M32.00S,1,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill Traveling Turnover (P1.T3),Turnover,Traveling,0,0
+46,44,PT05M32.00S,1,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,SUB: Curry FOR McKie,Substitution,,0,0
+47,45,PT05M15.00S,1,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,Made,1,14,12,26,h,Thorpe  Layup (2 PTS),Made Shot,Layup Shot,0,0
+48,46,PT04M47.00S,1,1610612739,CLE,210,Brandon,T. Brandon,112,47,12,Made,1,14,14,28,v,Brandon 12' Jump Shot (2 PTS) (Ferry 2 AST),Made Shot,Jump Shot,0,0
+49,47,PT04M34.00S,1,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+50,47,PT04M34.00S,1,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura STEAL (1 STL),,,0,0
+51,48,PT04M26.00S,1,1610612739,CLE,210,Brandon,T. Brandon,-237,-9,24,Made,1,14,17,31,v,Brandon 24' 3PT Jump Shot (5 PTS) (Sura 1 AST),Made Shot,Jump Shot,0,0
+52,49,PT03M59.00S,1,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,h,Ratliff Traveling Turnover (P2.T5),Turnover,Traveling,0,0
+53,50,PT03M46.00S,1,1610612739,CLE,210,Brandon,T. Brandon,-66,62,9,Missed,1,0,0,0,v,MISS Brandon 9' Jump Shot,Missed Shot,Jump Shot,0,0
+54,51,PT03M44.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+55,52,PT03M44.00S,1,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,h,SUB: Mills FOR Ratliff,Substitution,,0,0
+56,53,PT03M24.00S,1,1610612765,DET,283,Hunter,L. Hunter,196,125,0,Missed,1,0,0,0,h,MISS Hunter  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+57,54,PT03M22.00S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+58,55,PT03M15.00S,1,1610612765,DET,283,Hunter,L. Hunter,-107,106,15,Made,1,16,17,33,h,Hunter 15' Jump Shot (4 PTS) (Hill 1 AST),Made Shot,Jump Shot,0,0
+59,56,PT02M58.00S,1,1610612739,CLE,168,Mills,C. Mills,-224,88,24,Missed,1,0,0,0,v,MISS Mills 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+60,57,PT02M56.00S,1,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+61,58,PT02M54.00S,1,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,Mills C.P.FOUL (P1.T2),Foul,Clear Path,0,0
+62,59,PT02M54.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+63,60,PT02M54.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,17,17,34,h,Hill Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+64,61,PT02M54.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,18,17,35,h,Hill Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+65,62,PT02M37.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill Violation:Double Lane,Violation,Double Lane,0,0
+66,64,PT02M27.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Foul,Foul,Defense 3 Second,0,0
+67,65,PT02M27.00S,1,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,18,18,36,v,Brandon Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0
+68,66,PT02M06.00S,1,1610612739,CLE,210,Brandon,T. Brandon,-122,75,14,Missed,1,0,0,0,v,MISS Brandon 14' Jump Shot,Missed Shot,Jump Shot,0,0
+69,67,PT02M02.00S,1,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,Hunter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+70,68,PT01M56.00S,1,1610612765,DET,371,Mills,T. Mills,1,244,24,Made,1,21,18,39,h,Mills 24' 3PT Jump Shot (3 PTS) (Hunter 1 AST),Made Shot,Jump Shot,0,0
+71,69,PT01M38.00S,1,1610612739,CLE,682,Sura,B. Sura,-209,114,24,Missed,1,0,0,0,v,MISS Sura 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+72,70,PT01M36.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+73,71,PT01M28.00S,1,1610612765,DET,255,Hill,G. Hill,36,69,8,Missed,1,0,0,0,h,MISS Hill 8' Jump Shot,Missed Shot,Jump Shot,0,0
+74,72,PT01M26.00S,1,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+75,73,PT01M09.00S,1,1610612739,CLE,198,Ferry,D. Ferry,73,233,24,Missed,1,0,0,0,v,MISS Ferry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+76,74,PT01M05.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+77,75,PT01M00.00S,1,1610612765,DET,688,Curry,M. Curry,144,-7,14,Missed,1,0,0,0,h,MISS Curry 14' Jump Shot,Missed Shot,Jump Shot,0,0
+78,76,PT00M58.40S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+79,77,PT00M57.50S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,Made,1,23,18,41,h,Curry  Layup (2 PTS) (Hill 2 AST),Made Shot,Layup Shot,0,0
+80,78,PT00M44.30S,1,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+81,79,PT00M44.30S,1,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,SUB: Reid FOR Thorpe,Substitution,,0,0
+82,80,PT00M44.30S,1,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,SUB: Potapenko FOR Hill,Substitution,,0,0
+83,81,PT00M44.30S,1,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,SUB: Phills FOR Brandon,Substitution,,0,0
+84,82,PT00M44.30S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,SUB: McKie FOR Hill,Substitution,,0,0
+85,83,PT00M24.90S,1,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,Hunter Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,0
+86,83,PT00M24.90S,1,1610612739,CLE,184,Phills,B. Phills,0,0,0,,0,0,0,0,v,Phills STEAL (1 STL),,,0,0
+87,84,PT00M06.70S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,Curry P.FOUL (P1.T2),Foul,Personal,0,0
+88,85,PT00M06.70S,1,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,SUB: Green FOR Hunter,Substitution,,0,0
+89,86,PT00M01.90S,1,1610612739,CLE,958,Potapenko,V. Potapenko,-144,192,24,Missed,1,0,0,0,v,MISS Potapenko 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+90,87,PT00M00.20S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+91,88,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,18,41,,End of 1st Period (36:07 PM EST),period,end,0,0
+92,89,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,18,41,,Start of 2nd Period (36:10 PM EST),period,start,0,0
+93,90,PT11M46.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,-70,2,7,Missed,1,0,0,0,v,MISS Potapenko 7' Hook Shot,Missed Shot,Hook Shot,0,0
+94,91,PT11M44.00S,2,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0,0,0,h,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+95,92,PT11M34.00S,2,1610612765,DET,243,McKie,A. McKie,205,123,24,Missed,1,0,0,0,h,MISS McKie 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+96,93,PT11M31.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+97,94,PT11M18.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,Made,1,23,20,43,v,Sura  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,0
+98,95,PT10M55.00S,2,1610612765,DET,690,Reid,D. Reid,88,0,9,Missed,1,0,0,0,h,MISS Reid 9' Hook Shot,Missed Shot,Hook Shot,0,0
+99,96,PT10M52.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+100,97,PT10M33.00S,2,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,Curry S.FOUL (P2.T1),Foul,Shooting,0,0
+101,98,PT10M33.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,23,21,44,v,Potapenko Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+102,99,PT10M33.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,23,22,45,v,Potapenko Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+103,100,PT10M15.00S,2,1610612765,DET,371,Mills,T. Mills,-203,-5,20,Missed,1,0,0,0,h,MISS Mills 20' Jump Shot,Missed Shot,Jump Shot,0,0
+104,101,PT10M13.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+105,102,PT10M05.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,Made,1,23,24,47,v,Sura  Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,0
+106,103,PT09M44.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,0
+107,104,PT09M31.00S,2,1610612765,DET,243,McKie,A. McKie,0,0,0,Missed,1,0,0,0,h,MISS McKie  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+108,105,PT09M30.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+109,106,PT09M15.00S,2,1610612739,CLE,168,Mills,C. Mills,77,231,24,Missed,1,0,0,0,v,MISS Mills 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+110,107,PT09M13.00S,2,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0,0,0,h,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+111,108,PT09M04.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura S.FOUL (P1.T1),Foul,Shooting,0,0
+112,109,PT09M04.00S,2,1610612765,DET,1036,Green,L. Green,0,0,0,,0,0,0,0,h,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+113,110,PT09M04.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+114,111,PT09M04.00S,2,1610612765,DET,1036,Green,L. Green,0,0,0,,0,24,24,48,h,Green Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+115,112,PT08M48.00S,2,1610612765,DET,1036,Green,L. Green,0,0,0,,0,0,0,0,h,Green P.FOUL (P1.T2),Foul,Personal,0,0
+116,113,PT08M48.00S,2,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,SUB: Lang FOR Mills,Substitution,,0,0
+117,114,PT08M42.00S,2,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,Curry P.FOUL (P3.T3),Foul,Personal,0,0
+118,115,PT08M42.00S,2,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,SUB: Hill FOR Curry,Substitution,,0,0
+119,116,PT08M42.00S,2,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0,0,0,h,SUB: Thorpe FOR Reid,Substitution,,0,0
+120,117,PT08M33.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,164,-1,16,Missed,1,0,0,0,v,MISS Potapenko 16' Jump Shot,Missed Shot,Jump Shot,0,0
+121,118,PT08M31.00S,2,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+122,119,PT08M14.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,0
+123,119,PT08M14.00S,2,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie STEAL (1 STL),,,0,0
+124,120,PT07M58.00S,2,1610612765,DET,1036,Green,L. Green,0,0,0,Missed,1,0,0,0,h,MISS Green  Layup,Missed Shot,Layup Shot,0,0
+125,120,PT07M58.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura BLOCK (1 BLK),,,0,0
+126,121,PT07M56.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+127,122,PT07M54.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,Missed,1,0,0,0,h,MISS Thorpe  Layup,Missed Shot,Layup Shot,0,0
+128,123,PT07M52.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+129,125,PT07M42.00S,2,1610612765,DET,1036,Green,L. Green,0,0,0,,0,0,0,0,h,Green P.FOUL (P2.T4),Foul,Personal,0,0
+130,124,PT07M42.00S,2,1610612765,DET,1036,Green,L. Green,0,0,0,,0,0,0,0,h,SUB: Hunter FOR Green,Substitution,,0,0
+131,126,PT07M27.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0
+132,126,PT07M27.00S,2,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0,0,0,h,Mills STEAL (1 STL),,,0,0
+133,127,PT07M27.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko P.FOUL (P1.T2),Foul,Personal,0,0
+134,128,PT07M13.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko P.FOUL (P2.T3),Foul,Personal,0,0
+135,129,PT07M03.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,Missed,1,0,0,0,h,MISS Thorpe  Layup,Missed Shot,Layup Shot,0,0
+136,130,PT07M00.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+137,131,PT06M59.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko Traveling Turnover (P2.T7),Turnover,Traveling,0,0
+138,132,PT06M59.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+139,133,PT06M59.00S,2,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,SUB: Hill FOR Ferry,Substitution,,0,0
+140,134,PT06M59.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,SUB: Brandon FOR Sura,Substitution,,0,0
+141,135,PT06M47.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,Made,1,26,24,50,h,Thorpe  Layup (4 PTS) (Mills 1 AST),Made Shot,Layup Shot,0,0
+142,136,PT06M29.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe S.FOUL (P1.PN),Foul,Shooting,0,0
+143,137,PT06M29.00S,2,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0,0,0,h,SUB: Ratliff FOR Mills,Substitution,,0,0
+144,138,PT06M29.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,26,25,51,v,Potapenko Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+145,139,PT06M29.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,26,26,52,v,Potapenko Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+146,140,PT06M08.00S,2,1610612765,DET,283,Hunter,L. Hunter,99,10,10,Missed,1,0,0,0,h,MISS Hunter 10' Jump Shot,Missed Shot,Jump Shot,0,0
+147,141,PT06M06.00S,2,1610612739,CLE,226,Lang,A. Lang,0,0,0,,0,0,0,0,v,Lang REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+148,142,PT05M53.00S,2,1610612739,CLE,184,Phills,B. Phills,0,0,0,Missed,1,0,0,0,v,MISS Phills  Layup,Missed Shot,Layup Shot,0,0
+149,143,PT05M51.00S,2,1610612739,CLE,184,Phills,B. Phills,0,0,0,,0,0,0,0,v,Phills REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+150,144,PT05M49.00S,2,1610612739,CLE,184,Phills,B. Phills,0,0,0,Made,1,26,28,54,v,Phills  Tip Shot (2 PTS),Made Shot,Tip Shot,0,0
+151,145,PT05M35.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,Made,1,28,28,56,h,Thorpe  Layup (6 PTS) (Hill 3 AST),Made Shot,Layup Shot,0,0
+152,148,PT05M17.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe Violation:Double Lane,Violation,Double Lane,0,0
+153,149,PT05M05.00S,2,1610612739,CLE,184,Phills,B. Phills,-109,26,11,Missed,1,0,0,0,v,MISS Phills 11' Jump Shot,Missed Shot,Jump Shot,0,0
+154,150,PT05M03.00S,2,1610612739,CLE,226,Lang,A. Lang,0,0,0,,0,0,0,0,v,Lang REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+155,151,PT05M01.00S,2,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,h,Ratliff S.FOUL (P1.PN),Foul,Shooting,0,0
+156,152,PT05M01.00S,2,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,MISS Hill Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+157,153,PT05M01.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+158,155,PT05M01.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe Violation:Jump Ball,Violation,Jump Ball,0,0
+159,163,PT05M01.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe Violation:Jump Ball,Violation,Jump Ball,0,0
+160,156,PT05M01.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Jump Ball Thorpe vs. Lang: Tip to Hunter,Jump Ball,,0,0
+161,157,PT04M52.00S,2,1610612739,CLE,226,Lang,A. Lang,0,0,0,,0,0,0,0,v,Lang Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0
+162,157,PT04M52.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe STEAL (1 STL),,,0,0
+163,158,PT04M49.00S,2,1610612739,CLE,226,Lang,A. Lang,0,0,0,,0,0,0,0,v,Lang S.FOUL (P1.T4),Foul,Shooting,0,0
+164,159,PT04M49.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,29,28,57,h,Hill Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+165,160,PT04M49.00S,2,1610612739,CLE,184,Phills,B. Phills,0,0,0,,0,0,0,0,v,SUB: Sura FOR Phills,Substitution,,0,0
+166,162,PT04M49.00S,2,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,SUB: Ferry FOR Potapenko,Substitution,,0,0
+167,161,PT04M49.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,30,28,58,h,Hill Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+168,164,PT04M28.00S,2,1610612739,CLE,238,Hill,T. Hill,0,0,0,Missed,1,0,0,0,v,MISS Hill  Layup,Missed Shot,Layup Shot,0,0
+169,164,PT04M28.00S,2,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,h,Ratliff BLOCK (1 BLK),,,0,0
+170,165,PT04M26.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+171,166,PT04M21.00S,2,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,Made,1,32,28,60,h,Ratliff  Layup (4 PTS) (Hill 4 AST),Made Shot,Layup Shot,0,0
+172,167,PT04M04.00S,2,1610612739,CLE,198,Ferry,D. Ferry,153,36,16,Made,1,32,30,62,v,Ferry 16' Jump Shot (2 PTS) (Brandon 3 AST),Made Shot,Jump Shot,0,0
+173,168,PT03M50.00S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,Made,1,34,30,64,h,Thorpe  Dunk (8 PTS) (Ratliff 1 AST),Made Shot,Dunk Shot,0,0
+174,169,PT03M32.00S,2,1610612739,CLE,210,Brandon,T. Brandon,-66,67,9,Missed,1,0,0,0,v,MISS Brandon 9' Jump Shot,Missed Shot,Jump Shot,0,0
+175,170,PT03M30.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+176,171,PT03M30.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,SUB: Curry FOR Hill,Substitution,,0,0
+177,172,PT03M30.00S,2,1610612739,CLE,226,Lang,A. Lang,0,0,0,,0,0,0,0,v,SUB: Mills FOR Lang,Substitution,,0,0
+178,173,PT03M27.00S,2,1610612739,CLE,198,Ferry,D. Ferry,138,21,14,Missed,1,0,0,0,v,MISS Ferry 14' Jump Shot,Missed Shot,Jump Shot,0,0
+179,174,PT03M26.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+180,175,PT03M15.00S,2,1610612739,CLE,210,Brandon,T. Brandon,-159,47,17,Missed,1,0,0,0,v,MISS Brandon 17' Jump Shot,Missed Shot,Jump Shot,0,0
+181,176,PT03M13.00S,2,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+182,177,PT03M09.00S,2,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+183,177,PT03M09.00S,2,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon STEAL (2 STL),,,0,0
+184,178,PT03M05.00S,2,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,Made,1,34,32,66,v,Brandon  Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+185,179,PT02M48.00S,2,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+186,179,PT02M48.00S,2,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon STEAL (3 STL),,,0,0
+187,180,PT02M45.00S,2,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,Made,1,34,34,68,v,Brandon  Layup (10 PTS),Made Shot,Layup Shot,0,0
+188,181,PT02M33.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+189,182,PT02M33.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+190,183,PT02M33.00S,2,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,SUB: Hill FOR McKie,Substitution,,0,0
+191,184,PT02M21.00S,2,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,h,Ratliff 3 Second Violation Turnover (P3.T9),Turnover,3 Second Violation,0,0
+192,185,PT02M05.00S,2,1610612739,CLE,210,Brandon,T. Brandon,-170,32,17,Missed,1,0,0,0,v,MISS Brandon 17' Jump Shot,Missed Shot,Jump Shot,0,0
+193,186,PT02M03.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+194,187,PT02M03.00S,2,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,Curry P.FOUL (P4.PN),Foul,Personal,0,0
+195,188,PT02M03.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,34,35,69,v,Sura Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+196,190,PT02M03.00S,2,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,SUB: McKie FOR Curry,Substitution,,0,0
+197,189,PT02M03.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,34,36,70,v,Sura Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+198,191,PT01M46.00S,2,1610612765,DET,255,Hill,G. Hill,-103,140,17,Made,1,36,36,72,h,Hill 17' Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+199,192,PT01M25.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Foul,Foul,Defense 3 Second,0,0
+200,193,PT01M25.00S,2,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,36,37,73,v,Brandon Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,0,0
+201,194,PT01M11.00S,2,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura Lost Ball Turnover (P4.T9),Turnover,Lost Ball,0,0
+202,195,PT00M54.90S,2,1610612765,DET,689,Ratliff,T. Ratliff,49,49,7,Missed,1,0,0,0,h,MISS Ratliff 7' Jump Shot,Missed Shot,Jump Shot,0,0
+203,196,PT00M52.00S,2,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,Mills REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+204,197,PT00M41.00S,2,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon OFF.Foul (P2),Foul,Offensive,0,0
+205,198,PT00M41.00S,2,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon Foul Turnover (P1.T10),Turnover,Foul,0,0
+206,199,PT00M41.00S,2,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,h,SUB: Mills FOR Ratliff,Substitution,,0,0
+207,200,PT00M28.90S,2,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0
+208,200,PT00M28.90S,2,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,Mills STEAL (1 STL),,,0,0
+209,201,PT00M23.90S,2,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0
+210,201,PT00M23.90S,2,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe STEAL (2 STL),,,0,0
+211,202,PT00M20.50S,2,1610612765,DET,243,McKie,A. McKie,0,0,0,Made,1,38,37,75,h,McKie  Dunk (2 PTS) (Thorpe 1 AST),Made Shot,Dunk Shot,0,0
+212,203,PT00M01.90S,2,1610612739,CLE,198,Ferry,D. Ferry,179,6,18,Missed,1,0,0,0,v,MISS Ferry 18' Jump Shot,Missed Shot,Jump Shot,0,0
+213,204,PT00M00.20S,2,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,Mills REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+214,205,PT00M00.20S,2,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie P.FOUL (P2.PN),Foul,Personal,0,0
+215,206,PT00M00.20S,2,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,38,38,76,v,Mills Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+216,207,PT00M00.20S,2,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,SUB: Lang FOR Brandon,Substitution,,0,0
+217,208,PT00M00.20S,2,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,38,39,77,v,Mills Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+218,209,PT00M00.20S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,Missed,1,0,0,0,h,MISS Hill  Tip Shot,Missed Shot,Tip Shot,0,0
+219,210,PT00M00.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+220,211,PT00M00.00S,2,0,,0,,,0,0,0,,0,38,39,77,,End of 2nd Period (36:39 PM EST),period,end,0,0
+221,212,PT12M00.00S,3,0,,0,,,0,0,0,,0,38,39,77,,Start of 3rd Period (36:55 PM EST),period,start,0,0
+222,213,PT11M40.00S,3,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0
+223,213,PT11M40.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill STEAL (1 STL),,,0,0
+224,214,PT11M38.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe Traveling Turnover (P2.T11),Turnover,Traveling,0,0
+225,215,PT11M27.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,Hunter P.FOUL (P2.T1),Foul,Personal,0,0
+226,216,PT11M16.00S,3,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie S.FOUL (P3.T2),Foul,Shooting,0,0
+227,217,PT11M16.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+228,218,PT11M16.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+229,219,PT11M16.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,MISS Hill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+230,220,PT11M15.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+231,221,PT11M05.00S,3,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,Mills Violation:Double Lane,Violation,Double Lane,0,0
+232,222,PT10M48.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0
+233,223,PT10M28.00S,3,1610612739,CLE,210,Brandon,T. Brandon,23,244,25,Made,1,38,42,80,v,Brandon 25' 3PT Jump Shot (14 PTS) (Sura 2 AST),Made Shot,Jump Shot,0,0
+234,224,PT10M12.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0
+235,224,PT10M12.00S,3,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry STEAL (1 STL),,,0,0
+236,225,PT10M03.00S,3,1610612739,CLE,198,Ferry,D. Ferry,1,253,25,Missed,1,0,0,0,v,MISS Ferry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+237,226,PT10M00.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+238,227,PT09M59.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,0
+239,228,PT09M39.00S,3,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0
+240,229,PT09M25.00S,3,1610612765,DET,255,Hill,G. Hill,-133,39,14,Missed,1,0,0,0,h,MISS Hill 14' Jump Shot,Missed Shot,Jump Shot,0,0
+241,230,PT09M23.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+242,231,PT09M07.00S,3,1610612739,CLE,168,Mills,C. Mills,-77,142,16,Missed,1,0,0,0,v,MISS Mills 16' Jump Shot,Missed Shot,Jump Shot,0,0
+243,232,PT09M05.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+244,233,PT08M57.00S,3,1610612765,DET,255,Hill,G. Hill,-101,114,15,Missed,1,0,0,0,h,MISS Hill 15' Jump Shot,Missed Shot,Jump Shot,0,0
+245,234,PT08M55.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+246,235,PT08M33.00S,3,1610612739,CLE,238,Hill,T. Hill,34,47,6,Made,1,38,44,82,v,Hill 6' Hook Shot (2 PTS) (Ferry 3 AST),Made Shot,Hook Shot,0,0
+247,236,PT08M14.00S,3,1610612765,DET,243,McKie,A. McKie,162,10,16,Missed,1,0,0,0,h,MISS McKie 16' Jump Shot,Missed Shot,Jump Shot,0,0
+248,237,PT08M11.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+249,238,PT08M04.00S,3,1610612739,CLE,168,Mills,C. Mills,71,88,11,Made,1,38,46,84,v,Mills 11' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+250,239,PT08M02.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+251,240,PT08M02.00S,3,1610612765,DET,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,h,SUB: Mills FOR Ratliff,Substitution,,0,0
+252,241,PT07M41.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0,0,0,h,Mills Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0
+253,241,PT07M41.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill STEAL (1 STL),,,0,0
+254,242,PT07M37.00S,3,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie P.FOUL (P4.T3),Foul,Personal,0,0
+255,243,PT07M26.00S,3,1610612739,CLE,682,Sura,B. Sura,-99,214,24,Missed,1,0,0,0,v,MISS Sura 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+256,244,PT07M24.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0,0,0,h,Mills REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+257,245,PT07M12.00S,3,1610612765,DET,283,Hunter,L. Hunter,138,8,14,Missed,1,0,0,0,h,MISS Hunter 14' Jump Shot,Missed Shot,Jump Shot,0,0
+258,246,PT07M10.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+259,247,PT06M45.00S,3,1610612739,CLE,238,Hill,T. Hill,45,39,6,Made,1,38,48,86,v,Hill 6' Hook Shot (4 PTS),Made Shot,Hook Shot,0,0
+260,248,PT06M27.00S,3,1610612765,DET,255,Hill,G. Hill,-125,2,13,Missed,1,0,0,0,h,MISS Hill 13' Jump Shot,Missed Shot,Jump Shot,0,0
+261,249,PT06M24.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+262,250,PT06M13.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,Hunter S.FOUL (P3.T4),Foul,Shooting,0,0
+263,251,PT06M13.00S,3,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,38,49,87,v,Brandon Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+264,252,PT06M13.00S,3,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,38,50,88,v,Brandon Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+265,253,PT06M00.00S,3,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry S.FOUL (P1.T1),Foul,Shooting,0,0
+266,254,PT06M00.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,MISS Thorpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+267,255,PT06M00.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+268,256,PT06M00.00S,3,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,SUB: Williams FOR McKie,Substitution,,0,0
+269,257,PT06M00.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,39,50,89,h,Thorpe Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+270,258,PT05M44.00S,3,1610612739,CLE,210,Brandon,T. Brandon,131,49,14,Made,1,39,52,91,v,Brandon 14' Jump Shot (18 PTS),Made Shot,Jump Shot,0,0
+271,259,PT05M26.00S,3,1610612765,DET,283,Hunter,L. Hunter,118,214,24,Missed,1,0,0,0,h,MISS Hunter 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+272,260,PT05M23.00S,3,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+273,261,PT05M09.00S,3,1610612739,CLE,198,Ferry,D. Ferry,162,2,16,Missed,1,0,0,0,v,MISS Ferry 16' Jump Shot,Missed Shot,Jump Shot,0,0
+274,262,PT05M06.00S,3,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+275,263,PT04M48.00S,3,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry P.FOUL (P2.T2),Foul,Personal,0,0
+276,264,PT04M37.00S,3,1610612765,DET,966,Williams,J. Williams,0,0,0,Missed,1,0,0,0,h,MISS Williams  Layup,Missed Shot,Layup Shot,0,0
+277,265,PT04M35.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+278,266,PT04M22.00S,3,1610612739,CLE,210,Brandon,T. Brandon,71,251,26,Missed,1,0,0,0,v,MISS Brandon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+279,267,PT04M19.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0,0,0,h,Mills REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+280,268,PT04M15.00S,3,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0,0,0,h,Williams Traveling Turnover (P1.T16),Turnover,Traveling,0,0
+281,269,PT03M54.00S,3,1610612739,CLE,198,Ferry,D. Ferry,155,0,16,Made,1,39,54,93,v,Ferry 16' Jump Shot (4 PTS) (Sura 3 AST),Made Shot,Jump Shot,0,0
+282,270,PT03M42.00S,3,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,Mills S.FOUL (P2.T3),Foul,Shooting,0,0
+283,271,PT03M42.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,40,54,94,h,Thorpe Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+284,272,PT03M42.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,SUB: Green FOR Hill,Substitution,,0,0
+285,273,PT03M42.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,41,54,95,h,Thorpe Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+286,274,PT03M27.00S,3,1610612739,CLE,198,Ferry,D. Ferry,-239,21,24,Missed,1,0,0,0,v,MISS Ferry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+287,275,PT03M24.00S,3,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+288,276,PT03M18.00S,3,1610612739,CLE,198,Ferry,D. Ferry,71,69,10,Missed,1,0,0,0,v,MISS Ferry 10' Jump Shot,Missed Shot,Jump Shot,0,0
+289,277,PT03M16.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,Hunter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+290,278,PT03M13.00S,3,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon P.FOUL (P3.T4),Foul,Personal,0,0
+291,279,PT03M13.00S,3,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,SUB: Long FOR Thorpe,Substitution,,0,0
+292,280,PT03M13.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,SUB: Hill FOR Hunter,Substitution,,0,0
+293,281,PT03M05.00S,3,1610612765,DET,255,Hill,G. Hill,-125,65,14,Missed,1,0,0,0,h,MISS Hill 14' Jump Shot,Missed Shot,Jump Shot,0,0
+294,282,PT03M03.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+295,283,PT03M03.00S,3,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,SUB: Phills FOR Brandon,Substitution,,0,0
+296,284,PT02M54.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+297,285,PT02M44.00S,3,1610612765,DET,255,Hill,G. Hill,-77,78,11,Missed,1,0,0,0,h,MISS Hill 11' Jump Shot,Missed Shot,Jump Shot,0,0
+298,286,PT02M40.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0,0,0,h,Mills REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+299,287,PT02M39.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,Missed,1,0,0,0,h,MISS Mills  Layup,Missed Shot,Layup Shot,0,0
+300,288,PT02M38.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:9),Rebound,Unknown,0,0
+301,289,PT02M28.00S,3,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura Bad Pass Turnover (P5.T14),Turnover,Bad Pass,0,0
+302,289,PT02M28.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill STEAL (2 STL),,,0,0
+303,290,PT02M24.00S,3,1610612765,DET,1036,Green,L. Green,0,0,0,Made,1,43,54,97,h,Green  Layup (3 PTS) (Hill 5 AST),Made Shot,Layup Shot,0,0
+304,291,PT02M08.00S,3,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura Bad Pass Turnover (P6.T15),Turnover,Bad Pass,0,0
+305,291,PT02M08.00S,3,1610612765,DET,1036,Green,L. Green,0,0,0,,0,0,0,0,h,Green STEAL (1 STL),,,0,0
+306,292,PT02M04.00S,3,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,Mills S.FOUL (P3.PN),Foul,Shooting,0,0
+307,293,PT02M04.00S,3,1610612765,DET,1036,Green,L. Green,0,0,0,,0,44,54,98,h,Green Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+308,295,PT02M04.00S,3,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,SUB: Brandon FOR Sura,Substitution,,0,0
+309,294,PT02M04.00S,3,1610612765,DET,1036,Green,L. Green,0,0,0,,0,45,54,99,h,Green Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+310,296,PT01M51.00S,3,1610612739,CLE,198,Ferry,D. Ferry,166,-3,17,Made,1,45,56,101,v,Ferry 17' Jump Shot (6 PTS) (Brandon 4 AST),Made Shot,Jump Shot,0,0
+311,297,PT01M34.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,Made,1,47,56,103,h,Long  Layup (2 PTS) (Hill 6 AST),Made Shot,Layup Shot,0,0
+312,298,PT01M14.00S,3,1610612739,CLE,184,Phills,B. Phills,-166,4,17,Made,1,47,58,105,v,Phills 17' Jump Shot (4 PTS) (Mills 1 AST),Made Shot,Jump Shot,0,0
+313,299,PT01M02.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,0,0,0,h,Long OFF.Foul (P1),Foul,Offensive,0,0
+314,300,PT01M02.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,0,0,0,h,Long Foul Turnover (P1.T17),Turnover,Foul,0,0
+315,301,PT01M02.00S,3,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,SUB: Potapenko FOR Hill,Substitution,,0,0
+316,302,PT00M47.20S,3,1610612739,CLE,198,Ferry,D. Ferry,-172,-7,17,Made,1,47,60,107,v,Ferry 17' Jump Shot (8 PTS) (Phills 1 AST),Made Shot,Jump Shot,0,0
+317,303,PT00M35.30S,3,1610612765,DET,1036,Green,L. Green,0,0,0,,0,0,0,0,h,Green Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0
+318,304,PT00M20.90S,3,1610612739,CLE,210,Brandon,T. Brandon,-10,145,15,Made,1,47,62,109,v,Brandon 15' Jump Shot (20 PTS),Made Shot,Jump Shot,0,0
+319,305,PT00M03.80S,3,1610612765,DET,966,Williams,J. Williams,0,0,0,Made,1,49,62,111,h,Williams  Layup (2 PTS) (Hill 7 AST),Made Shot,Layup Shot,0,0
+320,306,PT00M01.00S,3,1610612739,CLE,210,Brandon,T. Brandon,177,210,27,Missed,1,0,0,0,v,MISS Brandon 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+321,307,PT00M00.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+322,308,PT00M00.00S,3,0,,0,,,0,0,0,,0,49,62,111,,End of 3rd Period (37:20 PM EST),period,end,0,0
+323,309,PT12M00.00S,4,0,,0,,,0,0,0,,0,49,62,111,,Start of 4th Period (37:22 PM EST),period,start,0,0
+324,310,PT11M47.00S,4,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko P.FOUL (P3.T1),Foul,Personal,0,0
+325,311,PT11M37.00S,4,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie OFF.Foul (P5),Foul,Offensive,0,0
+326,312,PT11M37.00S,4,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie Foul Turnover (P4.T19),Turnover,Foul,0,0
+327,313,PT11M22.00S,4,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0
+328,313,PT11M22.00S,4,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,McKie STEAL (2 STL),,,0,0
+329,314,PT11M19.00S,4,1610612765,DET,243,McKie,A. McKie,0,0,0,Made,1,51,62,113,h,McKie  Layup (4 PTS),Made Shot,Layup Shot,0,0
+330,315,PT10M59.00S,4,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,SUB: Hill FOR Ferry,Substitution,,0,0
+331,316,PT10M53.00S,4,1610612739,CLE,210,Brandon,T. Brandon,-90,49,10,Missed,1,0,0,0,v,MISS Brandon 10' Jump Shot,Missed Shot,Jump Shot,0,0
+332,317,PT10M50.00S,4,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+333,318,PT10M33.00S,4,1610612739,CLE,168,Mills,C. Mills,138,52,15,Missed,1,0,0,0,v,MISS Mills 15' Jump Shot,Missed Shot,Jump Shot,0,0
+334,319,PT10M30.00S,4,1610612739,CLE,184,Phills,B. Phills,0,0,0,,0,0,0,0,v,Phills REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+335,320,PT10M28.00S,4,1610612739,CLE,184,Phills,B. Phills,-105,60,12,Made,1,51,64,115,v,Phills 12' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+336,321,PT10M09.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,Missed,1,0,0,0,h,MISS Williams  Layup,Missed Shot,Layup Shot,0,0
+337,322,PT10M07.00S,4,1610612765,DET,3,Long,G. Long,0,0,0,,0,0,0,0,h,Long REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+338,323,PT10M02.00S,4,1610612765,DET,243,McKie,A. McKie,-229,69,24,Missed,1,0,0,0,h,MISS McKie 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+339,324,PT10M01.00S,4,1610612765,DET,3,Long,G. Long,0,0,0,,0,0,0,0,h,Long REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+340,325,PT10M01.00S,4,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,Potapenko L.B.FOUL (P4.T2),Foul,Loose Ball,0,0
+341,326,PT10M01.00S,4,1610612765,DET,243,McKie,A. McKie,0,0,0,,0,0,0,0,h,SUB: Curry FOR McKie,Substitution,,0,0
+342,327,PT10M01.00S,4,1610612739,CLE,958,Potapenko,V. Potapenko,0,0,0,,0,0,0,0,v,SUB: Ferry FOR Potapenko,Substitution,,0,0
+343,328,PT09M44.00S,4,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,Thorpe Bad Pass Turnover (P5.T20),Turnover,Bad Pass,0,0
+344,328,PT09M44.00S,4,1610612739,CLE,184,Phills,B. Phills,0,0,0,,0,0,0,0,v,Phills STEAL (2 STL),,,0,0
+345,329,PT09M39.00S,4,1610612739,CLE,238,Hill,T. Hill,0,0,0,Made,1,51,66,117,v,Hill  Dunk (6 PTS) (Brandon 5 AST),Made Shot,Dunk Shot,0,0
+346,330,PT09M16.00S,4,1610612765,DET,283,Hunter,L. Hunter,0,0,0,Made,1,53,66,119,h,Hunter  Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+347,331,PT08M54.00S,4,1610612739,CLE,184,Phills,B. Phills,203,132,24,Made,1,53,69,122,v,Phills 24' 3PT Jump Shot (9 PTS) (Brandon 6 AST),Made Shot,Jump Shot,0,0
+348,332,PT08M40.00S,4,1610612765,DET,901,Thorpe,O. Thorpe,0,0,0,,0,0,0,0,h,SUB: Mills FOR Thorpe,Substitution,,0,0
+349,333,PT08M40.00S,4,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill P.FOUL (P1.T3),Foul,Personal,0,0
+350,334,PT08M26.00S,4,1610612739,CLE,184,Phills,B. Phills,0,0,0,,0,0,0,0,v,Phills S.FOUL (P1.T4),Foul,Shooting,0,0
+351,335,PT08M26.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,MISS Curry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+352,336,PT08M26.00S,4,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+353,337,PT08M26.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,54,69,123,h,Curry Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+354,338,PT08M15.00S,4,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Foul,Foul,Defense 3 Second,0,0
+355,339,PT08M15.00S,4,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,54,70,124,v,Brandon Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,0
+356,340,PT08M06.00S,4,1610612739,CLE,168,Mills,C. Mills,-166,0,17,Made,1,54,72,126,v,Mills 17' Jump Shot (11 PTS) (Brandon 7 AST),Made Shot,Jump Shot,0,0
+357,341,PT07M40.00S,4,1610612765,DET,283,Hunter,L. Hunter,-164,2,16,Missed,1,0,0,0,h,MISS Hunter 16' Jump Shot,Missed Shot,Jump Shot,0,0
+358,342,PT07M38.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+359,343,PT07M38.00S,4,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,Mills S.FOUL (P4.PN),Foul,Shooting,0,0
+360,344,PT07M38.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,55,72,127,h,Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+361,345,PT07M38.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,56,72,128,h,Williams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+362,346,PT07M25.00S,4,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry OFF.Foul (P3),Foul,Offensive,0,0
+363,347,PT07M25.00S,4,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry Foul Turnover (P2.T17),Turnover,Foul,0,0
+364,348,PT07M11.00S,4,1610612765,DET,371,Mills,T. Mills,0,0,0,Missed,1,0,0,0,h,MISS Mills  Layup,Missed Shot,Layup Shot,0,0
+365,349,PT07M09.00S,4,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+366,350,PT06M58.00S,4,1610612739,CLE,198,Ferry,D. Ferry,164,-5,16,Missed,1,0,0,0,v,MISS Ferry 16' Jump Shot,Missed Shot,Jump Shot,0,0
+367,351,PT06M54.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+368,352,PT06M46.00S,4,1610612765,DET,688,Curry,M. Curry,120,214,25,Missed,1,0,0,0,h,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+369,353,PT06M44.00S,4,1610612739,CLE,184,Phills,B. Phills,0,0,0,,0,0,0,0,v,Phills REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+370,354,PT06M20.00S,4,1610612739,CLE,168,Mills,C. Mills,222,103,24,Missed,1,0,0,0,v,MISS Mills 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+371,355,PT06M18.00S,4,1610612765,DET,3,Long,G. Long,0,0,0,,0,0,0,0,h,Long REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+372,356,PT06M11.00S,4,1610612739,CLE,184,Phills,B. Phills,0,0,0,,0,0,0,0,v,Phills P.FOUL (P2.PN),Foul,Personal,0,0
+373,357,PT06M11.00S,4,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+374,358,PT06M11.00S,4,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0,0,0,h,SUB: Green FOR Hunter,Substitution,,0,0
+375,359,PT06M11.00S,4,1610612739,CLE,184,Phills,B. Phills,0,0,0,,0,0,0,0,v,SUB: Sura FOR Phills,Substitution,,0,0
+376,360,PT06M11.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,57,72,129,h,Curry Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+377,361,PT06M11.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,58,72,130,h,Curry Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+378,362,PT05M49.00S,4,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0,0,0,h,Mills P.FOUL (P1.T1),Foul,Personal,0,0
+379,363,PT05M30.00S,4,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,Made,1,58,74,132,v,Ferry  Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+380,364,PT05M15.00S,4,1610612765,DET,371,Mills,T. Mills,-170,-3,17,Made,1,60,74,134,h,Mills 17' Jump Shot (5 PTS),Made Shot,Jump Shot,0,0
+381,365,PT05M00.00S,4,1610612765,DET,3,Long,G. Long,0,0,0,,0,0,0,0,h,Long S.FOUL (P2.T2),Foul,Shooting,0,0
+382,366,PT05M00.00S,4,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+383,368,PT05M00.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+384,367,PT05M00.00S,4,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,MISS Hill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+385,369,PT05M00.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+386,370,PT04M48.00S,4,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,,0,0,0,0,v,Ferry S.FOUL (P4.PN),Foul,Shooting,0,0
+387,371,PT04M48.00S,4,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,61,74,135,h,Mills Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+388,372,PT04M48.00S,4,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,62,74,136,h,Mills Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+389,373,PT04M34.00S,4,1610612739,CLE,198,Ferry,D. Ferry,157,-3,16,Missed,1,0,0,0,v,MISS Ferry 16' Jump Shot,Missed Shot,Jump Shot,0,0
+390,374,PT04M31.00S,4,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+391,375,PT04M07.00S,4,1610612739,CLE,682,Sura,B. Sura,-166,186,25,Made,1,62,77,139,v,Sura 25' 3PT Jump Shot (16 PTS) (Mills 2 AST),Made Shot,Jump Shot,0,0
+392,376,PT03M54.00S,4,1610612765,DET,3,Long,G. Long,-194,160,25,Missed,1,0,0,0,h,MISS Long 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+393,377,PT03M51.00S,4,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,,0,0,0,0,v,Brandon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+394,378,PT03M31.00S,4,1610612739,CLE,198,Ferry,D. Ferry,179,162,24,Missed,1,0,0,0,v,MISS Ferry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+395,379,PT03M27.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+396,380,PT03M15.00S,4,1610612765,DET,371,Mills,T. Mills,-153,186,24,Made,1,65,77,142,h,Mills 24' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+397,381,PT03M15.00S,4,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill S.FOUL (P2.PN),Foul,Shooting,0,0
+398,382,PT03M15.00S,4,1610612765,DET,3,Long,G. Long,0,0,0,,0,0,0,0,h,SUB: Reid FOR Long,Substitution,,0,0
+399,383,PT03M15.00S,4,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,66,77,143,h,Mills Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0
+400,384,PT02M58.00S,4,1610612739,CLE,198,Ferry,D. Ferry,-185,-14,19,Missed,1,0,0,0,v,MISS Ferry 19' Jump Shot,Missed Shot,Jump Shot,0,0
+401,385,PT02M56.00S,4,1610612739,CLE,682,Sura,B. Sura,0,0,0,,0,0,0,0,v,Sura REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+402,386,PT02M40.00S,4,1610612739,CLE,210,Brandon,T. Brandon,0,0,0,Made,1,66,79,145,v,Brandon  Driving Layup (23 PTS),Made Shot,Driving Layup Shot,0,0
+403,387,PT02M23.00S,4,1610612765,DET,688,Curry,M. Curry,-161,69,18,Missed,1,0,0,0,h,MISS Curry 18' Jump Shot,Missed Shot,Jump Shot,0,0
+404,388,PT02M21.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+405,389,PT02M21.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0,0,0,h,Reid L.B.FOUL (P1.T3),Foul,Loose Ball,0,0
+406,390,PT02M21.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+407,391,PT02M05.00S,4,1610612739,CLE,198,Ferry,D. Ferry,0,0,0,Made,1,66,81,147,v,Ferry  Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,0
+408,392,PT01M44.00S,4,1610612765,DET,688,Curry,M. Curry,-192,32,19,Made,1,68,81,149,h,Curry 19' Jump Shot (7 PTS) (Mills 2 AST),Made Shot,Jump Shot,0,0
+409,393,PT01M28.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,Curry S.FOUL (P5.T4),Foul,Shooting,0,0
+410,394,PT01M28.00S,4,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,0,0,0,v,MISS Mills Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+411,395,PT01M28.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+412,396,PT01M28.00S,4,1610612739,CLE,168,Mills,C. Mills,0,0,0,,0,68,82,150,v,Mills Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+413,397,PT01M23.00S,4,1610612739,CLE,238,Hill,T. Hill,0,0,0,,0,0,0,0,v,Hill S.FOUL (P3.PN),Foul,Shooting,0,0
+414,398,PT01M23.00S,4,1610612765,DET,1036,Green,L. Green,0,0,0,,0,69,82,151,h,Green Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+415,399,PT01M23.00S,4,1610612765,DET,1036,Green,L. Green,0,0,0,,0,70,82,152,h,Green Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+416,400,PT01M13.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0
+417,401,PT00M59.90S,4,1610612739,CLE,682,Sura,B. Sura,-109,212,24,Missed,1,0,0,0,v,MISS Sura 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+418,402,PT00M57.50S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0,0,0,h,Curry REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+419,403,PT00M51.60S,4,1610612765,DET,371,Mills,T. Mills,58,236,24,Made,1,73,82,155,h,Mills 24' 3PT Jump Shot (14 PTS) (Green 1 AST),Made Shot,Jump Shot,0,0
+420,404,PT00M35.90S,4,1610612739,CLE,682,Sura,B. Sura,0,0,0,Missed,1,0,0,0,v,MISS Sura  Layup,Missed Shot,Layup Shot,0,0
+421,405,PT00M32.80S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0,0,0,h,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+422,406,PT00M23.90S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,Made,1,75,82,157,h,Curry  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,0
+423,407,PT00M00.00S,4,0,,0,,,0,0,0,,0,75,82,157,,End of 4th Period (37:50 PM EST),period,end,0,0
