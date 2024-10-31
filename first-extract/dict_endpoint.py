@@ -22,6 +22,10 @@ nba_endpoints_player = {
                 "MeasureType": "Base",
                 "Season": None,
                 "SeasonType": None,
+                "Period": 0,
+                "OpponentTeamID": 0,
+                "Month": 0,
+                "LastNGames": 0,
             }
         },
         "advanced": {
