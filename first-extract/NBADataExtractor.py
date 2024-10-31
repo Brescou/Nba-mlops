@@ -6,6 +6,7 @@ import time
 
 import pandas as pd
 import requests
+from numpy.distutils.conv_template import header
 from tqdm import tqdm
 
 from params import NBAParams
@@ -180,41 +181,71 @@ class NBADataExtractor:
             regular_season_df['processed'] = False
         if 'processed' not in playoffs_df.columns:
             playoffs_df['processed'] = False
+        not_processed_regular_season_df = regular_season_df[~regular_season_df['processed']]
+        not_processed_playoffs_df = playoffs_df[~playoffs_df['processed']]
         logging.info("Starting play-by-play extraction for regular season games...")
-        logging.info(f"Total regular season games before filtering: {len(regular_season_df)}")
-        regular_season_df = regular_season_df[~regular_season_df['processed']]
-        logging.info(f"Total regular season games to process: {len(regular_season_df)}")
-        logging.info(f"Total playoff games before filtering: {len(playoffs_df)}")
-        playoffs_df = playoffs_df[~playoffs_df['processed']]
-        logging.info(f"Total playoff games to process: {len(playoffs_df)}")
-        with tqdm(total=len(regular_season_df), desc="Regular Season Extraction") as pbar:
-            for index, row in regular_season_df.iterrows():
+        logging.info(f"Total regular season games to process: {len(not_processed_regular_season_df)}")
+        with tqdm(total=len(not_processed_regular_season_df), desc="Regular Season Extraction") as pbar:
+            for index, row in not_processed_regular_season_df.iterrows():
                 game_id = row['GAME_ID']
                 season = row['SEASON_YEAR']
                 pbar.set_postfix({'game_id': game_id})
                 self.save_play_by_play_to_csv(season, game_id, 'regular_season')
                 pbar.update(1)
-                regular_season_df.loc[index, 'processed'] = True
+                regular_season_df.loc[regular_season_df['GAME_ID'] == game_id, 'processed'] = True
                 regular_season_df.to_csv("data/game/regular_season_game_logs.csv", index=False)
                 time.sleep(self.delay)
-
         logging.info("Finished extracting regular season play-by-play.")
         logging.info("Starting play-by-play extraction for playoff games...")
-        with tqdm(total=len(playoffs_df), desc="Playoff Extraction") as pbar:
-            for index, row in playoffs_df.iterrows():
+        logging.info(f"Total playoff games to process: {len(not_processed_playoffs_df)}")
+        with tqdm(total=len(not_processed_playoffs_df), desc="Playoff Extraction") as pbar:
+            for index, row in not_processed_playoffs_df.iterrows():
                 game_id = row['GAME_ID']
                 season = row['SEASON_YEAR']
                 pbar.set_postfix({'game_id': game_id})
                 self.save_play_by_play_to_csv(season, game_id, 'playoffs')
                 pbar.update(1)
-                playoffs_df.loc[index, 'processed'] = True
+                playoffs_df.loc[playoffs_df['GAME_ID'] == game_id, 'processed'] = True
                 playoffs_df.to_csv("data/game/playoffs_game_logs.csv", index=False)
                 time.sleep(self.delay)
-
         logging.info("Finished extracting playoff play-by-play.")
+
+    def fetch_player_bios(self):
+        endpoint = "player_bios"
+        params = self.endpoints[endpoint]["params"].copy()
+        player_data = self.fetch_data(endpoint, params)
+
+        if player_data and "resultSets" in player_data:
+            headers = player_data["resultSets"][0]["headers"]
+            rows = player_data["resultSets"][0]["rowSet"]
+            df_player_bios = pd.DataFrame(rows, columns=headers)
+            df_player_bios.to_csv("data/player_bios.csv", index=False)
+            logging.info("Player bios saved to data/player_bios.csv")
+        else:
+            logging.error("No player bios found.")
 
     def close_session(self):
         self.session.close()
+
+    @staticmethod
+    def update_processed_status(season_type="Regular Season"):
+        log_file = f"data/game/{season_type.lower().replace(' ', '_')}_game_logs.csv"
+        if os.path.exists(log_file):
+            df = pd.read_csv(log_file, dtype={'GAME_ID': str})
+            for index, row in df.iterrows():
+                game_id = row['GAME_ID']
+                season_year = row['SEASON_YEAR']
+                season_folder = f"data/game/{season_year}/{season_type.lower().replace(' ', '_')}"
+                expected_file_path = os.path.join(season_folder, f"{game_id}.csv")
+                if os.path.exists(expected_file_path):
+                    df.at[index, 'processed'] = True
+                else:
+                    df.at[index, 'processed'] = False
+            df.to_csv(log_file, index=False)
+            logging.info(f"Updated processed status in {log_file}")
+        else:
+            logging.error(f"File {log_file} not found.")
+            return
 
 
 class ForbiddenError(Exception):
