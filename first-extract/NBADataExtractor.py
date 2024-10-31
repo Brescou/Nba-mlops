@@ -7,7 +7,6 @@ import time
 import pandas as pd
 import requests
 from fake_useragent import UserAgent
-from numpy.distutils.conv_template import header
 from tqdm import tqdm
 
 from params import NBAParams

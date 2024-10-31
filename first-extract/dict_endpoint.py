@@ -18,6 +18,7 @@ nba_endpoints_player = {
     "general": {
         "traditional": {
             "url": "leaguedashplayerstats",
+            # https://stats.nba.com/stats/leaguedashplayerstats?College=&Conference=&Country=&DateFrom=&DateTo=&Division=&DraftPick=&DraftYear=&GameScope=&GameSegment=&Height=&ISTRound=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season=2024-25&SeasonSegment=&SeasonType=Regular%20Season&ShotClockRange=&StarterBench=&TeamID=0&VsConference=&VsDivision=&Weight=
             "params": {
                 "MeasureType": "Base",
                 "Season": None,
@@ -26,6 +27,33 @@ nba_endpoints_player = {
                 "OpponentTeamID": 0,
                 "Month": 0,
                 "LastNGames": 0,
+                "GameScope": "",
+                "GameSegment": "",
+                "Location": "",
+                "PlayerExperience": "",
+                "PlayerPosition": "",
+                "StarterBench": "",
+                "DraftYear": "",
+                "DraftPick": "",
+                "College": "",
+                "Country": "",
+                "Height": "",
+                "Weight": "",
+                "Conference": "",
+                "Division": "",
+                "LeagueID": "00",
+                "TeamID": 0,
+                "VsConference": "",
+                "VsDivision": "",
+                "PORound": 0,
+                "Outcome": "",
+                "DateFrom": "",
+                "DateTo": "",
+                "PaceAdjust": "N",
+                "PerMode": "PerGame",
+                "PlusMinus": "N",
+                "Rank": "N",
+                "ShotClockRange": "",
             }
         },
         "advanced": {
