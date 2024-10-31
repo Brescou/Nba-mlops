@@ -224,6 +224,58 @@ class NBADataExtractor:
         else:
             logging.error("No player bios found.")
 
+    def fetch_endpoint_data(self, endpoint, sub_endpoint, params):
+        if endpoint not in self.endpoints or sub_endpoint not in self.endpoints[endpoint]:
+            logging.error(f"Endpoint {endpoint}/{sub_endpoint} not found in endpoints.")
+            return None
+        url = NBAParams.build_url(self.endpoints[endpoint][sub_endpoint])
+        response = None
+        try:
+            response = self.session.get(url, params=params, timeout=self.timeout)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.Timeout:
+            logging.error(f"Timeout occurred with parameters {params}. Terminating program.")
+            sys.exit(1)
+        except requests.exceptions.HTTPError as e:
+            if response and response.status_code == 503:
+                logging.error(f"503 Server Error for parameters {params}. Terminating program.")
+                sys.exit(1)
+            else:
+                logging.error(f"HTTP Error occurred: {e}")
+                return None
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Request Error occurred: {e}")
+            return None
+
+    def fetch_player_stats(self, endpoint, sub_endpoint, season, season_type=None, **kwargs):
+        params = self.endpoints[endpoint][sub_endpoint]["params"].copy()
+        params["Season"] = season
+        params["SeasonType"] = season_type if season_type else self.season_type
+        for key, value in kwargs.items():
+            params[key] = value
+        player_stats = self.fetch_endpoint_data(endpoint, sub_endpoint, params)
+        if player_stats and "resultSets" in player_stats:
+            headers = player_stats["resultSets"][0]["headers"]
+            rows = player_stats["resultSets"][0]["rowSet"]
+            season_folder = f"data/player/{endpoint}/{sub_endpoint}/{season}/{season_type.lower().replace(' ', '_')}"
+            os.makedirs(season_folder, exist_ok=True)
+            for row in rows:
+                player_id = row[0]
+                player_file_path = os.path.join(season_folder, f"{player_id}.csv")
+                player_data = pd.DataFrame([row], columns=headers)
+                player_data.to_csv(player_file_path, index=False)
+                logging.info(f"Saved stats for player {player_id} in {player_file_path}")
+        else:
+            logging.error(f"No player stats found for {season}.")
+
+    def fetch_stats_for_multiple_seasons(self, endpoint, sub_endpoint, start_season, end_season, season_types,
+                                         **kwargs):
+        for season_year in tqdm(range(start_season, end_season + 1), desc="Processing Seasons"):
+            season = f"{season_year}-{str(season_year + 1)[-2:]}"
+            for season_type in season_types:
+                self.fetch_player_stats(endpoint, sub_endpoint, season, season_type, **kwargs)
+
     def close_session(self):
         self.session.close()
 

@@ -40,6 +40,15 @@ def main():
     #     output_dir="./data/"
     # )
     # extractor.fetch_player_bios()
+    # extractor = NBADataExtractor(nba_endpoints_player, season_start=2024)
+    # extractor.fetch_stats_for_multiple_seasons(
+    #     endpoint="general",
+    #     sub_endpoint="traditional",
+    #     start_season=2019,
+    #     end_season=2024,
+    #     season_types=["Regular Season", "Playoffs"]
+    # )
+
     extractor.close_session()
 
 
