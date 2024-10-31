@@ -1,0 +1,515 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (6:11 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Jump Ball Stewart vs. Looney: Tip to Curry,Jump Ball,,1,0
+3,7,PT11M43.00S,1,1610612744,GSW,203110,Green,D. Green,9,1,1,Made,1,0,2,2,v,D. Green 1' Cutting Layup Shot (2 PTS) (Wiggins 1 AST),Made Shot,Cutting Layup Shot,1,0
+4,9,PT11M24.00S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,-235,-1,24,Made,1,3,2,5,h,Bogdanovic 24' 3PT Jump Shot (3 PTS) (Bey 1 AST),Made Shot,Jump Shot,1,0
+5,11,PT11M11.00S,1,1610612744,GSW,1629673,Poole,J. Poole,15,5,2,Made,1,3,4,7,v,Poole 2' Cutting Layup Shot (2 PTS) (D. Green 1 AST),Made Shot,Cutting Layup Shot,1,0
+6,13,PT10M56.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,-22,262,26,Missed,1,,,0,h,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+7,14,PT10M54.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+8,15,PT10M49.00S,1,1610612744,GSW,201939,Curry,S. Curry,143,289,32,Missed,1,,,0,v,MISS Curry 32' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+9,16,PT10M46.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+10,17,PT10M36.00S,1,1610612765,DET,1630180,Bey,S. Bey,-159,44,16,Made,1,5,4,9,h,Bey 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,0
+11,18,PT10M19.00S,1,1610612744,GSW,1629673,Poole,J. Poole,233,34,24,Missed,1,,,0,v,MISS Poole 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+12,19,PT10M16.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+13,20,PT10M12.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1,0
+14,22,PT10M12.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,6,4,10,h,Bey Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+15,23,PT10M12.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,7,4,11,h,Bey Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+16,24,PT10M01.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,-9,11,1,Made,1,7,6,13,v,Wiggins 1' Layup (2 PTS) (D. Green 2 AST),Made Shot,Layup Shot,1,0
+17,26,PT10M01.00S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic S.FOUL (P1.T1) (M.Myers),Foul,Shooting,0,0
+18,28,PT10M01.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,7,7,14,v,Wiggins Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0
+19,29,PT09M47.00S,1,1610612765,DET,1630180,Bey,S. Bey,-239,15,24,Missed,1,,,0,h,MISS Bey 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+20,30,PT09M45.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+21,31,PT09M38.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green Traveling Turnover (P1.T1),Turnover,Traveling,0,0
+22,32,PT09M29.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,-113,5,11,Made,1,9,7,16,h,Cunningham 11' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,0,0
+23,33,PT09M15.00S,1,1610612744,GSW,1629673,Poole,J. Poole,0,55,6,Made,1,9,9,18,v,Poole 6' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,0,0
+24,34,PT09M15.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0
+25,36,PT09M15.00S,1,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,9,10,19,v,Poole Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0
+26,37,PT09M08.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,-87,128,15,Missed,1,,,0,h,MISS Cunningham 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+27,37,PT09M08.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins BLOCK (1 BLK),,,0,0
+28,39,PT09M07.00S,1,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+29,40,PT08M53.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,22,6,2,Missed,1,,,0,v,MISS Wiggins 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+30,41,PT08M52.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+31,42,PT08M50.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,Missed,1,,,0,v,MISS Looney Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0
+32,43,PT08M49.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+33,44,PT08M48.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,Made,1,9,12,21,v,Looney Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0
+34,45,PT08M34.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,-81,80,11,Missed,1,,,0,h,MISS Ivey 11' Jump Shot,Missed Shot,Jump Shot,0,0
+35,45,PT08M34.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green BLOCK (1 BLK),,,0,0
+36,47,PT08M33.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+37,48,PT08M16.00S,1,1610612744,GSW,1629673,Poole,J. Poole,121,111,16,Made,1,9,14,23,v,Poole 16' Step Back Jump Shot (7 PTS) (D. Green 3 AST),Made Shot,Step Back Jump shot,1,0
+38,50,PT07M55.00S,1,1610612765,DET,1630180,Bey,S. Bey,151,221,27,Missed,1,,,0,h,MISS Bey 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+39,51,PT07M53.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+40,52,PT07M44.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0
+41,53,PT07M34.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart P.FOUL (P1.T3) (M.Myers),Foul,Personal,1,0
+42,55,PT07M26.00S,1,1610612744,GSW,201939,Curry,S. Curry,-100,106,15,Made,1,9,16,25,v,Curry 15' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,0
+43,56,PT07M14.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney S.FOUL (P1.T2) (K.Scott),Foul,Shooting,1,0
+44,58,PT07M14.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,10,16,26,h,Stewart Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+45,59,PT07M14.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,11,16,27,h,Stewart Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+46,60,PT07M03.00S,1,1610612744,GSW,201939,Curry,S. Curry,9,266,27,Missed,1,,,0,v,MISS Curry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+47,61,PT06M59.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+48,62,PT06M55.00S,1,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole P.FOUL (P1.T3) (M.Myers),Foul,Personal,1,0
+49,64,PT06M55.00S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+50,65,PT06M38.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,-141,233,27,Missed,1,,,0,h,MISS Ivey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+51,66,PT06M36.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+52,67,PT06M30.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,158,199,25,Made,1,11,19,30,v,Wiggins 25' 3PT Jump Shot (6 PTS) (Looney 1 AST),Made Shot,Jump Shot,1,0
+53,69,PT06M14.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+54,69,PT06M14.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (1 STL),,,1,0
+55,71,PT06M09.00S,1,1610612744,GSW,1629673,Poole,J. Poole,-235,27,24,Missed,1,,,0,v,MISS Poole 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+56,72,PT06M06.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+57,73,PT06M02.00S,1,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,1,0
+58,75,PT06M02.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,12,19,31,h,Ivey Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+59,76,PT06M02.00S,1,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,SUB: Jerome FOR Poole,Substitution,,0,0
+60,77,PT06M02.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,SUB: Wiseman FOR Looney,Substitution,,0,0
+61,80,PT06M02.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,13,19,32,h,Ivey Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+62,81,PT05M49.00S,1,1610612744,GSW,201939,Curry,S. Curry,31,105,11,Missed,1,,,0,v,MISS Curry 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+63,82,PT05M46.00S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+64,83,PT05M38.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,-4,48,5,Made,1,15,19,34,h,Stewart 5' Hook Shot (4 PTS) (Cunningham 1 AST),Made Shot,Hook Shot,1,0
+65,85,PT05M26.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,2,22,2,Missed,1,,,0,v,MISS Wiggins 2' Hook Shot,Missed Shot,Hook Shot,1,0
+66,86,PT05M23.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+67,87,PT05M13.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,97,243,26,Missed,1,,,0,h,MISS Stewart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+68,88,PT05M11.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+69,89,PT05M10.00S,1,1610612744,GSW,1630164,Wiseman,J. Wiseman,-28,5,3,Missed,1,,,0,v,MISS Wiseman 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+70,90,PT05M08.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+71,91,PT04M55.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,20,12,2,Made,1,17,19,36,h,Stewart 2' Cutting Layup Shot (6 PTS) (Bogdanovic 1 AST),Made Shot,Cutting Layup Shot,1,0
+72,93,PT04M55.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+73,94,PT04M55.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,SUB: Diallo FOR Bey,Substitution,,0,0
+74,96,PT04M44.00S,1,1610612744,GSW,201939,Curry,S. Curry,1,267,27,Made,1,17,22,39,v,Curry 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,0
+75,97,PT04M25.00S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,-26,269,27,Made,1,20,22,42,h,Bogdanovic 27' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+76,98,PT04M12.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+77,98,PT04M12.00S,1,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,Diallo STEAL (1 STL),,,1,0
+78,100,PT04M05.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+79,100,PT04M05.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (2 STL),,,1,0
+80,102,PT03M56.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,-234,-1,0,Missed,1,,,0,v,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+81,103,PT03M53.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+82,104,PT03M43.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,-71,260,27,Missed,1,,,0,h,MISS Ivey 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+83,105,PT03M43.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,1,0
+84,106,PT03M43.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart L.B.FOUL (P2.T4) (M.Myers),Foul,Loose Ball,1,0
+85,108,PT03M43.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,SUB: Duren FOR Ivey,Substitution,,0,0
+86,109,PT03M43.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,SUB: Hayes FOR Stewart,Substitution,,0,0
+87,110,PT03M43.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: J. Green FOR Wiggins,Substitution,,0,0
+88,111,PT03M43.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: Kuminga FOR D. Green,Substitution,,0,0
+89,116,PT03M27.00S,1,1610612744,GSW,203210,Green,J. Green,146,-2,15,Made,1,20,24,44,v,J. Green 15' Jump Shot (2 PTS) (Kuminga 1 AST),Made Shot,Jump Shot,1,0
+90,118,PT03M09.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,-124,116,17,Made,1,22,24,46,h,Cunningham 17' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+91,119,PT03M00.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0
+92,121,PT03M00.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,22,25,47,v,Curry Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0
+93,122,PT03M00.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,SUB: Ivey FOR Cunningham,Substitution,,0,0
+94,124,PT03M00.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,22,26,48,v,Curry Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0
+95,125,PT02M48.00S,1,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga S.FOUL (P1.PN) (K.Scott),Foul,Shooting,1,0
+96,127,PT02M48.00S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,23,26,49,h,Bogdanovic Free Throw 1 of 3 (7 PTS),Free Throw,Free Throw 1 of 3,1,0
+97,128,PT02M48.00S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,24,26,50,h,Bogdanovic Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,1,0
+98,129,PT02M48.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Poole FOR Curry,Substitution,,0,0
+99,131,PT02M48.00S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,25,26,51,h,Bogdanovic Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,1,0
+100,132,PT02M36.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey S.FOUL (P1.PN) (K.Scott),Foul,Shooting,1,0
+101,134,PT02M36.00S,1,1610612744,GSW,1629660,Jerome,T. Jerome,0,0,0,,0,25,27,52,v,Jerome Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+102,135,PT02M36.00S,1,1610612744,GSW,1629660,Jerome,T. Jerome,0,0,0,,0,25,28,53,v,Jerome Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+103,136,PT02M22.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,-22,18,3,Missed,1,,,0,h,MISS Ivey 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+104,137,PT02M20.00S,1,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,,,0,v,Wiseman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+105,138,PT02M16.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0
+106,140,PT02M16.00S,1,1610612744,GSW,1629660,Jerome,T. Jerome,0,0,0,,0,25,29,54,v,Jerome Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+107,141,PT02M16.00S,1,1610612744,GSW,1629660,Jerome,T. Jerome,0,0,0,,0,25,30,55,v,Jerome Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+108,142,PT01M56.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,-83,267,28,Missed,1,,,0,h,MISS Hayes 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+109,143,PT01M54.00S,1,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+110,144,PT01M49.00S,1,1610612744,GSW,1629673,Poole,J. Poole,5,105,11,Missed,1,,,0,v,MISS Poole 11' Jump Shot,Missed Shot,Jump Shot,1,0
+111,144,PT01M49.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey BLOCK (1 BLK),,,1,0
+112,146,PT01M45.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+113,147,PT01M45.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+114,147,PT01M45.00S,1,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole STEAL (1 STL),,,1,0
+115,149,PT01M40.00S,1,1610612744,GSW,203210,Green,J. Green,161,206,26,Missed,1,,,0,v,MISS J. Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+116,150,PT01M38.00S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+117,151,PT01M38.00S,1,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,,,0,v,Wiseman L.B.FOUL (P1.PN) (M.Myers),Foul,Loose Ball,1,0
+118,153,PT01M38.00S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,26,30,56,h,Bogdanovic Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+119,154,PT01M38.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,SUB: Joseph FOR Ivey,Substitution,,0,0
+120,156,PT01M38.00S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,27,30,57,h,Bogdanovic Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+121,157,PT01M23.00S,1,1610612744,GSW,1629673,Poole,J. Poole,-21,9,2,Missed,1,,,0,v,MISS Poole 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+122,158,PT01M19.00S,1,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,,,0,v,Wiseman REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+123,159,PT01M19.00S,1,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,Made,1,27,32,59,v,Wiseman Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,0
+124,160,PT01M05.00S,1,1610612765,DET,1628977,Diallo,H. Diallo,-18,4,2,Made,1,29,32,61,h,Diallo 2' Dunk (2 PTS) (Hayes 1 AST),Made Shot,Dunk Shot,1,0
+125,162,PT00M49.00S,1,1610612744,GSW,1629660,Jerome,T. Jerome,-43,134,14,Made,1,29,34,63,v,Jerome 14' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+126,163,PT00M40.90S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+127,163,PT00M40.90S,1,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,J. Green STEAL (1 STL),,,1,0
+128,166,PT00M36.80S,1,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,SUB: Livers FOR Bogdanovic,Substitution,,0,0
+129,168,PT00M36.70S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren AWAY.FROM.PLAY.FOUL (P1.PN) (M.Myers),Foul,Away From Play,1,0
+130,170,PT00M36.70S,1,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,29,35,64,v,Poole Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0
+131,171,PT00M36.70S,1,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,,,0,v,SUB: Curry FOR Wiseman,Substitution,,0,0
+132,173,PT00M35.60S,1,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0
+133,174,PT00M28.10S,1,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,Diallo Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+134,175,PT00M14.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes P.FOUL (P1.PN) (M.Myers),Foul,Personal,1,0
+135,177,PT00M14.00S,1,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,29,36,65,v,Poole Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0
+136,178,PT00M14.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Moody FOR Curry,Substitution,,0,0
+137,180,PT00M14.00S,1,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,29,37,66,v,Poole Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0
+138,181,PT00M06.70S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+139,181,PT00M06.70S,1,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,J. Green STEAL (2 STL),,,1,0
+140,183,PT00M02.70S,1,1610612744,GSW,1629673,Poole,J. Poole,110,236,26,Missed,1,,,0,v,MISS Poole 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+141,184,PT00M00.20S,1,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,,,0,h,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+142,185,PT00M00.10S,1,1610612765,DET,1630587,Livers,I. Livers,-173,546,57,Missed,1,,,0,h,MISS Livers 57' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+143,186,PT00M00.10S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+144,187,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,37,66,,End of 1st Period (6:41 PM EST),period,end,1,0
+145,194,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,37,66,,Start of 2nd Period (6:44 PM EST),period,start,0,0
+146,195,PT11M42.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,-67,158,17,Missed,1,,,0,h,MISS Hayes 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+147,196,PT11M39.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+148,197,PT11M25.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,108,158,19,Missed,1,,,0,v,MISS Wiggins 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+149,198,PT11M19.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+150,199,PT11M18.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,20,4,2,Made,1,29,39,68,v,Wiggins 2' Cutting Layup Shot (8 PTS) (Looney 2 AST),Made Shot,Cutting Layup Shot,1,0
+151,201,PT11M02.00S,2,1610612765,DET,1630180,Bey,S. Bey,-21,-4,2,Missed,1,,,0,h,MISS Bey 2' Layup,Missed Shot,Layup Shot,1,0
+152,202,PT10M58.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+153,203,PT10M58.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Made,1,31,39,70,h,Duren Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,0
+154,204,PT10M52.00S,2,1610612744,GSW,203210,Green,J. Green,-138,224,26,Missed,1,,,0,v,MISS J. Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+155,205,PT10M52.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0
+156,207,PT10M38.00S,2,1610612744,GSW,1630541,Moody,M. Moody,235,77,25,Missed,1,,,0,v,MISS Moody 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+157,208,PT10M35.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+158,209,PT10M28.00S,2,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+159,210,PT10M12.00S,2,1610612765,DET,1630180,Bey,S. Bey,-238,23,24,Made,1,34,39,73,h,Bey 24' 3PT Jump Shot (7 PTS) (Hayes 2 AST),Made Shot,Jump Shot,1,0
+160,212,PT09M52.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-66,261,27,Missed,1,,,0,v,MISS Wiggins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+161,213,PT09M50.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+162,214,PT09M44.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes P.FOUL (P2.T1) (K.Scott),Foul,Personal,1,0
+163,216,PT09M36.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+164,217,PT09M19.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,12,55,6,Missed,1,,,0,h,MISS Hayes 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+165,218,PT09M15.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+166,219,PT09M15.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Missed,1,,,0,h,MISS Duren Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+167,220,PT09M14.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+168,221,PT09M02.00S,2,1610612744,GSW,203210,Green,J. Green,15,-10,2,Made,1,34,41,75,v,J. Green 2' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,0
+169,223,PT08M42.00S,2,1610612765,DET,1631105,Duren,J. Duren,-45,4,5,Missed,1,,,0,h,MISS Duren 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+170,224,PT08M42.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0
+171,226,PT08M42.00S,2,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,,,0,h,SUB: Cunningham FOR Joseph,Substitution,,0,0
+172,228,PT08M29.00S,2,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,,,0,h,Livers P.FOUL (P1.T2) (M.Myers),Foul,Personal,1,0
+173,230,PT08M10.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,105,8,11,Missed,1,,,0,v,MISS Wiggins 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+174,231,PT08M09.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:5 Def:2),Rebound,Unknown,1,0
+175,232,PT08M08.00S,2,1610612744,GSW,1626172,Looney,K. Looney,-18,-5,2,Missed,1,,,0,v,MISS Looney 2' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+176,233,PT08M07.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+177,234,PT08M03.00S,2,1610612744,GSW,1629673,Poole,J. Poole,180,192,26,Missed,1,,,0,v,MISS Poole 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+178,235,PT08M00.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+179,236,PT07M54.00S,2,1610612765,DET,1630180,Bey,S. Bey,-238,-9,24,Missed,1,,,0,h,MISS Bey 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+180,237,PT07M52.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+181,238,PT07M46.00S,2,1610612765,DET,1630587,Livers,I. Livers,-147,227,27,Made,1,37,41,78,h,Livers 27' 3PT Jump Shot (3 PTS) (Hayes 3 AST),Made Shot,Jump Shot,1,0
+182,240,PT07M35.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+183,241,PT07M35.00S,2,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,SUB: Jerome FOR J. Green,Substitution,,0,0
+184,242,PT07M35.00S,2,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,SUB: Kuminga FOR Poole,Substitution,,0,0
+185,243,PT07M35.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,SUB: D. Green FOR Moody,Substitution,,0,0
+186,244,PT07M35.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,SUB: Curry FOR Looney,Substitution,,0,0
+187,249,PT07M26.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,20,-1,2,Missed,1,,,0,v,MISS Wiggins 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+188,250,PT07M24.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+189,251,PT07M22.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0
+190,251,PT07M22.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins STEAL (1 STL),,,1,0
+191,253,PT07M19.00S,2,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,,,0,h,Livers P.FOUL (P2.T3) (K.Scott),Foul,Personal,1,0
+192,255,PT07M03.00S,2,1610612744,GSW,203110,Green,D. Green,-98,242,26,Missed,1,,,0,v,MISS D. Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+193,256,PT07M01.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+194,257,PT06M42.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,-123,179,22,Made,1,39,41,80,h,Cunningham 22' Step Back Jump Shot (6 PTS) (Hayes 4 AST),Made Shot,Step Back Jump shot,1,0
+195,259,PT06M32.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green Offensive Charge Foul (P2) (M.Myers),Foul,Offensive Charge,1,0
+196,261,PT06M32.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0
+197,262,PT06M32.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,SUB: Ivey FOR Duren,Substitution,,0,0
+198,263,PT06M32.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,SUB: Stewart FOR Hayes,Substitution,,0,0
+199,266,PT06M16.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,-56,159,17,Made,1,41,41,82,h,Cunningham 17' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,0
+200,267,PT06M07.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green Out of Bounds - Bad Pass Turnover Turnover (P3.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+201,268,PT05M51.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,21,2,2,Missed,1,,,0,h,MISS Cunningham 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+202,269,PT05M51.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+203,270,PT05M51.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,Missed,1,,,0,h,MISS Stewart Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+204,271,PT05M51.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+205,272,PT05M51.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,-11,12,2,Made,1,43,41,84,h,Stewart 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,0
+206,273,PT05M51.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green S.FOUL (P3.T1) (K.Scott),Foul,Shooting,1,0
+207,275,PT05M51.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,44,41,85,h,Stewart Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0
+208,276,PT05M29.00S,2,1610612744,GSW,201939,Curry,S. Curry,123,155,20,Made,1,44,43,87,v,Curry 20' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,0
+209,277,PT05M22.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P1.T2) (M.Myers),Foul,Shooting,1,0
+210,279,PT05M22.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,45,43,88,h,Bey Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0
+211,280,PT05M22.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: Looney FOR D. Green,Substitution,,0,0
+212,282,PT05M22.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,46,43,89,h,Bey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0
+213,283,PT05M03.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-9,31,3,Missed,1,,,0,v,MISS Wiggins 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+214,285,PT05M00.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+215,286,PT04M59.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey Step Out of Bounds Turnover (P2.T9),Turnover,Step Out of Bounds Turnover,1,0
+216,287,PT04M59.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Bey,Substitution,,0,0
+217,289,PT04M44.00S,2,1610612744,GSW,201939,Curry,S. Curry,-116,287,31,Made,1,46,46,92,v,Curry 31' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+218,291,PT04M26.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,-116,155,19,Made,1,48,46,94,h,Cunningham 19' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,0
+219,292,PT04M11.00S,2,1610612744,GSW,201939,Curry,S. Curry,-137,243,28,Missed,1,,,0,v,MISS Curry 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+220,293,PT04M08.00S,2,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+221,294,PT04M01.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,1,0
+222,296,PT04M01.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,MISS Stewart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+223,297,PT04M01.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Normal Rebound,0,0
+224,298,PT04M01.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Poole FOR Wiggins,Substitution,,0,0
+225,300,PT04M01.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,49,46,95,h,Stewart Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0
+226,301,PT03M49.00S,2,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,,,0,h,Livers S.FOUL (P3.T4) (J.DeRosa),Foul,Shooting,1,0
+227,303,PT03M49.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,49,47,96,v,Kuminga Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+228,304,PT03M49.00S,2,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,,,0,h,SUB: Bey FOR Livers,Substitution,,0,0
+229,306,PT03M49.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,49,48,97,v,Kuminga Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+230,307,PT03M43.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+231,308,PT03M43.00S,2,1610612744,GSW,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,SUB: Lamb FOR Jerome,Substitution,,0,0
+232,310,PT03M26.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,93,23,10,Made,1,51,48,99,h,Cunningham 10' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+233,311,PT03M12.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,-70,6,7,Missed,1,,,0,v,MISS Kuminga 7' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+234,313,PT03M08.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+235,314,PT03M07.00S,2,1610612765,DET,1630180,Bey,S. Bey,-22,-1,2,Made,1,53,48,101,h,Bey 2' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,0
+236,315,PT02M49.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,-238,9,24,Missed,1,,,0,v,MISS Kuminga 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+237,316,PT02M47.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+238,317,PT02M37.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,-165,211,27,Made,1,56,48,104,h,Ivey 27' 3PT Pullup Jump Shot (5 PTS) (Bey 2 AST),Made Shot,Pullup Jump shot,1,0
+239,319,PT02M23.00S,2,1610612744,GSW,201939,Curry,S. Curry,225,135,26,Missed,1,,,0,v,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+240,320,PT02M20.00S,2,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+241,321,PT02M14.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,1,0
+242,323,PT02M14.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,57,48,105,h,Bey Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0
+243,324,PT02M14.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,58,48,106,h,Bey Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0
+244,325,PT01M54.00S,2,1610612744,GSW,1630237,Lamb,A. Lamb,-13,1,1,Made,1,58,50,108,v,Lamb 1' Cutting Layup Shot (2 PTS) (Poole 1 AST),Made Shot,Cutting Layup Shot,1,0
+245,327,PT01M30.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,135,235,27,Missed,1,,,0,h,MISS Stewart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+246,328,PT01M28.00S,2,1610612744,GSW,1630237,Lamb,A. Lamb,0,0,0,,0,,,0,v,Lamb REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+247,329,PT01M10.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,30,3,Made,1,58,52,110,v,Kuminga 3' Cutting Dunk Shot (4 PTS) (Lamb 1 AST),Made Shot,Cutting Dunk Shot,1,0
+248,331,PT00M48.70S,2,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,-219,184,29,Missed,1,,,0,h,MISS Bogdanovic 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+249,332,PT00M48.70S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+250,333,PT00M48.70S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney L.B.FOUL (P2.PN) (M.Myers),Foul,Loose Ball,1,0
+251,335,PT00M48.70S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,59,52,111,h,Stewart Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0
+252,336,PT00M48.70S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,60,52,112,h,Stewart Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0
+253,337,PT00M27.60S,2,1610612744,GSW,1629673,Poole,J. Poole,124,242,27,Missed,1,,,0,v,MISS Poole 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+254,338,PT00M23.20S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+255,339,PT00M22.20S,2,1610612744,GSW,201939,Curry,S. Curry,213,173,27,Made,1,60,55,115,v,Curry 27' 3PT Pullup Jump Shot (15 PTS) (Kuminga 2 AST),Made Shot,Pullup Jump shot,1,0
+256,341,PT00M03.30S,2,1610612765,DET,1630191,Stewart,I. Stewart,-76,256,27,Made,1,63,55,118,h,Stewart 27' 3PT Jump Shot (15 PTS) (Cunningham 2 AST),Made Shot,Jump Shot,1,0
+257,343,PT00M00.30S,2,1610612744,GSW,201939,Curry,S. Curry,29,524,52,Missed,1,,,0,v,MISS Curry 52' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+258,344,PT00M00.30S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0
+259,345,PT00M00.00S,2,0,,0,,,0,0,0,,0,63,55,118,,End of 2nd Period (7:11 PM EST),period,end,1,0
+260,350,PT12M00.00S,3,0,,0,,,0,0,0,,0,63,55,118,,Start of 3rd Period (7:26 PM EST),period,start,0,0
+261,351,PT11M43.00S,3,1610612765,DET,1630180,Bey,S. Bey,11,0,1,Made,1,65,55,120,h,Bey 1' Driving Finger Roll Layup (15 PTS) (Cunningham 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+262,352,PT11M18.00S,3,1610612744,GSW,201939,Curry,S. Curry,-27,4,3,Missed,1,,,0,v,MISS Curry 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+263,353,PT11M16.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:6 Def:2),Rebound,Unknown,1,0
+264,354,PT11M16.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0
+265,355,PT10M58.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,47,261,27,Missed,1,,,0,h,MISS Stewart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+266,356,PT10M56.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+267,357,PT10M51.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart S.FOUL (P3.T1) (M.Myers),Foul,Shooting,1,0
+268,359,PT10M51.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,65,56,121,v,D. Green Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+269,360,PT10M51.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,65,57,122,v,D. Green Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+270,361,PT10M39.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,125,147,19,Made,1,67,57,124,h,Cunningham 19' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,0
+271,362,PT10M26.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,18,21,3,Missed,1,,,0,v,MISS Wiggins 3' Layup,Missed Shot,Layup Shot,1,0
+272,363,PT10M24.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+273,364,PT10M22.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green S.FOUL (P4.T1) (M.Myers),Foul,Shooting,1,0
+274,367,PT10M22.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green T.FOUL (P4.T1) (M.Myers),Foul,Technical,0,0
+275,368,PT10M22.00S,3,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,68,57,125,h,Bogdanovic Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,1,0
+276,369,PT10M22.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,69,57,126,h,Ivey Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0
+277,370,PT10M22.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,MISS Ivey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+278,371,PT10M19.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+279,372,PT10M16.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-103,246,27,Made,1,72,57,129,h,Cunningham 27' 3PT Jump Shot (17 PTS) (Ivey 1 AST),Made Shot,Jump Shot,1,0
+280,374,PT09M58.00S,3,1610612744,GSW,203110,Green,D. Green,22,11,2,Missed,1,,,0,v,MISS D. Green 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+281,375,PT09M56.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+282,376,PT09M53.00S,3,1610612765,DET,1630180,Bey,S. Bey,20,10,2,Made,1,74,57,131,h,Bey 2' Running Layup (17 PTS) (Ivey 2 AST),Made Shot,Running Layup Shot,1,0
+283,378,PT09M53.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+284,379,PT09M32.00S,3,1610612744,GSW,1626172,Looney,K. Looney,20,13,2,Missed,1,,,0,v,MISS Looney 2' Layup,Missed Shot,Layup Shot,1,0
+285,380,PT09M31.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+286,381,PT09M29.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,Missed,1,,,0,v,MISS Wiggins Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+287,382,PT09M29.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0
+288,384,PT09M22.00S,3,1610612744,GSW,201939,Curry,S. Curry,102,284,30,Missed,1,,,0,v,MISS Curry 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+289,385,PT09M19.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+290,386,PT08M59.00S,3,1610612765,DET,1630180,Bey,S. Bey,-9,26,3,Made,1,76,57,133,h,Bey 3' Driving Hook Shot (19 PTS),Made Shot,Driving Hook Shot,1,0
+291,387,PT08M46.00S,3,1610612744,GSW,1629673,Poole,J. Poole,-221,164,28,Made,1,76,60,136,v,Poole 28' 3PT Jump Shot (13 PTS) (D. Green 4 AST),Made Shot,Jump Shot,1,0
+292,389,PT08M28.00S,3,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,-237,5,24,Made,1,79,60,139,h,Bogdanovic 24' 3PT Jump Shot (15 PTS) (Cunningham 4 AST),Made Shot,Jump Shot,1,0
+293,391,PT08M15.00S,3,1610612744,GSW,203110,Green,D. Green,20,34,4,Missed,1,,,0,v,MISS D. Green 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+294,392,PT08M13.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+295,393,PT08M06.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey OFF.Foul (P1) (M.Myers),Foul,Offensive,1,0
+296,395,PT08M06.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,1,0
+297,396,PT08M06.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,SUB: Wiseman FOR Looney,Substitution,,0,0
+298,398,PT07M57.00S,3,1610612744,GSW,1629673,Poole,J. Poole,21,11,2,Made,1,79,62,141,v,Poole 2' Cutting Layup Shot (15 PTS) (D. Green 5 AST),Made Shot,Cutting Layup Shot,1,0
+299,400,PT07M57.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey S.FOUL (P3.T2) (K.Scott),Foul,Shooting,1,0
+300,402,PT07M57.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Moody FOR Wiggins,Substitution,,0,0
+301,404,PT07M57.00S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,79,63,142,v,Poole Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0
+302,405,PT07M40.00S,3,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,-114,231,26,Missed,1,,,0,h,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+303,406,PT07M38.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+304,407,PT07M35.00S,3,1610612744,GSW,1629673,Poole,J. Poole,175,201,27,Made,1,79,66,145,v,Poole 27' 3PT Jump Shot (19 PTS) (Curry 1 AST),Made Shot,Jump Shot,1,0
+305,409,PT07M28.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0
+306,409,PT07M28.00S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole STEAL (2 STL),,,1,0
+307,411,PT07M25.00S,3,1610612744,GSW,1629673,Poole,J. Poole,199,201,28,Made,1,79,69,148,v,Poole 28' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,0
+308,412,PT07M25.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+309,413,PT07M09.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-9,69,7,Missed,1,,,0,h,MISS Cunningham 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+310,414,PT07M07.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+311,415,PT07M05.00S,3,1610612744,GSW,1629673,Poole,J. Poole,-185,231,30,Made,1,79,72,151,v,Poole 30' 3PT Running Jump Shot (25 PTS) (Curry 2 AST),Made Shot,Running Jump Shot,1,0
+312,417,PT06M45.00S,3,1610612765,DET,1630180,Bey,S. Bey,10,20,2,Missed,1,,,0,h,MISS Bey 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,0
+313,418,PT06M42.00S,3,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,,,0,v,Wiseman REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+314,419,PT06M35.00S,3,1610612744,GSW,201939,Curry,S. Curry,55,92,11,Missed,1,,,0,v,MISS Curry 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+315,420,PT06M33.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+316,421,PT06M30.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham Offensive Charge Foul (P3) (J.DeRosa),Foul,Offensive Charge,1,0
+317,423,PT06M30.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,1,0
+318,424,PT06M26.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0
+319,425,PT06M16.00S,3,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,,,0,v,Wiseman S.FOUL (P2.T2) (K.Scott),Foul,Shooting,1,0
+320,427,PT06M16.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,80,72,152,h,Stewart Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0
+321,428,PT06M16.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,81,72,153,h,Stewart Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0
+322,429,PT06M03.00S,3,1610612744,GSW,201939,Curry,S. Curry,9,27,3,Missed,1,,,0,v,MISS Curry 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+323,429,PT06M03.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham BLOCK (1 BLK),,,1,0
+324,430,PT06M03.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+325,431,PT05M56.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,13,0,1,Made,1,83,72,155,h,Ivey 1' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,1,0
+326,432,PT05M45.00S,3,1610612744,GSW,1630164,Wiseman,J. Wiseman,-9,21,2,Made,1,83,74,157,v,Wiseman 2' Dunk (4 PTS) (Poole 2 AST),Made Shot,Dunk Shot,1,0
+327,435,PT05M28.00S,3,1610612765,DET,1630180,Bey,S. Bey,-148,216,26,Missed,1,,,0,h,MISS Bey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+328,436,PT05M25.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+329,437,PT05M13.00S,3,1610612744,GSW,1629673,Poole,J. Poole,67,277,28,Made,1,83,77,160,v,Poole 28' 3PT Step Back Jump Shot (28 PTS),Made Shot,Step Back Jump shot,1,0
+330,438,PT04M59.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,191,230,30,Made,1,86,77,163,h,Ivey 30' 3PT Jump Shot (11 PTS) (Cunningham 5 AST),Made Shot,Jump Shot,1,0
+331,440,PT04M44.00S,3,1610612744,GSW,1629673,Poole,J. Poole,94,263,28,Missed,1,,,0,v,MISS Poole 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+332,441,PT04M42.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+333,442,PT04M35.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,20,258,26,Made,1,89,77,166,h,Stewart 26' 3PT Jump Shot (20 PTS) (Bey 3 AST),Made Shot,Jump Shot,1,0
+334,444,PT04M19.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey S.FOUL (P4.T3) (K.Scott),Foul,Shooting,1,0
+335,446,PT04M19.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,89,78,167,v,Curry Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+336,447,PT04M19.00S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,SUB: Jerome FOR Poole,Substitution,,0,0
+337,448,PT04M19.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: J. Green FOR D. Green,Substitution,,0,0
+338,451,PT04M19.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,89,79,168,v,Curry Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0
+339,452,PT04M11.00S,3,1610612744,GSW,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome P.FOUL (P1.T3) (M.Myers),Foul,Personal,1,0
+340,454,PT04M11.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,SUB: Diallo FOR Ivey,Substitution,,0,0
+341,461,PT04M11.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,SUB: Hayes FOR Bey,Substitution,,0,0
+342,456,PT04M02.00S,3,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,-190,177,26,Missed,1,,,0,h,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+343,457,PT03M58.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+344,458,PT03M45.00S,3,1610612744,GSW,1629660,Jerome,T. Jerome,27,11,3,Made,1,89,81,170,v,Jerome 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,0
+345,463,PT03M28.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-45,94,10,Missed,1,,,0,h,MISS Cunningham 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+346,464,PT03M26.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+347,465,PT03M19.00S,3,1610612744,GSW,1630541,Moody,M. Moody,21,13,2,Made,1,89,83,172,v,Moody 2' Driving Layup (2 PTS) (Jerome 1 AST),Made Shot,Driving Layup Shot,1,0
+348,467,PT03M10.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,20,-1,2,Made,1,91,83,174,h,Cunningham 2' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+349,468,PT02M46.00S,3,1610612744,GSW,201939,Curry,S. Curry,-21,0,2,Made,1,91,85,176,v,Curry 2' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+350,529,PT02M33.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,40,56,7,Missed,1,,,0,h,MISS Hayes 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+351,530,PT02M33.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:4 Def:6),Rebound,Unknown,1,0
+352,469,PT02M30.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,37,50,6,Made,1,93,85,178,h,Stewart 6' Reverse Layup (22 PTS),Made Shot,Reverse Layup Shot,1,0
+353,471,PT02M28.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+354,472,PT02M28.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,SUB: Livers FOR Cunningham,Substitution,,0,0
+355,473,PT02M28.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,SUB: Duren FOR Stewart,Substitution,,0,0
+356,474,PT02M28.00S,3,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,SUB: Bey FOR Bogdanovic,Substitution,,0,0
+357,475,PT02M28.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Poole FOR Curry,Substitution,,0,0
+358,480,PT02M14.00S,3,1610612744,GSW,1630164,Wiseman,J. Wiseman,21,1,2,Missed,1,,,0,v,MISS Wiseman 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,0
+359,481,PT02M09.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+360,482,PT02M06.00S,3,1610612765,DET,1630180,Bey,S. Bey,-230,119,26,Made,1,96,85,181,h,Bey 26' 3PT Running Jump Shot (22 PTS) (Hayes 5 AST),Made Shot,Running Jump Shot,1,0
+361,484,PT01M55.00S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+362,484,PT01M55.00S,3,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,Diallo STEAL (2 STL),,,1,0
+363,486,PT01M51.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,31,3,Made,1,98,85,183,h,Hayes 3' Running Dunk (2 PTS) (Diallo 1 AST),Made Shot,Running Dunk Shot,1,0
+364,488,PT01M39.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes P.FOUL (P3.T4) (M.Myers),Foul,Personal,1,0
+365,490,PT01M33.00S,3,1610612744,GSW,1630541,Moody,M. Moody,-185,201,27,Made,1,98,88,186,v,Moody 27' 3PT Jump Shot (5 PTS) (Wiseman 1 AST),Made Shot,Jump Shot,1,0
+366,492,PT01M10.00S,3,1610612765,DET,1628977,Diallo,H. Diallo,-23,-2,2,Missed,1,,,0,h,MISS Diallo 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+367,493,PT01M08.00S,3,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,,,0,v,Wiseman REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+368,494,PT01M01.00S,3,1610612744,GSW,1630541,Moody,M. Moody,-119,258,28,Missed,1,,,0,v,MISS Moody 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+369,495,PT01M01.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+370,497,PT00M50.20S,3,1610612765,DET,1630180,Bey,S. Bey,-163,225,28,Missed,1,,,0,h,MISS Bey 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+371,498,PT00M49.70S,3,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,Diallo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+372,499,PT00M49.70S,3,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,J. Green S.FOUL (P1.T4) (M.Myers),Foul,Shooting,1,0
+373,501,PT00M49.70S,3,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,99,88,187,h,Diallo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+374,502,PT00M49.70S,3,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,100,88,188,h,Diallo Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+375,503,PT00M40.90S,3,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,Diallo P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,1,0
+376,505,PT00M40.90S,3,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,100,89,189,v,Wiseman Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0
+377,506,PT00M40.90S,3,1610612744,GSW,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,SUB: Wiggins FOR Jerome,Substitution,,0,0
+378,508,PT00M40.90S,3,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,100,90,190,v,Wiseman Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0
+379,509,PT00M28.10S,3,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,Diallo OFF.Foul (P2) (J.DeRosa),Foul,Offensive,1,0
+380,511,PT00M28.10S,3,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,Diallo Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0
+381,512,PT00M28.10S,3,1610612744,GSW,1630164,Wiseman,J. Wiseman,0,0,0,,0,,,0,v,SUB: Curry FOR Wiseman,Substitution,,0,0
+382,514,PT00M18.80S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes P.FOUL (P4.PN) (M.Myers),Foul,Personal,1,0
+383,516,PT00M18.80S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,100,91,191,v,Curry Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0
+384,517,PT00M18.80S,3,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Diallo,Substitution,,0,0
+385,518,PT00M18.80S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,SUB: Lamb FOR Poole,Substitution,,0,0
+386,521,PT00M18.80S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,MISS Curry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+387,522,PT00M14.80S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+388,523,PT00M02.10S,3,1610612765,DET,1630165,Hayes,K. Hayes,39,157,16,Missed,1,,,0,h,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+389,523,PT00M02.10S,3,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody BLOCK (1 BLK),,,1,0
+390,525,PT00M02.10S,3,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,J. Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+391,526,PT00M00.00S,3,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0
+392,526,PT00M00.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes STEAL (1 STL),,,1,0
+393,528,PT00M00.00S,3,0,,0,,,0,0,0,,0,100,91,191,,End of 3rd Period (7:56 PM EST),period,end,1,0
+394,539,PT12M00.00S,4,0,,0,,,0,0,0,,0,100,91,191,,Start of 4th Period (7:58 PM EST),period,start,0,0
+395,540,PT11M53.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0
+396,541,PT11M31.00S,4,1610612765,DET,1630587,Livers,I. Livers,-26,267,27,Missed,1,,,0,h,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+397,542,PT11M29.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+398,543,PT11M27.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-23,10,3,Missed,1,,,0,h,MISS Cunningham 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+399,544,PT11M24.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:6 Def:3),Rebound,Unknown,1,0
+400,547,PT11M11.00S,4,1610612744,GSW,1630541,Moody,M. Moody,21,10,2,Made,1,100,93,193,v,Moody 2' Driving Layup (7 PTS) (Poole 3 AST),Made Shot,Driving Layup Shot,1,0
+401,549,PT11M03.00S,4,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,J. Green S.FOUL (P2.T1) (K.Scott),Foul,Shooting,1,0
+402,551,PT11M03.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,101,93,194,h,Duren Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+403,552,PT11M03.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,MISS Duren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+404,553,PT10M59.00S,4,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,J. Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+405,554,PT10M46.00S,4,1610612744,GSW,1629673,Poole,J. Poole,167,207,27,Missed,1,,,0,v,MISS Poole 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+406,555,PT10M44.00S,4,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,Diallo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+407,557,PT10M39.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,1,0
+408,559,PT10M39.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,102,93,195,h,Cunningham Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0
+409,560,PT10M39.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,103,93,196,h,Cunningham Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0
+410,561,PT10M13.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,-87,201,22,Missed,1,,,0,v,MISS Wiggins 22' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+411,562,PT10M10.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,,,0,h,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+412,563,PT10M08.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,-23,4,2,Made,1,105,93,198,h,Hayes 2' Cutting Layup Shot (4 PTS) (Cunningham 6 AST),Made Shot,Cutting Layup Shot,1,0
+413,565,PT10M07.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+414,566,PT10M07.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Kuminga FOR Wiggins,Substitution,,0,0
+415,567,PT10M07.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,SUB: Lamb FOR Looney,Substitution,,0,0
+416,570,PT09M47.00S,4,1610612744,GSW,203210,Green,J. Green,18,4,2,Made,1,105,95,200,v,J. Green 2' Cutting Layup Shot (6 PTS) (Poole 4 AST),Made Shot,Cutting Layup Shot,1,0
+417,572,PT09M22.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0
+418,572,PT09M22.00S,4,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody STEAL (1 STL),,,1,0
+419,574,PT09M22.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren P.FOUL (P2.T1) (K.Scott),Foul,Personal,1,0
+420,576,PT09M13.00S,4,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,J. Green OFF.Foul (P3) (J.DeRosa),Foul,Offensive,1,0
+421,578,PT09M13.00S,4,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,J. Green Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,0
+422,579,PT09M04.00S,4,1610612765,DET,1628977,Diallo,H. Diallo,-6,4,1,Missed,1,,,0,h,MISS Diallo 1' Layup,Missed Shot,Layup Shot,1,0
+423,579,PT09M04.00S,4,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,J. Green BLOCK (1 BLK),,,1,0
+424,581,PT09M04.00S,4,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+425,583,PT08M52.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-110,152,19,Missed,1,,,0,h,MISS Cunningham 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+426,584,PT08M49.00S,4,1610612744,GSW,1630237,Lamb,A. Lamb,0,0,0,,0,,,0,v,Lamb REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+427,585,PT08M40.00S,4,1610612744,GSW,203210,Green,J. Green,36,20,4,Missed,1,,,0,v,MISS J. Green 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+428,585,PT08M40.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren BLOCK (1 BLK),,,1,0
+429,587,PT08M37.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+430,588,PT08M35.00S,4,1610612744,GSW,1630237,Lamb,A. Lamb,0,0,0,,0,,,0,v,Lamb P.FOUL (P1.T3) (K.Scott),Foul,Personal,1,0
+431,590,PT08M35.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Duren,Substitution,,0,0
+432,591,PT08M35.00S,4,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,,,0,h,SUB: Stewart FOR Diallo,Substitution,,0,0
+433,594,PT08M35.00S,4,1610612744,GSW,203210,Green,J. Green,0,0,0,,0,,,0,v,SUB: Curry FOR J. Green,Substitution,,0,0
+434,595,PT08M35.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,SUB: D. Green FOR Poole,Substitution,,0,0
+435,598,PT08M24.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,56,4,6,Missed,1,,,0,h,MISS Cunningham 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+436,599,PT08M21.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+437,600,PT08M13.00S,4,1610612744,GSW,201939,Curry,S. Curry,-59,71,9,Made,1,105,97,202,v,Curry 9' Fadeaway Jumper (22 PTS),Made Shot,Fadeaway Jump Shot,1,0
+438,601,PT08M00.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,40,258,26,Missed,1,,,0,h,MISS Cunningham 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+439,602,PT07M58.00S,4,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:5 Def:6),Rebound,Unknown,1,0
+440,603,PT07M54.00S,4,1610612765,DET,1630587,Livers,I. Livers,201,187,27,Made,1,108,97,205,h,Livers 27' 3PT Jump Shot (6 PTS) (Bogdanovic 2 AST),Made Shot,Jump Shot,1,0
+441,605,PT07M40.00S,4,1610612744,GSW,201939,Curry,S. Curry,15,4,2,Made,1,108,99,207,v,Curry 2' Cutting Layup Shot (24 PTS) (D. Green 6 AST),Made Shot,Cutting Layup Shot,1,0
+442,608,PT07M29.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,SUB: Ivey FOR Hayes,Substitution,,0,0
+443,610,PT07M17.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-77,110,13,Missed,1,,,0,h,MISS Cunningham 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+444,611,PT07M14.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,,,0,h,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+445,612,PT07M10.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,174,206,27,Missed,1,,,0,h,MISS Ivey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+446,613,PT07M08.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+447,614,PT06M56.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green Out of Bounds Lost Ball Turnover (P4.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0
+448,615,PT06M40.00S,4,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,74,92,12,Made,1,110,99,209,h,Bogdanovic 12' Turnaround Jump Shot (17 PTS) (Cunningham 7 AST),Made Shot,Turnaround Jump Shot,1,0
+449,617,PT06M28.00S,4,1610612744,GSW,201939,Curry,S. Curry,179,206,27,Missed,1,,,0,v,MISS Curry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+450,618,PT06M28.00S,4,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+451,620,PT06M20.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,22,5,2,Made,1,112,99,211,h,Ivey 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,0
+452,621,PT06M20.00S,4,1610612744,GSW,1630237,Lamb,A. Lamb,0,0,0,,0,,,0,v,Lamb S.FOUL (P2.T4) (M.Myers),Foul,Shooting,1,0
+453,623,PT06M20.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+454,624,PT06M20.00S,4,0,,621,,,0,0,0,,0,112,99,211,,Instant Replay4th Period (8:12 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0
+455,625,PT06M20.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,,,0,h,SUB: Bey FOR Livers,Substitution,,0,0
+456,626,PT06M20.00S,4,1610612744,GSW,1630237,Lamb,A. Lamb,0,0,0,,0,,,0,v,SUB: Poole FOR Lamb,Substitution,,0,0
+457,629,PT06M20.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,MISS Ivey Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+458,630,PT06M15.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+459,631,PT06M07.00S,4,1610612744,GSW,1629673,Poole,J. Poole,-25,0,3,Made,1,112,101,213,v,Poole 3' Driving Finger Roll Layup (30 PTS) (Curry 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+460,633,PT05M50.00S,4,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,93,77,12,Made,1,114,101,215,h,Bogdanovic 12' Pullup Jump Shot (19 PTS) (Cunningham 8 AST),Made Shot,Pullup Jump shot,1,0
+461,635,PT05M34.00S,4,1610612744,GSW,203110,Green,D. Green,233,32,24,Made,1,114,104,218,v,D. Green 24' 3PT Jump Shot (7 PTS) (Kuminga 3 AST),Made Shot,Jump Shot,1,0
+462,637,PT05M10.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,7,51,5,Missed,1,,,0,h,MISS Ivey 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+463,638,PT05M08.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+464,639,PT04M57.00S,4,1610612744,GSW,201939,Curry,S. Curry,-180,33,18,Made,1,114,106,220,v,Curry 18' Step Back Jump Shot (26 PTS),Made Shot,Step Back Jump shot,1,0
+465,640,PT04M52.00S,4,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+466,641,PT04M33.00S,4,1610612765,DET,1630180,Bey,S. Bey,234,35,24,Made,1,117,106,223,h,Bey 24' 3PT Jump Shot (25 PTS) (Bogdanovic 3 AST),Made Shot,Jump Shot,1,0
+467,643,PT04M06.00S,4,1610612744,GSW,1630541,Moody,M. Moody,194,176,26,Missed,1,,,0,v,MISS Moody 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+468,644,PT04M03.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+469,645,PT03M53.00S,4,1610612765,DET,1630180,Bey,S. Bey,211,156,26,Made,1,120,106,226,h,Bey 26' 3PT Jump Shot (28 PTS) (Ivey 3 AST),Made Shot,Jump Shot,1,0
+470,647,PT03M32.00S,4,1610612744,GSW,201939,Curry,S. Curry,163,232,28,Made,1,120,109,229,v,Curry 28' 3PT Jump Shot (29 PTS) (D. Green 7 AST),Made Shot,Jump Shot,1,0
+471,649,PT03M09.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,84,8,Missed,1,,,0,h,MISS Cunningham 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+472,650,PT03M07.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+473,651,PT03M00.00S,4,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,1,0
+474,653,PT03M00.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,120,110,230,v,Curry Free Throw 1 of 3 (30 PTS),Free Throw,Free Throw 1 of 3,1,0
+475,654,PT03M00.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,120,111,231,v,Curry Free Throw 2 of 3 (31 PTS),Free Throw,Free Throw 2 of 3,1,0
+476,655,PT03M00.00S,4,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,SUB: Wiggins FOR Kuminga,Substitution,,0,0
+477,657,PT03M00.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,120,112,232,v,Curry Free Throw 3 of 3 (32 PTS),Free Throw,Free Throw 3 of 3,1,0
+478,658,PT02M50.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham OFF.Foul (P4) (M.Myers),Foul,Offensive,1,0
+479,660,PT02M50.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham Offensive Foul Turnover (P4.T15),Turnover,Offensive Foul Turnover,1,0
+480,661,PT02M37.00S,4,1610612744,GSW,201939,Curry,S. Curry,-221,160,27,Missed,1,,,0,v,MISS Curry 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+481,662,PT02M34.00S,4,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+482,664,PT02M27.00S,4,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody S.FOUL (P1.PN) (K.Scott),Foul,Shooting,0,0
+483,666,PT02M27.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,121,112,233,h,Cunningham Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0
+484,667,PT02M27.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,122,112,234,h,Cunningham Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0
+485,668,PT02M14.00S,4,1610612744,GSW,1629673,Poole,J. Poole,147,215,26,Missed,1,,,0,v,MISS Poole 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+486,669,PT02M11.00S,4,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:5 Def:7),Rebound,Unknown,1,0
+487,670,PT02M03.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole S.FOUL (P3.PN) (M.Myers),Foul,Shooting,1,0
+488,672,PT02M03.00S,4,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,123,112,235,h,Bogdanovic Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0
+489,673,PT02M03.00S,4,1610612765,DET,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,124,112,236,h,Bogdanovic Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0
+490,674,PT01M55.00S,4,1610612744,GSW,201939,Curry,S. Curry,-137,299,33,Missed,1,,,0,v,MISS Curry 33' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+491,675,PT01M54.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+492,676,PT01M54.00S,4,1610612744,GSW,1629673,Poole,J. Poole,23,28,4,Missed,1,,,0,v,MISS Poole 4' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+493,677,PT01M54.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+494,678,PT01M51.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,Made,1,124,114,238,v,Wiggins Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,0
+495,679,PT01M34.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole P.FOUL (P4.PN) (K.Scott),Foul,Personal,1,0
+496,681,PT01M34.00S,4,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,125,114,239,h,Stewart Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0
+497,682,PT01M34.00S,4,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,126,114,240,h,Stewart Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0
+498,683,PT01M24.00S,4,1610612744,GSW,1630541,Moody,M. Moody,25,6,3,Missed,1,,,0,v,MISS Moody 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+499,684,PT01M22.00S,4,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:5 Def:8),Rebound,Unknown,1,0
+500,685,PT01M05.00S,4,1610612765,DET,1630180,Bey,S. Bey,1,34,3,Missed,1,,,0,h,MISS Bey 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+501,686,PT01M02.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,D. Green REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+502,687,PT00M57.30S,4,1610612744,GSW,201939,Curry,S. Curry,66,289,30,Missed,1,,,0,v,MISS Curry 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+503,688,PT00M54.60S,4,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+504,689,PT00M46.20S,4,1610612765,DET,1631093,Ivey,J. Ivey,9,25,3,Made,1,128,114,242,h,Ivey 3' Dunk (15 PTS) (Cunningham 9 AST),Made Shot,Dunk Shot,1,0
+505,691,PT00M46.20S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0
+506,692,PT00M46.20S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,SUB: Jerome FOR Poole,Substitution,,0,0
+507,693,PT00M46.20S,4,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,SUB: Kuminga FOR Moody,Substitution,,0,0
+508,694,PT00M46.20S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: Lamb FOR D. Green,Substitution,,0,0
+509,695,PT00M46.20S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Baldwin Jr. FOR Curry,Substitution,,0,0
+510,696,PT00M46.20S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Rollins FOR Wiggins,Substitution,,0,0
+511,702,PT00M25.20S,4,1610612744,GSW,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,v,Rollins Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0
+512,702,PT00M25.20S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,,,0,h,Ivey STEAL (1 STL),,,1,0
+513,704,PT00M01.40S,4,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,0,0
+514,705,PT00M00.00S,4,0,,0,,,0,0,0,,0,128,114,242,,End of 4th Period (8:29 PM EST),period,end,1,0

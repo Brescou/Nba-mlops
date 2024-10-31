@@ -1,0 +1,474 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:41 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Jump Ball Zubac vs. Reath: Tip to Harden,Jump Ball,,1,0
+3,7,PT11M40.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,44,134,14,Made,1,2,0,2,h,Leonard 14' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2
+4,8,PT11M22.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-161,121,20,Made,1,2,2,4,v,Sharpe 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2
+5,9,PT10M54.00S,1,1610612746,LAC,202331,George,P. George,45,111,12,Made,1,4,2,6,h,George 12' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2
+6,10,PT10M41.00S,1,1610612757,POR,1629014,Simons,A. Simons,-154,252,30,Missed,1,,,0,v,MISS Simons 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+7,11,PT10M38.00S,1,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+8,12,PT10M32.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,-12,11,2,Made,1,6,2,8,h,Zubac 2' Alley Oop Layup (2 PTS) (Harden 1 AST),Made Shot,Alley Oop Layup shot,1,2
+9,14,PT10M14.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-224,107,25,Made,1,6,5,11,v,Sharpe 25' 3PT Jump Shot (5 PTS) (Simons 1 AST),Made Shot,Jump Shot,1,3
+10,16,PT10M02.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,-6,17,2,Made,1,8,5,13,h,Zubac 2' Dunk (4 PTS) (George 1 AST),Made Shot,Dunk Shot,1,2
+11,18,PT09M46.00S,1,1610612757,POR,1641871,Reath,D. Reath,9,18,2,Made,1,8,7,15,v,Reath 2' Layup (2 PTS),Made Shot,Layup Shot,1,2
+12,19,PT09M38.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,-4,5,1,Made,1,10,7,17,h,Zubac 1' Alley Oop Dunk (6 PTS) (Mann 1 AST),Made Shot,Alley Oop Dunk Shot,1,2
+13,21,PT09M19.00S,1,1610612757,POR,1629014,Simons,A. Simons,-50,117,13,Missed,1,,,0,v,MISS Simons 13' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+14,21,PT09M19.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac BLOCK (1 BLK),,,1,2
+15,23,PT09M16.00S,1,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,Reath REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+16,24,PT09M16.00S,1,1610612757,POR,1641871,Reath,D. Reath,-4,11,1,Missed,1,,,0,v,MISS Reath 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2
+17,24,PT09M16.00S,1,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George BLOCK (1 BLK),,,1,2
+18,26,PT09M13.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+19,27,PT09M12.00S,1,1610612746,LAC,201935,Harden,J. Harden,5,11,1,Made,1,12,7,19,h,Harden 1' Running Layup (2 PTS) (Leonard 1 AST),Made Shot,Running Layup Shot,1,2
+20,29,PT08M49.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,33,269,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+21,30,PT08M46.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+22,31,PT08M38.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,-4,47,5,Missed,1,,,0,h,MISS Zubac 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2
+23,32,PT08M36.00S,1,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+24,33,PT08M15.00S,1,1610612757,POR,1641871,Reath,D. Reath,-233,20,0,Missed,1,,,0,v,MISS Reath 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+25,34,PT08M12.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+26,35,PT08M07.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,1,15,2,Made,1,14,7,21,h,Zubac 2' Cutting Dunk Shot (8 PTS) (Mann 2 AST),Made Shot,Cutting Dunk Shot,1,2
+27,37,PT08M06.00S,1,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+28,38,PT07M43.00S,1,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+29,39,PT07M28.00S,1,1610612746,LAC,1629611,Mann,T. Mann,235,52,24,Made,1,17,7,24,h,Mann 24' 3PT Jump Shot (3 PTS) (George 2 AST),Made Shot,Jump Shot,1,3
+30,41,PT07M17.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+31,41,PT07M17.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden STEAL (1 STL),,,1,0
+32,43,PT07M12.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-7,21,2,Made,1,19,7,26,h,Leonard 2' Running Finger Roll Layup (4 PTS) (George 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2
+33,46,PT06M58.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,SUB: Westbrook FOR Harden,Substitution,,0,0
+34,47,PT06M58.00S,1,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,SUB: Henderson FOR Reath,Substitution,,0,0
+35,48,PT06M58.00S,1,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,SUB: Walker FOR Simons,Substitution,,0,0
+36,52,PT06M54.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-234,85,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+37,53,PT06M54.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,1,0
+38,54,PT06M54.00S,1,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson L.B.FOUL (P1.T1) (Z.Zarba),Foul,Loose Ball,1,0
+39,56,PT06M40.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+40,56,PT06M40.00S,1,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker STEAL (1 STL),,,1,0
+41,58,PT06M35.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,-183,199,27,Missed,1,,,0,v,MISS Thybulle 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3
+42,59,PT06M30.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+43,60,PT06M21.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,49,17,5,Made,1,21,7,28,h,Zubac 5' Floating Jump Shot (10 PTS) (Mann 3 AST),Made Shot,Floating Jump shot,1,2
+44,62,PT06M14.00S,1,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,0
+45,64,PT06M05.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,176,53,18,Made,1,21,9,30,v,Sharpe 18' Pullup Jump Shot (7 PTS) (Henderson 1 AST),Made Shot,Pullup Jump shot,1,2
+46,66,PT05M54.00S,1,1610612746,LAC,202331,George,P. George,142,231,27,Missed,1,,,0,h,MISS George 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+47,67,PT05M51.00S,1,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+48,68,PT05M44.00S,1,1610612757,POR,1630703,Henderson,S. Henderson,-40,164,17,Made,1,21,11,32,v,Henderson 17' Pullup Jump Shot (2 PTS) (Camara 1 AST),Made Shot,Pullup Jump shot,1,2
+49,70,PT05M29.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,-16,-4,2,Missed,1,,,0,h,MISS Westbrook 2' Layup,Missed Shot,Layup Shot,1,2
+50,71,PT05M26.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+51,72,PT05M25.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,6,0,1,Made,1,23,11,34,h,Westbrook 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2
+52,73,PT05M09.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,0,28,3,Made,1,23,13,36,v,Thybulle 3' Driving Finger Roll Layup (2 PTS) (Camara 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2
+53,75,PT04M53.00S,1,1610612746,LAC,1629611,Mann,T. Mann,-12,9,2,Made,1,25,13,38,h,Mann 2' Driving Reverse Layup (5 PTS) (Westbrook 1 AST),Made Shot,Driving Reverse Layup Shot,1,2
+54,77,PT04M42.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,72,151,17,Made,1,25,15,40,v,Sharpe 17' Fadeaway Jumper (9 PTS) (Henderson 2 AST),Made Shot,Fadeaway Jump Shot,1,2
+55,79,PT04M30.00S,1,1610612746,LAC,202331,George,P. George,13,93,9,Missed,1,,,0,h,MISS George 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+56,80,PT04M26.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+57,81,PT04M26.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,Made,1,27,15,42,h,Zubac Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,2
+58,82,PT04M18.00S,1,1610612757,POR,1630703,Henderson,S. Henderson,109,253,28,Made,1,27,18,45,v,Henderson 28' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3
+59,83,PT04M18.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+60,84,PT04M18.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Brown FOR Thybulle,Substitution,,0,0
+61,86,PT03M57.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,-23,22,3,Missed,1,,,0,h,MISS Zubac 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2
+62,87,PT03M54.00S,1,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+63,88,PT03M51.00S,1,1610612757,POR,1630703,Henderson,S. Henderson,-1,102,10,Made,1,27,20,47,v,Henderson 10' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2
+64,89,PT03M40.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,-1,84,8,Made,1,29,20,49,h,Zubac 8' Floating Jump Shot (14 PTS) (Westbrook 2 AST),Made Shot,Floating Jump shot,1,2
+65,91,PT03M20.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-121,225,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+66,92,PT03M18.00S,1,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+67,94,PT03M18.00S,1,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Theis FOR Mann,Substitution,,0,0
+68,95,PT03M18.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,SUB: Powell FOR Zubac,Substitution,,0,0
+69,98,PT03M11.00S,1,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0
+70,100,PT03M11.00S,1,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,SUB: Simons FOR Camara,Substitution,,0,0
+71,102,PT03M00.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook S.FOUL (P1.T3) (J.Butler),Foul,Shooting,1,0
+72,104,PT03M00.00S,1,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,29,21,50,v,Walker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+73,105,PT03M00.00S,1,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,29,22,51,v,Walker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+74,106,PT02M49.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,151,-17,15,Made,1,31,22,53,h,Leonard 15' Fadeaway Jumper (6 PTS) (Westbrook 3 AST),Made Shot,Fadeaway Jump Shot,1,2
+75,108,PT02M33.00S,1,1610612757,POR,1629650,Brown,M. Brown,-16,37,4,Made,1,31,24,55,v,Brown 4' Cutting Layup Shot (2 PTS) (Sharpe 1 AST),Made Shot,Cutting Layup Shot,1,2
+76,110,PT02M18.00S,1,1610612746,LAC,1628464,Theis,D. Theis,138,224,26,Made,1,34,24,58,h,Theis 26' 3PT Jump Shot (3 PTS) (Leonard 2 AST),Made Shot,Jump Shot,1,3
+77,112,PT02M01.00S,1,1610612757,POR,1630703,Henderson,S. Henderson,-74,75,11,Missed,1,,,0,v,MISS Henderson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+78,113,PT01M58.00S,1,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+79,114,PT01M53.00S,1,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson P.FOUL (P2.T2) (J.Butler),Foul,Personal,1,0
+80,116,PT01M53.00S,1,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,SUB: Brown FOR George,Substitution,,0,0
+81,118,PT01M41.00S,1,1610612746,LAC,1626181,Powell,N. Powell,-145,234,28,Made,1,37,24,61,h,Powell 28' 3PT Jump Shot (3 PTS) (Leonard 3 AST),Made Shot,Jump Shot,1,3
+82,120,PT01M15.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard S.FOUL (P1.T4) (J.Goble),Foul,Shooting,1,0
+83,122,PT01M15.00S,1,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,37,25,62,v,Simons Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0
+84,123,PT01M15.00S,1,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,37,26,63,v,Simons Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0
+85,124,PT01M15.00S,1,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,37,27,64,v,Simons Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0
+86,125,PT01M04.00S,1,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Trail Blazers T.Foul (Def. 3 Sec Brown ) (J.Butler),Foul,Defense 3 Second,1,0
+87,126,PT01M04.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,38,27,65,h,Leonard Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,1,0
+88,127,PT01M04.00S,1,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,SUB: Reath FOR Brown,Substitution,,0,0
+89,129,PT00M57.40S,1,1610612746,LAC,202695,Leonard,K. Leonard,-53,104,12,Made,1,40,27,67,h,Leonard 12' Fadeaway Jumper (9 PTS) (Westbrook 4 AST),Made Shot,Fadeaway Jump Shot,1,2
+90,131,PT00M43.80S,1,1610612757,POR,1629014,Simons,A. Simons,108,84,14,Made,1,40,29,69,v,Simons 14' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2
+91,143,PT00M38.70S,1,1610612746,LAC,1628464,Theis,D. Theis,61,28,7,Missed,1,,,0,h,MISS Theis 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2
+92,143,PT00M38.70S,1,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson BLOCK (1 BLK),,,1,2
+93,145,PT00M37.70S,1,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+94,134,PT00M29.70S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,67,20,7,Missed,1,,,0,v,MISS Sharpe 7' Running Layup,Missed Shot,Running Layup Shot,1,2
+95,134,PT00M29.70S,1,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,2
+96,136,PT00M27.80S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+97,139,PT00M11.70S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,-127,236,27,Made,1,43,29,72,h,Westbrook 27' 3PT Jump Shot (5 PTS) (Powell 1 AST),Made Shot,Jump Shot,1,3
+98,141,PT00M00.10S,1,1610612757,POR,1629014,Simons,A. Simons,-190,196,27,Made,1,43,32,75,v,Simons 27' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3
+99,142,PT00M00.00S,1,0,,0,,,0,0,0,,0,43,32,75,,End of 1st Period (11:05 PM EST),period,end,1,0
+100,152,PT12M00.00S,2,0,,0,,,0,0,0,,0,43,32,75,,Start of 2nd Period (11:07 PM EST),period,start,0,0
+101,153,PT11M50.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,29,43,5,Missed,1,,,0,v,MISS Henderson 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+102,153,PT11M50.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell BLOCK (2 BLK),,,1,2
+103,155,PT11M50.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+104,157,PT11M45.00S,2,1610612757,POR,1629014,Simons,A. Simons,-56,259,26,Made,1,43,35,78,v,Simons 26' 3PT Jump Shot (11 PTS) (Walker 1 AST),Made Shot,Jump Shot,1,3
+105,159,PT11M45.00S,2,1610612746,LAC,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown FLAGRANT.FOUL.TYPE1 (P1.T1) (Z.Zarba),Foul,Flagrant Type 1,1,0
+106,161,PT11M45.00S,2,0,,159,,,0,0,0,,0,43,35,78,,Instant Replay2nd Period (11:09 PM EST),Instant Replay,Overturn Ruling,0,0
+107,162,PT11M45.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,43,36,79,v,Simons Free Throw Flagrant 1 of 1 (12 PTS),Free Throw,Free Throw Flagrant 1 of 1,1,0
+108,163,PT11M38.00S,2,1610612757,POR,1641871,Reath,D. Reath,164,205,26,Missed,1,,,0,v,MISS Reath 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+109,164,PT11M32.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+110,165,PT11M32.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+111,166,PT11M18.00S,2,1610612757,POR,1641871,Reath,D. Reath,-40,36,5,Made,1,43,38,81,v,Reath 5' Turnaround Hook Shot (4 PTS) (Simons 2 AST),Made Shot,Turnaround Hook Shot,1,2
+112,167,PT10M56.00S,2,1610612746,LAC,202331,George,P. George,225,115,25,Made,1,46,38,84,h,George 25' 3PT Jump Shot (5 PTS) (Harden 2 AST),Made Shot,Jump Shot,1,3
+113,170,PT10M30.00S,2,1610612757,POR,1629014,Simons,A. Simons,-23,28,4,Made,1,46,40,86,v,Simons 4' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2
+114,171,PT10M21.00S,2,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,Reath S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,0
+115,174,PT10M21.00S,2,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,47,40,87,h,Harden Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+116,175,PT10M21.00S,2,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,48,40,88,h,Harden Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+117,176,PT10M08.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+118,176,PT10M08.00S,2,1610612746,LAC,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis STEAL (1 STL),,,1,0
+119,178,PT10M02.00S,2,1610612746,LAC,201935,Harden,J. Harden,-18,26,3,Missed,1,,,0,h,MISS Harden 3' Running Layup,Missed Shot,Running Layup Shot,1,2
+120,178,PT10M02.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson BLOCK (2 BLK),,,1,2
+121,180,PT10M02.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+122,182,PT09M52.00S,2,1610612746,LAC,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0
+123,184,PT09M41.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,-235,50,24,Made,1,48,43,91,v,Henderson 24' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,1,3
+124,185,PT09M30.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0
+125,187,PT09M20.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0
+126,188,PT09M10.00S,2,1610612746,LAC,202331,George,P. George,20,260,26,Missed,1,,,0,h,MISS George 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+127,189,PT09M08.00S,2,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+128,191,PT09M07.00S,2,1610612746,LAC,1628464,Theis,D. Theis,5,27,3,Missed,1,,,0,h,MISS Theis 3' Layup,Missed Shot,Layup Shot,1,2
+129,191,PT09M07.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,Simons BLOCK (1 BLK),,,1,2
+130,193,PT09M04.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+131,194,PT09M04.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+132,195,PT08M47.00S,2,1610612746,LAC,1641738,Brown,K. Brown,238,66,25,Missed,1,,,0,h,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+133,196,PT08M44.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+134,197,PT08M34.00S,2,1610612757,POR,1641871,Reath,D. Reath,146,227,27,Missed,1,,,0,v,MISS Reath 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+135,198,PT08M33.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+136,199,PT08M30.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+137,200,PT08M30.00S,2,1610612746,LAC,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,SUB: Zubac FOR Theis,Substitution,,0,0
+138,201,PT08M30.00S,2,1610612746,LAC,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,SUB: Mann FOR Brown,Substitution,,0,0
+139,204,PT08M14.00S,2,1610612746,LAC,202331,George,P. George,81,71,11,Made,1,50,43,93,h,George 11' Driving Hook Shot (7 PTS),Made Shot,Driving Hook Shot,1,2
+140,205,PT08M05.00S,2,1610612757,POR,1629014,Simons,A. Simons,-15,29,3,Missed,1,,,0,v,MISS Simons 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+141,206,PT08M02.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+142,207,PT08M01.00S,2,1610612757,POR,1631133,Walker,J. Walker,9,7,1,Made,1,50,45,95,v,Walker 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2
+143,208,PT07M50.00S,2,1610612746,LAC,1626181,Powell,N. Powell,5,36,4,Made,1,52,45,97,h,Powell 4' Driving Layup (5 PTS) (Harden 3 AST),Made Shot,Driving Layup Shot,1,2
+144,210,PT07M35.00S,2,1610612757,POR,1631133,Walker,J. Walker,190,202,28,Made,1,52,48,100,v,Walker 28' 3PT Jump Shot (7 PTS) (Henderson 3 AST),Made Shot,Jump Shot,1,3
+145,212,PT07M19.00S,2,1610612746,LAC,201935,Harden,J. Harden,142,209,25,Missed,1,,,0,h,MISS Harden 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+146,213,PT07M17.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+147,214,PT07M10.00S,2,1610612757,POR,1641871,Reath,D. Reath,-13,54,6,Missed,1,,,0,v,MISS Reath 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2
+148,214,PT07M10.00S,2,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden BLOCK (1 BLK),,,1,2
+149,216,PT07M07.00S,2,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+150,217,PT07M04.00S,2,1610612746,LAC,1626181,Powell,N. Powell,191,177,26,Missed,1,,,0,h,MISS Powell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+151,218,PT07M03.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+152,219,PT07M03.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle L.B.FOUL (P1.T3) (J.Goble),Foul,Loose Ball,1,0
+153,221,PT07M03.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,SUB: Brown FOR Simons,Substitution,,0,0
+154,222,PT07M03.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Sharpe FOR Thybulle,Substitution,,0,0
+155,223,PT07M03.00S,2,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,SUB: Camara FOR Reath,Substitution,,0,0
+156,227,PT06M55.00S,2,1610612746,LAC,1629611,Mann,T. Mann,-239,59,25,Missed,1,,,0,h,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+157,228,PT06M52.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+158,230,PT06M44.00S,2,1610612757,POR,1629650,Brown,M. Brown,-1,27,3,Missed,1,,,0,v,MISS Brown 3' Dunk,Missed Shot,Dunk Shot,1,2
+159,231,PT06M40.00S,2,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+160,232,PT06M29.00S,2,1610612746,LAC,1626181,Powell,N. Powell,-237,-1,24,Made,1,55,48,103,h,Powell 24' 3PT Jump Shot (8 PTS) (George 4 AST),Made Shot,Jump Shot,1,3
+161,234,PT06M17.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,135,232,27,Missed,1,,,0,v,MISS Henderson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+162,235,PT06M17.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+163,237,PT06M17.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,SUB: Leonard FOR Powell,Substitution,,0,0
+164,239,PT06M01.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,60,55,8,Missed,1,,,0,h,MISS Leonard 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2
+165,240,PT05M58.00S,2,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+166,241,PT05M44.00S,2,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,1,0
+167,243,PT05M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,55,49,104,v,Sharpe Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+168,244,PT05M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,55,50,105,v,Sharpe Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+169,245,PT05M23.00S,2,1610612746,LAC,201935,Harden,J. Harden,2,47,5,Missed,1,,,0,h,MISS Harden 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+170,246,PT05M20.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+171,247,PT05M06.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,119,169,21,Missed,1,,,0,v,MISS Henderson 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+172,248,PT05M03.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+173,249,PT05M02.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac S.FOUL (P1.T4) (J.Butler),Foul,Shooting,1,0
+174,251,PT05M02.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,55,51,106,v,Sharpe Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0
+175,252,PT05M02.00S,2,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,SUB: Powell FOR George,Substitution,,0,0
+176,254,PT05M02.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+177,255,PT04M57.00S,2,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+178,256,PT04M47.00S,2,1610612746,LAC,1626181,Powell,N. Powell,17,77,8,Made,1,57,51,108,h,Powell 8' Driving Floating Jump Shot (10 PTS) (Harden 4 AST),Made Shot,Driving Floating Jump Shot,1,2
+179,259,PT04M39.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,0
+180,261,PT04M39.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,57,52,109,v,Sharpe Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0
+181,262,PT04M39.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,57,53,110,v,Sharpe Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+182,264,PT04M26.00S,2,1610612746,LAC,1626181,Powell,N. Powell,38,17,4,Made,1,59,53,112,h,Powell 4' Driving Floating Jump Shot (12 PTS) (Harden 5 AST),Made Shot,Driving Floating Jump Shot,1,2
+183,266,PT04M15.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,0
+184,268,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,59,54,113,v,Sharpe Free Throw 1 of 3 (15 PTS),Free Throw,Free Throw 1 of 3,0,0
+185,269,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,59,55,114,v,Sharpe Free Throw 2 of 3 (16 PTS),Free Throw,Free Throw 2 of 3,1,0
+186,270,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,0
+187,271,PT04M14.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+188,273,PT04M02.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+189,273,PT04M02.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard STEAL (1 STL),,,1,0
+190,275,PT03M50.00S,2,1610612746,LAC,201935,Harden,J. Harden,10,122,12,Made,1,61,55,116,h,Harden 12' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2
+191,276,PT03M36.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,-39,60,7,Made,1,61,57,118,v,Henderson 7' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2
+192,277,PT03M19.00S,2,1610612746,LAC,201935,Harden,J. Harden,65,258,27,Made,1,64,57,121,h,Harden 27' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3
+193,278,PT03M05.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,76,146,16,Made,1,64,59,123,v,Henderson 16' Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,1,2
+194,279,PT02M52.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+195,280,PT02M52.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,SUB: Simons FOR Walker,Substitution,,0,0
+196,282,PT02M37.00S,2,1610612746,LAC,201935,Harden,J. Harden,-131,243,28,Missed,1,,,0,h,MISS Harden 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+197,283,PT02M34.00S,2,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+198,284,PT02M17.00S,2,1610612757,POR,1630703,Henderson,S. Henderson,0,137,14,Missed,1,,,0,v,MISS Henderson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+199,285,PT02M15.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+200,286,PT02M09.00S,2,1610612746,LAC,1626181,Powell,N. Powell,201,161,26,Missed,1,,,0,h,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+201,287,PT02M04.00S,2,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+202,288,PT01M58.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P3.PN) (J.Goble),Foul,Personal,1,0
+203,290,PT01M58.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,64,60,124,v,Simons Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+204,291,PT01M58.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,SUB: George FOR Powell,Substitution,,0,0
+205,293,PT01M58.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,64,61,125,v,Simons Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0
+206,294,PT01M35.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,140,45,15,Missed,1,,,0,h,MISS Leonard 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+207,295,PT01M32.00S,2,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+208,296,PT01M26.00S,2,1610612757,POR,1629014,Simons,A. Simons,-170,184,25,Missed,1,,,0,v,MISS Simons 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3
+209,297,PT01M24.00S,2,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+210,298,PT01M23.00S,2,1610612757,POR,1629650,Brown,M. Brown,2,15,2,Made,1,64,63,127,v,Brown 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2
+211,299,PT01M08.00S,2,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden OFF.Foul (P1) (J.Goble),Foul,Offensive,1,0
+212,301,PT01M08.00S,2,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0
+213,302,PT00M49.40S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-51,89,10,Missed,1,,,0,v,MISS Sharpe 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+214,303,PT00M47.10S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+215,304,PT00M40.40S,2,1610612746,LAC,202331,George,P. George,135,230,27,Missed,1,,,0,h,MISS George 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+216,305,PT00M37.50S,2,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+217,306,PT00M31.80S,2,1610612757,POR,1629014,Simons,A. Simons,-88,139,16,Missed,1,,,0,v,MISS Simons 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+218,307,PT00M29.40S,2,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+219,308,PT00M28.90S,2,1610612757,POR,1629650,Brown,M. Brown,-25,36,4,Made,1,64,65,129,v,Brown 4' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2
+220,309,PT00M07.20S,2,1610612746,LAC,202331,George,P. George,0,8,1,Made,1,66,65,131,h,George 1' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2
+221,311,PT00M00.00S,2,0,,0,,,0,0,0,,0,66,65,131,,Instant Replay2nd Period (11:38 PM EST),Instant Replay,Support Ruling,0,0
+222,310,PT00M00.00S,2,0,,0,,,0,0,0,,0,66,65,131,,End of 2nd Period (11:38 PM EST),period,end,1,0
+223,316,PT12M00.00S,3,0,,0,,,0,0,0,,0,66,65,131,,Start of 3rd Period (11:54 PM EST),period,start,0,0
+224,317,PT11M42.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-168,198,26,Made,1,66,68,134,v,Sharpe 26' 3PT Jump Shot (19 PTS) (Camara 3 AST),Made Shot,Jump Shot,1,3
+225,319,PT11M14.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,99,254,27,Missed,1,,,0,h,MISS Leonard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+226,320,PT11M11.00S,3,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+227,321,PT10M57.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,230,104,25,Made,1,66,71,137,v,Thybulle 25' 3PT Step Back Jump Shot (5 PTS) (Reath 1 AST),Made Shot,Step Back Jump shot,1,3
+228,323,PT10M45.00S,3,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara P.FOUL (P1.T1) (J.Butler),Foul,Personal,1,0
+229,325,PT10M29.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,224,44,0,Missed,1,,,0,h,MISS Leonard 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+230,326,PT10M27.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,1,0
+231,328,PT10M22.00S,3,1610612746,LAC,201935,Harden,J. Harden,223,37,0,Made,1,69,71,140,h,Harden 3PT Jump Shot (12 PTS) (Leonard 4 AST),Made Shot,Jump Shot,1,3
+232,330,PT10M14.00S,3,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,Reath OFF.Foul (P2) (J.Goble),Foul,Offensive,1,0
+233,332,PT10M14.00S,3,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,Reath Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0
+234,333,PT09M56.00S,3,1610612746,LAC,201935,Harden,J. Harden,221,110,25,Made,1,72,71,143,h,Harden 25' 3PT Jump Shot (15 PTS) (George 5 AST),Made Shot,Jump Shot,1,3
+235,335,PT09M41.00S,3,1610612757,POR,1641871,Reath,D. Reath,9,29,3,Missed,1,,,0,v,MISS Reath 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2
+236,336,PT09M39.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+237,337,PT09M35.00S,3,1610612746,LAC,1629611,Mann,T. Mann,-224,99,24,Missed,1,,,0,h,MISS Mann 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+238,338,PT09M31.00S,3,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,Reath REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+239,339,PT09M26.00S,3,1610612757,POR,1629014,Simons,A. Simons,-137,216,26,Made,1,72,74,146,v,Simons 26' 3PT Jump Shot (19 PTS) (Sharpe 2 AST),Made Shot,Jump Shot,1,3
+240,341,PT09M12.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,43,78,9,Made,1,74,74,148,h,Leonard 9' Fadeaway Jumper (11 PTS) (Harden 6 AST),Made Shot,Fadeaway Jump Shot,1,2
+241,343,PT09M00.00S,3,1610612757,POR,1641871,Reath,D. Reath,40,272,27,Made,1,74,77,151,v,Reath 27' 3PT Jump Shot (7 PTS) (Camara 4 AST),Made Shot,Jump Shot,1,3
+242,346,PT08M35.00S,3,1610612746,LAC,202331,George,P. George,232,42,24,Made,1,77,77,154,h,George 24' 3PT Jump Shot (12 PTS) (Leonard 5 AST),Made Shot,Jump Shot,1,3
+243,348,PT08M25.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,-196,155,25,Made,1,77,80,157,v,Thybulle 25' 3PT Jump Shot (8 PTS) (Sharpe 3 AST),Made Shot,Jump Shot,1,3
+244,350,PT08M13.00S,3,1610612746,LAC,201935,Harden,J. Harden,-16,12,2,Made,1,79,80,159,h,Harden 2' Driving Dunk (17 PTS),Made Shot,Driving Dunk Shot,1,2
+245,351,PT07M46.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,223,2,0,Missed,1,,,0,v,MISS Thybulle 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+246,352,PT07M44.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+247,353,PT07M37.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,10,58,6,Missed,1,,,0,h,MISS Zubac 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2
+248,354,PT07M35.00S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+249,355,PT07M33.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,-6,5,1,Made,1,81,80,161,h,Zubac 1' Cutting Dunk Shot (16 PTS) (Mann 4 AST),Made Shot,Cutting Dunk Shot,1,2
+250,357,PT07M07.00S,3,1610612757,POR,1629014,Simons,A. Simons,-163,82,18,Made,1,81,82,163,v,Simons 18' Fadeaway Jumper (21 PTS) (Reath 2 AST),Made Shot,Fadeaway Jump Shot,1,2
+251,358,PT06M59.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T2) (J.Butler),Foul,Personal,1,0
+252,360,PT06M59.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+253,362,PT06M41.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,25,-3,3,Missed,1,,,0,h,MISS Leonard 3' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2
+254,363,PT06M38.00S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+255,364,PT06M35.00S,3,1610612746,LAC,1629611,Mann,T. Mann,-13,121,12,Made,1,83,82,165,h,Mann 12' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2
+256,365,PT06M20.00S,3,1610612757,POR,1629014,Simons,A. Simons,228,115,26,Made,1,83,85,168,v,Simons 26' 3PT Jump Shot (24 PTS) (Sharpe 4 AST),Made Shot,Jump Shot,1,3
+257,367,PT06M02.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,219,118,25,Made,1,86,85,171,h,Leonard 25' 3PT Jump Shot (14 PTS) (George 6 AST),Made Shot,Jump Shot,1,3
+258,369,PT05M45.00S,3,1610612757,POR,1629014,Simons,A. Simons,-146,137,20,Missed,1,,,0,v,MISS Simons 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+259,370,PT05M42.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+260,371,PT05M39.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0
+261,371,PT05M39.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle STEAL (1 STL),,,1,0
+262,373,PT05M28.00S,3,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George P.FOUL (P2.T1) (Z.Zarba),Foul,Personal,1,0
+263,375,PT05M28.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,SUB: Westbrook FOR Harden,Substitution,,0,0
+264,377,PT05M21.00S,3,1610612757,POR,1641871,Reath,D. Reath,102,245,27,Made,1,86,88,174,v,Reath 27' 3PT Jump Shot (10 PTS) (Simons 3 AST),Made Shot,Jump Shot,1,3
+265,379,PT04M58.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,227,118,26,Made,1,89,88,177,h,Leonard 26' 3PT Pullup Jump Shot (17 PTS) (Westbrook 5 AST),Made Shot,Pullup Jump shot,1,3
+266,381,PT04M44.00S,3,1610612757,POR,1641739,Camara,T. Camara,-232,-22,0,Missed,1,,,0,v,MISS Camara 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+267,382,PT04M39.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+268,383,PT04M37.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,-2,26,3,Made,1,91,88,179,h,Leonard 3' Cutting Layup Shot (19 PTS) (George 7 AST),Made Shot,Cutting Layup Shot,1,2
+269,385,PT04M37.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+270,386,PT04M37.00S,3,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,SUB: Henderson FOR Simons,Substitution,,0,0
+271,388,PT04M25.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,-227,15,0,Made,1,91,91,182,v,Thybulle 3PT Jump Shot (11 PTS) (Henderson 4 AST),Made Shot,Jump Shot,1,3
+272,390,PT03M58.00S,3,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara S.FOUL (P2.T3) (J.Butler),Foul,Shooting,1,0
+273,392,PT03M58.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,92,91,183,h,Leonard Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0
+274,393,PT03M58.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,93,91,184,h,Leonard Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0
+275,394,PT03M30.00S,3,1610612757,POR,1630703,Henderson,S. Henderson,-195,177,26,Made,1,93,94,187,v,Henderson 26' 3PT Step Back Jump Shot (17 PTS) (Sharpe 5 AST),Made Shot,Step Back Jump shot,1,3
+276,397,PT03M13.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+277,397,PT03M13.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,0,0
+278,399,PT03M10.00S,3,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0
+279,399,PT03M10.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard STEAL (2 STL),,,1,0
+280,401,PT03M02.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0
+281,401,PT03M02.00S,3,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,Reath STEAL (1 STL),,,1,0
+282,403,PT02M59.00S,3,1610612757,POR,1630703,Henderson,S. Henderson,6,22,2,Missed,1,,,0,v,MISS Henderson 2' Running Layup,Missed Shot,Running Layup Shot,1,2
+283,403,PT02M59.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook BLOCK (1 BLK),,,1,2
+284,405,PT02M59.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+285,407,PT02M59.00S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Theis FOR Mann,Substitution,,0,0
+286,408,PT02M59.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,SUB: Powell FOR Zubac,Substitution,,0,0
+287,411,PT02M52.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-22,272,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+288,412,PT02M49.00S,3,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+289,413,PT02M45.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,-5,26,3,Made,1,95,94,189,h,Westbrook 3' Running Finger Roll Layup (7 PTS),Made Shot,Running Finger Roll Layup Shot,1,2
+290,414,PT02M37.00S,3,1610612757,POR,1641871,Reath,D. Reath,-110,224,25,Missed,1,,,0,v,MISS Reath 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+291,415,PT02M34.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,1,0
+292,419,PT02M34.00S,3,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,SUB: Walker FOR Reath,Substitution,,0,0
+293,421,PT02M25.00S,3,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara P.FOUL (P3.T4) (J.Butler),Foul,Personal,1,0
+294,423,PT02M25.00S,3,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,SUB: Simons FOR Camara,Substitution,,0,0
+295,426,PT02M06.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,-186,50,19,Made,1,97,94,191,h,Westbrook 19' Jump Shot (9 PTS) (George 8 AST),Made Shot,Jump Shot,1,2
+296,428,PT01M49.00S,3,1610612757,POR,1630703,Henderson,S. Henderson,85,146,17,Missed,1,,,0,v,MISS Henderson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+297,429,PT01M45.00S,3,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+298,430,PT01M43.00S,3,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson S.FOUL (P3.PN) (J.Goble),Foul,Shooting,1,0
+299,432,PT01M43.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,MISS Westbrook Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+300,433,PT01M43.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+301,434,PT01M43.00S,3,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,SUB: Harden FOR George,Substitution,,0,0
+302,436,PT01M43.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,98,94,192,h,Westbrook Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0
+303,437,PT01M25.00S,3,1610612757,POR,1631133,Walker,J. Walker,239,59,25,Missed,1,,,0,v,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+304,438,PT01M23.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+305,439,PT01M20.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,-4,17,2,Made,1,100,94,194,h,Westbrook 2' Running Layup (12 PTS) (Harden 7 AST),Made Shot,Running Layup Shot,1,2
+306,441,PT01M12.00S,3,1610612757,POR,1630703,Henderson,S. Henderson,18,3,2,Made,1,100,96,196,v,Henderson 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2
+307,442,PT00M58.90S,3,1610612746,LAC,1626181,Powell,N. Powell,-16,50,5,Made,1,102,96,198,h,Powell 5' Floating Jump Shot (14 PTS) (Westbrook 6 AST),Made Shot,Floating Jump shot,1,2
+308,444,PT00M51.40S,3,1610612757,POR,1630703,Henderson,S. Henderson,10,26,3,Missed,1,,,0,v,MISS Henderson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+309,445,PT00M50.60S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+310,446,PT00M50.60S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,25,3,Missed,1,,,0,v,MISS Sharpe 3' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2
+311,446,PT00M50.60S,3,1610612746,LAC,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis BLOCK (1 BLK),,,1,2
+312,447,PT00M48.80S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+313,449,PT00M29.40S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,229,116,26,Missed,1,,,0,h,MISS Westbrook 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+314,450,PT00M26.40S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+315,451,PT00M06.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-191,159,25,Made,1,102,99,201,v,Sharpe 25' 3PT Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,1,3
+316,452,PT00M01.30S,3,1610612746,LAC,202695,Leonard,K. Leonard,62,268,28,Made,1,105,99,204,h,Leonard 28' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,1,3
+317,466,PT00M00.10S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-164,526,55,Missed,1,,,0,v,MISS Sharpe 55' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+318,467,PT00M00.10S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+319,453,PT00M00.00S,3,0,,0,,,0,0,0,,0,105,99,204,,End of 3rd Period (12:17 AM EST),period,end,1,0
+320,461,PT12M00.00S,4,0,,0,,,0,0,0,,0,105,99,204,,Start of 4th Period (12:20 AM EST),period,start,0,0
+321,462,PT11M45.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0
+322,462,PT11M45.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara STEAL (1 STL),,,1,0
+323,464,PT11M41.00S,4,1610612757,POR,1631133,Walker,J. Walker,28,24,4,Made,1,105,101,206,v,Walker 4' Running Reverse Layup (9 PTS) (Henderson 5 AST),Made Shot,Running Reverse Layup Shot,1,2
+324,468,PT11M22.00S,4,1610612746,LAC,201935,Harden,J. Harden,-65,111,13,Missed,1,,,0,h,MISS Harden 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+325,469,PT11M22.00S,4,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+326,470,PT10M58.00S,4,1610612757,POR,1641739,Camara,T. Camara,6,6,1,Made,1,105,103,208,v,Camara 1' Cutting Layup Shot (2 PTS) (Simons 4 AST),Made Shot,Cutting Layup Shot,1,2
+327,472,PT10M37.00S,4,1610612746,LAC,202331,George,P. George,0,96,10,Missed,1,,,0,h,MISS George 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+328,473,PT10M37.00S,4,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+329,474,PT10M37.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George P.FOUL (P3.T1) (J.Butler),Foul,Personal,1,0
+330,476,PT10M28.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden L.B.FOUL (P2.T2) (J.Butler),Foul,Loose Ball,1,0
+331,478,PT10M13.00S,4,1610612757,POR,1629014,Simons,A. Simons,168,195,26,Missed,1,,,0,v,MISS Simons 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+332,479,PT10M13.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+333,480,PT10M13.00S,4,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown L.B.FOUL (P1.T1) (Z.Zarba),Foul,Loose Ball,1,0
+334,482,PT10M13.00S,4,0,,480,,,0,0,0,,0,105,103,208,,Instant Replay4th Period (12:23 AM EST),Instant Replay,Ruling Stands,0,0
+335,484,PT10M02.00S,4,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P4.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+336,485,PT09M51.00S,4,1610612757,POR,1629014,Simons,A. Simons,-125,63,14,Missed,1,,,0,v,MISS Simons 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2
+337,486,PT09M48.00S,4,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+338,487,PT09M48.00S,4,1610612757,POR,1629650,Brown,M. Brown,0,0,0,Missed,1,,,0,v,MISS Brown Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2
+339,488,PT09M48.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+340,490,PT09M39.00S,4,1610612746,LAC,201935,Harden,J. Harden,-9,105,11,Made,1,107,103,210,h,Harden 11' Jump Shot (19 PTS),Made Shot,Jump Shot,1,2
+341,491,PT09M39.00S,4,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson S.FOUL (P4.T2) (J.Goble),Foul,Shooting,1,0
+342,493,PT09M39.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,108,103,211,h,Harden Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1,0
+343,494,PT09M29.00S,4,1610612746,LAC,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,0
+344,496,PT09M29.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,108,104,212,v,Simons Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0
+345,497,PT09M29.00S,4,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,SUB: Sharpe FOR Walker,Substitution,,0,0
+346,499,PT09M29.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,108,105,213,v,Simons Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0
+347,500,PT09M16.00S,4,1610612746,LAC,202331,George,P. George,-135,238,27,Missed,1,,,0,h,MISS George 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+348,501,PT09M13.00S,4,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+349,502,PT09M06.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-227,46,0,Made,1,108,108,216,v,Sharpe 3PT Jump Shot (25 PTS) (Henderson 6 AST),Made Shot,Jump Shot,1,3
+350,504,PT09M05.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+351,505,PT08M47.00S,4,1610612746,LAC,202331,George,P. George,62,126,14,Made,1,110,108,218,h,George 14' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2
+352,506,PT08M33.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-29,21,4,Missed,1,,,0,v,MISS Sharpe 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+353,507,PT08M31.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+354,508,PT08M15.00S,4,1610612746,LAC,201935,Harden,J. Harden,162,232,28,Missed,1,,,0,h,MISS Harden 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+355,509,PT08M15.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+356,511,PT08M15.00S,4,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,SUB: Leonard FOR Westbrook,Substitution,,0,0
+357,513,PT08M01.00S,4,1610612757,POR,1629650,Brown,M. Brown,-21,29,4,Missed,1,,,0,v,MISS Brown 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+358,513,PT08M01.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,h,Harden BLOCK (2 BLK),,,1,2
+359,515,PT07M57.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+360,516,PT07M55.00S,4,1610612746,LAC,202331,George,P. George,165,223,28,Missed,1,,,0,h,MISS George 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+361,517,PT07M52.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+362,518,PT07M45.00S,4,1610612757,POR,1629014,Simons,A. Simons,-237,30,24,Missed,1,,,0,v,MISS Simons 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+363,519,PT07M43.00S,4,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:4 Def:7),Rebound,Unknown,1,0
+364,520,PT07M41.00S,4,1610612757,POR,1629650,Brown,M. Brown,-10,16,2,Missed,1,,,0,v,MISS Brown 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2
+365,521,PT07M39.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+366,522,PT07M35.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,Simons S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,1,0
+367,524,PT07M35.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,111,108,219,h,Leonard Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0
+368,525,PT07M35.00S,4,1610612746,LAC,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,SUB: Zubac FOR Theis,Substitution,,0,0
+369,527,PT07M35.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,112,108,220,h,Leonard Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0
+370,528,PT07M23.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,Simons Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0
+371,528,PT07M23.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George STEAL (1 STL),,,1,0
+372,531,PT07M08.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-188,196,27,Missed,1,,,0,h,MISS Leonard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+373,532,PT07M05.00S,4,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:4 Def:8),Rebound,Unknown,1,0
+374,533,PT06M44.00S,4,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,Brown Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0
+375,533,PT06M44.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0
+376,535,PT06M30.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,26,127,13,Made,1,114,108,222,h,Leonard 13' Pullup Jump Shot (28 PTS) (Zubac 1 AST),Made Shot,Pullup Jump shot,1,2
+377,537,PT06M30.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+378,538,PT06M30.00S,4,1610612757,POR,1629650,Brown,M. Brown,0,0,0,,0,,,0,v,SUB: Reath FOR Brown,Substitution,,0,0
+379,540,PT06M11.00S,4,1610612757,POR,1641739,Camara,T. Camara,-225,6,0,Made,1,114,111,225,v,Camara 3PT Jump Shot (5 PTS) (Sharpe 6 AST),Made Shot,Jump Shot,1,3
+380,542,PT05M56.00S,4,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,Henderson P.FOUL (P5.T4) (J.Goble),Foul,Personal,1,0
+381,544,PT05M56.00S,4,1610612757,POR,1630703,Henderson,S. Henderson,0,0,0,,0,,,0,v,SUB: Thybulle FOR Henderson,Substitution,,0,0
+382,546,PT05M48.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-1,39,4,Made,1,116,111,227,h,Leonard 4' Driving Layup (30 PTS) (Zubac 2 AST),Made Shot,Driving Layup Shot,1,2
+383,548,PT05M40.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac S.FOUL (P2.T4) (J.Butler),Foul,Shooting,1,0
+384,550,PT05M40.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,116,112,228,v,Simons Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0
+385,551,PT05M40.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,116,113,229,v,Simons Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0
+386,552,PT05M23.00S,4,1610612746,LAC,1626181,Powell,N. Powell,16,39,4,Missed,1,,,0,h,MISS Powell 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+387,553,PT05M20.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+388,554,PT05M20.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,Made,1,118,113,231,h,Zubac Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,2
+389,556,PT05M20.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell T.FOUL (P3.T4) (J.Goble),Foul,Technical,0,0
+390,557,PT05M20.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,118,114,232,v,Simons Free Throw Technical (29 PTS),Free Throw,Free Throw Technical,1,0
+391,558,PT05M05.00S,4,1610612757,POR,1629014,Simons,A. Simons,-127,225,26,Missed,1,,,0,v,MISS Simons 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+392,559,PT05M04.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+393,560,PT05M04.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell L.B.FOUL (P4.PN) (J.Goble),Foul,Loose Ball,1,0
+394,562,PT05M04.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,MISS Camara Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+395,563,PT05M04.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+396,564,PT05M04.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,MISS Camara Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+397,566,PT05M04.00S,4,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,Reath REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+398,565,PT04M49.00S,4,1610612757,POR,1641739,Camara,T. Camara,71,74,10,Made,1,118,116,234,v,Camara 10' Floating Jump Shot (7 PTS) (Reath 3 AST),Made Shot,Floating Jump shot,1,2
+399,567,PT04M36.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-147,238,28,Missed,1,,,0,h,MISS Leonard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+400,568,PT04M35.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+401,570,PT04M35.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+402,572,PT04M35.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.PN) (J.Butler),Foul,Personal,1,0
+403,574,PT04M35.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,119,116,235,h,Leonard Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,0
+404,575,PT04M35.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,120,116,236,h,Leonard Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0
+405,576,PT04M25.00S,4,1610612757,POR,1629014,Simons,A. Simons,-39,274,28,Made,1,120,119,239,v,Simons 28' 3PT Pullup Jump Shot (32 PTS),Made Shot,Pullup Jump shot,1,3
+406,577,PT04M08.00S,4,1610612746,LAC,202331,George,P. George,54,269,27,Missed,1,,,0,h,MISS George 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+407,578,PT04M06.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,Simons REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+408,579,PT04M00.00S,4,1610612757,POR,1629014,Simons,A. Simons,-47,240,24,Missed,1,,,0,v,MISS Simons 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+409,580,PT03M57.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+410,581,PT03M51.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+411,582,PT03M32.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,143,106,18,Made,1,120,121,241,v,Sharpe 18' Pullup Jump Shot (27 PTS) (Reath 4 AST),Made Shot,Pullup Jump shot,1,2
+412,584,PT03M16.00S,4,1610612746,LAC,201935,Harden,J. Harden,-15,20,3,Missed,1,,,0,h,MISS Harden 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+413,584,PT03M16.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara BLOCK (1 BLK),,,1,2
+414,586,PT03M13.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+415,587,PT02M58.00S,4,1610612757,POR,1629014,Simons,A. Simons,-26,27,4,Missed,1,,,0,v,MISS Simons 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+416,588,PT02M55.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+417,589,PT02M44.00S,4,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,Reath P.FOUL (P3.PN) (Z.Zarba),Foul,Personal,1,0
+418,591,PT02M44.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+419,592,PT02M44.00S,4,0,,589,,,0,0,0,,0,120,121,241,,Instant Replay4th Period (12:49 AM EST),Instant Replay,Coach Challenge Ruling Stands,1,0
+420,593,PT02M44.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,121,121,242,h,George Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+421,594,PT02M44.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,SUB: Mann FOR Powell,Substitution,,0,0
+422,596,PT02M44.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,122,121,243,h,George Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0
+423,597,PT02M30.00S,4,1610612757,POR,1629014,Simons,A. Simons,-22,50,5,Missed,1,,,0,v,MISS Simons 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+424,598,PT02M28.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+425,599,PT02M11.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard Offensive Charge Foul (P2) (J.Butler),Foul,Offensive Charge,1,0
+426,601,PT02M11.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0
+427,602,PT02M00.00S,4,1610612757,POR,1629014,Simons,A. Simons,31,10,3,Made,1,122,123,245,v,Simons 3' Driving Layup (34 PTS),Made Shot,Driving Layup Shot,1,2
+428,603,PT01M38.00S,4,1610612746,LAC,1629611,Mann,T. Mann,239,54,25,Missed,1,,,0,h,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+429,604,PT01M35.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+430,605,PT01M34.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-157,218,27,Missed,1,,,0,h,MISS Leonard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+431,606,PT01M30.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+432,607,PT01M15.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,Simons Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0
+433,607,PT01M15.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard STEAL (3 STL),,,1,0
+434,609,PT01M13.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,0
+435,611,PT01M13.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,123,123,246,h,Mann Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0
+436,612,PT01M13.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,124,123,247,h,Mann Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0
+437,613,PT01M00.00S,4,1610612757,POR,1641739,Camara,T. Camara,-11,21,2,Missed,1,,,0,v,MISS Camara 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2
+438,613,PT01M00.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac BLOCK (2 BLK),,,1,2
+439,615,PT01M00.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+440,617,PT00M39.40S,4,1610612746,LAC,202331,George,P. George,-18,90,9,Missed,1,,,0,h,MISS George 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+441,618,PT00M37.80S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+442,619,PT00M36.20S,4,1610612746,LAC,202331,George,P. George,-12,26,3,Missed,1,,,0,h,MISS George 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2
+443,620,PT00M36.20S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+444,621,PT00M35.70S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,Missed,1,,,0,h,MISS Zubac Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2
+445,622,PT00M35.70S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+446,624,PT00M35.70S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+447,625,PT00M35.70S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Powell FOR Mann,Substitution,,0,0
+448,626,PT00M35.70S,4,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,,,0,v,SUB: Walker FOR Reath,Substitution,,0,0
+449,629,PT00M31.00S,4,1610612746,LAC,202331,George,P. George,9,42,4,Made,1,126,123,249,h,George 4' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2
+450,638,PT00M21.20S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,Simons Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0
+451,631,PT00M21.20S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Coach Challenge (Full 6 Short 0),Timeout,Coach Challenge,0,0
+452,632,PT00M21.20S,4,0,,630,,,0,0,0,,0,126,123,249,,Instant Replay4th Period (12:58 AM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0
+453,633,PT00M21.20S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,SUB: Mann FOR Zubac,Substitution,,0,0
+454,635,PT00M20.50S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara Personal Take Foul (P4.PN) (J.Butler),Foul,Personal Take,1,0
+455,639,PT00M20.50S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,127,123,250,h,Leonard Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,1,0
+456,640,PT00M20.50S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,128,123,251,h,Leonard Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,1,0
+457,641,PT00M20.50S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+458,643,PT00M16.70S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George S.FOUL (P4.PN) (Z.Zarba),Foul,Shooting,1,0
+459,645,PT00M16.70S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,128,124,252,v,Simons Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,1,0
+460,646,PT00M16.70S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Zubac FOR Mann,Substitution,,0,0
+461,648,PT00M16.70S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,128,125,253,v,Simons Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,1,0
+462,649,PT00M16.70S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0
+463,650,PT00M16.70S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,SUB: Mann FOR Zubac,Substitution,,0,0
+464,652,PT00M15.40S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,,,0,v,Camara Personal Take Foul (P5.PN) (Z.Zarba),Foul,Personal Take,1,0
+465,654,PT00M15.40S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,129,125,254,h,Powell Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+466,655,PT00M15.40S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,130,125,255,h,Powell Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0
+467,656,PT00M09.20S,4,1610612757,POR,1629014,Simons,A. Simons,10,14,2,Made,1,130,127,257,v,Simons 2' Driving Dunk (38 PTS),Made Shot,Driving Dunk Shot,1,2
+468,658,PT00M07.90S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle P.FOUL (P3.PN) (Z.Zarba),Foul,Personal,1,0
+469,660,PT00M07.90S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,131,127,258,h,George Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0
+470,661,PT00M07.90S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,132,127,259,h,George Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0
+471,662,PT00M04.50S,4,1610612757,POR,1641739,Camara,T. Camara,-121,234,26,Missed,1,,,0,v,MISS Camara 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+472,663,PT00M02.60S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+473,664,PT00M00.00S,4,0,,0,,,0,0,0,,0,132,127,259,,End of 4th Period (1:09 AM EST),period,end,1,0

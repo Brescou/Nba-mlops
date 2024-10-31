@@ -1,0 +1,418 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:10 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Jump Ball Miller vs. Nowitzki: Tip to Gibson,Jump Ball,,0,0
+3,2,PT11M34.00S,1,1610612741,CHI,1802,Miller,B. Miller,17,78,8,Made,1,2,0,2,h,Miller 8' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+4,3,PT11M19.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+5,3,PT11M19.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson STEAL (1 STL),,,0,0
+6,4,PT11M14.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+7,4,PT11M14.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion STEAL (1 STL),,,0,0
+8,5,PT11M10.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,Missed,1,0,0,0,v,MISS Butler  Layup,Missed Shot,Layup Shot,0,0
+9,6,PT11M08.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,7,PT11M05.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,Missed,1,0,0,0,h,MISS Deng  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+11,8,PT11M03.00S,1,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,Beaubois REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+12,9,PT10M59.00S,1,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,Made,1,2,2,4,v,Beaubois  Layup (2 PTS),Made Shot,Layup Shot,0,0
+13,10,PT10M40.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,42,187,19,Made,1,4,2,6,h,Hinrich 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+14,11,PT10M23.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,4,4,8,v,Nowitzki  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+15,12,PT10M05.00S,1,1610612741,CHI,1802,Miller,B. Miller,67,178,19,Missed,1,0,0,0,h,MISS Miller 19' Jump Shot,Missed Shot,Jump Shot,0,0
+16,13,PT10M04.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+17,14,PT09M52.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-54,159,17,Made,1,4,6,10,v,Nowitzki 17' Jump Shot (4 PTS) (Kidd 1 AST),Made Shot,Jump Shot,0,0
+18,15,PT09M40.00S,1,1610612741,CHI,201565,Rose,D. Rose,50,195,20,Made,1,6,6,12,h,Rose 20' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+19,16,PT09M27.00S,1,1610612742,DAL,2406,Butler,C. Butler,99,211,23,Missed,1,0,0,0,v,MISS Butler 23' Jump Shot,Missed Shot,Jump Shot,0,0
+20,17,PT09M25.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+21,18,PT09M19.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-174,77,19,Made,1,8,6,14,h,Hinrich 19' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+22,19,PT09M02.00S,1,1610612742,DAL,467,Kidd,J. Kidd,99,190,21,Missed,1,0,0,0,v,MISS Kidd 21' Jump Shot,Missed Shot,Jump Shot,0,0
+23,20,PT09M01.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+24,21,PT08M50.00S,1,1610612741,CHI,201565,Rose,D. Rose,147,44,15,Made,1,10,6,16,h,Rose 15' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,0,0
+25,22,PT08M39.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,Made,1,10,8,18,v,Butler  Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,0
+26,23,PT08M20.00S,1,1610612741,CHI,201565,Rose,D. Rose,-76,178,19,Made,1,12,8,20,h,Rose 19' Jump Shot (6 PTS) (Gibson 1 AST),Made Shot,Jump Shot,0,0
+27,24,PT08M02.00S,1,1610612742,DAL,201958,Beaubois,R. Beaubois,81,167,19,Made,1,12,10,22,v,Beaubois 19' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+28,25,PT07M42.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,Missed,1,0,0,0,h,MISS Miller  Layup,Missed Shot,Layup Shot,0,0
+29,25,PT07M42.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki BLOCK (1 BLK),,,0,0
+30,26,PT07M40.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+31,27,PT07M39.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler S.FOUL (P1.T1),Foul,Shooting,0,0
+32,28,PT07M39.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,13,10,23,h,Gibson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+33,30,PT07M39.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,14,10,24,h,Gibson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+34,32,PT07M25.00S,1,1610612742,DAL,2406,Butler,C. Butler,170,121,21,Made,1,14,12,26,v,Butler 21' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+35,33,PT07M04.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-89,148,17,Missed,1,0,0,0,h,MISS Hinrich 17' Jump Shot,Missed Shot,Jump Shot,0,0
+36,35,PT07M02.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Jump Ball Hinrich vs. Beaubois: Tip to Rose,Jump Ball,,0,0
+37,36,PT07M02.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+38,37,PT06M56.00S,1,1610612741,CHI,201565,Rose,D. Rose,162,186,25,Missed,1,0,0,0,h,MISS Rose 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+39,38,PT06M54.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+40,39,PT06M54.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0
+41,40,PT06M38.00S,1,1610612742,DAL,201958,Beaubois,R. Beaubois,151,201,25,Missed,1,0,0,0,v,MISS Beaubois 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+42,41,PT06M37.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+43,42,PT06M26.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,-87,116,15,Missed,1,0,0,0,h,MISS Gibson 15' Jump Shot,Missed Shot,Jump Shot,0,0
+44,43,PT06M24.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+45,44,PT06M19.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng S.FOUL (P1.T1),Foul,Shooting,0,0
+46,45,PT06M19.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,14,13,27,v,Nowitzki Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+47,47,PT06M19.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,14,14,28,v,Nowitzki Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+48,49,PT06M04.00S,1,1610612741,CHI,2736,Deng,L. Deng,-228,-6,0,Missed,1,0,0,0,h,MISS Deng  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+49,50,PT06M02.00S,1,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,Beaubois REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+50,51,PT05M52.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,61,194,20,Missed,1,0,0,0,v,MISS Nowitzki 20' Jump Shot,Missed Shot,Jump Shot,0,0
+51,52,PT05M51.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+52,53,PT05M44.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,Made,1,16,14,30,h,Gibson  Layup (4 PTS) (Rose 1 AST),Made Shot,Layup Shot,0,0
+53,54,PT05M32.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+54,56,PT05M29.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,16,16,32,v,Nowitzki  Driving Dunk (8 PTS) (Kidd 2 AST),Made Shot,Driving Dunk Shot,0,0
+55,57,PT05M08.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,Made,1,18,16,34,h,Miller  Layup (4 PTS),Made Shot,Layup Shot,0,0
+56,58,PT05M00.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,Missed,1,0,0,0,v,MISS Butler  Layup,Missed Shot,Layup Shot,0,0
+57,59,PT04M59.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+58,60,PT04M46.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,-87,17,9,Made,1,20,16,36,h,Gibson 9' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,0,0
+59,61,PT04M29.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,67,195,21,Missed,1,0,0,0,v,MISS Nowitzki 21' Jump Shot,Missed Shot,Jump Shot,0,0
+60,62,PT04M28.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+61,63,PT04M04.00S,1,1610612741,CHI,1802,Miller,B. Miller,166,25,17,Missed,1,0,0,0,h,MISS Miller 17' Jump Shot,Missed Shot,Jump Shot,0,0
+62,65,PT04M03.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+63,64,PT04M03.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,Missed,1,0,0,0,h,MISS Gibson  Tip Shot,Missed Shot,Tip Shot,0,0
+64,66,PT04M02.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+65,67,PT03M56.00S,1,1610612742,DAL,201958,Beaubois,R. Beaubois,-21,241,24,Missed,1,0,0,0,v,MISS Beaubois 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+66,68,PT03M55.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+67,69,PT03M43.00S,1,1610612741,CHI,201565,Rose,D. Rose,113,175,21,Missed,1,0,0,0,h,MISS Rose 21' Jump Shot,Missed Shot,Jump Shot,0,0
+68,70,PT03M42.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+69,71,PT03M34.00S,1,1610612742,DAL,2406,Butler,C. Butler,-168,89,19,Made,1,20,18,38,v,Butler 19' Jump Shot (6 PTS) (Kidd 3 AST),Made Shot,Jump Shot,0,0
+70,72,PT03M21.00S,1,1610612741,CHI,2736,Deng,L. Deng,103,175,20,Missed,1,0,0,0,h,MISS Deng 20' Jump Shot,Missed Shot,Jump Shot,0,0
+71,73,PT03M20.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+72,74,PT03M09.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,Made,1,20,20,40,v,Marion  Layup (2 PTS) (Butler 1 AST),Made Shot,Layup Shot,0,0
+73,75,PT02M51.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,100,176,20,Made,1,22,20,42,h,Hinrich 20' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+74,76,PT02M44.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+75,78,PT02M44.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Najera FOR Nowitzki,Substitution,,0,0
+76,79,PT02M44.00S,1,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,SUB: Barea FOR Beaubois,Substitution,,0,0
+77,80,PT02M44.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,SUB: Warrick FOR Miller,Substitution,,0,0
+78,81,PT02M44.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,SUB: Murray FOR Rose,Substitution,,0,0
+79,82,PT02M32.00S,1,1610612742,DAL,2406,Butler,C. Butler,-160,53,17,Missed,1,0,0,0,v,MISS Butler 17' Jump Shot,Missed Shot,Jump Shot,0,0
+80,83,PT02M32.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+81,84,PT02M32.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson L.B.FOUL (P1.T2),Foul,Loose Ball,0,0
+82,85,PT02M15.00S,1,1610612742,DAL,2406,Butler,C. Butler,239,-8,24,Made,1,22,23,45,v,Butler 24' 3PT Jump Shot (9 PTS) (Barea 1 AST),Made Shot,Jump Shot,0,0
+83,86,PT01M50.00S,1,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,Missed,1,0,0,0,h,MISS Warrick  Layup,Missed Shot,Layup Shot,0,0
+84,87,PT01M49.00S,1,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+85,88,PT01M47.00S,1,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,Missed,1,0,0,0,h,MISS Warrick  Layup,Missed Shot,Layup Shot,0,0
+86,89,PT01M46.00S,1,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+87,90,PT01M45.00S,1,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,Missed,1,0,0,0,h,MISS Warrick  Layup,Missed Shot,Layup Shot,0,0
+88,90,PT01M45.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion BLOCK (1 BLK),,,0,0
+89,91,PT01M43.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+90,92,PT01M42.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,Missed,1,0,0,0,h,MISS Gibson  Layup,Missed Shot,Layup Shot,0,0
+91,93,PT01M41.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+92,94,PT01M34.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,Made,1,22,25,47,v,Marion  Layup (4 PTS) (Kidd 4 AST),Made Shot,Layup Shot,0,0
+93,95,PT01M16.00S,1,1610612741,CHI,2436,Murray,R. Murray,61,71,9,Made,1,24,25,49,h,Murray 9' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,0
+94,96,PT01M00.00S,1,1610612742,DAL,2059,Najera,E. Najera,89,231,25,Made,1,24,28,52,v,Najera 25' 3PT Jump Shot (3 PTS) (Barea 2 AST),Made Shot,Jump Shot,0,0
+95,97,PT00M52.80S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,Missed,1,0,0,0,h,MISS Gibson  Layup,Missed Shot,Layup Shot,0,0
+96,97,PT00M52.80S,1,1610612742,DAL,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera BLOCK (1 BLK),,,0,0
+97,98,PT00M52.80S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+98,99,PT00M44.90S,1,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,Missed,1,0,0,0,h,MISS Warrick  Layup,Missed Shot,Layup Shot,0,0
+99,101,PT00M44.40S,1,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+100,100,PT00M44.40S,1,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,Made,1,26,28,54,h,Warrick  Layup (2 PTS),Made Shot,Layup Shot,0,0
+101,102,PT00M24.90S,1,1610612742,DAL,2059,Najera,E. Najera,-157,190,25,Missed,1,0,0,0,v,MISS Najera 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+102,103,PT00M23.90S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+103,104,PT00M07.00S,1,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick P.FOUL (P1.T3),Foul,Personal,0,0
+104,105,PT00M04.50S,1,1610612742,DAL,2406,Butler,C. Butler,-169,121,21,Made,1,26,30,56,v,Butler 21' Jump Shot (11 PTS) (Kidd 5 AST),Made Shot,Jump Shot,0,0
+105,106,PT00M00.10S,1,1610612741,CHI,2436,Murray,R. Murray,4,58,6,Missed,1,0,0,0,h,MISS Murray 6' Jump Shot,Missed Shot,Jump Shot,0,0
+106,108,PT00M00.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+107,107,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,30,56,,End of 1st Period (8:32 PM EST),period,end,0,0
+108,110,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,30,56,,Start of 2nd Period (8:34 PM EST),period,start,0,0
+109,111,PT11M44.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,Made,1,26,32,58,v,Marion  Layup (6 PTS) (Kidd 6 AST),Made Shot,Layup Shot,0,0
+110,112,PT11M23.00S,2,1610612741,CHI,201949,Johnson,J. Johnson,236,15,24,Made,1,29,32,61,h,Johnson 24' 3PT Jump Shot (3 PTS) (Rose 2 AST),Made Shot,Jump Shot,0,0
+111,113,PT10M59.00S,2,1610612742,DAL,200826,Barea,J. Barea,9,260,26,Made,1,29,35,64,v,Barea 26' 3PT Jump Shot (3 PTS) (Kidd 7 AST),Made Shot,Jump Shot,0,0
+112,114,PT10M45.00S,2,1610612742,DAL,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Mavericks T.Foul (Def. 3 Sec Najera ),Foul,Defense 3 Second,0,0
+113,115,PT10M45.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,30,35,65,h,Rose Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0
+114,117,PT10M45.00S,2,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,SUB: Nowitzki FOR Butler,Substitution,,0,0
+115,118,PT10M45.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,SUB: Stevenson FOR Marion,Substitution,,0,0
+116,119,PT10M45.00S,2,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,SUB: Beaubois FOR Kidd,Substitution,,0,0
+117,120,PT10M37.00S,2,1610612741,CHI,2436,Murray,R. Murray,0,0,0,Made,1,32,35,67,h,Murray  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+118,121,PT10M19.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,Missed,1,0,0,0,v,MISS Barea  Layup,Missed Shot,Layup Shot,0,0
+119,121,PT10M19.00S,2,1610612741,CHI,201949,Johnson,J. Johnson,0,0,0,,0,0,0,0,h,Johnson BLOCK (1 BLK),,,0,0
+120,122,PT10M18.00S,2,1610612741,CHI,201949,Johnson,J. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+121,123,PT10M14.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,Made,1,34,35,69,h,Rose  Finger Roll Layup (9 PTS),Made Shot,Finger Roll Layup Shot,0,0
+122,124,PT09M55.00S,2,1610612742,DAL,2059,Najera,E. Najera,-158,181,24,Made,1,34,38,72,v,Najera 24' 3PT Jump Shot (6 PTS) (Beaubois 1 AST),Made Shot,Jump Shot,0,0
+123,125,PT09M38.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki S.FOUL (P1.T1),Foul,Shooting,0,0
+124,126,PT09M38.00S,2,1610612741,CHI,201949,Johnson,J. Johnson,0,0,0,,0,35,38,73,h,Johnson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+125,128,PT09M38.00S,2,1610612741,CHI,201949,Johnson,J. Johnson,0,0,0,,0,0,0,0,h,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+126,130,PT09M37.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+127,131,PT09M15.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-138,25,14,Missed,1,0,0,0,v,MISS Nowitzki 14' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,0,0
+128,132,PT09M13.00S,2,1610612742,DAL,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+129,133,PT09M01.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-123,12,12,Made,1,35,40,75,v,Nowitzki 12' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,0,0
+130,134,PT08M42.00S,2,1610612741,CHI,201181,Richard,C. Richard,0,0,0,Made,1,37,40,77,h,Richard  Dunk (2 PTS) (Rose 3 AST),Made Shot,Dunk Shot,0,0
+131,135,PT08M30.00S,2,1610612741,CHI,201181,Richard,C. Richard,0,0,0,,0,0,0,0,h,Richard P.FOUL (P1.T1),Foul,Personal,0,0
+132,136,PT08M30.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+133,137,PT08M17.00S,2,1610612742,DAL,200826,Barea,J. Barea,110,217,24,Missed,1,0,0,0,v,MISS Barea 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+134,138,PT08M16.00S,2,1610612741,CHI,201181,Richard,C. Richard,0,0,0,,0,0,0,0,h,Richard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+135,139,PT08M11.00S,2,1610612741,CHI,201949,Johnson,J. Johnson,0,0,0,Missed,1,0,0,0,h,MISS Johnson  Layup,Missed Shot,Layup Shot,0,0
+136,140,PT08M10.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+137,141,PT08M00.00S,2,1610612742,DAL,2052,Stevenson,D. Stevenson,237,-3,24,Made,1,37,43,80,v,Stevenson 24' 3PT Jump Shot (3 PTS) (Beaubois 2 AST),Made Shot,Jump Shot,0,0
+138,142,PT07M43.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,Beaubois S.FOUL (P1.T2),Foul,Shooting,0,0
+139,143,PT07M43.00S,2,1610612741,CHI,201949,Johnson,J. Johnson,0,0,0,,0,0,0,0,h,SUB: Deng FOR Johnson,Substitution,,0,0
+140,144,PT07M43.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,38,43,81,h,Rose Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+141,146,PT07M43.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,39,43,82,h,Rose Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+142,148,PT07M27.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,-201,1,20,Missed,1,0,0,0,v,MISS Beaubois 20' Jump Shot,Missed Shot,Jump Shot,0,0
+143,149,PT07M26.00S,2,1610612741,CHI,2436,Murray,R. Murray,0,0,0,,0,0,0,0,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+144,150,PT07M21.00S,2,1610612741,CHI,201181,Richard,C. Richard,0,0,0,Made,1,41,43,84,h,Richard  Dunk (4 PTS) (Murray 1 AST),Made Shot,Dunk Shot,0,0
+145,151,PT07M05.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose P.FOUL (P1.T2),Foul,Personal,0,0
+146,152,PT06M58.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,138,-3,14,Missed,1,0,0,0,v,MISS Nowitzki 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+147,153,PT06M56.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+148,154,PT06M44.00S,2,1610612741,CHI,2436,Murray,R. Murray,151,-14,15,Missed,1,0,0,0,h,MISS Murray 15' Jump Shot,Missed Shot,Jump Shot,0,0
+149,155,PT06M44.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+150,156,PT06M33.00S,2,1610612741,CHI,2436,Murray,R. Murray,0,0,0,,0,0,0,0,h,Murray S.FOUL (P1.T3),Foul,Shooting,0,0
+151,157,PT06M33.00S,2,1610612742,DAL,2059,Najera,E. Najera,0,0,0,,0,41,44,85,v,Najera Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+152,159,PT06M33.00S,2,1610612741,CHI,201181,Richard,C. Richard,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Richard,Substitution,,0,0
+153,160,PT06M33.00S,2,1610612741,CHI,2436,Murray,R. Murray,0,0,0,,0,0,0,0,h,SUB: Hinrich FOR Murray,Substitution,,0,0
+154,161,PT06M33.00S,2,1610612742,DAL,2059,Najera,E. Najera,0,0,0,,0,41,45,86,v,Najera Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+155,163,PT06M18.00S,2,1610612741,CHI,101124,Warrick,H. Warrick,-56,45,7,Made,1,43,45,88,h,Warrick 7' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,0,0
+156,164,PT05M56.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki Backcourt Turnover (P1.T2),Turnover,Backcourt Turnover,0,0
+157,165,PT05M56.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+158,168,PT05M56.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Kidd FOR Nowitzki,Substitution,,0,0
+159,169,PT05M56.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,SUB: Butler FOR Beaubois,Substitution,,0,0
+160,170,PT05M56.00S,2,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,v,SUB: Marion FOR Stevenson,Substitution,,0,0
+161,171,PT05M41.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,Missed,1,0,0,0,h,MISS Rose  Layup,Missed Shot,Layup Shot,0,0
+162,172,PT05M40.00S,2,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+163,173,PT05M32.00S,2,1610612742,DAL,467,Kidd,J. Kidd,91,230,25,Made,1,43,48,91,v,Kidd 25' 3PT Jump Shot (3 PTS) (Barea 3 AST),Made Shot,Jump Shot,0,0
+164,174,PT05M21.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,-196,151,25,Made,1,46,48,94,h,Hinrich 25' 3PT Jump Shot (9 PTS) (Rose 4 AST),Made Shot,Jump Shot,0,0
+165,175,PT05M02.00S,2,1610612742,DAL,1890,Marion,S. Marion,-19,48,5,Made,1,46,50,96,v,Marion 5' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+166,176,PT04M45.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson OFF.Foul (P2),Foul,Offensive,0,0
+167,177,PT04M45.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson Foul Turnover (P2.T3),Turnover,Foul,0,0
+168,178,PT04M34.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich S.FOUL (P1.T4),Foul,Shooting,0,0
+169,179,PT04M34.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,46,51,97,v,Barea Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+170,181,PT04M34.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,46,52,98,v,Barea Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+171,183,PT04M23.00S,2,1610612741,CHI,2736,Deng,L. Deng,-166,140,22,Missed,1,0,0,0,h,MISS Deng 22' Jump Shot,Missed Shot,Jump Shot,0,0
+172,185,PT04M22.00S,2,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick REBOUND (Off:4 Def:0),Rebound,Unknown,0,0
+173,184,PT04M22.00S,2,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,Made,1,48,52,100,h,Warrick  Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0
+174,186,PT03M58.00S,2,1610612742,DAL,2406,Butler,C. Butler,-187,3,19,Made,1,48,54,102,v,Butler 19' Jump Shot (13 PTS) (Najera 1 AST),Made Shot,Jump Shot,0,0
+175,187,PT03M42.00S,2,1610612741,CHI,201565,Rose,D. Rose,-46,194,20,Made,1,50,54,104,h,Rose 20' Jump Shot (13 PTS) (Deng 1 AST),Made Shot,Jump Shot,0,0
+176,188,PT03M14.00S,2,1610612742,DAL,2059,Najera,E. Najera,121,227,26,Missed,1,0,0,0,v,MISS Najera 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+177,189,PT03M13.00S,2,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+178,191,PT03M13.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Miller FOR Gibson,Substitution,,0,0
+179,192,PT03M13.00S,2,1610612742,DAL,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,SUB: Nowitzki FOR Najera,Substitution,,0,0
+180,193,PT03M13.00S,2,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Jump Ball Warrick vs. Kidd: Tip to Barea,Jump Ball,,0,0
+181,194,PT03M05.00S,2,1610612742,DAL,467,Kidd,J. Kidd,140,201,24,Missed,1,0,0,0,v,MISS Kidd 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+182,195,PT03M03.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+183,196,PT02M55.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion S.FOUL (P1.T3),Foul,Shooting,0,0
+184,198,PT02M55.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+185,201,PT02M55.00S,2,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,MISS Warrick Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+186,202,PT02M55.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+187,203,PT02M55.00S,2,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,51,54,105,h,Warrick Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+188,205,PT02M38.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,60,6,Made,1,51,56,107,v,Marion 6' Running Jump Shot (10 PTS),Made Shot,Running Jump Shot,0,0
+189,206,PT02M19.00S,2,1610612741,CHI,101124,Warrick,H. Warrick,-30,53,6,Missed,1,0,0,0,h,MISS Warrick 6' Jump Shot,Missed Shot,Jump Shot,0,0
+190,207,PT02M17.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+191,208,PT02M13.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,Made,1,51,58,109,v,Marion  Driving Slam Dunk (12 PTS) (Kidd 8 AST),Made Shot,Driving Slam Dunk Shot,0,0
+192,209,PT02M03.00S,2,1610612741,CHI,2736,Deng,L. Deng,155,118,19,Missed,1,0,0,0,h,MISS Deng 19' Jump Shot,Missed Shot,Jump Shot,0,0
+193,210,PT02M03.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+194,211,PT02M03.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,SUB: Beaubois FOR Barea,Substitution,,0,0
+195,212,PT01M57.00S,2,1610612741,CHI,201565,Rose,D. Rose,177,11,18,Made,1,53,58,111,h,Rose 18' Jump Shot (15 PTS) (Hinrich 1 AST),Made Shot,Jump Shot,0,0
+196,213,PT01M29.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,37,246,25,Missed,1,0,0,0,v,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+197,214,PT01M28.00S,2,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick REBOUND (Off:4 Def:1),Rebound,Unknown,0,0
+198,215,PT01M17.00S,2,1610612741,CHI,201565,Rose,D. Rose,237,22,24,Missed,1,0,0,0,h,MISS Rose 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+199,216,PT01M16.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+200,217,PT01M05.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,Made,1,53,60,113,v,Marion  Layup (14 PTS) (Kidd 9 AST),Made Shot,Layup Shot,0,0
+201,218,PT00M53.00S,2,1610612741,CHI,1802,Miller,B. Miller,-114,94,15,Made,1,55,60,115,h,Miller 15' Jump Shot (6 PTS) (Hinrich 2 AST),Made Shot,Jump Shot,0,0
+202,219,PT00M43.10S,2,1610612742,DAL,2406,Butler,C. Butler,86,162,18,Made,1,55,62,117,v,Butler 18' Jump Shot (15 PTS),Made Shot,Jump Shot,0,0
+203,220,PT00M33.90S,2,1610612741,CHI,1802,Miller,B. Miller,0,0,0,Missed,1,0,0,0,h,MISS Miller  Layup,Missed Shot,Layup Shot,0,0
+204,220,PT00M33.90S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,Beaubois BLOCK (1 BLK),,,0,0
+205,221,PT00M31.90S,2,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+206,222,PT00M28.20S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,72,7,Made,1,55,64,119,v,Beaubois 7' Jump Shot (6 PTS) (Kidd 10 AST),Made Shot,Jump Shot,0,0
+207,223,PT00M24.90S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+208,223,PT00M24.90S,2,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd STEAL (1 STL),,,0,0
+209,224,PT00M05.80S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,55,66,121,v,Nowitzki  Layup (12 PTS) (Kidd 11 AST),Made Shot,Layup Shot,0,0
+210,225,PT00M01.90S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0
+211,225,PT00M01.90S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion STEAL (2 STL),,,0,0
+212,226,PT00M00.10S,2,1610612742,DAL,1890,Marion,S. Marion,-82,135,16,Missed,1,0,0,0,v,MISS Marion 16' Jump Shot,Missed Shot,Jump Shot,0,0
+213,228,PT00M00.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+214,227,PT00M00.00S,2,0,,0,,,0,0,0,,0,55,66,121,,End of 2nd Period (9:01 PM EST),period,end,0,0
+215,230,PT12M00.00S,3,0,,0,,,0,0,0,,0,55,66,121,,Start of 3rd Period (9:17 PM EST),period,start,0,0
+216,231,PT11M43.00S,3,1610612742,DAL,467,Kidd,J. Kidd,-32,244,25,Missed,1,0,0,0,v,MISS Kidd 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+217,232,PT11M42.00S,3,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+218,233,PT11M28.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler P.FOUL (P2.T1),Foul,Personal,0,0
+219,234,PT11M20.00S,3,1610612741,CHI,201565,Rose,D. Rose,-160,118,20,Made,1,57,66,123,h,Rose 20' Jump Shot (17 PTS) (Hinrich 3 AST),Made Shot,Jump Shot,0,0
+220,235,PT11M05.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng P.FOUL (P2.T1),Foul,Personal,0,0
+221,236,PT10M50.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-128,219,25,Missed,1,0,0,0,v,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+222,237,PT10M49.00S,3,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+223,238,PT10M28.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-152,140,21,Made,1,59,66,125,h,Hinrich 21' Jump Shot (11 PTS) (Rose 5 AST),Made Shot,Jump Shot,0,0
+224,239,PT10M09.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,-224,1,0,Made,1,59,69,128,v,Beaubois  3PT Jump Shot (9 PTS) (Butler 2 AST),Made Shot,Jump Shot,0,0
+225,240,PT09M53.00S,3,1610612741,CHI,201565,Rose,D. Rose,-133,124,18,Missed,1,0,0,0,h,MISS Rose 18' Jump Shot,Missed Shot,Jump Shot,0,0
+226,241,PT09M52.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+227,242,PT09M47.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler Traveling Turnover (P1.T3),Turnover,Traveling,0,0
+228,243,PT09M23.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0
+229,244,PT09M07.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,20,186,19,Missed,1,0,0,0,v,MISS Nowitzki 19' Jump Shot,Missed Shot,Jump Shot,0,0
+230,245,PT09M06.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+231,246,PT08M52.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,10,67,7,Made,1,61,69,130,h,Gibson 7' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,0
+232,247,PT08M34.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-130,83,15,Missed,1,0,0,0,v,MISS Nowitzki 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+233,248,PT08M33.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+234,249,PT08M20.00S,3,1610612741,CHI,201565,Rose,D. Rose,-161,36,16,Made,1,63,69,132,h,Rose 16' Turnaround Jump Shot (19 PTS),Made Shot,Turnaround Jump Shot,0,0
+235,250,PT08M00.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,160,28,16,Missed,1,0,0,0,v,MISS Nowitzki 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+236,251,PT07M59.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+237,252,PT07M48.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,Missed,1,0,0,0,h,MISS Gibson  Layup,Missed Shot,Layup Shot,0,0
+238,252,PT07M48.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki BLOCK (2 BLK),,,0,0
+239,253,PT07M46.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+240,254,PT07M41.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,-183,26,18,Made,1,63,71,134,v,Beaubois 18' Jump Shot (11 PTS) (Kidd 12 AST),Made Shot,Jump Shot,0,0
+241,255,PT07M26.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,182,192,26,Made,1,66,71,137,h,Hinrich 26' 3PT Jump Shot (14 PTS) (Gibson 2 AST),Made Shot,Jump Shot,0,0
+242,256,PT07M02.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+243,256,PT07M02.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich STEAL (1 STL),,,0,0
+244,257,PT06M58.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,Made,1,68,71,139,h,Deng  Layup (2 PTS) (Hinrich 4 AST),Made Shot,Layup Shot,0,0
+245,259,PT06M57.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+246,260,PT06M41.00S,3,1610612742,DAL,467,Kidd,J. Kidd,-155,190,25,Made,1,68,74,142,v,Kidd 25' 3PT Jump Shot (6 PTS) (Nowitzki 1 AST),Made Shot,Jump Shot,0,0
+247,261,PT06M23.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler S.FOUL (P3.T2),Foul,Shooting,0,0
+248,262,PT06M23.00S,3,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,69,74,143,h,Miller Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+249,264,PT06M23.00S,3,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,70,74,144,h,Miller Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+250,266,PT06M10.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,177,94,20,Made,1,70,76,146,v,Beaubois 20' Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+251,267,PT06M02.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-183,154,24,Missed,1,0,0,0,h,MISS Hinrich 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+252,268,PT06M01.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+253,269,PT05M56.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,Missed,1,0,0,0,v,MISS Butler  Layup,Missed Shot,Layup Shot,0,0
+254,269,PT05M56.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson BLOCK (1 BLK),,,0,0
+255,270,PT05M55.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,Beaubois REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+256,271,PT05M54.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,Made,1,70,78,148,v,Beaubois  Layup (15 PTS),Made Shot,Layup Shot,0,0
+257,272,PT05M41.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,Made,1,72,78,150,h,Gibson  Dunk (10 PTS) (Deng 2 AST),Made Shot,Dunk Shot,0,0
+258,273,PT05M21.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,110,181,21,Made,1,72,80,152,v,Nowitzki 21' Jump Shot (14 PTS) (Beaubois 3 AST),Made Shot,Jump Shot,0,0
+259,274,PT05M06.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd S.FOUL (P1.T3),Foul,Shooting,0,0
+260,275,PT05M06.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,MISS Deng Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+261,276,PT05M06.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+262,277,PT05M06.00S,3,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,SUB: Warrick FOR Miller,Substitution,,0,0
+263,278,PT05M06.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,73,80,153,h,Deng Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+264,280,PT04M52.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,42,126,13,Made,1,73,82,155,v,Beaubois 13' Jump Shot (17 PTS),Made Shot,Jump Shot,0,0
+265,281,PT04M52.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich S.FOUL (P2.T2),Foul,Shooting,0,0
+266,282,PT04M52.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,73,83,156,v,Beaubois Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0
+267,284,PT04M41.00S,3,1610612741,CHI,201565,Rose,D. Rose,70,80,11,Missed,1,0,0,0,h,MISS Rose 11' Jump Shot,Missed Shot,Jump Shot,0,0
+268,286,PT04M39.00S,3,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick REBOUND (Off:5 Def:1),Rebound,Unknown,0,0
+269,285,PT04M39.00S,3,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,Missed,1,0,0,0,h,MISS Warrick  Layup,Missed Shot,Layup Shot,0,0
+270,285,PT04M39.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion BLOCK (2 BLK),,,0,0
+271,287,PT04M39.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+272,288,PT04M27.00S,3,1610612741,CHI,201565,Rose,D. Rose,70,178,19,Made,1,75,83,158,h,Rose 19' Jump Shot (21 PTS) (Hinrich 5 AST),Made Shot,Jump Shot,0,0
+273,289,PT04M13.00S,3,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick P.FOUL (P2.T3),Foul,Personal,0,0
+274,290,PT04M04.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,-153,205,26,Missed,1,0,0,0,v,MISS Beaubois 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+275,291,PT04M03.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+276,292,PT03M50.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki S.FOUL (P2.T4),Foul,Shooting,0,0
+277,293,PT03M50.00S,3,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,76,83,159,h,Warrick Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+278,295,PT03M50.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Najera FOR Nowitzki,Substitution,,0,0
+279,296,PT03M50.00S,3,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,MISS Warrick Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+280,298,PT03M48.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+281,299,PT03M27.00S,3,1610612742,DAL,2059,Najera,E. Najera,-138,201,24,Made,1,76,86,162,v,Najera 24' 3PT Jump Shot (11 PTS) (Beaubois 4 AST),Made Shot,Jump Shot,0,0
+282,300,PT03M09.00S,3,1610612741,CHI,2736,Deng,L. Deng,143,168,22,Missed,1,0,0,0,h,MISS Deng 22' Jump Shot,Missed Shot,Jump Shot,0,0
+283,301,PT03M08.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+284,302,PT03M06.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich S.FOUL (P3.T4),Foul,Shooting,0,0
+285,303,PT03M06.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,76,87,163,v,Beaubois Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0
+286,305,PT03M06.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,76,88,164,v,Beaubois Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0
+287,307,PT03M06.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+288,309,PT03M06.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,SUB: Murray FOR Rose,Substitution,,0,0
+289,311,PT02M49.00S,3,1610612741,CHI,101124,Warrick,H. Warrick,-98,6,10,Missed,1,0,0,0,h,MISS Warrick 10' Jump Shot,Missed Shot,Jump Shot,0,0
+290,312,PT02M48.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+291,313,PT02M24.00S,3,1610612742,DAL,2406,Butler,C. Butler,-26,203,20,Missed,1,0,0,0,v,MISS Butler 20' Jump Shot,Missed Shot,Jump Shot,0,0
+292,314,PT02M23.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+293,315,PT02M12.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd S.FOUL (P2.PN),Foul,Shooting,0,0
+294,316,PT02M12.00S,3,1610612741,CHI,2436,Murray,R. Murray,0,0,0,,0,77,88,165,h,Murray Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+295,319,PT02M12.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,SUB: Pargo FOR Deng,Substitution,,0,0
+296,320,PT02M12.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,SUB: Stevenson FOR Butler,Substitution,,0,0
+297,321,PT02M12.00S,3,1610612741,CHI,2436,Murray,R. Murray,0,0,0,,0,78,88,166,h,Murray Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+298,323,PT01M55.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,Made,1,78,90,168,v,Beaubois  Reverse Layup (22 PTS),Made Shot,Reverse Layup Shot,0,0
+299,324,PT01M38.00S,3,1610612741,CHI,2436,Murray,R. Murray,-13,80,8,Missed,1,0,0,0,h,MISS Murray 8' Jump Shot,Missed Shot,Jump Shot,0,0
+300,325,PT01M36.00S,3,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,v,Stevenson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+301,326,PT01M23.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,Made,1,78,92,170,v,Marion  Layup (16 PTS) (Kidd 13 AST),Made Shot,Layup Shot,0,0
+302,327,PT01M06.00S,3,1610612741,CHI,2457,Pargo,J. Pargo,29,254,26,Missed,1,0,0,0,h,MISS Pargo 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+303,328,PT01M05.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+304,329,PT00M56.90S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,Missed,1,0,0,0,v,MISS Marion  Layup,Missed Shot,Layup Shot,0,0
+305,330,PT00M54.90S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+306,331,PT00M43.60S,3,1610612741,CHI,101124,Warrick,H. Warrick,-13,151,15,Made,1,80,92,172,h,Warrick 15' Jump Shot (10 PTS) (Hinrich 6 AST),Made Shot,Jump Shot,0,0
+307,332,PT00M30.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,-7,203,20,Made,1,80,94,174,v,Beaubois 20' Jump Shot (24 PTS),Made Shot,Jump Shot,0,0
+308,333,PT00M06.80S,3,1610612741,CHI,2436,Murray,R. Murray,-142,64,16,Missed,1,0,0,0,h,MISS Murray 16' Jump Shot,Missed Shot,Jump Shot,0,0
+309,334,PT00M05.60S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,Beaubois REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+310,335,PT00M00.10S,3,1610612742,DAL,467,Kidd,J. Kidd,144,211,26,Missed,1,0,0,0,v,MISS Kidd 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+311,337,PT00M00.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+312,336,PT00M00.00S,3,0,,0,,,0,0,0,,0,80,94,174,,End of 3rd Period (9:42 PM EST),period,end,0,0
+313,339,PT12M00.00S,4,0,,0,,,0,0,0,,0,80,94,174,,Start of 4th Period (9:45 PM EST),period,start,0,0
+314,340,PT11M44.00S,4,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+315,340,PT11M44.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,Beaubois STEAL (1 STL),,,0,0
+316,341,PT11M27.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,75,241,25,Missed,1,0,0,0,v,MISS Beaubois 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+317,342,PT11M26.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+318,343,PT11M23.00S,4,1610612742,DAL,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera P.FOUL (P1.T1),Foul,Personal,0,0
+319,344,PT11M23.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Miller FOR Gibson,Substitution,,0,0
+320,345,PT11M11.00S,4,1610612741,CHI,1802,Miller,B. Miller,-27,194,20,Made,1,82,94,176,h,Miller 20' Jump Shot (10 PTS) (Murray 2 AST),Made Shot,Jump Shot,0,0
+321,346,PT10M51.00S,4,1610612742,DAL,2052,Stevenson,D. Stevenson,166,94,19,Made,1,82,96,178,v,Stevenson 19' Jump Shot (5 PTS) (Barea 4 AST),Made Shot,Jump Shot,0,0
+322,347,PT10M37.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,237,1,24,Made,1,85,96,181,h,Pargo 24' 3PT Jump Shot (3 PTS) (Miller 1 AST),Made Shot,Jump Shot,0,0
+323,348,PT10M17.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,-18,53,6,Missed,1,0,0,0,v,MISS Beaubois 6' Jump Shot,Missed Shot,Jump Shot,0,0
+324,349,PT10M15.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,Pargo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+325,350,PT10M09.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,-60,124,14,Made,1,87,96,183,h,Pargo 14' Jump Shot (5 PTS),Made Shot,Jump Shot,0,0
+326,351,PT10M09.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+327,353,PT10M09.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,SUB: Butler FOR Beaubois,Substitution,,0,0
+328,354,PT10M00.00S,4,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick P.FOUL (P3.T1),Foul,Personal,0,0
+329,355,PT09M45.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,86,203,22,Missed,1,0,0,0,v,MISS Nowitzki 22' Jump Shot,Missed Shot,Jump Shot,0,0
+330,356,PT09M45.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+331,357,PT09M45.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+332,358,PT09M29.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,-38,203,21,Missed,1,0,0,0,h,MISS Pargo 21' Jump Shot,Missed Shot,Jump Shot,0,0
+333,359,PT09M28.00S,4,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick REBOUND (Off:6 Def:1),Rebound,Unknown,0,0
+334,360,PT09M20.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,Made,1,89,96,185,h,Rose  Driving Layup (23 PTS),Made Shot,Driving Layup Shot,0,0
+335,361,PT09M04.00S,4,1610612742,DAL,200826,Barea,J. Barea,121,176,21,Made,1,89,98,187,v,Barea 21' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+336,362,PT08M54.00S,4,1610612741,CHI,201565,Rose,D. Rose,141,153,21,Made,1,91,98,189,h,Rose 21' Jump Shot (25 PTS),Made Shot,Jump Shot,0,0
+337,363,PT08M38.00S,4,1610612742,DAL,2059,Najera,E. Najera,-123,222,25,Missed,1,0,0,0,v,MISS Najera 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+338,364,PT08M37.00S,4,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,Warrick REBOUND (Off:6 Def:2),Rebound,Unknown,0,0
+339,365,PT08M31.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,146,205,25,Missed,1,0,0,0,h,MISS Pargo 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+340,366,PT08M29.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+341,367,PT08M14.00S,4,1610612742,DAL,2052,Stevenson,D. Stevenson,226,-5,0,Missed,1,0,0,0,v,MISS Stevenson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+342,368,PT08M13.00S,4,1610612741,CHI,2436,Murray,R. Murray,0,0,0,,0,0,0,0,h,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+343,369,PT07M59.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,-202,148,25,Made,1,94,98,192,h,Pargo 25' 3PT Jump Shot (8 PTS) (Rose 6 AST),Made Shot,Jump Shot,0,0
+344,370,PT07M59.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0
+345,372,PT07M59.00S,4,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,v,SUB: Kidd FOR Stevenson,Substitution,,0,0
+346,373,PT07M37.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-142,4,14,Made,1,94,100,194,v,Nowitzki 14' Fadeaway Jumper (16 PTS) (Kidd 14 AST),Made Shot,Fadeaway Jump Shot,0,0
+347,374,PT07M23.00S,4,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0
+348,374,PT07M23.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki STEAL (1 STL),,,0,0
+349,375,PT07M17.00S,4,1610612742,DAL,2406,Butler,C. Butler,-202,156,26,Made,1,94,103,197,v,Butler 26' 3PT Jump Shot (18 PTS) (Barea 5 AST),Made Shot,Jump Shot,0,0
+350,376,PT07M16.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+351,377,PT07M16.00S,4,1610612742,DAL,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,SUB: Marion FOR Najera,Substitution,,0,0
+352,378,PT07M16.00S,4,1610612741,CHI,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,h,SUB: Hinrich FOR Warrick,Substitution,,0,0
+353,379,PT07M16.00S,4,1610612741,CHI,2436,Murray,R. Murray,0,0,0,,0,0,0,0,h,SUB: Deng FOR Murray,Substitution,,0,0
+354,380,PT07M04.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,140,156,21,Missed,1,0,0,0,h,MISS Pargo 21' Jump Shot,Missed Shot,Jump Shot,0,0
+355,381,PT07M01.00S,4,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+356,382,PT06M53.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,Pargo S.FOUL (P1.T2),Foul,Shooting,0,0
+357,383,PT06M53.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,MISS Nowitzki Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+358,384,PT06M53.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+359,385,PT06M53.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,94,104,198,v,Nowitzki Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+360,387,PT06M45.00S,4,1610612741,CHI,201565,Rose,D. Rose,-48,178,18,Missed,1,0,0,0,h,MISS Rose 18' Jump Shot,Missed Shot,Jump Shot,0,0
+361,389,PT06M44.00S,4,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+362,388,PT06M44.00S,4,1610612741,CHI,1802,Miller,B. Miller,0,0,0,Made,1,96,104,200,h,Miller  Tip Shot (12 PTS),Made Shot,Tip Shot,0,0
+363,390,PT06M18.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,121,14,12,Made,1,96,106,202,v,Nowitzki 12' Turnaround Jump Shot (19 PTS),Made Shot,Turnaround Jump Shot,0,0
+364,391,PT06M08.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich OFF.Foul (P4),Foul,Offensive,0,0
+365,392,PT06M08.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich Foul Turnover (P1.T9),Turnover,Foul,0,0
+366,393,PT05M55.00S,4,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+367,393,PT05M55.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,Pargo STEAL (1 STL),,,0,0
+368,394,PT05M39.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,Made,1,98,106,204,h,Rose  Reverse Layup (27 PTS) (Miller 2 AST),Made Shot,Reverse Layup Shot,0,0
+369,395,PT05M18.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,98,108,206,v,Nowitzki  Driving Layup (21 PTS),Made Shot,Driving Layup Shot,0,0
+370,396,PT05M06.00S,4,1610612741,CHI,1802,Miller,B. Miller,0,0,0,Made,1,100,108,208,h,Miller  Driving Dunk (14 PTS) (Pargo 1 AST),Made Shot,Driving Dunk Shot,0,0
+371,397,PT04M48.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,Missed,1,0,0,0,v,MISS Marion  Layup,Missed Shot,Layup Shot,0,0
+372,398,PT04M48.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+373,399,PT04M48.00S,4,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller L.B.FOUL (P1.T3),Foul,Loose Ball,0,0
+374,400,PT04M48.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,SUB: Beaubois FOR Barea,Substitution,,0,0
+375,401,PT04M39.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,149,48,16,Made,1,100,110,210,v,Nowitzki 16' Jump Shot (23 PTS) (Marion 1 AST),Made Shot,Jump Shot,0,0
+376,402,PT04M22.00S,4,1610612741,CHI,1802,Miller,B. Miller,77,235,25,Made,1,103,110,213,h,Miller 25' 3PT Jump Shot (17 PTS) (Rose 7 AST),Made Shot,Jump Shot,0,0
+377,403,PT03M59.00S,4,1610612742,DAL,2406,Butler,C. Butler,-166,183,25,Made,1,103,113,216,v,Butler 25' 3PT Jump Shot (21 PTS) (Beaubois 5 AST),Made Shot,Jump Shot,0,0
+378,404,PT03M42.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki P.FOUL (P3.T2),Foul,Personal,0,0
+379,405,PT03M38.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,Made,1,105,113,218,h,Deng  Dunk (5 PTS) (Rose 8 AST),Made Shot,Dunk Shot,0,0
+380,406,PT03M38.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion S.FOUL (P2.T3),Foul,Shooting,0,0
+381,407,PT03M38.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,106,113,219,h,Deng Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0
+382,409,PT03M23.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-13,75,8,Made,1,106,115,221,v,Nowitzki 8' Running Jump Shot (25 PTS) (Kidd 15 AST),Made Shot,Running Jump Shot,0,0
+383,410,PT03M11.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,Made,1,108,115,223,h,Rose  Driving Layup (29 PTS),Made Shot,Driving Layup Shot,0,0
+384,411,PT03M11.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0,0,0,v,Marion S.FOUL (P3.T4),Foul,Shooting,0,0
+385,413,PT03M11.00S,4,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Miller,Substitution,,0,0
+386,414,PT03M11.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,109,115,224,h,Rose Free Throw 1 of 1 (30 PTS),Free Throw,Free Throw 1 of 1,0,0
+387,416,PT02M52.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,Made,1,109,117,226,v,Marion  Layup (18 PTS) (Nowitzki 2 AST),Made Shot,Layup Shot,0,0
+388,417,PT02M35.00S,4,1610612741,CHI,2457,Pargo,J. Pargo,234,23,24,Missed,1,0,0,0,h,MISS Pargo 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+389,418,PT02M35.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+390,419,PT02M35.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+391,422,PT02M09.00S,4,1610612742,DAL,2406,Butler,C. Butler,-120,214,25,Missed,1,0,0,0,v,MISS Butler 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+392,423,PT02M08.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+393,424,PT01M59.00S,4,1610612741,CHI,201565,Rose,D. Rose,13,75,8,Made,1,111,117,228,h,Rose 8' Floating Jump Shot (32 PTS),Made Shot,Floating Jump shot,0,0
+394,425,PT01M47.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose P.FOUL (P2.T4),Foul,Personal,0,0
+395,426,PT01M47.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,111,118,229,v,Nowitzki Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0
+396,428,PT01M47.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,111,119,230,v,Nowitzki Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0
+397,430,PT01M40.00S,4,1610612741,CHI,201565,Rose,D. Rose,-70,157,17,Made,1,113,119,232,h,Rose 17' Jump Shot (34 PTS),Made Shot,Jump Shot,0,0
+398,431,PT01M19.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,10,179,18,Missed,1,0,0,0,v,MISS Nowitzki 18' Jump Shot,Missed Shot,Jump Shot,0,0
+399,433,PT01M17.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+400,432,PT01M17.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,Made,1,113,121,234,v,Butler  Layup (23 PTS),Made Shot,Layup Shot,0,0
+401,434,PT01M17.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Short (Full 4 Short 1),Timeout,Short,0,0
+402,435,PT01M10.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,-164,187,25,Missed,1,0,0,0,h,MISS Hinrich 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+403,436,PT01M09.00S,4,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,v,Kidd REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+404,437,PT00M51.90S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0
+405,437,PT00M51.90S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson STEAL (2 STL),,,0,0
+406,438,PT00M46.40S,4,1610612741,CHI,2457,Pargo,J. Pargo,83,238,25,Made,1,116,121,237,h,Pargo 25' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+407,439,PT00M25.90S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,-196,146,24,Missed,1,0,0,0,v,MISS Beaubois 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+408,440,PT00M24.90S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+409,441,PT00M19.50S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich P.FOUL (P5.PN),Foul,Personal,0,0
+410,442,PT00M19.50S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+411,443,PT00M19.50S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+412,444,PT00M19.50S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,116,122,238,v,Butler Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0
+413,446,PT00M19.50S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+414,448,PT00M19.50S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Miller FOR Gibson,Substitution,,0,0
+415,449,PT00M13.90S,4,1610612741,CHI,2457,Pargo,J. Pargo,-179,174,25,Missed,1,0,0,0,h,MISS Pargo 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+416,450,PT00M12.50S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,0,0,0,v,Beaubois REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+417,452,PT00M00.00S,4,0,,0,,,0,0,0,,0,116,122,238,,End of 4th Period (10:16 PM EST),period,end,0,0

@@ -1,0 +1,460 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Jump Ball Davis vs. Vucevic: Tip to Holiday,Jump Ball,,1,0
+3,2,PT11M43.00S,1,1610612740,NOP,203076,Davis,A. Davis,-19,-5,2,Missed,1,0,0,0,h,MISS Davis 2' Layup,Missed Shot,Layup Shot,1,0
+4,2,PT11M43.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka BLOCK (1 BLK),,,1,0
+5,3,PT11M42.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,4,PT11M26.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,53,77,9,Missed,1,0,0,0,v,MISS Ibaka 9' Jump Shot,Missed Shot,Jump Shot,1,0
+7,5,PT11M25.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+8,6,PT11M17.00S,1,1610612740,NOP,1627741,Hield,B. Hield,-173,198,26,Missed,1,0,0,0,h,MISS Hield 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+9,7,PT11M17.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+10,8,PT11M07.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,-138,208,25,Made,1,0,3,3,v,Ibaka 25' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),Made Shot,Jump Shot,1,0
+11,9,PT10M53.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,6,16,2,Made,1,2,3,5,h,Cunningham 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+12,10,PT10M33.00S,1,1610612753,ORL,203932,Gordon,A. Gordon,-230,16,0,Missed,1,0,0,0,v,MISS Gordon  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+13,11,PT10M32.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+14,12,PT10M23.00S,1,1610612740,NOP,1627741,Hield,B. Hield,17,7,2,Missed,1,0,0,0,h,MISS Hield 2' Layup,Missed Shot,Layup Shot,1,0
+15,14,PT10M19.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+16,13,PT10M19.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,4,3,7,h,Davis  Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,0
+17,17,PT10M04.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0
+18,18,PT10M04.00S,1,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,4,4,8,v,Gordon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+19,20,PT10M04.00S,1,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,MISS Gordon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+20,22,PT09M55.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+21,23,PT09M55.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton P.FOUL (P1.T1) (E.Dalen),Foul,Personal,1,0
+22,24,PT09M47.00S,1,1610612740,NOP,1627741,Hield,B. Hield,-11,3,1,Made,1,6,4,10,h,Hield 1' Layup (2 PTS) (S. Hill 1 AST),Made Shot,Layup Shot,1,0
+23,25,PT09M41.00S,1,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,Hield Violation:Kicked Ball (J.Williams),Violation,Kicked Ball,0,0
+24,26,PT09M30.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,97,13,10,Made,1,6,6,12,v,Vucevic 10' Turnaround Hook Shot (2 PTS) (Gordon 1 AST),Made Shot,Turnaround Hook Shot,1,0
+25,27,PT09M21.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,1,0,Made,1,8,6,14,h,Holiday  Dunk (2 PTS),Made Shot,Dunk Shot,1,0
+26,28,PT09M13.00S,1,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,Hield S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,1,0
+27,29,PT09M13.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,8,7,15,v,Payton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+28,31,PT09M13.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,8,8,16,v,Payton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+29,33,PT09M03.00S,1,1610612740,NOP,203076,Davis,A. Davis,-183,90,20,Missed,1,0,0,0,h,MISS Davis 20' Jump Shot,Missed Shot,Jump Shot,1,0
+30,34,PT09M02.00S,1,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+31,35,PT08M57.00S,1,1610612753,ORL,203901,Payton,E. Payton,9,13,2,Made,1,8,10,18,v,Payton 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+32,36,PT08M49.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,-137,219,26,Made,1,11,10,21,h,Holiday 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+33,37,PT08M37.00S,1,1610612753,ORL,203901,Payton,E. Payton,-7,21,2,Missed,1,0,0,0,v,MISS Payton 2' Layup,Missed Shot,Layup Shot,1,0
+34,38,PT08M37.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+35,39,PT08M37.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton P.FOUL (P2.T2) (J.Williams),Foul,Personal,1,0
+36,41,PT08M17.00S,1,1610612740,NOP,203524,Hill,S. Hill,0,1,0,Missed,1,0,0,0,h,MISS S. Hill  Dunk,Missed Shot,Dunk Shot,1,0
+37,41,PT08M17.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka BLOCK (2 BLK),,,1,0
+38,42,PT08M14.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+39,44,PT08M10.00S,1,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+40,44,PT08M10.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday STEAL (1 STL),,,1,0
+41,46,PT08M03.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+42,46,PT08M03.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton STEAL (1 STL),,,1,0
+43,47,PT07M58.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,4,23,2,Made,1,11,12,23,v,Ibaka 2' Layup (5 PTS) (Payton 1 AST),Made Shot,Layup Shot,1,0
+44,48,PT07M50.00S,1,1610612740,NOP,1627741,Hield,B. Hield,-227,129,26,Missed,1,0,0,0,h,MISS Hield 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+45,49,PT07M49.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+46,50,PT07M36.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+47,50,PT07M36.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday STEAL (2 STL),,,1,0
+48,51,PT07M36.00S,1,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks P.FOUL (P1.T3) (S.Wall),Foul,Personal,1,0
+49,52,PT07M23.00S,1,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon S.FOUL (P1.T4) (E.Dalen),Foul,Shooting,1,0
+50,53,PT07M23.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,12,12,24,h,Davis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+51,55,PT07M23.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,13,12,25,h,Davis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+52,57,PT07M15.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,4,7,1,Made,1,13,14,27,v,Vucevic 1' Cutting Layup Shot (4 PTS) (Gordon 2 AST),Made Shot,Cutting Layup Shot,1,0
+53,58,PT07M04.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,27,7,3,Made,1,15,14,29,h,Cunningham 3' Cutting Layup Shot (4 PTS) (Davis 1 AST),Made Shot,Cutting Layup Shot,1,0
+54,59,PT06M41.00S,1,1610612753,ORL,203932,Gordon,A. Gordon,50,75,9,Missed,1,0,0,0,v,MISS Gordon 9' Jump Shot,Missed Shot,Jump Shot,1,0
+55,60,PT06M41.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+56,61,PT06M33.00S,1,1610612740,NOP,203524,Hill,S. Hill,14,257,26,Made,1,18,14,32,h,S. Hill 26' 3PT Jump Shot (3 PTS) (Hield 1 AST),Made Shot,Jump Shot,1,0
+57,62,PT06M18.00S,1,1610612753,ORL,203932,Gordon,A. Gordon,0,1,0,Made,1,18,16,34,v,Gordon  Driving Dunk (3 PTS) (Ibaka 1 AST),Made Shot,Driving Dunk Shot,1,0
+58,63,PT06M11.00S,1,1610612740,NOP,1627741,Hield,B. Hield,120,219,25,Missed,1,0,0,0,h,MISS Hield 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+59,64,PT06M09.00S,1,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+60,65,PT05M48.00S,1,1610612753,ORL,203901,Payton,E. Payton,17,277,28,Made,1,18,19,37,v,Payton 28' 3PT Jump Shot (7 PTS) (Vucevic 2 AST),Made Shot,Jump Shot,1,0
+61,66,PT05M37.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,168,178,24,Missed,1,0,0,0,h,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+62,67,PT05M36.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+63,68,PT05M24.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,66,100,12,Made,1,18,21,39,v,Ibaka 12' Hook Shot (7 PTS),Made Shot,Hook Shot,1,0
+64,69,PT05M17.00S,1,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+65,70,PT05M06.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0
+66,70,PT05M06.00S,1,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks STEAL (1 STL),,,1,0
+67,71,PT05M02.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,6,21,2,Made,1,18,23,41,v,Vucevic 2' Layup (6 PTS) (Payton 2 AST),Made Shot,Layup Shot,1,0
+68,72,PT04M51.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,20,23,43,h,Davis  Cutting Dunk Shot (6 PTS) (Holiday 1 AST),Made Shot,Cutting Dunk Shot,1,0
+69,73,PT04M33.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0
+70,74,PT04M33.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,SUB: Augustin FOR Payton,Substitution,,0,0
+71,75,PT04M33.00S,1,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,SUB: Hezonja FOR Gordon,Substitution,,0,0
+72,76,PT04M33.00S,1,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,SUB: Moore FOR S. Hill,Substitution,,0,0
+73,77,PT04M21.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,30,26,4,Missed,1,0,0,0,h,MISS Cunningham 4' Jump Shot,Missed Shot,Jump Shot,1,0
+74,78,PT04M20.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+75,79,PT04M11.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,2,18,2,Made,1,20,25,45,v,Ibaka 2' Layup (9 PTS) (Vucevic 3 AST),Made Shot,Layup Shot,1,0
+76,80,PT04M01.00S,1,1610612740,NOP,203076,Davis,A. Davis,-1,36,4,Missed,1,0,0,0,h,MISS Davis 4' Jump Shot,Missed Shot,Jump Shot,1,0
+77,80,PT04M01.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka BLOCK (3 BLK),,,1,0
+78,81,PT03M56.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,h,Cunningham REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+79,118,PT03M56.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,150,219,27,Missed,1,0,0,0,h,MISS Cunningham 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+80,123,PT03M56.00S,1,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+81,82,PT03M48.00S,1,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks Poss Lost Ball Turnover (P2.T4),Turnover,Poss Lost Ball Turnover,1,0
+82,82,PT03M48.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday STEAL (3 STL),,,1,0
+83,83,PT03M42.00S,1,1610612740,NOP,1627741,Hield,B. Hield,233,16,0,Made,1,23,25,48,h,Hield  3PT Jump Shot (5 PTS) (Holiday 2 AST),Made Shot,Jump Shot,1,0
+84,84,PT03M27.00S,1,1610612753,ORL,201975,Meeks,J. Meeks,-130,218,25,Missed,1,0,0,0,v,MISS Meeks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+85,85,PT03M26.00S,1,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,Hield REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+86,86,PT03M13.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,17,11,2,Made,1,25,25,50,h,Cunningham 2' Reverse Layup (6 PTS) (Hield 2 AST),Made Shot,Reverse Layup Shot,1,0
+87,87,PT02M56.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,33,237,24,Missed,1,0,0,0,v,MISS Ibaka 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+88,88,PT02M56.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+89,89,PT02M50.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,0,1,0,Made,1,27,25,52,h,Cunningham  Dunk (8 PTS) (Holiday 3 AST),Made Shot,Dunk Shot,1,0
+90,90,PT02M49.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+91,91,PT02M49.00S,1,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,SUB: Green FOR Ibaka,Substitution,,0,0
+92,92,PT02M49.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,SUB: Biyombo FOR Vucevic,Substitution,,0,0
+93,93,PT02M49.00S,1,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,SUB: Watson FOR Meeks,Substitution,,0,0
+94,94,PT02M49.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,h,SUB: Jones FOR Cunningham,Substitution,,0,0
+95,95,PT02M31.00S,1,1610612753,ORL,201571,Augustin,D. Augustin,192,90,21,Made,1,27,27,54,v,Augustin 21' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+96,96,PT02M10.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,-165,11,17,Missed,1,0,0,0,h,MISS Holiday 17' Jump Shot,Missed Shot,Jump Shot,1,0
+97,98,PT02M09.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+98,97,PT02M09.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,29,27,56,h,Davis  Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,1,0
+99,99,PT01M52.00S,1,1610612740,NOP,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore P.FOUL (P1.T3) (S.Wall),Foul,Personal,1,0
+100,100,PT01M52.00S,1,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,SUB: Evans FOR Holiday,Substitution,,0,0
+101,101,PT01M52.00S,1,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,SUB: Galloway FOR Hield,Substitution,,0,0
+102,102,PT01M40.00S,1,1610612753,ORL,201145,Green,J. Green,28,26,4,Made,1,29,29,58,v,Green 4' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,0
+103,103,PT01M26.00S,1,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,Biyombo P.FOUL (P1.PN) (S.Wall),Foul,Personal,1,0
+104,104,PT01M26.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,30,29,59,h,Davis Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+105,106,PT01M26.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+106,108,PT01M24.00S,1,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+107,109,PT01M12.00S,1,1610612753,ORL,201571,Augustin,D. Augustin,143,111,18,Missed,1,0,0,0,v,MISS Augustin 18' Jump Shot,Missed Shot,Jump Shot,1,0
+108,110,PT01M12.00S,1,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+109,111,PT01M00.00S,1,1610612740,NOP,204038,Galloway,L. Galloway,174,193,26,Missed,1,0,0,0,h,MISS Galloway 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+110,112,PT00M59.90S,1,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+111,113,PT00M48.90S,1,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,Watson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+112,113,PT00M48.90S,1,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,Jones STEAL (1 STL),,,1,0
+113,114,PT00M45.80S,1,1610612740,NOP,203076,Davis,A. Davis,12,16,2,Made,1,32,29,61,h,Davis 2' Layup (11 PTS),Made Shot,Layup Shot,1,0
+114,115,PT00M31.90S,1,1610612753,ORL,201145,Green,J. Green,179,193,26,Missed,1,0,0,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+115,116,PT00M29.70S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+116,117,PT00M05.40S,1,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0
+117,119,PT00M00.10S,1,1610612753,ORL,202687,Biyombo,B. Biyombo,127,7,13,Missed,1,0,0,0,v,MISS Biyombo 13' Jump Shot,Missed Shot,Jump Shot,1,0
+118,121,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+119,120,PT00M00.00S,1,0,,0,,,0,0,0,,0,32,29,61,,End of 1st Period (8:32 PM EST),period,end,0,0
+120,124,PT12M00.00S,2,0,,0,,,0,0,0,,0,32,29,61,,Start of 2nd Period (8:35 PM EST),period,start,0,0
+121,125,PT11M52.00S,2,1610612753,ORL,201228,Watson,C. Watson,-20,11,2,Missed,1,0,0,0,v,MISS Watson 2' Layup,Missed Shot,Layup Shot,1,0
+122,125,PT11M52.00S,2,1610612740,NOP,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore BLOCK (1 BLK),,,1,0
+123,126,PT11M52.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+124,127,PT11M44.00S,2,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill P.FOUL (P1.T1) (J.Williams),Foul,Personal,1,0
+125,129,PT11M31.00S,2,1610612753,ORL,201571,Augustin,D. Augustin,137,2,14,Missed,1,0,0,0,v,MISS Augustin 14' Jump Shot,Missed Shot,Jump Shot,1,0
+126,130,PT11M28.00S,2,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,Hezonja REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+127,131,PT11M19.00S,2,1610612753,ORL,1626209,Hezonja,M. Hezonja,-48,195,20,Missed,1,0,0,0,v,MISS Hezonja 20' Jump Shot,Missed Shot,Jump Shot,1,0
+128,132,PT11M19.00S,2,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+129,133,PT11M02.00S,2,1610612740,NOP,202734,Moore,E. Moore,66,242,25,Made,1,35,29,64,h,Moore 25' 3PT Jump Shot (3 PTS) (Evans 1 AST),Made Shot,Jump Shot,1,0
+130,134,PT10M36.00S,2,1610612753,ORL,201145,Green,J. Green,-112,72,13,Missed,1,0,0,0,v,MISS Green 13' Jump Shot,Missed Shot,Jump Shot,1,0
+131,135,PT10M36.00S,2,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+132,136,PT10M25.00S,2,1610612740,NOP,204038,Galloway,L. Galloway,86,198,22,Made,1,37,29,66,h,Galloway 22' Jump Shot (2 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,0
+133,137,PT10M09.00S,2,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,0,0,0,h,Galloway P.FOUL (P1.T2) (J.Williams),Foul,Personal,1,0
+134,138,PT09M57.00S,2,1610612753,ORL,1626209,Hezonja,M. Hezonja,-74,16,8,Missed,1,0,0,0,v,MISS Hezonja 8' Jump Shot,Missed Shot,Jump Shot,1,0
+135,139,PT09M56.00S,2,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,0,0,0,h,Galloway REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+136,141,PT09M50.00S,2,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,Biyombo Violation:Defensive Goaltending (E.Dalen),Violation,Defensive Goaltending,1,0
+137,140,PT09M50.00S,2,1610612740,NOP,201936,Evans,T. Evans,-4,16,2,Made,1,39,29,68,h,Evans 2' Layup (2 PTS),Made Shot,Layup Shot,1,0
+138,142,PT09M37.00S,2,1610612753,ORL,201228,Watson,C. Watson,35,13,4,Made,1,39,31,70,v,Watson 4' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,1,0
+139,143,PT09M37.00S,2,1610612740,NOP,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore S.FOUL (P2.T3) (S.Wall),Foul,Shooting,1,0
+140,144,PT09M37.00S,2,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,SUB: Gordon FOR Hezonja,Substitution,,0,0
+141,145,PT09M37.00S,2,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,39,32,71,v,Watson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+142,147,PT09M20.00S,2,1610612740,NOP,201936,Evans,T. Evans,-112,124,17,Missed,1,0,0,0,h,MISS Evans 17' Jump Shot,Missed Shot,Jump Shot,1,0
+143,148,PT09M20.00S,2,1610612753,ORL,201571,Augustin,D. Augustin,0,0,0,,0,0,0,0,v,Augustin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+144,150,PT09M11.00S,2,1610612753,ORL,201571,Augustin,D. Augustin,158,110,19,Missed,1,0,0,0,v,MISS Augustin 19' Jump Shot,Missed Shot,Jump Shot,1,0
+145,152,PT09M06.00S,2,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,Jump Ball Jones vs. Biyombo: Tip to Galloway,Jump Ball,,1,0
+146,153,PT09M06.00S,2,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Rebound,Rebound,Unknown,0,0
+147,154,PT08M57.00S,2,1610612740,NOP,202734,Moore,E. Moore,143,203,25,Missed,1,0,0,0,h,MISS Moore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+148,155,PT08M57.00S,2,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+149,156,PT08M53.00S,2,1610612753,ORL,201145,Green,J. Green,4,11,1,Made,1,39,34,73,v,Green 1' Layup (4 PTS),Made Shot,Layup Shot,1,0
+150,157,PT08M36.00S,2,1610612740,NOP,202734,Moore,E. Moore,1,23,2,Missed,1,0,0,0,h,MISS Moore 2' Layup,Missed Shot,Layup Shot,1,0
+151,158,PT08M34.00S,2,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+152,160,PT08M25.00S,2,1610612753,ORL,201571,Augustin,D. Augustin,6,252,25,Made,1,39,37,76,v,Augustin 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+153,162,PT08M15.00S,2,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+154,163,PT08M15.00S,2,1610612740,NOP,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,SUB: Hield FOR Moore,Substitution,,0,0
+155,165,PT08M05.00S,2,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,Biyombo S.FOUL (P2.T1) (S.Wall),Foul,Shooting,1,0
+156,166,PT08M05.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,40,37,77,h,Evans Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+157,168,PT08M05.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,41,37,78,h,Evans Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+158,170,PT07M53.00S,2,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,Watson Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+159,171,PT07M46.00S,2,1610612740,NOP,201936,Evans,T. Evans,2,3,0,Made,1,43,37,80,h,Evans  Layup (6 PTS),Made Shot,Layup Shot,1,0
+160,172,PT07M27.00S,2,1610612753,ORL,201145,Green,J. Green,-12,26,3,Made,1,43,39,82,v,Green 3' Layup (6 PTS) (Gordon 3 AST),Made Shot,Layup Shot,1,0
+161,173,PT07M15.00S,2,1610612740,NOP,201936,Evans,T. Evans,9,7,1,Missed,1,0,0,0,h,MISS Evans 1' Layup,Missed Shot,Layup Shot,1,0
+162,174,PT07M13.00S,2,1610612753,ORL,201571,Augustin,D. Augustin,0,0,0,,0,0,0,0,v,Augustin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+163,175,PT07M07.00S,2,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill S.FOUL (P2.T4) (E.Dalen),Foul,Shooting,1,0
+164,176,PT07M07.00S,2,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,43,40,83,v,Green Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+165,178,PT07M07.00S,2,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,SUB: Cunningham FOR S. Hill,Substitution,,0,0
+166,179,PT07M07.00S,2,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,43,41,84,v,Green Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+167,181,PT06M54.00S,2,1610612740,NOP,1627741,Hield,B. Hield,105,228,25,Made,1,46,41,87,h,Hield 25' 3PT Jump Shot (8 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,0
+168,182,PT06M30.00S,2,1610612753,ORL,201571,Augustin,D. Augustin,-104,232,25,Missed,1,0,0,0,v,MISS Augustin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+169,183,PT06M29.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+170,186,PT06M25.00S,2,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Violation:Defensive Goaltending (E.Dalen),Violation,Defensive Goaltending,1,0
+171,184,PT06M25.00S,2,1610612740,NOP,1627741,Hield,B. Hield,17,7,2,Made,1,48,41,89,h,Hield 2' Layup (10 PTS),Made Shot,Layup Shot,1,0
+172,185,PT06M25.00S,2,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,Watson S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,1,0
+173,187,PT06M25.00S,2,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,MISS Hield Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+174,189,PT06M24.00S,2,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+175,191,PT06M14.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,213,21,21,Missed,1,0,0,0,v,MISS Gordon 21' Jump Shot,Missed Shot,Jump Shot,1,0
+176,193,PT06M13.00S,2,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,Hield REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+177,195,PT06M04.00S,2,1610612740,NOP,201936,Evans,T. Evans,1,254,25,Made,1,51,41,92,h,Evans 25' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1,0
+178,196,PT06M03.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+179,198,PT06M03.00S,2,1610612753,ORL,201571,Augustin,D. Augustin,0,0,0,,0,0,0,0,v,SUB: Vucevic FOR Augustin,Substitution,,0,0
+180,199,PT06M03.00S,2,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,SUB: Payton FOR Biyombo,Substitution,,0,0
+181,200,PT06M03.00S,2,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,0,0,0,v,SUB: Ibaka FOR Green,Substitution,,0,0
+182,201,PT06M03.00S,2,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,SUB: Meeks FOR Watson,Substitution,,0,0
+183,203,PT05M56.00S,2,1610612753,ORL,201975,Meeks,J. Meeks,19,7,2,Missed,1,0,0,0,v,MISS Meeks 2' Layup,Missed Shot,Layup Shot,1,0
+184,204,PT05M55.00S,2,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+185,205,PT05M49.00S,2,1610612740,NOP,204038,Galloway,L. Galloway,-240,13,24,Made,1,54,41,95,h,Galloway 24' 3PT Jump Shot (5 PTS) (Evans 2 AST),Made Shot,Jump Shot,1,0
+186,206,PT05M29.00S,2,1610612753,ORL,203901,Payton,E. Payton,-14,2,1,Missed,1,0,0,0,v,MISS Payton 1' Layup,Missed Shot,Layup Shot,1,0
+187,206,PT05M29.00S,2,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,Jones BLOCK (1 BLK),,,1,0
+188,207,PT05M28.00S,2,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+189,208,PT05M06.00S,2,1610612740,NOP,203093,Jones,T. Jones,-47,43,6,Missed,1,0,0,0,h,MISS Jones 6' Jump Shot,Missed Shot,Jump Shot,1,0
+190,209,PT05M05.00S,2,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+191,210,PT04M55.00S,2,1610612753,ORL,201586,Ibaka,S. Ibaka,-43,247,25,Missed,1,0,0,0,v,MISS Ibaka 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+192,211,PT04M55.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+193,212,PT04M55.00S,2,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,Jones L.B.FOUL (P1.PN) (J.Williams),Foul,Loose Ball,1,0
+194,213,PT04M55.00S,2,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,54,42,96,v,Vucevic Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+195,215,PT04M55.00S,2,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,SUB: Davis FOR Jones,Substitution,,0,0
+196,216,PT04M55.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,SUB: Holiday FOR Evans,Substitution,,0,0
+197,217,PT04M55.00S,2,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,54,43,97,v,Vucevic Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+198,219,PT04M42.00S,2,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,Hield Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+199,219,PT04M42.00S,2,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks STEAL (2 STL),,,1,0
+200,220,PT04M37.00S,2,1610612753,ORL,201975,Meeks,J. Meeks,15,7,2,Missed,1,0,0,0,v,MISS Meeks 2' Layup,Missed Shot,Layup Shot,1,0
+201,221,PT04M35.00S,2,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+202,222,PT04M32.00S,2,1610612753,ORL,201975,Meeks,J. Meeks,9,7,1,Made,1,54,45,99,v,Meeks 1' Layup (2 PTS) (Ibaka 2 AST),Made Shot,Layup Shot,1,0
+203,223,PT04M23.00S,2,1610612740,NOP,1627741,Hield,B. Hield,-160,188,25,Missed,1,0,0,0,h,MISS Hield 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+204,224,PT04M21.00S,2,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+205,225,PT04M09.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,-20,11,2,Made,1,54,47,101,v,Gordon 2' Layup (5 PTS),Made Shot,Layup Shot,1,0
+206,226,PT03M58.00S,2,1610612740,NOP,201950,Holiday,J. Holiday,-109,105,15,Missed,1,0,0,0,h,MISS Holiday 15' Jump Shot,Missed Shot,Jump Shot,1,0
+207,227,PT03M56.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+208,228,PT03M51.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,168,195,26,Made,1,54,50,104,v,Gordon 26' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+209,229,PT03M33.00S,2,1610612740,NOP,203076,Davis,A. Davis,-166,110,20,Missed,1,0,0,0,h,MISS Davis 20' Jump Shot,Missed Shot,Jump Shot,1,0
+210,230,PT03M32.00S,2,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+211,231,PT03M23.00S,2,1610612753,ORL,202696,Vucevic,N. Vucevic,130,26,13,Missed,1,0,0,0,v,MISS Vucevic 13' Jump Shot,Missed Shot,Jump Shot,1,0
+212,232,PT03M22.00S,2,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+213,233,PT03M16.00S,2,1610612740,NOP,204038,Galloway,L. Galloway,135,218,26,Made,1,57,50,107,h,Galloway 26' 3PT Jump Shot (8 PTS) (Holiday 4 AST),Made Shot,Jump Shot,1,0
+214,234,PT03M14.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+215,235,PT03M14.00S,2,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,SUB: S. Hill FOR Hield,Substitution,,0,0
+216,236,PT02M59.00S,2,1610612753,ORL,203901,Payton,E. Payton,10,16,2,Made,1,57,52,109,v,Payton 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+217,237,PT02M51.00S,2,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,Meeks S.FOUL (P2.T3) (E.Dalen),Foul,Shooting,1,0
+218,238,PT02M51.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+219,240,PT02M51.00S,2,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,SUB: Augustin FOR Meeks,Substitution,,0,0
+220,241,PT02M51.00S,2,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,58,52,110,h,Galloway Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0
+221,243,PT02M51.00S,2,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,59,52,111,h,Galloway Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,0,0
+222,245,PT02M51.00S,2,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,0,0,0,h,MISS Galloway Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0
+223,247,PT02M49.00S,2,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+224,248,PT02M31.00S,2,1610612753,ORL,203901,Payton,E. Payton,114,129,17,Missed,1,0,0,0,v,MISS Payton 17' Jump Shot,Missed Shot,Jump Shot,1,0
+225,249,PT02M31.00S,2,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+226,250,PT02M15.00S,2,1610612740,NOP,201967,Cunningham,D. Cunningham,-156,205,26,Missed,1,0,0,0,h,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+227,251,PT02M14.00S,2,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Rebound,Rebound,Unknown,0,0
+228,252,PT02M13.00S,2,1610612753,ORL,201571,Augustin,D. Augustin,0,0,0,,0,0,0,0,v,Augustin L.B.FOUL (P1.T4) (J.Williams),Foul,Loose Ball,1,0
+229,254,PT02M01.00S,2,1610612740,NOP,201950,Holiday,J. Holiday,28,18,3,Made,1,61,52,113,h,Holiday 3' Jump Bank Shot (7 PTS) (Galloway 1 AST),Made Shot,Jump Bank Shot,1,0
+230,255,PT01M35.00S,2,1610612753,ORL,203901,Payton,E. Payton,-112,242,27,Missed,1,0,0,0,v,MISS Payton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+231,256,PT01M35.00S,2,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+232,257,PT01M28.00S,2,1610612740,NOP,203524,Hill,S. Hill,0,1,0,Made,1,63,52,115,h,S. Hill  Cutting Dunk Shot (5 PTS) (Davis 2 AST),Made Shot,Cutting Dunk Shot,1,0
+233,258,PT01M18.00S,2,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0
+234,258,PT01M18.00S,2,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill STEAL (1 STL),,,1,0
+235,260,PT01M15.00S,2,1610612740,NOP,203524,Hill,S. Hill,-23,10,3,Missed,1,0,0,0,h,MISS S. Hill 3' Layup,Missed Shot,Layup Shot,1,0
+236,266,PT01M14.00S,2,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,h,Cunningham REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+237,259,PT01M12.00S,2,1610612740,NOP,201967,Cunningham,D. Cunningham,0,1,0,Made,1,65,52,117,h,Cunningham  Putback Dunk (10 PTS),Made Shot,Putback Dunk Shot,1,0
+238,261,PT01M12.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+239,262,PT01M12.00S,2,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,SUB: Evans FOR S. Hill,Substitution,,0,0
+240,263,PT01M12.00S,2,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,SUB: Green FOR Ibaka,Substitution,,0,0
+241,264,PT00M53.00S,2,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0
+242,264,PT00M53.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,Evans STEAL (1 STL),,,1,0
+243,265,PT00M50.80S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,Evans Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+244,265,PT00M50.80S,2,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green STEAL (1 STL),,,1,0
+245,267,PT00M37.60S,2,1610612753,ORL,201145,Green,J. Green,194,160,25,Missed,1,0,0,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+246,268,PT00M36.90S,2,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+247,269,PT00M26.40S,2,1610612740,NOP,204038,Galloway,L. Galloway,-233,-1,0,Missed,1,0,0,0,h,MISS Galloway  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+248,270,PT00M23.60S,2,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+249,272,PT00M00.10S,2,1610612753,ORL,201571,Augustin,D. Augustin,-143,242,28,Missed,1,0,0,0,v,MISS Augustin 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+250,272,PT00M00.10S,2,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday BLOCK (1 BLK),,,1,0
+251,274,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+252,273,PT00M00.00S,2,0,,0,,,0,0,0,,0,65,52,117,,End of 2nd Period (9:05 PM EST),period,end,0,0
+253,276,PT12M00.00S,3,0,,0,,,0,0,0,,0,65,52,117,,Start of 3rd Period (9:21 PM EST),period,start,0,0
+254,277,PT11M45.00S,3,1610612753,ORL,201975,Meeks,J. Meeks,-156,223,27,Missed,1,0,0,0,v,MISS Meeks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+255,278,PT11M43.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,h,Cunningham REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+256,279,PT11M23.00S,3,1610612740,NOP,203076,Davis,A. Davis,-16,90,9,Made,1,67,52,119,h,Davis 9' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,1,0
+257,280,PT11M06.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,-29,7,3,Made,1,67,54,121,v,Gordon 3' Reverse Layup (10 PTS),Made Shot,Reverse Layup Shot,1,0
+258,281,PT10M53.00S,3,1610612740,NOP,203076,Davis,A. Davis,-34,203,21,Missed,1,0,0,0,h,MISS Davis 21' Jump Shot,Missed Shot,Jump Shot,1,0
+259,282,PT10M52.00S,3,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+260,283,PT10M42.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-201,65,21,Missed,1,0,0,0,v,MISS Vucevic 21' Jump Shot,Missed Shot,Jump Shot,1,0
+261,284,PT10M41.00S,3,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+262,285,PT10M36.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,232,3,0,Made,1,70,54,124,h,Holiday  3PT Jump Shot (10 PTS) (S. Hill 2 AST),Made Shot,Jump Shot,1,0
+263,286,PT10M18.00S,3,1610612753,ORL,201586,Ibaka,S. Ibaka,-66,252,26,Missed,1,0,0,0,v,MISS Ibaka 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+264,287,PT10M17.00S,3,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,Hield REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+265,288,PT10M04.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+266,288,PT10M04.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon STEAL (1 STL),,,1,0
+267,289,PT09M58.00S,3,1610612753,ORL,203901,Payton,E. Payton,-7,16,2,Made,1,70,56,126,v,Payton 2' Layup (11 PTS),Made Shot,Layup Shot,1,0
+268,290,PT09M36.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,72,56,128,h,Davis  Dunk (15 PTS) (Hield 3 AST),Made Shot,Dunk Shot,1,0
+269,291,PT09M20.00S,3,1610612753,ORL,201975,Meeks,J. Meeks,105,26,11,Made,1,72,58,130,v,Meeks 11' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,1,0
+270,292,PT09M20.00S,3,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,Hield S.FOUL (P2.T1) (E.Dalen),Foul,Shooting,1,0
+271,293,PT09M20.00S,3,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,72,59,131,v,Meeks Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+272,295,PT09M09.00S,3,1610612740,NOP,1627741,Hield,B. Hield,-125,228,26,Missed,1,0,0,0,h,MISS Hield 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+273,296,PT09M08.00S,3,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+274,298,PT08M56.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,-173,185,25,Missed,1,0,0,0,v,MISS Gordon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+275,299,PT08M55.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+276,300,PT08M42.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,-20,3,2,Missed,1,0,0,0,h,MISS Holiday 2' Layup,Missed Shot,Layup Shot,1,0
+277,300,PT08M42.00S,3,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka BLOCK (4 BLK),,,1,0
+278,301,PT08M41.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+279,302,PT08M37.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,-4,16,2,Made,1,72,61,133,v,Gordon 2' Layup (12 PTS),Made Shot,Layup Shot,1,0
+280,303,PT08M37.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis S.FOUL (P1.T2) (S.Wall),Foul,Shooting,1,0
+281,304,PT08M37.00S,3,1610612753,ORL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,v,SUB: Augustin FOR Meeks,Substitution,,0,0
+282,305,PT08M37.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,MISS Gordon Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+283,307,PT08M36.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+284,309,PT08M20.00S,3,1610612740,NOP,203076,Davis,A. Davis,128,13,13,Missed,1,0,0,0,h,MISS Davis 13' Jump Shot,Missed Shot,Jump Shot,1,0
+285,310,PT08M19.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+286,311,PT08M06.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-32,41,5,Missed,1,0,0,0,v,MISS Vucevic 5' Hook Shot,Missed Shot,Hook Shot,1,0
+287,312,PT08M05.00S,3,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+288,313,PT08M00.00S,3,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+289,315,PT07M45.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis Traveling Turnover (P2.T7),Turnover,Traveling,1,0
+290,316,PT07M20.00S,3,1610612753,ORL,201571,Augustin,D. Augustin,61,144,16,Missed,1,0,0,0,v,MISS Augustin 16' Jump Shot,Missed Shot,Jump Shot,1,0
+291,317,PT07M20.00S,3,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Rebound,Rebound,Unknown,0,0
+292,318,PT07M20.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic L.B.FOUL (P1.T1) (E.Dalen),Foul,Loose Ball,1,0
+293,319,PT07M03.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,15,16,2,Missed,1,0,0,0,h,MISS Holiday 2' Layup,Missed Shot,Layup Shot,1,0
+294,320,PT07M03.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+295,321,PT06M58.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,-240,7,24,Missed,1,0,0,0,v,MISS Gordon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+296,322,PT06M57.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+297,323,PT06M49.00S,3,1610612740,NOP,203524,Hill,S. Hill,-1,156,16,Missed,1,0,0,0,h,MISS S. Hill 16' Jump Shot,Missed Shot,Jump Shot,1,0
+298,324,PT06M47.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+299,325,PT06M30.00S,3,1610612753,ORL,201571,Augustin,D. Augustin,-181,193,26,Made,1,72,64,136,v,Augustin 26' 3PT Jump Shot (8 PTS) (Vucevic 4 AST),Made Shot,Jump Shot,1,0
+300,326,PT06M27.00S,3,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+301,328,PT06M10.00S,3,1610612740,NOP,203524,Hill,S. Hill,-70,237,25,Missed,1,0,0,0,h,MISS S. Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+302,329,PT06M09.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+303,330,PT05M56.00S,3,1610612753,ORL,201571,Augustin,D. Augustin,0,0,0,,0,0,0,0,v,Augustin Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+304,330,PT05M56.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday STEAL (4 STL),,,1,0
+305,331,PT05M47.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,-238,11,24,Missed,1,0,0,0,h,MISS Cunningham 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+306,332,PT05M46.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+307,333,PT05M38.00S,3,1610612753,ORL,201571,Augustin,D. Augustin,58,242,25,Missed,1,0,0,0,v,MISS Augustin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+308,334,PT05M37.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:11),Rebound,Unknown,1,0
+309,335,PT05M21.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,17,13,2,Missed,1,0,0,0,h,MISS Holiday 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+310,336,PT05M20.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+311,337,PT05M19.00S,3,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,SUB: Moore FOR S. Hill,Substitution,,0,0
+312,338,PT05M19.00S,3,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,SUB: Galloway FOR Hield,Substitution,,0,0
+313,339,PT05M16.00S,3,1610612740,NOP,203076,Davis,A. Davis,9,16,2,Missed,1,0,0,0,h,MISS Davis 2' Layup,Missed Shot,Layup Shot,1,0
+314,339,PT05M16.00S,3,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka BLOCK (5 BLK),,,1,0
+315,340,PT05M16.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+316,341,PT05M11.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,h,Cunningham Violation:Kicked Ball (S.Wall),Violation,Kicked Ball,0,0
+317,342,PT05M07.00S,3,1610612753,ORL,201571,Augustin,D. Augustin,-68,247,26,Missed,1,0,0,0,v,MISS Augustin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+318,343,PT05M06.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,h,Cunningham REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+319,344,PT05M00.00S,3,1610612740,NOP,202734,Moore,E. Moore,-9,8,1,Made,1,74,64,138,h,Moore 1' Cutting Finger Roll Layup Shot (5 PTS) (Davis 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,0
+320,345,PT04M46.00S,3,1610612753,ORL,203901,Payton,E. Payton,-16,8,2,Missed,1,0,0,0,v,MISS Payton 2' Layup,Missed Shot,Layup Shot,1,0
+321,346,PT04M44.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Jump Ball Davis vs. Vucevic: Tip to Cunningham,Jump Ball,,1,0
+322,347,PT04M44.00S,3,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Rebound,Rebound,Unknown,0,0
+323,348,PT04M32.00S,3,1610612740,NOP,203076,Davis,A. Davis,-91,13,9,Missed,1,0,0,0,h,MISS Davis 9' Jump Shot,Missed Shot,Jump Shot,1,0
+324,349,PT04M31.00S,3,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+325,350,PT04M18.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,-143,11,14,Missed,1,0,0,0,v,MISS Gordon 14' Jump Shot,Missed Shot,Jump Shot,1,0
+326,350,PT04M18.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday BLOCK (2 BLK),,,1,0
+327,351,PT04M15.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+328,352,PT04M13.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+329,354,PT04M02.00S,3,1610612740,NOP,203076,Davis,A. Davis,40,11,4,Made,1,76,64,140,h,Davis 4' Jump Shot (17 PTS) (Moore 1 AST),Made Shot,Jump Shot,1,0
+330,355,PT03M47.00S,3,1610612753,ORL,201586,Ibaka,S. Ibaka,-30,61,7,Missed,1,0,0,0,v,MISS Ibaka 7' Jump Shot,Missed Shot,Jump Shot,1,0
+331,355,PT03M47.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (1 BLK),,,1,0
+332,356,PT03M46.00S,3,1610612740,NOP,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+333,357,PT03M30.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,46,185,19,Made,1,78,64,142,h,Holiday 19' Jump Shot (12 PTS) (Moore 2 AST),Made Shot,Jump Shot,1,0
+334,358,PT03M29.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+335,360,PT03M29.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,SUB: Green FOR Gordon,Substitution,,0,0
+336,361,PT03M18.00S,3,1610612753,ORL,201586,Ibaka,S. Ibaka,0,1,0,Made,1,78,66,144,v,Ibaka  Cutting Dunk Shot (11 PTS) (Vucevic 5 AST),Made Shot,Cutting Dunk Shot,1,0
+337,362,PT03M04.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,1,0,Made,1,80,66,146,h,Cunningham  Cutting Dunk Shot (12 PTS) (Davis 4 AST),Made Shot,Cutting Dunk Shot,1,0
+338,363,PT02M47.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,45,26,5,Missed,1,0,0,0,v,MISS Vucevic 5' Jump Shot,Missed Shot,Jump Shot,1,0
+339,364,PT02M46.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,h,Cunningham REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+340,365,PT02M40.00S,3,1610612740,NOP,202734,Moore,E. Moore,-11,-1,1,Made,1,82,66,148,h,Moore 1' Layup (7 PTS) (Galloway 2 AST),Made Shot,Layup Shot,1,0
+341,366,PT02M31.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,1,0,Made,1,82,68,150,v,Vucevic  Cutting Dunk Shot (10 PTS) (Payton 3 AST),Made Shot,Cutting Dunk Shot,1,0
+342,367,PT02M16.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,-192,21,19,Made,1,84,68,152,h,Holiday 19' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,0
+343,368,PT02M05.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-165,129,21,Missed,1,0,0,0,v,MISS Vucevic 21' Jump Shot,Missed Shot,Jump Shot,1,0
+344,369,PT02M04.00S,3,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,0,0,0,h,Galloway REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+345,370,PT01M53.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,-97,247,27,Missed,1,0,0,0,h,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+346,371,PT01M51.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+347,372,PT01M42.00S,3,1610612753,ORL,203901,Payton,E. Payton,51,247,25,Made,1,84,71,155,v,Payton 25' 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,1,0
+348,373,PT01M27.00S,3,1610612740,NOP,203076,Davis,A. Davis,-50,7,5,Made,1,86,71,157,h,Davis 5' Jump Shot (19 PTS) (Holiday 5 AST),Made Shot,Jump Shot,1,0
+349,374,PT01M18.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0
+350,374,PT01M18.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday STEAL (5 STL),,,1,0
+351,375,PT01M15.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic P.FOUL (P2.T2) (E.Dalen),Foul,Personal,1,0
+352,376,PT01M15.00S,3,1610612753,ORL,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,SUB: Hezonja FOR Ibaka,Substitution,,0,0
+353,377,PT01M15.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,SUB: Watson FOR Vucevic,Substitution,,0,0
+354,378,PT01M15.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,SUB: Biyombo FOR Payton,Substitution,,0,0
+355,379,PT01M13.00S,3,1610612740,NOP,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,SUB: Evans FOR Holiday,Substitution,,0,0
+356,380,PT01M00.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,1,0,Made,1,88,71,159,h,Cunningham  Cutting Dunk Shot (14 PTS) (Evans 3 AST),Made Shot,Cutting Dunk Shot,1,0
+357,381,PT00M51.50S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,h,Cunningham P.FOUL (P1.T3) (J.Williams),Foul,Personal,1,0
+358,382,PT00M51.50S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,h,SUB: S. Hill FOR Cunningham,Substitution,,0,0
+359,383,PT00M47.90S,3,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,Hezonja Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0
+360,383,PT00M47.90S,3,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,Evans STEAL (2 STL),,,1,0
+361,384,PT00M47.10S,3,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,Hezonja P.FOUL (P1.PN) (J.Williams),Foul,Personal,1,0
+362,385,PT00M47.10S,3,0,,384,Cheaney,C. Cheaney,0,0,0,,0,0,0,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0
+363,386,PT00M47.10S,3,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,89,71,160,h,Galloway Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+364,388,PT00M47.10S,3,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,90,71,161,h,Galloway Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+365,390,PT00M32.20S,3,1610612753,ORL,201571,Augustin,D. Augustin,-202,154,25,Missed,1,0,0,0,v,MISS Augustin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+366,391,PT00M31.80S,3,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+367,393,PT00M17.30S,3,1610612740,NOP,203076,Davis,A. Davis,-106,144,18,Made,1,92,71,163,h,Davis 18' Jump Shot (21 PTS) (Evans 4 AST),Made Shot,Jump Shot,1,0
+368,394,PT00M00.30S,3,1610612753,ORL,201145,Green,J. Green,123,105,16,Made,1,92,73,165,v,Green 16' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,0
+369,395,PT00M00.00S,3,0,,0,,,0,0,0,,0,92,73,165,,End of 3rd Period (9:46 PM EST),period,end,0,0
+370,397,PT12M00.00S,4,0,,0,,,0,0,0,,0,92,73,165,,Start of 4th Period (9:48 PM EST),period,start,0,0
+371,399,PT11M39.00S,4,1610612740,NOP,201936,Evans,T. Evans,158,219,27,Missed,1,0,0,0,h,MISS Evans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+372,400,PT11M37.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,Hezonja REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+373,401,PT11M25.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,-181,31,18,Made,1,92,75,167,v,Hezonja 18' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+374,402,PT11M11.00S,4,1610612740,NOP,203093,Jones,T. Jones,200,156,25,Made,1,95,75,170,h,Jones 25' 3PT Jump Shot (3 PTS) (Galloway 3 AST),Made Shot,Jump Shot,1,0
+375,403,PT10M58.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,Hezonja Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0
+376,404,PT10M34.00S,4,1610612740,NOP,201936,Evans,T. Evans,-212,0,21,Missed,1,0,0,0,h,MISS Evans 21' Jump Shot,Missed Shot,Jump Shot,1,0
+377,405,PT10M34.00S,4,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+378,406,PT10M19.00S,4,1610612753,ORL,201228,Watson,C. Watson,-237,90,25,Missed,1,0,0,0,v,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+379,407,PT10M18.00S,4,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+380,408,PT10M08.00S,4,1610612740,NOP,203093,Jones,T. Jones,209,139,25,Missed,1,0,0,0,h,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+381,409,PT10M08.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,Hezonja REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+382,410,PT10M02.00S,4,1610612753,ORL,201571,Augustin,D. Augustin,0,0,0,,0,0,0,0,v,Augustin Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+383,411,PT09M50.00S,4,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Timeout: Short (Full 4 Short 1),Timeout,Short,0,0
+384,412,PT09M44.00S,4,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,Watson P.FOUL (P2.T1) (J.Williams),Foul,Personal,1,0
+385,413,PT09M30.00S,4,1610612740,NOP,203093,Jones,T. Jones,9,70,7,Made,1,97,75,172,h,Jones 7' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,1,0
+386,415,PT09M12.00S,4,1610612753,ORL,201145,Green,J. Green,-43,111,12,Missed,1,0,0,0,v,MISS Green 12' Jump Shot,Missed Shot,Jump Shot,1,0
+387,416,PT09M11.00S,4,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+388,417,PT08M48.00S,4,1610612740,NOP,204038,Galloway,L. Galloway,19,272,27,Made,1,100,75,175,h,Galloway 27' 3PT Jump Shot (15 PTS) (Evans 5 AST),Made Shot,Jump Shot,1,0
+389,418,PT08M42.00S,4,1610612753,ORL,201571,Augustin,D. Augustin,0,0,0,,0,0,0,0,v,Augustin Out of Bounds Lost Ball Turnover (P3.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0
+390,419,PT08M42.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+391,421,PT08M42.00S,4,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,SUB: Gordon FOR Watson,Substitution,,0,0
+392,422,PT08M26.00S,4,1610612740,NOP,204038,Galloway,L. Galloway,15,267,27,Made,1,103,75,178,h,Galloway 27' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,0
+393,423,PT08M06.00S,4,1610612753,ORL,201145,Green,J. Green,55,249,26,Missed,1,0,0,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+394,424,PT08M05.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+395,425,PT07M45.00S,4,1610612740,NOP,203093,Jones,T. Jones,12,16,2,Missed,1,0,0,0,h,MISS Jones 2' Layup,Missed Shot,Layup Shot,1,0
+396,426,PT07M44.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+397,427,PT07M26.00S,4,1610612753,ORL,202687,Biyombo,B. Biyombo,9,28,3,Made,1,103,77,180,v,Biyombo 3' Hook Shot (2 PTS) (Gordon 4 AST),Made Shot,Hook Shot,1,0
+398,428,PT07M11.00S,4,1610612740,NOP,201936,Evans,T. Evans,10,21,2,Missed,1,0,0,0,h,MISS Evans 2' Layup,Missed Shot,Layup Shot,1,0
+399,429,PT07M10.00S,4,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,Gordon REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+400,430,PT07M02.00S,4,1610612753,ORL,201145,Green,J. Green,-202,154,25,Made,1,103,80,183,v,Green 25' 3PT Jump Shot (13 PTS) (Augustin 1 AST),Made Shot,Jump Shot,1,0
+401,431,PT06M32.00S,4,1610612740,NOP,201936,Evans,T. Evans,60,262,27,Made,1,106,80,186,h,Evans 27' 3PT Jump Shot (12 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,0
+402,432,PT06M12.00S,4,1610612753,ORL,201571,Augustin,D. Augustin,0,0,0,,0,0,0,0,v,Augustin Lost Ball Turnover (P4.T16),Turnover,Lost Ball,1,0
+403,432,PT06M12.00S,4,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill STEAL (2 STL),,,1,0
+404,433,PT06M07.00S,4,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,S. Hill Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0
+405,433,PT06M07.00S,4,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green STEAL (2 STL),,,1,0
+406,434,PT06M02.00S,4,1610612753,ORL,203932,Gordon,A. Gordon,-29,11,3,Made,1,106,82,188,v,Gordon 3' Jump Shot (14 PTS) (Hezonja 1 AST),Made Shot,Jump Shot,1,0
+407,435,PT05M40.00S,4,1610612740,NOP,201936,Evans,T. Evans,79,272,28,Made,1,109,82,191,h,Evans 28' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,0
+408,436,PT05M38.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+409,438,PT05M38.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,SUB: Watson FOR Hezonja,Substitution,,0,0
+410,439,PT05M38.00S,4,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,0,0,0,v,SUB: Rudez FOR Green,Substitution,,0,0
+411,440,PT05M25.00S,4,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,Watson Bad Pass Turnover (P3.T17),Turnover,Bad Pass,1,0
+412,440,PT05M25.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,Evans STEAL (3 STL),,,1,0
+413,441,PT05M04.00S,4,1610612740,NOP,202734,Moore,E. Moore,6,115,12,Missed,1,0,0,0,h,MISS Moore 12' Jump Shot,Missed Shot,Jump Shot,1,0
+414,442,PT05M03.00S,4,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,Biyombo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+415,443,PT04M54.00S,4,1610612753,ORL,201571,Augustin,D. Augustin,43,51,7,Made,1,109,84,193,v,Augustin 7' Jump Shot (10 PTS),Made Shot,Jump Shot,1,0
+416,444,PT04M44.00S,4,1610612740,NOP,201936,Evans,T. Evans,181,183,26,Made,1,112,84,196,h,Evans 26' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,0
+417,445,PT04M24.00S,4,1610612753,ORL,202687,Biyombo,B. Biyombo,-2,72,7,Missed,1,0,0,0,v,MISS Biyombo 7' Jump Shot,Missed Shot,Jump Shot,1,0
+418,446,PT04M23.00S,4,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+419,447,PT04M14.00S,4,1610612740,NOP,201936,Evans,T. Evans,-47,293,30,Missed,1,0,0,0,h,MISS Evans 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+420,448,PT04M12.00S,4,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,Biyombo REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+421,449,PT04M03.00S,4,1610612753,ORL,202687,Biyombo,B. Biyombo,0,16,2,Made,1,112,86,198,v,Biyombo 2' Cutting Layup Shot (4 PTS) (Augustin 2 AST),Made Shot,Cutting Layup Shot,1,0
+422,450,PT03M45.00S,4,1610612740,NOP,203093,Jones,T. Jones,-20,11,2,Made,1,114,86,200,h,Jones 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0
+423,451,PT03M27.00S,4,1610612753,ORL,203932,Gordon,A. Gordon,-130,115,17,Missed,1,0,0,0,v,MISS Gordon 17' Jump Shot,Missed Shot,Jump Shot,1,0
+424,499,PT03M27.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+425,453,PT03M26.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,Evans L.B.FOUL (P1.T1) (E.Dalen),Foul,Loose Ball,1,0
+426,454,PT03M26.00S,4,1610612740,NOP,203093,Jones,T. Jones,0,0,0,,0,0,0,0,h,SUB: Frazier FOR Jones,Substitution,,0,0
+427,455,PT03M26.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0,0,0,h,SUB: Motiejunas FOR Evans,Substitution,,0,0
+428,456,PT03M26.00S,4,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,v,SUB: Green FOR Gordon,Substitution,,0,0
+429,457,PT03M26.00S,4,1610612753,ORL,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,v,SUB: Hezonja FOR Biyombo,Substitution,,0,0
+430,458,PT03M24.00S,4,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,0,0,0,h,Galloway P.FOUL (P2.T2) (J.Williams),Foul,Personal,1,0
+431,459,PT03M16.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,37,244,25,Made,1,114,89,203,v,Hezonja 25' 3PT Jump Shot (5 PTS) (Rudez 1 AST),Made Shot,Jump Shot,1,0
+432,460,PT03M04.00S,4,1610612740,NOP,203524,Hill,S. Hill,-187,164,25,Missed,1,0,0,0,h,MISS S. Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+433,461,PT03M02.00S,4,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+434,462,PT02M45.00S,4,1610612753,ORL,204014,Rudez,D. Rudez,240,106,26,Missed,1,0,0,0,v,MISS Rudez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+435,463,PT02M45.00S,4,1610612740,NOP,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+436,464,PT02M40.00S,4,1610612740,NOP,202734,Moore,E. Moore,-16,2,2,Made,1,116,89,205,h,Moore 2' Reverse Layup (9 PTS) (Frazier 1 AST),Made Shot,Reverse Layup Shot,1,0
+437,465,PT02M26.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,-238,46,24,Made,1,116,92,208,v,Hezonja 24' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+438,466,PT02M17.00S,4,1610612740,NOP,204025,Frazier,T. Frazier,0,0,0,,0,0,0,0,h,Frazier Traveling Turnover (P1.T9),Turnover,Traveling,1,0
+439,467,PT02M17.00S,4,0,,1610612740,,,0,0,0,,0,0,0,0,h,PELICANS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+440,468,PT02M17.00S,4,1610612740,NOP,203524,Hill,S. Hill,0,0,0,,0,0,0,0,h,SUB: Hield FOR S. Hill,Substitution,,0,0
+441,470,PT02M05.00S,4,1610612753,ORL,201228,Watson,C. Watson,-155,200,25,Made,1,116,95,211,v,Watson 25' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,1,0
+442,471,PT01M53.00S,4,1610612753,ORL,204014,Rudez,D. Rudez,0,0,0,,0,0,0,0,v,Rudez S.FOUL (P1.T2) (J.Williams),Foul,Shooting,1,0
+443,472,PT01M53.00S,4,1610612740,NOP,202700,Motiejunas,D. Motiejunas,0,0,0,,0,117,95,212,h,Motiejunas Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0
+444,474,PT01M53.00S,4,1610612740,NOP,202700,Motiejunas,D. Motiejunas,0,0,0,,0,118,95,213,h,Motiejunas Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0
+445,476,PT01M53.00S,4,1610612740,NOP,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,MISS Motiejunas Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0
+446,478,PT01M51.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,Hezonja REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+447,479,PT01M32.00S,4,1610612753,ORL,204014,Rudez,D. Rudez,20,247,25,Missed,1,0,0,0,v,MISS Rudez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+448,480,PT01M30.00S,4,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,Watson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+449,481,PT01M26.00S,4,1610612753,ORL,201571,Augustin,D. Augustin,82,242,26,Missed,1,0,0,0,v,MISS Augustin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+450,482,PT01M24.00S,4,1610612740,NOP,1627741,Hield,B. Hield,0,0,0,,0,0,0,0,h,Hield REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+451,483,PT01M05.00S,4,1610612740,NOP,204038,Galloway,L. Galloway,200,188,27,Missed,1,0,0,0,h,MISS Galloway 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+452,484,PT01M05.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,v,Hezonja REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+453,485,PT00M57.50S,4,1610612753,ORL,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Traveling Turnover (P1.T18),Turnover,Traveling,1,0
+454,487,PT00M48.80S,4,1610612740,NOP,204025,Frazier,T. Frazier,-9,242,24,Missed,1,0,0,0,h,MISS Frazier 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+455,488,PT00M46.90S,4,1610612753,ORL,201228,Watson,C. Watson,0,0,0,,0,0,0,0,v,Watson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+456,489,PT00M41.50S,4,1610612753,ORL,201228,Watson,C. Watson,-89,237,25,Made,1,118,98,216,v,Watson 25' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1,0
+457,491,PT00M16.90S,4,1610612740,NOP,1627741,Hield,B. Hield,55,264,27,Missed,1,0,0,0,h,MISS Hield 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+458,492,PT00M15.80S,4,1610612740,NOP,204038,Galloway,L. Galloway,0,0,0,,0,0,0,0,h,Galloway REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+459,494,PT00M00.00S,4,0,,0,,,0,0,0,,0,118,98,216,,End of 4th Period (10:12 PM EST),period,end,1,0

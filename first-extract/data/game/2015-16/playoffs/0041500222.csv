@@ -1,0 +1,478 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:43 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Jump Ball Bogut vs. Plumlee: Tip to Green,Jump Ball,,1,0
+3,2,PT11M45.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+4,2,PT11M45.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum STEAL (1 STL),,,1,0
+5,3,PT11M34.00S,1,1610612757,POR,202329,Aminu,A. Aminu,155,16,16,Missed,1,0,0,0,v,MISS Aminu 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+6,4,PT11M34.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+7,5,PT11M26.00S,1,1610612744,GSW,203110,Green,D. Green,-168,208,27,Missed,1,0,0,0,h,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+8,6,PT11M24.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+9,7,PT11M11.00S,1,1610612757,POR,202329,Aminu,A. Aminu,168,188,25,Made,1,0,3,3,v,Aminu 25' 3PT Jump Shot (3 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,1,0
+10,8,PT10M57.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-233,-10,0,Made,1,3,3,6,h,Thompson  3PT Pullup Jump Shot (3 PTS) (Livingston 1 AST),Made Shot,Pullup Jump shot,1,0
+11,9,PT10M39.00S,1,1610612757,POR,203090,Harkless,M. Harkless,-22,7,2,Missed,1,0,0,0,v,MISS Harkless 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+12,9,PT10M39.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut BLOCK (1 BLK),,,1,0
+13,10,PT10M38.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+14,11,PT10M33.00S,1,1610612744,GSW,203110,Green,D. Green,-6,8,1,Missed,1,0,0,0,h,MISS Green 1' Layup,Missed Shot,Layup Shot,1,0
+15,11,PT10M33.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu BLOCK (1 BLK),,,1,0
+16,12,PT10M31.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+17,13,PT10M22.00S,1,1610612757,POR,203090,Harkless,M. Harkless,230,2,0,Missed,1,0,0,0,v,MISS Harkless  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+18,14,PT10M21.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+19,15,PT10M19.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green S.FOUL (P1.T1) (D.Stafford),Foul,Shooting,1,0
+20,16,PT10M19.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,MISS Harkless Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+21,17,PT10M19.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+22,18,PT10M19.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,MISS Harkless Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+23,20,PT10M19.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+24,21,PT10M19.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee L.B.FOUL (P1.T1) (C.Kirkland),Foul,Loose Ball,1,0
+25,22,PT10M02.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,-161,3,16,Missed,1,0,0,0,h,MISS Livingston 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+26,23,PT10M01.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+27,24,PT09M55.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston S.FOUL (P1.T2) (D.Crawford),Foul,Shooting,1,0
+28,25,PT09M55.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,3,4,7,v,McCollum Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+29,27,PT09M55.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,3,5,8,v,McCollum Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+30,29,PT09M45.00S,1,1610612744,GSW,203110,Green,D. Green,4,70,7,Missed,1,0,0,0,h,MISS Green 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+31,30,PT09M44.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+32,31,PT09M38.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-212,51,22,Missed,1,0,0,0,h,MISS Thompson 22' Jump Shot,Missed Shot,Jump Shot,1,0
+33,32,PT09M37.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+34,33,PT09M29.00S,1,1610612757,POR,203081,Lillard,D. Lillard,10,252,25,Made,1,3,8,11,v,Lillard 25' 3PT Pullup Jump Shot (3 PTS) (Plumlee 2 AST),Made Shot,Pullup Jump shot,1,0
+35,34,PT09M10.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,20,120,12,Missed,1,0,0,0,h,MISS Livingston 12' Jump Shot,Missed Shot,Jump Shot,1,0
+36,35,PT09M09.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+37,36,PT08M56.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-86,141,17,Made,1,3,10,13,v,McCollum 17' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+38,37,PT08M56.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+39,38,PT08M40.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,-60,72,9,Missed,1,0,0,0,h,MISS Barnes 9' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+40,39,PT08M37.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+41,40,PT08M25.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-158,208,26,Missed,1,0,0,0,v,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+42,41,PT08M24.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+43,42,PT08M23.00S,1,1610612757,POR,203090,Harkless,M. Harkless,4,7,1,Made,1,3,12,15,v,Harkless 1' Layup (2 PTS),Made Shot,Layup Shot,1,0
+44,44,PT08M09.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless P.FOUL (P1.T2) (D.Crawford),Foul,Personal,1,0
+45,45,PT08M09.00S,1,0,,43,Whitney,C. Whitney,0,0,0,,0,0,0,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0
+46,47,PT07M59.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,-163,154,22,Made,1,5,12,17,h,Barnes 22' Pullup Jump Shot (2 PTS) (Thompson 1 AST),Made Shot,Pullup Jump shot,1,0
+47,48,PT07M43.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-86,61,11,Missed,1,0,0,0,v,MISS Lillard 11' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,0
+48,50,PT07M40.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+49,49,PT07M40.00S,1,1610612757,POR,203090,Harkless,M. Harkless,-2,2,0,Made,1,5,14,19,v,Harkless  Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,0
+50,51,PT07M23.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,240,-5,24,Missed,1,0,0,0,h,MISS Thompson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+51,52,PT07M22.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+52,53,PT07M16.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-230,8,0,Made,1,5,17,22,v,McCollum  3PT Pullup Jump Shot (7 PTS) (Aminu 1 AST),Made Shot,Pullup Jump shot,1,0
+53,54,PT07M05.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-35,257,26,Missed,1,0,0,0,h,MISS Thompson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+54,55,PT07M04.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+55,56,PT07M01.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0
+56,57,PT06M40.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless P.FOUL (P2.T3) (D.Stafford),Foul,Personal,1,0
+57,58,PT06M40.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,SUB: Henderson FOR Harkless,Substitution,,0,0
+58,59,PT06M40.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,SUB: Iguodala FOR Barnes,Substitution,,0,0
+59,60,PT06M29.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,120,46,13,Missed,1,0,0,0,h,MISS Livingston 13' Jump Shot,Missed Shot,Jump Shot,1,0
+60,60,PT06M29.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum BLOCK (1 BLK),,,1,0
+61,61,PT06M28.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+62,62,PT06M27.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,140,36,14,Missed,1,0,0,0,h,MISS Livingston 14' Jump Shot,Missed Shot,Jump Shot,1,0
+63,63,PT06M24.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+64,64,PT06M17.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-138,174,22,Made,1,5,19,24,v,McCollum 22' Jump Shot (9 PTS) (Plumlee 3 AST),Made Shot,Jump Shot,1,0
+65,65,PT06M00.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,-40,100,11,Made,1,7,19,26,h,Bogut 11' Driving Floating Bank Jump Shot (2 PTS) (Iguodala 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,0
+66,66,PT05M34.00S,1,1610612757,POR,203468,McCollum,C. McCollum,9,106,11,Missed,1,0,0,0,v,MISS McCollum 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+67,67,PT05M34.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+68,68,PT05M21.00S,1,1610612744,GSW,203110,Green,D. Green,2,52,5,Made,1,9,19,28,h,Green 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,0
+69,69,PT05M10.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0
+70,71,PT04M56.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,SUB: Barbosa FOR Livingston,Substitution,,0,0
+71,72,PT04M48.00S,1,1610612744,GSW,203110,Green,D. Green,-1,36,4,Missed,1,0,0,0,h,MISS Green 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+72,74,PT04M48.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+73,73,PT04M48.00S,1,1610612744,GSW,203110,Green,D. Green,-11,7,1,Made,1,11,19,30,h,Green 1' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,0
+74,75,PT04M34.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,1,0,Made,1,11,21,32,v,Plumlee  Cutting Dunk Shot (2 PTS) (Lillard 1 AST),Made Shot,Cutting Dunk Shot,1,0
+75,76,PT04M06.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-89,247,26,Missed,1,0,0,0,h,MISS Thompson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+76,77,PT04M05.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+77,78,PT03M53.00S,1,1610612757,POR,202329,Aminu,A. Aminu,236,41,24,Made,1,11,24,35,v,Aminu 24' 3PT Jump Shot (6 PTS) (Plumlee 4 AST),Made Shot,Jump Shot,1,0
+78,79,PT03M28.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,17,18,2,Made,1,13,24,37,h,Bogut 2' Layup (4 PTS) (Iguodala 2 AST),Made Shot,Layup Shot,1,0
+79,80,PT03M28.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+80,81,PT03M28.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Crabbe FOR Plumlee,Substitution,,0,0
+81,82,PT03M28.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,SUB: Davis FOR McCollum,Substitution,,0,0
+82,83,PT03M28.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,SUB: Varejao FOR Bogut,Substitution,,0,0
+83,84,PT03M18.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0
+84,85,PT02M59.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,12,2,1,Made,1,15,24,39,h,Iguodala 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+85,86,PT02M45.00S,1,1610612757,POR,202329,Aminu,A. Aminu,-25,188,19,Made,1,15,26,41,v,Aminu 19' Pullup Jump Shot (8 PTS) (Lillard 2 AST),Made Shot,Pullup Jump shot,1,0
+86,87,PT02M34.00S,1,1610612744,GSW,2760,Varejao,A. Varejao,-7,23,2,Missed,1,0,0,0,h,MISS Varejao 2' Layup,Missed Shot,Layup Shot,1,0
+87,88,PT02M33.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+88,89,PT02M29.00S,1,1610612757,POR,201945,Henderson,G. Henderson,2,11,1,Made,1,15,28,43,v,Henderson 1' Alley Oop Layup (2 PTS) (Crabbe 1 AST),Made Shot,Alley Oop Layup shot,1,0
+89,90,PT02M17.00S,1,1610612744,GSW,203110,Green,D. Green,-156,239,29,Missed,1,0,0,0,h,MISS Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+90,91,PT02M16.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+91,92,PT02M08.00S,1,1610612744,GSW,2571,Barbosa,L. Barbosa,-196,178,26,Missed,1,0,0,0,h,MISS Barbosa 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+92,93,PT02M08.00S,1,1610612744,GSW,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,h,Varejao REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+93,94,PT02M02.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-7,7,1,Made,1,17,28,45,h,Thompson 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+94,95,PT01M49.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-56,116,13,Missed,1,0,0,0,v,MISS Lillard 13' Jump Shot,Missed Shot,Jump Shot,1,0
+95,96,PT01M48.00S,1,1610612744,GSW,2571,Barbosa,L. Barbosa,0,0,0,,0,0,0,0,h,Barbosa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+96,97,PT01M38.00S,1,1610612744,GSW,2571,Barbosa,L. Barbosa,14,23,3,Made,1,19,28,47,h,Barbosa 3' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,0
+97,98,PT01M16.00S,1,1610612757,POR,202334,Davis,E. Davis,0,1,0,Made,1,19,30,49,v,Davis  Cutting Dunk Shot (2 PTS) (Henderson 1 AST),Made Shot,Cutting Dunk Shot,1,0
+98,99,PT01M02.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,h,Thompson OFF.Foul (P1) (C.Kirkland),Foul,Offensive,1,0
+99,100,PT01M02.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,h,Thompson Foul Turnover (P1.T2),Turnover,Foul,1,0
+100,101,PT00M47.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,1,0,Made,1,19,32,51,v,Aminu  Driving Dunk (10 PTS) (Lillard 3 AST),Made Shot,Driving Dunk Shot,1,0
+101,102,PT00M33.40S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,173,7,17,Made,1,21,32,53,h,Iguodala 17' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+102,103,PT00M09.90S,1,1610612757,POR,201945,Henderson,G. Henderson,4,180,18,Made,1,21,34,55,v,Henderson 18' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,0
+103,104,PT00M00.70S,1,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis P.FOUL (P1.T4) (C.Kirkland),Foul,Personal,1,0
+104,105,PT00M00.00S,1,0,,0,,,0,0,0,,0,21,34,55,,End of 1st Period (11:08 PM EST),period,end,0,0
+105,107,PT12M00.00S,2,0,,0,,,0,0,0,,0,21,34,55,,Start of 2nd Period (11:11 PM EST),period,start,0,0
+106,108,PT11M45.00S,2,1610612757,POR,203468,McCollum,C. McCollum,120,139,18,Made,1,21,36,57,v,McCollum 18' Pullup Jump Shot (11 PTS) (Crabbe 2 AST),Made Shot,Pullup Jump shot,0,0
+107,109,PT11M24.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,230,61,24,Made,1,24,36,60,h,Iguodala 24' 3PT Pullup Jump Shot (7 PTS) (Speights 1 AST),Made Shot,Pullup Jump shot,1,0
+108,110,PT11M06.00S,2,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,h,Clark P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,1,0
+109,111,PT10M59.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala S.FOUL (P1.T2) (D.Stafford),Foul,Shooting,1,0
+110,112,PT10M59.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+111,113,PT10M59.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+112,114,PT10M59.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,24,37,61,v,Davis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+113,116,PT10M46.00S,2,1610612744,GSW,201578,Speights,M. Speights,-156,200,25,Missed,1,0,0,0,h,MISS Speights 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+114,117,PT10M46.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+115,118,PT10M29.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-56,129,14,Made,1,24,39,63,v,McCollum 14' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,1,0
+116,119,PT10M17.00S,2,1610612744,GSW,2571,Barbosa,L. Barbosa,-32,31,4,Made,1,26,39,65,h,Barbosa 4' Driving Bank Shot (4 PTS),Made Shot,Driving Bank shot,1,0
+117,120,PT10M08.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-24,252,25,Missed,1,0,0,0,v,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+118,121,PT10M07.00S,2,1610612744,GSW,2571,Barbosa,L. Barbosa,0,0,0,,0,0,0,0,h,Barbosa REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+119,122,PT09M54.00S,2,1610612744,GSW,2571,Barbosa,L. Barbosa,-43,18,5,Missed,1,0,0,0,h,MISS Barbosa 5' Jump Shot,Missed Shot,Jump Shot,1,0
+120,122,PT09M54.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis BLOCK (1 BLK),,,1,0
+121,123,PT09M53.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+122,124,PT09M42.00S,2,1610612757,POR,203148,Roberts,B. Roberts,-120,136,18,Missed,1,0,0,0,v,MISS Roberts 18' Jump Shot,Missed Shot,Jump Shot,1,0
+123,125,PT09M42.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+124,126,PT09M40.00S,2,1610612757,POR,203148,Roberts,B. Roberts,0,0,0,,0,0,0,0,v,Roberts P.FOUL (P1.T1) (D.Crawford),Foul,Personal,1,0
+125,127,PT09M31.00S,2,1610612744,GSW,201578,Speights,M. Speights,-1,149,15,Missed,1,0,0,0,h,MISS Speights 15' Jump Shot,Missed Shot,Jump Shot,1,0
+126,128,PT09M30.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+127,129,PT09M24.00S,2,1610612744,GSW,2571,Barbosa,L. Barbosa,0,0,0,,0,0,0,0,h,Barbosa P.FOUL (P1.T3) (D.Stafford),Foul,Personal,1,0
+128,130,PT09M16.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+129,130,PT09M16.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala STEAL (1 STL),,,1,0
+130,131,PT09M07.00S,2,1610612744,GSW,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights OFF.Foul (P1) (C.Kirkland),Foul,Offensive,1,0
+131,132,PT09M07.00S,2,1610612744,GSW,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights Foul Turnover (P1.T3),Turnover,Foul,1,0
+132,133,PT08M50.00S,2,1610612757,POR,201945,Henderson,G. Henderson,230,46,0,Made,1,26,42,68,v,Henderson  3PT Step Back Jump Shot (7 PTS) (Roberts 1 AST),Made Shot,Step Back Jump shot,1,0
+133,134,PT08M40.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,-12,11,2,Made,1,28,42,70,h,Iguodala 2' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+134,136,PT08M29.00S,2,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,h,Clark S.FOUL (P2.T4) (D.Stafford),Foul,Shooting,1,0
+135,137,PT08M29.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+136,140,PT08M29.00S,2,1610612744,GSW,2571,Barbosa,L. Barbosa,0,0,0,,0,0,0,0,h,SUB: Livingston FOR Barbosa,Substitution,,0,0
+137,141,PT08M29.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,MISS Crabbe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+138,142,PT08M29.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+139,143,PT08M29.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,28,43,71,v,Crabbe Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+140,145,PT08M17.00S,2,1610612744,GSW,201578,Speights,M. Speights,27,174,18,Missed,1,0,0,0,h,MISS Speights 18' Jump Shot,Missed Shot,Jump Shot,1,0
+141,146,PT08M17.00S,2,1610612757,POR,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,v,Henderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+142,147,PT08M06.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,28,111,11,Made,1,28,45,73,v,Crabbe 11' Floating Jump Shot (3 PTS) (Henderson 2 AST),Made Shot,Floating Jump shot,1,0
+143,148,PT07M46.00S,2,1610612744,GSW,201578,Speights,M. Speights,-142,136,20,Missed,1,0,0,0,h,MISS Speights 20' Jump Shot,Missed Shot,Jump Shot,1,0
+144,149,PT07M45.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+145,150,PT07M38.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-19,18,3,Missed,1,0,0,0,v,MISS McCollum 3' Layup,Missed Shot,Layup Shot,1,0
+146,150,PT07M38.00S,2,1610612744,GSW,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights BLOCK (1 BLK),,,1,0
+147,151,PT07M38.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+148,152,PT07M38.00S,2,1610612744,GSW,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,SUB: Green FOR Speights,Substitution,,0,0
+149,153,PT07M38.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Iguodala,Substitution,,0,0
+150,154,PT07M38.00S,2,1610612757,POR,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,v,SUB: Harkless FOR Henderson,Substitution,,0,0
+151,155,PT07M29.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis OFF.Foul (P2) (D.Stafford),Foul,Offensive,1,0
+152,156,PT07M29.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis Foul Turnover (P1.T5),Turnover,Foul,1,0
+153,157,PT07M18.00S,2,1610612757,POR,203148,Roberts,B. Roberts,0,0,0,,0,0,0,0,v,Roberts S.FOUL (P2.T2) (D.Stafford),Foul,Shooting,1,0
+154,158,PT07M18.00S,2,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,h,MISS Clark Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+155,159,PT07M18.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+156,160,PT07M18.00S,2,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,29,45,74,h,Clark Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+157,162,PT06M59.00S,2,1610612757,POR,203148,Roberts,B. Roberts,38,82,9,Missed,1,0,0,0,v,MISS Roberts 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+158,163,PT06M58.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+159,164,PT06M50.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,1,0,Made,1,31,45,76,h,Barnes  Driving Dunk (4 PTS) (Green 1 AST),Made Shot,Driving Dunk Shot,1,0
+160,165,PT06M49.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+161,167,PT06M49.00S,2,1610612757,POR,203148,Roberts,B. Roberts,0,0,0,,0,0,0,0,v,SUB: Lillard FOR Roberts,Substitution,,0,0
+162,168,PT06M48.00S,2,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,h,Clark P.FOUL (P3.PN) (D.Crawford),Foul,Personal,0,0
+163,169,PT06M48.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,31,46,77,v,Davis Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+164,171,PT06M48.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+165,173,PT06M47.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+166,174,PT06M33.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,1,0,Made,1,33,46,79,h,Barnes  Cutting Dunk Shot (6 PTS) (Green 2 AST),Made Shot,Cutting Dunk Shot,1,0
+167,175,PT06M16.00S,2,1610612757,POR,203090,Harkless,M. Harkless,-14,57,6,Missed,1,0,0,0,v,MISS Harkless 6' Jump Shot,Missed Shot,Jump Shot,1,0
+168,176,PT06M16.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+169,177,PT06M14.00S,2,1610612757,POR,202334,Davis,E. Davis,-27,28,4,Missed,1,0,0,0,v,MISS Davis 4' Jump Shot,Missed Shot,Jump Shot,1,0
+170,177,PT06M14.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green BLOCK (1 BLK),,,1,0
+171,178,PT06M14.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+172,179,PT06M12.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Jump Ball Green vs. Davis: Tip to McCollum,Jump Ball,,1,0
+173,180,PT06M05.00S,2,1610612757,POR,203468,McCollum,C. McCollum,86,259,27,Missed,1,0,0,0,v,MISS McCollum 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+174,181,PT06M05.00S,2,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,h,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+175,182,PT05M54.00S,2,1610612744,GSW,203546,Clark,I. Clark,-32,56,6,Made,1,35,46,81,h,Clark 6' Turnaround Hook Shot (3 PTS),Made Shot,Turnaround Hook Shot,1,0
+176,183,PT05M34.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,Barnes S.FOUL (P1.PN) (D.Crawford),Foul,Shooting,1,0
+177,184,PT05M34.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,MISS McCollum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+178,185,PT05M34.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+179,186,PT05M34.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,SUB: Aminu FOR Davis,Substitution,,0,0
+180,187,PT05M34.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,35,47,82,v,McCollum Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+181,189,PT05M21.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,101,232,25,Missed,1,0,0,0,h,MISS Thompson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+182,190,PT05M21.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,Crabbe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+183,192,PT05M11.00S,2,1610612757,POR,203090,Harkless,M. Harkless,-70,41,8,Missed,1,0,0,0,v,MISS Harkless 8' Jump Shot,Missed Shot,Jump Shot,0,0
+184,192,PT05M11.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green BLOCK (2 BLK),,,0,0
+185,193,PT05M10.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+186,194,PT05M04.00S,2,1610612744,GSW,203546,Clark,I. Clark,2,46,5,Made,1,37,47,84,h,Clark 5' Running Jump Shot (5 PTS),Made Shot,Running Jump Shot,1,0
+187,195,PT04M42.00S,2,1610612757,POR,202329,Aminu,A. Aminu,112,151,19,Missed,1,0,0,0,v,MISS Aminu 19' Jump Shot,Missed Shot,Jump Shot,1,0
+188,196,PT04M41.00S,2,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,h,Clark REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+189,198,PT04M27.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+190,199,PT04M27.00S,2,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,h,SUB: Iguodala FOR Clark,Substitution,,0,0
+191,200,PT04M21.00S,2,1610612744,GSW,203110,Green,D. Green,96,47,11,Missed,1,0,0,0,h,MISS Green 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+192,201,PT04M20.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+193,202,PT04M10.00S,2,1610612757,POR,202329,Aminu,A. Aminu,-17,247,25,Missed,1,0,0,0,v,MISS Aminu 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+194,203,PT04M09.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+195,204,PT04M00.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard S.FOUL (P1.T3) (D.Crawford),Foul,Shooting,1,0
+196,205,PT04M00.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,38,47,85,h,Barnes Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+197,207,PT04M00.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,SUB: Plumlee FOR Crabbe,Substitution,,0,0
+198,208,PT04M00.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,39,47,86,h,Barnes Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+199,210,PT03M41.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+200,210,PT03M41.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala STEAL (2 STL),,,1,0
+201,211,PT03M29.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,161,195,25,Made,1,42,47,89,h,Barnes 25' 3PT Pullup Jump Shot (11 PTS) (Thompson 2 AST),Made Shot,Pullup Jump shot,1,0
+202,212,PT03M12.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston P.FOUL (P2.PN) (D.Crawford),Foul,Personal,1,0
+203,213,PT03M12.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,42,48,90,v,Plumlee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+204,215,PT03M12.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,42,49,91,v,Plumlee Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+205,217,PT03M03.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,15,16,2,Made,1,44,49,93,h,Iguodala 2' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+206,218,PT02M53.00S,2,1610612757,POR,203081,Lillard,D. Lillard,168,200,26,Missed,1,0,0,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+207,219,PT02M52.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+208,220,PT02M43.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,-71,116,14,Made,1,46,49,95,h,Livingston 14' Running Jump Shot (2 PTS) (Green 3 AST),Made Shot,Running Jump Shot,1,0
+209,221,PT02M42.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+210,223,PT02M27.00S,2,1610612757,POR,202329,Aminu,A. Aminu,230,38,0,Made,1,46,52,98,v,Aminu  3PT Jump Shot (13 PTS) (McCollum 1 AST),Made Shot,Jump Shot,1,0
+211,224,PT02M10.00S,2,1610612744,GSW,203110,Green,D. Green,10,16,2,Missed,1,0,0,0,h,MISS Green 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+212,224,PT02M10.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee BLOCK (1 BLK),,,1,0
+213,225,PT02M09.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+214,226,PT02M03.00S,2,1610612757,POR,203081,Lillard,D. Lillard,232,0,0,Made,1,46,55,101,v,Lillard  3PT Jump Shot (6 PTS) (Harkless 1 AST),Made Shot,Jump Shot,1,0
+215,227,PT01M47.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,Barnes Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0
+216,227,PT01M47.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard STEAL (1 STL),,,1,0
+217,228,PT01M47.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,Barnes L.B.FOUL (P2.PN) (C.Kirkland),Foul,Loose Ball,1,0
+218,230,PT01M47.00S,2,0,,228,Keefe,A. Keefe,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+219,231,PT01M47.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,46,56,102,v,Lillard Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+220,233,PT01M47.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,46,57,103,v,Lillard Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+221,235,PT01M31.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,14,16,2,Made,1,48,57,105,h,Thompson 2' Cutting Layup Shot (7 PTS) (Green 4 AST),Made Shot,Cutting Layup Shot,1,0
+222,236,PT01M25.00S,2,1610612757,POR,203081,Lillard,D. Lillard,140,237,28,Missed,1,0,0,0,v,MISS Lillard 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+223,237,PT01M24.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+224,238,PT01M18.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,-1,11,1,Missed,1,0,0,0,h,MISS Livingston 1' Layup,Missed Shot,Layup Shot,1,0
+225,239,PT01M18.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+226,240,PT01M11.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,6,26,3,Made,1,48,59,107,v,Plumlee 3' Layup (6 PTS) (Lillard 4 AST),Made Shot,Layup Shot,1,0
+227,241,PT01M00.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-88,242,26,Missed,1,0,0,0,h,MISS Thompson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+228,242,PT00M58.70S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+229,243,PT00M58.70S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum L.B.FOUL (P1.T4) (D.Stafford),Foul,Loose Ball,1,0
+230,244,PT00M58.70S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+231,246,PT00M35.80S,2,1610612744,GSW,2733,Livingston,S. Livingston,-7,51,5,Missed,1,0,0,0,h,MISS Livingston 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+232,248,PT00M35.20S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+233,247,PT00M35.20S,2,1610612744,GSW,203110,Green,D. Green,-9,21,2,Missed,1,0,0,0,h,MISS Green 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+234,249,PT00M35.20S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+235,250,PT00M15.90S,2,1610612757,POR,202329,Aminu,A. Aminu,-1,164,16,Missed,1,0,0,0,v,MISS Aminu 16' Jump Shot,Missed Shot,Jump Shot,1,0
+236,251,PT00M15.20S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+237,252,PT00M15.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,," Foul : Double Personal - Barnes (3 PF), Harkless (3 PF) (D.Crawford)",Foul,Double Personal,1,0
+238,254,PT00M15.00S,2,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,SUB: Clark FOR Barnes,Substitution,,0,0
+239,255,PT00M15.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,SUB: Henderson FOR Harkless,Substitution,,0,0
+240,256,PT00M04.20S,2,1610612744,GSW,203110,Green,D. Green,-48,100,11,Made,1,50,59,109,h,Green 11' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,0
+241,257,PT00M04.20S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,1,0
+242,258,PT00M04.20S,2,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,SUB: Barbosa FOR Livingston,Substitution,,0,0
+243,259,PT00M04.20S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,51,59,110,h,Green Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+244,261,PT00M00.00S,2,0,,0,,,0,0,0,,0,51,59,110,,End of 2nd Period (11:49 PM EST),period,end,0,0
+245,263,PT12M00.00S,3,0,,0,,,0,0,0,,0,51,59,110,,Start of 3rd Period (12:07 AM EST),period,start,0,0
+246,264,PT11M52.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu Offensive Charge Foul (P1.T1) (D.Crawford),Foul,Offensive Charge,1,0
+247,265,PT11M52.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu Foul Turnover (P1.T7),Turnover,Foul,1,0
+248,266,PT11M31.00S,3,1610612744,GSW,203110,Green,D. Green,-138,208,25,Missed,1,0,0,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+249,267,PT11M30.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+250,268,PT11M20.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+251,269,PT11M07.00S,3,1610612744,GSW,2733,Livingston,S. Livingston,0,146,15,Made,1,53,59,112,h,Livingston 15' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+252,270,PT10M49.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-34,203,21,Missed,1,0,0,0,v,MISS Lillard 21' Jump Shot,Missed Shot,Jump Shot,1,0
+253,271,PT10M49.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+254,272,PT10M36.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,-65,67,9,Missed,1,0,0,0,h,MISS Barnes 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+255,273,PT10M35.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+256,274,PT10M34.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,h,Thompson P.FOUL (P2.T1) (D.Crawford),Foul,Personal,1,0
+257,275,PT10M19.00S,3,1610612757,POR,203468,McCollum,C. McCollum,123,141,19,Missed,1,0,0,0,v,MISS McCollum 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+258,276,PT10M17.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+259,277,PT10M10.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard P.FOUL (P3.T2) (C.Kirkland),Foul,Personal,1,0
+260,278,PT10M02.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,230,36,0,Missed,1,0,0,0,h,MISS Thompson  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+261,279,PT10M02.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+262,280,PT09M54.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,236,2,24,Made,1,56,59,115,h,Thompson 24' 3PT Pullup Jump Shot (10 PTS) (Livingston 2 AST),Made Shot,Pullup Jump shot,1,0
+263,281,PT09M36.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-160,61,17,Missed,1,0,0,0,v,MISS Lillard 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+264,282,PT09M35.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+265,283,PT09M28.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,50,183,19,Missed,1,0,0,0,h,MISS Thompson 19' Jump Shot,Missed Shot,Jump Shot,1,0
+266,284,PT09M27.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+267,285,PT09M17.00S,3,1610612757,POR,203468,McCollum,C. McCollum,-63,159,17,Missed,1,0,0,0,v,MISS McCollum 17' Jump Shot,Missed Shot,Jump Shot,1,0
+268,286,PT09M17.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+269,288,PT09M12.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,h,Thompson T.FOUL (P2.T1) (D.Crawford),Foul,Technical,0,0
+270,289,PT09M12.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,56,60,116,v,Lillard Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0
+271,291,PT09M11.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,h,Thompson OFF.Foul (P3) (D.Crawford),Foul,Offensive,0,0
+272,292,PT09M11.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,h,Thompson Foul Turnover (P2.T5),Turnover,Foul,0,0
+273,293,PT08M58.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu Offensive Charge Foul (P2.T3) (D.Stafford),Foul,Offensive Charge,1,0
+274,294,PT08M58.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu Foul Turnover (P2.T9),Turnover,Foul,1,0
+275,295,PT08M44.00S,3,1610612744,GSW,203110,Green,D. Green,9,85,9,Missed,1,0,0,0,h,MISS Green 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+276,296,PT08M43.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+277,297,PT08M31.00S,3,1610612757,POR,203090,Harkless,M. Harkless,-228,28,0,Made,1,56,63,119,v,Harkless  3PT Jump Shot (7 PTS) (Aminu 2 AST),Made Shot,Jump Shot,1,0
+278,298,PT08M16.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless S.FOUL (P4.T4) (D.Crawford),Foul,Shooting,1,0
+279,299,PT08M16.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,57,63,120,h,Thompson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+280,301,PT08M16.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,SUB: Henderson FOR Harkless,Substitution,,0,0
+281,302,PT08M16.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,58,63,121,h,Thompson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+282,304,PT07M58.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu 3 Second Violation Turnover (P3.T10),Turnover,3 Second Violation,1,0
+283,305,PT07M45.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,14,90,9,Missed,1,0,0,0,h,MISS Barnes 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+284,306,PT07M43.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+285,307,PT07M34.00S,3,1610612744,GSW,2733,Livingston,S. Livingston,-119,46,13,Made,1,60,63,123,h,Livingston 13' Turnaround Fadeaway (6 PTS) (Barnes 1 AST),Made Shot,Turnaround Fadeaway shot,1,0
+286,308,PT07M17.00S,3,1610612757,POR,203081,Lillard,D. Lillard,104,237,26,Made,1,60,66,126,v,Lillard 26' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,1,0
+287,309,PT07M08.00S,3,1610612744,GSW,2733,Livingston,S. Livingston,-7,16,2,Made,1,62,66,128,h,Livingston 2' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+288,310,PT06M48.00S,3,1610612757,POR,203468,McCollum,C. McCollum,130,134,19,Made,1,62,68,130,v,McCollum 19' Pullup Jump Shot (16 PTS) (Lillard 5 AST),Made Shot,Pullup Jump shot,1,0
+289,311,PT06M30.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,223,116,25,Missed,1,0,0,0,h,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+290,312,PT06M29.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+291,313,PT06M20.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0
+292,313,PT06M20.00S,3,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston STEAL (1 STL),,,1,0
+293,314,PT06M20.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee P.FOUL (P2.PN) (C.Kirkland),Foul,Personal,1,0
+294,315,PT06M20.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,SUB: Iguodala FOR Barnes,Substitution,,0,0
+295,316,PT06M10.00S,3,1610612744,GSW,203110,Green,D. Green,-6,7,1,Made,1,64,68,132,h,Green 1' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+296,317,PT05M53.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,-22,26,3,Missed,1,0,0,0,v,MISS Plumlee 3' Jump Shot,Missed Shot,Jump Shot,1,0
+297,317,PT05M53.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut BLOCK (2 BLK),,,1,0
+298,318,PT05M53.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+299,319,PT05M53.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+300,321,PT05M48.00S,3,1610612757,POR,201945,Henderson,G. Henderson,-145,126,19,Made,1,64,70,134,v,Henderson 19' Pullup Jump Shot (9 PTS) (McCollum 2 AST),Made Shot,Pullup Jump shot,1,0
+301,322,PT05M28.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,168,195,26,Missed,1,0,0,0,h,MISS Thompson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+302,323,PT05M27.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+303,324,PT05M18.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-106,178,21,Made,1,64,72,136,v,Lillard 21' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,0
+304,325,PT05M17.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+305,326,PT04M57.00S,3,1610612744,GSW,203110,Green,D. Green,209,129,25,Missed,1,0,0,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+306,327,PT04M57.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:10),Rebound,Unknown,1,0
+307,328,PT04M41.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green S.FOUL (P2.T2) (C.Kirkland),Foul,Shooting,1,0
+308,329,PT04M41.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,64,73,137,v,Aminu Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+309,331,PT04M41.00S,3,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,SUB: Barbosa FOR Livingston,Substitution,,0,0
+310,332,PT04M41.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,MISS Aminu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+311,334,PT04M40.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+312,335,PT04M32.00S,3,1610612744,GSW,203110,Green,D. Green,-2,7,1,Made,1,66,73,139,h,Green 1' Driving Layup (11 PTS) (Iguodala 3 AST),Made Shot,Driving Layup Shot,1,0
+313,336,PT04M21.00S,3,1610612757,POR,203081,Lillard,D. Lillard,109,242,27,Made,1,66,76,142,v,Lillard 27' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,0
+314,337,PT04M09.00S,3,1610612757,POR,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,v,Henderson P.FOUL (P1.PN) (D.Crawford),Foul,Personal,1,0
+315,338,PT04M09.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,SUB: Crabbe FOR McCollum,Substitution,,0,0
+316,339,PT04M09.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,SUB: Ezeli FOR Bogut,Substitution,,0,0
+317,340,PT04M03.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,-114,129,17,Missed,1,0,0,0,h,MISS Iguodala 17' Jump Shot,Missed Shot,Jump Shot,1,0
+318,341,PT04M02.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+319,342,PT03M52.00S,3,1610612757,POR,203081,Lillard,D. Lillard,10,46,5,Missed,1,0,0,0,v,MISS Lillard 5' Jump Shot,Missed Shot,Jump Shot,1,0
+320,343,PT03M52.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+321,344,PT03M43.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+322,344,PT03M43.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard STEAL (2 STL),,,1,0
+323,345,PT03M37.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,0
+324,345,PT03M37.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green STEAL (1 STL),,,1,0
+325,346,PT03M33.00S,3,1610612744,GSW,2571,Barbosa,L. Barbosa,0,0,0,,0,0,0,0,h,Barbosa Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0
+326,346,PT03M33.00S,3,1610612757,POR,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,v,Henderson STEAL (1 STL),,,1,0
+327,347,PT03M29.00S,3,1610612757,POR,201945,Henderson,G. Henderson,-191,185,27,Missed,1,0,0,0,v,MISS Henderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+328,348,PT03M28.00S,3,1610612744,GSW,2571,Barbosa,L. Barbosa,0,0,0,,0,0,0,0,h,Barbosa REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+329,349,PT03M17.00S,3,1610612744,GSW,203110,Green,D. Green,76,234,25,Missed,1,0,0,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+330,350,PT03M16.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+331,351,PT03M16.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Davis FOR Plumlee,Substitution,,0,0
+332,352,PT03M00.00S,3,1610612757,POR,202329,Aminu,A. Aminu,-179,170,25,Missed,1,0,0,0,v,MISS Aminu 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+333,353,PT03M00.00S,3,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+334,354,PT02M52.00S,3,1610612744,GSW,2571,Barbosa,L. Barbosa,-233,7,0,Made,1,69,76,145,h,Barbosa  3PT Pullup Jump Shot (7 PTS) (Thompson 3 AST),Made Shot,Pullup Jump shot,1,0
+335,355,PT02M49.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+336,358,PT02M49.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,SUB: Barnes FOR Green,Substitution,,0,0
+337,359,PT02M26.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-55,105,12,Missed,1,0,0,0,v,MISS Lillard 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+338,361,PT02M26.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+339,360,PT02M26.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-4,16,2,Made,1,69,78,147,v,Lillard 2' Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1,0
+340,362,PT02M12.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,43,262,27,Made,1,72,78,150,h,Thompson 27' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,0
+341,363,PT01M50.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-22,247,25,Made,1,72,81,153,v,Lillard 25' 3PT Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,1,0
+342,364,PT01M37.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-132,101,17,Missed,1,0,0,0,h,MISS Thompson 17' Driving Bank Shot,Missed Shot,Driving Bank shot,1,0
+343,365,PT01M36.00S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+344,366,PT01M29.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,Barnes P.FOUL (P4.T3) (D.Stafford),Foul,Personal,1,0
+345,367,PT01M23.00S,3,1610612757,POR,203081,Lillard,D. Lillard,114,219,25,Missed,1,0,0,0,v,MISS Lillard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+346,368,PT01M22.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+347,369,PT01M12.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,-171,31,17,Made,1,74,81,155,h,Barnes 17' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,0
+348,370,PT00M47.70S,3,1610612757,POR,201945,Henderson,G. Henderson,127,210,25,Made,1,74,84,158,v,Henderson 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+349,371,PT00M37.90S,3,1610612744,GSW,202691,Thompson,K. Thompson,-22,11,2,Missed,1,0,0,0,h,MISS Thompson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+350,371,PT00M37.90S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis BLOCK (2 BLK),,,1,0
+351,372,PT00M37.30S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+352,373,PT00M37.30S,3,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,Crabbe P.FOUL (P1.PN) (D.Crawford),Foul,Personal,1,0
+353,374,PT00M37.30S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,75,84,159,h,Thompson Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+354,376,PT00M37.30S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,76,84,160,h,Thompson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+355,378,PT00M12.90S,3,1610612757,POR,201945,Henderson,G. Henderson,-189,169,25,Missed,1,0,0,0,v,MISS Henderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+356,379,PT00M12.30S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+357,380,PT00M08.50S,3,1610612744,GSW,2571,Barbosa,L. Barbosa,-20,2,2,Missed,1,0,0,0,h,MISS Barbosa 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+358,381,PT00M05.90S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+359,382,PT00M00.20S,3,1610612757,POR,203081,Lillard,D. Lillard,69,257,27,Made,1,76,87,163,v,Lillard 27' 3PT Jump Shot (25 PTS) (Henderson 3 AST),Made Shot,Jump Shot,1,0
+360,383,PT00M00.00S,3,0,,382,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+361,384,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,87,163,,End of 3rd Period (12:36 AM EST),period,end,0,0
+362,386,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,87,163,,Start of 4th Period (12:39 AM EST),period,start,0,0
+363,402,PT11M45.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,18,56,6,Missed,1,0,0,0,h,MISS Iguodala 6' Hook Shot,Missed Shot,Hook Shot,0,0
+364,404,PT11M43.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+365,387,PT11M43.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,-15,14,2,Made,1,78,87,165,h,Ezeli 2' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0
+366,388,PT11M43.00S,4,1610612757,POR,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,v,Henderson AWAY.FROM.PLAY.FOUL (P2.T1) (D.Crawford),Foul,Away From Play,0,0
+367,389,PT11M43.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,MISS Green Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+368,398,PT11M43.00S,4,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,Crabbe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+369,391,PT11M20.00S,4,1610612757,POR,201945,Henderson,G. Henderson,20,116,12,Missed,1,0,0,0,v,MISS Henderson 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+370,391,PT11M20.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green BLOCK (3 BLK),,,1,0
+371,392,PT11M19.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+372,393,PT11M12.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,15,23,3,Made,1,80,87,167,h,Ezeli 3' Alley Oop Layup (4 PTS) (Green 5 AST),Made Shot,Alley Oop Layup shot,1,0
+373,394,PT10M56.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Violation:Kicked Ball (D.Crawford),Violation,Kicked Ball,0,0
+374,415,PT10M56.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,SUB: Harkless FOR Lillard,Substitution,,0,0
+375,395,PT10M44.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-68,178,19,Missed,1,0,0,0,v,MISS McCollum 19' Jump Shot,Missed Shot,Jump Shot,1,0
+376,397,PT10M43.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+377,399,PT10M32.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,120,21,12,Missed,1,0,0,0,h,MISS Livingston 12' Jump Shot,Missed Shot,Jump Shot,1,0
+378,400,PT10M31.00S,4,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+379,401,PT10M26.00S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0
+380,403,PT10M11.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,1,0,Made,1,82,87,169,h,Ezeli  Alley Oop Dunk (6 PTS) (Green 6 AST),Made Shot,Alley Oop Dunk Shot,1,0
+381,406,PT10M10.00S,4,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,SUB: Plumlee FOR Davis,Substitution,,0,0
+382,445,PT10M10.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+383,408,PT09M57.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green P.FOUL (P3.T1) (C.Kirkland),Foul,Personal,1,0
+384,409,PT09M48.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-16,100,10,Made,1,82,89,171,v,McCollum 10' Fadeaway Jumper (18 PTS) (Crabbe 3 AST),Made Shot,Fadeaway Jump Shot,1,0
+385,411,PT09M29.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,140,33,14,Missed,1,0,0,0,h,MISS Livingston 14' Jump Shot,Missed Shot,Jump Shot,1,0
+386,412,PT09M27.00S,4,1610612757,POR,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,v,Henderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+387,413,PT09M13.00S,4,1610612757,POR,203090,Harkless,M. Harkless,-11,254,25,Missed,1,0,0,0,v,MISS Harkless 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+388,414,PT09M11.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+389,416,PT09M07.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0
+390,416,PT09M07.00S,4,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,Crabbe STEAL (1 STL),,,1,0
+391,417,PT09M02.00S,4,1610612757,POR,203459,Crabbe,A. Crabbe,-1,21,2,Made,1,82,91,173,v,Crabbe 2' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,0
+392,419,PT08M33.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,17,26,3,Made,1,84,91,175,h,Ezeli 3' Jump Bank Shot (8 PTS) (Iguodala 4 AST),Made Shot,Jump Bank Shot,1,0
+393,421,PT08M05.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,-45,38,6,Missed,1,0,0,0,v,MISS Plumlee 6' Jump Shot,Missed Shot,Jump Shot,1,0
+394,422,PT08M04.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+395,423,PT07M54.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee S.FOUL (P3.T2) (D.Crawford),Foul,Shooting,1,0
+396,424,PT07M54.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,85,91,176,h,Green Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+397,426,PT07M54.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,SUB: Barnes FOR Livingston,Substitution,,0,0
+398,427,PT07M54.00S,4,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Clark,Substitution,,0,0
+399,428,PT07M54.00S,4,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,SUB: Lillard FOR Crabbe,Substitution,,0,0
+400,429,PT07M54.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,86,91,177,h,Green Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+401,432,PT07M39.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-205,2,21,Missed,1,0,0,0,v,MISS Lillard 21' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+402,433,PT07M38.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+403,434,PT07M25.00S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum S.FOUL (P2.T3) (D.Stafford),Foul,Shooting,1,0
+404,435,PT07M25.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,87,91,178,h,Iguodala Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+405,437,PT07M25.00S,4,1610612757,POR,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,v,SUB: Aminu FOR Henderson,Substitution,,0,0
+406,438,PT07M25.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,88,91,179,h,Iguodala Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+407,440,PT07M07.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+408,441,PT06M44.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,235,43,24,Made,1,91,91,182,h,Thompson 24' 3PT Jump Shot (20 PTS) (Green 7 AST),Made Shot,Jump Shot,1,0
+409,442,PT06M43.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+410,444,PT06M23.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Out of Bounds - Bad Pass Turnover Turnover (P5.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+411,446,PT06M07.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli OFF.Foul (P1) (D.Stafford),Foul,Offensive,1,0
+412,447,PT06M07.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli Foul Turnover (P1.T9),Turnover,Foul,1,0
+413,448,PT06M07.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,SUB: Livingston FOR Iguodala,Substitution,,0,0
+414,449,PT05M50.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-151,21,15,Made,1,91,93,184,v,McCollum 15' Turnaround Fadeaway (20 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+415,450,PT05M33.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,148,232,28,Made,1,94,93,187,h,Thompson 28' 3PT Step Back Jump Shot (23 PTS) (Livingston 3 AST),Made Shot,Step Back Jump shot,1,0
+416,451,PT05M21.00S,4,1610612757,POR,203090,Harkless,M. Harkless,-6,11,1,Made,1,94,95,189,v,Harkless 1' Layup (9 PTS) (Lillard 6 AST),Made Shot,Layup Shot,1,0
+417,452,PT04M56.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,-73,26,8,Made,1,96,95,191,h,Livingston 8' Turnaround Hook Shot (10 PTS) (Ezeli 1 AST),Made Shot,Turnaround Hook Shot,1,0
+418,453,PT04M45.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Offensive Charge Foul (P4.T4) (D.Crawford),Foul,Offensive Charge,1,0
+419,454,PT04M45.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Foul Turnover (P6.T16),Turnover,Foul,1,0
+420,455,PT04M44.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+421,457,PT04M30.00S,4,1610612744,GSW,203110,Green,D. Green,24,61,7,Missed,1,0,0,0,h,MISS Green 7' Jump Shot,Missed Shot,Jump Shot,1,0
+422,458,PT04M30.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+423,459,PT04M23.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli L.B.FOUL (P2.T2) (D.Stafford),Foul,Loose Ball,1,0
+424,460,PT04M13.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,-53,97,11,Missed,1,0,0,0,v,MISS Plumlee 11' Jump Shot,Missed Shot,Jump Shot,1,0
+425,460,PT04M13.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,Ezeli BLOCK (1 BLK),,,1,0
+426,461,PT04M12.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+427,462,PT04M06.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard S.FOUL (P4.PN) (D.Stafford),Foul,Shooting,1,0
+428,463,PT04M06.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,97,95,192,h,Thompson Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0
+429,465,PT04M06.00S,4,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,SUB: Iguodala FOR Barnes,Substitution,,0,0
+430,466,PT04M06.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,98,95,193,h,Thompson Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+431,468,PT03M55.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-40,259,26,Missed,1,0,0,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+432,469,PT03M54.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+433,470,PT03M48.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston OFF.Foul (P3) (D.Crawford),Foul,Offensive,1,0
+434,471,PT03M48.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Foul Turnover (P1.T10),Turnover,Foul,1,0
+435,472,PT03M35.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,17,21,3,Missed,1,0,0,0,v,MISS Plumlee 3' Layup,Missed Shot,Layup Shot,1,0
+436,472,PT03M35.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green BLOCK (4 BLK),,,1,0
+437,473,PT03M34.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+438,475,PT03M17.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Henderson FOR Plumlee,Substitution,,0,0
+439,476,PT03M17.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,h,SUB: Barnes FOR Ezeli,Substitution,,0,0
+440,477,PT03M15.00S,4,1610612744,GSW,203110,Green,D. Green,0,1,0,Made,1,100,95,195,h,Green  Driving Dunk (15 PTS) (Livingston 4 AST),Made Shot,Driving Dunk Shot,1,0
+441,478,PT02M56.00S,4,1610612757,POR,203090,Harkless,M. Harkless,195,160,25,Missed,1,0,0,0,v,MISS Harkless 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+442,479,PT02M56.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+443,480,PT02M43.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,232,70,24,Missed,1,0,0,0,h,MISS Thompson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+444,481,PT02M43.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+445,482,PT02M35.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Traveling Turnover (P3.T17),Turnover,Traveling,1,0
+446,483,PT02M16.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,128,129,18,Made,1,102,95,197,h,Livingston 18' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+447,484,PT02M14.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,0
+448,485,PT02M09.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston P.FOUL (P4.T3) (D.Stafford),Foul,Personal,1,0
+449,486,PT02M02.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-178,188,26,Missed,1,0,0,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+450,487,PT02M01.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:2 Def:11),Rebound,Unknown,1,0
+451,488,PT01M47.00S,4,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless S.FOUL (P5.PN) (D.Stafford),Foul,Shooting,1,0
+452,489,PT01M47.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,103,95,198,h,Thompson Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0
+453,491,PT01M47.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,104,95,199,h,Thompson Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0
+454,493,PT01M41.00S,4,1610612757,POR,203468,McCollum,C. McCollum,99,174,20,Missed,1,0,0,0,v,MISS McCollum 20' Jump Shot,Missed Shot,Jump Shot,1,0
+455,494,PT01M40.00S,4,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+456,495,PT01M38.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green S.FOUL (P4.T4) (D.Stafford),Foul,Shooting,1,0
+457,496,PT01M38.00S,4,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,104,96,200,v,Harkless Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+458,498,PT01M38.00S,4,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,104,97,201,v,Harkless Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+459,500,PT01M20.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,-6,154,15,Missed,1,0,0,0,h,MISS Iguodala 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+460,501,PT01M20.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+461,502,PT01M12.00S,4,1610612757,POR,203468,McCollum,C. McCollum,122,214,25,Missed,1,0,0,0,v,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+462,503,PT01M11.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:2 Def:12),Rebound,Unknown,1,0
+463,504,PT00M55.40S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,26,3,Missed,1,0,0,0,h,MISS Livingston 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+464,506,PT00M55.40S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+465,505,PT00M55.40S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,1,0,Made,1,106,97,203,h,Iguodala  Putback Dunk (15 PTS),Made Shot,Putback Dunk Shot,1,0
+466,507,PT00M45.80S,4,1610612757,POR,201945,Henderson,G. Henderson,40,90,10,Missed,1,0,0,0,v,MISS Henderson 10' Jump Shot,Missed Shot,Jump Shot,1,0
+467,507,PT00M45.80S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston BLOCK (1 BLK),,,1,0
+468,508,PT00M45.70S,4,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+469,509,PT00M45.70S,4,1610612757,POR,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,v,Henderson P.FOUL (P3.PN) (C.Kirkland),Foul,Personal,1,0
+470,510,PT00M45.70S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,107,97,204,h,Livingston Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+471,512,PT00M45.70S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,108,97,205,h,Livingston Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+472,514,PT00M45.70S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Short (Reg.6 Short 2),Timeout,Short,0,0
+473,515,PT00M38.80S,4,1610612757,POR,203090,Harkless,M. Harkless,233,-6,0,Missed,1,0,0,0,v,MISS Harkless  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+474,516,PT00M37.80S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+475,517,PT00M19.70S,4,1610612744,GSW,203110,Green,D. Green,0,1,0,Made,1,110,97,207,h,Green  Driving Dunk (17 PTS),Made Shot,Driving Dunk Shot,1,0
+476,518,PT00M08.90S,4,1610612757,POR,203468,McCollum,C. McCollum,40,26,5,Made,1,110,99,209,v,McCollum 5' Fadeaway Jumper (22 PTS),Made Shot,Fadeaway Jump Shot,1,0
+477,519,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,99,209,,End of 4th Period (1:15 AM EST),period,end,0,0

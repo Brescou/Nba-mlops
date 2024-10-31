@@ -1,0 +1,454 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jump Ball Jackson Jr. vs. Jokic: Tip to Tillman,Jump Ball,,1,0
+3,7,PT11M41.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,28,8,3,Missed,1,,,0,h,MISS Jackson Jr. 3' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+4,7,PT11M41.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,v,Cancar BLOCK (1 BLK),,,1,0
+5,8,PT11M38.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,v,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,9,PT11M35.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+7,9,PT11M35.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks STEAL (1 STL),,,1,0
+8,11,PT11M29.00S,1,1610612763,MEM,1629630,Morant,J. Morant,12,-1,1,Missed,1,,,0,h,MISS Morant 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+9,12,PT11M27.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+10,13,PT11M23.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+11,13,PT11M23.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. STEAL (1 STL),,,1,0
+12,15,PT11M17.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-31,63,7,Missed,1,,,0,h,MISS Bane 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+13,16,PT11M14.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+14,17,PT11M12.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,2,3,0,Made,1,2,0,2,h,Tillman Alley Oop Layup (2 PTS) (Brooks 1 AST),Made Shot,Alley Oop Layup shot,1,0
+15,19,PT10M50.00S,1,1610612743,DEN,1627750,Murray,J. Murray,124,232,26,Made,1,2,3,5,v,Murray 26' 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,0
+16,21,PT10M38.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,v,Cancar P.FOUL (P1.T1) (R.Mott),Foul,Personal,1,0
+17,23,PT10M33.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+18,23,PT10M33.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray STEAL (1 STL),,,1,0
+19,25,PT10M17.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. S.FOUL (P1.T1) (R.Mott),Foul,Shooting,1,0
+20,27,PT10M17.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,2,4,6,v,Caldwell-Pope Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+21,28,PT10M17.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,2,5,7,v,Caldwell-Pope Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+22,29,PT10M07.00S,1,1610612763,MEM,1629630,Morant,J. Morant,4,1,0,Missed,1,,,0,h,MISS Morant Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+23,30,PT10M05.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+24,31,PT10M02.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1,0
+25,34,PT10M02.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,2,6,8,v,Caldwell-Pope Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+26,35,PT10M02.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,MISS Caldwell-Pope Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+27,36,PT10M00.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+28,37,PT09M47.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,2,9,1,Made,1,4,6,10,h,Tillman 1' Cutting Dunk Shot (4 PTS) (Morant 1 AST),Made Shot,Cutting Dunk Shot,1,0
+29,39,PT09M35.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-12,1,1,Missed,1,,,0,v,MISS Murray 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+30,39,PT09M35.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman BLOCK (1 BLK),,,1,0
+31,41,PT09M32.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+32,43,PT09M18.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,22,104,11,Made,1,6,6,12,h,Tillman 11' Floating Jump Shot (6 PTS) (Bane 1 AST),Made Shot,Floating Jump shot,1,0
+33,46,PT08M58.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-130,136,19,Made,1,6,8,14,v,Caldwell-Pope 19' Pullup Jump Shot (5 PTS) (Murray 1 AST),Made Shot,Pullup Jump shot,1,0
+34,48,PT08M49.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-99,231,25,Missed,1,,,0,h,MISS Bane 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+35,49,PT08M46.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+36,50,PT08M44.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-5,73,7,Made,1,8,8,16,h,Bane 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,0
+37,51,PT08M22.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,1,5,1,Made,1,8,10,18,v,Jokic 1' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,0
+38,52,PT08M12.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-223,10,0,Made,1,11,10,21,h,Bane 3PT Jump Shot (5 PTS) (Tillman 1 AST),Made Shot,Jump Shot,1,0
+39,55,PT07M42.00S,1,1610612743,DEN,1627750,Murray,J. Murray,229,69,24,Missed,1,,,0,v,MISS Murray 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+40,56,PT07M37.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+41,57,PT07M35.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1,0
+42,59,PT07M35.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,12,10,22,h,Morant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+43,60,PT07M35.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0
+44,62,PT07M35.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+45,63,PT07M34.00S,1,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,1,0
+46,65,PT07M31.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-228,24,0,Missed,1,,,0,h,MISS Bane 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+47,66,PT07M29.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+48,67,PT07M26.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-162,179,24,Missed,1,,,0,h,MISS Bane 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+49,68,PT07M23.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+50,69,PT07M12.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,10,10,1,Made,1,12,12,24,v,Caldwell-Pope 1' Driving Floating Bank Jump Shot (7 PTS) (Cancar 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,0
+51,71,PT07M05.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-9,9,1,Made,1,14,12,26,h,Morant 1' Driving Finger Roll Layup (3 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+52,72,PT06M50.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,GRIZZLIES T.Foul (Def. 3 Sec Aldama ) (B.Adair),Foul,Defense 3 Second,1,0
+53,73,PT06M50.00S,1,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+54,74,PT06M50.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,14,13,27,v,Murray Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0
+55,75,PT06M41.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-172,200,26,Missed,1,,,0,v,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+56,76,PT06M39.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+57,77,PT06M35.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,145,207,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+58,78,PT06M30.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+59,79,PT06M30.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,Made,1,14,15,29,v,Jokic Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,0
+60,80,PT06M14.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,-94,57,11,Missed,1,,,0,h,MISS Brooks 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+61,81,PT06M11.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+62,82,PT06M01.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-146,225,27,Missed,1,,,0,v,MISS Murray 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+63,83,PT05M58.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+64,84,PT05M50.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,-44,247,25,Missed,1,,,0,h,MISS Brooks 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+65,85,PT05M48.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,v,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+66,86,PT05M42.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,v,Cancar Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+67,87,PT05M42.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,SUB: Kennard FOR Bane,Substitution,,0,0
+68,89,PT05M30.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-9,8,1,Made,1,16,15,31,h,Morant 1' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+69,90,PT05M18.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-232,75,24,Missed,1,,,0,v,MISS Porter Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+70,91,PT05M15.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+71,92,PT05M08.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-10,11,1,Missed,1,,,0,h,MISS Morant 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+72,93,PT05M06.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+73,94,PT04M59.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,4,2,0,Made,1,16,17,33,v,Cancar Driving Finger Roll Layup (2 PTS) (Jokic 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+74,96,PT04M50.00S,1,1610612763,MEM,1628379,Kennard,L. Kennard,-108,3,11,Missed,1,,,0,h,MISS Kennard 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+75,96,PT04M50.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope BLOCK (1 BLK),,,1,0
+76,98,PT04M48.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+77,99,PT04M33.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,-13,74,8,Missed,1,,,0,v,MISS Cancar 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+78,100,PT04M32.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+79,101,PT04M10.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,-11,69,7,Made,1,18,17,35,h,Brooks 7' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+80,102,PT03M52.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic Traveling Turnover (P1.T4),Turnover,Traveling,1,0
+81,103,PT03M52.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,v,SUB: Brown FOR Porter Jr.,Substitution,,0,0
+82,104,PT03M52.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,v,SUB: Green FOR Cancar,Substitution,,0,0
+83,108,PT03M47.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray P.FOUL (P1.T3) (R.Mott),Foul,Personal,1,0
+84,110,PT03M47.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Jackson FOR Murray,Substitution,,0,0
+85,112,PT03M34.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Traveling Turnover (P1.T2),Turnover,Traveling,1,0
+86,113,PT03M26.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,-61,104,12,Missed,1,,,0,v,MISS Jackson 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+87,114,PT03M23.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+88,115,PT03M17.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-29,247,25,Made,1,21,17,38,h,Morant 25' 3PT Jump Shot (8 PTS) (Tillman 2 AST),Made Shot,Jump Shot,1,0
+89,117,PT03M02.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-93,246,26,Missed,1,,,0,v,MISS Caldwell-Pope 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+90,118,PT03M00.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+91,119,PT02M56.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,-9,3,1,Made,1,23,17,40,h,Tillman 1' Running Reverse Layup (8 PTS) (Morant 2 AST),Made Shot,Running Reverse Layup Shot,1,0
+92,121,PT02M41.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-224,21,0,Missed,1,,,0,v,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+93,122,PT02M39.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+94,123,PT02M33.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,-225,-11,0,Missed,1,,,0,h,MISS Aldama 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+95,124,PT02M29.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+96,125,PT02M14.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,-225,-16,0,Missed,1,,,0,v,MISS Jackson 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+97,126,PT02M12.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+98,127,PT02M07.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-22,-1,2,Made,1,25,17,42,h,Morant 2' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+99,128,PT02M07.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+100,129,PT02M07.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,SUB: Clarke FOR Tillman,Substitution,,0,0
+101,130,PT02M07.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,SUB: Jones FOR Aldama,Substitution,,0,0
+102,131,PT02M07.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Bane FOR Morant,Substitution,,0,0
+103,132,PT02M07.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Brooks,Substitution,,0,0
+104,133,PT02M07.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,SUB: Braun FOR Caldwell-Pope,Substitution,,0,0
+105,134,PT02M07.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,SUB: Bryant FOR Jokic,Substitution,,0,0
+106,142,PT01M46.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun Offensive Goaltending Turnover (P1.T5),Turnover,Offensive Goaltending,1,0
+107,143,PT01M26.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,50,64,8,Missed,1,,,0,h,MISS Jackson Jr. 8' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,0
+108,144,PT01M24.00S,1,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+109,145,PT01M18.00S,1,1610612743,DEN,1628971,Brown,B. Brown,-9,21,2,Missed,1,,,0,v,MISS Brown 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+110,146,PT01M15.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+111,147,PT01M10.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-228,-12,0,Missed,1,,,0,h,MISS Bane 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+112,148,PT01M04.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+113,149,PT00M54.30S,1,1610612743,DEN,201145,Green,J. Green,-234,38,24,Made,1,25,20,45,v,Green 24' 3PT Jump Shot (3 PTS) (Braun 1 AST),Made Shot,Jump Shot,1,0
+114,151,PT00M31.10S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,230,22,0,Made,1,28,20,48,h,Jackson Jr. 3PT Jump Shot (3 PTS) (Bane 2 AST),Made Shot,Jump Shot,1,0
+115,153,PT00M06.10S,1,1610612743,DEN,1628418,Bryant,T. Bryant,-136,29,14,Missed,1,,,0,v,MISS Bryant 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+116,154,PT00M03.60S,1,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+117,155,PT00M00.50S,1,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,Green OFF.Foul (P1) (R.Mott),Foul,Offensive,1,0
+118,157,PT00M00.50S,1,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,Green Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0
+119,158,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,20,48,,End of 1st Period (8:37 PM EST),period,end,1,0
+120,161,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,20,48,,Start of 2nd Period (8:40 PM EST),period,start,0,0
+121,162,PT11M41.00S,2,1610612743,DEN,1628971,Brown,B. Brown,-34,128,13,Made,1,28,22,50,v,Brown 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+122,163,PT11M22.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown P.FOUL (P1.T1) (R.Mott),Foul,Personal,1,0
+123,165,PT11M12.00S,2,1610612763,MEM,1626145,Jones,T. Jones,29,246,25,Made,1,31,22,53,h,Jones 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,0
+124,166,PT10M53.00S,2,1610612743,DEN,201145,Green,J. Green,-191,168,25,Missed,1,,,0,v,MISS Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+125,167,PT10M50.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+126,168,PT10M34.00S,2,1610612763,MEM,1626145,Jones,T. Jones,-156,200,25,Made,1,34,22,56,h,Jones 25' 3PT Jump Shot (6 PTS) (Konchar 1 AST),Made Shot,Jump Shot,1,0
+127,170,PT10M10.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,109,263,28,Missed,1,,,0,v,MISS Jackson 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+128,171,PT10M06.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+129,172,PT10M03.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson P.FOUL (P1.T2) (B.Adair),Foul,Personal,1,0
+130,174,PT09M57.00S,2,1610612763,MEM,1630217,Bane,D. Bane,28,25,4,Made,1,36,22,58,h,Bane 4' Driving Floating Bank Jump Shot (7 PTS) (Clarke 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,0
+131,176,PT09M57.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+132,177,PT09M38.00S,2,1610612743,DEN,1628971,Brown,B. Brown,-115,237,26,Missed,1,,,0,v,MISS Brown 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+133,178,PT09M35.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+134,179,PT09M25.00S,2,1610612763,MEM,1626145,Jones,T. Jones,235,15,24,Missed,1,,,0,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+135,180,PT09M21.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+136,181,PT09M21.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,Made,1,38,22,60,h,Clarke Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,0
+137,182,PT09M05.00S,2,1610612743,DEN,1628418,Bryant,T. Bryant,-93,36,10,Missed,1,,,0,v,MISS Bryant 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+138,183,PT09M03.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+139,184,PT08M55.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,3,0,Missed,1,,,0,h,MISS Clarke Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+140,185,PT08M53.00S,2,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+141,186,PT08M47.00S,2,1610612743,DEN,1631128,Braun,C. Braun,16,16,2,Missed,1,,,0,v,MISS Braun 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+142,187,PT08M45.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+143,188,PT08M41.00S,2,1610612763,MEM,1630217,Bane,D. Bane,18,66,7,Made,1,40,22,62,h,Bane 7' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,0
+144,189,PT08M23.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0
+145,189,PT08M23.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar STEAL (1 STL),,,1,0
+146,191,PT08M21.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,-4,9,1,Made,1,42,22,64,h,Konchar 1' Running Finger Roll Layup (2 PTS) (Jones 1 AST),Made Shot,Running Finger Roll Layup Shot,1,0
+147,193,PT08M21.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+148,194,PT08M21.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,SUB: Murray FOR Braun,Substitution,,0,0
+149,195,PT08M21.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,SUB: Jokic FOR Jackson,Substitution,,0,0
+150,196,PT08M21.00S,2,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,SUB: Caldwell-Pope FOR Bryant,Substitution,,0,0
+151,200,PT08M05.00S,2,1610612743,DEN,201145,Green,J. Green,-136,220,26,Made,1,42,25,67,v,Green 26' 3PT Jump Shot (6 PTS) (Jokic 2 AST),Made Shot,Jump Shot,1,0
+152,202,PT07M49.00S,2,1610612763,MEM,1626145,Jones,T. Jones,-28,94,10,Made,1,44,25,69,h,Jones 10' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,0
+153,203,PT07M32.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. S.FOUL (P2.T1) (B.Adair),Foul,Shooting,1,0
+154,205,PT07M32.00S,2,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,44,26,70,v,Green Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0
+155,206,PT07M32.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,SUB: Kennard FOR Jackson Jr.,Substitution,,0,0
+156,207,PT07M32.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,SUB: Tillman FOR Clarke,Substitution,,0,0
+157,208,PT07M32.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,SUB: Aldama FOR Bane,Substitution,,0,0
+158,212,PT07M32.00S,2,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,44,27,71,v,Green Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0
+159,213,PT07M20.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,-72,45,8,Made,1,46,27,73,h,Tillman 8' Floating Jump Shot (10 PTS) (Kennard 1 AST),Made Shot,Floating Jump shot,1,0
+160,215,PT07M11.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0
+161,215,PT07M11.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama STEAL (1 STL),,,1,0
+162,217,PT07M04.00S,2,1610612763,MEM,1626145,Jones,T. Jones,127,231,26,Made,1,49,27,76,h,Jones 26' 3PT Jump Shot (11 PTS) (Tillman 3 AST),Made Shot,Jump Shot,1,0
+163,219,PT06M49.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+164,219,PT06M49.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar STEAL (2 STL),,,1,0
+165,221,PT06M46.00S,2,1610612763,MEM,1626145,Jones,T. Jones,145,210,26,Missed,1,,,0,h,MISS Jones 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+166,222,PT06M43.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+167,223,PT06M28.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,74,49,9,Made,1,49,29,78,v,Jokic 9' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,0
+168,224,PT06M18.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,45,250,25,Made,1,52,29,81,h,Aldama 25' 3PT Jump Shot (3 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,0
+169,226,PT05M55.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,4,58,6,Missed,1,,,0,v,MISS Jokic 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+170,227,PT05M53.00S,2,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+171,228,PT05M47.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-12,13,2,Made,1,52,31,83,v,Caldwell-Pope 2' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+172,229,PT05M24.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,26,188,19,Missed,1,,,0,h,MISS Kennard 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+173,230,PT05M21.00S,2,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+174,231,PT05M16.00S,2,1610612743,DEN,1628971,Brown,B. Brown,18,-1,2,Missed,1,,,0,v,MISS Brown 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,0
+175,233,PT05M13.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+176,234,PT05M12.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,9,8,1,Made,1,52,33,85,v,Jokic 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,0
+177,235,PT04M53.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,229,-7,0,Made,1,55,33,88,h,Kennard 3PT Jump Shot (3 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,0
+178,237,PT04M39.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-197,18,20,Made,1,55,35,90,v,Murray 20' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,0
+179,238,PT04M24.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,47,246,25,Missed,1,,,0,h,MISS Konchar 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+180,239,PT04M22.00S,2,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+181,240,PT04M11.00S,2,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+182,240,PT04M11.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama STEAL (2 STL),,,1,0
+183,242,PT04M06.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,-2,5,1,Made,1,57,35,92,h,Aldama 1' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,1,0
+184,243,PT03M48.00S,2,1610612743,DEN,1628971,Brown,B. Brown,5,2,1,Made,1,57,37,94,v,Brown 1' Cutting Dunk Shot (4 PTS),Made Shot,Cutting Dunk Shot,1,0
+185,245,PT03M29.00S,2,1610612763,MEM,1626145,Jones,T. Jones,-135,220,26,Made,1,60,37,97,h,Jones 26' 3PT Jump Shot (14 PTS) (Kennard 2 AST),Made Shot,Jump Shot,1,0
+186,247,PT03M08.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-120,167,21,Missed,1,,,0,v,MISS Murray 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+187,248,PT03M07.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,1,0
+188,249,PT03M07.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman L.B.FOUL (P1.T2) (D.Guthrie),Foul,Loose Ball,1,0
+189,251,PT03M07.00S,2,1610612763,MEM,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Brooks FOR Jones,Substitution,,0,0
+190,252,PT03M07.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,SUB: Morant FOR Konchar,Substitution,,0,0
+191,254,PT03M07.00S,2,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Green,Substitution,,0,0
+192,277,PT03M07.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,SUB: Cancar FOR Brown,Substitution,,0,0
+193,259,PT02M53.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-225,117,25,Missed,1,,,0,v,MISS Murray 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+194,260,PT02M51.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+195,261,PT02M45.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,-104,224,25,Missed,1,,,0,h,MISS Aldama 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+196,262,PT02M45.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+197,263,PT02M35.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-7,106,11,Missed,1,,,0,v,MISS Porter Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+198,264,PT02M31.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+199,265,PT02M17.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,43,114,12,Made,1,62,37,99,h,Brooks 12' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+200,266,PT02M04.00S,2,1610612743,DEN,1628427,Cancar,V. Cancar,108,256,28,Missed,1,,,0,v,MISS Cancar 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+201,267,PT02M02.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,1,0
+202,269,PT01M53.00S,2,1610612763,MEM,1629630,Morant,J. Morant,72,125,14,Made,1,64,37,101,h,Morant 14' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,0
+203,270,PT01M34.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,20,57,6,Missed,1,,,0,v,MISS Jokic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+204,271,PT01M31.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+205,272,PT01M28.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope P.FOUL (P1.T3) (B.Adair),Foul,Personal,1,0
+206,274,PT01M28.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,SUB: Bane FOR Kennard,Substitution,,0,0
+207,276,PT01M14.00S,2,1610612763,MEM,1629630,Morant,J. Morant,12,98,10,Made,1,66,37,103,h,Morant 10' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,0
+208,278,PT00M59.20S,2,1610612743,DEN,203999,Jokic,N. Jokic,-5,53,5,Made,1,66,39,105,v,Jokic 5' Turnaround Hook Shot (10 PTS) (Murray 2 AST),Made Shot,Turnaround Hook Shot,1,0
+209,280,PT00M59.20S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman S.FOUL (P2.T3) (R.Mott),Foul,Shooting,1,0
+210,282,PT00M59.20S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,66,40,106,v,Jokic Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0
+211,301,PT00M37.80S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant OFF.Foul (P1) (B.Adair),Foul,Offensive,0,0
+212,302,PT00M37.80S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,1,0
+213,287,PT00M37.80S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,SUB: Clarke FOR Tillman,Substitution,,0,0
+214,289,PT00M37.80S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Coach Challenge (Reg.3 Short 0),Timeout,Coach Challenge,0,0
+215,291,PT00M37.80S,2,0,,285,Grant,G. Grant,0,0,0,,0,66,40,106,,Instant Replay2nd Period (9:02 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0
+216,292,PT00M25.80S,2,1610612743,DEN,1627750,Murray,J. Murray,0,12,1,Missed,1,,,0,v,MISS Murray 1' Layup,Missed Shot,Layup Shot,1,0
+217,292,PT00M25.80S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane BLOCK (1 BLK),,,1,0
+218,294,PT00M23.50S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+219,295,PT00M22.50S,2,1610612743,DEN,1627750,Murray,J. Murray,6,16,2,Made,1,66,42,108,v,Murray 2' Layup (8 PTS),Made Shot,Layup Shot,1,0
+220,296,PT00M05.70S,2,1610612763,MEM,1629630,Morant,J. Morant,107,239,26,Missed,1,,,0,h,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+221,297,PT00M01.10S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+222,298,PT00M00.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,-225,64,0,Missed,1,,,0,h,MISS Aldama 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+223,299,PT00M00.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,1,0
+224,300,PT00M00.00S,2,0,,0,,,0,0,0,,0,66,42,108,,End of 2nd Period (9:05 PM EST),period,end,1,0
+225,309,PT12M00.00S,3,0,,0,,,0,0,0,,0,66,42,108,,Start of 3rd Period (9:20 PM EST),period,start,0,0
+226,310,PT11M46.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. P.FOUL (P3.T1) (R.Mott),Foul,Personal,1,0
+227,312,PT11M36.00S,3,1610612743,DEN,1628427,Cancar,V. Cancar,-230,27,0,Missed,1,,,0,v,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+228,313,PT11M34.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+229,314,PT11M28.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-87,105,14,Missed,1,,,0,h,MISS Morant 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+230,315,PT11M25.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+231,316,PT11M21.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,130,209,25,Missed,1,,,0,v,MISS Caldwell-Pope 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+232,317,PT11M19.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,1,0
+233,319,PT11M06.00S,3,1610612763,MEM,1630214,Tillman,X. Tillman,7,102,10,Made,1,68,42,110,h,Tillman 10' Pullup Jump Shot (12 PTS) (Bane 3 AST),Made Shot,Pullup Jump shot,1,0
+234,321,PT10M49.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,55,242,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+235,322,PT10M48.00S,3,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+236,323,PT10M44.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope S.FOUL (P2.T1) (R.Mott),Foul,Shooting,1,0
+237,325,PT10M44.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,69,42,111,h,Morant Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+238,326,PT10M44.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,70,42,112,h,Morant Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0
+239,327,PT10M29.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,69,30,8,Missed,1,,,0,v,MISS Jokic 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+240,328,PT10M27.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+241,329,PT10M15.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-34,27,4,Made,1,72,42,114,h,Morant 4' Driving Finger Roll Layup (18 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+242,330,PT10M01.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-66,237,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+243,331,PT09M59.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,1,0
+244,333,PT09M43.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-56,109,12,Made,1,74,42,116,h,Brooks 12' Driving Floating Jump Shot (6 PTS) (Morant 3 AST),Made Shot,Driving Floating Jump Shot,1,0
+245,335,PT09M43.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+246,336,PT09M28.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,23,127,13,Made,1,74,44,118,v,Jokic 13' Jump Shot (13 PTS) (Murray 3 AST),Made Shot,Jump Shot,1,0
+247,338,PT09M21.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Out of Bounds Lost Ball Turnover (P3.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+248,339,PT09M10.00S,3,1610612743,DEN,1627750,Murray,J. Murray,23,17,3,Missed,1,,,0,v,MISS Murray 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+249,340,PT09M07.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+250,341,PT09M03.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic S.FOUL (P1.T2) (B.Adair),Foul,Shooting,1,0
+251,343,PT09M03.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,75,44,119,h,Jackson Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0
+252,344,PT09M03.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,76,44,120,h,Jackson Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0
+253,345,PT08M51.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-25,145,15,Made,1,76,46,122,v,Caldwell-Pope 15' Fadeaway Jumper (11 PTS) (Jokic 3 AST),Made Shot,Fadeaway Jump Shot,1,0
+254,347,PT08M31.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-1,6,1,Made,1,78,46,124,h,Jackson Jr. 1' Alley Oop Dunk (7 PTS) (Tillman 4 AST),Made Shot,Alley Oop Dunk Shot,1,0
+255,349,PT08M12.00S,3,1610612743,DEN,1628427,Cancar,V. Cancar,-103,224,25,Missed,1,,,0,v,MISS Cancar 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+256,350,PT08M09.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+257,351,PT08M06.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,13,5,1,Made,1,78,48,126,v,Porter Jr. 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+258,352,PT07M53.00S,3,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman OFF.Foul (P3) (D.Guthrie),Foul,Offensive,1,0
+259,354,PT07M53.00S,3,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0
+260,355,PT07M38.00S,3,1610612743,DEN,1627750,Murray,J. Murray,168,82,19,Missed,1,,,0,v,MISS Murray 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+261,356,PT07M35.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+262,357,PT07M30.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-164,260,31,Missed,1,,,0,h,MISS Bane 31' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+263,358,PT07M27.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+264,359,PT07M21.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,170,189,25,Missed,1,,,0,v,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+265,360,PT07M17.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+266,361,PT07M12.00S,3,1610612763,MEM,1629630,Morant,J. Morant,113,230,26,Missed,1,,,0,h,MISS Morant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+267,362,PT07M10.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+268,363,PT07M06.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-38,278,28,Missed,1,,,0,h,MISS Morant 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+269,364,PT07M03.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+270,365,PT06M57.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,65,240,25,Made,1,78,51,129,v,Porter Jr. 25' 3PT Running Pull-Up Jump Shot (5 PTS),Made Shot,Running Pull-Up Jump Shot,1,0
+271,366,PT06M34.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-230,23,0,Made,1,81,51,132,h,Brooks 3PT Jump Shot (9 PTS) (Bane 4 AST),Made Shot,Jump Shot,1,0
+272,368,PT06M21.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-81,239,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+273,369,PT06M20.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,1,0
+274,371,PT06M20.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,SUB: Aldama FOR Bane,Substitution,,0,0
+275,372,PT06M20.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,SUB: Kennard FOR Jackson Jr.,Substitution,,0,0
+276,375,PT06M04.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-89,59,11,Missed,1,,,0,h,MISS Morant 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+277,376,PT06M02.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:3 Def:8),Rebound,Unknown,1,0
+278,377,PT05M49.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,71,46,8,Made,1,81,53,134,v,Jokic 8' Turnaround Bank Shot (15 PTS) (Caldwell-Pope 1 AST),Made Shot,Turnaround Bank shot,1,0
+279,379,PT05M25.00S,3,1610612763,MEM,1628379,Kennard,L. Kennard,127,215,25,Missed,1,,,0,h,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+280,380,PT05M23.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:3 Def:9),Rebound,Unknown,1,0
+281,381,PT05M17.00S,3,1610612743,DEN,1627750,Murray,J. Murray,93,77,12,Missed,1,,,0,v,MISS Murray 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+282,382,PT05M14.00S,3,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+283,383,PT05M03.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-89,27,9,Missed,1,,,0,h,MISS Morant 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+284,384,PT05M02.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic REBOUND (Off:3 Def:10),Rebound,Unknown,1,0
+285,385,PT04M54.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,-96,13,10,Missed,1,,,0,v,MISS Jokic 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+286,386,PT04M51.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+287,410,PT04M51.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-4,21,2,Missed,1,,,0,v,MISS Porter Jr. 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0
+288,411,PT04M51.00S,3,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Tillman REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+289,387,PT04M44.00S,3,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,Jump Ball Tillman vs. Caldwell-Pope: Tip to Cancar,Jump Ball,,1,0
+290,421,PT04M44.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Lost Ball Turnover (P4.T6),Turnover,Lost Ball,1,0
+291,421,PT04M44.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope STEAL (1 STL),,,1,0
+292,392,PT04M24.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,123,220,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+293,393,PT04M19.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+294,394,PT04M17.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-11,8,1,Made,1,83,53,136,h,Morant 1' Running Finger Roll Layup (20 PTS),Made Shot,Running Finger Roll Layup Shot,1,0
+295,395,PT04M17.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. S.FOUL (P2.T3) (D.Guthrie),Foul,Shooting,1,0
+296,397,PT04M17.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,v,SUB: Brown FOR Porter Jr.,Substitution,,0,0
+297,398,PT04M17.00S,3,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,v,SUB: Green FOR Cancar,Substitution,,0,0
+298,401,PT04M17.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,84,53,137,h,Morant Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0
+299,402,PT04M04.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,Jokic Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+300,403,PT03M51.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-228,89,24,Made,1,87,53,140,h,Brooks 24' 3PT Jump Shot (12 PTS) (Morant 4 AST),Made Shot,Jump Shot,1,0
+301,405,PT03M33.00S,3,1610612743,DEN,201145,Green,J. Green,-20,0,2,Made,1,87,55,142,v,Green 2' Driving Finger Roll Layup (10 PTS) (Murray 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+302,407,PT03M33.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+303,412,PT03M33.00S,3,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,,,0,h,SUB: Clarke FOR Tillman,Substitution,,0,0
+304,413,PT03M33.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,SUB: Bryant FOR Caldwell-Pope,Substitution,,0,0
+305,414,PT03M33.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,v,SUB: Jackson FOR Jokic,Substitution,,0,0
+306,415,PT03M33.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Braun FOR Murray,Substitution,,0,0
+307,420,PT03M22.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+308,423,PT03M09.00S,3,1610612743,DEN,1628971,Brown,B. Brown,61,89,11,Made,1,87,57,144,v,Brown 11' Driving Floating Jump Shot (6 PTS) (Jackson 1 AST),Made Shot,Driving Floating Jump Shot,1,0
+309,425,PT02M59.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0
+310,425,PT02M59.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson STEAL (1 STL),,,1,0
+311,427,PT02M41.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,-99,79,13,Missed,1,,,0,v,MISS Jackson 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+312,428,PT02M38.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+313,429,PT02M25.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-100,233,25,Missed,1,,,0,h,MISS Brooks 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+314,430,PT02M22.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+315,431,PT02M11.00S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0
+316,431,PT02M11.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant STEAL (1 STL),,,1,0
+317,433,PT02M09.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-6,0,1,Made,1,89,57,146,h,Morant 1' Running Dunk (23 PTS),Made Shot,Running Dunk Shot,1,0
+318,434,PT02M00.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,108,236,26,Made,1,89,60,149,v,Jackson 26' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,1,0
+319,436,PT01M33.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-56,73,9,Missed,1,,,0,h,MISS Brooks 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+320,437,PT01M32.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+321,438,PT01M30.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,4,1,0,Made,1,91,60,151,h,Clarke Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,0
+322,439,PT01M16.00S,3,1610612743,DEN,1628971,Brown,B. Brown,146,216,26,Missed,1,,,0,v,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+323,440,PT01M14.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+324,441,PT00M56.90S,3,1610612763,MEM,1628379,Kennard,L. Kennard,-230,7,0,Made,1,94,60,154,h,Kennard 3PT Jump Shot (6 PTS) (Aldama 1 AST),Made Shot,Jump Shot,1,0
+325,443,PT00M46.80S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant P.FOUL (P2.T2) (D.Guthrie),Foul,Personal,1,0
+326,445,PT00M46.80S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Jones FOR Morant,Substitution,,0,0
+327,446,PT00M46.80S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Bane FOR Brooks,Substitution,,0,0
+328,450,PT00M42.00S,3,1610612743,DEN,1631128,Braun,C. Braun,-7,8,1,Made,1,94,62,156,v,Braun 1' Driving Floating Jump Shot (2 PTS) (Jackson 2 AST),Made Shot,Driving Floating Jump Shot,1,0
+329,451,PT00M42.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama Violation:Defensive Goaltending (D.Guthrie),Violation,Defensive Goaltending,1,0
+330,452,PT00M32.80S,3,1610612763,MEM,1630217,Bane,D. Bane,109,238,26,Missed,1,,,0,h,MISS Bane 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+331,453,PT00M28.30S,3,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+332,454,PT00M17.90S,3,1610612743,DEN,1628418,Bryant,T. Bryant,-53,96,11,Missed,1,,,0,v,MISS Bryant 11' Jump Shot,Missed Shot,Jump Shot,1,0
+333,455,PT00M15.30S,3,1610612763,MEM,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+334,456,PT00M05.10S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson Personal Take Foul (P2.T4) (R.Mott),Foul,Personal Take,1,0
+335,458,PT00M00.70S,3,1610612763,MEM,1629634,Clarke,B. Clarke,6,59,6,Missed,1,,,0,h,MISS Clarke 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+336,460,PT00M00.70S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+337,461,PT00M00.00S,3,0,,0,,,0,0,0,,0,94,62,156,,End of 3rd Period (9:44 PM EST),period,end,1,0
+338,465,PT12M00.00S,4,0,,0,,,0,0,0,,0,94,62,156,,Start of 4th Period (9:47 PM EST),period,start,0,0
+339,466,PT11M46.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane Traveling Turnover (P1.T9),Turnover,Traveling,1,0
+340,467,PT11M36.00S,4,1610612743,DEN,1628971,Brown,B. Brown,7,17,2,Missed,1,,,0,v,MISS Brown 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+341,468,PT11M34.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+342,469,PT11M27.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-146,223,27,Missed,1,,,0,h,MISS Jackson Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+343,470,PT11M24.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+344,471,PT11M13.00S,4,1610612743,DEN,201145,Green,J. Green,141,211,25,Missed,1,,,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+345,472,PT11M11.00S,4,1610612763,MEM,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+346,473,PT10M53.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-88,76,12,Missed,1,,,0,h,MISS Jackson Jr. 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+347,474,PT10M50.00S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+348,475,PT10M42.00S,4,1610612743,DEN,1631128,Braun,C. Braun,-89,225,24,Made,1,94,65,159,v,Braun 24' 3PT Jump Shot (5 PTS) (Brown 2 AST),Made Shot,Jump Shot,1,0
+349,477,PT10M26.00S,4,1610612763,MEM,1626145,Jones,T. Jones,6,280,28,Missed,1,,,0,h,MISS Jones 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+350,478,PT10M23.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+351,479,PT10M23.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,Made,1,96,65,161,h,Clarke Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,0
+352,480,PT10M06.00S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0
+353,480,PT10M06.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane STEAL (1 STL),,,1,0
+354,482,PT10M04.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson Transition Take Foul (P3.T1) (R.Mott),Foul                                    ,Transition Take,1,0
+355,484,PT10M04.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,97,65,162,h,Bane Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0
+356,485,PT09M56.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,224,16,0,Made,1,100,65,165,h,Kennard 3PT Jump Shot (9 PTS) (Jones 4 AST),Made Shot,Jump Shot,1,0
+357,487,PT09M38.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,-93,232,25,Missed,1,,,0,v,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+358,488,PT09M34.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+359,489,PT09M30.00S,4,1610612763,MEM,1630217,Bane,D. Bane,15,0,2,Missed,1,,,0,h,MISS Bane 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,0
+360,489,PT09M30.00S,4,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,Green BLOCK (1 BLK),,,1,0
+361,491,PT09M29.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0
+362,493,PT09M29.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,SUB: Konchar FOR Kennard,Substitution,,0,0
+363,495,PT09M25.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-38,275,28,Missed,1,,,0,h,MISS Jackson Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+364,496,PT09M22.00S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+365,497,PT09M16.00S,4,1610612743,DEN,1631128,Braun,C. Braun,11,3,1,Missed,1,,,0,v,MISS Braun 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+366,497,PT09M16.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. BLOCK (1 BLK),,,1,0
+367,499,PT09M09.00S,4,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+368,500,PT09M06.00S,4,1610612763,MEM,1630217,Bane,D. Bane,6,18,2,Missed,1,,,0,h,MISS Bane 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+369,500,PT09M06.00S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant BLOCK (1 BLK),,,1,0
+370,502,PT09M04.00S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+371,503,PT08M50.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,-185,167,25,Made,1,100,68,168,v,Jackson 25' 3PT Jump Shot (6 PTS) (Green 1 AST),Made Shot,Jump Shot,1,0
+372,505,PT08M26.00S,4,1610612763,MEM,1626145,Jones,T. Jones,-143,215,26,Missed,1,,,0,h,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+373,506,PT08M23.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+374,507,PT08M15.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. S.FOUL (P4.T1) (D.Guthrie),Foul,Shooting,1,0
+375,509,PT08M15.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+376,510,PT08M15.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,1,0
+377,511,PT08M15.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,SUB: Kennard FOR Bane,Substitution,,0,0
+378,513,PT08M15.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,100,69,169,v,Braun Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0
+379,514,PT08M02.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+380,514,PT08M02.00S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant STEAL (1 STL),,,1,0
+381,516,PT07M47.00S,4,1610612743,DEN,1628971,Brown,B. Brown,86,67,11,Missed,1,,,0,v,MISS Brown 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+382,517,PT07M45.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+383,518,PT07M45.00S,4,1610612743,DEN,1628971,Brown,B. Brown,65,80,10,Made,1,100,71,171,v,Brown 10' Jump Bank Shot (8 PTS),Made Shot,Jump Bank Shot,1,0
+384,519,PT07M45.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+385,520,PT07M45.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0
+386,522,PT07M25.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,-28,112,12,Made,1,102,71,173,h,Clarke 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,0
+387,523,PT07M07.00S,4,1610612743,DEN,1628971,Brown,B. Brown,86,58,10,Missed,1,,,0,v,MISS Brown 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+388,524,PT07M04.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+389,525,PT06M57.00S,4,1610612763,MEM,1626145,Jones,T. Jones,-66,85,11,Missed,1,,,0,h,MISS Jones 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+390,526,PT06M54.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+391,527,PT06M50.00S,4,1610612743,DEN,201145,Green,J. Green,62,32,7,Missed,1,,,0,v,MISS Green 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+392,528,PT06M45.00S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+393,529,PT06M45.00S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,Made,1,102,73,175,v,Bryant Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,0
+394,530,PT06M32.00S,4,1610612763,MEM,1626145,Jones,T. Jones,-135,220,26,Missed,1,,,0,h,MISS Jones 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+395,531,PT06M30.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+396,532,PT06M24.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,-141,213,26,Missed,1,,,0,v,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+397,533,PT06M20.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+398,534,PT06M10.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,-120,235,26,Made,1,105,73,178,h,Kennard 26' 3PT Jump Shot (12 PTS) (Jones 5 AST),Made Shot,Jump Shot,1,0
+399,536,PT05M57.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,9,4,1,Made,1,105,75,180,v,Jackson 1' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+400,537,PT05M44.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,105,239,26,Missed,1,,,0,h,MISS Aldama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+401,538,PT05M41.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+402,539,PT05M28.00S,4,1610612743,DEN,1631128,Braun,C. Braun,86,242,26,Made,1,105,78,183,v,Braun 26' 3PT Jump Shot (9 PTS) (Jackson 3 AST),Made Shot,Jump Shot,1,0
+403,541,PT05M09.00S,4,1610612763,MEM,1629723,Konchar,J. Konchar,-165,195,26,Missed,1,,,0,h,MISS Konchar 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+404,542,PT05M06.00S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+405,543,PT05M04.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama S.FOUL (P1.T2) (B.Adair),Foul,Shooting,1,0
+406,545,PT05M04.00S,4,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,105,79,184,v,Green Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0
+407,546,PT05M04.00S,4,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,105,80,185,v,Green Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0
+408,547,PT04M49.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+409,548,PT04M39.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama P.FOUL (P2.T3) (D.Guthrie),Foul,Personal,1,0
+410,550,PT04M31.00S,4,1610612743,DEN,1628971,Brown,B. Brown,118,201,23,Missed,1,,,0,v,MISS Brown 23' Jump Shot,Missed Shot,Jump Shot,1,0
+411,551,PT04M30.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+412,552,PT04M22.00S,4,1610612743,DEN,201145,Green,J. Green,114,219,25,Missed,1,,,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+413,553,PT04M21.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+414,554,PT04M15.00S,4,1610612763,MEM,1626145,Jones,T. Jones,104,238,26,Made,1,108,80,188,h,Jones 26' 3PT Running Pull-Up Jump Shot (17 PTS),Made Shot,Running Pull-Up Jump Shot,1,0
+415,555,PT04M15.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+416,556,PT04M15.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,SUB: Chandler FOR Kennard,Substitution,,0,0
+417,557,PT04M15.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,SUB: LaRavia FOR Clarke,Substitution,,0,0
+418,558,PT04M15.00S,4,1610612763,MEM,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Lofton Jr. FOR Jones,Substitution,,0,0
+419,559,PT04M15.00S,4,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,SUB: Williams FOR Konchar,Substitution,,0,0
+420,560,PT04M15.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,SUB: Roddy FOR Aldama,Substitution,,0,0
+421,561,PT04M15.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,SUB: Smith FOR Jackson,Substitution,,0,0
+422,562,PT04M15.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,SUB: Watson FOR Brown,Substitution,,0,0
+423,563,PT04M15.00S,4,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,v,SUB: White FOR Green,Substitution,,0,0
+424,572,PT04M02.00S,4,1610612743,DEN,1631212,Watson,P. Watson,-81,239,25,Made,1,108,83,191,v,Watson 25' 3PT Jump Shot (3 PTS) (Braun 2 AST),Made Shot,Jump Shot,1,0
+425,574,PT03M50.00S,4,1610612763,MEM,1631113,Chandler,K. Chandler,-2,0,0,Made,1,110,83,193,h,Chandler Cutting Finger Roll Layup Shot (2 PTS) (Lofton Jr. 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,0
+426,576,PT03M39.00S,4,1610612743,DEN,1631128,Braun,C. Braun,-7,8,1,Made,1,110,85,195,v,Braun 1' Driving Layup (11 PTS) (White 1 AST),Made Shot,Driving Layup Shot,1,0
+427,577,PT03M23.00S,4,1610612763,MEM,1631254,Lofton Jr.,K. Lofton Jr.,-6,122,12,Made,1,112,85,197,h,Lofton Jr. 12' Turnaround Fadeaway (2 PTS) (Chandler 1 AST),Made Shot,Turnaround Fadeaway shot,1,0
+428,579,PT03M12.00S,4,1610612743,DEN,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0
+429,579,PT03M12.00S,4,1610612763,MEM,1631254,Lofton Jr.,K. Lofton Jr.,0,0,0,,0,,,0,h,Lofton Jr. STEAL (1 STL),,,1,0
+430,581,PT03M08.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-232,11,0,Missed,1,,,0,h,MISS Roddy 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+431,582,PT03M03.00S,4,1610612763,MEM,1630533,Williams,Z. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+432,583,PT02M52.00S,4,1610612763,MEM,1631113,Chandler,K. Chandler,-21,29,4,Missed,1,,,0,h,MISS Chandler 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+433,584,PT02M50.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+434,586,PT02M34.00S,4,1610612763,MEM,1630533,Williams,Z. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P1.T4) (D.Guthrie),Foul,Shooting,1,0
+435,588,PT02M34.00S,4,1610612743,DEN,1631298,White,J. White,0,0,0,,0,112,86,198,v,White Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+436,589,PT02M34.00S,4,1610612743,DEN,1631298,White,J. White,0,0,0,,0,,,0,v,MISS White Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+437,590,PT02M29.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+438,591,PT02M21.00S,4,1610612763,MEM,1630533,Williams,Z. Williams,126,212,25,Missed,1,,,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+439,592,PT02M18.00S,4,1610612743,DEN,1631298,White,J. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+440,593,PT02M10.00S,4,1610612743,DEN,1631298,White,J. White,-77,237,25,Made,1,112,89,201,v,White 25' 3PT Jump Shot (4 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,0
+441,595,PT01M56.00S,4,1610612743,DEN,1631298,White,J. White,0,0,0,,0,,,0,v,White P.FOUL (P1.T2) (B.Adair),Foul,Personal,1,0
+442,597,PT01M43.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,202,8,20,Missed,1,,,0,h,MISS Roddy 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+443,598,PT01M40.00S,4,1610612743,DEN,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+444,599,PT01M35.00S,4,1610612743,DEN,1631298,White,J. White,-230,20,0,Made,1,112,92,204,v,White 3PT Running Jump Shot (7 PTS) (Smith 2 AST),Made Shot,Running Jump Shot,1,0
+445,601,PT01M14.00S,4,1610612763,MEM,1630533,Williams,Z. Williams,0,0,0,,0,,,0,h,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+446,602,PT01M01.00S,4,1610612743,DEN,202397,Smith,I. Smith,55,166,17,Made,1,112,94,206,v,Smith 17' Pullup Jump Shot (2 PTS) (White 2 AST),Made Shot,Pullup Jump shot,1,0
+447,605,PT00M37.70S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,181,189,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+448,606,PT00M35.60S,4,1610612763,MEM,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+449,607,PT00M33.10S,4,1610612763,MEM,1631254,Lofton Jr.,K. Lofton Jr.,66,268,28,Missed,1,,,0,h,MISS Lofton Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+450,608,PT00M30.90S,4,1610612743,DEN,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+451,609,PT00M22.60S,4,1610612743,DEN,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0
+452,609,PT00M22.60S,4,1610612763,MEM,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler STEAL (1 STL),,,1,0
+453,611,PT00M00.00S,4,0,,0,,,0,0,0,,0,112,94,206,,End of 4th Period (10:10 PM EST),period,end,1,0

@@ -1,0 +1,448 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Jump Ball Dieng vs. Lopez: Tip to Young,Jump Ball,,1,0
+3,2,PT11M41.00S,1,1610612751,BKN,201152,Young,T. Young,165,25,17,Missed,1,0,0,0,v,MISS Young 17' Jump Shot,Missed Shot,Jump Shot,1,0
+4,3,PT11M40.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+5,4,PT11M18.00S,1,1610612750,MIN,203940,Payne,A. Payne,20,15,3,Missed,1,0,0,0,h,MISS Payne 3' Layup,Missed Shot,Layup Shot,1,0
+6,5,PT11M17.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+7,6,PT11M04.00S,1,1610612751,BKN,101114,Williams,D. Williams,-141,200,24,Missed,1,0,0,0,v,MISS D. Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+8,7,PT11M03.00S,1,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+9,8,PT10M43.00S,1,1610612751,BKN,201152,Young,T. Young,42,192,20,Missed,1,0,0,0,v,MISS Young 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+10,9,PT10M42.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+11,10,PT10M37.00S,1,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0
+12,11,PT10M24.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne S.FOUL (P1.T1),Foul,Shooting,1,0
+13,12,PT10M24.00S,1,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,1,1,v,D. Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+14,14,PT10M24.00S,1,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,2,2,v,D. Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+15,17,PT10M02.00S,1,1610612750,MIN,2755,Martin,K. Martin,154,22,16,Missed,1,0,0,0,h,MISS Martin 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+16,18,PT10M01.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+17,19,PT09M47.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,225,113,25,Made,1,0,5,5,v,Johnson 25' 3PT Jump Shot (3 PTS) (D. Williams 1 AST),Made Shot,Jump Shot,1,0
+18,20,PT09M33.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,-205,89,22,Made,1,2,5,7,h,Wiggins 22' Jump Shot (2 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,0
+19,21,PT09M16.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,149,192,24,Missed,1,0,0,0,v,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+20,22,PT09M14.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+21,23,PT09M07.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,9,7,1,Made,1,2,7,9,v,Lopez 1' Layup (2 PTS) (Johnson 1 AST),Made Shot,Layup Shot,1,0
+22,24,PT08M52.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,130,34,13,Made,1,4,7,11,h,Dieng 13' Jump Bank Shot (2 PTS) (Martin 2 AST),Made Shot,Jump Bank Shot,1,0
+23,25,PT08M30.00S,1,1610612751,BKN,203900,Brown,M. Brown,6,0,1,Made,1,4,9,13,v,Brown 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+24,27,PT08M06.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,179,178,25,Missed,1,0,0,0,h,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+25,28,PT08M05.00S,1,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+26,29,PT07M53.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,29,60,7,Missed,1,0,0,0,v,MISS Johnson 7' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+27,30,PT07M52.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+28,31,PT07M42.00S,1,1610612751,BKN,203900,Brown,M. Brown,0,-2,0,Missed,1,0,0,0,v,MISS Brown  Dunk,Missed Shot,Dunk Shot,1,0
+29,32,PT07M40.00S,1,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+30,33,PT07M34.00S,1,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+31,33,PT07M34.00S,1,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,Brown STEAL (1 STL),,,1,0
+32,34,PT07M22.00S,1,1610612751,BKN,201152,Young,T. Young,0,1,0,Made,1,4,11,15,v,Young  Slam Dunk (2 PTS) (Johnson 2 AST),Made Shot,Slam Dunk Shot,1,0
+33,35,PT07M21.00S,1,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+34,37,PT07M21.00S,1,0,,20,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+35,38,PT07M08.00S,1,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young S.FOUL (P1.T1),Foul,Shooting,1,0
+36,39,PT07M08.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,MISS Wiggins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+37,40,PT07M08.00S,1,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Rebound,Rebound,Normal Rebound,0,0
+38,41,PT07M08.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,5,11,16,h,Wiggins Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+39,43,PT06M52.00S,1,1610612751,BKN,201152,Young,T. Young,-23,42,5,Made,1,5,13,18,v,Young 5' Jump Shot (4 PTS) (Johnson 3 AST),Made Shot,Jump Shot,1,0
+40,45,PT06M38.00S,1,1610612750,MIN,2755,Martin,K. Martin,-49,47,7,Made,1,7,13,20,h,Martin 7' Floating Jump Shot (2 PTS) (LaVine 1 AST),Made Shot,Floating Jump shot,1,0
+41,46,PT06M26.00S,1,1610612751,BKN,101114,Williams,D. Williams,124,137,18,Made,1,7,15,22,v,D. Williams 18' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,0
+42,47,PT06M07.00S,1,1610612750,MIN,203897,LaVine,Z. LaVine,-108,224,25,Made,1,10,15,25,h,LaVine 25' 3PT Jump Shot (3 PTS) (Dieng 1 AST),Made Shot,Jump Shot,1,0
+43,48,PT05M57.00S,1,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+44,48,PT05M57.00S,1,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine STEAL (1 STL),,,1,0
+45,49,PT05M51.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,-8,4,1,Made,1,12,15,27,h,Wiggins 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+46,50,PT05M34.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,29,36,5,Made,1,12,17,29,v,Lopez 5' Jump Bank Shot (4 PTS) (D. Williams 2 AST),Made Shot,Jump Bank Shot,1,0
+47,51,PT05M16.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+48,51,PT05M16.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez STEAL (1 STL),,,1,0
+49,52,PT05M05.00S,1,1610612751,BKN,101114,Williams,D. Williams,9,104,10,Made,1,12,19,31,v,D. Williams 10' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,1,0
+50,53,PT04M46.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,151,55,16,Missed,1,0,0,0,h,MISS Dieng 16' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+51,54,PT04M44.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+52,55,PT04M42.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,-11,213,21,Missed,1,0,0,0,h,MISS Wiggins 21' Jump Shot,Missed Shot,Jump Shot,1,0
+53,56,PT04M41.00S,1,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+54,57,PT04M35.00S,1,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+55,57,PT04M35.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne STEAL (1 STL),,,1,0
+56,58,PT04M31.00S,1,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0
+57,58,PT04M31.00S,1,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams STEAL (1 STL),,,1,0
+58,59,PT04M25.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,-51,42,7,Made,1,12,21,33,v,Johnson 7' Jump Bank Shot (5 PTS),Made Shot,Jump Bank Shot,1,0
+59,60,PT04M09.00S,1,1610612750,MIN,203897,LaVine,Z. LaVine,146,208,25,Made,1,15,21,36,h,LaVine 25' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,1,0
+60,61,PT03M57.00S,1,1610612751,BKN,101114,Williams,D. Williams,-8,58,6,Missed,1,0,0,0,v,MISS D. Williams 6' Jump Shot,Missed Shot,Jump Shot,1,0
+61,62,PT03M56.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+62,63,PT03M49.00S,1,1610612750,MIN,2755,Martin,K. Martin,163,154,22,Missed,1,0,0,0,h,MISS Martin 22' Jump Shot,Missed Shot,Jump Shot,1,0
+63,64,PT03M48.00S,1,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+64,65,PT03M40.00S,1,1610612751,BKN,201152,Young,T. Young,1,14,1,Missed,1,0,0,0,v,MISS Young 1' Layup,Missed Shot,Layup Shot,1,0
+65,65,PT03M40.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng BLOCK (1 BLK),,,1,0
+66,66,PT03M39.00S,1,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+67,67,PT03M38.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne S.FOUL (P2.T2),Foul,Shooting,1,0
+68,68,PT03M38.00S,1,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,15,22,37,v,Young Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+69,70,PT03M38.00S,1,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,SUB: Jack FOR D. Williams,Substitution,,0,0
+70,71,PT03M38.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,SUB: Plumlee FOR Lopez,Substitution,,0,0
+71,72,PT03M38.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,SUB: Hamilton FOR Payne,Substitution,,0,0
+72,73,PT03M38.00S,1,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,15,23,38,v,Young Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+73,75,PT03M28.00S,1,1610612750,MIN,2755,Martin,K. Martin,67,241,25,Made,1,18,23,41,h,Martin 25' 3PT Jump Shot (5 PTS) (LaVine 2 AST),Made Shot,Jump Shot,1,0
+74,76,PT03M07.00S,1,1610612751,BKN,101127,Jack,J. Jack,-226,36,0,Missed,1,0,0,0,v,MISS Jack  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+75,77,PT03M06.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+76,79,PT03M01.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,SUB: Budinger FOR Wiggins,Substitution,,0,0
+77,80,PT02M51.00S,1,1610612750,MIN,2755,Martin,K. Martin,13,113,11,Missed,1,0,0,0,h,MISS Martin 11' Jump Shot,Missed Shot,Jump Shot,1,0
+78,82,PT02M50.00S,1,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+79,81,PT02M50.00S,1,1610612750,MIN,203120,Hamilton,J. Hamilton,0,17,2,Made,1,20,23,43,h,Hamilton 2' Tip Shot (2 PTS),Made Shot,Tip Shot,1,0
+80,83,PT02M28.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,-191,173,26,Missed,1,0,0,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+81,84,PT02M27.00S,1,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+82,85,PT02M16.00S,1,1610612750,MIN,201978,Budinger,C. Budinger,6,12,1,Made,1,22,23,45,h,Budinger 1' Driving Layup (2 PTS) (Hamilton 1 AST),Made Shot,Driving Layup Shot,1,0
+83,86,PT02M04.00S,1,1610612751,BKN,101127,Jack,J. Jack,13,71,7,Made,1,22,25,47,v,Jack 7' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,1,0
+84,87,PT01M50.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,1,0,Made,1,24,25,49,h,Dieng  Slam Dunk (4 PTS) (Martin 3 AST),Made Shot,Slam Dunk Shot,1,0
+85,88,PT01M30.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,32,190,19,Made,1,24,27,51,v,Johnson 19' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,0
+86,89,PT01M15.00S,1,1610612750,MIN,203897,LaVine,Z. LaVine,-116,211,24,Missed,1,0,0,0,h,MISS LaVine 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+87,90,PT01M14.00S,1,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+88,91,PT01M09.00S,1,1610612751,BKN,201152,Young,T. Young,-7,20,2,Missed,1,0,0,0,v,MISS Young 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+89,91,PT01M09.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng BLOCK (2 BLK),,,1,0
+90,92,PT01M08.00S,1,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+91,93,PT01M08.00S,1,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+92,94,PT01M08.00S,1,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,SUB: Jefferson FOR Young,Substitution,,0,0
+93,95,PT01M05.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,129,175,22,Made,1,24,29,53,v,Johnson 22' Jump Shot (9 PTS) (Brown 1 AST),Made Shot,Jump Shot,0,0
+94,97,PT00M46.00S,1,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee S.FOUL (P1.T2),Foul,Shooting,1,0
+95,98,PT00M46.00S,1,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,25,29,54,h,Hamilton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+96,100,PT00M46.00S,1,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,26,29,55,h,Hamilton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+97,102,PT00M36.30S,1,1610612751,BKN,2207,Johnson,J. Johnson,13,83,8,Made,1,26,31,57,v,Johnson 8' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,1,0
+98,103,PT00M32.00S,1,1610612750,MIN,203897,LaVine,Z. LaVine,-101,236,26,Made,1,29,31,60,h,LaVine 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,0
+99,104,PT00M12.80S,1,1610612751,BKN,203928,Jefferson,C. Jefferson,0,1,0,Made,1,29,33,62,v,Jefferson  Slam Dunk (2 PTS) (Jack 1 AST),Made Shot,Slam Dunk Shot,1,0
+100,105,PT00M01.00S,1,1610612750,MIN,2755,Martin,K. Martin,110,146,18,Missed,1,0,0,0,h,MISS Martin 18' Jump Shot,Missed Shot,Jump Shot,1,0
+101,106,PT00M00.00S,1,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0
+102,108,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,33,62,,End of 1st Period (8:33 PM EST),period,end,0,0
+103,111,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,33,62,,Start of 2nd Period (8:36 PM EST),period,start,0,0
+104,112,PT11M49.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,45,86,10,Made,1,31,33,64,h,Budinger 10' Running Jump Shot (4 PTS) (LaVine 3 AST),Made Shot,Running Jump Shot,1,0
+105,113,PT11M37.00S,2,1610612751,BKN,101127,Jack,J. Jack,2,205,21,Made,1,31,35,66,v,Jack 21' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+106,114,PT11M17.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,0,1,0,Made,1,33,35,68,h,Hamilton  Dunk (6 PTS) (Dieng 2 AST),Made Shot,Dunk Shot,1,0
+107,115,PT11M06.00S,2,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,-4,61,6,Made,1,33,37,70,v,Bogdanovic 6' Jump Shot (2 PTS) (Jack 2 AST),Made Shot,Jump Shot,1,0
+108,116,PT10M54.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,144,116,18,Made,1,35,37,72,h,LaVine 18' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,0
+109,117,PT10M44.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine S.FOUL (P1.T1),Foul,Shooting,1,0
+110,118,PT10M44.00S,2,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,35,38,73,v,Jack Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+111,120,PT10M44.00S,2,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Brown,Substitution,,0,0
+112,121,PT10M44.00S,2,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,35,39,74,v,Jack Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+113,123,PT10M35.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,31,19,4,Missed,1,0,0,0,h,MISS LaVine 4' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+114,124,PT10M34.00S,2,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+115,125,PT10M32.00S,2,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+116,125,PT10M32.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,h,Budinger STEAL (1 STL),,,1,0
+117,126,PT10M25.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,236,3,24,Made,1,38,39,77,h,LaVine 24' 3PT Jump Shot (14 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,1,0
+118,127,PT10M14.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine S.FOUL (P2.T2),Foul,Shooting,1,0
+119,128,PT10M14.00S,2,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,38,40,78,v,Jack Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+120,130,PT10M14.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,SUB: Brown FOR LaVine,Substitution,,0,0
+121,131,PT10M14.00S,2,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,38,41,79,v,Jack Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+122,134,PT09M57.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,132,34,14,Missed,1,0,0,0,h,MISS Wiggins 14' Jump Shot,Missed Shot,Jump Shot,1,0
+123,136,PT09M55.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+124,135,PT09M55.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,6,3,1,Missed,1,0,0,0,h,MISS Hamilton 1' Tip Shot,Missed Shot,Tip Shot,1,0
+125,138,PT09M54.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+126,137,PT09M54.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,7,3,1,Made,1,40,41,81,h,Wiggins 1' Tip Shot (7 PTS),Made Shot,Tip Shot,1,0
+127,139,PT09M36.00S,2,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,124,119,17,Made,1,40,43,83,v,Bogdanovic 17' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+128,140,PT09M17.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,133,36,14,Missed,1,0,0,0,h,MISS Hamilton 14' Jump Shot,Missed Shot,Jump Shot,1,0
+129,141,PT09M16.00S,2,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+130,142,PT09M14.00S,2,1610612750,MIN,203485,Brown,L. Brown,-90,1,9,Missed,1,0,0,0,h,MISS Brown 9' Jump Shot,Missed Shot,Jump Shot,1,0
+131,143,PT09M13.00S,2,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,Brown REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+132,144,PT09M11.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,95,224,24,Missed,1,0,0,0,h,MISS Budinger 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+133,145,PT09M09.00S,2,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+134,146,PT09M02.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng Shooting Block Foul (P1.T3),Foul,Shooting Block,1,0
+135,147,PT09M02.00S,2,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+136,148,PT09M02.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Normal Rebound,0,0
+137,149,PT09M02.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,SUB: Payne FOR Dieng,Substitution,,0,0
+138,150,PT09M02.00S,2,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,MISS Jefferson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+139,152,PT09M02.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+140,153,PT08M38.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,7,7,1,Missed,1,0,0,0,h,MISS Hamilton 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+141,154,PT08M36.00S,2,1610612751,BKN,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+142,155,PT08M26.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins P.FOUL (P1.T4),Foul,Personal,1,0
+143,156,PT08M26.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+144,158,PT08M14.00S,2,1610612751,BKN,101187,Anderson,A. Anderson,166,195,26,Made,1,40,46,86,v,Anderson 26' 3PT Jump Shot (3 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,1,0
+145,159,PT07M56.00S,2,1610612750,MIN,203940,Payne,A. Payne,-26,219,22,Missed,1,0,0,0,h,MISS Payne 22' Jump Shot,Missed Shot,Jump Shot,1,0
+146,160,PT07M55.00S,2,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+147,161,PT07M45.00S,2,1610612751,BKN,203928,Jefferson,C. Jefferson,-45,75,9,Missed,1,0,0,0,v,MISS Jefferson 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+148,162,PT07M44.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,h,Budinger REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+149,163,PT07M40.00S,2,1610612751,BKN,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson P.FOUL (P1.T1),Foul,Personal,1,0
+150,164,PT07M27.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,-5,1,1,Made,1,42,46,88,h,Budinger 1' Layup (6 PTS) (Brown 1 AST),Made Shot,Layup Shot,1,0
+151,165,PT07M10.00S,2,1610612751,BKN,203486,Plumlee,M. Plumlee,0,1,0,Made,1,42,48,90,v,Plumlee  Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,0
+152,166,PT06M50.00S,2,1610612750,MIN,203485,Brown,L. Brown,102,190,22,Missed,1,0,0,0,h,MISS Brown 22' Jump Shot,Missed Shot,Jump Shot,1,0
+153,167,PT06M50.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+154,168,PT06M42.00S,2,1610612751,BKN,101127,Jack,J. Jack,24,-3,2,Missed,1,0,0,0,v,MISS Jack 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+155,169,PT06M40.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+156,170,PT06M32.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,233,34,24,Made,1,45,48,93,h,Budinger 24' 3PT Jump Shot (9 PTS) (Brown 2 AST),Made Shot,Jump Shot,1,0
+157,171,PT06M11.00S,2,1610612751,BKN,101187,Anderson,A. Anderson,-138,115,18,Missed,1,0,0,0,v,MISS Anderson 18' Jump Shot,Missed Shot,Jump Shot,1,0
+158,172,PT06M10.00S,2,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0
+159,173,PT06M10.00S,2,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,Jefferson P.FOUL (P1.T2),Foul,Personal,1,0
+160,174,PT05M53.00S,2,1610612751,BKN,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson S.FOUL (P2.T3),Foul,Shooting,1,0
+161,175,PT05M53.00S,2,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+162,177,PT05M53.00S,2,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,SUB: D. Williams FOR Jack,Substitution,,0,0
+163,178,PT05M53.00S,2,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,SUB: Brown FOR Jefferson,Substitution,,0,0
+164,179,PT05M53.00S,2,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Lopez FOR Plumlee,Substitution,,0,0
+165,180,PT05M53.00S,2,1610612751,BKN,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,SUB: Young FOR Anderson,Substitution,,0,0
+166,181,PT05M53.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,46,48,94,h,Wiggins Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+167,183,PT05M53.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,47,48,95,h,Wiggins Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+168,186,PT05M31.00S,2,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,26,-8,3,Made,1,47,50,97,v,Bogdanovic 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+169,187,PT05M07.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,105,132,17,Made,1,49,50,99,h,Hamilton 17' Jump Shot (8 PTS) (Payne 1 AST),Made Shot,Jump Shot,1,0
+170,188,PT04M50.00S,2,1610612751,BKN,203900,Brown,M. Brown,0,227,23,Missed,1,0,0,0,v,MISS Brown 23' Jump Shot,Missed Shot,Jump Shot,1,0
+171,189,PT04M49.00S,2,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+172,190,PT04M37.00S,2,1610612750,MIN,203940,Payne,A. Payne,13,69,7,Made,1,51,50,101,h,Payne 7' Running Jump Shot (2 PTS) (Wiggins 2 AST),Made Shot,Running Jump Shot,1,0
+173,192,PT04M27.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,h,SUB: Martin FOR Budinger,Substitution,,0,0
+174,193,PT04M27.00S,2,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,SUB: LaVine FOR Brown,Substitution,,0,0
+175,194,PT04M27.00S,2,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,SUB: Johnson FOR Brown,Substitution,,0,0
+176,195,PT04M15.00S,2,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,-46,22,5,Missed,1,0,0,0,v,MISS Bogdanovic 5' Jump Shot,Missed Shot,Jump Shot,1,0
+177,195,PT04M15.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton BLOCK (1 BLK),,,1,0
+178,196,PT04M14.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+179,197,PT04M10.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+180,197,PT04M10.00S,2,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young STEAL (1 STL),,,1,0
+181,198,PT04M05.00S,2,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,2,11,1,Made,1,51,52,103,v,Bogdanovic 1' Driving Layup (8 PTS) (Young 1 AST),Made Shot,Driving Layup Shot,1,0
+182,199,PT03M54.00S,2,1610612750,MIN,203940,Payne,A. Payne,-89,23,9,Missed,1,0,0,0,h,MISS Payne 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+183,200,PT03M53.00S,2,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+184,201,PT03M41.00S,2,1610612751,BKN,201152,Young,T. Young,21,9,2,Made,1,51,54,105,v,Young 2' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+185,202,PT03M19.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0
+186,202,PT03M19.00S,2,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,v,Bogdanovic STEAL (1 STL),,,1,0
+187,203,PT03M14.00S,2,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,-105,140,18,Made,1,51,56,107,v,Bogdanovic 18' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,0
+188,204,PT03M13.00S,2,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+189,206,PT03M13.00S,2,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,SUB: Dieng FOR Payne,Substitution,,0,0
+190,207,PT03M13.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,SUB: Brown FOR LaVine,Substitution,,0,0
+191,208,PT03M01.00S,2,1610612750,MIN,203485,Brown,L. Brown,24,129,13,Missed,1,0,0,0,h,MISS Brown 13' Jump Shot,Missed Shot,Jump Shot,1,0
+192,209,PT03M00.00S,2,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,Brown REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+193,210,PT02M48.00S,2,1610612750,MIN,2755,Martin,K. Martin,-68,167,18,Made,1,53,56,109,h,Martin 18' Jump Shot (7 PTS) (Brown 3 AST),Made Shot,Jump Shot,1,0
+194,211,PT02M32.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,0,1,0,Made,1,53,58,111,v,Lopez  Jump Hook Shot (6 PTS) (D. Williams 3 AST),Made Shot,Jump Hook Shot,1,0
+195,212,PT02M14.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez S.FOUL (P1.T4),Foul,Shooting,1,0
+196,213,PT02M14.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+197,214,PT02M14.00S,2,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,SUB: LaVine FOR Brown,Substitution,,0,0
+198,215,PT02M14.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,54,58,112,h,Dieng Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+199,217,PT02M14.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,55,58,113,h,Dieng Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+200,219,PT02M00.00S,2,1610612751,BKN,201152,Young,T. Young,-37,11,4,Missed,1,0,0,0,v,MISS Young 4' Jump Shot,Missed Shot,Jump Shot,1,0
+201,220,PT01M59.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+202,221,PT01M58.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,6,17,2,Made,1,55,60,115,v,Lopez 2' Layup (8 PTS),Made Shot,Layup Shot,1,0
+203,222,PT01M58.00S,2,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton S.FOUL (P1.PN),Foul,Shooting,1,0
+204,223,PT01M58.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,55,61,116,v,Lopez Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+205,225,PT01M51.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine Double Dribble Turnover (P4.T7),Turnover,Double Dribble,1,0
+206,226,PT01M32.00S,2,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,89,242,26,Missed,1,0,0,0,v,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+207,227,PT01M31.00S,2,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,v,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+208,228,PT01M17.00S,2,1610612751,BKN,101114,Williams,D. Williams,-16,60,6,Made,1,55,63,118,v,D. Williams 6' Running Jump Shot (8 PTS),Made Shot,Running Jump Shot,1,0
+209,229,PT00M59.90S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0
+210,229,PT00M59.90S,2,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,v,Johnson STEAL (1 STL),,,1,0
+211,230,PT00M44.90S,2,1610612751,BKN,201152,Young,T. Young,23,7,2,Made,1,55,65,120,v,Young 2' Reverse Layup (10 PTS) (D. Williams 4 AST),Made Shot,Reverse Layup Shot,1,0
+212,231,PT00M38.90S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine Bad Pass Turnover (P5.T9),Turnover,Bad Pass,1,0
+213,231,PT00M38.90S,2,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,v,Johnson STEAL (2 STL),,,1,0
+214,232,PT00M35.90S,2,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,13,0,1,Made,1,55,67,122,v,Bogdanovic 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,0
+215,233,PT00M12.90S,2,1610612750,MIN,203897,LaVine,Z. LaVine,42,102,11,Missed,1,0,0,0,h,MISS LaVine 11' Jump Shot,Missed Shot,Jump Shot,1,0
+216,234,PT00M11.50S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+217,235,PT00M09.90S,2,1610612750,MIN,203476,Dieng,G. Dieng,59,25,6,Missed,1,0,0,0,h,MISS Dieng 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+218,236,PT00M08.60S,2,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,v,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+219,237,PT00M00.70S,2,1610612751,BKN,201572,Lopez,B. Lopez,-16,77,8,Missed,1,0,0,0,v,MISS Lopez 8' Jump Shot,Missed Shot,Jump Shot,1,0
+220,238,PT00M00.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+221,239,PT00M00.00S,2,0,,0,,,0,0,0,,0,55,67,122,,End of 2nd Period (9:02 PM EST),period,end,0,0
+222,241,PT12M00.00S,3,0,,0,,,0,0,0,,0,55,67,122,,Start of 3rd Period (9:18 PM EST),period,start,0,0
+223,242,PT11M40.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,v,Johnson P.FOUL (P1.T1),Foul,Personal,1,0
+224,243,PT11M33.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng OFF.Foul (P2),Foul,Offensive,1,0
+225,244,PT11M33.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng Foul Turnover (P1.T10),Turnover,Foul,1,0
+226,245,PT11M16.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,-224,105,25,Missed,1,0,0,0,v,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+227,246,PT11M15.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+228,247,PT11M14.00S,3,1610612750,MIN,203940,Payne,A. Payne,6,63,6,Missed,1,0,0,0,h,MISS Payne 6' Jump Shot,Missed Shot,Jump Shot,1,0
+229,247,PT11M14.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez BLOCK (1 BLK),,,1,0
+230,248,PT11M01.00S,3,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+231,249,PT10M54.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,1,58,6,Made,1,55,69,124,v,Johnson 6' Running Jump Shot (13 PTS),Made Shot,Running Jump Shot,1,0
+232,250,PT10M39.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,74,7,Missed,1,0,0,0,h,MISS Martin 7' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+233,251,PT10M38.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+234,252,PT10M27.00S,3,1610612751,BKN,101114,Williams,D. Williams,6,12,1,Missed,1,0,0,0,v,MISS D. Williams 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+235,252,PT10M27.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng BLOCK (3 BLK),,,1,0
+236,253,PT10M26.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+237,254,PT10M19.00S,3,1610612750,MIN,2755,Martin,K. Martin,-221,19,0,Made,1,58,69,127,h,Martin  3PT Jump Shot (10 PTS) (Payne 2 AST),Made Shot,Jump Shot,1,0
+238,255,PT10M04.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng P.FOUL (P3.T1),Foul,Personal,1,0
+239,256,PT09M55.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,-5,1,1,Made,1,58,71,129,v,Johnson 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,0
+240,257,PT09M37.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,-48,71,9,Missed,1,0,0,0,h,MISS Dieng 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+241,258,PT09M35.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,v,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+242,259,PT09M24.00S,3,1610612751,BKN,101114,Williams,D. Williams,97,135,17,Missed,1,0,0,0,v,MISS D. Williams 17' Jump Shot,Missed Shot,Jump Shot,1,0
+243,260,PT09M23.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+244,261,PT09M22.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+245,262,PT09M05.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine Bad Pass Turnover (P6.T11),Turnover,Bad Pass,1,0
+246,263,PT08M53.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,1,0,Made,1,58,73,131,v,Lopez  Slam Dunk (11 PTS) (D. Williams 5 AST),Made Shot,Slam Dunk Shot,1,0
+247,264,PT08M53.00S,3,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+248,266,PT08M53.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,SUB: Brown FOR LaVine,Substitution,,0,0
+249,267,PT08M42.00S,3,1610612750,MIN,2755,Martin,K. Martin,-163,39,17,Made,1,60,73,133,h,Martin 17' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+250,268,PT08M26.00S,3,1610612751,BKN,201152,Young,T. Young,-26,22,3,Missed,1,0,0,0,v,MISS Young 3' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+251,268,PT08M26.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng BLOCK (4 BLK),,,1,0
+252,269,PT08M25.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:5 Def:2),Rebound,Unknown,1,0
+253,270,PT08M24.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne S.FOUL (P3.T2),Foul,Shooting,1,0
+254,271,PT08M24.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,MISS Lopez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+255,272,PT08M24.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Normal Rebound,0,0
+256,273,PT08M24.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,SUB: Hamilton FOR Payne,Substitution,,0,0
+257,274,PT08M24.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,60,74,134,v,Lopez Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+258,276,PT08M15.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams S.FOUL (P1.T2),Foul,Shooting,1,0
+259,277,PT08M15.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,61,74,135,h,Martin Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+260,279,PT08M15.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,62,74,136,h,Martin Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+261,281,PT08M02.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,-232,37,0,Made,1,62,77,139,v,Johnson  3PT Jump Shot (18 PTS) (Young 2 AST),Made Shot,Jump Shot,1,0
+262,282,PT07M53.00S,3,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,Brown P.FOUL (P1.T3),Foul,Personal,1,0
+263,283,PT07M45.00S,3,1610612750,MIN,2755,Martin,K. Martin,-109,137,18,Missed,1,0,0,0,h,MISS Martin 18' Jump Shot,Missed Shot,Jump Shot,1,0
+264,284,PT07M44.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+265,285,PT07M31.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Traveling Turnover (P3.T12),Turnover,Traveling,1,0
+266,286,PT07M21.00S,3,1610612751,BKN,201152,Young,T. Young,6,75,8,Missed,1,0,0,0,v,MISS Young 8' Jump Shot,Missed Shot,Jump Shot,1,0
+267,287,PT07M20.00S,3,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,Brown REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+268,288,PT07M18.00S,3,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,Brown Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0
+269,288,PT07M18.00S,3,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young STEAL (2 STL),,,1,0
+270,289,PT07M15.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin S.FOUL (P1.T3),Foul,Shooting,1,0
+271,290,PT07M15.00S,3,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+272,291,PT07M15.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Normal Rebound,0,0
+273,292,PT07M15.00S,3,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,SUB: LaVine FOR Brown,Substitution,,0,0
+274,293,PT07M15.00S,3,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,62,78,140,v,Young Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+275,295,PT07M03.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,-194,17,19,Missed,1,0,0,0,h,MISS Wiggins 19' Jump Shot,Missed Shot,Jump Shot,1,0
+276,296,PT07M02.00S,3,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+277,297,PT06M58.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,0,-8,1,Made,1,62,80,142,v,Johnson 1' Driving Layup (20 PTS) (D. Williams 6 AST),Made Shot,Driving Layup Shot,1,0
+278,298,PT06M58.00S,3,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+279,300,PT06M46.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins Out of Bounds Lost Ball Turnover (P3.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0
+280,301,PT06M36.00S,3,1610612751,BKN,101114,Williams,D. Williams,-68,246,26,Missed,1,0,0,0,v,MISS D. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+281,302,PT06M35.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+282,303,PT06M30.00S,3,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,Brown S.FOUL (P2.T4),Foul,Shooting,1,0
+283,304,PT06M30.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,63,80,143,h,Martin Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+284,306,PT06M30.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,64,80,144,h,Martin Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+285,308,PT06M20.00S,3,1610612751,BKN,201152,Young,T. Young,1,-2,0,Made,1,64,82,146,v,Young  Running Layup (13 PTS),Made Shot,Running Layup Shot,1,0
+286,309,PT06M06.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,114,55,13,Made,1,66,82,148,h,Wiggins 13' Jump Shot (11 PTS) (Martin 4 AST),Made Shot,Jump Shot,1,0
+287,310,PT05M57.00S,3,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+288,310,PT05M57.00S,3,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton STEAL (1 STL),,,1,0
+289,311,PT05M52.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,0,1,0,Made,1,68,82,150,h,LaVine  Driving Slam Dunk (16 PTS) (Wiggins 3 AST),Made Shot,Driving Slam Dunk Shot,1,0
+290,312,PT05M37.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,7,7,1,Made,1,68,84,152,v,Lopez 1' Layup (14 PTS) (D. Williams 7 AST),Made Shot,Layup Shot,1,0
+291,313,PT05M18.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,-60,187,20,Missed,1,0,0,0,h,MISS Wiggins 20' Jump Shot,Missed Shot,Jump Shot,1,0
+292,314,PT05M17.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+293,315,PT05M04.00S,3,1610612751,BKN,101114,Williams,D. Williams,-89,56,11,Missed,1,0,0,0,v,MISS D. Williams 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+294,316,PT05M02.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:6 Def:2),Rebound,Unknown,1,0
+295,317,PT05M01.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,-4,1,0,Made,1,68,86,154,v,Lopez  Layup (16 PTS),Made Shot,Layup Shot,1,0
+296,318,PT04M49.00S,3,1610612750,MIN,2755,Martin,K. Martin,-90,227,24,Made,1,71,86,157,h,Martin 24' 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,1,0
+297,319,PT04M31.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,-120,119,17,Made,1,71,88,159,v,Johnson 17' Fadeaway Jumper (22 PTS),Made Shot,Fadeaway Jump Shot,1,0
+298,320,PT04M18.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Offensive Charge Foul (P2.T4),Foul,Offensive Charge,1,0
+299,321,PT04M18.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Foul Turnover (P4.T15),Turnover,Foul,1,0
+300,322,PT04M18.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,SUB: Payne FOR Dieng,Substitution,,0,0
+301,323,PT04M18.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,SUB: Plumlee FOR Lopez,Substitution,,0,0
+302,324,PT04M00.00S,3,1610612751,BKN,203486,Plumlee,M. Plumlee,6,30,3,Made,1,71,90,161,v,Plumlee 3' Layup (4 PTS),Made Shot,Layup Shot,1,0
+303,325,PT03M51.00S,3,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,Brown P.FOUL (P3.PN),Foul,Personal,1,0
+304,326,PT03M51.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,SUB: Jack FOR D. Williams,Substitution,,0,0
+305,327,PT03M51.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,72,90,162,h,Martin Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+306,329,PT03M51.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,SUB: Budinger FOR Wiggins,Substitution,,0,0
+307,330,PT03M51.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,73,90,163,h,Martin Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+308,332,PT03M42.00S,3,1610612751,BKN,201152,Young,T. Young,-4,61,6,Missed,1,0,0,0,v,MISS Young 6' Jump Shot,Missed Shot,Jump Shot,1,0
+309,333,PT03M41.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+310,335,PT03M33.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne OFF.Foul (P4),Foul,Offensive,1,0
+311,336,PT03M33.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne Foul Turnover (P1.T16),Turnover,Foul,1,0
+312,337,PT03M24.00S,3,1610612751,BKN,201152,Young,T. Young,-18,15,2,Missed,1,0,0,0,v,MISS Young 2' Layup,Missed Shot,Layup Shot,1,0
+313,338,PT03M22.00S,3,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+314,339,PT03M20.00S,3,1610612751,BKN,201152,Young,T. Young,20,11,2,Made,1,73,92,165,v,Young 2' Layup (15 PTS),Made Shot,Layup Shot,1,0
+315,340,PT03M02.00S,3,1610612750,MIN,203940,Payne,A. Payne,-108,168,20,Made,1,75,92,167,h,Payne 20' Jump Shot (4 PTS) (Martin 5 AST),Made Shot,Jump Shot,1,0
+316,341,PT03M02.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+317,343,PT03M02.00S,3,0,,318,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+318,344,PT03M02.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,SUB: Dieng FOR Payne,Substitution,,0,0
+319,345,PT03M02.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,v,SUB: Bogdanovic FOR Johnson,Substitution,,0,0
+320,346,PT02M51.00S,3,1610612751,BKN,203900,Brown,M. Brown,0,0,0,,0,0,0,0,v,Brown Traveling Turnover (P1.T6),Turnover,Traveling,1,0
+321,347,PT02M34.00S,3,1610612750,MIN,201978,Budinger,C. Budinger,-234,80,25,Made,1,78,92,170,h,Budinger 25' 3PT Jump Shot (12 PTS) (Martin 6 AST),Made Shot,Jump Shot,1,0
+322,348,PT02M16.00S,3,1610612751,BKN,203900,Brown,M. Brown,-64,203,21,Missed,1,0,0,0,v,MISS Brown 21' Jump Shot,Missed Shot,Jump Shot,1,0
+323,349,PT02M15.00S,3,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,h,Budinger REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+324,350,PT02M09.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,89,170,19,Missed,1,0,0,0,h,MISS LaVine 19' Jump Shot,Missed Shot,Jump Shot,1,0
+325,351,PT02M07.00S,3,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+326,352,PT01M50.00S,3,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,v,Bogdanovic 3 Second Violation Turnover (P1.T7),Turnover,3 Second Violation,1,0
+327,353,PT01M35.00S,3,1610612750,MIN,2755,Martin,K. Martin,9,105,11,Missed,1,0,0,0,h,MISS Martin 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+328,354,PT01M35.00S,3,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+329,355,PT01M26.00S,3,1610612751,BKN,201152,Young,T. Young,9,0,1,Made,1,78,94,172,v,Young 1' Layup (17 PTS) (Jack 3 AST),Made Shot,Layup Shot,1,0
+330,356,PT01M11.00S,3,1610612750,MIN,203120,Hamilton,J. Hamilton,-4,26,3,Missed,1,0,0,0,h,MISS Hamilton 3' Layup,Missed Shot,Layup Shot,1,0
+331,357,PT01M10.00S,3,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+332,358,PT01M04.00S,3,1610612751,BKN,201152,Young,T. Young,0,1,0,Made,1,78,96,174,v,Young  Layup (19 PTS) (Bogdanovic 2 AST),Made Shot,Layup Shot,1,0
+333,359,PT00M44.00S,3,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee P.FOUL (P2.PN),Foul,Personal,1,0
+334,360,PT00M44.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,79,96,175,h,Dieng Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+335,362,PT00M44.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,MISS Dieng Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+336,364,PT00M44.00S,3,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+337,365,PT00M35.20S,3,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,1,0
+338,366,PT00M30.90S,3,1610612750,MIN,203897,LaVine,Z. LaVine,121,145,19,Missed,1,0,0,0,h,MISS LaVine 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+339,367,PT00M29.70S,3,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,v,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+340,368,PT00M09.10S,3,1610612751,BKN,101127,Jack,J. Jack,15,15,2,Made,1,79,98,177,v,Jack 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+341,369,PT00M02.20S,3,1610612750,MIN,203897,LaVine,Z. LaVine,-89,26,9,Missed,1,0,0,0,h,MISS LaVine 9' Running Bank Shot,Missed Shot,Running Bank shot,1,0
+342,370,PT00M01.10S,3,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,v,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+343,371,PT00M00.00S,3,0,,0,,,0,0,0,,0,79,98,177,,End of 3rd Period (9:45 PM EST),period,end,0,0
+344,373,PT12M00.00S,4,0,,0,,,0,0,0,,0,79,98,177,,Start of 4th Period (9:47 PM EST),period,start,0,0
+345,374,PT11M45.00S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,6,186,19,Missed,1,0,0,0,v,MISS Jefferson 19' Jump Shot,Missed Shot,Jump Shot,1,0
+346,375,PT11M43.00S,4,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,Brown REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+347,376,PT11M23.00S,4,1610612750,MIN,2755,Martin,K. Martin,-56,154,16,Made,1,81,98,179,h,Martin 16' Jump Shot (23 PTS) (Hamilton 2 AST),Made Shot,Jump Shot,1,0
+348,377,PT11M00.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,95,119,15,Made,1,81,100,181,v,Bogdanovic 15' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,0
+349,378,PT10M40.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,12,3,1,Made,1,83,100,183,h,Budinger 1' Layup (14 PTS) (Dieng 3 AST),Made Shot,Layup Shot,1,0
+350,379,PT10M26.00S,4,1610612751,BKN,101127,Jack,J. Jack,0,56,6,Made,1,83,102,185,v,Jack 6' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,1,0
+351,380,PT10M09.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,0,20,2,Made,1,85,102,187,h,Hamilton 2' Layup (10 PTS),Made Shot,Layup Shot,1,0
+352,381,PT09M54.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,-229,20,0,Missed,1,0,0,0,v,MISS Bogdanovic  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+353,382,PT09M53.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+354,383,PT09M46.00S,4,1610612750,MIN,2755,Martin,K. Martin,185,157,24,Missed,1,0,0,0,h,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+355,383,PT09M46.00S,4,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack BLOCK (1 BLK),,,1,0
+356,384,PT09M44.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,h,Budinger REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+357,385,PT09M40.00S,4,1610612750,MIN,2755,Martin,K. Martin,-231,7,0,Missed,1,0,0,0,h,MISS Martin  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+358,386,PT09M39.00S,4,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+359,387,PT09M26.00S,4,1610612751,BKN,101127,Jack,J. Jack,43,37,6,Made,1,85,104,189,v,Jack 6' Running Jump Shot (14 PTS),Made Shot,Running Jump Shot,1,0
+360,388,PT09M08.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,-10,63,6,Made,1,87,104,191,h,Dieng 6' Running Jump Shot (9 PTS) (Brown 4 AST),Made Shot,Running Jump Shot,1,0
+361,389,PT08M53.00S,4,1610612751,BKN,101127,Jack,J. Jack,111,20,11,Missed,1,0,0,0,v,MISS Jack 11' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+362,390,PT08M51.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+363,391,PT08M41.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,23,19,3,Missed,1,0,0,0,h,MISS Hamilton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+364,392,PT08M40.00S,4,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+365,393,PT08M33.00S,4,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0
+366,395,PT08M33.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+367,396,PT08M33.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,SUB: Payne FOR Dieng,Substitution,,0,0
+368,397,PT08M33.00S,4,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,SUB: Wiggins FOR Martin,Substitution,,0,0
+369,398,PT08M13.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,2,3,0,Made,1,89,104,193,h,Budinger  Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,0
+370,399,PT07M57.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,45,127,13,Made,1,89,106,195,v,Bogdanovic 13' Fadeaway Jumper (16 PTS) (Jack 4 AST),Made Shot,Fadeaway Jump Shot,1,0
+371,400,PT07M42.00S,4,1610612750,MIN,203940,Payne,A. Payne,89,184,20,Missed,1,0,0,0,h,MISS Payne 20' Jump Shot,Missed Shot,Jump Shot,1,0
+372,401,PT07M41.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,v,Bogdanovic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+373,402,PT07M18.00S,4,1610612751,BKN,101127,Jack,J. Jack,149,116,19,Missed,1,0,0,0,v,MISS Jack 19' Jump Shot,Missed Shot,Jump Shot,1,0
+374,403,PT07M17.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,h,Budinger REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+375,404,PT07M08.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,6,14,2,Made,1,91,106,197,h,Hamilton 2' Layup (12 PTS),Made Shot,Layup Shot,1,0
+376,405,PT07M08.00S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,Jefferson S.FOUL (P2.T1),Foul,Shooting,1,0
+377,406,PT07M08.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,92,106,198,h,Hamilton Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0
+378,408,PT06M58.00S,4,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,Payne S.FOUL (P5.T1),Foul,Shooting,1,0
+379,409,PT06M58.00S,4,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,92,107,199,v,Plumlee Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+380,411,PT06M58.00S,4,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0,0,0,h,SUB: Dieng FOR Payne,Substitution,,0,0
+381,412,PT06M58.00S,4,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,92,108,200,v,Plumlee Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+382,414,PT06M46.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,7,153,15,Missed,1,0,0,0,h,MISS Hamilton 15' Jump Shot,Missed Shot,Jump Shot,1,0
+383,415,PT06M45.00S,4,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+384,416,PT06M40.00S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,9,14,2,Missed,1,0,0,0,v,MISS Jefferson 2' Layup,Missed Shot,Layup Shot,1,0
+385,416,PT06M40.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,Hamilton BLOCK (2 BLK),,,1,0
+386,417,PT06M38.00S,4,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+387,418,PT06M36.00S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,1,20,2,Missed,1,0,0,0,v,MISS Jefferson 2' Layup,Missed Shot,Layup Shot,1,0
+388,418,PT06M36.00S,4,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,Brown BLOCK (1 BLK),,,1,0
+389,419,PT06M35.00S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,Jefferson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+390,420,PT06M34.00S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,0,-2,0,Made,1,92,110,202,v,Jefferson  Layup (4 PTS),Made Shot,Layup Shot,1,0
+391,421,PT06M13.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,84,17,9,Made,1,94,110,204,h,Hamilton 9' Jump Hook Shot (15 PTS) (Budinger 1 AST),Made Shot,Jump Hook Shot,1,0
+392,422,PT06M05.00S,4,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,Brown P.FOUL (P1.T2),Foul,Personal,1,0
+393,423,PT05M55.00S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,Jefferson Offensive Charge Foul (P3.T2),Foul,Offensive Charge,1,0
+394,424,PT05M55.00S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,Jefferson Foul Turnover (P1.T10),Turnover,Foul,1,0
+395,425,PT05M55.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+396,426,PT05M55.00S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,SUB: Young FOR Jefferson,Substitution,,0,0
+397,428,PT05M34.00S,4,1610612750,MIN,203485,Brown,L. Brown,-183,67,19,Missed,1,0,0,0,h,MISS Brown 19' Jump Shot,Missed Shot,Jump Shot,1,0
+398,429,PT05M31.00S,4,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+399,430,PT05M18.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,75,239,25,Made,1,94,113,207,v,Bogdanovic 25' 3PT Fadeaway Jumper (19 PTS) (Jack 5 AST),Made Shot,Fadeaway Jump Shot,1,0
+400,431,PT05M04.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,2,15,2,Missed,1,0,0,0,h,MISS Hamilton 2' Dunk,Missed Shot,Dunk Shot,1,0
+401,432,PT05M03.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+402,433,PT05M02.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,7,6,1,Missed,1,0,0,0,h,MISS Wiggins 1' Putback Dunk,Missed Shot,Putback Dunk Shot,1,0
+403,434,PT05M00.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,v,Bogdanovic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+404,435,PT04M56.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,0,1,0,Made,1,94,115,209,v,Bogdanovic  Driving Dunk (21 PTS),Made Shot,Driving Dunk Shot,1,0
+405,436,PT04M48.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,v,Bogdanovic Violation:Kicked Ball,Violation,Kicked Ball,0,0
+406,437,PT04M43.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,1,0,Made,1,96,115,211,h,Wiggins  Driving Dunk (13 PTS) (Dieng 4 AST),Made Shot,Driving Dunk Shot,1,0
+407,438,PT04M29.00S,4,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0
+408,439,PT04M12.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,0,208,21,Missed,1,0,0,0,h,MISS Hamilton 21' Jump Shot,Missed Shot,Jump Shot,1,0
+409,440,PT04M11.00S,4,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:9),Rebound,Unknown,1,0
+410,441,PT03M58.00S,4,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0
+411,441,PT03M58.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng STEAL (1 STL),,,1,0
+412,442,PT03M53.00S,4,1610612750,MIN,203485,Brown,L. Brown,6,9,1,Missed,1,0,0,0,h,MISS Brown 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+413,444,PT03M52.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+414,443,PT03M52.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,-1,11,1,Made,1,98,115,213,h,Dieng 1' Tip Shot (11 PTS),Made Shot,Tip Shot,1,0
+415,445,PT03M31.00S,4,1610612751,BKN,101127,Jack,J. Jack,0,93,9,Made,1,98,117,215,v,Jack 9' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,1,0
+416,446,PT03M10.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,4,58,6,Made,1,100,117,217,h,Budinger 6' Running Jump Shot (18 PTS) (Brown 5 AST),Made Shot,Running Jump Shot,1,0
+417,447,PT02M54.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,v,Bogdanovic Discontinue Dribble Turnover (P2.T13),Turnover,Discontinue Dribble,1,0
+418,448,PT02M54.00S,4,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+419,450,PT02M54.00S,4,1610612750,MIN,203120,Hamilton,J. Hamilton,0,0,0,,0,0,0,0,h,SUB: Payne FOR Hamilton,Substitution,,0,0
+420,451,PT02M54.00S,4,1610612750,MIN,203485,Brown,L. Brown,0,0,0,,0,0,0,0,h,SUB: LaVine FOR Brown,Substitution,,0,0
+421,452,PT02M30.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,89,190,21,Missed,1,0,0,0,h,MISS Wiggins 21' Jump Shot,Missed Shot,Jump Shot,1,0
+422,453,PT02M29.00S,4,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+423,454,PT02M13.00S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,-112,129,17,Missed,1,0,0,0,v,MISS Bogdanovic 17' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+424,455,PT02M12.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+425,456,PT02M02.00S,4,1610612750,MIN,203940,Payne,A. Payne,20,203,20,Made,1,102,117,219,h,Payne 20' Jump Shot (6 PTS) (Budinger 2 AST),Made Shot,Jump Shot,1,0
+426,457,PT02M00.00S,4,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0
+427,458,PT02M00.00S,4,1610612751,BKN,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Jordan FOR Plumlee,Substitution,,0,0
+428,459,PT02M00.00S,4,1610612751,BKN,201152,Young,T. Young,0,0,0,,0,0,0,0,v,SUB: Jefferson FOR Young,Substitution,,0,0
+429,460,PT02M00.00S,4,1610612751,BKN,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,SUB: Morris FOR Jack,Substitution,,0,0
+430,461,PT01M45.00S,4,1610612751,BKN,101187,Anderson,A. Anderson,-120,14,12,Missed,1,0,0,0,v,MISS Anderson 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+431,462,PT01M44.00S,4,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0,0,0,h,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+432,463,PT01M37.00S,4,1610612750,MIN,203897,LaVine,Z. LaVine,-4,22,2,Made,1,104,117,221,h,LaVine 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,0
+433,464,PT01M36.00S,4,1610612751,BKN,202366,Jordan,J. Jordan,0,0,0,,0,0,0,0,v,Jordan Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0
+434,464,PT01M36.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,h,Dieng STEAL (2 STL),,,1,0
+435,465,PT01M33.00S,4,1610612750,MIN,203897,LaVine,Z. LaVine,10,4,1,Made,1,106,117,223,h,LaVine 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,0
+436,466,PT01M14.00S,4,1610612751,BKN,202366,Jordan,J. Jordan,18,-3,2,Made,1,106,119,225,v,Jordan 2' Layup (2 PTS),Made Shot,Layup Shot,1,0
+437,467,PT00M57.60S,4,1610612751,BKN,203928,Jefferson,C. Jefferson,0,0,0,,0,0,0,0,v,Jefferson P.FOUL (P4.T3),Foul,Personal,1,0
+438,468,PT00M46.90S,4,1610612750,MIN,201978,Budinger,C. Budinger,132,93,16,Missed,1,0,0,0,h,MISS Budinger 16' Jump Shot,Missed Shot,Jump Shot,1,0
+439,469,PT00M45.80S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0,0,0,h,Wiggins REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+440,470,PT00M43.90S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,7,1,1,Missed,1,0,0,0,h,MISS Wiggins 1' Layup,Missed Shot,Layup Shot,1,0
+441,471,PT00M41.80S,4,1610612751,BKN,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+442,472,PT00M25.90S,4,1610612751,BKN,202711,Bogdanovic,B. Bogdanovic,102,184,21,Missed,1,0,0,0,v,MISS Bogdanovic 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+443,473,PT00M24.90S,4,1610612751,BKN,202721,Morris,D. Morris,0,0,0,,0,0,0,0,v,Morris REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+444,474,PT00M04.30S,4,1610612751,BKN,101187,Anderson,A. Anderson,-213,126,25,Made,1,106,122,228,v,Anderson 25' 3PT Jump Shot (6 PTS) (Morris 1 AST),Made Shot,Jump Shot,1,0
+445,475,PT00M00.50S,4,1610612750,MIN,203897,LaVine,Z. LaVine,-141,242,28,Missed,1,0,0,0,h,MISS LaVine 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+446,476,PT00M00.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0
+447,477,PT00M00.00S,4,0,,0,,,0,0,0,,0,106,122,228,,End of 4th Period (10:11 PM EST),period,end,0,0

@@ -1,0 +1,506 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:40 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Jump Ball Howard vs. Jokic: Tip to,Jump Ball,,1,0
+3,2,PT11M48.00S,1,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard P.FOUL (P1.T1) (S.Wall),Foul,Personal,1,0
+4,3,PT11M36.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,4,165,17,Missed,1,0,0,0,v,MISS Jokic 17' Jump Shot,Missed Shot,Jump Shot,1,0
+5,4,PT11M35.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+6,5,PT11M35.00S,1,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore L.B.FOUL (P1.T2) (E.Malloy),Foul,Loose Ball,1,0
+7,6,PT11M29.00S,1,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+8,6,PT11M29.00S,1,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore STEAL (1 STL),,,1,0
+9,7,PT11M20.00S,1,1610612737,ATL,203145,Bazemore,K. Bazemore,236,2,24,Made,1,3,0,3,h,Bazemore 24' 3PT Jump Shot (3 PTS) (Hardaway Jr. 1 AST),Made Shot,Jump Shot,1,0
+10,9,PT11M06.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+11,9,PT11M06.00S,1,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,0,0,0,h,Hardaway Jr. STEAL (1 STL),,,1,0
+12,11,PT10M52.00S,1,1610612737,ATL,203145,Bazemore,K. Bazemore,238,11,24,Made,1,6,0,6,h,Bazemore 24' 3PT Jump Shot (6 PTS) (Millsap 1 AST),Made Shot,Jump Shot,1,0
+13,12,PT10M41.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,-22,249,25,Missed,1,0,0,0,v,MISS Chandler 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+14,13,PT10M40.00S,1,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Unknown,0,0
+15,15,PT10M24.00S,1,1610612737,ATL,2730,Howard,D. Howard,-25,52,6,Missed,1,0,0,0,h,MISS Howard 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+16,16,PT10M21.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+17,17,PT10M10.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,238,36,24,Missed,1,0,0,0,v,MISS Jokic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+18,18,PT10M08.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,Millsap REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+19,19,PT10M00.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,-4,3,1,Missed,1,0,0,0,h,MISS Millsap 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+20,20,PT09M58.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+21,21,PT09M52.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,4,51,5,Made,1,6,2,8,v,Jokic 5' Floating Jump Shot (2 PTS) (Faried 1 AST),Made Shot,Floating Jump shot,1,0
+22,22,PT09M38.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,174,65,19,Made,1,8,2,10,h,Schroder 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+23,23,PT09M21.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,1,0,Made,1,8,4,12,v,Chandler  Driving Dunk (2 PTS) (Harris 1 AST),Made Shot,Driving Dunk Shot,1,0
+24,24,PT09M03.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,-104,144,18,Made,1,10,4,14,h,Schroder 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+25,25,PT08M43.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,12,124,12,Made,1,10,6,16,v,Chandler 12' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,0
+26,26,PT08M43.00S,1,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore S.FOUL (P2.T3) (S.Wall),Foul,Shooting,1,0
+27,27,PT08M43.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,10,7,17,v,Chandler Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+28,29,PT08M32.00S,1,1610612737,ATL,203145,Bazemore,K. Bazemore,2,82,8,Missed,1,0,0,0,h,MISS Bazemore 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+29,31,PT08M31.00S,1,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+30,30,PT08M31.00S,1,1610612737,ATL,2730,Howard,D. Howard,19,7,2,Missed,1,0,0,0,h,MISS Howard 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+31,32,PT08M29.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+32,33,PT08M23.00S,1,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+33,33,PT08M23.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder STEAL (1 STL),,,1,0
+34,34,PT08M16.00S,1,1610612737,ATL,203145,Bazemore,K. Bazemore,212,-1,21,Missed,1,0,0,0,h,MISS Bazemore 21' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+35,35,PT08M14.00S,1,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+36,36,PT08M14.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried S.FOUL (P1.T1) (S.Wall),Foul,Shooting,1,0
+37,37,PT08M14.00S,1,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+38,38,PT08M14.00S,1,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,0
+39,39,PT08M14.00S,1,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,11,7,18,h,Howard Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+40,42,PT08M02.00S,1,1610612743,DEN,203914,Harris,G. Harris,240,61,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+41,43,PT07M59.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+42,44,PT07M46.00S,1,1610612737,ATL,2730,Howard,D. Howard,0,1,0,Made,1,13,7,20,h,Howard  Alley Oop Dunk (3 PTS) (Millsap 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+43,45,PT07M23.00S,1,1610612743,DEN,202702,Faried,K. Faried,-17,51,5,Missed,1,0,0,0,v,MISS Faried 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+44,47,PT07M22.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+45,46,PT07M22.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,13,5,1,Missed,1,0,0,0,v,MISS Jokic 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+46,49,PT07M20.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+47,48,PT07M20.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,4,2,0,Made,1,13,9,22,v,Jokic  Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,0
+48,50,PT07M01.00S,1,1610612737,ATL,2730,Howard,D. Howard,0,1,0,Made,1,15,9,24,h,Howard  Dunk (5 PTS) (Bazemore 1 AST),Made Shot,Dunk Shot,1,0
+49,52,PT06M48.00S,1,1610612743,DEN,203914,Harris,G. Harris,-225,67,0,Missed,1,0,0,0,v,MISS Harris  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+50,53,PT06M47.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+51,54,PT06M42.00S,1,1610612743,DEN,202702,Faried,K. Faried,79,51,9,Missed,1,0,0,0,v,MISS Faried 9' Pullup Bank Shot,Missed Shot,Pullup Bank shot,1,0
+52,57,PT06M39.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+53,56,PT06M39.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,4,2,0,Missed,1,0,0,0,v,MISS Jokic  Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+54,59,PT06M38.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:4 Def:1),Rebound,Unknown,1,0
+55,58,PT06M38.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,-6,-1,1,Missed,1,0,0,0,v,MISS Jokic 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+56,61,PT06M37.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:5 Def:1),Rebound,Unknown,1,0
+57,60,PT06M37.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,10,-1,1,Made,1,15,11,26,v,Jokic 1' Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,0
+58,63,PT06M23.00S,1,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,68,100,12,Missed,1,0,0,0,h,MISS Hardaway Jr. 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+59,64,PT06M20.00S,1,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,0,0,0,h,Hardaway Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+60,65,PT06M18.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,-228,28,0,Made,1,18,11,29,h,Millsap  3PT Jump Shot (3 PTS) (Hardaway Jr. 2 AST),Made Shot,Jump Shot,1,0
+61,67,PT06M07.00S,1,1610612743,DEN,203914,Harris,G. Harris,-4,3,1,Missed,1,0,0,0,v,MISS Harris 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+62,69,PT06M04.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+63,68,PT06M04.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,8,1,Made,1,18,13,31,v,Chandler 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,0
+64,70,PT06M04.00S,1,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+65,73,PT06M04.00S,1,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,SUB: Bembry FOR Bazemore,Substitution,,0,0
+66,74,PT06M04.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,SUB: Barton FOR Faried,Substitution,,0,0
+67,78,PT06M04.00S,1,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+68,75,PT05M45.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,12,70,7,Made,1,20,13,33,h,Millsap 7' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,1,0
+69,76,PT05M33.00S,1,1610612743,DEN,203115,Barton,W. Barton,192,175,26,Missed,1,0,0,0,v,MISS Barton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+70,77,PT05M29.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:6 Def:1),Rebound,Unknown,1,0
+71,79,PT05M22.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,122,228,26,Made,1,20,16,36,v,Chandler 26' 3PT Jump Shot (10 PTS) (Nelson 1 AST),Made Shot,Jump Shot,1,0
+72,80,PT05M09.00S,1,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,-35,244,25,Made,1,23,16,39,h,Hardaway Jr. 25' 3PT Jump Shot (3 PTS) (Bembry 1 AST),Made Shot,Jump Shot,1,0
+73,81,PT04M53.00S,1,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,0,0,0,h,Hardaway Jr. Violation:Kicked Ball (.),Violation,Kicked Ball,0,0
+74,82,PT04M47.00S,1,1610612743,DEN,2749,Nelson,J. Nelson,123,224,26,Made,1,23,19,42,v,Nelson 26' 3PT Jump Shot (3 PTS) (Jokic 1 AST),Made Shot,Jump Shot,1,0
+75,83,PT04M32.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,66,41,8,Made,1,25,19,44,h,Millsap 8' Pullup Bank Shot (7 PTS),Made Shot,Pullup Bank shot,1,0
+76,84,PT04M20.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,238,11,24,Missed,1,0,0,0,v,MISS Chandler 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+77,85,PT04M18.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+78,86,PT04M14.00S,1,1610612737,ATL,1627761,Bembry,D. Bembry,-1,3,0,Made,1,27,19,46,h,Bembry  Running Dunk (2 PTS) (Schroder 1 AST),Made Shot,Running Dunk Shot,1,0
+79,87,PT04M14.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+80,89,PT04M14.00S,1,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Humphries FOR Howard,Substitution,,0,0
+81,90,PT03M54.00S,1,1610612743,DEN,203914,Harris,G. Harris,120,159,20,Made,1,27,21,48,v,Harris 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+82,91,PT03M39.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,0
+83,93,PT03M39.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,28,21,49,h,Schroder Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+84,95,PT03M39.00S,1,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,SUB: Arthur FOR Harris,Substitution,,0,0
+85,96,PT03M39.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,29,21,50,h,Schroder Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+86,99,PT03M29.00S,1,1610612737,ATL,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries P.FOUL (P1.T4) (E.Malloy),Foul,Personal,1,0
+87,100,PT03M25.00S,1,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+88,100,PT03M25.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder STEAL (2 STL),,,1,0
+89,101,PT03M25.00S,1,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson P.FOUL (P1.T3) (E.Malloy),Foul,Personal,1,0
+90,103,PT03M13.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,105,159,19,Made,1,31,21,52,h,Schroder 19' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,0
+91,104,PT02M57.00S,1,1610612743,DEN,2749,Nelson,J. Nelson,-232,61,24,Missed,1,0,0,0,v,MISS Nelson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+92,105,PT02M56.00S,1,1610612737,ATL,1627761,Bembry,D. Bembry,0,0,0,,0,0,0,0,h,Bembry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+93,106,PT02M48.00S,1,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,60,242,25,Missed,1,0,0,0,h,MISS Hardaway Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+94,107,PT02M46.00S,1,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+95,108,PT02M36.00S,1,1610612743,DEN,201589,Arthur,D. Arthur,207,7,21,Made,1,31,23,54,v,Arthur 21' Jump Shot (2 PTS) (Barton 1 AST),Made Shot,Jump Shot,1,0
+96,110,PT02M21.00S,1,1610612737,ATL,2743,Humphries,K. Humphries,184,11,18,Made,1,33,23,56,h,Humphries 18' Jump Shot (2 PTS) (Schroder 2 AST),Made Shot,Jump Shot,1,0
+97,111,PT02M03.00S,1,1610612743,DEN,201589,Arthur,D. Arthur,-178,-5,18,Missed,1,0,0,0,v,MISS Arthur 18' Jump Shot,Missed Shot,Jump Shot,1,0
+98,112,PT02M01.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+99,113,PT01M57.00S,1,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,1,0,Made,1,35,23,58,h,Hardaway Jr.  Alley Oop Dunk (5 PTS) (Schroder 3 AST),Made Shot,Alley Oop Dunk Shot,1,0
+100,114,PT01M57.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Short (Reg.1 Short 1),Timeout,Short,0,0
+101,116,PT01M57.00S,1,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,0,0,0,h,SUB: Dunleavy FOR Hardaway Jr.,Substitution,,0,0
+102,117,PT01M57.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,SUB: Muscala FOR Millsap,Substitution,,0,0
+103,118,PT01M57.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,SUB: Murray FOR Jokic,Substitution,,0,0
+104,119,PT01M57.00S,1,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,SUB: Faried FOR Nelson,Substitution,,0,0
+105,120,PT01M57.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+106,121,PT01M52.00S,1,1610612737,ATL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy S.FOUL (P1.PN) (M.Ayotte),Foul,Shooting,1,0
+107,122,PT01M52.00S,1,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,35,24,59,v,Barton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+108,124,PT01M52.00S,1,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,35,25,60,v,Barton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+109,126,PT01M39.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,-11,2,1,Made,1,37,25,62,h,Schroder 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+110,127,PT01M29.00S,1,1610612743,DEN,203115,Barton,W. Barton,99,26,10,Made,1,37,27,64,v,Barton 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,0
+111,128,PT01M04.00S,1,1610612737,ATL,203471,Schroder,D. Schroder,-73,254,26,Missed,1,0,0,0,h,MISS Schroder 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+112,128,PT01M04.00S,1,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur BLOCK (1 BLK),,,1,0
+113,129,PT00M57.10S,1,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+114,130,PT00M55.90S,1,1610612737,ATL,203488,Muscala,M. Muscala,-114,-6,11,Missed,1,0,0,0,h,MISS Muscala 11' Hook Shot,Missed Shot,Hook Shot,1,0
+115,131,PT00M52.90S,1,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+116,132,PT00M47.70S,1,1610612743,DEN,201163,Chandler,W. Chandler,153,131,20,Made,1,37,29,66,v,Chandler 20' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,0
+117,133,PT00M34.20S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,Murray P.FOUL (P1.T4) (S.Wall),Foul,Personal,1,0
+118,134,PT00M30.10S,1,1610612737,ATL,203471,Schroder,D. Schroder,-6,219,22,Made,1,39,29,68,h,Schroder 22' Pullup Jump Shot (12 PTS) (Humphries 1 AST),Made Shot,Pullup Jump shot,1,0
+119,135,PT00M10.20S,1,1610612737,ATL,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries S.FOUL (P2.PN) (M.Ayotte),Foul,Shooting,1,0
+120,136,PT00M10.20S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,39,30,69,v,Faried Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+121,138,PT00M10.20S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: Hernangomez FOR Chandler,Substitution,,0,0
+122,139,PT00M10.20S,1,1610612737,ATL,1627761,Bembry,D. Bembry,0,0,0,,0,0,0,0,h,SUB: Hardaway Jr. FOR Bembry,Substitution,,0,0
+123,140,PT00M10.20S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,MISS Faried Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+124,142,PT00M08.90S,1,1610612737,ATL,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+125,144,PT00M00.90S,1,1610612737,ATL,203471,Schroder,D. Schroder,25,-5,3,Missed,1,0,0,0,h,MISS Schroder 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+126,145,PT00M00.30S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+127,146,PT00M00.00S,1,0,,0,,,0,0,0,,0,39,30,69,,End of 1st Period (8:06 PM EST),period,end,0,0
+128,148,PT12M00.00S,2,0,,0,,,0,0,0,,0,39,30,69,,Start of 2nd Period (8:08 PM EST),period,start,0,0
+129,149,PT11M45.00S,2,1610612737,ATL,2399,Dunleavy,M. Dunleavy,74,254,26,Missed,1,0,0,0,h,MISS Dunleavy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+130,150,PT11M43.00S,2,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+131,151,PT11M24.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,1,21,2,Missed,1,0,0,0,v,MISS Arthur 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+132,152,PT11M23.00S,2,1610612737,ATL,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+133,154,PT10M59.00S,2,1610612737,ATL,1627761,Bembry,D. Bembry,61,80,10,Missed,1,0,0,0,h,MISS Bembry 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+134,155,PT10M57.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+135,156,PT10M36.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,240,8,24,Made,1,39,33,72,v,Arthur 24' 3PT Jump Shot (5 PTS) (Barton 2 AST),Made Shot,Jump Shot,1,0
+136,157,PT10M24.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,-73,120,14,Made,1,41,33,74,h,Muscala 14' Jump Shot (2 PTS) (Delaney 1 AST),Made Shot,Jump Shot,1,0
+137,158,PT10M07.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-48,21,5,Missed,1,0,0,0,v,MISS Murray 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+138,159,PT10M06.00S,2,1610612737,ATL,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+139,160,PT10M01.00S,2,1610612737,ATL,1627761,Bembry,D. Bembry,2,7,1,Made,1,43,33,76,h,Bembry 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,0
+140,161,PT10M01.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,0
+141,163,PT10M01.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,SUB: Jokic FOR Faried,Substitution,,0,0
+142,164,PT10M00.00S,2,1610612737,ATL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Bazemore FOR Dunleavy,Substitution,,0,0
+143,165,PT09M45.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,-199,154,25,Made,1,43,36,79,v,Arthur 25' 3PT Jump Shot (8 PTS) (Barton 3 AST),Made Shot,Jump Shot,1,0
+144,167,PT09M29.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,177,164,24,Missed,1,0,0,0,h,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+145,168,PT09M29.00S,2,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Unknown,0,0
+146,169,PT09M29.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic L.B.FOUL (P1.T1) (E.Malloy),Foul,Loose Ball,1,0
+147,171,PT09M26.00S,2,1610612737,ATL,1627761,Bembry,D. Bembry,4,3,1,Missed,1,0,0,0,h,MISS Bembry 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+148,171,PT09M26.00S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton BLOCK (1 BLK),,,1,0
+149,172,PT09M25.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:6 Def:2),Rebound,Unknown,1,0
+150,173,PT09M19.00S,2,1610612743,DEN,203115,Barton,W. Barton,-11,247,25,Missed,1,0,0,0,v,MISS Barton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+151,174,PT09M17.00S,2,1610612737,ATL,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+152,175,PT09M13.00S,2,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris S.FOUL (P1.T2) (M.Ayotte),Foul,Shooting,1,0
+153,176,PT09M13.00S,2,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,44,36,80,h,Bazemore Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+154,178,PT09M13.00S,2,1610612737,ATL,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,SUB: Howard FOR Humphries,Substitution,,0,0
+155,179,PT09M13.00S,2,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,45,36,81,h,Bazemore Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+156,181,PT09M00.00S,2,1610612743,DEN,203115,Barton,W. Barton,-222,80,24,Missed,1,0,0,0,v,MISS Barton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+157,182,PT08M59.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+158,183,PT08M52.00S,2,1610612737,ATL,203145,Bazemore,K. Bazemore,130,160,21,Made,1,47,36,83,h,Bazemore 21' Running Pull-Up Jump Shot (10 PTS),Made Shot,Running Pull-Up Jump Shot,1,0
+159,184,PT08M35.00S,2,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+160,184,PT08M35.00S,2,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore STEAL (2 STL),,,1,0
+161,185,PT08M29.00S,2,1610612737,ATL,203145,Bazemore,K. Bazemore,-47,237,24,Made,1,50,36,86,h,Bazemore 24' 3PT Running Pull-Up Jump Shot (13 PTS) (Bembry 2 AST),Made Shot,Running Pull-Up Jump Shot,1,0
+162,187,PT08M16.00S,2,1610612743,DEN,1627750,Murray,J. Murray,17,-1,2,Made,1,50,38,88,v,Murray 2' Reverse Layup (2 PTS) (Jokic 2 AST),Made Shot,Reverse Layup Shot,1,0
+163,188,PT08M00.00S,2,1610612737,ATL,1627761,Bembry,D. Bembry,-6,120,12,Made,1,52,38,90,h,Bembry 12' Floating Jump Shot (6 PTS) (Bazemore 2 AST),Made Shot,Floating Jump shot,1,0
+164,189,PT07M50.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur OFF.Foul (P1) (E.Malloy),Foul,Offensive,1,0
+165,190,PT07M50.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur Foul Turnover (P2.T6),Turnover,Foul,1,0
+166,191,PT07M50.00S,2,0,,2610,,,0,0,0,,0,0,0,0,,Michael Malone Foul:T.FOUL (E.Malloy),Foul,Technical,1,0
+167,192,PT07M50.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,MISS Muscala Free Throw Technical,Free Throw,Free Throw Technical,0,0
+168,193,PT07M50.00S,2,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,0
+169,194,PT07M50.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,SUB: Millsap FOR Muscala,Substitution,,0,0
+170,195,PT07M40.00S,2,1610612737,ATL,1627098,Delaney,M. Delaney,105,139,17,Missed,1,0,0,0,h,MISS Delaney 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+171,196,PT07M39.00S,2,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+172,197,PT07M35.00S,2,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+173,198,PT07M26.00S,2,1610612743,DEN,203115,Barton,W. Barton,-232,11,0,Missed,1,0,0,0,v,MISS Barton  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+174,199,PT07M24.00S,2,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+175,201,PT07M18.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic P.FOUL (P2.T3) (M.Ayotte),Foul,Personal,1,0
+176,202,PT07M18.00S,2,1610612737,ATL,1627761,Bembry,D. Bembry,0,0,0,,0,0,0,0,h,SUB: Hardaway Jr. FOR Bembry,Substitution,,0,0
+177,203,PT07M05.00S,2,1610612737,ATL,1627098,Delaney,M. Delaney,-47,178,18,Missed,1,0,0,0,h,MISS Delaney 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+178,204,PT07M03.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+179,206,PT06M48.00S,2,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore P.FOUL (P3.T1) (S.Wall),Foul,Personal,1,0
+180,207,PT06M48.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Arthur,Substitution,,0,0
+181,209,PT06M33.00S,2,1610612743,DEN,203115,Barton,W. Barton,-43,242,25,Missed,1,0,0,0,v,MISS Barton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+182,210,PT06M32.00S,2,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,Delaney REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+183,211,PT06M21.00S,2,1610612737,ATL,1627098,Delaney,M. Delaney,-2,121,12,Missed,1,0,0,0,h,MISS Delaney 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+184,212,PT06M21.00S,2,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Unknown,0,0
+185,213,PT06M21.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic L.B.FOUL (P3.T4) (S.Wall),Foul,Loose Ball,1,0
+186,214,PT06M21.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,SUB: Arthur FOR Jokic,Substitution,,0,0
+187,216,PT06M09.00S,2,1610612737,ATL,200794,Millsap,P. Millsap,30,254,26,Missed,1,0,0,0,h,MISS Millsap 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+188,217,PT06M07.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+189,218,PT06M00.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,-186,156,24,Missed,1,0,0,0,v,MISS Arthur 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+190,219,PT05M59.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+191,220,PT05M59.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+192,222,PT05M59.00S,2,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,SUB: Schroder FOR Bazemore,Substitution,,0,0
+193,223,PT05M59.00S,2,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,SUB: Nelson FOR Harris,Substitution,,0,0
+194,224,PT05M40.00S,2,1610612743,DEN,1627750,Murray,J. Murray,105,234,26,Missed,1,0,0,0,v,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+195,225,PT05M38.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+196,226,PT05M33.00S,2,1610612743,DEN,203115,Barton,W. Barton,17,110,11,Made,1,52,40,92,v,Barton 11' Driving Floating Jump Shot (6 PTS) (Nelson 2 AST),Made Shot,Driving Floating Jump Shot,1,0
+197,228,PT05M20.00S,2,1610612737,ATL,203471,Schroder,D. Schroder,-155,82,18,Made,1,54,40,94,h,Schroder 18' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,0
+198,229,PT05M07.00S,2,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,HAWKS T.Foul (Def. 3 Sec Howard ) (M.Ayotte),Foul,Defense 3 Second,1,0
+199,230,PT05M07.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,54,41,95,v,Murray Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0
+200,232,PT05M00.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,-107,228,25,Made,1,54,44,98,v,Chandler 25' 3PT Jump Shot (15 PTS) (Nelson 3 AST),Made Shot,Jump Shot,1,0
+201,234,PT04M39.00S,2,1610612737,ATL,200794,Millsap,P. Millsap,86,115,14,Missed,1,0,0,0,h,MISS Millsap 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+202,235,PT04M39.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+203,236,PT04M39.00S,2,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard L.B.FOUL (P2.T2) (E.Malloy),Foul,Loose Ball,1,0
+204,238,PT04M17.00S,2,1610612743,DEN,203115,Barton,W. Barton,9,111,11,Missed,1,0,0,0,v,MISS Barton 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+205,239,PT04M14.00S,2,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+206,240,PT04M06.00S,2,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,33,252,25,Made,1,57,44,101,h,Hardaway Jr. 25' 3PT Jump Shot (8 PTS) (Schroder 4 AST),Made Shot,Jump Shot,1,0
+207,241,PT03M55.00S,2,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P3.T3) (S.Wall),Foul,Shooting,1,0
+208,242,PT03M55.00S,2,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard T.FOUL (P3.T3) (E.Malloy),Foul,Technical,1,0
+209,243,PT03M55.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,57,45,102,v,Murray Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0
+210,246,PT03M55.00S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,MISS Barton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+211,247,PT03M55.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+212,248,PT03M55.00S,2,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Muscala FOR Howard,Substitution,,0,0
+213,249,PT03M55.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,SUB: Hernangomez FOR Arthur,Substitution,,0,0
+214,250,PT03M55.00S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,57,46,103,v,Barton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+215,252,PT03M50.00S,2,1610612737,ATL,203471,Schroder,D. Schroder,-9,7,1,Made,1,59,46,105,h,Schroder 1' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,0
+216,253,PT03M34.00S,2,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,-230,2,0,Made,1,59,49,108,v,Hernangomez  3PT Jump Shot (3 PTS) (Chandler 1 AST),Made Shot,Jump Shot,1,0
+217,254,PT03M12.00S,2,1610612737,ATL,1627098,Delaney,M. Delaney,195,7,20,Made,1,61,49,110,h,Delaney 20' Pullup Jump Shot (2 PTS) (Millsap 3 AST),Made Shot,Pullup Jump shot,1,0
+218,255,PT03M00.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-228,11,0,Missed,1,0,0,0,v,MISS Murray  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+219,256,PT02M58.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Muscala REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+220,257,PT02M44.00S,2,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,233,65,24,Missed,1,0,0,0,h,MISS Hardaway Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+221,258,PT02M44.00S,2,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Unknown,0,0
+222,259,PT02M44.00S,2,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,Hernangomez L.B.FOUL (P1.PN) (S.Wall),Foul,Loose Ball,1,0
+223,260,PT02M44.00S,2,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+224,261,PT02M44.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,SUB: Harris FOR Murray,Substitution,,0,0
+225,263,PT02M44.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,62,49,111,h,Muscala Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+226,265,PT02M44.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,63,49,112,h,Muscala Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+227,267,PT02M24.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,-156,18,16,Missed,1,0,0,0,v,MISS Chandler 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+228,269,PT02M20.00S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+229,268,PT02M20.00S,2,1610612743,DEN,203115,Barton,W. Barton,2,2,0,Made,1,63,51,114,v,Barton  Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,0
+230,270,PT02M02.00S,2,1610612737,ATL,1627098,Delaney,M. Delaney,-29,249,25,Missed,1,0,0,0,h,MISS Delaney 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+231,271,PT02M01.00S,2,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,Hernangomez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+232,272,PT01M54.00S,2,1610612743,DEN,203914,Harris,G. Harris,-125,218,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+233,273,PT01M52.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Muscala REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+234,274,PT01M48.00S,2,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,1,0
+235,275,PT01M48.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,64,51,115,h,Muscala Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+236,277,PT01M48.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,65,51,116,h,Muscala Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+237,279,PT01M30.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler OFF.Foul (P2) (M.Ayotte),Foul,Offensive,1,0
+238,280,PT01M30.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler Foul Turnover (P2.T7),Turnover,Foul,1,0
+239,281,PT01M16.00S,2,1610612737,ATL,203471,Schroder,D. Schroder,22,2,2,Made,1,67,51,118,h,Schroder 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,0
+240,282,PT00M58.90S,2,1610612743,DEN,203115,Barton,W. Barton,112,213,24,Missed,1,0,0,0,v,MISS Barton 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+241,283,PT00M56.90S,2,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,Delaney REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+242,284,PT00M52.90S,2,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,4,16,2,Missed,1,0,0,0,h,MISS Hardaway Jr. 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+243,284,PT00M52.90S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton BLOCK (2 BLK),,,1,0
+244,285,PT00M51.30S,2,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,Hernangomez REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+245,286,PT00M42.60S,2,1610612743,DEN,201163,Chandler,W. Chandler,135,169,22,Missed,1,0,0,0,v,MISS Chandler 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+246,287,PT00M39.90S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+247,288,PT00M37.40S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0
+248,288,PT00M37.40S,2,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder STEAL (3 STL),,,1,0
+249,289,PT00M34.70S,2,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,1,0,Made,1,69,51,120,h,Hardaway Jr.  Alley Oop Dunk (10 PTS) (Schroder 5 AST),Made Shot,Alley Oop Dunk Shot,1,0
+250,290,PT00M30.60S,2,1610612743,DEN,203115,Barton,W. Barton,-9,11,1,Made,1,69,53,122,v,Barton 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,0
+251,291,PT00M30.60S,2,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,Delaney S.FOUL (P1.T4) (M.Ayotte),Foul,Shooting,1,0
+252,293,PT00M30.60S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,69,54,123,v,Barton Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0
+253,296,PT00M25.40S,2,1610612737,ATL,200794,Millsap,P. Millsap,-130,213,25,Made,1,72,54,126,h,Millsap 25' 3PT Jump Shot (10 PTS) (Schroder 6 AST),Made Shot,Jump Shot,1,0
+254,297,PT00M04.10S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Muscala P.FOUL (P1.PN) (S.Wall),Foul,Personal,1,0
+255,298,PT00M04.10S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,72,55,127,v,Barton Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+256,300,PT00M04.10S,2,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,SUB: Beasley FOR Nelson,Substitution,,0,0
+257,301,PT00M04.10S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: O'Bryant III FOR Chandler,Substitution,,0,0
+258,302,PT00M04.10S,2,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+259,305,PT00M04.10S,2,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,SUB: Dunleavy FOR Delaney,Substitution,,0,0
+260,306,PT00M04.10S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,MISS Barton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+261,308,PT00M02.90S,2,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,Millsap REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+262,309,PT00M00.00S,2,1610612737,ATL,200794,Millsap,P. Millsap,209,367,42,Missed,1,0,0,0,h,MISS Millsap 42' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+263,310,PT00M00.00S,2,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Unknown,0,0
+264,311,PT00M00.00S,2,0,,0,,,0,0,0,,0,72,55,127,,End of 2nd Period (8:38 PM EST),period,end,0,0
+265,313,PT12M00.00S,3,0,,0,,,0,0,0,,0,72,55,127,,Start of 3rd Period (8:54 PM EST),period,start,0,0
+266,314,PT11M52.00S,3,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,20,11,2,Made,1,74,55,129,h,Hardaway Jr. 2' Cutting Layup Shot (12 PTS) (Howard 1 AST),Made Shot,Cutting Layup Shot,1,0
+267,315,PT11M39.00S,3,1610612743,DEN,203914,Harris,G. Harris,14,46,5,Made,1,74,57,131,v,Harris 5' Pullup Jump Shot (4 PTS) (Barton 4 AST),Made Shot,Pullup Jump shot,1,0
+268,316,PT11M39.00S,3,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore S.FOUL (P4.T1) (M.Ayotte),Foul,Shooting,1,0
+269,317,PT11M39.00S,3,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,74,58,132,v,Harris Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+270,319,PT11M28.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,27,154,16,Made,1,76,58,134,h,Millsap 16' Jump Shot (12 PTS) (Schroder 7 AST),Made Shot,Jump Shot,1,0
+271,320,PT11M10.00S,3,1610612743,DEN,203914,Harris,G. Harris,-228,7,0,Missed,1,0,0,0,v,MISS Harris  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+272,321,PT11M07.00S,3,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Unknown,0,0
+273,323,PT10M53.00S,3,1610612737,ATL,2730,Howard,D. Howard,0,1,0,Made,1,78,58,136,h,Howard  Alley Oop Dunk (7 PTS) (Millsap 4 AST),Made Shot,Alley Oop Dunk Shot,1,0
+274,325,PT10M29.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,-17,46,5,Made,1,78,60,138,v,Jokic 5' Hook Shot (8 PTS),Made Shot,Hook Shot,1,0
+275,326,PT10M11.00S,3,1610612737,ATL,2730,Howard,D. Howard,0,1,0,Made,1,80,60,140,h,Howard  Driving Dunk (9 PTS) (Hardaway Jr. 3 AST),Made Shot,Driving Dunk Shot,1,0
+276,327,PT09M59.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,242,24,Made,1,80,63,143,v,Jokic 24' 3PT Jump Shot (11 PTS) (Nelson 4 AST),Made Shot,Jump Shot,1,0
+277,328,PT09M47.00S,3,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+278,328,PT09M47.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton STEAL (1 STL),,,1,0
+279,329,PT09M40.00S,3,1610612743,DEN,2749,Nelson,J. Nelson,-120,213,24,Made,1,80,66,146,v,Nelson 24' 3PT Running Jump Shot (6 PTS) (Barton 5 AST),Made Shot,Running Jump Shot,1,0
+280,330,PT09M22.00S,3,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+281,330,PT09M22.00S,3,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson STEAL (1 STL),,,1,0
+282,331,PT09M14.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,-237,26,24,Missed,1,0,0,0,v,MISS Chandler 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+283,332,PT09M12.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:7 Def:2),Rebound,Unknown,1,0
+284,333,PT09M08.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,20,21,3,Missed,1,0,0,0,v,MISS Chandler 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+285,334,PT09M07.00S,3,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+286,335,PT08M53.00S,3,1610612737,ATL,203471,Schroder,D. Schroder,12,11,2,Made,1,82,66,148,h,Schroder 2' Cutting Layup Shot (20 PTS) (Millsap 5 AST),Made Shot,Cutting Layup Shot,1,0
+287,336,PT08M52.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+288,338,PT08M52.00S,3,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,SUB: Delaney FOR Bazemore,Substitution,,0,0
+289,340,PT08M36.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,9,21,2,Made,1,82,68,150,v,Jokic 2' Driving Layup (13 PTS) (Nelson 5 AST),Made Shot,Driving Layup Shot,1,0
+290,341,PT08M15.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,148,3,15,Made,1,84,68,152,h,Millsap 15' Turnaround Jump Shot (14 PTS),Made Shot,Turnaround Jump Shot,1,0
+291,342,PT08M03.00S,3,1610612743,DEN,2749,Nelson,J. Nelson,25,3,3,Missed,1,0,0,0,v,MISS Nelson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+292,344,PT07M59.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+293,343,PT07M59.00S,3,1610612743,DEN,203115,Barton,W. Barton,4,2,0,Made,1,84,70,154,v,Barton  Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,1,0
+294,345,PT07M51.00S,3,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson Personal Block Foul (P3.T1) (E.Malloy),Foul,Personal Block,1,0
+295,346,PT07M44.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,-65,165,18,Made,1,86,70,156,h,Millsap 18' Pullup Jump Shot (16 PTS) (Schroder 8 AST),Made Shot,Pullup Jump shot,1,0
+296,347,PT07M17.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,-2,3,0,Made,1,86,72,158,v,Chandler  Layup (17 PTS) (Nelson 6 AST),Made Shot,Layup Shot,1,0
+297,348,PT06M59.00S,3,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0
+298,348,PT06M59.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton STEAL (2 STL),,,1,0
+299,349,PT06M55.00S,3,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,Delaney Shooting Block Foul (P2.T2) (M.Ayotte),Foul,Shooting Block,1,0
+300,350,PT06M55.00S,3,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+301,351,PT06M55.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+302,352,PT06M55.00S,3,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,86,73,159,v,Harris Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+303,354,PT06M42.00S,3,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0
+304,354,PT06M42.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler STEAL (1 STL),,,1,0
+305,355,PT06M32.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,9,110,11,Missed,1,0,0,0,v,MISS Jokic 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+306,356,PT06M30.00S,3,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+307,357,PT06M28.00S,3,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0
+308,357,PT06M28.00S,3,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris STEAL (1 STL),,,1,0
+309,358,PT06M24.00S,3,1610612743,DEN,203914,Harris,G. Harris,127,205,24,Missed,1,0,0,0,v,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+310,359,PT06M22.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+311,360,PT06M12.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,235,26,24,Made,1,86,76,162,v,Chandler 24' 3PT Jump Shot (20 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,0
+312,362,PT05M51.00S,3,1610612737,ATL,2730,Howard,D. Howard,0,1,0,Made,1,88,76,164,h,Howard  Cutting Dunk Shot (11 PTS) (Hardaway Jr. 4 AST),Made Shot,Cutting Dunk Shot,1,0
+313,363,PT05M37.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,-102,223,25,Made,1,88,79,167,v,Chandler 25' 3PT Jump Shot (23 PTS) (Nelson 7 AST),Made Shot,Jump Shot,1,0
+314,364,PT05M37.00S,3,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+315,367,PT05M37.00S,3,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Muscala FOR Howard,Substitution,,0,0
+316,368,PT05M23.00S,3,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,235,11,24,Missed,1,0,0,0,h,MISS Hardaway Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+317,369,PT05M21.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,Millsap REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+318,370,PT05M05.00S,3,1610612737,ATL,203488,Muscala,M. Muscala,-138,7,14,Made,1,90,79,169,h,Muscala 14' Turnaround Jump Shot (8 PTS) (Schroder 9 AST),Made Shot,Turnaround Jump Shot,1,0
+319,371,PT04M40.00S,3,1610612743,DEN,203115,Barton,W. Barton,192,151,24,Missed,1,0,0,0,v,MISS Barton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+320,372,PT04M39.00S,3,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Muscala REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+321,373,PT04M33.00S,3,1610612737,ATL,203471,Schroder,D. Schroder,140,169,22,Missed,1,0,0,0,h,MISS Schroder 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+322,374,PT04M32.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:7 Def:3),Rebound,Unknown,1,0
+323,375,PT04M23.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,1,0
+324,377,PT04M08.00S,3,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Muscala Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0
+325,377,PT04M08.00S,3,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris STEAL (2 STL),,,1,0
+326,378,PT04M03.00S,3,1610612743,DEN,203914,Harris,G. Harris,6,-1,1,Made,1,90,81,171,v,Harris 1' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,1,0
+327,379,PT03M38.00S,3,1610612737,ATL,203471,Schroder,D. Schroder,-117,232,26,Missed,1,0,0,0,h,MISS Schroder 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+328,380,PT03M36.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+329,381,PT03M29.00S,3,1610612743,DEN,2749,Nelson,J. Nelson,177,183,25,Missed,1,0,0,0,v,MISS Nelson 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+330,382,PT03M25.00S,3,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+331,383,PT03M21.00S,3,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,1,0,Made,1,92,81,173,h,Hardaway Jr.  Running Dunk (14 PTS) (Schroder 10 AST),Made Shot,Running Dunk Shot,1,0
+332,385,PT03M01.00S,3,1610612743,DEN,2749,Nelson,J. Nelson,19,31,4,Missed,1,0,0,0,v,MISS Nelson 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+333,385,PT03M01.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,Millsap BLOCK (1 BLK),,,1,0
+334,386,PT02M59.00S,3,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,0,0,0,h,Hardaway Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+335,387,PT02M55.00S,3,1610612737,ATL,1627098,Delaney,M. Delaney,4,11,1,Made,1,94,81,175,h,Delaney 1' Running Layup (4 PTS) (Hardaway Jr. 5 AST),Made Shot,Running Layup Shot,1,0
+336,388,PT02M55.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Short (Reg.3 Short 2),Timeout,Short,0,0
+337,390,PT02M55.00S,3,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,SUB: Bembry FOR Schroder,Substitution,,0,0
+338,392,PT02M55.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,SUB: Murray FOR Jokic,Substitution,,0,0
+339,393,PT02M55.00S,3,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,SUB: Arthur FOR Harris,Substitution,,0,0
+340,394,PT02M37.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,17,7,2,Missed,1,0,0,0,v,MISS Chandler 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+341,394,PT02M37.00S,3,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Muscala BLOCK (1 BLK),,,1,0
+342,395,PT02M35.00S,3,1610612737,ATL,1627761,Bembry,D. Bembry,0,0,0,,0,0,0,0,h,Bembry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+343,396,PT02M16.00S,3,1610612737,ATL,203488,Muscala,M. Muscala,-12,124,12,Made,1,96,81,177,h,Muscala 12' Jump Shot (10 PTS) (Delaney 2 AST),Made Shot,Jump Shot,1,0
+344,397,PT02M05.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,-68,129,15,Made,1,96,83,179,v,Arthur 15' Jump Shot (10 PTS) (Nelson 8 AST),Made Shot,Jump Shot,1,0
+345,399,PT01M57.00S,3,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,204,160,26,Missed,1,0,0,0,h,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+346,400,PT01M55.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+347,401,PT01M45.00S,3,1610612743,DEN,203115,Barton,W. Barton,55,31,6,Made,1,96,85,181,v,Barton 6' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,1,0
+348,402,PT01M32.00S,3,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,Delaney Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+349,403,PT01M32.00S,3,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,SUB: Hernangomez FOR Nelson,Substitution,,0,0
+350,404,PT01M22.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,48,95,11,Missed,1,0,0,0,v,MISS Arthur 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+351,405,PT01M20.00S,3,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Muscala REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+352,406,PT01M09.00S,3,1610612737,ATL,203488,Muscala,M. Muscala,-119,67,14,Missed,1,0,0,0,h,MISS Muscala 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+353,407,PT01M07.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+354,408,PT01M01.00S,3,1610612743,DEN,203115,Barton,W. Barton,14,8,2,Missed,1,0,0,0,v,MISS Barton 2' Layup,Missed Shot,Layup Shot,1,0
+355,408,PT01M01.00S,3,1610612737,ATL,1627761,Bembry,D. Bembry,0,0,0,,0,0,0,0,h,Bembry BLOCK (1 BLK),,,1,0
+356,409,PT00M59.90S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,Millsap REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+357,410,PT00M56.30S,3,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,-9,7,1,Missed,1,0,0,0,h,MISS Hardaway Jr. 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+358,412,PT00M56.30S,3,1610612737,ATL,1627761,Bembry,D. Bembry,0,0,0,,0,0,0,0,h,Bembry REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+359,411,PT00M56.30S,3,1610612737,ATL,1627761,Bembry,D. Bembry,2,-1,0,Made,1,98,85,183,h,Bembry  Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,0
+360,413,PT00M36.40S,3,1610612743,DEN,1627750,Murray,J. Murray,179,-11,18,Made,1,98,87,185,v,Murray 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+361,414,PT00M30.80S,3,1610612737,ATL,200794,Millsap,P. Millsap,-30,247,25,Missed,1,0,0,0,h,MISS Millsap 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+362,415,PT00M28.90S,3,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,Delaney REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+363,416,PT00M12.10S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,Murray Personal Take Foul (P2.T2) (S.Wall),Foul,Personal Take,1,0
+364,418,PT00M12.10S,3,1610612737,ATL,1627761,Bembry,D. Bembry,0,0,0,,0,0,0,0,h,SUB: Dunleavy FOR Bembry,Substitution,,0,0
+365,419,PT00M00.90S,3,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,33,239,24,Missed,1,0,0,0,h,MISS Hardaway Jr. 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+366,420,PT00M00.30S,3,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,Hernangomez REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+367,421,PT00M00.00S,3,0,,0,,,0,0,0,,0,98,87,185,,End of 3rd Period (9:15 PM EST),period,end,0,0
+368,423,PT12M00.00S,4,0,,0,,,0,0,0,,0,98,87,185,,Start of 4th Period (9:18 PM EST),period,start,0,0
+369,424,PT11M45.00S,4,1610612743,DEN,203914,Harris,G. Harris,20,2,2,Missed,1,0,0,0,v,MISS Harris 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+370,425,PT11M43.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+371,426,PT11M42.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,Hernangomez Traveling Turnover (P1.T10),Turnover,Traveling,1,0
+372,428,PT11M27.00S,4,1610612737,ATL,2743,Humphries,K. Humphries,27,3,3,Made,1,100,87,187,h,Humphries 3' Layup (4 PTS) (Delaney 3 AST),Made Shot,Layup Shot,1,0
+373,429,PT11M15.00S,4,1610612743,DEN,203914,Harris,G. Harris,191,160,25,Made,1,100,90,190,v,Harris 25' 3PT Jump Shot (11 PTS) (Jokic 3 AST),Made Shot,Jump Shot,1,0
+374,430,PT10M58.00S,4,1610612737,ATL,2743,Humphries,K. Humphries,-102,224,25,Made,1,103,90,193,h,Humphries 25' 3PT Jump Shot (7 PTS) (Delaney 4 AST),Made Shot,Jump Shot,1,0
+375,431,PT10M49.00S,4,1610612737,ATL,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries P.FOUL (P3.T1) (E.Malloy),Foul,Personal,1,0
+376,432,PT10M44.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,-140,195,24,Made,1,103,93,196,v,Jokic 24' 3PT Jump Shot (16 PTS) (Harris 3 AST),Made Shot,Jump Shot,1,0
+377,433,PT10M23.00S,4,1610612737,ATL,1627761,Bembry,D. Bembry,0,1,0,Made,1,105,93,198,h,Bembry  Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,1,0
+378,434,PT10M07.00S,4,1610612743,DEN,203914,Harris,G. Harris,233,18,0,Missed,1,0,0,0,v,MISS Harris  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+379,435,PT10M04.00S,4,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,Delaney REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+380,436,PT09M50.00S,4,1610612737,ATL,1627098,Delaney,M. Delaney,-24,244,25,Missed,1,0,0,0,h,MISS Delaney 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+381,437,PT09M49.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,Hernangomez REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+382,438,PT09M43.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,205,154,26,Missed,1,0,0,0,v,MISS Hernangomez 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+383,439,PT09M42.00S,4,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,Delaney REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+384,441,PT09M27.00S,4,1610612737,ATL,203488,Muscala,M. Muscala,-92,234,25,Missed,1,0,0,0,h,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+385,442,PT09M26.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:7 Def:4),Rebound,Unknown,1,0
+386,443,PT09M13.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,-32,247,25,Missed,1,0,0,0,v,MISS Arthur 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+387,444,PT09M11.00S,4,1610612737,ATL,1627761,Bembry,D. Bembry,0,0,0,,0,0,0,0,h,Bembry REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+388,445,PT08M54.00S,4,1610612737,ATL,1627098,Delaney,M. Delaney,-68,175,19,Missed,1,0,0,0,h,MISS Delaney 19' Jump Shot,Missed Shot,Jump Shot,1,0
+389,446,PT08M53.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:7 Def:5),Rebound,Unknown,1,0
+390,447,PT08M39.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,-160,21,16,Missed,1,0,0,0,v,MISS Arthur 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+391,448,PT08M38.00S,4,1610612737,ATL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+392,449,PT08M23.00S,4,1610612737,ATL,2743,Humphries,K. Humphries,4,252,25,Missed,1,0,0,0,h,MISS Humphries 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+393,450,PT08M21.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+394,452,PT08M12.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-35,26,4,Made,1,105,95,200,v,Murray 4' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,0
+395,453,PT08M12.00S,4,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+396,455,PT08M12.00S,4,1610612737,ATL,1627761,Bembry,D. Bembry,0,0,0,,0,0,0,0,h,SUB: Bazemore FOR Bembry,Substitution,,0,0
+397,456,PT08M12.00S,4,1610612737,ATL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Millsap FOR Dunleavy,Substitution,,0,0
+398,457,PT08M12.00S,4,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,SUB: Hardaway Jr. FOR Muscala,Substitution,,0,0
+399,458,PT08M12.00S,4,1610612737,ATL,1627098,Delaney,M. Delaney,0,0,0,,0,0,0,0,h,SUB: Schroder FOR Delaney,Substitution,,0,0
+400,459,PT08M12.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,SUB: Barton FOR Harris,Substitution,,0,0
+401,460,PT07M55.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,-163,101,19,Made,1,107,95,202,h,Millsap 19' Jump Shot (18 PTS) (Hardaway Jr. 6 AST),Made Shot,Jump Shot,1,0
+402,461,PT07M36.00S,4,1610612743,DEN,1627750,Murray,J. Murray,223,46,0,Made,1,107,98,205,v,Murray  3PT Jump Shot (11 PTS) (Arthur 1 AST),Made Shot,Jump Shot,1,0
+403,462,PT07M17.00S,4,1610612737,ATL,203145,Bazemore,K. Bazemore,130,224,26,Missed,1,0,0,0,h,MISS Bazemore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+404,463,PT07M14.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:7 Def:6),Rebound,Unknown,1,0
+405,464,PT07M05.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,24,8,3,Made,1,107,100,207,v,Hernangomez 3' Cutting Layup Shot (5 PTS) (Barton 6 AST),Made Shot,Cutting Layup Shot,1,0
+406,465,PT06M44.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,-22,100,10,Missed,1,0,0,0,h,MISS Schroder 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+407,465,PT06M44.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,Murray BLOCK (1 BLK),,,1,0
+408,466,PT06M42.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+409,467,PT06M29.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,15,65,7,Missed,1,0,0,0,v,MISS Jokic 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+410,468,PT06M27.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,Hernangomez REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+411,469,PT06M27.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,Millsap S.FOUL (P1.T2) (S.Wall),Foul,Shooting,1,0
+412,471,PT06M27.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,MISS Hernangomez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+413,472,PT06M27.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+414,473,PT06M27.00S,4,1610612737,ATL,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,SUB: Howard FOR Humphries,Substitution,,0,0
+415,474,PT06M27.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,107,101,208,v,Hernangomez Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+416,476,PT06M16.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,-117,-6,12,Missed,1,0,0,0,h,MISS Millsap 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+417,477,PT06M14.00S,4,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Unknown,0,0
+418,478,PT06M14.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Jokic,Substitution,,0,0
+419,479,PT06M08.00S,4,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0
+420,479,PT06M08.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler STEAL (2 STL),,,1,0
+421,480,PT05M50.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,-230,46,0,Missed,1,0,0,0,v,MISS Hernangomez  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+422,481,PT05M47.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,Murray REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+423,482,PT05M42.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-122,210,24,Missed,1,0,0,0,v,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+424,483,PT05M42.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+425,484,PT05M42.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder L.B.FOUL (P1.T3) (S.Wall),Foul,Loose Ball,1,0
+426,485,PT05M42.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+427,488,PT05M42.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,SUB: Jokic FOR Arthur,Substitution,,0,0
+428,489,PT05M32.00S,4,1610612743,DEN,1627750,Murray,J. Murray,114,218,25,Missed,1,0,0,0,v,MISS Murray 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+429,490,PT05M31.00S,4,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+430,491,PT05M16.00S,4,1610612737,ATL,2730,Howard,D. Howard,-1,11,1,Missed,1,0,0,0,h,MISS Howard 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+431,492,PT05M14.00S,4,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+432,493,PT05M13.00S,4,1610612737,ATL,2730,Howard,D. Howard,-1,8,1,Missed,1,0,0,0,h,MISS Howard 1' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+433,494,PT05M12.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,Hernangomez REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+434,495,PT05M05.00S,4,1610612743,DEN,203115,Barton,W. Barton,182,164,24,Missed,1,0,0,0,v,MISS Barton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+435,496,PT05M03.00S,4,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:6),Rebound,Unknown,1,0
+436,497,PT04M45.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,20,7,2,Made,1,109,101,210,h,Schroder 2' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,0
+437,498,PT04M25.00S,4,1610612743,DEN,203115,Barton,W. Barton,14,97,10,Missed,1,0,0,0,v,MISS Barton 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+438,499,PT04M22.00S,4,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:7),Rebound,Unknown,1,0
+439,500,PT04M11.00S,4,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,-2,0,0,Missed,1,0,0,0,h,MISS Hardaway Jr.  Driving Layup,Missed Shot,Driving Layup Shot,1,0
+440,501,PT04M10.00S,4,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:5 Def:7),Rebound,Unknown,1,0
+441,502,PT04M09.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler P.FOUL (P3.T1) (S.Wall),Foul,Personal,1,0
+442,503,PT04M09.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,0,0,0,v,SUB: Harris FOR Murray,Substitution,,0,0
+443,504,PT04M09.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,0,0,0,v,SUB: Nelson FOR Hernangomez,Substitution,,0,0
+444,505,PT04M03.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,-109,213,24,Missed,1,0,0,0,h,MISS Schroder 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+445,506,PT04M02.00S,4,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+446,507,PT03M54.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,Millsap S.FOUL (P2.T4) (S.Wall),Foul,Shooting,1,0
+447,508,PT03M54.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,MISS Chandler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+448,509,PT03M54.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+449,510,PT03M54.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,MISS Chandler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+450,512,PT03M52.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:8 Def:6),Rebound,Unknown,1,0
+451,513,PT03M49.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,15,8,2,Missed,1,0,0,0,v,MISS Jokic 2' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+452,517,PT03M49.00S,4,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:5 Def:8),Rebound,Unknown,1,0
+453,518,PT03M49.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic P.FOUL (P4.T2) (E.Malloy),Foul,Personal,1,0
+454,519,PT03M38.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,-79,144,16,Missed,1,0,0,0,h,MISS Schroder 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+455,520,PT03M36.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+456,521,PT03M28.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,15,7,2,Made,1,109,103,212,v,Jokic 2' Layup (18 PTS) (Chandler 2 AST),Made Shot,Layup Shot,1,0
+457,523,PT03M01.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,-66,242,25,Missed,1,0,0,0,h,MISS Schroder 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+458,524,PT02M59.00S,4,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+459,525,PT02M56.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,1,0,Made,1,109,105,214,v,Harris  Running Dunk (13 PTS) (Barton 7 AST),Made Shot,Running Dunk Shot,1,0
+460,528,PT02M38.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,0
+461,532,PT02M32.00S,4,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0
+462,532,PT02M32.00S,4,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton STEAL (3 STL),,,1,0
+463,533,PT02M27.00S,4,1610612743,DEN,203115,Barton,W. Barton,1,7,1,Missed,1,0,0,0,v,MISS Barton 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+464,533,PT02M27.00S,4,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore BLOCK (1 BLK),,,1,0
+465,534,PT02M24.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+466,535,PT02M02.00S,4,1610612743,DEN,203914,Harris,G. Harris,220,124,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+467,536,PT02M01.00S,4,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+468,537,PT01M47.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,110,56,12,Made,1,111,105,216,h,Millsap 12' Pullup Bank Shot (20 PTS),Made Shot,Pullup Bank shot,1,0
+469,538,PT01M47.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler S.FOUL (P4.T3) (E.Malloy),Foul,Shooting,1,0
+470,539,PT01M47.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,112,105,217,h,Millsap Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0
+471,541,PT01M35.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,17,100,10,Missed,1,0,0,0,v,MISS Chandler 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+472,542,PT01M35.00S,4,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Unknown,0,0
+473,543,PT01M35.00S,4,0,,542,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+474,544,PT01M35.00S,4,0,,542,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+475,546,PT01M13.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,9,16,2,Missed,1,0,0,0,h,MISS Schroder 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+476,585,PT01M13.00S,4,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,Bazemore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+477,586,PT01M13.00S,4,1610612737,ATL,203145,Bazemore,K. Bazemore,3,15,2,Missed,1,0,0,0,h,MISS Bazemore 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+478,547,PT01M10.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0,0,0,h,Schroder REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+479,548,PT01M10.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris P.FOUL (P2.PN) (E.Malloy),Foul,Personal,1,0
+480,549,PT01M10.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,113,105,218,h,Schroder Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0
+481,551,PT01M10.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,114,105,219,h,Schroder Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0
+482,553,PT00M55.60S,4,1610612743,DEN,203115,Barton,W. Barton,230,46,0,Missed,1,0,0,0,v,MISS Barton  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+483,554,PT00M54.10S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+484,555,PT00M54.10S,4,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,0,0,0,h,Hardaway Jr. P.FOUL (P1.PN) (M.Ayotte),Foul,Personal,1,0
+485,557,PT00M54.10S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,MISS Chandler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+486,558,PT00M54.10S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+487,559,PT00M54.10S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,114,106,220,v,Chandler Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0
+488,562,PT00M51.90S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler Personal Take Foul (P5.PN) (S.Wall),Foul,Personal Take,1,0
+489,563,PT00M51.90S,4,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,0,0,0,h,MISS Bazemore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+490,564,PT00M51.90S,4,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,0
+491,565,PT00M51.90S,4,1610612737,ATL,203145,Bazemore,K. Bazemore,0,0,0,,0,115,106,221,h,Bazemore Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0
+492,567,PT00M38.70S,4,1610612743,DEN,2749,Nelson,J. Nelson,114,170,20,Missed,1,0,0,0,v,MISS Nelson 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+493,568,PT00M37.50S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,Millsap REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+494,569,PT00M37.50S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler P.FOUL (P6.PN) (S.Wall),Foul,Personal,1,0
+495,570,PT00M37.50S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: Hernangomez FOR Chandler,Substitution,,0,0
+496,571,PT00M37.50S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,116,106,222,h,Millsap Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0
+497,573,PT00M37.50S,4,1610612737,ATL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Muscala FOR Howard,Substitution,,0,0
+498,574,PT00M37.50S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,117,106,223,h,Millsap Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0
+499,577,PT00M29.90S,4,1610612743,DEN,2749,Nelson,J. Nelson,-25,244,25,Missed,1,0,0,0,v,MISS Nelson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+500,579,PT00M26.60S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,0,0,0,v,Jokic REBOUND (Off:9 Def:6),Rebound,Unknown,1,0
+501,578,PT00M26.60S,4,1610612743,DEN,203999,Jokic,N. Jokic,10,7,1,Missed,1,0,0,0,v,MISS Jokic 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+502,580,PT00M25.50S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0,0,0,h,Millsap REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+503,581,PT00M03.40S,4,0,,1610612737,,,0,0,0,,0,0,0,0,h,HAWKS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0
+504,582,PT00M03.40S,4,1610612737,ATL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,0,0,0,h,SUB: Bembry FOR Hardaway Jr.,Substitution,,0,0
+505,583,PT00M00.00S,4,0,,0,,,0,0,0,,0,117,106,223,,End of 4th Period (9:47 PM EST),period,end,1,0

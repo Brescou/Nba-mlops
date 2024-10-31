@@ -1,0 +1,430 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:41 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Jump Ball Drummond vs. Jordan: Tip to Griffin,Jump Ball,,1,0
+3,2,PT11M40.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+4,2,PT11M40.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0,0,0,h,Caldwell-Pope STEAL (1 STL),,,1,0
+5,3,PT11M31.00S,1,1610612765,DET,202397,Smith,I. Smith,35,23,4,Missed,1,0,0,0,h,MISS Smith 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+6,4,PT11M29.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+7,5,PT11M22.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,1,0,Made,1,2,0,2,h,Drummond  Alley Oop Dunk (2 PTS) (Harris 1 AST),Made Shot,Alley Oop Dunk Shot,1,0
+8,6,PT11M06.00S,1,1610612746,LAC,200755,Redick,J. Redick,-187,106,21,Made,1,2,2,4,v,Redick 21' Jump Shot (2 PTS) (Paul 1 AST),Made Shot,Jump Shot,1,0
+9,7,PT10M44.00S,1,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,163,7,16,Made,1,4,2,6,h,Marc Morris 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+10,8,PT10M31.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,4,7,1,Made,1,4,4,8,v,Jordan 1' Reverse Layup (2 PTS) (Griffin 1 AST),Made Shot,Reverse Layup Shot,1,0
+11,9,PT10M31.00S,1,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0
+12,10,PT10M31.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,4,5,9,v,Jordan Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+13,11,PT10M17.00S,1,1610612765,DET,202699,Harris,T. Harris,-55,262,27,Made,1,7,5,12,h,Harris 27' 3PT Jump Shot (3 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,1,0
+14,12,PT09M58.00S,1,1610612746,LAC,200755,Redick,J. Redick,91,151,18,Missed,1,0,0,0,v,MISS Redick 18' Jump Shot,Missed Shot,Jump Shot,1,0
+15,13,PT09M57.00S,1,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+16,14,PT09M51.00S,1,1610612765,DET,202397,Smith,I. Smith,-7,3,1,Missed,1,0,0,0,h,MISS Smith 1' Layup,Missed Shot,Layup Shot,1,0
+17,14,PT09M51.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan BLOCK (1 BLK),,,1,0
+18,15,PT09M50.00S,1,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+19,16,PT09M44.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-4,-5,1,Missed,1,0,0,0,v,MISS Griffin 1' Layup,Missed Shot,Layup Shot,1,0
+20,17,PT09M43.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+21,18,PT09M30.00S,1,1610612765,DET,202699,Harris,T. Harris,64,41,8,Made,1,9,5,14,h,Harris 8' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,1,0
+22,19,PT09M19.00S,1,1610612746,LAC,200755,Redick,J. Redick,-58,252,26,Missed,1,0,0,0,v,MISS Redick 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+23,20,PT09M18.00S,1,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+24,21,PT09M03.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-52,23,6,Made,1,11,5,16,h,Caldwell-Pope 6' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,0
+25,22,PT08M52.00S,1,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris P.FOUL (P2.T2) (C.Kirkland),Foul,Personal,1,0
+26,23,PT08M52.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+27,24,PT08M52.00S,1,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,SUB: Leuer FOR Marc Morris,Substitution,,0,0
+28,25,PT08M42.00S,1,1610612746,LAC,101108,Paul,C. Paul,-6,136,14,Made,1,11,7,18,v,Paul 14' Jump Shot (2 PTS) (Jordan 1 AST),Made Shot,Jump Shot,1,0
+29,26,PT08M25.00S,1,1610612765,DET,202397,Smith,I. Smith,-171,195,26,Made,1,14,7,21,h,Smith 26' 3PT Jump Shot (3 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,1,0
+30,27,PT08M20.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan OFF.Foul (P1) (M.Smith),Foul,Offensive,1,0
+31,28,PT08M20.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan Foul Turnover (P2.T2),Turnover,Foul,1,0
+32,29,PT08M06.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-101,134,17,Missed,1,0,0,0,h,MISS Caldwell-Pope 17' Jump Shot,Missed Shot,Jump Shot,1,0
+33,30,PT08M05.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+34,31,PT07M48.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,9,7,1,Made,1,14,9,23,v,Griffin 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+35,32,PT07M32.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond OFF.Foul (P1) (M.Smith),Foul,Offensive,1,0
+36,33,PT07M32.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond Foul Turnover (P1.T1),Turnover,Foul,1,0
+37,34,PT07M18.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+38,34,PT07M18.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond STEAL (1 STL),,,1,0
+39,35,PT07M10.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,210,141,25,Made,1,17,9,26,h,Caldwell-Pope 25' 3PT Jump Shot (5 PTS) (Drummond 1 AST),Made Shot,Jump Shot,1,0
+40,36,PT07M10.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+41,38,PT06M59.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+42,38,PT06M59.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond STEAL (2 STL),,,1,0
+43,39,PT06M53.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,1,0,Made,1,19,9,28,h,Drummond  Alley Oop Dunk (4 PTS) (Caldwell-Pope 3 AST),Made Shot,Alley Oop Dunk Shot,1,0
+44,40,PT06M36.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-4,169,17,Missed,1,0,0,0,v,MISS Griffin 17' Jump Shot,Missed Shot,Jump Shot,1,0
+45,41,PT06M35.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+46,42,PT06M28.00S,1,1610612765,DET,202397,Smith,I. Smith,4,2,0,Made,1,21,9,30,h,Smith  Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+47,43,PT06M14.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,-5,1,Made,1,21,11,32,v,Jordan 1' Layup (5 PTS),Made Shot,Layup Shot,1,0
+48,44,PT05M54.00S,1,1610612765,DET,202699,Harris,T. Harris,107,62,12,Made,1,23,11,34,h,Harris 12' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,0
+49,45,PT05M32.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,232,47,24,Missed,1,0,0,0,v,MISS Mbah a Moute 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+50,46,PT05M31.00S,1,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+51,47,PT05M22.00S,1,1610612765,DET,203083,Drummond,A. Drummond,76,7,8,Made,1,25,11,36,h,Drummond 8' Hook Shot (6 PTS) (Smith 1 AST),Made Shot,Hook Shot,1,0
+52,48,PT05M00.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond P.FOUL (P2.T3) (M.Smith),Foul,Personal,1,0
+53,49,PT05M00.00S,1,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Redick,Substitution,,0,0
+54,50,PT05M00.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Rivers FOR Mbah a Moute,Substitution,,0,0
+55,51,PT05M00.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,SUB: Baynes FOR Drummond,Substitution,,0,0
+56,52,PT04M47.00S,1,1610612746,LAC,101108,Paul,C. Paul,-79,11,8,Missed,1,0,0,0,v,MISS Paul 8' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+57,53,PT04M45.00S,1,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+58,54,PT04M40.00S,1,1610612765,DET,203382,Baynes,A. Baynes,-11,16,2,Missed,1,0,0,0,h,MISS Baynes 2' Layup,Missed Shot,Layup Shot,1,0
+59,55,PT04M38.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+60,56,PT04M31.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,-217,149,26,Made,1,25,14,39,v,Crawford 26' 3PT Jump Shot (3 PTS) (Paul 2 AST),Made Shot,Jump Shot,1,0
+61,57,PT04M19.00S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,v,Rivers P.FOUL (P1.T1) (C.Blair),Foul,Personal,1,0
+62,58,PT04M11.00S,1,1610612765,DET,202397,Smith,I. Smith,163,70,18,Made,1,27,14,41,h,Smith 18' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,0
+63,59,PT04M01.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0,0,0,h,Caldwell-Pope P.FOUL (P1.T4) (C.Kirkland),Foul,Personal,1,0
+64,60,PT04M01.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,SUB: Speights FOR Jordan,Substitution,,0,0
+65,61,PT03M49.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-15,24,3,Missed,1,0,0,0,v,MISS Griffin 3' Hook Shot,Missed Shot,Hook Shot,1,0
+66,62,PT03M48.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+67,63,PT03M45.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-2,2,0,Missed,1,0,0,0,v,MISS Griffin  Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+68,64,PT03M43.00S,1,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+69,65,PT03M40.00S,1,1610612765,DET,202720,Leuer,J. Leuer,0,1,0,Made,1,29,14,43,h,Leuer  Dunk (2 PTS) (Smith 2 AST),Made Shot,Dunk Shot,1,0
+70,66,PT03M40.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul Offensive Charge Foul (P1.T2) (C.Kirkland),Foul,Offensive Charge,1,0
+71,67,PT03M40.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul Foul Turnover (P2.T5),Turnover,Foul,1,0
+72,68,PT03M32.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford S.FOUL (P1.T3) (M.Smith),Foul,Shooting,1,0
+73,69,PT03M32.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,30,14,44,h,Caldwell-Pope Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+74,71,PT03M32.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,SUB: Felton FOR Paul,Substitution,,0,0
+75,72,PT03M32.00S,1,1610612765,DET,202397,Smith,I. Smith,0,0,0,,0,0,0,0,h,SUB: Udrih FOR Smith,Substitution,,0,0
+76,73,PT03M32.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,31,14,45,h,Caldwell-Pope Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+77,75,PT03M06.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,235,51,24,Missed,1,0,0,0,v,MISS Crawford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+78,76,PT03M06.00S,1,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+79,77,PT02M54.00S,1,1610612765,DET,202720,Leuer,J. Leuer,-237,57,24,Missed,1,0,0,0,h,MISS Leuer 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+80,78,PT02M54.00S,1,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+81,79,PT02M49.00S,1,1610612765,DET,203382,Baynes,A. Baynes,-42,21,5,Missed,1,0,0,0,h,MISS Baynes 5' Jump Shot,Missed Shot,Jump Shot,1,0
+82,79,PT02M49.00S,1,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights BLOCK (1 BLK),,,1,0
+83,80,PT02M48.00S,1,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+84,81,PT02M42.00S,1,1610612746,LAC,101109,Felton,R. Felton,4,8,1,Made,1,31,16,47,v,Felton 1' Layup (2 PTS),Made Shot,Layup Shot,1,0
+85,82,PT02M20.00S,1,1610612765,DET,202699,Harris,T. Harris,-1,2,0,Made,1,33,16,49,h,Harris  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+86,83,PT02M04.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,-120,259,29,Missed,1,0,0,0,v,MISS Crawford 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+87,84,PT02M03.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0,0,0,h,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+88,85,PT01M54.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,94,26,10,Missed,1,0,0,0,h,MISS Caldwell-Pope 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+89,86,PT01M52.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+90,87,PT01M28.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,223,41,0,Made,1,33,19,52,v,Griffin  3PT Jump Shot (5 PTS) (Felton 1 AST),Made Shot,Jump Shot,1,0
+91,89,PT01M27.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+92,90,PT01M27.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,SUB: W. Johnson FOR Griffin,Substitution,,0,0
+93,91,PT01M27.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0,0,0,h,SUB: Hilliard FOR Caldwell-Pope,Substitution,,0,0
+94,93,PT01M08.00S,1,1610612765,DET,1626199,Hilliard,D. Hilliard,-29,170,17,Made,1,35,19,54,h,Hilliard 17' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+95,94,PT00M56.90S,1,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights OFF.Foul (P1) (C.Kirkland),Foul,Offensive,1,0
+96,95,PT00M56.90S,1,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights Foul Turnover (P1.T6),Turnover,Foul,1,0
+97,96,PT00M40.20S,1,1610612765,DET,2757,Udrih,B. Udrih,156,85,18,Missed,1,0,0,0,h,MISS Udrih 18' Jump Shot,Missed Shot,Jump Shot,1,0
+98,97,PT00M39.90S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,v,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+99,100,PT00M35.40S,1,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,0,0,0,h,Hilliard S.FOUL (P1.PN) (M.Smith),Foul,Shooting,1,0
+100,101,PT00M35.40S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,35,20,55,v,Crawford Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+101,103,PT00M35.40S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,35,21,56,v,Crawford Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+102,105,PT00M19.80S,1,1610612765,DET,203382,Baynes,A. Baynes,4,7,1,Missed,1,0,0,0,h,MISS Baynes 1' Layup,Missed Shot,Layup Shot,1,0
+103,105,PT00M19.80S,1,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,v,W. Johnson BLOCK (1 BLK),,,1,0
+104,106,PT00M17.90S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+105,107,PT00M02.30S,1,1610612746,LAC,201578,Speights,M. Speights,-6,3,1,Made,1,35,23,58,v,Speights 1' Driving Layup (2 PTS) (Crawford 1 AST),Made Shot,Driving Layup Shot,1,0
+106,108,PT00M01.00S,1,1610612765,DET,2757,Udrih,B. Udrih,9,609,61,Missed,1,0,0,0,h,MISS Udrih 61' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+107,109,PT00M00.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+108,110,PT00M00.00S,1,0,,0,,,0,0,0,,0,35,23,58,,End of 1st Period (8:04 PM EST),period,end,0,0
+109,112,PT12M00.00S,2,0,,0,,,0,0,0,,0,35,23,58,,Start of 2nd Period (8:07 PM EST),period,start,0,0
+110,113,PT11M42.00S,2,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,24,2,Made,1,37,23,60,h,Marc Morris 2' Layup (4 PTS) (Leuer 1 AST),Made Shot,Layup Shot,1,0
+111,114,PT11M26.00S,2,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris S.FOUL (P3.T1) (C.Kirkland),Foul,Shooting,1,0
+112,115,PT11M26.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,37,24,61,v,Crawford Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+113,117,PT11M26.00S,2,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,SUB: Gbinije FOR Marc Morris,Substitution,,0,0
+114,118,PT11M26.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,37,25,62,v,Crawford Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+115,120,PT11M06.00S,2,1610612765,DET,2757,Udrih,B. Udrih,87,57,10,Missed,1,0,0,0,h,MISS Udrih 10' Jump Shot,Missed Shot,Jump Shot,1,0
+116,121,PT11M05.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+117,122,PT10M59.00S,2,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,v,Rivers Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0
+118,122,PT10M59.00S,2,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,0,0,0,h,Hilliard STEAL (1 STL),,,1,0
+119,123,PT10M58.00S,2,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights P.FOUL (P2.T1) (M.Smith),Foul,Personal,1,0
+120,124,PT10M45.00S,2,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton P.FOUL (P1.T2) (C.Blair),Foul,Personal,1,0
+121,125,PT10M33.00S,2,1610612765,DET,202720,Leuer,J. Leuer,174,41,18,Missed,1,0,0,0,h,MISS Leuer 18' Jump Shot,Missed Shot,Jump Shot,1,0
+122,126,PT10M32.00S,2,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,v,W. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+123,127,PT10M15.00S,2,1610612746,LAC,201578,Speights,M. Speights,51,21,6,Missed,1,0,0,0,v,MISS Speights 6' Jump Shot,Missed Shot,Jump Shot,1,0
+124,128,PT10M14.00S,2,1610612765,DET,1627771,Gbinije,M. Gbinije,0,0,0,,0,0,0,0,h,Gbinije REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+125,129,PT10M04.00S,2,1610612765,DET,1626199,Hilliard,D. Hilliard,0,85,9,Missed,1,0,0,0,h,MISS Hilliard 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+126,130,PT10M03.00S,2,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,0,0,0,h,Hilliard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+127,131,PT10M00.00S,2,1610612765,DET,1626199,Hilliard,D. Hilliard,-7,2,1,Made,1,39,25,64,h,Hilliard 1' Layup (4 PTS),Made Shot,Layup Shot,1,0
+128,132,PT09M43.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-102,244,26,Missed,1,0,0,0,v,MISS Crawford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+129,133,PT09M42.00S,2,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+130,134,PT09M33.00S,2,1610612765,DET,2757,Udrih,B. Udrih,-70,65,10,Made,1,41,25,66,h,Udrih 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+131,135,PT09M14.00S,2,1610612746,LAC,203085,Rivers,A. Rivers,6,7,1,Made,1,41,27,68,v,Rivers 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+132,136,PT09M00.00S,2,1610612765,DET,2757,Udrih,B. Udrih,9,11,1,Made,1,43,27,70,h,Udrih 1' Reverse Layup (4 PTS) (Leuer 2 AST),Made Shot,Reverse Layup Shot,1,0
+133,137,PT08M41.00S,2,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,v,Rivers Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0
+134,138,PT08M41.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+135,140,PT08M30.00S,2,1610612765,DET,202720,Leuer,J. Leuer,12,85,9,Missed,1,0,0,0,h,MISS Leuer 9' Jump Shot,Missed Shot,Jump Shot,1,0
+136,141,PT08M29.00S,2,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,v,W. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+137,142,PT08M21.00S,2,1610612746,LAC,201578,Speights,M. Speights,-189,183,26,Missed,1,0,0,0,v,MISS Speights 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+138,143,PT08M20.00S,2,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,0,0,0,h,Hilliard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+139,144,PT08M11.00S,2,1610612765,DET,203382,Baynes,A. Baynes,-60,11,6,Missed,1,0,0,0,h,MISS Baynes 6' Hook Shot,Missed Shot,Hook Shot,1,0
+140,145,PT08M10.00S,2,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+141,147,PT08M06.00S,2,1610612765,DET,202720,Leuer,J. Leuer,74,62,10,Made,1,45,27,72,h,Leuer 10' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+142,148,PT07M42.00S,2,1610612746,LAC,201578,Speights,M. Speights,12,269,27,Missed,1,0,0,0,v,MISS Speights 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+143,149,PT07M41.00S,2,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+144,150,PT07M34.00S,2,1610612765,DET,203382,Baynes,A. Baynes,14,124,12,Missed,1,0,0,0,h,MISS Baynes 12' Jump Shot,Missed Shot,Jump Shot,1,0
+145,151,PT07M33.00S,2,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+146,152,PT07M29.00S,2,1610612765,DET,202720,Leuer,J. Leuer,-12,2,1,Missed,1,0,0,0,h,MISS Leuer 1' Layup,Missed Shot,Layup Shot,1,0
+147,153,PT07M29.00S,2,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,v,W. Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+148,154,PT07M17.00S,2,1610612746,LAC,202325,Johnson,W. Johnson,-238,16,24,Made,1,45,30,75,v,W. Johnson 24' 3PT Jump Shot (3 PTS) (Crawford 2 AST),Made Shot,Jump Shot,1,0
+149,155,PT07M00.00S,2,1610612765,DET,2757,Udrih,B. Udrih,-135,8,14,Missed,1,0,0,0,h,MISS Udrih 14' Jump Shot,Missed Shot,Jump Shot,1,0
+150,156,PT06M59.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+151,157,PT06M59.00S,2,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes L.B.FOUL (P1.T2) (C.Blair),Foul,Loose Ball,1,0
+152,158,PT06M59.00S,2,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,v,SUB: Paul FOR Rivers,Substitution,,0,0
+153,159,PT06M59.00S,2,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,SUB: Griffin FOR Speights,Substitution,,0,0
+154,160,PT06M59.00S,2,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,SUB: Jordan FOR Felton,Substitution,,0,0
+155,161,PT06M59.00S,2,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,v,SUB: Redick FOR W. Johnson,Substitution,,0,0
+156,162,PT06M59.00S,2,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,SUB: Smith FOR Baynes,Substitution,,0,0
+157,163,PT06M59.00S,2,1610612765,DET,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,SUB: Drummond FOR Udrih,Substitution,,0,0
+158,164,PT06M45.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-6,154,15,Made,1,45,32,77,v,Crawford 15' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,0
+159,165,PT06M26.00S,2,1610612765,DET,203083,Drummond,A. Drummond,-4,7,1,Made,1,47,32,79,h,Drummond 1' Layup (8 PTS) (Hilliard 1 AST),Made Shot,Layup Shot,1,0
+160,166,PT06M11.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-12,169,17,Made,1,47,34,81,v,Crawford 17' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,0
+161,167,PT05M54.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond Palming Turnover (P2.T2),Turnover,Palming Turnover,1,0
+162,168,PT05M54.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+163,171,PT05M54.00S,2,1610612765,DET,1627771,Gbinije,M. Gbinije,0,0,0,,0,0,0,0,h,SUB: Caldwell-Pope FOR Gbinije,Substitution,,0,0
+164,172,PT05M40.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond S.FOUL (P3.T3) (C.Kirkland),Foul,Shooting,1,0
+165,173,PT05M40.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,47,35,82,v,Griffin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+166,175,PT05M40.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,SUB: Baynes FOR Drummond,Substitution,,0,0
+167,176,PT05M40.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,MISS Griffin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+168,178,PT05M40.00S,2,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+169,179,PT05M24.00S,2,1610612765,DET,203382,Baynes,A. Baynes,9,7,1,Made,1,49,35,84,h,Baynes 1' Layup (2 PTS) (Leuer 3 AST),Made Shot,Layup Shot,1,0
+170,180,PT05M11.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-133,144,20,Missed,1,0,0,0,v,MISS Crawford 20' Jump Shot,Missed Shot,Jump Shot,1,0
+171,181,PT05M10.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+172,182,PT05M04.00S,2,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,SUB: Harris FOR Leuer,Substitution,,0,0
+173,183,PT05M04.00S,2,1610612765,DET,202397,Smith,I. Smith,0,0,0,,0,0,0,0,h,Jump Ball Smith vs. Paul: Tip to Jordan,Jump Ball,,1,0
+174,184,PT05M01.00S,2,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,0,0,0,h,Hilliard P.FOUL (P2.T4) (M.Smith),Foul,Personal,1,0
+175,185,PT04M49.00S,2,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,1,0
+176,186,PT04M49.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,49,36,85,v,Griffin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+177,188,PT04M49.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,49,37,86,v,Griffin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+178,190,PT04M33.00S,2,1610612765,DET,202699,Harris,T. Harris,73,111,13,Missed,1,0,0,0,h,MISS Harris 13' Jump Shot,Missed Shot,Jump Shot,1,0
+179,191,PT04M32.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+180,192,PT04M16.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,-88,169,19,Missed,1,0,0,0,v,MISS Griffin 19' Jump Shot,Missed Shot,Jump Shot,1,0
+181,193,PT04M15.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+182,194,PT04M14.00S,2,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes S.FOUL (P2.PN) (C.Blair),Foul,Shooting,1,0
+183,195,PT04M14.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+184,196,PT04M14.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+185,197,PT04M14.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,49,38,87,v,Jordan Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+186,199,PT03M56.00S,2,1610612765,DET,1626199,Hilliard,D. Hilliard,236,100,26,Missed,1,0,0,0,h,MISS Hilliard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+187,200,PT03M55.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+188,201,PT03M50.00S,2,1610612765,DET,202397,Smith,I. Smith,0,0,0,,0,0,0,0,h,Smith S.FOUL (P1.PN) (M.Smith),Foul,Shooting,1,0
+189,202,PT03M50.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,49,39,88,v,Paul Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0
+190,204,PT03M50.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,49,40,89,v,Paul Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0
+191,206,PT03M50.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,49,41,90,v,Paul Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0
+192,208,PT03M34.00S,2,1610612765,DET,202699,Harris,T. Harris,-161,21,16,Made,1,51,41,92,h,Harris 16' Jump Shot (11 PTS) (Smith 3 AST),Made Shot,Jump Shot,1,0
+193,209,PT03M13.00S,2,1610612746,LAC,101108,Paul,C. Paul,230,26,0,Made,1,51,44,95,v,Paul  3PT Jump Shot (8 PTS) (Griffin 2 AST),Made Shot,Jump Shot,1,0
+194,210,PT03M07.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+195,212,PT02M55.00S,2,1610612765,DET,202699,Harris,T. Harris,-9,2,1,Made,1,53,44,97,h,Harris 1' Driving Layup (13 PTS) (Caldwell-Pope 4 AST),Made Shot,Driving Layup Shot,1,0
+196,213,PT02M35.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,1,2,0,Missed,1,0,0,0,v,MISS Griffin  Layup,Missed Shot,Layup Shot,1,0
+197,214,PT02M34.00S,2,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,0,0,0,h,Hilliard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+198,215,PT02M21.00S,2,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-81,120,14,Missed,1,0,0,0,h,MISS Caldwell-Pope 14' Jump Shot,Missed Shot,Jump Shot,1,0
+199,216,PT02M20.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+200,217,PT02M11.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,1,0,Made,1,53,46,99,v,Jordan  Alley Oop Dunk (8 PTS) (Paul 3 AST),Made Shot,Alley Oop Dunk Shot,1,0
+201,218,PT01M43.00S,2,1610612765,DET,202397,Smith,I. Smith,135,31,14,Missed,1,0,0,0,h,MISS Smith 14' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+202,219,PT01M42.00S,2,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+203,220,PT01M30.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0
+204,220,PT01M30.00S,2,1610612765,DET,202397,Smith,I. Smith,0,0,0,,0,0,0,0,h,Smith STEAL (1 STL),,,1,0
+205,221,PT01M30.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan L.B.FOUL (P2.T3) (C.Blair),Foul,Loose Ball,1,0
+206,222,PT01M12.00S,2,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,1,0
+207,223,PT01M01.00S,2,1610612746,LAC,101108,Paul,C. Paul,-158,210,26,Missed,1,0,0,0,v,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+208,224,PT01M01.00S,2,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+209,225,PT00M53.30S,2,1610612765,DET,202397,Smith,I. Smith,161,56,17,Made,1,55,46,101,h,Smith 17' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,0
+210,226,PT00M49.10S,2,1610612746,LAC,201933,Griffin,B. Griffin,-7,-5,1,Made,1,55,48,103,v,Griffin 1' Layup (10 PTS) (Paul 4 AST),Made Shot,Layup Shot,1,0
+211,227,PT00M35.80S,2,1610612765,DET,203382,Baynes,A. Baynes,0,1,0,Made,1,57,48,105,h,Baynes  Alley Oop Dunk (4 PTS) (Caldwell-Pope 5 AST),Made Shot,Alley Oop Dunk Shot,1,0
+212,228,PT00M27.90S,2,1610612746,LAC,101108,Paul,C. Paul,61,80,10,Missed,1,0,0,0,v,MISS Paul 10' Jump Shot,Missed Shot,Jump Shot,1,0
+213,229,PT00M27.50S,2,1610612765,DET,202397,Smith,I. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+214,230,PT00M04.90S,2,1610612765,DET,202397,Smith,I. Smith,-102,154,18,Missed,1,0,0,0,h,MISS Smith 18' Jump Shot,Missed Shot,Jump Shot,1,0
+215,231,PT00M03.90S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+216,232,PT00M00.50S,2,1610612746,LAC,2037,Crawford,J. Crawford,68,365,37,Missed,1,0,0,0,v,MISS Crawford 37' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+217,233,PT00M00.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+218,234,PT00M00.00S,2,0,,0,,,0,0,0,,0,57,48,105,,End of 2nd Period (8:36 PM EST),period,end,0,0
+219,236,PT12M00.00S,3,0,,0,,,0,0,0,,0,57,48,105,,Start of 3rd Period (8:52 PM EST),period,start,0,0
+220,237,PT11M47.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute P.FOUL (P1.T1) (M.Smith),Foul,Personal,1,0
+221,238,PT11M38.00S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-230,72,24,Made,1,60,48,108,h,Caldwell-Pope 24' 3PT Jump Shot (10 PTS) (Smith 4 AST),Made Shot,Jump Shot,1,0
+222,239,PT11M18.00S,3,1610612746,LAC,200755,Redick,J. Redick,-137,144,20,Missed,1,0,0,0,v,MISS Redick 20' Jump Shot,Missed Shot,Jump Shot,1,0
+223,240,PT11M18.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+224,241,PT11M07.00S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-204,178,27,Made,1,63,48,111,h,Caldwell-Pope 27' 3PT Jump Shot (13 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,0
+225,242,PT10M49.00S,3,1610612746,LAC,200755,Redick,J. Redick,-96,105,14,Made,1,63,50,113,v,Redick 14' Jump Shot (4 PTS) (Paul 5 AST),Made Shot,Jump Shot,1,0
+226,243,PT10M36.00S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0,0,0,h,Jump Ball Caldwell-Pope vs. Griffin: Tip to Jordan,Jump Ball,,1,0
+227,244,PT10M36.00S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0,0,0,h,Caldwell-Pope Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0
+228,245,PT10M24.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0
+229,245,PT10M24.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond STEAL (3 STL),,,1,0
+230,246,PT10M17.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,1,0,Made,1,65,50,115,h,Drummond  Alley Oop Dunk (10 PTS) (Smith 5 AST),Made Shot,Alley Oop Dunk Shot,1,0
+231,248,PT10M02.00S,3,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris Violation:Kicked Ball (C.Kirkland),Violation,Kicked Ball,0,0
+232,249,PT09M55.00S,3,1610612746,LAC,200755,Redick,J. Redick,-2,254,25,Made,1,65,53,118,v,Redick 25' 3PT Jump Shot (7 PTS) (Griffin 3 AST),Made Shot,Jump Shot,1,0
+233,250,PT09M38.00S,3,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,-140,75,16,Made,1,67,53,120,h,Marc Morris 16' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+234,251,PT09M18.00S,3,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris S.FOUL (P2.T1) (C.Kirkland),Foul,Shooting,1,0
+235,252,PT09M18.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,67,54,121,v,Griffin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+236,254,PT09M18.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,MISS Griffin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+237,256,PT09M17.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+238,257,PT08M59.00S,3,1610612765,DET,202699,Harris,T. Harris,-91,18,9,Made,1,69,54,123,h,Harris 9' Jump Bank Shot (15 PTS) (Caldwell-Pope 6 AST),Made Shot,Jump Bank Shot,1,0
+239,259,PT08M39.00S,3,1610612746,LAC,200755,Redick,J. Redick,161,77,18,Made,1,69,56,125,v,Redick 18' Turnaround Jump Shot (9 PTS) (Paul 6 AST),Made Shot,Turnaround Jump Shot,1,0
+240,260,PT08M23.00S,3,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,91,129,16,Missed,1,0,0,0,h,MISS Marc Morris 16' Jump Shot,Missed Shot,Jump Shot,1,0
+241,261,PT08M22.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+242,262,PT08M15.00S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0,0,0,h,Caldwell-Pope Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+243,262,PT08M15.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin STEAL (1 STL),,,1,0
+244,263,PT08M07.00S,3,1610612746,LAC,200755,Redick,J. Redick,-119,229,26,Missed,1,0,0,0,v,MISS Redick 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+245,264,PT08M06.00S,3,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+246,265,PT07M57.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,1,0,Made,1,71,56,127,h,Drummond  Alley Oop Dunk (12 PTS) (Caldwell-Pope 7 AST),Made Shot,Alley Oop Dunk Shot,1,0
+247,266,PT07M38.00S,3,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0
+248,267,PT07M24.00S,3,1610612765,DET,202699,Harris,T. Harris,-176,183,25,Missed,1,0,0,0,h,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+249,268,PT07M23.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+250,269,PT07M13.00S,3,1610612746,LAC,101108,Paul,C. Paul,-101,106,15,Missed,1,0,0,0,v,MISS Paul 15' Jump Shot,Missed Shot,Jump Shot,1,0
+251,270,PT07M12.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+252,271,PT07M08.00S,3,1610612765,DET,202397,Smith,I. Smith,-30,31,4,Missed,1,0,0,0,h,MISS Smith 4' Jump Shot,Missed Shot,Jump Shot,1,0
+253,271,PT07M08.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan BLOCK (2 BLK),,,1,0
+254,272,PT07M07.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+255,273,PT07M07.00S,3,1610612765,DET,202397,Smith,I. Smith,0,0,0,,0,0,0,0,,"Double Technical - Smith, Jordan (M.Smith)",Foul,Double Technical,1,0
+256,274,PT07M00.00S,3,1610612765,DET,202699,Harris,T. Harris,-34,57,7,Missed,1,0,0,0,h,MISS Harris 7' Jump Shot,Missed Shot,Jump Shot,1,0
+257,275,PT06M59.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+258,276,PT06M42.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-29,174,18,Missed,1,0,0,0,v,MISS Griffin 18' Jump Shot,Missed Shot,Jump Shot,1,0
+259,277,PT06M41.00S,3,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+260,278,PT06M25.00S,3,1610612765,DET,203083,Drummond,A. Drummond,9,8,1,Made,1,73,56,129,h,Drummond 1' Alley Oop Layup (14 PTS) (Caldwell-Pope 8 AST),Made Shot,Alley Oop Layup shot,1,0
+261,279,PT06M25.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+262,282,PT06M14.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,1,0,Made,1,73,58,131,v,Jordan  Driving Dunk (10 PTS) (Paul 7 AST),Made Shot,Driving Dunk Shot,1,0
+263,283,PT05M59.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute P.FOUL (P2.T2) (C.Blair),Foul,Personal,1,0
+264,284,PT05M49.00S,3,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+265,284,PT05M49.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan STEAL (1 STL),,,1,0
+266,286,PT05M39.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,-6,0,1,Made,1,73,60,133,v,Mbah a Moute 1' Driving Layup (2 PTS) (Redick 1 AST),Made Shot,Driving Layup Shot,1,0
+267,287,PT05M39.00S,3,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris S.FOUL (P4.T2) (C.Blair),Foul,Shooting,1,0
+268,288,PT05M39.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,73,61,134,v,Mbah a Moute Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+269,289,PT05M33.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+270,290,PT05M33.00S,3,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,SUB: Leuer FOR Marc Morris,Substitution,,0,0
+271,291,PT05M20.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan S.FOUL (P3.T3) (C.Kirkland),Foul,Shooting,1,0
+272,292,PT05M20.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,MISS Drummond Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+273,294,PT05M20.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Normal Rebound,0,0
+274,295,PT05M20.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,MISS Drummond Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+275,297,PT05M19.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+276,299,PT05M10.00S,3,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer P.FOUL (P1.T3) (C.Blair),Foul,Personal,1,0
+277,300,PT05M06.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-6,-1,1,Made,1,73,63,136,v,Griffin 1' Layup (13 PTS) (Paul 8 AST),Made Shot,Layup Shot,1,0
+278,301,PT04M42.00S,3,1610612765,DET,202699,Harris,T. Harris,6,257,26,Missed,1,0,0,0,h,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+279,302,PT04M41.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+280,303,PT04M31.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-9,-1,1,Made,1,73,65,138,v,Griffin 1' Layup (15 PTS) (Paul 9 AST),Made Shot,Layup Shot,1,0
+281,304,PT04M25.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Short (Full 4 Short 1),Timeout,Short,0,0
+282,306,PT04M11.00S,3,1610612765,DET,202720,Leuer,J. Leuer,123,3,12,Missed,1,0,0,0,h,MISS Leuer 12' Jump Shot,Missed Shot,Jump Shot,1,0
+283,307,PT04M11.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+284,308,PT04M06.00S,3,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer Illegal Screen Turnover (P1.T7),Turnover,Illegal Screen Turnover,1,0
+285,310,PT03M44.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-106,110,15,Made,1,73,67,140,v,Griffin 15' Jump Shot (17 PTS) (Paul 10 AST),Made Shot,Jump Shot,1,0
+286,311,PT03M14.00S,3,1610612765,DET,202397,Smith,I. Smith,-124,136,18,Made,1,75,67,142,h,Smith 18' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,0
+287,313,PT02M54.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,148,85,17,Made,1,75,69,144,v,Griffin 17' Jump Shot (19 PTS) (Paul 11 AST),Made Shot,Jump Shot,1,0
+288,314,PT02M30.00S,3,1610612765,DET,202720,Leuer,J. Leuer,-201,7,20,Made,1,77,69,146,h,Leuer 20' Jump Shot (6 PTS) (Caldwell-Pope 9 AST),Made Shot,Jump Shot,1,0
+289,315,PT02M10.00S,3,1610612746,LAC,200755,Redick,J. Redick,-137,95,17,Made,1,77,71,148,v,Redick 17' Jump Shot (11 PTS) (Paul 12 AST),Made Shot,Jump Shot,1,0
+290,316,PT01M54.00S,3,1610612765,DET,202720,Leuer,J. Leuer,230,13,0,Made,1,80,71,151,h,Leuer  3PT Jump Shot (9 PTS) (Harris 3 AST),Made Shot,Jump Shot,1,0
+291,317,PT01M31.00S,3,1610612746,LAC,101108,Paul,C. Paul,192,46,20,Missed,1,0,0,0,v,MISS Paul 20' Jump Shot,Missed Shot,Jump Shot,1,0
+292,318,PT01M30.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+293,319,PT01M27.00S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0,0,0,h,Caldwell-Pope P.FOUL (P2.T4) (C.Blair),Foul,Personal,1,0
+294,320,PT01M27.00S,3,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,80,72,152,v,Redick Free Throw 1 of 3 (12 PTS),Free Throw,Free Throw 1 of 3,0,0
+295,322,PT01M27.00S,3,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,80,73,153,v,Redick Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,0,0
+296,324,PT01M27.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Mbah a Moute,Substitution,,0,0
+297,325,PT01M27.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,SUB: Rivers FOR Paul,Substitution,,0,0
+298,326,PT01M27.00S,3,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,80,74,154,v,Redick Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,0,0
+299,328,PT01M16.00S,3,1610612765,DET,202397,Smith,I. Smith,0,7,1,Missed,1,0,0,0,h,MISS Smith 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+300,328,PT01M16.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan BLOCK (3 BLK),,,1,0
+301,329,PT01M14.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+302,330,PT01M08.00S,3,1610612746,LAC,200755,Redick,J. Redick,-150,208,26,Made,1,80,77,157,v,Redick 26' 3PT Jump Shot (17 PTS) (Griffin 4 AST),Made Shot,Jump Shot,1,0
+303,331,PT00M49.40S,3,1610612765,DET,202720,Leuer,J. Leuer,-1,67,7,Made,1,82,77,159,h,Leuer 7' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,0
+304,332,PT00M40.90S,3,1610612746,LAC,200755,Redick,J. Redick,-97,229,25,Made,1,82,80,162,v,Redick 25' 3PT Jump Shot (20 PTS) (Crawford 3 AST),Made Shot,Jump Shot,1,0
+305,333,PT00M26.10S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-240,41,24,Missed,1,0,0,0,h,MISS Caldwell-Pope 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+306,334,PT00M25.10S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+307,335,PT00M25.10S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,SUB: Speights FOR Jordan,Substitution,,0,0
+308,336,PT00M25.10S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,SUB: Baynes FOR Drummond,Substitution,,0,0
+309,337,PT00M25.10S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,SUB: Paul FOR Griffin,Substitution,,0,0
+310,338,PT00M02.00S,3,1610612746,LAC,101108,Paul,C. Paul,28,254,26,Missed,1,0,0,0,v,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+311,339,PT00M01.10S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+312,341,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,80,162,,End of 3rd Period (9:21 PM EST),period,end,0,0
+313,343,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,80,162,,Start of 4th Period (9:23 PM EST),period,start,0,0
+314,344,PT11M42.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,62,122,14,Missed,1,0,0,0,v,MISS Crawford 14' Jump Shot,Missed Shot,Jump Shot,1,0
+315,345,PT11M41.00S,4,1610612765,DET,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+316,346,PT11M18.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,6,11,1,Missed,1,0,0,0,h,MISS Marc Morris 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+317,347,PT11M18.00S,4,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+318,348,PT10M55.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,-83,262,27,Missed,1,0,0,0,h,MISS Marc Morris 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+319,349,PT10M54.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+320,350,PT10M54.00S,4,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes L.B.FOUL (P3.T1) (M.Smith),Foul,Loose Ball,1,0
+321,352,PT10M34.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-2,-1,0,Made,1,82,82,164,v,Crawford  Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,0
+322,353,PT10M09.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,-58,26,6,Missed,1,0,0,0,h,MISS Marc Morris 6' Jump Shot,Missed Shot,Jump Shot,1,0
+323,354,PT10M08.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+324,355,PT10M00.00S,4,1610612746,LAC,101109,Felton,R. Felton,-6,0,1,Made,1,82,84,166,v,Felton 1' Driving Layup (4 PTS) (Crawford 4 AST),Made Shot,Driving Layup Shot,1,0
+325,356,PT09M39.00S,4,1610612765,DET,1626199,Hilliard,D. Hilliard,10,154,15,Made,1,84,84,168,h,Hilliard 15' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+326,357,PT09M22.00S,4,1610612746,LAC,201578,Speights,M. Speights,159,75,18,Missed,1,0,0,0,v,MISS Speights 18' Jump Shot,Missed Shot,Jump Shot,1,0
+327,358,PT09M21.00S,4,1610612765,DET,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+328,359,PT09M10.00S,4,1610612765,DET,202720,Leuer,J. Leuer,-81,242,26,Missed,1,0,0,0,h,MISS Leuer 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+329,360,PT09M09.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+330,361,PT09M01.00S,4,1610612746,LAC,201578,Speights,M. Speights,55,28,6,Missed,1,0,0,0,v,MISS Speights 6' Jump Shot,Missed Shot,Jump Shot,1,0
+331,362,PT09M00.00S,4,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+332,363,PT08M50.00S,4,1610612765,DET,1626199,Hilliard,D. Hilliard,-92,169,19,Made,1,86,84,170,h,Hilliard 19' Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+333,364,PT08M50.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights S.FOUL (P3.T1) (C.Kirkland),Foul,Shooting,1,0
+334,365,PT08M50.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+335,368,PT08M50.00S,4,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,87,84,171,h,Hilliard Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+336,369,PT08M37.00S,4,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes S.FOUL (P4.T2) (C.Kirkland),Foul,Shooting,1,0
+337,370,PT08M37.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,MISS Speights Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+338,371,PT08M37.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+339,372,PT08M37.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,87,85,172,v,Speights Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+340,374,PT08M20.00S,4,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,0,0,0,h,Hilliard Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0
+341,374,PT08M20.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,v,Rivers STEAL (1 STL),,,1,0
+342,375,PT08M13.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,-7,3,1,Missed,1,0,0,0,v,MISS Rivers 1' Layup,Missed Shot,Layup Shot,1,0
+343,376,PT08M12.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+344,377,PT08M10.00S,4,1610612746,LAC,201578,Speights,M. Speights,-4,0,0,Missed,1,0,0,0,v,MISS Speights  Layup,Missed Shot,Layup Shot,1,0
+345,378,PT08M09.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+346,379,PT08M06.00S,4,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,0,0,0,h,Hilliard Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+347,380,PT07M45.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,12,11,2,Missed,1,0,0,0,v,MISS Rivers 2' Layup,Missed Shot,Layup Shot,1,0
+348,381,PT07M44.00S,4,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+349,382,PT07M23.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,187,11,19,Made,1,89,85,174,h,Marc Morris 19' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,0
+350,383,PT07M05.00S,4,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer S.FOUL (P2.T3) (M.Smith),Foul,Shooting,1,0
+351,384,PT07M05.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,89,86,175,v,Crawford Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+352,386,PT07M05.00S,4,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,SUB: Drummond FOR Baynes,Substitution,,0,0
+353,387,PT07M05.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,SUB: Jordan FOR Speights,Substitution,,0,0
+354,388,PT07M05.00S,4,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,v,SUB: Griffin FOR W. Johnson,Substitution,,0,0
+355,389,PT07M05.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,MISS Crawford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+356,391,PT07M04.00S,4,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+357,392,PT06M45.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,-210,160,26,Made,1,92,86,178,h,Marc Morris 26' 3PT Jump Shot (11 PTS) (Leuer 4 AST),Made Shot,Jump Shot,1,0
+358,393,PT06M44.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+359,395,PT06M44.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,v,SUB: Redick FOR Rivers,Substitution,,0,0
+360,396,PT06M44.00S,4,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,SUB: Paul FOR Felton,Substitution,,0,0
+361,398,PT06M44.00S,4,1610612765,DET,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,SUB: Smith FOR Udrih,Substitution,,0,0
+362,399,PT06M44.00S,4,1610612765,DET,1626199,Hilliard,D. Hilliard,0,0,0,,0,0,0,0,h,SUB: Caldwell-Pope FOR Hilliard,Substitution,,0,0
+363,401,PT06M30.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-24,100,10,Missed,1,0,0,0,v,MISS Crawford 10' Jump Shot,Missed Shot,Jump Shot,1,0
+364,402,PT06M29.00S,4,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+365,403,PT06M18.00S,4,1610612765,DET,203083,Drummond,A. Drummond,58,11,6,Missed,1,0,0,0,h,MISS Drummond 6' Hook Shot,Missed Shot,Hook Shot,1,0
+366,404,PT06M17.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+367,405,PT06M13.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0
+368,406,PT05M56.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,9,175,18,Made,1,94,86,180,h,Marc Morris 18' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,0
+369,407,PT05M31.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,148,70,16,Missed,1,0,0,0,v,MISS Crawford 16' Jump Shot,Missed Shot,Jump Shot,1,0
+370,408,PT05M30.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+371,409,PT05M14.00S,4,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,89,252,27,Made,1,97,86,183,h,Caldwell-Pope 27' 3PT Jump Shot (16 PTS) (Smith 6 AST),Made Shot,Jump Shot,1,0
+372,410,PT05M14.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+373,412,PT05M14.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,SUB: Mbah a Moute FOR Paul,Substitution,,0,0
+374,414,PT05M14.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Paul FOR Crawford,Substitution,,0,0
+375,415,PT05M00.00S,4,1610612746,LAC,200755,Redick,J. Redick,-2,190,19,Made,1,97,88,185,v,Redick 19' Jump Shot (22 PTS) (Griffin 5 AST),Made Shot,Jump Shot,1,0
+376,416,PT04M40.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,-130,61,14,Missed,1,0,0,0,h,MISS Marc Morris 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+377,417,PT04M39.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+378,418,PT04M39.00S,4,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond P.FOUL (P4.T4) (C.Blair),Foul,Personal,1,0
+379,419,PT04M30.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,-2,0,0,Made,1,97,90,187,v,Griffin  Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,0
+380,420,PT04M15.00S,4,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-55,262,27,Missed,1,0,0,0,h,MISS Caldwell-Pope 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+381,421,PT04M14.00S,4,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+382,422,PT04M13.00S,4,1610612765,DET,203083,Drummond,A. Drummond,-12,3,1,Missed,1,0,0,0,h,MISS Drummond 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+383,423,PT04M13.00S,4,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+384,424,PT04M13.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul L.B.FOUL (P2.T2) (C.Blair),Foul,Loose Ball,1,0
+385,425,PT03M57.00S,4,1610612765,DET,203083,Drummond,A. Drummond,0,1,0,Made,1,99,90,189,h,Drummond  Dunk (16 PTS) (Caldwell-Pope 10 AST),Made Shot,Dunk Shot,1,0
+386,426,PT03M49.00S,4,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,1,0
+387,427,PT03M49.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,MISS Griffin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+388,428,PT03M49.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+389,429,PT03M49.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,99,91,190,v,Griffin Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0
+390,431,PT03M27.00S,4,1610612765,DET,202720,Leuer,J. Leuer,243,43,25,Missed,1,0,0,0,h,MISS Leuer 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+391,432,PT03M26.00S,4,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+392,433,PT03M25.00S,4,1610612765,DET,203083,Drummond,A. Drummond,-9,-1,1,Missed,1,0,0,0,h,MISS Drummond 1' Layup,Missed Shot,Layup Shot,1,0
+393,434,PT03M24.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+394,435,PT03M13.00S,4,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,232,11,0,Missed,1,0,0,0,v,MISS Mbah a Moute  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+395,436,PT03M12.00S,4,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Drummond REBOUND (Off:4 Def:6),Rebound,Unknown,1,0
+396,437,PT03M02.00S,4,1610612765,DET,202397,Smith,I. Smith,74,242,25,Made,1,102,91,193,h,Smith 25' 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,1,0
+397,438,PT03M02.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+398,440,PT02M46.00S,4,1610612746,LAC,200755,Redick,J. Redick,-9,2,1,Made,1,102,93,195,v,Redick 1' Driving Layup (24 PTS) (Paul 13 AST),Made Shot,Driving Layup Shot,1,0
+399,441,PT02M27.00S,4,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-52,21,6,Missed,1,0,0,0,h,MISS Caldwell-Pope 6' Jump Shot,Missed Shot,Jump Shot,1,0
+400,442,PT02M26.00S,4,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+401,443,PT02M10.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,117,110,16,Made,1,102,95,197,v,Griffin 16' Jump Shot (24 PTS) (Paul 14 AST),Made Shot,Jump Shot,1,0
+402,444,PT01M45.00S,4,1610612765,DET,202397,Smith,I. Smith,-133,101,17,Missed,1,0,0,0,h,MISS Smith 17' Jump Shot,Missed Shot,Jump Shot,1,0
+403,445,PT01M44.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+404,446,PT01M41.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick Offensive Charge Foul (P1.T3) (C.Blair),Foul,Offensive Charge,1,0
+405,447,PT01M41.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick Foul Turnover (P3.T13),Turnover,Foul,1,0
+406,448,PT01M41.00S,4,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Mbah a Moute,Substitution,,0,0
+407,449,PT01M26.00S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,-58,21,6,Made,1,104,95,199,h,Marc Morris 6' Driving Bank Shot (15 PTS),Made Shot,Driving Bank shot,1,0
+408,450,PT01M08.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,32,33,5,Missed,1,0,0,0,v,MISS Griffin 5' Jump Shot,Missed Shot,Jump Shot,1,0
+409,451,PT01M07.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+410,452,PT01M04.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,-14,3,1,Made,1,104,97,201,v,Jordan 1' Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,0
+411,454,PT00M51.40S,4,0,,1610612765,,,0,0,0,,0,0,0,0,h,PISTONS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+412,457,PT00M49.60S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,h,Marc Morris Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+413,457,PT00M49.60S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul STEAL (1 STL),,,1,0
+414,458,PT00M44.50S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul Bad Pass Turnover (P5.T14),Turnover,Bad Pass,1,0
+415,458,PT00M44.50S,4,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer STEAL (1 STL),,,1,0
+416,459,PT00M40.60S,4,1610612765,DET,202694,Morris Sr.,M. Morris Sr.,0,1,0,Made,1,106,97,203,h,Marc Morris  Alley Oop Dunk (17 PTS) (Smith 7 AST),Made Shot,Alley Oop Dunk Shot,1,0
+417,460,PT00M40.60S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+418,464,PT00M32.50S,4,1610612746,LAC,200755,Redick,J. Redick,213,154,26,Missed,1,0,0,0,v,MISS Redick 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+419,465,PT00M31.50S,4,1610612765,DET,202397,Smith,I. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+420,466,PT00M31.50S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul P.FOUL (P3.PN) (C.Kirkland),Foul,Personal,1,0
+421,467,PT00M31.50S,4,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,SUB: Baynes FOR Drummond,Substitution,,0,0
+422,468,PT00M31.50S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,SUB: W. Johnson FOR Jordan,Substitution,,0,0
+423,469,PT00M28.30S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul P.FOUL (P4.PN) (M.Smith),Foul,Personal,1,0
+424,470,PT00M28.30S,4,1610612765,DET,202397,Smith,I. Smith,0,0,0,,0,107,97,204,h,Smith Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+425,472,PT00M28.30S,4,1610612765,DET,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,SUB: Hilliard FOR Baynes,Substitution,,0,0
+426,473,PT00M28.30S,4,1610612765,DET,202397,Smith,I. Smith,0,0,0,,0,108,97,205,h,Smith Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0
+427,475,PT00M20.90S,4,1610612746,LAC,101108,Paul,C. Paul,107,257,28,Missed,1,0,0,0,v,MISS Paul 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+428,476,PT00M19.80S,4,1610612765,DET,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+429,477,PT00M00.00S,4,0,,0,,,0,0,0,,0,108,97,205,,End of 4th Period (9:55 PM EST),period,end,1,0

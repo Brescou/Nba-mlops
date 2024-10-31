@@ -1,0 +1,456 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:41 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Jump Ball Kaman vs. Zeller: Tip to M. James,Jump Ball,,0,0
+3,2,PT11M39.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-172,20,17,Missed,1,,,0,h,MISS Nowitzki 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+4,3,PT11M37.00S,1,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+5,4,PT11M18.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,-52,3,5,Missed,1,,,0,v,MISS Thompson 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+6,5,PT11M16.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+7,6,PT11M15.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,7,0,1,Missed,1,,,0,v,MISS Zeller 1' Layup,Missed Shot,Layup Shot,0,0
+8,6,PT11M15.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki BLOCK (1 BLK),,,0,0
+9,7,PT11M13.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,8,PT11M03.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0
+11,8,PT11M03.00S,1,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston STEAL (1 STL),,,0,0
+12,9,PT10M55.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,86,208,23,Made,1,0,2,2,v,Zeller 23' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+13,10,PT10M37.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,-64,56,9,Made,1,2,2,4,h,Kaman 9' Jump Hook Shot (2 PTS),Made Shot,Jump Hook Shot,0,0
+14,11,PT10M15.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,-193,124,23,Missed,1,,,0,v,MISS Waiters 23' Jump Shot,Missed Shot,Jump Shot,0,0
+15,12,PT10M14.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+16,13,PT10M07.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-166,37,17,Missed,1,,,0,h,MISS Nowitzki 17' Jump Shot,Missed Shot,Jump Shot,0,0
+17,14,PT10M05.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+18,15,PT09M55.00S,1,1610612739,CLE,202087,Gee,A. Gee,-232,1,0,Made,1,2,5,7,v,Gee 3PT Jump Shot (3 PTS) (Livingston 1 AST),Made Shot,Jump Shot,0,0
+19,16,PT09M42.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,-155,66,17,Missed,1,,,0,h,MISS Kaman 17' Jump Shot,Missed Shot,Jump Shot,0,0
+20,17,PT09M41.00S,1,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+21,18,PT09M34.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,125,6,13,Missed,1,,,0,h,MISS Kaman 13' Jump Shot,Missed Shot,Jump Shot,0,0
+22,19,PT09M33.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+23,20,PT09M21.00S,1,1610612742,DAL,201564,Mayo,O. Mayo,-109,104,15,Missed,1,,,0,h,MISS Mayo 15' Jump Shot,Missed Shot,Jump Shot,0,0
+24,21,PT09M20.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+25,22,PT09M17.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-7,154,15,Missed,1,,,0,h,MISS Nowitzki 15' Jump Shot,Missed Shot,Jump Shot,0,0
+26,23,PT09M15.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+27,24,PT08M52.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,21,9,2,Missed,1,,,0,v,MISS Waiters 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+28,25,PT08M50.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+29,27,PT08M29.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,149,52,16,Missed,1,,,0,h,MISS Nowitzki 16' Jump Shot,Missed Shot,Jump Shot,0,0
+30,28,PT08M28.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+31,29,PT08M17.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,6,7,1,Made,1,2,7,9,v,Thompson 1' Layup (2 PTS),Made Shot,Layup Shot,0,0
+32,30,PT07M59.00S,1,1610612742,DAL,2229,James,M. James,-90,236,25,Missed,1,,,0,h,MISS M. James 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+33,31,PT07M58.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+34,32,PT07M39.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,1,3,0,Missed,1,,,0,v,MISS Zeller Driving Layup,Missed Shot,Driving Layup Shot,0,0
+35,32,PT07M39.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman BLOCK (1 BLK),,,0,0
+36,33,PT07M36.00S,1,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+37,34,PT07M35.00S,1,1610612739,CLE,2733,Livingston,S. Livingston,-26,140,14,Missed,1,,,0,v,MISS Livingston 14' Jump Shot,Missed Shot,Jump Shot,0,0
+38,35,PT07M34.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+39,36,PT07M27.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,204,-5,20,Missed,1,,,0,h,MISS Crowder 20' Jump Shot,Missed Shot,Jump Shot,0,0
+40,36,PT07M27.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee BLOCK (1 BLK),,,0,0
+41,37,PT07M27.00S,1,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+42,38,PT07M20.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,154,1,15,Missed,1,,,0,h,MISS Nowitzki 15' Jump Shot,Missed Shot,Jump Shot,0,0
+43,39,PT07M19.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+44,40,PT07M08.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,43,6,4,Made,1,2,9,11,v,Zeller 4' Floating Jump Shot (4 PTS) (Livingston 2 AST),Made Shot,Floating Jump shot,0,0
+45,42,PT07M08.00S,1,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+46,43,PT07M08.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Collison FOR Nowitzki,Substitution,,0,0
+47,44,PT07M08.00S,1,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,SUB: B. Wright FOR M. James,Substitution,,0,0
+48,46,PT06M53.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,160,20,16,Made,1,4,9,13,h,Kaman 16' Jump Shot (4 PTS) (Mayo 1 AST),Made Shot,Jump Shot,0,0
+49,47,PT06M31.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,4,6,1,Made,1,4,11,15,v,Thompson 1' Layup (4 PTS) (Livingston 3 AST),Made Shot,Layup Shot,0,0
+50,48,PT06M31.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman S.FOUL (P1.T1),Foul,Shooting,0,0
+51,49,PT06M31.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+52,51,PT06M29.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+53,52,PT06M15.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman P.FOUL (P2.T2),Foul,Personal,0,0
+54,53,PT06M15.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,SUB: Brand FOR Kaman,Substitution,,0,0
+55,54,PT06M15.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,SUB: Carter FOR Crowder,Substitution,,0,0
+56,55,PT06M06.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,-78,25,8,Made,1,4,13,17,v,Waiters 8' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+57,56,PT05M49.00S,1,1610612742,DAL,1713,Carter,V. Carter,-120,213,24,Missed,1,,,0,h,MISS Carter 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+58,57,PT05M47.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+59,58,PT05M41.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+60,58,PT05M41.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters STEAL (1 STL),,,0,0
+61,59,PT05M36.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+62,60,PT05M36.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Gibson FOR Thompson,Substitution,,0,0
+63,61,PT05M36.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,SUB: Walton FOR Waiters,Substitution,,0,0
+64,62,PT05M25.00S,1,1610612742,DAL,201564,Mayo,O. Mayo,100,198,22,Made,1,6,13,19,h,Mayo 22' Jump Shot (2 PTS) (Collison 1 AST),Made Shot,Jump Shot,0,0
+65,63,PT05M10.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,-106,179,21,Missed,1,,,0,v,MISS Zeller 21' Jump Shot,Missed Shot,Jump Shot,0,0
+66,64,PT05M09.00S,1,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,B. Wright REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+67,65,PT04M45.00S,1,1610612742,DAL,201148,Wright,B. Wright,88,12,9,Missed,1,,,0,h,MISS B. Wright 9' Jump Shot,Missed Shot,Jump Shot,0,0
+68,66,PT04M43.00S,1,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+69,67,PT04M38.00S,1,1610612739,CLE,202087,Gee,A. Gee,-60,20,6,Missed,1,,,0,v,MISS Gee 6' Jump Shot,Missed Shot,Jump Shot,0,0
+70,67,PT04M38.00S,1,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo BLOCK (1 BLK),,,0,0
+71,68,PT04M36.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+72,69,PT04M33.00S,1,1610612742,DAL,201954,Collison,D. Collison,13,19,2,Made,1,8,13,21,h,Collison 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+73,70,PT04M17.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,-166,23,17,Made,1,8,15,23,v,Zeller 17' Jump Shot (6 PTS) (Livingston 4 AST),Made Shot,Jump Shot,0,0
+74,71,PT04M04.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee P.FOUL (P1.T1),Foul,Personal,0,0
+75,72,PT03M55.00S,1,1610612742,DAL,1882,Brand,E. Brand,-97,61,11,Made,1,10,15,25,h,Brand 11' Turnaround Jump Shot (2 PTS) (Mayo 2 AST),Made Shot,Turnaround Jump Shot,0,0
+76,73,PT03M37.00S,1,1610612739,CLE,202087,Gee,A. Gee,-224,-2,0,Missed,1,,,0,v,MISS Gee 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+77,74,PT03M37.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+78,75,PT03M37.00S,1,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand L.B.FOUL (P1.T3),Foul,Loose Ball,0,0
+79,76,PT03M34.00S,1,1610612739,CLE,2733,Livingston,S. Livingston,7,1,1,Made,1,10,17,27,v,Livingston 1' Alley Oop Dunk (2 PTS) (Walton 1 AST),Made Shot,Alley Oop Dunk Shot,0,0
+80,78,PT03M07.00S,1,1610612742,DAL,201148,Wright,B. Wright,23,9,2,Made,1,12,17,29,h,B. Wright 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+81,79,PT02M54.00S,1,1610612739,CLE,202087,Gee,A. Gee,6,-5,1,Made,1,12,19,31,v,Gee 1' Dunk (5 PTS) (Walton 2 AST),Made Shot,Dunk Shot,0,0
+82,80,PT02M42.00S,1,1610612742,DAL,1882,Brand,E. Brand,0,14,1,Missed,1,,,0,h,MISS Brand 1' Layup,Missed Shot,Layup Shot,0,0
+83,81,PT02M41.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+84,82,PT02M32.00S,1,1610612739,CLE,2733,Livingston,S. Livingston,-7,192,19,Made,1,12,21,33,v,Livingston 19' Jump Shot (4 PTS) (Walton 3 AST),Made Shot,Jump Shot,0,0
+85,83,PT02M31.00S,1,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Short (Full 1 Short 1),Timeout,Short,0,0
+86,85,PT02M31.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+87,86,PT02M31.00S,1,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: M. James FOR Mayo,Substitution,,0,0
+88,87,PT02M31.00S,1,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Brand,Substitution,,0,0
+89,89,PT02M14.00S,1,1610612742,DAL,201148,Wright,B. Wright,-4,31,3,Made,1,14,21,35,h,B. Wright 3' Alley Oop Layup (4 PTS) (Collison 2 AST),Made Shot,Alley Oop Layup shot,0,0
+90,91,PT01M49.00S,1,1610612739,CLE,202087,Gee,A. Gee,-93,12,9,Missed,1,,,0,v,MISS Gee 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+91,92,PT01M47.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+92,93,PT01M45.00S,1,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston S.FOUL (P1.T2),Foul,Shooting,0,0
+93,94,PT01M45.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,15,21,36,h,Collison Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+94,96,PT01M45.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,SUB: Speights FOR Gee,Substitution,,0,0
+95,97,PT01M45.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,SUB: Miles FOR Zeller,Substitution,,0,0
+96,98,PT01M45.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,16,21,37,h,Collison Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+97,100,PT01M31.00S,1,1610612739,CLE,101139,Miles,C. Miles,223,1,0,Made,1,16,24,40,v,Miles 3PT Jump Shot (3 PTS) (Speights 1 AST),Made Shot,Jump Shot,0,0
+98,102,PT01M11.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0
+99,102,PT01M11.00S,1,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,,,0,v,Speights STEAL (1 STL),,,0,0
+100,103,PT01M01.00S,1,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+101,103,PT01M01.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison STEAL (1 STL),,,0,0
+102,104,PT00M58.50S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+103,105,PT00M49.90S,1,1610612739,CLE,2733,Livingston,S. Livingston,133,7,13,Missed,1,,,0,v,MISS Livingston 13' Jump Shot,Missed Shot,Jump Shot,0,0
+104,106,PT00M48.70S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+105,107,PT00M33.90S,1,1610612742,DAL,1713,Carter,V. Carter,-76,242,25,Missed,1,,,0,h,MISS Carter 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+106,108,PT00M32.80S,1,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+107,109,PT00M20.90S,1,1610612739,CLE,2575,Walton,L. Walton,31,60,7,Missed,1,,,0,v,MISS Walton 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+108,110,PT00M16.90S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+109,111,PT00M00.40S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0
+110,111,PT00M00.40S,1,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton STEAL (1 STL),,,0,0
+111,112,PT00M00.00S,1,0,,0,,,0,0,0,,0,16,24,40,,End of 1st Period (9:03 PM EST),period,end,0,0
+112,114,PT12M00.00S,2,0,,0,,,0,0,0,,0,16,24,40,,Start of 2nd Period (9:06 PM EST),period,start,0,0
+113,115,PT11M39.00S,2,1610612739,CLE,2575,Walton,L. Walton,-204,138,25,Made,1,16,27,43,v,Walton 25' 3PT Jump Shot (3 PTS) (Gibson 1 AST),Made Shot,Jump Shot,0,0
+114,116,PT11M22.00S,2,1610612742,DAL,1713,Carter,V. Carter,6,6,1,Missed,1,,,0,h,MISS Carter 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+115,117,PT11M19.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+116,118,PT11M18.00S,2,1610612742,DAL,1713,Carter,V. Carter,-21,1,2,Made,1,18,27,45,h,Carter 2' Layup (2 PTS),Made Shot,Layup Shot,0,0
+117,119,PT11M07.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter S.FOUL (P1.T1),Foul,Shooting,0,0
+118,120,PT11M07.00S,2,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,MISS Miles Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0
+119,121,PT11M07.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0
+120,122,PT11M07.00S,2,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,18,28,46,v,Miles Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0
+121,124,PT11M07.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,SUB: Crowder FOR Carter,Substitution,,0,0
+122,125,PT11M00.00S,2,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,18,29,47,v,Miles Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0
+123,127,PT10M53.00S,2,1610612742,DAL,2229,James,M. James,-123,214,25,Missed,1,,,0,h,MISS M. James 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+124,129,PT10M51.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+125,128,PT10M51.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-15,-3,2,Made,1,20,29,49,h,Nowitzki 2' Layup (2 PTS),Made Shot,Layup Shot,0,0
+126,130,PT10M39.00S,2,1610612739,CLE,201578,Speights,M. Speights,-30,41,5,Made,1,20,31,51,v,Speights 5' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+127,132,PT10M22.00S,2,1610612742,DAL,1882,Brand,E. Brand,-23,48,5,Made,1,22,31,53,h,Brand 5' Turnaround Jump Shot (4 PTS) (Nowitzki 1 AST),Made Shot,Turnaround Jump Shot,0,0
+128,133,PT10M08.00S,2,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton OFF.Foul (P1),Foul,Offensive,0,0
+129,134,PT10M08.00S,2,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton Foul Turnover (P2.T3),Turnover,Foul,0,0
+130,136,PT09M56.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,-95,235,25,Missed,1,,,0,h,MISS Beaubois 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+131,137,PT09M55.00S,2,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+132,138,PT09M48.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,127,211,25,Missed,1,,,0,v,MISS Gibson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+133,139,PT09M48.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+134,140,PT09M40.00S,2,1610612742,DAL,2229,James,M. James,21,15,3,Made,1,24,31,55,h,M. James 3' Running Layup (2 PTS) (Crowder 1 AST),Made Shot,Running Layup Shot,0,0
+135,141,PT09M29.00S,2,1610612739,CLE,101139,Miles,C. Miles,28,246,25,Missed,1,,,0,v,MISS Miles 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+136,142,PT09M28.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,,,0,h,Beaubois REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+137,143,PT09M23.00S,2,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James Traveling Turnover (P1.T6),Turnover,Traveling,0,0
+138,144,PT09M23.00S,2,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,SUB: Thompson FOR Walton,Substitution,,0,0
+139,145,PT09M13.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Traveling Turnover (P1.T4),Turnover,Traveling,0,0
+140,146,PT09M02.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,31,140,14,Made,1,26,31,57,h,Nowitzki 14' Jump Shot (4 PTS) (Beaubois 1 AST),Made Shot,Jump Shot,0,0
+141,147,PT08M47.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,23,48,5,Made,1,26,33,59,v,Thompson 5' Jump Shot (6 PTS) (Gibson 2 AST),Made Shot,Jump Shot,0,0
+142,148,PT08M27.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,6,1,Made,1,28,33,61,h,Beaubois 1' Layup (2 PTS) (Nowitzki 2 AST),Made Shot,Layup Shot,0,0
+143,149,PT08M14.00S,2,1610612739,CLE,201578,Speights,M. Speights,108,137,17,Missed,1,,,0,v,MISS Speights 17' Jump Shot,Missed Shot,Jump Shot,0,0
+144,150,PT08M13.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,,,0,h,Beaubois REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+145,151,PT08M04.00S,2,1610612742,DAL,2229,James,M. James,233,0,0,Missed,1,,,0,h,MISS M. James 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+146,152,PT08M03.00S,2,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,,,0,v,Speights REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+147,153,PT07M46.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,-92,148,17,Missed,1,,,0,v,MISS Waiters 17' Jump Shot,Missed Shot,Jump Shot,0,0
+148,154,PT07M45.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+149,155,PT07M35.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,-187,17,19,Missed,1,,,0,h,MISS Crowder 19' Jump Shot,Missed Shot,Jump Shot,0,0
+150,156,PT07M34.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+151,157,PT07M24.00S,2,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,,,0,v,Speights Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+152,157,PT07M24.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder STEAL (1 STL),,,0,0
+153,158,PT07M17.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,29,14,3,Missed,1,,,0,h,MISS Nowitzki 3' Jump Shot,Missed Shot,Jump Shot,0,0
+154,158,PT07M17.00S,2,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles BLOCK (1 BLK),,,0,0
+155,159,PT07M17.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+156,160,PT07M17.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+157,162,PT07M17.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Carter FOR Nowitzki,Substitution,,0,0
+158,163,PT07M17.00S,2,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,SUB: Mayo FOR M. James,Substitution,,0,0
+159,164,PT07M17.00S,2,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,SUB: B. Wright FOR Brand,Substitution,,0,0
+160,165,PT07M17.00S,2,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,,,0,v,SUB: Zeller FOR Speights,Substitution,,0,0
+161,166,PT07M09.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P1.T1),Foul,Shooting,0,0
+162,167,PT07M09.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,,,0,h,MISS Beaubois Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+163,168,PT07M09.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,0
+164,169,PT07M09.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,29,33,62,h,Beaubois Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+165,171,PT06M56.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,192,36,20,Missed,1,,,0,v,MISS Zeller 20' Jump Shot,Missed Shot,Jump Shot,0,0
+166,172,PT06M55.00S,2,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+167,173,PT06M47.00S,2,1610612742,DAL,201564,Mayo,O. Mayo,119,181,22,Missed,1,,,0,h,MISS Mayo 22' Jump Shot,Missed Shot,Jump Shot,0,0
+168,174,PT06M46.00S,2,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+169,175,PT06M38.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,-19,17,3,Missed,1,,,0,v,MISS Waiters 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+170,176,PT06M36.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+171,177,PT06M28.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,118,222,25,Made,1,32,33,65,h,Beaubois 25' 3PT Jump Shot (6 PTS) (Mayo 3 AST),Made Shot,Jump Shot,0,0
+172,178,PT06M12.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder Violation:Kicked Ball,Violation,Kicked Ball,0,0
+173,179,PT06M12.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,SUB: Livingston FOR Gibson,Substitution,,0,0
+174,180,PT06M02.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0
+175,180,PT06M02.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,,,0,h,Beaubois STEAL (1 STL),,,0,0
+176,181,PT05M52.00S,2,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston S.FOUL (P2.T2),Foul,Shooting,0,0
+177,183,PT05M52.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,0
+178,187,PT05M52.00S,2,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,MISS Mayo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+179,188,PT05M52.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,0
+180,189,PT05M52.00S,2,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,MISS Mayo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+181,191,PT05M50.00S,2,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+182,192,PT05M30.00S,2,1610612739,CLE,101139,Miles,C. Miles,228,4,0,Missed,1,,,0,v,MISS Miles 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+183,193,PT05M29.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+184,194,PT05M26.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,81,58,10,Missed,1,,,0,v,MISS Zeller 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+185,195,PT05M25.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,B. Wright REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+186,196,PT05M08.00S,2,1610612742,DAL,201564,Mayo,O. Mayo,-147,205,25,Missed,1,,,0,h,MISS Mayo 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+187,197,PT05M07.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+188,198,PT04M46.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-127,25,13,Missed,1,,,0,v,MISS Thompson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+189,199,PT04M45.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+190,200,PT04M34.00S,2,1610612742,DAL,201148,Wright,B. Wright,-8,50,5,Missed,1,,,0,h,MISS B. Wright 5' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+191,201,PT04M31.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+192,202,PT04M23.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+193,203,PT04M23.00S,2,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,SUB: Gee FOR Miles,Substitution,,0,0
+194,204,PT04M13.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,B. Wright OFF.Foul (P1),Foul,Offensive,0,0
+195,205,PT04M13.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,B. Wright Foul Turnover (P1.T7),Turnover,Foul,0,0
+196,206,PT04M13.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,SUB: Nowitzki FOR B. Wright,Substitution,,0,0
+197,209,PT04M13.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,SUB: Brand FOR Crowder,Substitution,,0,0
+198,207,PT03M55.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,4,25,3,Made,1,32,35,67,v,Thompson 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+199,208,PT03M37.00S,2,1610612742,DAL,201564,Mayo,O. Mayo,61,60,9,Made,1,34,35,69,h,Mayo 9' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+200,210,PT03M19.00S,2,1610612739,CLE,2733,Livingston,S. Livingston,100,78,13,Made,1,34,37,71,v,Livingston 13' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,0,0
+201,211,PT03M15.00S,2,1610612742,DAL,201564,Mayo,O. Mayo,0,-6,1,Missed,1,,,0,h,MISS Mayo 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+202,212,PT03M11.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+203,213,PT03M00.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,28,9,3,Made,1,34,39,73,v,Zeller 3' Layup (8 PTS) (Livingston 5 AST),Made Shot,Layup Shot,0,0
+204,214,PT03M00.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki S.FOUL (P1.T2),Foul,Shooting,0,0
+205,216,PT03M00.00S,2,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: M. James FOR Mayo,Substitution,,0,0
+206,217,PT03M00.00S,2,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,,,0,h,SUB: Collison FOR Beaubois,Substitution,,0,0
+207,218,PT03M00.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,MISS Zeller Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+208,220,PT02M58.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+209,221,PT02M58.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+210,223,PT02M58.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,SUB: Crowder FOR Carter,Substitution,,0,0
+211,225,PT02M45.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,141,52,15,Made,1,36,39,75,h,Nowitzki 15' Jump Shot (6 PTS) (M. James 1 AST),Made Shot,Jump Shot,0,0
+212,226,PT02M29.00S,2,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison P.FOUL (P1.T3),Foul,Personal,0,0
+213,227,PT02M21.00S,2,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison S.FOUL (P2.T4),Foul,Shooting,0,0
+214,228,PT02M21.00S,2,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,MISS Livingston Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+215,229,PT02M21.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0
+216,230,PT02M21.00S,2,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,SUB: Carter FOR Collison,Substitution,,0,0
+217,231,PT02M21.00S,2,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,36,40,76,v,Livingston Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+218,233,PT02M04.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,91,231,25,Missed,1,,,0,h,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+219,234,PT02M03.00S,2,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+220,235,PT01M47.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder S.FOUL (P1.PN),Foul,Shooting,0,0
+221,236,PT01M47.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,36,41,77,v,Zeller Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+222,238,PT01M47.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,36,42,78,v,Zeller Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+223,240,PT01M32.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,95,55,11,Missed,1,,,0,h,MISS Nowitzki 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+224,241,PT01M32.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+225,242,PT01M15.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,-59,241,25,Missed,1,,,0,v,MISS Waiters 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+226,243,PT01M15.00S,2,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+227,244,PT01M15.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller P.FOUL (P1.T3),Foul,Personal,0,0
+228,245,PT01M15.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,SUB: Mayo FOR Crowder,Substitution,,0,0
+229,246,PT00M57.90S,2,1610612742,DAL,201564,Mayo,O. Mayo,-177,110,21,Missed,1,,,0,h,MISS Mayo 21' Jump Shot,Missed Shot,Jump Shot,0,0
+230,247,PT00M56.90S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+231,250,PT00M35.50S,2,1610612739,CLE,203079,Waiters,D. Waiters,13,22,3,Made,1,36,44,80,v,Waiters 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+232,252,PT00M14.90S,2,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+233,252,PT00M14.90S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters STEAL (2 STL),,,0,0
+234,253,PT00M12.10S,2,1610612739,CLE,203079,Waiters,D. Waiters,7,4,1,Made,1,36,46,82,v,Waiters 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+235,254,PT00M01.90S,2,1610612742,DAL,2229,James,M. James,-32,209,21,Made,1,38,46,84,h,M. James 21' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+236,255,PT00M00.00S,2,0,,0,,,0,0,0,,0,38,46,84,,End of 2nd Period (9:33 PM EST),period,end,0,0
+237,257,PT12M00.00S,3,0,,0,,,0,0,0,,0,38,46,84,,Start of 3rd Period (9:50 PM EST),period,start,0,0
+238,258,PT11M45.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,95,227,25,Missed,1,,,0,v,MISS Waiters 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+239,259,PT11M45.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+240,260,PT11M21.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,-117,183,22,Missed,1,,,0,h,MISS Crowder 22' Jump Shot,Missed Shot,Jump Shot,0,0
+241,261,PT11M19.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+242,262,PT11M00.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,7,26,3,Made,1,38,48,86,v,Thompson 3' Running Layup (10 PTS),Made Shot,Running Layup Shot,0,0
+243,263,PT10M53.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,12,-2,1,Made,1,40,48,88,h,Mayo 1' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,0,0
+244,264,PT10M37.00S,3,1610612739,CLE,202087,Gee,A. Gee,162,4,16,Missed,1,,,0,v,MISS Gee 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+245,265,PT10M37.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+246,266,PT10M29.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,-11,0,1,Made,1,40,50,90,v,Waiters 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+247,267,PT10M07.00S,3,1610612742,DAL,2229,James,M. James,116,235,26,Made,1,43,50,93,h,M. James 26' 3PT Jump Shot (7 PTS) (Nowitzki 3 AST),Made Shot,Jump Shot,0,0
+248,268,PT09M43.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0
+249,268,PT09M43.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James STEAL (1 STL),,,0,0
+250,270,PT09M39.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0
+251,270,PT09M39.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston STEAL (2 STL),,,0,0
+252,269,PT09M39.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Jump Ball Mayo vs. Livingston: Tip to Waiters,Jump Ball,,0,0
+253,271,PT09M26.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James P.FOUL (P1.T1),Foul,Personal,0,0
+254,272,PT09M18.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,-122,151,19,Missed,1,,,0,v,MISS Waiters 19' Jump Shot,Missed Shot,Jump Shot,0,0
+255,273,PT09M17.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+256,274,PT09M07.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-54,208,21,Missed,1,,,0,h,MISS Nowitzki 21' Jump Shot,Missed Shot,Jump Shot,0,0
+257,275,PT09M06.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+258,276,PT08M59.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,162,14,16,Missed,1,,,0,v,MISS Livingston 16' Jump Shot,Missed Shot,Jump Shot,0,0
+259,277,PT08M58.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+260,278,PT08M53.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,7,20,2,Made,1,45,50,95,h,Mayo 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+261,279,PT08M29.00S,3,1610612739,CLE,202087,Gee,A. Gee,-223,12,0,Missed,1,,,0,v,MISS Gee 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+262,280,PT08M28.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+263,281,PT08M22.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,99,126,16,Made,1,47,50,97,h,Nowitzki 16' Jump Shot (8 PTS) (M. James 2 AST),Made Shot,Jump Shot,0,0
+264,282,PT08M12.00S,3,1610612739,CLE,202087,Gee,A. Gee,-161,7,16,Made,1,47,52,99,v,Gee 16' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+265,283,PT07M56.00S,3,1610612742,DAL,2229,James,M. James,43,247,25,Missed,1,,,0,h,MISS M. James 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+266,284,PT07M54.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+267,285,PT07M48.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0
+268,285,PT07M48.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki STEAL (1 STL),,,0,0
+269,286,PT07M41.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,-182,119,22,Made,1,49,52,101,h,Mayo 22' Jump Shot (10 PTS) (M. James 3 AST),Made Shot,Jump Shot,0,0
+270,287,PT07M17.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,212,19,21,Missed,1,,,0,v,MISS Zeller 21' Jump Shot,Missed Shot,Jump Shot,0,0
+271,288,PT07M16.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+272,289,PT07M12.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee S.FOUL (P2.T1),Foul,Shooting,0,0
+273,290,PT07M12.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,50,52,102,h,B. Wright Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+274,292,PT07M12.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Brand FOR Nowitzki,Substitution,,0,0
+275,293,PT07M12.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,MISS B. Wright Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+276,295,PT07M11.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+277,296,PT06M52.00S,3,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand P.FOUL (P2.T2),Foul,Personal,0,0
+278,297,PT06M46.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,24,1,2,Made,1,50,54,104,v,Waiters 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+279,298,PT06M46.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James S.FOUL (P2.T3),Foul,Shooting,0,0
+280,299,PT06M46.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,MISS Waiters Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+281,301,PT06M45.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:9),Rebound,Unknown,0,0
+282,302,PT06M28.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+283,302,PT06M28.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston STEAL (3 STL),,,0,0
+284,303,PT06M24.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,7,4,1,Missed,1,,,0,v,MISS Livingston 1' Layup,Missed Shot,Layup Shot,0,0
+285,304,PT06M23.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+286,305,PT06M03.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,-2,45,5,Missed,1,,,0,v,MISS Zeller 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+287,306,PT06M01.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,B. Wright REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+288,307,PT05M54.00S,3,1610612742,DAL,1882,Brand,E. Brand,0,4,0,Made,1,52,54,106,h,Brand Slam Dunk (6 PTS) (M. James 4 AST),Made Shot,Slam Dunk Shot,0,0
+289,308,PT05M54.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller S.FOUL (P2.T2),Foul,Shooting,0,0
+290,309,PT05M54.00S,3,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+291,311,PT05M54.00S,3,0,,286,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+292,312,PT05M54.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,SUB: Collison FOR M. James,Substitution,,0,0
+293,313,PT05M54.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,SUB: Carter FOR B. Wright,Substitution,,0,0
+294,314,PT05M54.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Gibson FOR Thompson,Substitution,,0,0
+295,315,PT05M54.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,SUB: Walton FOR Waiters,Substitution,,0,0
+296,316,PT05M54.00S,3,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,53,54,107,h,Brand Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+297,318,PT05M32.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,-146,41,15,Missed,1,,,0,v,MISS Livingston 15' Jump Shot,Missed Shot,Jump Shot,0,0
+298,319,PT05M31.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+299,320,PT05M27.00S,3,1610612742,DAL,201954,Collison,D. Collison,-5,14,1,Made,1,55,54,109,h,Collison 1' Driving Layup (6 PTS) (Mayo 4 AST),Made Shot,Driving Layup Shot,0,0
+300,321,PT05M15.00S,3,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0
+301,322,PT05M06.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,163,47,17,Made,1,57,54,111,h,Crowder 17' Jump Shot (2 PTS) (Carter 1 AST),Made Shot,Jump Shot,0,0
+302,323,PT04M39.00S,3,1610612739,CLE,2575,Walton,L. Walton,-35,254,26,Made,1,57,57,114,v,Walton 26' 3PT Jump Shot (6 PTS) (Gibson 3 AST),Made Shot,Jump Shot,0,0
+303,324,PT04M14.00S,3,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0
+304,324,PT04M14.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller STEAL (1 STL),,,0,0
+305,325,PT04M01.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo S.FOUL (P1.T4),Foul,Shooting,0,0
+306,326,PT04M01.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,57,58,115,v,Livingston Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+307,328,PT04M01.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,57,59,116,v,Livingston Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+308,330,PT03M44.00S,3,1610612742,DAL,1713,Carter,V. Carter,-13,12,2,Made,1,59,59,118,h,Carter 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,0,0
+309,331,PT03M31.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston Palming Turnover (P1.T11),Turnover,Palming Turnover,0,0
+310,332,PT03M18.00S,3,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0
+311,332,PT03M18.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller STEAL (2 STL),,,0,0
+312,333,PT02M59.00S,3,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton Traveling Turnover (P4.T12),Turnover,Traveling,0,0
+313,335,PT02M59.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+314,336,PT02M59.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,SUB: B. James FOR Crowder,Substitution,,0,0
+315,337,PT02M59.00S,3,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Brand,Substitution,,0,0
+316,339,PT02M36.00S,3,1610612742,DAL,201954,Collison,D. Collison,-38,186,19,Missed,1,,,0,h,MISS Collison 19' Jump Shot,Missed Shot,Jump Shot,0,0
+317,340,PT02M35.00S,3,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+318,341,PT02M20.00S,3,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison S.FOUL (P3.PN),Foul,Shooting,0,0
+319,342,PT02M20.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,59,60,119,v,Gee Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+320,344,PT02M20.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,SUB: Speights FOR Zeller,Substitution,,0,0
+321,345,PT02M20.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: Beaubois FOR Mayo,Substitution,,0,0
+322,346,PT02M20.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,59,61,120,v,Gee Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+323,348,PT02M01.00S,3,1610612742,DAL,201954,Collison,D. Collison,106,219,24,Made,1,62,61,123,h,Collison 24' 3PT Jump Shot (9 PTS) (Beaubois 2 AST),Made Shot,Jump Shot,0,0
+324,349,PT01M46.00S,3,1610612739,CLE,202087,Gee,A. Gee,99,203,23,Made,1,62,63,125,v,Gee 23' Jump Shot (11 PTS) (Walton 4 AST),Made Shot,Jump Shot,0,0
+325,368,PT01M46.00S,3,0,,349,Jackson,M. Jackson,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+326,350,PT01M28.00S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,-105,247,27,Made,1,65,63,128,h,Beaubois 27' 3PT Jump Shot (9 PTS) (Collison 3 AST),Made Shot,Jump Shot,0,0
+327,351,PT01M10.00S,3,1610612739,CLE,2575,Walton,L. Walton,89,228,24,Made,1,65,66,131,v,Walton 24' 3PT Jump Shot (9 PTS) (Gibson 4 AST),Made Shot,Jump Shot,0,0
+328,352,PT00M59.80S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,6,25,3,Missed,1,,,0,h,MISS Beaubois 3' Running Layup,Missed Shot,Running Layup Shot,0,0
+329,353,PT00M56.90S,3,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,,,0,h,Beaubois REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+330,354,PT00M49.90S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0
+331,354,PT00M49.90S,3,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton STEAL (2 STL),,,0,0
+332,355,PT00M35.90S,3,1610612739,CLE,202087,Gee,A. Gee,125,15,13,Missed,1,,,0,v,MISS Gee 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+333,356,PT00M32.90S,3,1610612742,DAL,203108,James,B. James,0,0,0,,0,,,0,h,B. James REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+334,358,PT00M32.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,SUB: Miles FOR Gee,Substitution,,0,0
+335,359,PT00M32.00S,3,1610612742,DAL,203108,James,B. James,0,0,0,,0,,,0,h,SUB: B. Wright FOR B. James,Substitution,,0,0
+336,360,PT00M17.10S,3,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton P.FOUL (P2.T3),Foul,Personal,0,0
+337,361,PT00M02.30S,3,1610612742,DAL,201954,Collison,D. Collison,-183,72,20,Made,1,67,66,133,h,Collison 20' Jump Bank Shot (11 PTS),Made Shot,Jump Bank Shot,0,0
+338,363,PT00M01.30S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,SUB: Crowder FOR Carter,Substitution,,0,0
+339,364,PT00M00.30S,3,1610612739,CLE,2733,Livingston,S. Livingston,-163,28,17,Made,1,67,68,135,v,Livingston 17' Turnaround Jump Shot (11 PTS) (Walton 5 AST),Made Shot,Turnaround Jump Shot,0,0
+340,365,PT00M00.00S,3,0,,364,Chapman,R. Chapman,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+341,366,PT00M00.00S,3,0,,0,,,0,0,0,,0,67,68,135,,End of 3rd Period (10:17 PM EST),period,end,0,0
+342,369,PT12M00.00S,4,0,,0,,,0,0,0,,0,67,68,135,,Start of 4th Period (10:21 PM EST),period,start,0,0
+343,371,PT11M49.00S,4,1610612742,DAL,201148,Wright,B. Wright,2,14,1,Made,1,69,68,137,h,B. Wright 1' Layup (7 PTS) (Beaubois 3 AST),Made Shot,Layup Shot,0,0
+344,372,PT11M28.00S,4,1610612739,CLE,201578,Speights,M. Speights,-5,101,10,Missed,1,,,0,v,MISS Speights 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+345,373,PT11M26.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+346,374,PT11M20.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki Traveling Turnover (P2.T14),Turnover,Traveling,0,0
+347,375,PT11M20.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+348,376,PT11M01.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,-172,19,17,Made,1,69,70,139,v,Waiters 17' Jump Shot (12 PTS),Made Shot,Jump Shot,0,0
+349,377,PT10M49.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,10,26,3,Made,1,71,70,141,h,Beaubois 3' Running Layup (11 PTS),Made Shot,Running Layup Shot,0,0
+350,378,PT10M35.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,B. Wright P.FOUL (P2.T1),Foul,Personal,0,0
+351,379,PT10M27.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters Bad Pass Turnover (P4.T13),Turnover,Bad Pass,0,0
+352,379,PT10M27.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki STEAL (2 STL),,,0,0
+353,380,PT10M12.00S,4,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles S.FOUL (P1.T1),Foul,Shooting,0,0
+354,381,PT10M12.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,72,70,142,h,Beaubois Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+355,383,PT10M12.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,73,70,143,h,Beaubois Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+356,385,PT09M56.00S,4,1610612739,CLE,2575,Walton,L. Walton,-191,74,20,Missed,1,,,0,v,MISS Walton 20' Jump Shot,Missed Shot,Jump Shot,0,0
+357,386,PT09M54.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+358,387,PT09M48.00S,4,1610612742,DAL,201148,Wright,B. Wright,13,3,1,Made,1,75,70,145,h,B. Wright 1' Slam Dunk (9 PTS) (Collison 4 AST),Made Shot,Slam Dunk Shot,0,0
+359,388,PT09M48.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+360,392,PT09M32.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,-98,168,19,Made,1,75,72,147,v,Waiters 19' Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+361,393,PT09M16.00S,4,1610612742,DAL,201148,Wright,B. Wright,13,6,1,Made,1,77,72,149,h,B. Wright 1' Driving Layup (11 PTS) (Beaubois 4 AST),Made Shot,Driving Layup Shot,0,0
+362,394,PT09M04.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,77,97,12,Missed,1,,,0,v,MISS Waiters 12' Jump Shot,Missed Shot,Jump Shot,0,0
+363,394,PT09M04.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,B. Wright BLOCK (1 BLK),,,0,0
+364,395,PT09M03.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,B. Wright REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+365,396,PT08M54.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,237,31,24,Made,1,80,72,152,h,Beaubois 24' 3PT Jump Shot (16 PTS) (Collison 5 AST),Made Shot,Jump Shot,0,0
+366,397,PT08M39.00S,4,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton Lost Ball Turnover (P5.T14),Turnover,Lost Ball,0,0
+367,397,PT08M39.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder STEAL (2 STL),,,0,0
+368,398,PT08M33.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-76,235,25,Missed,1,,,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+369,399,PT08M32.00S,4,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+370,400,PT08M19.00S,4,1610612739,CLE,201578,Speights,M. Speights,-125,97,16,Missed,1,,,0,v,MISS Speights 16' Jump Shot,Missed Shot,Jump Shot,0,0
+371,401,PT08M18.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:10),Rebound,Unknown,0,0
+372,402,PT08M00.00S,4,1610612742,DAL,201954,Collison,D. Collison,-100,20,10,Missed,1,,,0,h,MISS Collison 10' Jump Shot,Missed Shot,Jump Shot,0,0
+373,403,PT07M59.00S,4,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,Walton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+374,404,PT07M51.00S,4,1610612739,CLE,2575,Walton,L. Walton,-234,14,0,Missed,1,,,0,v,MISS Walton 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+375,405,PT07M49.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+376,406,PT07M48.00S,4,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,,,0,v,SUB: Thompson FOR Speights,Substitution,,0,0
+377,407,PT07M48.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,SUB: Livingston FOR Gibson,Substitution,,0,0
+378,408,PT07M48.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Carter FOR Nowitzki,Substitution,,0,0
+379,409,PT07M44.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+380,412,PT07M33.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters Bad Pass Turnover (P5.T15),Turnover,Bad Pass,0,0
+381,413,PT07M19.00S,4,1610612742,DAL,201954,Collison,D. Collison,6,31,3,Made,1,82,72,154,h,Collison 3' Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,0,0
+382,414,PT07M08.00S,4,1610612739,CLE,101139,Miles,C. Miles,10,11,1,Missed,1,,,0,v,MISS Miles 1' Layup,Missed Shot,Layup Shot,0,0
+383,414,PT07M08.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder BLOCK (1 BLK),,,0,0
+384,415,PT07M08.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+385,416,PT07M08.00S,4,1610612739,CLE,2575,Walton,L. Walton,0,0,0,,0,,,0,v,SUB: Gee FOR Walton,Substitution,,0,0
+386,417,PT07M08.00S,4,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,SUB: Zeller FOR Miles,Substitution,,0,0
+387,418,PT06M53.00S,4,1610612739,CLE,2733,Livingston,S. Livingston,-64,115,13,Missed,1,,,0,v,MISS Livingston 13' Jump Shot,Missed Shot,Jump Shot,0,0
+388,419,PT06M52.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:11),Rebound,Unknown,0,0
+389,420,PT06M29.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,17,2,Missed,1,,,0,h,MISS Collison 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+390,421,PT06M28.00S,4,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+391,422,PT06M28.00S,4,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee Palming Turnover (P2.T16),Turnover,Palming Turnover,0,0
+392,423,PT06M18.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,-232,4,0,Missed,1,,,0,h,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+393,424,PT06M17.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,B. Wright REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+394,425,PT06M16.00S,4,1610612742,DAL,201148,Wright,B. Wright,-8,1,1,Made,1,84,72,156,h,B. Wright 1' Slam Dunk (13 PTS),Made Shot,Slam Dunk Shot,0,0
+395,427,PT05M57.00S,4,1610612739,CLE,203092,Zeller,T. Zeller,143,105,18,Missed,1,,,0,v,MISS Zeller 18' Jump Shot,Missed Shot,Jump Shot,0,0
+396,428,PT05M54.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+397,429,PT05M47.00S,4,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller P.FOUL (P3.T2),Foul,Personal,0,0
+398,430,PT05M36.00S,4,1610612742,DAL,201954,Collison,D. Collison,143,198,24,Missed,1,,,0,h,MISS Collison 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+399,431,PT05M35.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+400,432,PT05M32.00S,4,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,Zeller Traveling Turnover (P2.T17),Turnover,Traveling,0,0
+401,433,PT05M09.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,0
+402,433,PT05M09.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,Waiters STEAL (3 STL),,,0,0
+403,434,PT04M59.00S,4,1610612739,CLE,202087,Gee,A. Gee,-109,167,20,Missed,1,,,0,v,MISS Gee 20' Jump Shot,Missed Shot,Jump Shot,0,0
+404,436,PT04M58.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+405,435,PT04M58.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,1,11,1,Made,1,84,74,158,v,Thompson 1' Tip Shot (12 PTS),Made Shot,Tip Shot,0,0
+406,437,PT04M58.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+407,438,PT04M58.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,SUB: Mayo FOR Collison,Substitution,,0,0
+408,439,PT04M58.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,SUB: Nowitzki FOR B. Wright,Substitution,,0,0
+409,441,PT04M44.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,122,187,22,Missed,1,,,0,h,MISS Beaubois 22' Jump Shot,Missed Shot,Jump Shot,0,0
+410,442,PT04M43.00S,4,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+411,443,PT04M33.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,,,0,h,Beaubois S.FOUL (P1.T2),Foul,Shooting,0,0
+412,444,PT04M33.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,84,75,159,v,Waiters Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+413,446,PT04M33.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,MISS Waiters Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+414,448,PT04M32.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:12),Rebound,Unknown,0,0
+415,449,PT04M17.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder OFF.Foul (P2),Foul,Offensive,0,0
+416,450,PT04M17.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder Foul Turnover (P1.T16),Turnover,Foul,0,0
+417,451,PT03M51.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,24,224,23,Missed,1,,,0,v,MISS Waiters 23' Jump Shot,Missed Shot,Jump Shot,0,0
+418,452,PT03M50.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:13),Rebound,Unknown,0,0
+419,453,PT03M39.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,102,246,27,Missed,1,,,0,h,MISS Nowitzki 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+420,454,PT03M37.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+421,456,PT03M21.00S,4,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston OFF.Foul (P3),Foul,Offensive,0,0
+422,457,PT03M21.00S,4,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston Foul Turnover (P2.T18),Turnover,Foul,0,0
+423,458,PT03M21.00S,4,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,,,0,v,SUB: Miles FOR Zeller,Substitution,,0,0
+424,459,PT03M08.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,103,135,17,Made,1,86,75,161,h,Nowitzki 17' Jump Shot (10 PTS) (Beaubois 5 AST),Made Shot,Jump Shot,0,0
+425,461,PT02M49.00S,4,1610612739,CLE,101139,Miles,C. Miles,-123,216,25,Made,1,86,78,164,v,Miles 25' 3PT Jump Shot (8 PTS) (Livingston 6 AST),Made Shot,Jump Shot,0,0
+426,462,PT02M30.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,1,1,0,Made,1,88,78,166,h,Beaubois Driving Dunk (18 PTS) (Nowitzki 4 AST),Made Shot,Driving Dunk Shot,0,0
+427,463,PT02M22.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,,,0,h,Beaubois S.FOUL (P2.T3),Foul,Shooting,0,0
+428,464,PT02M22.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,88,79,167,v,Waiters Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+429,466,PT02M22.00S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,0,0,0,,0,,,0,h,SUB: Collison FOR Beaubois,Substitution,,0,0
+430,467,PT02M22.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,,,0,v,MISS Waiters Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+431,469,PT02M22.00S,4,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+432,470,PT02M05.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-106,224,25,Made,1,91,79,170,h,Nowitzki 25' 3PT Jump Shot (13 PTS) (Carter 2 AST),Made Shot,Jump Shot,0,0
+433,471,PT02M05.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+434,473,PT02M05.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,SUB: B. Wright FOR Crowder,Substitution,,0,0
+435,475,PT01M53.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,-122,225,26,Made,1,91,82,173,v,Waiters 26' 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,0,0
+436,476,PT01M33.00S,4,1610612742,DAL,1713,Carter,V. Carter,114,265,29,Made,1,94,82,176,h,Carter 29' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+437,477,PT01M28.00S,4,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter P.FOUL (P2.T4),Foul,Personal,0,0
+438,478,PT01M28.00S,4,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,SUB: Crowder FOR Carter,Substitution,,0,0
+439,479,PT01M23.00S,4,1610612739,CLE,101139,Miles,C. Miles,97,225,25,Missed,1,,,0,v,MISS Miles 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+440,480,PT01M23.00S,4,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+441,481,PT01M00.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-18,22,3,Missed,1,,,0,h,MISS Nowitzki 3' Layup,Missed Shot,Layup Shot,0,0
+442,482,PT00M59.80S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+443,483,PT00M51.90S,4,1610612739,CLE,203079,Waiters,D. Waiters,-19,4,2,Missed,1,,,0,v,MISS Waiters 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+444,483,PT00M51.90S,4,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo BLOCK (2 BLK),,,0,0
+445,484,PT00M49.80S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+446,485,PT00M41.10S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+447,486,PT00M41.10S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,SUB: Beaubois FOR Crowder,Substitution,,0,0
+448,487,PT00M41.10S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: B. James FOR Nowitzki,Substitution,,0,0
+449,488,PT00M41.10S,4,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: C. Wright FOR Mayo,Substitution,,0,0
+450,490,PT00M33.90S,4,1610612742,DAL,201958,Beaubois,R. Beaubois,34,249,25,Missed,1,,,0,h,MISS Beaubois 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+451,491,PT00M32.90S,4,1610612739,CLE,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+452,492,PT00M29.20S,4,1610612739,CLE,203079,Waiters,D. Waiters,-11,9,1,Made,1,94,84,178,v,Waiters 1' Driving Layup (21 PTS) (Miles 1 AST),Made Shot,Driving Layup Shot,0,0
+453,493,PT00M09.40S,4,1610612742,DAL,203203,Wright,C. Wright,-10,9,1,Made,1,96,84,180,h,C. Wright 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+454,494,PT00M00.60S,4,1610612739,CLE,2733,Livingston,S. Livingston,12,26,3,Made,1,96,86,182,v,Livingston 3' Driving Layup (13 PTS) (Gee 1 AST),Made Shot,Driving Layup Shot,0,0
+455,495,PT00M00.00S,4,0,,0,,,0,0,0,,0,96,86,182,,End of 4th Period (10:51 PM EST),period,end,0,0

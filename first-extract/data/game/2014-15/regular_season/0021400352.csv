@@ -1,0 +1,512 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Jump Ball Adams vs. Plumlee: Tip to,Jump Ball,,1,0
+3,2,PT12M00.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams Violation:Jump Ball,Violation,Jump Ball,1,0
+4,3,PT11M39.00S,1,1610612756,PHX,101123,Green,G. Green,-146,197,25,Missed,1,0,0,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+5,4,PT11M37.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,6,PT11M23.00S,1,1610612760,OKC,201142,Durant,K. Durant,130,140,19,Missed,1,0,0,0,h,MISS Durant 19' Jump Shot,Missed Shot,Jump Shot,1,0
+7,7,PT11M22.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+8,8,PT11M19.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,-65,4,7,Made,1,2,0,2,h,Ibaka 7' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,0
+9,9,PT11M05.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,51,34,6,Made,1,2,2,4,v,Plumlee 6' Hook Shot (2 PTS) (Green 1 AST),Made Shot,Hook Shot,1,0
+10,10,PT10M46.00S,1,1610612760,OKC,201142,Durant,K. Durant,-155,80,17,Made,1,4,2,6,h,Durant 17' Jump Shot (2 PTS) (Westbrook 1 AST),Made Shot,Jump Shot,1,0
+11,11,PT10M26.00S,1,1610612756,PHX,202693,Morris,M. Morris,141,17,14,Made,1,4,4,8,v,Mark Morris 14' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+12,12,PT10M12.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker P.FOUL (P1.T1),Foul,Personal,1,0
+13,13,PT10M06.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe P.FOUL (P1.T2),Foul,Personal,1,0
+14,14,PT09M54.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,9,39,4,Made,1,6,4,10,h,Ibaka 4' Turnaround Hook Shot (4 PTS) (Westbrook 2 AST),Made Shot,Turnaround Hook Shot,1,0
+15,15,PT09M27.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,-138,96,17,Missed,1,0,0,0,v,MISS Tucker 17' Jump Shot,Missed Shot,Jump Shot,1,0
+16,16,PT09M26.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+17,17,PT09M16.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris S.FOUL (P1.T3),Foul,Shooting,1,0
+18,18,PT09M16.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,7,4,11,h,Westbrook Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+19,20,PT09M16.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,8,4,12,h,Westbrook Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+20,22,PT09M01.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka S.FOUL (P1.T1),Foul,Shooting,1,0
+21,23,PT09M01.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,8,5,13,v,Mark Morris Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+22,25,PT09M01.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,8,6,14,v,Mark Morris Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+23,27,PT08M53.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris S.FOUL (P2.T4),Foul,Shooting,1,0
+24,28,PT08M53.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,9,6,15,h,Durant Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+25,30,PT08M53.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,SUB: Tolliver FOR Mark Morris,Substitution,,0,0
+26,31,PT08M53.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,10,6,16,h,Durant Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+27,33,PT08M39.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker Traveling Turnover (P1.T1),Turnover,Traveling,1,0
+28,34,PT08M31.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,7,151,15,Made,1,12,6,18,h,Ibaka 15' Jump Shot (6 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,1,0
+29,35,PT08M12.00S,1,1610612756,PHX,101123,Green,G. Green,18,157,16,Missed,1,0,0,0,v,MISS Green 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+30,36,PT08M11.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+31,37,PT08M01.00S,1,1610612756,PHX,101123,Green,G. Green,-199,146,25,Made,1,12,9,21,v,Green 25' 3PT Jump Shot (3 PTS) (Bledsoe 1 AST),Made Shot,Jump Shot,1,0
+32,38,PT07M47.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,4,168,17,Made,1,14,9,23,h,Ibaka 17' Jump Shot (8 PTS) (Westbrook 4 AST),Made Shot,Jump Shot,1,0
+33,39,PT07M36.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+34,39,PT07M36.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant STEAL (1 STL),,,1,0
+35,40,PT07M28.00S,1,1610612760,OKC,201142,Durant,K. Durant,4,157,16,Made,1,16,9,25,h,Durant 16' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+36,41,PT07M22.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+37,44,PT07M12.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,26,7,3,Made,1,16,11,27,v,Bledsoe 3' Driving Layup (2 PTS) (Tolliver 1 AST),Made Shot,Driving Layup Shot,1,0
+38,45,PT07M12.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams S.FOUL (P1.T2),Foul,Shooting,1,0
+39,46,PT07M12.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,16,12,28,v,Bledsoe Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+40,48,PT06M56.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee S.FOUL (P1.PN),Foul,Shooting,1,0
+41,49,PT06M56.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,17,12,29,h,Westbrook Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+42,51,PT06M56.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,18,12,30,h,Westbrook Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+43,54,PT06M36.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-75,224,24,Missed,1,0,0,0,v,MISS Bledsoe 24' Jump Shot,Missed Shot,Jump Shot,1,0
+44,55,PT06M35.00S,1,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+45,56,PT06M33.00S,1,1610612756,PHX,101123,Green,G. Green,152,50,16,Missed,1,0,0,0,v,MISS Green 16' Jump Shot,Missed Shot,Jump Shot,1,0
+46,57,PT06M32.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+47,58,PT06M14.00S,1,1610612756,PHX,201229,Tolliver,A. Tolliver,157,187,24,Missed,1,0,0,0,v,MISS Tolliver 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+48,59,PT06M13.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+49,60,PT06M08.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,1,85,9,Made,1,20,12,32,h,Westbrook 9' Running Jump Shot (6 PTS),Made Shot,Running Jump Shot,1,0
+50,61,PT06M08.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe S.FOUL (P2.PN),Foul,Shooting,1,0
+51,62,PT06M08.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,SUB: Thomas FOR Bledsoe,Substitution,,0,0
+52,64,PT06M08.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,SUB: Jackson FOR Durant,Substitution,,0,0
+53,65,PT06M08.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,21,12,33,h,Westbrook Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+54,67,PT06M01.00S,1,1610612756,PHX,101123,Green,G. Green,17,238,24,Made,1,21,15,36,v,Green 24' 3PT Jump Shot (6 PTS) (Thomas 1 AST),Made Shot,Jump Shot,1,0
+55,68,PT05M48.00S,1,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green S.FOUL (P1.PN),Foul,Shooting,1,0
+56,69,PT05M48.00S,1,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green T.FOUL (P1.PN),Foul,Technical,0,0
+57,70,PT05M48.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,22,15,37,h,Westbrook Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0
+58,72,PT05M48.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,23,15,38,h,Westbrook Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+59,74,PT05M48.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,SUB: Marc Morris FOR Tucker,Substitution,,0,0
+60,75,PT05M48.00S,1,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,SUB: Goodwin FOR Green,Substitution,,0,0
+61,76,PT05M48.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,24,15,39,h,Westbrook Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+62,78,PT05M38.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka P.FOUL (P2.T3),Foul,Personal,1,0
+63,79,PT05M38.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,SUB: Morrow FOR Ibaka,Substitution,,0,0
+64,80,PT05M32.00S,1,1610612756,PHX,201229,Tolliver,A. Tolliver,45,236,24,Missed,1,0,0,0,v,MISS Tolliver 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+65,81,PT05M29.00S,1,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+66,82,PT05M19.00S,1,1610612760,OKC,201627,Morrow,A. Morrow,-41,34,5,Missed,1,0,0,0,h,MISS Morrow 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+67,83,PT05M18.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+68,84,PT04M58.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,1,0,Made,1,24,17,41,v,Plumlee  Alley Oop Dunk (4 PTS) (Thomas 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+69,85,PT04M43.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-68,148,16,Made,1,26,17,43,h,Westbrook 16' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+70,86,PT04M25.00S,1,1610612756,PHX,203462,Goodwin,A. Goodwin,-15,11,2,Missed,1,0,0,0,v,MISS Goodwin 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+71,86,PT04M25.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams BLOCK (1 BLK),,,1,0
+72,87,PT04M25.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Rebound,Rebound,Unknown,0,0
+73,88,PT04M25.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Len FOR Plumlee,Substitution,,0,0
+74,89,PT04M25.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,SUB: Perkins FOR Adams,Substitution,,0,0
+75,90,PT04M23.00S,1,1610612756,PHX,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+76,90,PT04M23.00S,1,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow STEAL (1 STL),,,1,0
+77,91,PT04M18.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-8,7,1,Made,1,28,17,45,h,Westbrook 1' Finger Roll Layup (14 PTS) (Morrow 1 AST),Made Shot,Finger Roll Layup Shot,1,0
+78,92,PT04M01.00S,1,1610612756,PHX,203458,Len,A. Len,147,72,16,Made,1,28,19,47,v,Len 16' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+79,93,PT03M46.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-87,45,10,Missed,1,0,0,0,h,MISS Westbrook 10' Running Bank Shot,Missed Shot,Running Bank shot,1,0
+80,94,PT03M45.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+81,95,PT03M40.00S,1,1610612760,OKC,201627,Morrow,A. Morrow,-204,138,25,Missed,1,0,0,0,h,MISS Morrow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+82,96,PT03M40.00S,1,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0
+83,97,PT03M40.00S,1,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,Len L.B.FOUL (P1.PN),Foul,Loose Ball,1,0
+84,98,PT03M40.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,29,19,48,h,Perkins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+85,100,PT03M40.00S,1,1610612756,PHX,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,SUB: Warren FOR Tolliver,Substitution,,0,0
+86,102,PT03M40.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,SUB: Collison FOR Roberson,Substitution,,0,0
+87,103,PT03M40.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,MISS Perkins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+88,105,PT03M39.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+89,106,PT03M29.00S,1,1610612760,OKC,202704,Jackson,R. Jackson,157,-3,16,Missed,1,0,0,0,h,MISS Jackson 16' Jump Shot,Missed Shot,Jump Shot,1,0
+90,107,PT03M28.00S,1,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+91,108,PT03M25.00S,1,1610612760,OKC,202704,Jackson,R. Jackson,42,0,4,Made,1,31,19,50,h,Jackson 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,0
+92,110,PT03M13.00S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,17,244,24,Missed,1,0,0,0,v,MISS Marc Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+93,111,PT03M12.00S,1,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+94,113,PT03M07.00S,1,1610612760,OKC,202704,Jackson,R. Jackson,1,137,14,Made,1,33,19,52,h,Jackson 14' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+95,115,PT02M52.00S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,-27,31,4,Made,1,33,21,54,v,Marc Morris 4' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,0
+96,116,PT02M52.00S,1,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,Collison S.FOUL (P1.T4),Foul,Shooting,1,0
+97,117,PT02M52.00S,1,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+98,118,PT02M52.00S,1,0,,67,Hammonds,T. Hammonds,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+99,121,PT02M52.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,SUB: Durant FOR Westbrook,Substitution,,0,0
+100,122,PT02M52.00S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,33,22,55,v,Marc Morris Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+101,124,PT02M41.00S,1,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,0,0,0,v,Warren P.FOUL (P1.PN),Foul,Personal,1,0
+102,125,PT02M41.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,34,22,56,h,Durant Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+103,127,PT02M41.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,35,22,57,h,Durant Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+104,129,PT02M29.00S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,226,15,0,Made,1,35,25,60,v,Marc Morris  3PT Jump Shot (6 PTS) (Thomas 3 AST),Made Shot,Jump Shot,1,0
+105,130,PT02M19.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins OFF.Foul (P1),Foul,Offensive,1,0
+106,131,PT02M19.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins Foul Turnover (P1.T1),Turnover,Foul,1,0
+107,132,PT02M07.00S,1,1610612756,PHX,202738,Thomas,I. Thomas,29,126,13,Missed,1,0,0,0,v,MISS Thomas 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+108,133,PT02M06.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+109,134,PT01M59.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,1,0,Made,1,37,25,62,h,Durant  Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,1,0
+110,135,PT01M45.00S,1,1610612756,PHX,203933,Warren,T. Warren,-224,19,0,Missed,1,0,0,0,v,MISS Warren  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+111,136,PT01M44.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+112,137,PT01M35.00S,1,1610612760,OKC,201142,Durant,K. Durant,110,219,25,Missed,1,0,0,0,h,MISS Durant 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+113,138,PT01M34.00S,1,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,Len REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+114,139,PT01M23.00S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,141,205,25,Missed,1,0,0,0,v,MISS Marc Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+115,140,PT01M22.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Rebound,Rebound,Unknown,0,0
+116,142,PT01M14.00S,1,1610612756,PHX,202738,Thomas,I. Thomas,-21,19,3,Missed,1,0,0,0,v,MISS Thomas 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+117,144,PT01M13.00S,1,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,0,0,0,v,Warren REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+118,143,PT01M13.00S,1,1610612756,PHX,203933,Warren,T. Warren,12,3,1,Made,1,37,27,64,v,Warren 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,0
+119,145,PT00M59.80S,1,1610612760,OKC,202704,Jackson,R. Jackson,18,126,13,Missed,1,0,0,0,h,MISS Jackson 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+120,146,PT00M58.90S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Marc Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+121,147,PT00M53.90S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,-23,0,2,Missed,1,0,0,0,v,MISS Marc Morris 2' Layup,Missed Shot,Layup Shot,1,0
+122,147,PT00M53.90S,1,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,Collison BLOCK (1 BLK),,,1,0
+123,148,PT00M51.90S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+124,149,PT00M44.40S,1,1610612760,OKC,2555,Collison,N. Collison,12,1,1,Made,1,39,27,66,h,Collison 1' Layup (2 PTS) (Durant 1 AST),Made Shot,Layup Shot,1,0
+125,150,PT00M33.70S,1,1610612756,PHX,202738,Thomas,I. Thomas,-23,0,2,Made,1,39,29,68,v,Thomas 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+126,151,PT00M11.90S,1,1610612760,OKC,201627,Morrow,A. Morrow,160,194,25,Missed,1,0,0,0,h,MISS Morrow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+127,152,PT00M10.40S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+128,153,PT00M00.90S,1,1610612760,OKC,202704,Jackson,R. Jackson,-150,124,19,Made,1,41,29,70,h,Jackson 19' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,0
+129,156,PT00M00.00S,1,0,,153,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+130,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,41,29,70,,End of 1st Period (7:41 PM EST),period,end,0,0
+131,159,PT12M00.00S,2,0,,0,,,0,0,0,,0,41,29,70,,Start of 2nd Period (7:42 PM EST),period,start,0,0
+132,160,PT11M50.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,225,6,0,Made,1,44,29,73,h,Morrow  3PT Jump Shot (3 PTS) (Durant 2 AST),Made Shot,Jump Shot,1,0
+133,163,PT11M40.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+134,161,PT11M40.00S,2,1610612756,PHX,203462,Goodwin,A. Goodwin,34,1,3,Made,1,44,31,75,v,Goodwin 3' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+135,162,PT11M40.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow S.FOUL (P1.T1),Foul,Shooting,1,0
+136,164,PT11M40.00S,2,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0,0,0,v,MISS Goodwin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+137,166,PT11M39.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+138,168,PT11M22.00S,2,1610612760,OKC,2555,Collison,N. Collison,9,11,1,Made,1,46,31,77,h,Collison 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+139,169,PT11M03.00S,2,1610612756,PHX,203462,Goodwin,A. Goodwin,231,20,0,Missed,1,0,0,0,v,MISS Goodwin  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+140,170,PT11M02.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+141,171,PT10M50.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+142,171,PT10M50.00S,2,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,Len STEAL (1 STL),,,1,0
+143,172,PT10M49.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant Personal Take Foul (P1.T2),Foul,Personal Take,1,0
+144,173,PT10M49.00S,2,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0,0,0,v,SUB: Plumlee FOR Goodwin,Substitution,,0,0
+145,174,PT10M49.00S,2,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,SUB: Green FOR Len,Substitution,,0,0
+146,175,PT10M49.00S,2,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,0,0,0,v,SUB: Tucker FOR Warren,Substitution,,0,0
+147,176,PT10M36.00S,2,1610612756,PHX,202738,Thomas,I. Thomas,21,244,24,Missed,1,0,0,0,v,MISS Thomas 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+148,177,PT10M35.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+149,178,PT10M27.00S,2,1610612760,OKC,201142,Durant,K. Durant,140,124,19,Missed,1,0,0,0,h,MISS Durant 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+150,179,PT10M25.00S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+151,180,PT10M16.00S,2,1610612756,PHX,101123,Green,G. Green,36,247,25,Missed,1,0,0,0,v,MISS Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+152,181,PT10M15.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+153,182,PT10M01.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,15,244,24,Missed,1,0,0,0,h,MISS Jackson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+154,183,PT10M00.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+155,184,PT09M49.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,-11,15,2,Made,1,46,33,79,v,Marc Morris 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,0
+156,185,PT09M39.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Marc Morris S.FOUL (P1.T1),Foul,Shooting,1,0
+157,186,PT09M39.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,47,33,80,h,Morrow Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+158,188,PT09M39.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,48,33,81,h,Morrow Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+159,190,PT09M26.00S,2,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,v,Thomas Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0
+160,190,PT09M26.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins STEAL (1 STL),,,1,0
+161,191,PT09M23.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,1,0,Made,1,50,33,83,h,Durant  Alley Oop Dunk (12 PTS) (Morrow 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+162,193,PT08M55.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+163,195,PT08M55.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+164,196,PT08M40.00S,2,1610612760,OKC,201142,Durant,K. Durant,-86,31,9,Made,1,52,33,85,h,Durant 9' Driving Bank Shot (14 PTS),Made Shot,Driving Bank shot,1,0
+165,202,PT08M32.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green Poss Lost Ball Turnover (P1.T6),Turnover,Poss Lost Ball Turnover,1,0
+166,202,PT08M32.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant STEAL (2 STL),,,1,0
+167,209,PT08M29.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+168,209,PT08M29.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Marc Morris STEAL (1 STL),,,1,0
+169,197,PT08M22.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,-164,186,25,Missed,1,0,0,0,v,MISS Marc Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+170,198,PT08M21.00S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+171,199,PT08M18.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,Collison Personal Block Foul (P2.T3),Foul,Personal Block,1,0
+172,200,PT08M18.00S,2,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,v,SUB: Mark Morris FOR Thomas,Substitution,,0,0
+173,201,PT08M18.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,SUB: Bledsoe FOR Marc Morris,Substitution,,0,0
+174,203,PT08M18.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,SUB: Westbrook FOR Morrow,Substitution,,0,0
+175,204,PT08M05.00S,2,1610612756,PHX,202693,Morris,M. Morris,-144,45,15,Missed,1,0,0,0,v,MISS Mark Morris 15' Jump Shot,Missed Shot,Jump Shot,1,0
+176,205,PT08M04.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+177,206,PT07M46.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,-35,14,4,Made,1,54,33,87,h,Perkins 4' Hook Shot (3 PTS) (Westbrook 5 AST),Made Shot,Hook Shot,1,0
+178,207,PT07M38.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,Collison Personal Block Foul (P3.T4),Foul,Personal Block,1,0
+179,208,PT07M38.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,SUB: Ibaka FOR Collison,Substitution,,0,0
+180,210,PT07M35.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0
+181,210,PT07M35.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson STEAL (1 STL),,,1,0
+182,211,PT07M30.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,144,197,24,Missed,1,0,0,0,h,MISS Westbrook 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+183,212,PT07M29.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+184,214,PT07M17.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,223,3,0,Missed,1,0,0,0,v,MISS Tucker  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+185,215,PT07M16.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+186,216,PT07M03.00S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,64,20,7,Missed,1,0,0,0,v,MISS Plumlee 7' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,0
+187,217,PT07M02.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+188,218,PT06M50.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0
+189,218,PT06M50.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe STEAL (1 STL),,,1,0
+190,219,PT06M49.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook Personal Take Foul (P1.PN),Foul,Personal Take,1,0
+191,220,PT06M49.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,54,34,88,v,Bledsoe Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+192,222,PT06M49.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,SUB: Morrow FOR Durant,Substitution,,0,0
+193,223,PT06M49.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,MISS Bledsoe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+194,225,PT06M48.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+195,226,PT06M32.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-4,9,1,Missed,1,0,0,0,h,MISS Westbrook 1' Layup,Missed Shot,Layup Shot,1,0
+196,227,PT06M31.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+197,228,PT06M28.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,12,-3,1,Missed,1,0,0,0,h,MISS Westbrook 1' Layup,Missed Shot,Layup Shot,1,0
+198,229,PT06M26.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+199,230,PT06M25.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook Offensive Charge Foul (P2.PN),Foul,Offensive Charge,1,0
+200,231,PT06M25.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook Foul Turnover (P2.T5),Turnover,Foul,1,0
+201,232,PT06M25.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,SUB: Adams FOR Perkins,Substitution,,0,0
+202,233,PT06M25.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,,"Double Technical - Westbrook, Tucker",Foul,Double Technical,0,0
+203,234,PT06M11.00S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,-18,-3,2,Made,1,54,36,90,v,Plumlee 2' Reverse Layup (6 PTS) (Bledsoe 2 AST),Made Shot,Reverse Layup Shot,1,0
+204,243,PT06M01.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,228,32,0,Missed,1,0,0,0,h,MISS Jackson  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+205,235,PT06M01.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+206,236,PT05M54.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0
+207,236,PT05M54.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook STEAL (1 STL),,,1,0
+208,237,PT05M49.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,97,138,17,Missed,1,0,0,0,h,MISS Westbrook 17' Jump Shot,Missed Shot,Jump Shot,1,0
+209,238,PT05M48.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+210,239,PT05M45.00S,2,1610612760,OKC,203500,Adams,S. Adams,18,4,2,Made,1,56,36,92,h,Adams 2' Layup (2 PTS) (Westbrook 6 AST),Made Shot,Layup Shot,1,0
+211,240,PT05M36.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-67,175,19,Missed,1,0,0,0,v,MISS Bledsoe 19' Jump Shot,Missed Shot,Jump Shot,1,0
+212,241,PT05M35.00S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+213,242,PT05M28.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+214,247,PT05M28.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+215,248,PT05M14.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-76,228,24,Made,1,59,36,95,h,Westbrook 24' 3PT Jump Shot (17 PTS) (Adams 1 AST),Made Shot,Jump Shot,1,0
+216,249,PT04M52.00S,2,1610612756,PHX,101123,Green,G. Green,-146,37,15,Made,1,59,38,97,v,Green 15' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,0
+217,250,PT04M36.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,7,9,1,Missed,1,0,0,0,h,MISS Jackson 1' Layup,Missed Shot,Layup Shot,1,0
+218,251,PT04M34.00S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+219,252,PT04M26.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-133,28,14,Made,1,61,38,99,h,Westbrook 14' Jump Shot (19 PTS),Made Shot,Jump Shot,1,0
+220,253,PT04M26.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris S.FOUL (P3.T2),Foul,Shooting,1,0
+221,254,PT04M26.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,SUB: Durant FOR Morrow,Substitution,,0,0
+222,255,PT04M26.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,SUB: Roberson FOR Jackson,Substitution,,0,0
+223,256,PT04M26.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,62,38,100,h,Westbrook Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0
+224,258,PT04M12.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka S.FOUL (P3.PN),Foul,Shooting,1,0
+225,259,PT04M12.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,62,39,101,v,Green Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+226,261,PT04M12.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,SUB: Jones FOR Ibaka,Substitution,,0,0
+227,262,PT04M12.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,SUB: Thomas FOR Mark Morris,Substitution,,0,0
+228,263,PT04M12.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,62,40,102,v,Green Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+229,266,PT03M58.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-7,-10,1,Made,1,64,40,104,h,Westbrook 1' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,0
+230,267,PT03M52.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,6,0,1,Missed,1,0,0,0,v,MISS Bledsoe 1' Layup,Missed Shot,Layup Shot,1,0
+231,268,PT03M51.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+232,269,PT03M48.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+233,269,PT03M48.00S,2,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,v,Thomas STEAL (1 STL),,,1,0
+234,270,PT03M45.00S,2,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones P.FOUL (P1.PN),Foul,Personal,1,0
+235,271,PT03M45.00S,2,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,64,41,105,v,Thomas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+236,273,PT03M45.00S,2,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,64,42,106,v,Thomas Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+237,275,PT03M29.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker S.FOUL (P2.T3),Foul,Shooting,1,0
+238,276,PT03M29.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,65,42,107,h,Durant Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+239,278,PT03M29.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,66,42,108,h,Durant Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+240,280,PT03M14.00S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams S.FOUL (P2.PN),Foul,Shooting,1,0
+241,281,PT03M14.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,66,43,109,v,Bledsoe Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+242,283,PT03M14.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,66,44,110,v,Bledsoe Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+243,285,PT03M05.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green S.FOUL (P2.T4),Foul,Shooting,1,0
+244,286,PT03M05.00S,2,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+245,287,PT03M05.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Normal Rebound,0,0
+246,288,PT03M05.00S,2,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+247,290,PT03M04.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+248,291,PT02M53.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+249,294,PT02M40.00S,2,1610612756,PHX,202738,Thomas,I. Thomas,-128,213,25,Missed,1,0,0,0,v,MISS Thomas 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+250,295,PT02M39.00S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+251,296,PT02M23.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,1,0,Made,1,68,44,112,h,Westbrook  Driving Slam Dunk (24 PTS),Made Shot,Driving Slam Dunk Shot,1,0
+252,297,PT02M11.00S,2,1610612756,PHX,101123,Green,G. Green,176,172,25,Missed,1,0,0,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+253,298,PT02M10.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+254,299,PT02M04.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0
+255,300,PT01M47.00S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,-128,45,14,Missed,1,0,0,0,v,MISS Plumlee 14' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+256,301,PT01M46.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+257,302,PT01M39.00S,2,1610612760,OKC,203103,Jones III,P. Jones III,226,7,0,Missed,1,0,0,0,h,MISS Jones  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+258,303,PT01M38.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+259,304,PT01M29.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,59,149,16,Made,1,68,46,114,v,Bledsoe 16' Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+260,305,PT01M09.00S,2,1610612760,OKC,201142,Durant,K. Durant,-56,47,7,Missed,1,0,0,0,h,MISS Durant 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+261,306,PT01M08.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+262,307,PT01M02.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,17,12,2,Made,1,68,48,116,v,Bledsoe 2' Driving Reverse Layup (10 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+263,308,PT00M41.90S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-108,222,25,Missed,1,0,0,0,h,MISS Westbrook 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+264,309,PT00M40.60S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+265,310,PT00M35.90S,2,1610612756,PHX,202738,Thomas,I. Thomas,-57,3,6,Missed,1,0,0,0,v,MISS Thomas 6' Jump Shot,Missed Shot,Jump Shot,1,0
+266,311,PT00M33.90S,2,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+267,312,PT00M12.80S,2,1610612760,OKC,201142,Durant,K. Durant,0,1,0,Made,1,70,48,118,h,Durant  Driving Dunk (18 PTS),Made Shot,Driving Dunk Shot,1,0
+268,313,PT00M02.90S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,20,0,2,Missed,1,0,0,0,v,MISS Bledsoe 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+269,313,PT00M02.90S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant BLOCK (1 BLK),,,1,0
+270,314,PT00M01.70S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+271,316,PT00M00.00S,2,0,,0,,,0,0,0,,0,70,48,118,,End of 2nd Period (8:13 PM EST),period,end,0,0
+272,318,PT12M00.00S,3,0,,0,,,0,0,0,,0,70,48,118,,Start of 3rd Period (8:29 PM EST),period,start,0,0
+273,319,PT11M50.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,13,170,17,Made,1,72,48,120,h,Ibaka 17' Jump Shot (10 PTS) (Westbrook 7 AST),Made Shot,Jump Shot,1,0
+274,320,PT11M28.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,125,149,19,Missed,1,0,0,0,v,MISS Bledsoe 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+275,321,PT11M27.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+276,323,PT11M04.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,-226,20,0,Missed,1,0,0,0,h,MISS Ibaka  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+277,324,PT11M02.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+278,325,PT10M49.00S,3,1610612760,OKC,201142,Durant,K. Durant,-54,115,13,Missed,1,0,0,0,h,MISS Durant 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+279,326,PT10M49.00S,3,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+280,327,PT10M34.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,13,19,2,Missed,1,0,0,0,v,MISS Bledsoe 2' Layup,Missed Shot,Layup Shot,1,0
+281,328,PT10M33.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+282,329,PT10M24.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Violation:Kicked Ball,Violation,Kicked Ball,0,0
+283,330,PT10M18.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,67,167,18,Missed,1,0,0,0,h,MISS Westbrook 18' Jump Shot,Missed Shot,Jump Shot,1,0
+284,331,PT10M16.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+285,332,PT10M10.00S,3,1610612756,PHX,101123,Green,G. Green,182,181,26,Made,1,72,51,123,v,Green 26' 3PT Jump Shot (13 PTS) (Bledsoe 3 AST),Made Shot,Jump Shot,1,0
+286,333,PT09M57.00S,3,1610612760,OKC,201142,Durant,K. Durant,47,249,25,Made,1,75,51,126,h,Durant 25' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,1,0
+287,334,PT09M47.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,12,6,1,Missed,1,0,0,0,v,MISS Plumlee 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+288,335,PT09M47.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+289,336,PT09M46.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,-8,-3,1,Missed,1,0,0,0,v,MISS Plumlee 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+290,337,PT09M44.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+291,338,PT09M35.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris S.FOUL (P4.T1),Foul,Shooting,1,0
+292,339,PT09M35.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,76,51,127,h,Adams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+293,341,PT09M35.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,77,51,128,h,Adams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+294,343,PT09M23.00S,3,1610612756,PHX,202693,Morris,M. Morris,149,99,18,Missed,1,0,0,0,v,MISS Mark Morris 18' Jump Shot,Missed Shot,Jump Shot,1,0
+295,344,PT09M23.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+296,345,PT09M13.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris P.FOUL (P5.T2),Foul,Personal,1,0
+297,346,PT09M13.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,SUB: Marc Morris FOR Mark Morris,Substitution,,0,0
+298,347,PT09M00.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-122,235,26,Missed,1,0,0,0,h,MISS Westbrook 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+299,348,PT08M58.00S,3,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+300,349,PT08M45.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,-221,19,0,Made,1,77,54,131,v,Tucker  3PT Jump Shot (3 PTS) (Marc Morris 1 AST),Made Shot,Jump Shot,1,0
+301,350,PT08M29.00S,3,1610612760,OKC,201142,Durant,K. Durant,-13,0,1,Made,1,79,54,133,h,Durant 1' Driving Layup (23 PTS) (Westbrook 8 AST),Made Shot,Driving Layup Shot,1,0
+302,351,PT08M11.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant P.FOUL (P2.T1),Foul,Personal,1,0
+303,352,PT08M04.00S,3,1610612756,PHX,101123,Green,G. Green,165,31,17,Made,1,79,56,135,v,Green 17' Jump Shot (15 PTS) (Bledsoe 4 AST),Made Shot,Jump Shot,1,0
+304,353,PT07M47.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker Violation:Kicked Ball,Violation,Kicked Ball,0,0
+305,354,PT07M39.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe S.FOUL (P3.T3),Foul,Shooting,1,0
+306,355,PT07M39.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,80,56,136,h,Westbrook Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0
+307,357,PT07M39.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,81,56,137,h,Westbrook Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0
+308,359,PT07M29.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,211,80,23,Missed,1,0,0,0,v,MISS Marc Morris 23' Jump Shot,Missed Shot,Jump Shot,1,0
+309,360,PT07M28.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+310,361,PT07M21.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,0
+311,362,PT07M09.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,53,241,25,Missed,1,0,0,0,v,MISS Bledsoe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+312,363,PT07M08.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+313,364,PT06M57.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-84,55,10,Missed,1,0,0,0,h,MISS Westbrook 10' Jump Shot,Missed Shot,Jump Shot,1,0
+314,364,PT06M57.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe BLOCK (1 BLK),,,1,0
+315,365,PT06M55.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+316,366,PT06M53.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams 3 Second Violation Turnover (P1.T9),Turnover,3 Second Violation,1,0
+317,368,PT06M39.00S,3,1610612756,PHX,101123,Green,G. Green,0,149,15,Missed,1,0,0,0,v,MISS Green 15' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+318,369,PT06M38.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+319,371,PT06M21.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,-146,60,16,Missed,1,0,0,0,h,MISS Ibaka 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+320,372,PT06M20.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+321,373,PT06M10.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,129,75,15,Missed,1,0,0,0,v,MISS Marc Morris 15' Jump Shot,Missed Shot,Jump Shot,1,0
+322,374,PT06M09.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+323,375,PT06M03.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,72,160,18,Missed,1,0,0,0,h,MISS Westbrook 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+324,376,PT06M02.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+325,377,PT06M01.00S,3,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green S.FOUL (P3.T4),Foul,Shooting,1,0
+326,378,PT06M01.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,82,56,138,h,Ibaka Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+327,380,PT06M01.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Randolph FOR Plumlee,Substitution,,0,0
+328,381,PT06M01.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,SUB: Len FOR Tucker,Substitution,,0,0
+329,382,PT06M01.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,SUB: Jones FOR Durant,Substitution,,0,0
+330,383,PT06M01.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,83,56,139,h,Ibaka Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+331,385,PT05M38.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,23,41,5,Made,1,83,58,141,v,Marc Morris 5' Running Jump Shot (10 PTS),Made Shot,Running Jump Shot,1,0
+332,386,PT05M25.00S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,Len S.FOUL (P2.PN),Foul,Shooting,1,0
+333,387,PT05M25.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+334,390,PT05M25.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,SUB: Morrow FOR Roberson,Substitution,,0,0
+335,391,PT05M25.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,84,58,142,h,Westbrook Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0
+336,393,PT05M25.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,85,58,143,h,Westbrook Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0
+337,395,PT05M11.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,-128,206,24,Missed,1,0,0,0,v,MISS Marc Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+338,396,PT05M10.00S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,Len REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+339,397,PT05M05.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,124,214,25,Missed,1,0,0,0,v,MISS Bledsoe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+340,398,PT05M04.00S,3,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+341,399,PT04M54.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0
+342,399,PT04M54.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Marc Morris STEAL (2 STL),,,1,0
+343,400,PT04M51.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-2,14,1,Made,1,85,60,145,v,Bledsoe 1' Layup (12 PTS) (Marc Morris 2 AST),Made Shot,Layup Shot,1,0
+344,402,PT04M27.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,SUB: Thomas FOR Bledsoe,Substitution,,0,0
+345,403,PT04M27.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0
+346,404,PT04M19.00S,3,1610612756,PHX,101123,Green,G. Green,108,124,16,Missed,1,0,0,0,v,MISS Green 16' Jump Shot,Missed Shot,Jump Shot,1,0
+347,405,PT04M17.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Rebound,Rebound,Unknown,0,0
+348,406,PT04M11.00S,3,1610612756,PHX,202738,Thomas,I. Thomas,-5,153,15,Made,1,85,62,147,v,Thomas 15' Pullup Jump Shot (6 PTS) (Marc Morris 3 AST),Made Shot,Pullup Jump shot,1,0
+349,407,PT03M51.00S,3,1610612760,OKC,201627,Morrow,A. Morrow,-75,104,13,Missed,1,0,0,0,h,MISS Morrow 13' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+350,408,PT03M51.00S,3,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,v,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+351,409,PT03M45.00S,3,1610612756,PHX,101123,Green,G. Green,239,102,26,Missed,1,0,0,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+352,410,PT03M44.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+353,411,PT03M22.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,24,181,18,Missed,1,0,0,0,h,MISS Westbrook 18' Jump Shot,Missed Shot,Jump Shot,1,0
+354,412,PT03M21.00S,3,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+355,413,PT03M07.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,SUB: Collison FOR Ibaka,Substitution,,0,0
+356,414,PT03M07.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Jump Ball Westbrook vs. Len: Tip to Adams,Jump Ball,,1,0
+357,415,PT03M07.00S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,Len Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0
+358,415,PT03M07.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook STEAL (2 STL),,,1,0
+359,416,PT02M55.00S,3,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,v,Thomas P.FOUL (P1.PN),Foul,Personal,1,0
+360,417,PT02M55.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+361,419,PT02M55.00S,3,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0,0,0,v,SUB: Warren FOR Green,Substitution,,0,0
+362,420,PT02M55.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,SUB: Jackson FOR Westbrook,Substitution,,0,0
+363,421,PT02M55.00S,3,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,86,62,148,h,Morrow Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+364,423,PT02M55.00S,3,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,87,62,149,h,Morrow Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+365,425,PT02M40.00S,3,1610612756,PHX,101183,Randolph,S. Randolph,45,36,6,Missed,1,0,0,0,v,MISS Randolph 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+366,426,PT02M39.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+367,427,PT02M19.00S,3,1610612760,OKC,201627,Morrow,A. Morrow,-45,254,26,Missed,1,0,0,0,h,MISS Morrow 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+368,428,PT02M18.00S,3,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,v,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+369,429,PT02M03.00S,3,1610612756,PHX,202738,Thomas,I. Thomas,-49,235,24,Missed,1,0,0,0,v,MISS Thomas 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+370,430,PT02M02.00S,3,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+371,431,PT01M45.00S,3,1610612760,OKC,203500,Adams,S. Adams,-51,15,5,Made,1,89,62,151,h,Adams 5' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,0
+372,432,PT01M30.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,-13,0,1,Missed,1,0,0,0,v,MISS Marc Morris 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+373,433,PT01M29.00S,3,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+374,434,PT01M21.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,-15,238,24,Missed,1,0,0,0,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+375,435,PT01M21.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Rebound,Rebound,Unknown,0,0
+376,436,PT01M21.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,SUB: Perkins FOR Adams,Substitution,,0,0
+377,437,PT01M07.00S,3,1610612756,PHX,101183,Randolph,S. Randolph,-4,235,24,Made,1,89,64,153,v,Randolph 24' Jump Shot (2 PTS) (Warren 1 AST),Made Shot,Jump Shot,1,0
+378,438,PT00M54.90S,3,1610612760,OKC,2555,Collison,N. Collison,-142,19,14,Missed,1,0,0,0,h,MISS Collison 14' Jump Shot,Missed Shot,Jump Shot,1,0
+379,439,PT00M54.30S,3,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,v,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+380,440,PT00M49.20S,3,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,v,Thomas Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0
+381,441,PT00M40.90S,3,1610612760,OKC,202704,Jackson,R. Jackson,-18,23,3,Missed,1,0,0,0,h,MISS Jackson 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+382,442,PT00M39.80S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0
+383,443,PT00M36.90S,3,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,1,0
+384,444,PT00M28.90S,3,1610612756,PHX,203933,Warren,T. Warren,162,179,24,Missed,1,0,0,0,v,MISS Warren 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+385,445,PT00M28.30S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,Len REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+386,446,PT00M24.90S,3,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,0,0,0,v,Warren Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0
+387,447,PT00M04.80S,3,1610612760,OKC,202704,Jackson,R. Jackson,39,12,4,Missed,1,0,0,0,h,MISS Jackson 4' Driving Jump Shot,Missed Shot,Driving Jump shot,1,0
+388,447,PT00M04.80S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,Len BLOCK (1 BLK),,,1,0
+389,448,PT00M02.50S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,Len REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+390,449,PT00M00.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,116,280,30,Missed,1,0,0,0,v,MISS Marc Morris 30' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+391,450,PT00M00.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0
+392,451,PT00M00.00S,3,0,,0,,,0,0,0,,0,89,64,153,,End of 3rd Period (8:56 PM EST),period,end,0,0
+393,453,PT12M00.00S,4,0,,0,,,0,0,0,,0,89,64,153,,Start of 4th Period (8:58 PM EST),period,start,0,0
+394,454,PT11M44.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,157,198,25,Made,1,89,67,156,v,Goodwin 25' 3PT Jump Shot (5 PTS) (Thomas 4 AST),Made Shot,Jump Shot,1,0
+395,455,PT11M24.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,-5,47,5,Made,1,91,67,158,h,Morrow 5' Floating Jump Shot (9 PTS) (Collison 1 AST),Made Shot,Floating Jump shot,1,0
+396,456,PT11M05.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,62,233,24,Missed,1,0,0,0,v,MISS Randolph 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+397,457,PT11M04.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+398,458,PT10M53.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,21,53,6,Missed,1,0,0,0,h,MISS Perkins 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+399,459,PT10M52.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0,0,0,v,Goodwin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+400,460,PT10M46.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,-27,12,3,Missed,1,0,0,0,v,MISS Goodwin 3' Layup,Missed Shot,Layup Shot,1,0
+401,461,PT10M44.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+402,462,PT10M34.00S,4,1610612756,PHX,202738,Thomas,I. Thomas,-8,156,16,Missed,1,0,0,0,v,MISS Thomas 16' Jump Shot,Missed Shot,Jump Shot,1,0
+403,463,PT10M33.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+404,464,PT10M31.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,21,30,4,Missed,1,0,0,0,v,MISS Randolph 4' Hook Shot,Missed Shot,Hook Shot,1,0
+405,466,PT10M30.00S,4,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,0,0,0,v,Warren REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+406,465,PT10M30.00S,4,1610612756,PHX,203933,Warren,T. Warren,1,25,3,Made,1,91,69,160,v,Warren 3' Tip Shot (4 PTS),Made Shot,Tip Shot,1,0
+407,467,PT10M16.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph P.FOUL (P1.T1),Foul,Personal,1,0
+408,468,PT10M16.00S,4,1610612756,PHX,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,v,SUB: Ennis FOR Thomas,Substitution,,0,0
+409,469,PT10M12.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,Collison Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0
+410,469,PT10M12.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph STEAL (1 STL),,,1,0
+411,470,PT10M05.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,51,12,5,Missed,1,0,0,0,v,MISS Randolph 5' Hook Shot,Missed Shot,Hook Shot,1,0
+412,471,PT10M04.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+413,472,PT09M46.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,-10,140,14,Missed,1,0,0,0,h,MISS Morrow 14' Jump Shot,Missed Shot,Jump Shot,1,0
+414,473,PT09M45.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,0,0,0,,0,0,0,0,v,Ennis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+415,474,PT09M32.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,54,47,7,Missed,1,0,0,0,v,MISS Ennis 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+416,475,PT09M31.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+417,476,PT09M21.00S,4,1610612760,OKC,2555,Collison,N. Collison,1,246,25,Missed,1,0,0,0,h,MISS Collison 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+418,477,PT09M20.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,0,0,0,,0,0,0,0,v,Ennis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+419,478,PT09M10.00S,4,1610612756,PHX,203933,Warren,T. Warren,-8,211,21,Missed,1,0,0,0,v,MISS Warren 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+420,479,PT09M09.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,Collison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+421,480,PT08M56.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0
+422,480,PT08M56.00S,4,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,0,0,0,v,Warren STEAL (1 STL),,,1,0
+423,481,PT08M52.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,-5,-2,1,Made,1,91,71,162,v,Ennis 1' Layup (2 PTS) (Warren 2 AST),Made Shot,Layup Shot,1,0
+424,482,PT08M52.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+425,484,PT08M37.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,-32,36,5,Made,1,93,71,164,h,Jones 5' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,1,0
+426,485,PT08M37.00S,4,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,0,0,0,v,Warren S.FOUL (P2.T2),Foul,Shooting,1,0
+427,486,PT08M37.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,94,71,165,h,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+428,488,PT08M22.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,-5,231,23,Missed,1,0,0,0,v,MISS Randolph 23' Jump Shot,Missed Shot,Jump Shot,1,0
+429,489,PT08M21.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+430,490,PT08M05.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson Offensive Charge Foul (P1.T1),Foul,Offensive Charge,1,0
+431,491,PT08M05.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson Foul Turnover (P3.T15),Turnover,Foul,1,0
+432,492,PT08M05.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,SUB: Smith FOR Jackson,Substitution,,0,0
+433,493,PT07M48.00S,4,1610612756,PHX,203458,Len,A. Len,-114,45,12,Missed,1,0,0,0,v,MISS Len 12' Jump Shot,Missed Shot,Jump Shot,1,0
+434,494,PT07M47.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0
+435,495,PT07M36.00S,4,1610612760,OKC,202397,Smith,I. Smith,15,44,5,Missed,1,0,0,0,h,MISS Smith 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+436,496,PT07M35.00S,4,1610612760,OKC,202397,Smith,I. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+437,497,PT07M30.00S,4,1610612760,OKC,2555,Collison,N. Collison,-147,86,17,Made,1,96,71,167,h,Collison 17' Jump Shot (6 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,0
+438,498,PT07M15.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,2,12,1,Made,1,96,73,169,v,Randolph 1' Layup (4 PTS) (Ennis 1 AST),Made Shot,Layup Shot,1,0
+439,499,PT07M15.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,Collison S.FOUL (P4.T2),Foul,Shooting,1,0
+440,500,PT07M15.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,SUB: McGary FOR Collison,Substitution,,0,0
+441,501,PT07M15.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,MISS Randolph Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+442,507,PT07M14.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0,0,0,v,Goodwin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+443,509,PT07M14.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,1,19,2,Missed,1,0,0,0,v,MISS Goodwin 2' Putback Slam Dunk,Missed Shot,Putback Slam Dunk Shot,1,0
+444,503,PT07M13.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+445,504,PT07M07.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,-228,17,0,Missed,1,0,0,0,h,MISS Morrow  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+446,505,PT07M05.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0,0,0,v,Goodwin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+447,506,PT06M59.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,-35,-13,4,Made,1,96,75,171,v,Ennis 4' Jump Shot (4 PTS) (Goodwin 1 AST),Made Shot,Jump Shot,1,0
+448,508,PT06M35.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,42,1,4,Made,1,98,75,173,h,Perkins 4' Hook Shot (5 PTS) (Smith 2 AST),Made Shot,Hook Shot,1,0
+449,510,PT06M12.00S,4,1610612756,PHX,203933,Warren,T. Warren,17,228,23,Missed,1,0,0,0,v,MISS Warren 23' Jump Shot,Missed Shot,Jump Shot,1,0
+450,511,PT06M11.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+451,512,PT06M06.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,1,0,Made,1,100,75,175,h,Jones  Reverse Dunk (5 PTS) (Morrow 3 AST),Made Shot,Reverse Dunk Shot,1,0
+452,513,PT05M47.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones S.FOUL (P2.T3),Foul,Shooting,1,0
+453,514,PT05M47.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+454,517,PT05M47.00S,4,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,0,0,0,v,SUB: Tolliver FOR Len,Substitution,,0,0
+455,518,PT05M47.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,100,76,176,v,Randolph Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+456,522,PT05M47.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins Violation:Lane,Violation,Lane,0,0
+457,524,PT05M47.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,MISS Randolph Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+458,526,PT05M46.00S,4,1610612760,OKC,203956,McGary,M. McGary,0,0,0,,0,0,0,0,h,McGary REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+459,527,PT05M32.00S,4,1610612760,OKC,203956,McGary,M. McGary,0,0,0,,0,0,0,0,h,McGary Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0
+460,527,PT05M32.00S,4,1610612756,PHX,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver STEAL (1 STL),,,1,0
+461,528,PT05M23.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,17,30,3,Missed,1,0,0,0,v,MISS Randolph 3' Jump Shot,Missed Shot,Jump Shot,1,0
+462,528,PT05M23.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins BLOCK (1 BLK),,,1,0
+463,529,PT05M23.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Rebound,Rebound,Unknown,0,0
+464,530,PT05M07.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,6,268,27,Missed,1,0,0,0,v,MISS Ennis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+465,531,PT05M07.00S,4,1610612760,OKC,203956,McGary,M. McGary,0,0,0,,0,0,0,0,h,McGary REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+466,532,PT04M59.00S,4,1610612760,OKC,202397,Smith,I. Smith,15,7,2,Made,1,102,76,178,h,Smith 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+467,533,PT04M57.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+468,535,PT04M44.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,-105,219,24,Made,1,102,79,181,v,Ennis 24' 3PT Jump Shot (7 PTS) (Goodwin 2 AST),Made Shot,Jump Shot,1,0
+469,536,PT04M29.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0
+470,536,PT04M29.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph STEAL (2 STL),,,1,0
+471,537,PT04M24.00S,4,1610612756,PHX,203933,Warren,T. Warren,15,3,2,Made,1,102,81,183,v,Warren 2' Layup (6 PTS) (Goodwin 3 AST),Made Shot,Layup Shot,1,0
+472,538,PT04M03.00S,4,1610612760,OKC,203956,McGary,M. McGary,-11,-8,1,Made,1,104,81,185,h,McGary 1' Layup (2 PTS) (Perkins 1 AST),Made Shot,Layup Shot,1,0
+473,539,PT03M40.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,-23,33,4,Made,1,104,83,187,v,Ennis 4' Driving Jump Shot (9 PTS) (Warren 3 AST),Made Shot,Driving Jump shot,1,0
+474,540,PT03M23.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,6,26,3,Made,1,106,83,189,h,Jones 3' Running Layup (7 PTS) (Smith 3 AST),Made Shot,Running Layup Shot,1,0
+475,541,PT03M05.00S,4,1610612756,PHX,203933,Warren,T. Warren,20,52,6,Made,1,106,85,191,v,Warren 6' Jump Shot (8 PTS) (Ennis 2 AST),Made Shot,Jump Shot,1,0
+476,542,PT02M42.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,-67,145,16,Missed,1,0,0,0,h,MISS Perkins 16' Jump Shot,Missed Shot,Jump Shot,1,0
+477,543,PT02M42.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,0,0,0,,0,0,0,0,v,Ennis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+478,545,PT02M21.00S,4,1610612756,PHX,203933,Warren,T. Warren,-2,53,5,Missed,1,0,0,0,v,MISS Warren 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+479,546,PT02M21.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+480,547,PT02M18.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,12,0,1,Missed,1,0,0,0,v,MISS Randolph 1' Layup,Missed Shot,Layup Shot,1,0
+481,548,PT02M16.00S,4,1610612760,OKC,202397,Smith,I. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+482,549,PT02M11.00S,4,1610612760,OKC,202397,Smith,I. Smith,0,17,2,Missed,1,0,0,0,h,MISS Smith 2' Layup,Missed Shot,Layup Shot,1,0
+483,550,PT02M10.00S,4,1610612760,OKC,203956,McGary,M. McGary,0,0,0,,0,0,0,0,h,McGary REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+484,551,PT02M07.00S,4,1610612760,OKC,203956,McGary,M. McGary,0,0,0,,0,0,0,0,h,McGary Bad Pass Turnover (P2.T18),Turnover,Bad Pass,1,0
+485,551,PT02M07.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0,0,0,v,Goodwin STEAL (1 STL),,,1,0
+486,552,PT02M03.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,-24,3,2,Missed,1,0,0,0,v,MISS Goodwin 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+487,553,PT02M02.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+488,554,PT01M48.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,0,0,0,,0,0,0,0,v,Ennis S.FOUL (P1.T3),Foul,Shooting,1,0
+489,555,PT01M48.00S,4,1610612760,OKC,203956,McGary,M. McGary,0,0,0,,0,0,0,0,h,MISS McGary Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+490,556,PT01M48.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Normal Rebound,0,0
+491,557,PT01M48.00S,4,1610612760,OKC,203956,McGary,M. McGary,0,0,0,,0,107,85,192,h,McGary Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+492,559,PT01M35.00S,4,1610612756,PHX,203898,Ennis,T. Ennis,-15,6,2,Made,1,107,87,194,v,Ennis 2' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+493,560,PT01M22.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins Lost Ball Turnover (P2.T19),Turnover,Lost Ball,1,0
+494,560,PT01M22.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph STEAL (3 STL),,,1,0
+495,561,PT01M16.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,-48,34,6,Missed,1,0,0,0,v,MISS Goodwin 6' Jump Shot,Missed Shot,Jump Shot,1,0
+496,561,PT01M16.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones BLOCK (1 BLK),,,1,0
+497,562,PT01M14.00S,4,1610612760,OKC,203956,McGary,M. McGary,0,0,0,,0,0,0,0,h,McGary REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+498,563,PT01M08.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,230,28,0,Made,1,110,87,197,h,Morrow  3PT Jump Shot (12 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,0
+499,564,PT01M01.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0,0,0,h,Perkins S.FOUL (P2.T4),Foul,Shooting,1,0
+500,565,PT01M01.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,MISS Randolph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+501,566,PT01M01.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Rebound,Rebound,Normal Rebound,0,0
+502,567,PT01M01.00S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,110,88,198,v,Randolph Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+503,569,PT00M45.40S,4,1610612760,OKC,201627,Morrow,A. Morrow,21,0,2,Made,1,112,88,200,h,Morrow 2' Driving Reverse Layup (14 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+504,570,PT00M35.90S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,-114,233,26,Missed,1,0,0,0,v,MISS Goodwin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+505,571,PT00M34.90S,4,1610612760,OKC,202397,Smith,I. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+506,572,PT00M30.90S,4,1610612760,OKC,202397,Smith,I. Smith,-16,9,2,Missed,1,0,0,0,h,MISS Smith 2' Layup,Missed Shot,Layup Shot,1,0
+507,572,PT00M30.90S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0,0,0,v,Goodwin BLOCK (1 BLK),,,1,0
+508,573,PT00M27.80S,4,1610612756,PHX,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+509,574,PT00M21.90S,4,1610612756,PHX,201229,Tolliver,A. Tolliver,231,0,0,Missed,1,0,0,0,v,MISS Tolliver  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+510,575,PT00M20.90S,4,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+511,577,PT00M00.00S,4,0,,0,,,0,0,0,,0,112,88,200,,End of 4th Period (9:23 PM EST),period,end,0,0

@@ -1,0 +1,560 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:10 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Jump Ball Olynyk vs. Smith Jr.: Tip to Porter Jr.,Jump Ball,,1,0
+3,7,PT11M52.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+4,8,PT11M52.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. L.B.FOUL (P1.T1) (J.Goble),Foul,Loose Ball,1,0
+5,10,PT11M37.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,26,20,3,Missed,1,,,0,h,MISS Vanderbilt 3' Layup,Missed Shot,Layup Shot,1,0
+6,10,PT11M37.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. BLOCK (1 BLK),,,1,0
+7,12,PT11M37.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,1,0
+8,14,PT11M30.00S,1,1610612762,UTA,201144,Conley,M. Conley,225,23,0,Made,1,3,0,3,h,Conley 3PT Jump Shot (3 PTS) (Olynyk 1 AST),Made Shot,Jump Shot,1,0
+9,16,PT11M07.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0
+10,17,PT10M57.00S,1,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+11,17,PT10M57.00S,1,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon STEAL (1 STL),,,1,0
+12,19,PT10M46.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,190,58,20,Missed,1,,,0,v,MISS Smith Jr. 20' Jump Shot,Missed Shot,Jump Shot,1,0
+13,20,PT10M44.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+14,21,PT10M28.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,-16,22,3,Made,1,5,0,5,h,Vanderbilt 3' Cutting Dunk Shot (2 PTS) (Olynyk 2 AST),Made Shot,Cutting Dunk Shot,1,0
+15,23,PT10M07.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-45,108,12,Made,1,5,2,7,v,Porter Jr. 12' Driving Floating Jump Shot (2 PTS) (Green 1 AST),Made Shot,Driving Floating Jump Shot,1,0
+16,25,PT09M53.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+17,25,PT09M53.00S,1,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon STEAL (2 STL),,,1,0
+18,29,PT09M51.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson Transition Take Foul (P1.T1) (K.Lane),Foul                                    ,Transition Take,0,0
+19,31,PT09M51.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,5,3,8,v,Porter Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0
+20,32,PT09M51.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0
+21,34,PT09M44.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-39,16,4,Missed,1,,,0,v,MISS Porter Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+22,35,PT09M43.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+23,37,PT09M35.00S,1,1610612762,UTA,201144,Conley,M. Conley,-44,59,7,Made,1,7,3,10,h,Conley 7' Driving Floating Bank Jump Shot (5 PTS) (Olynyk 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,0
+24,38,PT09M23.00S,1,1610612745,HOU,1630224,Green,J. Green,184,189,26,Made,1,7,6,13,v,Green 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,0
+25,39,PT09M10.00S,1,1610612762,UTA,201144,Conley,M. Conley,-230,110,25,Missed,1,,,0,h,MISS Conley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+26,40,PT09M06.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+27,41,PT09M06.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Made,1,9,6,15,h,Vanderbilt Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,0
+28,42,PT09M00.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson P.FOUL (P2.T3) (P.Ransom),Foul,Personal,1,0
+29,44,PT08M49.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-225,-13,0,Missed,1,,,0,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+30,45,PT08M46.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+31,46,PT08M33.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,22,12,3,Missed,1,,,0,h,MISS Vanderbilt 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+32,47,PT08M30.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+33,48,PT08M13.00S,1,1610612745,HOU,1630224,Green,J. Green,26,17,3,Missed,1,,,0,v,MISS Green 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+34,49,PT08M08.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+35,50,PT08M08.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,Made,1,9,8,17,v,Tate Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,0
+36,51,PT08M00.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,-233,75,24,Missed,1,,,0,h,MISS Vanderbilt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+37,52,PT07M57.00S,1,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+38,53,PT07M56.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,-168,226,28,Missed,1,,,0,h,MISS Clarkson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+39,54,PT07M54.00S,1,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Unknown,1,0
+40,57,PT07M41.00S,1,1610612745,HOU,1630224,Green,J. Green,29,30,4,Made,1,9,10,19,v,Green 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+41,58,PT07M26.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P2.T2) (J.Goble),Foul,Shooting,1,0
+42,60,PT07M26.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,MISS Clarkson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+43,61,PT07M26.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+44,62,PT07M26.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,10,10,20,h,Clarkson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0
+45,63,PT07M16.00S,1,1610612745,HOU,1630224,Green,J. Green,151,198,25,Missed,1,,,0,v,MISS Green 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+46,64,PT07M13.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+47,65,PT07M00.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,225,100,25,Missed,1,,,0,h,MISS Clarkson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+48,66,PT06M57.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+49,67,PT06M51.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,42,125,13,Missed,1,,,0,v,MISS Smith Jr. 13' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+50,68,PT06M48.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+51,69,PT06M43.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,16,15,2,Made,1,12,10,22,h,Markkanen 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+52,70,PT06M26.00S,1,1610612745,HOU,201569,Gordon,E. Gordon,97,240,26,Missed,1,,,0,v,MISS Gordon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+53,71,PT06M24.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+54,72,PT06M16.00S,1,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+55,73,PT06M16.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+56,74,PT06M16.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,SUB: Sexton FOR Clarkson,Substitution,,0,0
+57,75,PT06M16.00S,1,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Kessler FOR Conley,Substitution,,0,0
+58,76,PT06M16.00S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Beasley FOR Vanderbilt,Substitution,,0,0
+59,77,PT06M16.00S,1,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,SUB: Eason FOR Gordon,Substitution,,0,0
+60,78,PT06M16.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,SUB: Martin Jr. FOR Tate,Substitution,,0,0
+61,84,PT06M02.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+62,84,PT06M02.00S,1,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley STEAL (1 STL),,,1,0
+63,86,PT05M59.00S,1,1610612762,UTA,1627736,Beasley,M. Beasley,147,202,25,Missed,1,,,0,h,MISS Beasley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+64,87,PT05M56.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+65,88,PT05M45.00S,1,1610612745,HOU,1631106,Eason,T. Eason,142,226,27,Missed,1,,,0,v,MISS Eason 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+66,89,PT05M42.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+67,90,PT05M40.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0
+68,90,PT05M40.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. STEAL (1 STL),,,1,0
+69,92,PT05M26.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,34,19,4,Missed,1,,,0,v,MISS Smith Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+70,93,PT05M23.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+71,94,PT05M18.00S,1,1610612745,HOU,1630224,Green,J. Green,148,251,29,Missed,1,,,0,v,MISS Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+72,95,PT05M16.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+73,96,PT05M10.00S,1,1610612762,UTA,1629012,Sexton,C. Sexton,-13,26,3,Made,1,14,10,24,h,Sexton 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,0
+74,97,PT04M45.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,97,235,25,Made,1,14,13,27,v,Smith Jr. 25' 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,1,0
+75,99,PT04M24.00S,1,1610612762,UTA,203482,Olynyk,K. Olynyk,28,10,3,Missed,1,,,0,h,MISS Olynyk 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+76,100,PT04M21.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+77,101,PT04M17.00S,1,1610612745,HOU,1631106,Eason,T. Eason,7,51,5,Missed,1,,,0,v,MISS Eason 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+78,102,PT04M12.00S,1,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+79,103,PT04M12.00S,1,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,Missed,1,,,0,v,MISS Eason Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+80,104,PT04M12.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+81,105,PT04M06.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,22,10,2,Made,1,16,13,29,h,Markkanen 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+82,106,PT03M47.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-5,109,11,Made,1,16,15,31,v,Porter Jr. 11' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,0
+83,107,PT03M25.00S,1,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0
+84,107,PT03M25.00S,1,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason STEAL (1 STL),,,1,0
+85,109,PT03M17.00S,1,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. OFF.Foul (P1) (P.Ransom),Foul,Offensive,1,0
+86,111,PT03M17.00S,1,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0
+87,112,PT03M17.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,SUB: Gay FOR Markkanen,Substitution,,0,0
+88,113,PT03M17.00S,1,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Olynyk,Substitution,,0,0
+89,114,PT03M17.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,SUB: Marjanovic FOR Smith Jr.,Substitution,,0,0
+90,119,PT03M08.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,h,Kessler Traveling Turnover (P1.T6),Turnover,Traveling,1,0
+91,120,PT02M54.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,88,119,15,Missed,1,,,0,v,MISS Porter Jr. 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+92,121,PT02M50.00S,1,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+93,123,PT02M44.00S,1,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+94,124,PT02M42.00S,1,1610612762,UTA,200752,Gay,R. Gay,-137,232,27,Missed,1,,,0,h,MISS Gay 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+95,125,PT02M39.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+96,126,PT02M27.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,h,Kessler S.FOUL (P1.T4) (J.Goble),Foul,Shooting,1,0
+97,128,PT02M27.00S,1,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,MISS Martin Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+98,129,PT02M27.00S,1,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0
+99,130,PT02M27.00S,1,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,16,16,32,v,Martin Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0
+100,131,PT02M14.00S,1,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,127,227,26,Missed,1,,,0,h,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+101,132,PT02M10.00S,1,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+102,133,PT01M58.00S,1,1610612745,HOU,1630224,Green,J. Green,50,161,17,Missed,1,,,0,v,MISS Green 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+103,134,PT01M54.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,h,Kessler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+104,135,PT01M48.00S,1,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,-27,15,3,Made,1,18,16,34,h,Horton-Tucker 3' Running Reverse Layup (2 PTS) (Kessler 1 AST),Made Shot,Running Reverse Layup Shot,1,0
+105,137,PT01M29.00S,1,1610612745,HOU,1630224,Green,J. Green,29,5,3,Missed,1,,,0,v,MISS Green 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+106,137,PT01M29.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,h,Kessler BLOCK (1 BLK),,,1,0
+107,139,PT01M29.00S,1,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Unknown,1,0
+108,141,PT01M29.00S,1,1610612762,UTA,1629012,Sexton,C. Sexton,0,0,0,,0,,,0,h,SUB: Conley FOR Sexton,Substitution,,0,0
+109,142,PT01M29.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,h,SUB: Vanderbilt FOR Kessler,Substitution,,0,0
+110,143,PT01M29.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,SUB: Nix FOR Porter Jr.,Substitution,,0,0
+111,144,PT01M29.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,SUB: Gordon FOR Green,Substitution,,0,0
+112,150,PT01M28.00S,1,1610612745,HOU,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Marjanovic,Substitution,,0,0
+113,152,PT01M24.00S,1,1610612745,HOU,201569,Gordon,E. Gordon,-4,77,8,Missed,1,,,0,v,MISS Gordon 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+114,153,PT01M21.00S,1,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+115,154,PT01M17.00S,1,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. P.FOUL (P2.T3) (J.Goble),Foul,Personal,1,0
+116,156,PT01M02.00S,1,1610612762,UTA,200752,Gay,R. Gay,-67,136,15,Made,1,20,16,36,h,Gay 15' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,0
+117,157,PT00M44.70S,1,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,,,0,v,Nix Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+118,157,PT00M44.70S,1,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker STEAL (1 STL),,,1,0
+119,159,PT00M39.90S,1,1610612762,UTA,200752,Gay,R. Gay,-23,21,3,Missed,1,,,0,h,MISS Gay 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+120,160,PT00M39.50S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+121,161,PT00M39.50S,1,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Made,1,22,16,38,h,Vanderbilt Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,0
+122,162,PT00M31.20S,1,1610612745,HOU,201569,Gordon,E. Gordon,-154,190,24,Made,1,22,19,41,v,Gordon 24' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,0
+123,163,PT00M13.40S,1,1610612762,UTA,200752,Gay,R. Gay,-233,16,0,Missed,1,,,0,h,MISS Gay 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+124,164,PT00M10.50S,1,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+125,165,PT00M02.30S,1,1610612745,HOU,201569,Gordon,E. Gordon,34,9,4,Made,1,22,21,43,v,Gordon 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+126,166,PT00M00.00S,1,0,,0,,,0,0,0,,0,22,21,43,,End of 1st Period (9:34 PM EST),period,end,1,0
+127,169,PT12M00.00S,2,0,,0,,,0,0,0,,0,22,21,43,,Start of 2nd Period (9:37 PM EST),period,start,0,0
+128,170,PT11M46.00S,2,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt OFF.Foul (P2) (P.Ransom),Foul,Offensive,1,0
+129,172,PT11M46.00S,2,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0
+130,173,PT11M28.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,-1,15,2,Made,1,22,23,45,v,Martin Jr. 2' Cutting Dunk Shot (3 PTS) (Gordon 1 AST),Made Shot,Cutting Dunk Shot,1,0
+131,175,PT11M11.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,0
+132,177,PT11M03.00S,2,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,-235,21,24,Made,1,25,23,48,h,Horton-Tucker 24' 3PT Jump Shot (5 PTS) (Vanderbilt 1 AST),Made Shot,Jump Shot,1,0
+133,179,PT10M42.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+134,179,PT10M42.00S,2,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley STEAL (2 STL),,,1,0
+135,181,PT10M30.00S,2,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,36,101,11,Made,1,27,23,50,h,Horton-Tucker 11' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+136,182,PT10M08.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,-219,188,29,Made,1,27,26,53,v,Gordon 29' 3PT Jump Shot (8 PTS) (Nix 1 AST),Made Shot,Jump Shot,1,0
+137,184,PT09M52.00S,2,1610612762,UTA,201144,Conley,M. Conley,-98,81,13,Missed,1,,,0,h,MISS Conley 13' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+138,185,PT09M49.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+139,186,PT09M42.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-138,209,25,Missed,1,,,0,v,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+140,187,PT09M40.00S,2,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+141,188,PT09M32.00S,2,1610612762,UTA,1627736,Beasley,M. Beasley,-172,186,25,Missed,1,,,0,h,MISS Beasley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+142,189,PT09M28.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+143,190,PT09M16.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,194,221,29,Missed,1,,,0,v,MISS Gordon 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+144,191,PT09M14.00S,2,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+145,192,PT09M02.00S,2,1610612762,UTA,1627736,Beasley,M. Beasley,21,21,3,Made,1,29,26,55,h,Beasley 3' Driving Layup (2 PTS) (Horton-Tucker 1 AST),Made Shot,Driving Layup Shot,1,0
+146,194,PT08M37.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,25,17,3,Made,1,29,28,57,v,Gordon 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+147,195,PT08M22.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate P.FOUL (P2.T2) (J.Goble),Foul,Personal,1,0
+148,197,PT08M22.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,SUB: Garuba FOR Smith Jr.,Substitution,,0,0
+149,198,PT08M22.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,SUB: Mathews FOR Martin Jr.,Substitution,,0,0
+150,201,PT08M22.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,SUB: Green FOR Gordon,Substitution,,0,0
+151,203,PT08M15.00S,2,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,110,239,26,Made,1,32,28,60,h,Horton-Tucker 26' 3PT Jump Shot (10 PTS) (Conley 1 AST),Made Shot,Jump Shot,1,0
+152,205,PT08M04.00S,2,1610612745,HOU,1630227,Nix,D. Nix,29,6,3,Missed,1,,,0,v,MISS Nix 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+153,206,PT08M02.00S,2,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+154,207,PT07M54.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,1,0
+155,209,PT07M54.00S,2,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,33,28,61,h,Gay Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+156,210,PT07M54.00S,2,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,SUB: Clarkson FOR Beasley,Substitution,,0,0
+157,212,PT07M54.00S,2,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,34,28,62,h,Gay Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+158,213,PT07M41.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,-180,167,25,Made,1,34,31,65,v,Mathews 25' 3PT Jump Shot (3 PTS) (Nix 2 AST),Made Shot,Jump Shot,1,0
+159,215,PT07M30.00S,2,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley OFF.Foul (P1) (K.Lane),Foul,Offensive,1,0
+160,217,PT07M30.00S,2,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0
+161,218,PT07M19.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson P.FOUL (P3.T1) (J.Goble),Foul,Personal,1,0
+162,220,PT07M19.00S,2,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Olynyk FOR Vanderbilt,Substitution,,0,0
+163,221,PT07M19.00S,2,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Markkanen FOR Conley,Substitution,,0,0
+164,222,PT07M19.00S,2,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,,,0,h,SUB: Sexton FOR Gay,Substitution,,0,0
+165,226,PT07M12.00S,2,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,,,0,v,Nix Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0
+166,226,PT07M12.00S,2,1610612762,UTA,1629012,Sexton,C. Sexton,0,0,0,,0,,,0,h,Sexton STEAL (1 STL),,,1,0
+167,228,PT07M06.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,-25,49,6,Made,1,36,31,67,h,Markkanen 6' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+168,229,PT06M56.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,-6,281,28,Made,1,36,34,70,v,Mathews 28' 3PT Jump Shot (6 PTS) (Tate 1 AST),Made Shot,Jump Shot,1,0
+169,231,PT06M45.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,-213,197,29,Missed,1,,,0,h,MISS Olynyk 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+170,232,PT06M42.00S,2,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Unknown,1,0
+171,234,PT06M42.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+172,235,PT06M42.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,SUB: Eason FOR Tate,Substitution,,0,0
+173,237,PT06M27.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0
+174,237,PT06M27.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson STEAL (1 STL),,,1,0
+175,239,PT06M23.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,42,25,5,Made,1,38,34,72,h,Markkanen 5' Layup (8 PTS) (Clarkson 1 AST),Made Shot,Layup Shot,1,0
+176,241,PT06M08.00S,2,1610612745,HOU,1630224,Green,J. Green,40,176,18,Missed,1,,,0,v,MISS Green 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+177,242,PT06M05.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+178,243,PT06M00.00S,2,1610612762,UTA,1629012,Sexton,C. Sexton,40,26,5,Made,1,40,34,74,h,Sexton 5' Driving Layup (4 PTS) (Clarkson 2 AST),Made Shot,Driving Layup Shot,1,0
+179,245,PT06M00.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0
+180,247,PT06M00.00S,2,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Nix,Substitution,,0,0
+181,249,PT06M00.00S,2,1610612762,UTA,1629012,Sexton,C. Sexton,0,0,0,,0,,,0,h,MISS Sexton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+182,250,PT05M58.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+183,251,PT05M56.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,15,28,3,Missed,1,,,0,h,MISS Olynyk 3' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+184,253,PT05M55.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+185,254,PT05M55.00S,2,1610612762,UTA,1629012,Sexton,C. Sexton,0,0,0,,0,,,0,h,Sexton Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,1,0
+186,255,PT05M46.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+187,255,PT05M46.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk STEAL (1 STL),,,1,0
+188,257,PT05M41.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,0,26,3,Made,1,42,34,76,h,Olynyk 3' Layup (2 PTS) (Clarkson 3 AST),Made Shot,Layup Shot,1,0
+189,259,PT05M40.00S,2,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+190,260,PT05M40.00S,2,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,SUB: Conley FOR Horton-Tucker,Substitution,,0,0
+191,261,PT05M40.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Garuba,Substitution,,0,0
+192,264,PT05M30.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-102,227,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+193,265,PT05M26.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+194,266,PT05M24.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,99,258,28,Missed,1,,,0,v,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+195,267,PT05M21.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+196,268,PT05M21.00S,2,1610612762,UTA,1629012,Sexton,C. Sexton,0,0,0,,0,,,0,h,Sexton P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0
+197,270,PT05M19.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Traveling Turnover (P2.T10),Turnover,Traveling,1,0
+198,271,PT04M53.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,109,13,11,Missed,1,,,0,h,MISS Olynyk 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+199,272,PT04M50.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+200,273,PT04M50.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,Missed,1,,,0,h,MISS Clarkson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+201,274,PT04M49.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+202,275,PT04M40.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,1,13,1,Made,1,42,36,78,v,Porter Jr. 1' Dunk (7 PTS) (Green 2 AST),Made Shot,Dunk Shot,1,0
+203,277,PT04M28.00S,2,1610612762,UTA,1629012,Sexton,C. Sexton,81,241,25,Missed,1,,,0,h,MISS Sexton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+204,278,PT04M27.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,1,0
+205,279,PT04M27.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. L.B.FOUL (P1.PN) (P.Ransom),Foul,Loose Ball,1,0
+206,281,PT04M27.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,MISS Olynyk Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+207,282,PT04M27.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+208,283,PT04M27.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,MISS Olynyk Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+209,284,PT04M24.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+210,285,PT04M19.00S,2,1610612745,HOU,1630224,Green,J. Green,36,-1,4,Made,1,42,38,80,v,Green 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0
+211,286,PT04M05.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,-233,16,0,Made,1,45,38,83,h,Clarkson 3PT Jump Shot (4 PTS) (Conley 2 AST),Made Shot,Jump Shot,1,0
+212,288,PT03M51.00S,2,1610612745,HOU,1630224,Green,J. Green,-120,241,27,Missed,1,,,0,v,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+213,289,PT03M47.00S,2,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+214,290,PT03M42.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,-16,29,3,Made,1,47,38,85,h,Markkanen 3' Cutting Dunk Shot (10 PTS) (Conley 3 AST),Made Shot,Cutting Dunk Shot,1,0
+215,292,PT03M25.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,143,203,25,Made,1,47,41,88,v,Smith Jr. 25' 3PT Jump Shot (6 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,0
+216,294,PT03M13.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.PN) (K.Lane),Foul,Shooting,1,0
+217,296,PT03M13.00S,2,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,MISS Conley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+218,297,PT03M13.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+219,298,PT03M13.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,SUB: Tate FOR Eason,Substitution,,0,0
+220,299,PT03M13.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Gordon FOR Mathews,Substitution,,0,0
+221,302,PT03M13.00S,2,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,48,41,89,h,Conley Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0
+222,303,PT03M02.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,190,157,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+223,304,PT03M00.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,1,0
+224,306,PT02M49.00S,2,1610612762,UTA,201144,Conley,M. Conley,-134,223,26,Made,1,51,41,92,h,Conley 26' 3PT Pullup Jump Shot (9 PTS) (Olynyk 4 AST),Made Shot,Pullup Jump shot,1,0
+225,308,PT02M34.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0
+226,308,PT02M34.00S,2,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley STEAL (1 STL),,,1,0
+227,310,PT02M29.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,120,216,25,Made,1,54,41,95,h,Clarkson 25' 3PT Jump Shot (7 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,1,0
+228,312,PT02M26.00S,2,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+229,313,PT02M26.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,SUB: Martin Jr. FOR Smith Jr.,Substitution,,0,0
+230,315,PT02M02.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,47,84,10,Made,1,54,43,97,v,Martin Jr. 10' Layup (5 PTS),Made Shot,Layup Shot,1,0
+231,316,PT02M02.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,0
+232,318,PT02M02.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,MISS Martin Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+233,319,PT02M00.00S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+234,320,PT01M44.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,27,18,3,Missed,1,,,0,h,MISS Clarkson 3' Layup,Missed Shot,Layup Shot,1,0
+235,321,PT01M44.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+236,322,PT01M44.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate S.FOUL (P3.PN) (J.Goble),Foul,Shooting,1,0
+237,324,PT01M44.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,55,43,98,h,Clarkson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0
+238,325,PT01M44.00S,2,1610612762,UTA,1629012,Sexton,C. Sexton,0,0,0,,0,,,0,h,SUB: Beasley FOR Sexton,Substitution,,0,0
+239,327,PT01M44.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,56,43,99,h,Clarkson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0
+240,328,PT01M29.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-21,4,2,Missed,1,,,0,v,MISS Porter Jr. 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+241,329,PT01M25.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+242,330,PT01M25.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,Made,1,56,45,101,v,Tate Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,0
+243,331,PT01M22.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,-21,23,3,Missed,1,,,0,h,MISS Markkanen 3' Layup,Missed Shot,Layup Shot,1,0
+244,332,PT01M21.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+245,333,PT01M17.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,36,-4,4,Made,1,56,47,103,v,Gordon 4' Driving Layup (12 PTS) (Martin Jr. 1 AST),Made Shot,Driving Layup Shot,1,0
+246,335,PT01M12.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,-13,25,3,Made,1,58,47,105,h,Markkanen 3' Dunk (12 PTS) (Olynyk 5 AST),Made Shot,Dunk Shot,1,0
+247,337,PT00M58.30S,2,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley P.FOUL (P2.T4) (J.Goble),Foul,Personal,1,0
+248,339,PT00M58.30S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,SUB: Vanderbilt FOR Clarkson,Substitution,,0,0
+249,341,PT00M56.70S,2,1610612745,HOU,1630224,Green,J. Green,18,21,3,Made,1,58,49,107,v,Green 3' Driving Dunk (9 PTS) (Porter Jr. 2 AST),Made Shot,Driving Dunk Shot,1,0
+250,343,PT00M42.30S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,120,222,25,Missed,1,,,0,h,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+251,344,PT00M39.40S,2,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+252,345,PT00M34.40S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,-199,193,28,Made,1,61,49,110,h,Markkanen 28' 3PT Jump Shot (15 PTS) (Conley 4 AST),Made Shot,Jump Shot,1,0
+253,347,PT00M18.50S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. OFF.Foul (P2) (J.Goble),Foul,Offensive,1,0
+254,349,PT00M18.50S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Offensive Foul Turnover (P4.T12),Turnover,Offensive Foul Turnover,1,0
+255,350,PT00M05.30S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk OFF.Foul (P2) (P.Ransom),Foul,Offensive,1,0
+256,352,PT00M05.30S,2,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,1,0
+257,353,PT00M00.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-141,199,24,Missed,1,,,0,v,MISS Porter Jr. 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+258,354,PT00M00.00S,2,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Unknown,1,0
+259,355,PT00M00.00S,2,0,,0,,,0,0,0,,0,61,49,110,,End of 2nd Period (10:05 PM EST),period,end,1,0
+260,360,PT12M00.00S,3,0,,0,,,0,0,0,,0,61,49,110,,Start of 3rd Period (10:21 PM EST),period,start,0,0
+261,361,PT11M47.00S,3,1610612762,UTA,201144,Conley,M. Conley,67,243,25,Missed,1,,,0,h,MISS Conley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+262,362,PT11M42.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+263,363,PT11M27.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate OFF.Foul (P4) (K.Lane),Foul,Offensive,1,0
+264,365,PT11M27.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0
+265,366,PT11M15.00S,3,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0
+266,366,PT11M15.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. STEAL (1 STL),,,1,0
+267,368,PT11M14.00S,3,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Transition Take Foul (P3.T1) (P.Ransom),Foul                                    ,Transition Take,1,0
+268,370,PT11M14.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,61,50,111,v,Gordon Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0
+269,371,PT11M10.00S,3,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley P.FOUL (P4.T2) (K.Lane),Foul,Personal,1,0
+270,373,PT11M10.00S,3,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Conley,Substitution,,0,0
+271,375,PT11M02.00S,3,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P3.T3) (P.Ransom),Foul,Shooting,1,0
+272,377,PT11M02.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+273,378,PT11M02.00S,3,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0
+274,379,PT11M02.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,61,51,112,v,Smith Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+275,380,PT10M46.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate P.FOUL (P5.T1) (J.Goble),Foul,Personal,1,0
+276,382,PT10M46.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,SUB: Eason FOR Tate,Substitution,,0,0
+277,384,PT10M44.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,-120,229,26,Made,1,64,51,115,h,Clarkson 26' 3PT Jump Shot (12 PTS) (Horton-Tucker 2 AST),Made Shot,Jump Shot,1,0
+278,386,PT10M30.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,181,176,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+279,387,PT10M28.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+280,388,PT10M21.00S,3,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,-25,6,3,Missed,1,,,0,h,MISS Vanderbilt 3' Layup,Missed Shot,Layup Shot,1,0
+281,389,PT10M19.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+282,390,PT10M14.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,110,253,28,Missed,1,,,0,h,MISS Horton-Tucker 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+283,391,PT10M12.00S,3,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Unknown,0,0
+284,392,PT10M12.00S,3,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt L.B.FOUL (P4.T4) (P.Ransom),Foul,Loose Ball,1,0
+285,394,PT09M55.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0
+286,394,PT09M55.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson STEAL (2 STL),,,1,0
+287,396,PT09M52.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1,0
+288,398,PT09M52.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,65,51,116,h,Markkanen Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0
+289,399,PT09M52.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,66,51,117,h,Markkanen Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0
+290,400,PT09M43.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-6,31,3,Missed,1,,,0,v,MISS Porter Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+291,400,PT09M43.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen BLOCK (1 BLK),,,1,0
+292,402,PT09M43.00S,3,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Unknown,1,0
+293,405,PT09M31.00S,3,1610612745,HOU,1630224,Green,J. Green,-233,86,25,Made,1,66,54,120,v,Green 25' 3PT Jump Shot (12 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,1,0
+294,407,PT09M16.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason P.FOUL (P2.T3) (K.Lane),Foul,Personal,1,0
+295,409,PT09M05.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,28,69,7,Made,1,68,54,122,h,Markkanen 7' Turnaround Hook Shot (19 PTS) (Horton-Tucker 3 AST),Made Shot,Turnaround Hook Shot,1,0
+296,410,PT08M57.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,22,18,3,Made,1,68,56,124,v,Porter Jr. 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+297,411,PT08M45.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,143,206,25,Made,1,71,56,127,h,Clarkson 25' 3PT Jump Shot (15 PTS) (Vanderbilt 2 AST),Made Shot,Jump Shot,1,0
+298,413,PT08M30.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,168,25,17,Missed,1,,,0,v,MISS Porter Jr. 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+299,414,PT08M28.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+300,415,PT08M27.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,54,25,6,Made,1,71,58,129,v,Smith Jr. 6' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,0
+301,416,PT08M12.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,-195,167,26,Missed,1,,,0,h,MISS Markkanen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+302,417,PT08M11.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+303,418,PT08M05.00S,3,1610612745,HOU,1630224,Green,J. Green,32,16,4,Missed,1,,,0,v,MISS Green 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+304,418,PT08M05.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson BLOCK (1 BLK),,,1,0
+305,420,PT08M02.00S,3,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+306,421,PT07M59.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,-225,-5,0,Made,1,74,58,132,h,Clarkson 3PT Jump Shot (18 PTS) (Markkanen 2 AST),Made Shot,Jump Shot,1,0
+307,423,PT07M48.00S,3,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+308,425,PT07M42.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-222,132,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+309,426,PT07M38.00S,3,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+310,427,PT07M18.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,23,8,2,Made,1,76,58,134,h,Horton-Tucker 2' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,1,0
+311,428,PT07M18.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason S.FOUL (P3.T4) (P.Ransom),Foul,Shooting,1,0
+312,430,PT07M18.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,77,58,135,h,Horton-Tucker Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0
+313,431,PT06M58.00S,3,1610612745,HOU,1630224,Green,J. Green,-31,29,4,Made,1,77,60,137,v,Green 4' Driving Layup (14 PTS) (Porter Jr. 4 AST),Made Shot,Driving Layup Shot,1,0
+314,434,PT06M44.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,SUB: Martin Jr. FOR Gordon,Substitution,,0,0
+315,436,PT06M35.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,12,36,4,Made,1,79,60,139,h,Clarkson 4' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,0
+316,437,PT06M26.00S,3,1610612745,HOU,1631106,Eason,T. Eason,-167,197,26,Missed,1,,,0,v,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+317,438,PT06M22.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+318,439,PT06M17.00S,3,1610612762,UTA,203482,Olynyk,K. Olynyk,183,169,25,Missed,1,,,0,h,MISS Olynyk 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+319,440,PT06M16.00S,3,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Unknown,1,0
+320,441,PT06M16.00S,3,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt L.B.FOUL (P5.PN) (K.Lane),Foul,Loose Ball,1,0
+321,443,PT06M16.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+322,444,PT06M16.00S,3,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0
+323,445,PT06M16.00S,3,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Kessler FOR Vanderbilt,Substitution,,0,0
+324,447,PT06M16.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,79,61,140,v,Smith Jr. Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0
+325,448,PT06M02.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen Offensive Charge Foul (P1) (J.Goble),Foul,Offensive Charge,1,0
+326,450,PT06M02.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,1,0
+327,451,PT06M02.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,SUB: Beasley FOR Markkanen,Substitution,,0,0
+328,453,PT05M48.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,1,62,6,Missed,1,,,0,v,MISS Martin Jr. 6' Layup,Missed Shot,Layup Shot,1,0
+329,454,PT05M47.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+330,455,PT05M47.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,h,Kessler S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,1,0
+331,457,PT05M47.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,79,62,141,v,Martin Jr. Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0
+332,458,PT05M47.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,SUB: Nix FOR Smith Jr.,Substitution,,0,0
+333,459,PT05M47.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,SUB: Garuba FOR Porter Jr.,Substitution,,0,0
+334,462,PT05M47.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,79,63,142,v,Martin Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0
+335,463,PT05M38.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,92,271,29,Missed,1,,,0,h,MISS Clarkson 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+336,464,PT05M36.00S,3,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Unknown,0,0
+337,466,PT05M25.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba OFF.Foul (P2) (P.Ransom),Foul,Offensive,1,0
+338,468,PT05M25.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,1,0
+339,469,PT05M07.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,153,225,27,Missed,1,,,0,h,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+340,470,PT05M06.00S,3,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+341,480,PT05M06.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. L.B.FOUL (P3.PN) (P.Ransom),Foul,Loose Ball,1,0
+342,475,PT05M06.00S,3,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,MISS Olynyk Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+343,476,PT05M06.00S,3,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+344,477,PT05M06.00S,3,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,MISS Olynyk Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+345,478,PT05M04.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+346,479,PT04M56.00S,3,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,,,0,v,Nix Out of Bounds Lost Ball Turnover (P3.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0
+347,482,PT04M39.00S,3,1610612762,UTA,1627736,Beasley,M. Beasley,70,247,26,Missed,1,,,0,h,MISS Beasley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+348,483,PT04M37.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+349,484,PT04M32.00S,3,1610612745,HOU,1630227,Nix,D. Nix,-214,138,25,Missed,1,,,0,v,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+350,485,PT04M29.00S,3,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+351,486,PT04M27.00S,3,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0
+352,486,PT04M27.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green STEAL (1 STL),,,1,0
+353,488,PT04M24.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,-4,28,3,Missed,1,,,0,v,MISS Martin Jr. 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+354,489,PT04M24.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+355,490,PT04M24.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,Made,1,79,65,144,v,Martin Jr. Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,0
+356,491,PT04M24.00S,3,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+357,492,PT04M24.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,SUB: Gay FOR Clarkson,Substitution,,0,0
+358,493,PT04M24.00S,3,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,SUB: Fontecchio FOR Olynyk,Substitution,,0,0
+359,496,PT04M12.00S,3,1610612762,UTA,1627736,Beasley,M. Beasley,40,20,4,Missed,1,,,0,h,MISS Beasley 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+360,497,PT04M09.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+361,498,PT04M00.00S,3,1610612745,HOU,1630224,Green,J. Green,-174,204,27,Missed,1,,,0,v,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+362,499,PT03M56.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+363,500,PT03M49.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,-18,-1,2,Missed,1,,,0,h,MISS Kessler 2' Layup,Missed Shot,Layup Shot,0,0
+364,501,PT03M47.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+365,502,PT03M36.00S,3,1610612745,HOU,1630227,Nix,D. Nix,172,184,25,Missed,1,,,0,v,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+366,503,PT03M31.00S,3,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+367,504,PT03M26.00S,3,1610612762,UTA,200752,Gay,R. Gay,136,206,25,Missed,1,,,0,h,MISS Gay 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+368,505,PT03M23.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+369,506,PT03M14.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,-136,231,27,Missed,1,,,0,v,MISS Martin Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+370,507,PT03M10.00S,3,1610612762,UTA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,h,Fontecchio REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+371,508,PT03M04.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,-53,240,25,Missed,1,,,0,h,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+372,509,PT03M01.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+373,510,PT02M50.00S,3,1610612745,HOU,1630224,Green,J. Green,-131,154,20,Missed,1,,,0,v,MISS Green 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+374,511,PT02M48.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+375,512,PT02M47.00S,3,1610612745,HOU,1630224,Green,J. Green,-197,165,26,Missed,1,,,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+376,513,PT02M42.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+377,514,PT02M35.00S,3,1610612762,UTA,1627736,Beasley,M. Beasley,36,15,4,Made,1,81,65,146,h,Beasley 4' Driving Layup (4 PTS) (Horton-Tucker 4 AST),Made Shot,Driving Layup Shot,1,0
+378,516,PT02M18.00S,3,1610612745,HOU,1631106,Eason,T. Eason,-115,232,26,Made,1,81,68,149,v,Eason 26' 3PT Jump Shot (3 PTS) (Nix 3 AST),Made Shot,Jump Shot,1,0
+379,519,PT02M03.00S,3,1610612762,UTA,1631323,Fontecchio,S. Fontecchio,-222,-29,0,Missed,1,,,0,h,MISS Fontecchio 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+380,520,PT02M00.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+381,521,PT01M54.00S,3,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,,,0,v,Nix Lost Ball Turnover (P4.T17),Turnover,Lost Ball,1,0
+382,521,PT01M54.00S,3,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley STEAL (3 STL),,,1,0
+383,523,PT01M49.00S,3,1610612762,UTA,200752,Gay,R. Gay,5,29,3,Made,1,83,68,151,h,Gay 3' Layup (6 PTS) (Beasley 1 AST),Made Shot,Layup Shot,1,0
+384,525,PT01M45.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,0
+385,527,PT01M45.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,83,69,152,v,Green Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+386,528,PT01M45.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,,"Double Technical - Green, Beasley (J.Goble)",Foul,Double Technical,0,0
+387,531,PT01M45.00S,3,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,,,0,v,SUB: Mathews FOR Nix,Substitution,,0,0
+388,537,PT01M45.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,SUB: Gordon FOR Eason,Substitution,,0,0
+389,538,PT01M45.00S,3,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,SUB: Conley FOR Horton-Tucker,Substitution,,0,0
+390,530,PT01M45.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,83,70,153,v,Green Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0
+391,535,PT01M37.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba P.FOUL (P3.PN) (P.Ransom),Foul,Personal,1,0
+392,540,PT01M37.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,84,70,154,h,Kessler Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+393,541,PT01M37.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Green,Substitution,,0,0
+394,543,PT01M37.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,85,70,155,h,Kessler Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+395,544,PT01M24.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,27,130,13,Missed,1,,,0,v,MISS Porter Jr. 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+396,545,PT01M22.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+397,546,PT01M20.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,-213,191,29,Missed,1,,,0,v,MISS Gordon 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+398,547,PT01M15.00S,3,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+399,548,PT01M06.00S,3,1610612762,UTA,1627736,Beasley,M. Beasley,26,16,3,Made,1,87,70,157,h,Beasley 3' Cutting Layup Shot (6 PTS) (Gay 1 AST),Made Shot,Cutting Layup Shot,1,0
+400,550,PT01M06.00S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. Violation:Defensive Goaltending (J.Goble),Violation,Defensive Goaltending,1,0
+401,551,PT00M52.20S,3,1610612745,HOU,1629726,Mathews,G. Mathews,161,199,26,Made,1,87,73,160,v,Mathews 26' 3PT Jump Shot (9 PTS) (Martin Jr. 2 AST),Made Shot,Jump Shot,1,0
+402,553,PT00M33.10S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. P.FOUL (P3.PN) (P.Ransom),Foul,Personal,1,0
+403,555,PT00M33.10S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,88,73,161,h,Kessler Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+404,556,PT00M33.10S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,89,73,162,h,Kessler Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+405,557,PT00M09.20S,3,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,-238,75,25,Missed,1,,,0,v,MISS Martin Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+406,558,PT00M05.80S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,,,0,v,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+407,559,PT00M02.80S,3,1610612745,HOU,1630586,Garuba,U. Garuba,-17,12,2,Made,1,89,75,164,v,Garuba 2' Dunk (2 PTS) (Gordon 2 AST),Made Shot,Dunk Shot,1,0
+408,561,PT00M00.00S,3,1610612762,UTA,201144,Conley,M. Conley,-127,334,36,Missed,1,,,0,h,MISS Conley 36' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+409,562,PT00M00.00S,3,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,1,0
+410,563,PT00M00.00S,3,0,,0,,,0,0,0,,0,89,75,164,,End of 3rd Period (10:52 PM EST),period,end,1,0
+411,570,PT12M00.00S,4,0,,0,,,0,0,0,,0,89,75,164,,Start of 4th Period (10:55 PM EST),period,start,0,0
+412,571,PT11M47.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,21,2,Made,1,89,77,166,v,Porter Jr. 2' Driving Layup (11 PTS) (Gordon 3 AST),Made Shot,Driving Layup Shot,1,0
+413,573,PT11M32.00S,4,1610612762,UTA,1627736,Beasley,M. Beasley,-114,216,24,Missed,1,,,0,h,MISS Beasley 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+414,574,PT11M28.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+415,575,PT11M22.00S,4,1610612745,HOU,1630256,Tate,J. Tate,-28,29,4,Missed,1,,,0,v,MISS Tate 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+416,575,PT11M22.00S,4,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay BLOCK (1 BLK),,,1,0
+417,577,PT11M20.00S,4,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+418,578,PT11M16.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,-147,210,26,Missed,1,,,0,h,MISS Markkanen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+419,579,PT11M12.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+420,580,PT11M02.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-13,41,4,Missed,1,,,0,v,MISS Porter Jr. 4' Layup,Missed Shot,Layup Shot,1,0
+421,581,PT11M00.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+422,582,PT10M59.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-15,28,3,Made,1,89,79,168,v,Porter Jr. 3' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,0
+423,583,PT10M39.00S,4,1610612762,UTA,1631323,Fontecchio,S. Fontecchio,-179,190,26,Missed,1,,,0,h,MISS Fontecchio 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+424,584,PT10M36.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+425,585,PT10M23.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,21,18,3,Made,1,89,81,170,v,Porter Jr. 3' Driving Reverse Layup (15 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+426,586,PT10M23.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+427,587,PT10M23.00S,4,1610612762,UTA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,h,SUB: Olynyk FOR Fontecchio,Substitution,,0,0
+428,589,PT10M15.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen Bad Pass Turnover (P4.T14),Turnover,Bad Pass,1,0
+429,589,PT10M15.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0
+430,591,PT10M11.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,6,21,2,Made,1,89,83,172,v,Porter Jr. 2' Dunk (17 PTS) (Mathews 1 AST),Made Shot,Dunk Shot,1,0
+431,593,PT09M53.00S,4,1610612762,UTA,201144,Conley,M. Conley,-27,16,3,Missed,1,,,0,h,MISS Conley 3' Layup,Missed Shot,Layup Shot,1,0
+432,594,PT09M50.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+433,595,PT09M50.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,Missed,1,,,0,h,MISS Olynyk Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+434,596,PT09M49.00S,4,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+435,597,PT09M43.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-34,18,4,Missed,1,,,0,v,MISS Porter Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+436,598,PT09M41.00S,4,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+437,599,PT09M37.00S,4,1610612762,UTA,201144,Conley,M. Conley,235,3,24,Made,1,92,83,175,h,Conley 24' 3PT Jump Shot (12 PTS) (Olynyk 6 AST),Made Shot,Jump Shot,1,0
+438,601,PT09M28.00S,4,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley P.FOUL (P5.T1) (P.Ransom),Foul,Personal,1,0
+439,603,PT09M24.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,-165,193,25,Missed,1,,,0,v,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+440,604,PT09M20.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+441,605,PT09M10.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P3.T1) (P.Ransom),Foul,Personal,1,0
+442,611,PT09M10.00S,4,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Conley,Substitution,,0,0
+443,613,PT08M59.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,176,38,18,Missed,1,,,0,h,MISS Markkanen 18' Jump Shot,Missed Shot,Jump Shot,1,0
+444,614,PT08M56.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+445,615,PT08M48.00S,4,1610612745,HOU,201569,Gordon,E. Gordon,-211,183,28,Missed,1,,,0,v,MISS Gordon 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+446,616,PT08M46.00S,4,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+447,617,PT08M39.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P4.T2) (K.Lane),Foul,Personal,1,0
+448,619,PT08M39.00S,4,1610612762,UTA,200752,Gay,R. Gay,0,0,0,,0,,,0,h,SUB: Clarkson FOR Gay,Substitution,,0,0
+449,621,PT08M35.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk OFF.Foul (P3) (J.Goble),Foul,Offensive,1,0
+450,623,PT08M35.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk Offensive Foul Turnover (P4.T15),Turnover,Offensive Foul Turnover,1,0
+451,624,PT08M27.00S,4,1610612745,HOU,1630256,Tate,J. Tate,-232,29,0,Made,1,92,86,178,v,Tate 3PT Jump Shot (7 PTS) (Porter Jr. 5 AST),Made Shot,Jump Shot,1,0
+452,626,PT08M14.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P3.T3) (K.Lane),Foul,Personal,1,0
+453,628,PT08M14.00S,4,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,SUB: Vanderbilt FOR Beasley,Substitution,,0,0
+454,630,PT08M02.00S,4,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,-145,194,24,Missed,1,,,0,h,MISS Horton-Tucker 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+455,631,PT07M58.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+456,632,PT07M49.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk P.FOUL (P4.T2) (J.Goble),Foul,Personal,1,0
+457,634,PT07M45.00S,4,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P6.T3) (K.Lane),Foul,Shooting,1,0
+458,636,PT07M45.00S,4,1610612762,UTA,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Beasley FOR Vanderbilt,Substitution,,0,0
+459,638,PT07M45.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,92,87,179,v,Porter Jr. Free Throw 1 of 3 (18 PTS),Free Throw,Free Throw 1 of 3,1,0
+460,639,PT07M45.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,92,88,180,v,Porter Jr. Free Throw 2 of 3 (19 PTS),Free Throw,Free Throw 2 of 3,1,0
+461,640,PT07M45.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,92,89,181,v,Porter Jr. Free Throw 3 of 3 (20 PTS),Free Throw,Free Throw 3 of 3,1,0
+462,641,PT07M25.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,-23,24,3,Missed,1,,,0,h,MISS Olynyk 3' Layup,Missed Shot,Layup Shot,1,0
+463,642,PT07M20.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,Tate REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+464,643,PT07M15.00S,4,1610612745,HOU,1630256,Tate,J. Tate,27,25,4,Missed,1,,,0,v,MISS Tate 4' Layup,Missed Shot,Layup Shot,1,0
+465,644,PT07M14.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+466,646,PT07M11.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,v,SUB: Eason FOR Tate,Substitution,,0,0
+467,648,PT07M04.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,5,1,Made,1,94,89,183,h,Markkanen 1' Alley Oop Dunk (21 PTS) (Clarkson 4 AST),Made Shot,Alley Oop Dunk Shot,1,0
+468,650,PT06M48.00S,4,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker P.FOUL (P2.T4) (P.Ransom),Foul,Personal,1,0
+469,652,PT06M48.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,SUB: Martin Jr. FOR Smith Jr.,Substitution,,0,0
+470,654,PT06M48.00S,4,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,SUB: Green FOR Gordon,Substitution,,0,0
+471,656,PT06M43.00S,4,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker S.FOUL (P3.PN) (K.Lane),Foul,Shooting,1,0
+472,658,PT06M43.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,94,90,184,v,Martin Jr. Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+473,659,PT06M43.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,94,91,185,v,Martin Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+474,660,PT06M32.00S,4,1610612762,UTA,1627736,Beasley,M. Beasley,-137,203,24,Made,1,97,91,188,h,Beasley 24' 3PT Jump Shot (9 PTS) (Clarkson 5 AST),Made Shot,Jump Shot,1,0
+475,662,PT06M15.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk S.FOUL (P5.PN) (P.Ransom),Foul,Shooting,1,0
+476,664,PT06M15.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,97,92,189,v,Mathews Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+477,665,PT06M15.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,97,93,190,v,Mathews Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+478,666,PT06M02.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green P.FOUL (P1.T4) (P.Ransom),Foul,Personal,1,0
+479,668,PT05M55.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,47,80,9,Missed,1,,,0,h,MISS Clarkson 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+480,669,PT05M51.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+481,670,PT05M39.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-1,216,22,Made,1,97,95,192,v,Porter Jr. 22' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,0
+482,671,PT05M17.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. P.FOUL (P4.PN) (K.Lane),Foul,Personal,1,0
+483,673,PT05M17.00S,4,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,98,95,193,h,Horton-Tucker Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0
+484,674,PT05M17.00S,4,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+485,675,PT05M16.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+486,676,PT05M04.00S,4,1610612745,HOU,1630224,Green,J. Green,15,20,3,Missed,1,,,0,v,MISS Green 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+487,677,PT05M04.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+488,678,PT05M04.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,Eason P.FOUL (P4.PN) (K.Lane),Foul,Personal,1,0
+489,680,PT05M04.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,99,95,194,h,Olynyk Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+490,681,PT05M04.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,100,95,195,h,Olynyk Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+491,682,PT04M49.00S,4,1610612745,HOU,1631106,Eason,T. Eason,92,237,25,Missed,1,,,0,v,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+492,683,PT04M47.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+493,684,PT04M47.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk S.FOUL (P6.PN) (K.Lane),Foul,Shooting,1,0
+494,686,PT04M47.00S,4,1610612762,UTA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,SUB: Conley FOR Olynyk,Substitution,,0,0
+495,688,PT04M47.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,100,96,196,v,Green Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0
+496,689,PT04M47.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+497,690,PT04M43.00S,4,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+498,691,PT04M24.00S,4,1610612762,UTA,201144,Conley,M. Conley,135,213,25,Missed,1,,,0,h,MISS Conley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+499,692,PT04M20.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+500,693,PT04M09.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,-21,21,3,Missed,1,,,0,v,MISS Martin Jr. 3' Layup,Missed Shot,Layup Shot,1,0
+501,693,PT04M09.00S,4,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley BLOCK (1 BLK),,,1,0
+502,695,PT04M07.00S,4,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+503,696,PT04M02.00S,4,1610612762,UTA,1627736,Beasley,M. Beasley,-11,267,27,Missed,1,,,0,h,MISS Beasley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+504,697,PT04M00.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+505,698,PT03M51.00S,4,1610612745,HOU,1631106,Eason,T. Eason,-38,46,6,Missed,1,,,0,v,MISS Eason 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+506,699,PT03M49.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+507,700,PT03M45.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. S.FOUL (P4.PN) (K.Lane),Foul,Shooting,1,0
+508,702,PT03M45.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,MISS Markkanen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+509,703,PT03M45.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+510,704,PT03M45.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Porter Jr.,Substitution,,0,0
+511,712,PT03M45.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,SUB: Gordon FOR Martin Jr.,Substitution,,0,0
+512,710,PT03M45.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,101,96,197,h,Markkanen Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0
+513,711,PT03M45.00S,4,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+514,713,PT03M30.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-210,142,25,Missed,1,,,0,v,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+515,714,PT03M26.00S,4,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+516,715,PT03M13.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,-7,16,2,Made,1,103,96,199,h,Markkanen 2' Cutting Dunk Shot (24 PTS) (Conley 5 AST),Made Shot,Cutting Dunk Shot,1,0
+517,717,PT02M50.00S,4,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0
+518,717,PT02M50.00S,4,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker STEAL (2 STL),,,1,0
+519,719,PT02M47.00S,4,1610612762,UTA,1627736,Beasley,M. Beasley,48,25,5,Missed,1,,,0,h,MISS Beasley 5' Layup,Missed Shot,Layup Shot,1,0
+520,719,PT02M47.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green BLOCK (1 BLK),,,1,0
+521,721,PT02M47.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+522,723,PT02M47.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Eason,Substitution,,0,0
+523,724,PT02M47.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Martin Jr. FOR Mathews,Substitution,,0,0
+524,727,PT02M31.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,213,185,28,Missed,1,,,0,h,MISS Clarkson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+525,728,PT02M28.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+526,729,PT02M20.00S,4,1610612745,HOU,1630224,Green,J. Green,-234,10,0,Missed,1,,,0,v,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+527,730,PT02M16.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+528,731,PT02M04.00S,4,1610612762,UTA,201144,Conley,M. Conley,-78,230,24,Missed,1,,,0,h,MISS Conley 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+529,732,PT02M01.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,v,Martin Jr. REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+530,733,PT01M57.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,12,17,2,Made,1,103,98,201,v,Porter Jr. 2' Cutting Dunk Shot (24 PTS) (Martin Jr. 3 AST),Made Shot,Cutting Dunk Shot,1,0
+531,735,PT01M34.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,-141,203,25,Missed,1,,,0,h,MISS Clarkson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+532,736,PT01M30.00S,4,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+533,737,PT01M18.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0
+534,738,PT01M02.00S,4,1610612745,HOU,201569,Gordon,E. Gordon,1,265,27,Missed,1,,,0,v,MISS Gordon 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+535,739,PT00M59.90S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+536,740,PT00M55.10S,4,1610612762,UTA,1627736,Beasley,M. Beasley,237,3,24,Made,1,106,98,204,h,Beasley 24' 3PT Jump Shot (12 PTS) (Markkanen 3 AST),Made Shot,Jump Shot,1,0
+537,742,PT00M54.30S,4,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+538,744,PT00M50.10S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson S.FOUL (P4.PN) (K.Lane),Foul,Shooting,1,0
+539,746,PT00M50.10S,4,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,106,99,205,v,Gordon Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0
+540,747,PT00M50.10S,4,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,MISS Gordon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+541,748,PT00M48.20S,4,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+542,749,PT00M34.50S,4,1610612762,UTA,1629659,Horton-Tucker,T. Horton-Tucker,-17,4,2,Missed,1,,,0,h,MISS Horton-Tucker 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+543,750,PT00M33.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+544,751,PT00M28.40S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,-23,25,3,Missed,1,,,0,v,MISS Martin Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+545,752,PT00M26.40S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+546,753,PT00M22.50S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Personal Take Foul (P5.PN) (P.Ransom),Foul,Personal Take,1,0
+547,755,PT00M22.50S,4,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,,,0,h,MISS Conley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+548,756,PT00M22.50S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+549,757,PT00M22.50S,4,1610612762,UTA,201144,Conley,M. Conley,0,0,0,,0,107,99,206,h,Conley Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0
+550,758,PT00M22.50S,4,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0
+551,759,PT00M17.30S,4,1610612745,HOU,201569,Gordon,E. Gordon,-22,20,3,Made,1,107,101,208,v,Gordon 3' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,0
+552,760,PT00M16.30S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,v,Green Personal Take Foul (P2.PN) (P.Ransom),Foul,Personal Take,1,0
+553,762,PT00M16.30S,4,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,108,101,209,h,Beasley Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0
+554,763,PT00M16.30S,4,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,109,101,210,h,Beasley Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0
+555,764,PT00M12.10S,4,1610612745,HOU,1630224,Green,J. Green,113,241,27,Missed,1,,,0,v,MISS Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+556,765,PT00M09.90S,4,0,,1610612745,,,0,0,0,,0,,,0,v,Rockets Rebound,Rebound,Unknown,1,0
+557,767,PT00M08.10S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Bad Pass Turnover (P5.T19),Turnover,Bad Pass,1,0
+558,767,PT00M08.10S,4,1610612762,UTA,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley STEAL (4 STL),,,1,0
+559,769,PT00M00.00S,4,0,,0,,,0,0,0,,0,109,101,210,,End of 4th Period (11:30 PM EST),period,end,1,0

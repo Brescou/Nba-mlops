@@ -1,0 +1,527 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:13 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Jump Ball Cato vs. Kaman: Tip to Francis,Jump Ball,,0,0
+3,2,PT11M46.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Missed,1,0,0,0,h,MISS Howard  Layup,Missed Shot,Layup Shot,0,0
+4,4,PT11M44.00S,1,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+5,3,PT11M44.00S,1,1610612753,ORL,1509,Cato,K. Cato,0,0,0,Made,1,2,0,2,h,Cato  Follow Up Dunk (2 PTS),Made Shot,Follow Up Dunk Shot,0,0
+6,5,PT11M22.00S,1,1610612746,LAC,1882,Brand,E. Brand,-20,33,4,Made,1,2,2,4,v,Brand 4' Fadeaway Jumper (2 PTS) (Brunson 1 AST),Made Shot,Fadeaway Jump Shot,0,0
+7,6,PT11M15.00S,1,1610612753,ORL,255,Hill,G. Hill,-128,135,19,Made,1,4,2,6,h,Hill 19' Jump Shot (2 PTS) (Francis 1 AST),Made Shot,Jump Shot,0,0
+8,7,PT10M54.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,1,45,5,Made,1,4,4,8,v,Kaman 5' Hook Shot (2 PTS),Made Shot,Hook Shot,0,0
+9,8,PT10M29.00S,1,1610612753,ORL,1509,Cato,K. Cato,-71,12,7,Made,1,6,4,10,h,Cato 7' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,0,0
+10,9,PT10M10.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+11,9,PT10M10.00S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie STEAL (1 STL),,,0,0
+12,10,PT10M03.00S,1,1610612753,ORL,1509,Cato,K. Cato,0,0,0,Missed,1,0,0,0,h,MISS Cato  Layup,Missed Shot,Layup Shot,0,0
+13,11,PT10M01.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+14,12,PT09M54.00S,1,1610612746,LAC,1882,Brand,E. Brand,-92,22,9,Made,1,6,6,12,v,Brand 9' Jump Bank Shot (4 PTS) (Brunson 2 AST),Made Shot,Jump Bank Shot,0,0
+15,13,PT09M32.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman S.FOUL (P1.T1),Foul,Shooting,0,0
+16,14,PT09M32.00S,1,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,7,6,13,h,Cato Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+17,15,PT09M32.00S,1,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,8,6,14,h,Cato Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+18,16,PT09M15.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+19,17,PT09M05.00S,1,1610612753,ORL,1509,Cato,K. Cato,-153,17,15,Missed,1,0,0,0,h,MISS Cato 15' Jump Shot,Missed Shot,Jump Shot,0,0
+20,18,PT09M03.00S,1,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+21,19,PT09M01.00S,1,1610612753,ORL,255,Hill,G. Hill,82,15,8,Made,1,10,6,16,h,Hill 8' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+22,20,PT08M47.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,-44,28,5,Made,1,10,8,18,v,Kaman 5' Hook Shot (4 PTS) (Brand 1 AST),Made Shot,Hook Shot,0,0
+23,21,PT08M36.00S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+24,21,PT08M36.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand STEAL (1 STL),,,0,0
+25,22,PT08M30.00S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie Violation:Kicked Ball,Violation,Kicked Ball,0,0
+26,23,PT08M22.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,v,Brunson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+27,24,PT08M09.00S,1,1610612753,ORL,2730,Howard,D. Howard,36,63,7,Made,1,12,8,20,h,Howard 7' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,0,0
+28,25,PT07M54.00S,1,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato P.FOUL (P1.T1),Foul,Personal,0,0
+29,26,PT07M50.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,225,23,Made,1,12,10,22,v,Brunson 23' Jump Shot (2 PTS) (Simmons 1 AST),Made Shot,Jump Shot,0,0
+30,27,PT07M36.00S,1,1610612753,ORL,2730,Howard,D. Howard,11,43,4,Missed,1,0,0,0,h,MISS Howard 4' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+31,28,PT07M34.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+32,29,PT07M34.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,v,Brunson S.FOUL (P1.T2),Foul,Shooting,0,0
+33,30,PT07M34.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+34,31,PT07M34.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+35,32,PT07M34.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,13,10,23,h,Howard Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+36,33,PT07M16.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,128,173,22,Missed,1,0,0,0,v,MISS Brunson 22' Jump Shot,Missed Shot,Jump Shot,0,0
+37,34,PT07M14.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+38,35,PT07M12.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Missed,1,0,0,0,v,MISS Simmons  Layup,Missed Shot,Layup Shot,0,0
+39,35,PT07M12.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard BLOCK (1 BLK),,,0,0
+40,36,PT07M09.00S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+41,37,PT07M07.00S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0
+42,37,PT07M07.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,v,Brunson STEAL (1 STL),,,0,0
+43,38,PT07M03.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,-146,-23,15,Missed,1,0,0,0,v,MISS Simmons 15' Jump Shot,Missed Shot,Jump Shot,0,0
+44,39,PT07M01.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+45,40,PT06M50.00S,1,1610612753,ORL,255,Hill,G. Hill,-118,-9,12,Missed,1,0,0,0,h,MISS Hill 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+46,41,PT06M48.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+47,42,PT06M37.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Made,1,13,12,25,v,Simmons  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+48,43,PT06M32.00S,1,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0
+49,44,PT06M20.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,13,14,27,v,Brand  Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,0,0
+50,45,PT06M14.00S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,Made,1,15,14,29,h,Christie  Dunk (2 PTS) (Hill 1 AST),Made Shot,Dunk Shot,0,0
+51,46,PT05M53.00S,1,1610612746,LAC,1882,Brand,E. Brand,-44,26,5,Made,1,15,16,31,v,Brand 5' Turnaround Jump Shot (8 PTS) (Simmons 2 AST),Made Shot,Turnaround Jump Shot,0,0
+52,47,PT05M53.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P1.T2),Foul,Shooting,0,0
+53,48,PT05M53.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+54,52,PT05M53.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,15,17,32,v,Brand Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+55,53,PT05M38.00S,1,1610612753,ORL,2730,Howard,D. Howard,79,31,8,Made,1,17,17,34,h,Howard 8' Hook Shot (5 PTS) (Francis 2 AST),Made Shot,Hook Shot,0,0
+56,54,PT05M21.00S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie S.FOUL (P1.T3),Foul,Shooting,0,0
+57,55,PT05M21.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,17,18,35,v,Ross Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+58,56,PT05M21.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,17,19,36,v,Ross Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+59,57,PT05M08.00S,1,1610612753,ORL,1883,Francis,S. Francis,-26,166,17,Made,1,19,19,38,h,Francis 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+60,58,PT04M46.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,MAGIC T.Foul (Def. 3 Sec Francis ),Foul,Defense 3 Second,0,0
+61,59,PT04M46.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,19,20,39,v,Simmons Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0
+62,60,PT04M40.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,v,Brunson Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+63,60,PT04M40.00S,1,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato STEAL (1 STL),,,0,0
+64,61,PT04M24.00S,1,1610612753,ORL,57,Christie,D. Christie,-145,7,15,Made,1,21,20,41,h,Christie 15' Jump Shot (4 PTS) (Francis 3 AST),Made Shot,Jump Shot,0,0
+65,62,PT04M07.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0
+66,62,PT04M07.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis STEAL (1 STL),,,0,0
+67,63,PT04M04.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons S.FOUL (P1.T3),Foul,Shooting,0,0
+68,64,PT04M04.00S,1,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,22,20,42,h,Hill Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+69,65,PT04M04.00S,1,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,23,20,43,h,Hill Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+70,66,PT03M47.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,-207,2,21,Missed,1,0,0,0,v,MISS Simmons 21' Jump Shot,Missed Shot,Jump Shot,0,0
+71,67,PT03M45.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+72,68,PT03M43.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,23,22,45,v,Brand  Layup (11 PTS),Made Shot,Layup Shot,0,0
+73,69,PT03M37.00S,1,1610612753,ORL,57,Christie,D. Christie,117,227,26,Missed,1,0,0,0,h,MISS Christie 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+74,71,PT03M34.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+75,70,PT03M34.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Made,1,25,22,47,h,Howard  Follow Up Dunk (7 PTS),Made Shot,Follow Up Dunk Shot,0,0
+76,72,PT03M13.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,-23,51,6,Made,1,25,24,49,v,Kaman 6' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+77,73,PT02M54.00S,1,1610612753,ORL,1883,Francis,S. Francis,3,210,21,Made,1,27,24,51,h,Francis 21' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+78,74,PT02M36.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,-71,178,19,Missed,1,0,0,0,v,MISS Simmons 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+79,75,PT02M34.00S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+80,76,PT02M27.00S,1,1610612753,ORL,57,Christie,D. Christie,121,153,20,Missed,1,0,0,0,h,MISS Christie 20' Jump Shot,Missed Shot,Jump Shot,0,0
+81,77,PT02M27.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+82,78,PT02M27.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand L.B.FOUL (P1.T4),Foul,Loose Ball,0,0
+83,79,PT02M27.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+84,81,PT02M27.00S,1,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,SUB: Battie FOR Hill,Substitution,,0,0
+85,82,PT02M27.00S,1,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,SUB: Turkoglu FOR Cato,Substitution,,0,0
+86,84,PT02M15.00S,1,1610612753,ORL,57,Christie,D. Christie,94,173,20,Made,1,29,24,53,h,Christie 20' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+87,85,PT02M00.00S,1,1610612746,LAC,2624,Ross,Q. Ross,-43,210,21,Missed,1,0,0,0,v,MISS Ross 21' Jump Shot,Missed Shot,Jump Shot,0,0
+88,86,PT01M58.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+89,87,PT01M41.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis OFF.Foul (P1),Foul,Offensive,0,0
+90,88,PT01M41.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis Foul Turnover (P1.T4),Turnover,Foul,0,0
+91,89,PT01M41.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,SUB: Livingston FOR Ross,Substitution,,0,0
+92,90,PT01M41.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,v,SUB: Maggette FOR Brunson,Substitution,,0,0
+93,91,PT01M26.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard P.FOUL (P2.T4),Foul,Personal,0,0
+94,92,PT01M26.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Garrity FOR Howard,Substitution,,0,0
+95,93,PT01M15.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,28,18,3,Missed,1,0,0,0,v,MISS Kaman 3' Hook Shot,Missed Shot,Hook Shot,0,0
+96,95,PT01M12.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+97,94,PT01M12.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Missed,1,0,0,0,v,MISS Brand  Tip Shot,Missed Shot,Tip Shot,0,0
+98,96,PT01M12.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+99,97,PT01M12.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis P.FOUL (P2.PN),Foul,Personal,0,0
+100,99,PT01M12.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,MISS Brand Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+101,100,PT01M12.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+102,98,PT01M12.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,SUB: Nelson FOR Francis,Substitution,,0,0
+103,101,PT01M12.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,29,25,54,v,Brand Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+104,103,PT00M56.90S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,-36,199,20,Made,1,31,25,56,h,Turkoglu 20' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+105,104,PT00M41.90S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+106,104,PT00M41.90S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie STEAL (2 STL),,,0,0
+107,105,PT00M34.90S,1,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0
+108,105,PT00M34.90S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette STEAL (1 STL),,,0,0
+109,106,PT00M30.90S,1,1610612746,LAC,2250,Simmons,B. Simmons,146,-1,15,Missed,1,0,0,0,v,MISS Simmons 15' Jump Shot,Missed Shot,Jump Shot,0,0
+110,107,PT00M30.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+111,108,PT00M30.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Made,1,31,27,58,v,Maggette  Layup (2 PTS),Made Shot,Layup Shot,0,0
+112,109,PT00M30.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+113,110,PT00M13.90S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+114,110,PT00M13.90S,1,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston STEAL (1 STL),,,0,0
+115,111,PT00M09.00S,1,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson S.FOUL (P1.PN),Foul,Shooting,0,0
+116,112,PT00M09.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,MISS Kaman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+117,113,PT00M09.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+118,114,PT00M09.00S,1,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,SUB: Chalmers FOR Livingston,Substitution,,0,0
+119,115,PT00M09.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,31,28,59,v,Kaman Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+120,116,PT00M01.40S,1,1610612753,ORL,1499,Battie,T. Battie,0,0,0,Made,1,33,28,61,h,Battie  Dunk (2 PTS) (Nelson 1 AST),Made Shot,Dunk Shot,0,0
+121,117,PT00M00.00S,1,1610612746,LAC,2763,Chalmers,L. Chalmers,71,391,40,Missed,1,0,0,0,v,MISS Chalmers 40' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+122,118,PT00M00.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+123,120,PT00M00.00S,1,0,,0,,,0,0,0,,0,33,28,61,,End of 1st Period (7:40 PM EST),period,end,0,0
+124,122,PT12M00.00S,2,0,,0,,,0,0,0,,0,33,28,61,,Start of 2nd Period (7:42 PM EST),period,start,0,0
+125,123,PT11M45.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu S.FOUL (P1.T1),Foul,Shooting,0,0
+126,124,PT11M45.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,33,29,62,v,Maggette Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+127,125,PT11M45.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,MISS Maggette Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+128,126,PT11M43.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+129,127,PT11M31.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,85,160,18,Missed,1,0,0,0,h,MISS Garrity 18' Jump Shot,Missed Shot,Jump Shot,0,0
+130,128,PT11M29.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+131,129,PT11M22.00S,2,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie S.FOUL (P2.T2),Foul,Shooting,0,0
+132,130,PT11M22.00S,2,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,SUB: Hill FOR Christie,Substitution,,0,0
+133,131,PT11M22.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,33,30,63,v,Maggette Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+134,132,PT11M22.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,33,31,64,v,Maggette Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+135,133,PT11M10.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,-15,196,20,Missed,1,0,0,0,h,MISS Nelson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+136,134,PT11M08.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+137,135,PT11M04.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Missed,1,0,0,0,v,MISS Maggette  Layup,Missed Shot,Layup Shot,0,0
+138,136,PT11M03.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+139,137,PT10M54.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+140,137,PT10M54.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons STEAL (1 STL),,,0,0
+141,138,PT10M45.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,121,224,25,Missed,1,0,0,0,v,MISS Chalmers 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+142,140,PT10M43.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+143,139,PT10M43.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Missed,1,0,0,0,v,MISS Simmons  Tip Shot,Missed Shot,Tip Shot,0,0
+144,141,PT10M41.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+145,142,PT10M29.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,-153,-3,15,Made,1,33,33,66,v,Simmons 15' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,0,0
+146,143,PT10M15.00S,2,1610612753,ORL,255,Hill,G. Hill,-28,168,17,Made,1,35,33,68,h,Hill 17' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+147,144,PT09M54.00S,2,1610612746,LAC,1630,Moore,M. Moore,-67,8,7,Missed,1,0,0,0,v,MISS Moore 7' Hook Shot,Missed Shot,Hook Shot,0,0
+148,145,PT09M52.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,Garrity REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+149,146,PT09M40.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,0,0,0,,0,0,0,0,v,Chalmers Violation:Kicked Ball,Violation,Kicked Ball,0,0
+150,147,PT09M40.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,SUB: Rebraca FOR Kaman,Substitution,,0,0
+151,148,PT09M34.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,205,0,21,Missed,1,0,0,0,h,MISS Garrity 21' Jump Shot,Missed Shot,Jump Shot,0,0
+152,149,PT09M32.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,0,0,0,,0,0,0,0,v,Chalmers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+153,150,PT09M19.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,84,13,9,Made,1,35,35,70,v,Rebraca 9' Turnaround Jump Shot (2 PTS) (Simmons 3 AST),Made Shot,Turnaround Jump Shot,0,0
+154,151,PT09M05.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,-6,214,21,Missed,1,0,0,0,h,MISS Turkoglu 21' Jump Shot,Missed Shot,Jump Shot,0,0
+155,152,PT09M02.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+156,153,PT08M58.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,186,192,27,Missed,1,0,0,0,h,MISS Garrity 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+157,154,PT08M56.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+158,155,PT08M50.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,56,207,21,Made,1,35,37,72,v,Maggette 21' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+159,156,PT08M35.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette S.FOUL (P1.T1),Foul,Shooting,0,0
+160,157,PT08M35.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+161,159,PT08M35.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,SUB: Francis FOR Battie,Substitution,,0,0
+162,160,PT08M35.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,SUB: Cato FOR Nelson,Substitution,,0,0
+163,162,PT08M35.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,36,37,73,h,Hill Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+164,163,PT08M35.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,37,37,74,h,Hill Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+165,164,PT08M23.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,121,230,26,Missed,1,0,0,0,v,MISS Chalmers 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+166,165,PT08M21.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+167,166,PT08M09.00S,2,1610612753,ORL,1509,Cato,K. Cato,-140,7,14,Missed,1,0,0,0,h,MISS Cato 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+168,167,PT08M07.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+169,168,PT07M55.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,241,-19,24,Made,1,37,40,77,v,Simmons 24' 3PT Jump Shot (8 PTS) (Chalmers 1 AST),Made Shot,Jump Shot,0,0
+170,169,PT07M35.00S,2,1610612753,ORL,255,Hill,G. Hill,-21,150,15,Made,1,39,40,79,h,Hill 15' Jump Shot (12 PTS),Made Shot,Jump Shot,0,0
+171,170,PT07M19.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Missed,1,0,0,0,v,MISS Simmons  Layup,Missed Shot,Layup Shot,0,0
+172,171,PT07M17.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,Garrity REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+173,172,PT07M12.00S,2,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Made,1,41,40,81,h,Francis  Layup (6 PTS),Made Shot,Layup Shot,0,0
+174,173,PT06M55.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,0,0,0,,0,0,0,0,v,SUB: Brunson FOR Chalmers,Substitution,,0,0
+175,174,PT06M55.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,SUB: Ross FOR Simmons,Substitution,,0,0
+176,175,PT06M55.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,SUB: Howard FOR Garrity,Substitution,,0,0
+177,176,PT06M44.00S,2,1610612746,LAC,1630,Moore,M. Moore,-56,123,14,Missed,1,0,0,0,v,MISS Moore 14' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+178,177,PT06M43.00S,2,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+179,178,PT06M36.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,Made,1,43,40,83,h,Hill  Layup (14 PTS) (Francis 4 AST),Made Shot,Layup Shot,0,0
+180,179,PT06M36.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette S.FOUL (P2.T2),Foul,Shooting,0,0
+181,180,PT06M36.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,44,40,84,h,Hill Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+182,181,PT06M24.00S,2,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P3.T3),Foul,Shooting,0,0
+183,182,PT06M24.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,MISS Ross Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+184,183,PT06M24.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+185,184,PT06M24.00S,2,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Garrity FOR Howard,Substitution,,0,0
+186,185,PT06M24.00S,2,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,v,SUB: Brand FOR Moore,Substitution,,0,0
+187,186,PT06M24.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,44,41,85,v,Ross Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+188,187,PT06M14.00S,2,1610612753,ORL,1509,Cato,K. Cato,0,0,0,Made,1,46,41,87,h,Cato  Slam Dunk (8 PTS) (Francis 5 AST),Made Shot,Slam Dunk Shot,0,0
+189,188,PT05M57.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,Rebraca OFF.Foul (P1),Foul,Offensive,0,0
+190,189,PT05M57.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,Rebraca Foul Turnover (P1.T7),Turnover,Foul,0,0
+191,190,PT05M57.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+192,194,PT05M43.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,Made,1,48,41,89,h,Hill  Reverse Layup (17 PTS) (Turkoglu 1 AST),Made Shot,Reverse Layup Shot,0,0
+193,195,PT05M26.00S,2,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis P.FOUL (P3.T4),Foul,Personal,0,0
+194,196,PT05M26.00S,2,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,SUB: Christie FOR Francis,Substitution,,0,0
+195,197,PT05M16.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,48,43,91,v,Brand  Layup (14 PTS) (Rebraca 1 AST),Made Shot,Layup Shot,0,0
+196,198,PT05M01.00S,2,1610612753,ORL,57,Christie,D. Christie,-33,183,19,Missed,1,0,0,0,h,MISS Christie 19' Jump Shot,Missed Shot,Jump Shot,0,0
+197,199,PT04M59.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+198,200,PT04M49.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,-62,225,23,Missed,1,0,0,0,v,MISS Maggette 23' Jump Shot,Missed Shot,Jump Shot,0,0
+199,201,PT04M47.00S,2,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+200,202,PT04M31.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,179,118,21,Made,1,50,43,93,h,Turkoglu 21' Jump Shot (4 PTS) (Christie 1 AST),Made Shot,Jump Shot,0,0
+201,203,PT04M12.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,-131,0,13,Made,1,50,45,95,v,Rebraca 13' Fadeaway Jumper (4 PTS) (Ross 1 AST),Made Shot,Fadeaway Jump Shot,0,0
+202,204,PT03M51.00S,2,1610612753,ORL,255,Hill,G. Hill,-92,89,13,Missed,1,0,0,0,h,MISS Hill 13' Jump Shot,Missed Shot,Jump Shot,0,0
+203,205,PT03M49.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,Rebraca REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+204,206,PT03M37.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+205,206,PT03M37.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill STEAL (1 STL),,,0,0
+206,207,PT03M30.00S,2,1610612753,ORL,57,Christie,D. Christie,195,86,21,Made,1,52,45,97,h,Christie 21' Jump Shot (8 PTS) (Turkoglu 2 AST),Made Shot,Jump Shot,0,0
+207,208,PT03M12.00S,2,1610612746,LAC,1594,Brunson,R. Brunson,130,176,22,Missed,1,0,0,0,v,MISS Brunson 22' Jump Shot,Missed Shot,Jump Shot,0,0
+208,209,PT03M09.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+209,210,PT02M51.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,151,215,26,Missed,1,0,0,0,h,MISS Turkoglu 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+210,211,PT02M49.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+211,212,PT02M36.00S,2,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato S.FOUL (P2.PN),Foul,Shooting,0,0
+212,213,PT02M36.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+213,215,PT02M36.00S,2,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,SUB: Battie FOR Cato,Substitution,,0,0
+214,217,PT02M36.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,52,46,98,v,Ross Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+215,218,PT02M36.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,52,47,99,v,Ross Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+216,219,PT02M22.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,52,69,9,Missed,1,0,0,0,h,MISS Turkoglu 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+217,220,PT02M20.00S,2,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+218,221,PT02M18.00S,2,1610612753,ORL,57,Christie,D. Christie,-54,94,11,Missed,1,0,0,0,h,MISS Christie 11' Jump Shot,Missed Shot,Jump Shot,0,0
+219,222,PT02M16.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+220,223,PT02M08.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,0,0
+221,230,PT02M08.00S,2,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,v,SUB: Livingston FOR Brunson,Substitution,,0,0
+222,224,PT01M52.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Missed,1,0,0,0,v,MISS Maggette  Layup,Missed Shot,Layup Shot,0,0
+223,225,PT01M51.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+224,226,PT01M41.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0
+225,226,PT01M41.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston STEAL (2 STL),,,0,0
+226,227,PT01M36.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Made,1,52,49,101,v,Ross  Layup (7 PTS) (Livingston 1 AST),Made Shot,Layup Shot,0,0
+227,228,PT01M31.00S,2,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,0
+228,229,PT01M31.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,SUB: Simmons FOR Maggette,Substitution,,0,0
+229,231,PT01M20.00S,2,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie P.FOUL (P3.PN),Foul,Personal,0,0
+230,233,PT01M20.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+231,235,PT01M20.00S,2,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,SUB: Nelson FOR Christie,Substitution,,0,0
+232,238,PT01M20.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,52,50,102,v,Livingston Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+233,239,PT01M20.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,MISS Livingston Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+234,240,PT01M18.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+235,241,PT01M04.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,Missed,1,0,0,0,h,MISS Hill  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+236,242,PT01M02.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+237,243,PT01M01.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,Missed,1,0,0,0,h,MISS Battie  Layup,Missed Shot,Layup Shot,0,0
+238,244,PT01M00.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+239,245,PT00M45.20S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill S.FOUL (P1.PN),Foul,Shooting,0,0
+240,246,PT00M45.20S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,52,51,103,v,Brand Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+241,247,PT00M45.20S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,MISS Brand Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+242,248,PT00M43.90S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+243,249,PT00M34.20S,2,1610612753,ORL,1727,Garrity,P. Garrity,-232,10,0,Missed,1,0,0,0,h,MISS Garrity  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+244,249,PT00M34.20S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand BLOCK (1 BLK),,,0,0
+245,250,PT00M33.20S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+246,251,PT00M33.20S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,SUB: Moore FOR Brand,Substitution,,0,0
+247,252,PT00M27.40S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross P.FOUL (P1.T3),Foul,Personal,0,0
+248,253,PT00M21.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons P.FOUL (P2.PN),Foul,Personal,0,0
+249,254,PT00M21.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,53,51,104,h,Hill Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+250,255,PT00M21.00S,2,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,v,SUB: Brand FOR Moore,Substitution,,0,0
+251,256,PT00M21.00S,2,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,54,51,105,h,Hill Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+252,257,PT00M04.40S,2,1610612746,LAC,2733,Livingston,S. Livingston,118,28,12,Made,1,54,53,107,v,Livingston 12' Jump Shot (3 PTS),Made Shot,Jump Shot,0,0
+253,259,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,53,107,,Instant Replay2nd Period (8:14 PM EST),Instant Replay,Overturn Ruling,0,0
+254,261,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,53,107,,End of 2nd Period (8:14 PM EST),period,end,0,0
+255,263,PT12M00.00S,3,0,,0,,,0,0,0,,0,54,53,107,,Start of 3rd Period (8:31 PM EST),period,start,0,0
+256,264,PT11M43.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,-108,194,22,Made,1,54,55,109,v,Simmons 22' Jump Shot (10 PTS) (Brand 2 AST),Made Shot,Jump Shot,0,0
+257,265,PT11M20.00S,3,1610612753,ORL,255,Hill,G. Hill,149,-19,15,Made,1,56,55,111,h,Hill 15' Jump Shot (21 PTS),Made Shot,Jump Shot,0,0
+258,266,PT10M59.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,107,11,Missed,1,0,0,0,v,MISS Brand 11' Jump Shot,Missed Shot,Jump Shot,0,0
+259,267,PT10M56.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+260,268,PT10M55.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Made,1,58,55,113,h,Francis  Dunk (8 PTS) (Hill 2 AST),Made Shot,Dunk Shot,0,0
+261,270,PT10M36.00S,3,1610612746,LAC,2733,Livingston,S. Livingston,74,135,15,Missed,1,0,0,0,v,MISS Livingston 15' Jump Shot,Missed Shot,Jump Shot,0,0
+262,271,PT10M34.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+263,272,PT10M31.00S,3,1610612753,ORL,1883,Francis,S. Francis,89,36,10,Made,1,60,55,115,h,Francis 10' Running Jump Shot (10 PTS),Made Shot,Running Jump Shot,0,0
+264,273,PT10M31.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross S.FOUL (P2.T1),Foul,Shooting,0,0
+265,274,PT10M31.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,MISS Francis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+266,275,PT10M29.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+267,276,PT10M19.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,-228,-3,0,Made,1,60,58,118,v,Simmons  3PT Jump Shot (13 PTS) (Livingston 2 AST),Made Shot,Jump Shot,0,0
+268,277,PT10M13.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0
+269,278,PT09M58.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,11,61,6,Made,1,60,60,120,v,Kaman 6' Turnaround Jump Shot (9 PTS) (Simmons 4 AST),Made Shot,Turnaround Jump Shot,0,0
+270,279,PT09M38.00S,3,1610612753,ORL,2730,Howard,D. Howard,-169,-6,17,Missed,1,0,0,0,h,MISS Howard 17' Jump Shot,Missed Shot,Jump Shot,0,0
+271,280,PT09M36.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+272,281,PT09M34.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0
+273,281,PT09M34.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman STEAL (1 STL),,,0,0
+274,282,PT09M25.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,131,143,19,Missed,1,0,0,0,v,MISS Simmons 19' Jump Shot,Missed Shot,Jump Shot,0,0
+275,283,PT09M23.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+276,284,PT09M11.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0
+277,284,PT09M11.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand STEAL (2 STL),,,0,0
+278,285,PT09M11.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis P.FOUL (P4.T1),Foul,Personal,0,0
+279,286,PT09M11.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,SUB: Turkoglu FOR Francis,Substitution,,0,0
+280,287,PT08M50.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,60,62,122,v,Kaman  Layup (11 PTS),Made Shot,Layup Shot,0,0
+281,288,PT08M30.00S,3,1610612753,ORL,2730,Howard,D. Howard,-51,12,5,Made,1,62,62,124,h,Howard 5' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+282,289,PT08M19.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Missed,1,0,0,0,v,MISS Brand  Layup,Missed Shot,Layup Shot,0,0
+283,289,PT08M19.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard BLOCK (2 BLK),,,0,0
+284,290,PT08M17.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+285,291,PT08M10.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,0
+286,291,PT08M10.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand STEAL (3 STL),,,0,0
+287,292,PT08M07.00S,3,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston OFF.Foul (P1),Foul,Offensive,0,0
+288,293,PT08M07.00S,3,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston Foul Turnover (P1.T9),Turnover,Foul,0,0
+289,294,PT07M53.00S,3,1610612753,ORL,57,Christie,D. Christie,-118,122,17,Missed,1,0,0,0,h,MISS Christie 17' Jump Shot,Missed Shot,Jump Shot,0,0
+290,295,PT07M51.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+291,296,PT07M35.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Made,1,62,64,126,v,Simmons  Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,0
+292,297,PT07M20.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0
+293,297,PT07M20.00S,3,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston STEAL (3 STL),,,0,0
+294,298,PT07M20.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato P.FOUL (P3.T2),Foul,Personal,0,0
+295,299,PT07M20.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato T.FOUL (P3.T2),Foul,Technical,0,0
+296,300,PT07M20.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,MISS Simmons Free Throw Technical,Free Throw,Free Throw Technical,0,0
+297,301,PT07M20.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+298,302,PT07M05.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard P.FOUL (P4.T3),Foul,Personal,0,0
+299,303,PT07M05.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Battie FOR Howard,Substitution,,0,0
+300,304,PT06M59.00S,3,1610612746,LAC,2733,Livingston,S. Livingston,-5,120,12,Missed,1,0,0,0,v,MISS Livingston 12' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+301,305,PT06M56.00S,3,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+302,306,PT06M50.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,-176,196,26,Made,1,65,64,129,h,Turkoglu 26' 3PT Jump Shot (7 PTS) (Christie 2 AST),Made Shot,Jump Shot,0,0
+303,307,PT06M33.00S,3,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0
+304,307,PT06M33.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato STEAL (2 STL),,,0,0
+305,308,PT06M17.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,-90,155,18,Missed,1,0,0,0,h,MISS Turkoglu 18' Jump Shot,Missed Shot,Jump Shot,0,0
+306,309,PT06M16.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+307,310,PT05M54.00S,3,1610612746,LAC,2624,Ross,Q. Ross,-52,63,8,Missed,1,0,0,0,v,MISS Ross 8' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+308,311,PT05M52.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+309,312,PT05M49.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,130,0,13,Missed,1,0,0,0,v,MISS Kaman 13' Jump Shot,Missed Shot,Jump Shot,0,0
+310,313,PT05M47.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+311,314,PT05M46.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu P.FOUL (P2.T4),Foul,Personal,0,0
+312,315,PT05M46.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+313,318,PT05M46.00S,3,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,SUB: Brunson FOR Livingston,Substitution,,0,0
+314,319,PT05M32.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0
+315,319,PT05M32.00S,3,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie STEAL (3 STL),,,0,0
+316,320,PT05M27.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,Made,1,67,64,131,h,Hill  Driving Layup (23 PTS) (Christie 3 AST),Made Shot,Driving Layup Shot,0,0
+317,321,PT05M05.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0
+318,321,PT05M05.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill STEAL (2 STL),,,0,0
+319,322,PT05M02.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons S.FOUL (P3.T2),Foul,Shooting,0,0
+320,323,PT05M02.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,68,64,132,h,Hill Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0
+321,324,PT05M02.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,SUB: Maggette FOR Simmons,Substitution,,0,0
+322,325,PT05M02.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,69,64,133,h,Hill Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+323,326,PT04M41.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,v,Brunson Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0
+324,326,PT04M41.00S,3,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie STEAL (4 STL),,,0,0
+325,327,PT04M24.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,Missed,1,0,0,0,h,MISS Cato  Layup,Missed Shot,Layup Shot,0,0
+326,327,PT04M24.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross BLOCK (1 BLK),,,0,0
+327,328,PT04M22.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+328,329,PT04M17.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Missed,1,0,0,0,v,MISS Maggette  Layup,Missed Shot,Layup Shot,0,0
+329,329,PT04M17.00S,3,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie BLOCK (1 BLK),,,0,0
+330,330,PT04M17.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+331,331,PT04M17.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+332,335,PT04M05.00S,3,1610612746,LAC,2624,Ross,Q. Ross,-41,181,19,Made,1,69,66,135,v,Ross 19' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+333,336,PT03M52.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato OFF.Foul (P4),Foul,Offensive,0,0
+334,337,PT03M52.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato Foul Turnover (P2.T16),Turnover,Foul,0,0
+335,338,PT03M38.00S,3,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,SUB: Hunter FOR Cato,Substitution,,0,0
+336,339,PT03M29.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,117,0,12,Missed,1,0,0,0,v,MISS Maggette 12' Jump Shot,Missed Shot,Jump Shot,0,0
+337,340,PT03M27.00S,3,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,0,0,0,h,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+338,341,PT03M17.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross P.FOUL (P3.T3),Foul,Personal,0,0
+339,342,PT03M17.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,SUB: Livingston FOR Ross,Substitution,,0,0
+340,343,PT03M07.00S,3,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston S.FOUL (P2.T4),Foul,Shooting,0,0
+341,344,PT03M07.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,70,66,136,h,Hill Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0
+342,345,PT03M07.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,71,66,137,h,Hill Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0
+343,346,PT02M53.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,148,196,25,Missed,1,0,0,0,v,MISS Brunson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+344,347,PT02M51.00S,3,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,0,0,0,h,Hunter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+345,348,PT02M43.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu Lost Ball Turnover (P5.T17),Turnover,Lost Ball,0,0
+346,348,PT02M43.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette STEAL (2 STL),,,0,0
+347,349,PT02M38.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill S.FOUL (P2.PN),Foul,Shooting,0,0
+348,350,PT02M38.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,MISS Brand Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+349,351,PT02M38.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+350,352,PT02M38.00S,3,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,SUB: Stevenson FOR Hill,Substitution,,0,0
+351,353,PT02M38.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,71,67,138,v,Brand Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+352,354,PT02M24.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,100,61,12,Made,1,73,67,140,h,Turkoglu 12' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,0,0
+353,355,PT02M08.00S,3,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0
+354,355,PT02M08.00S,3,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie STEAL (5 STL),,,0,0
+355,356,PT01M59.00S,3,1610612753,ORL,2599,Hunter,B. Hunter,-36,13,4,Missed,1,0,0,0,h,MISS Hunter 4' Jump Shot,Missed Shot,Jump Shot,0,0
+356,357,PT01M58.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+357,358,PT01M43.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,228,10,0,Missed,1,0,0,0,v,MISS Brunson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+358,359,PT01M41.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+359,360,PT01M26.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,Missed,1,0,0,0,h,MISS Turkoglu  Layup,Missed Shot,Layup Shot,0,0
+360,361,PT01M25.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+361,362,PT01M23.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,-56,17,6,Missed,1,0,0,0,h,MISS Turkoglu 6' Jump Shot,Missed Shot,Jump Shot,0,0
+362,362,PT01M23.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand BLOCK (2 BLK),,,0,0
+363,363,PT01M20.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+364,364,PT01M18.00S,3,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie S.FOUL (P4.PN),Foul,Shooting,0,0
+365,365,PT01M18.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,73,68,141,v,Brand Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+366,366,PT01M18.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,73,69,142,v,Brand Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+367,367,PT01M05.00S,3,1610612753,ORL,2599,Hunter,B. Hunter,123,15,12,Missed,1,0,0,0,h,MISS Hunter 12' Jump Shot,Missed Shot,Jump Shot,0,0
+368,368,PT01M03.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+369,369,PT00M56.90S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0
+370,369,PT00M56.90S,3,1610612753,ORL,57,Christie,D. Christie,0,0,0,,0,0,0,0,h,Christie STEAL (6 STL),,,0,0
+371,370,PT00M52.20S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Made,1,75,69,144,h,Stevenson  Layup (2 PTS) (Turkoglu 3 AST),Made Shot,Layup Shot,0,0
+372,371,PT00M35.90S,3,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,Missed,1,0,0,0,v,MISS Livingston  Layup,Missed Shot,Layup Shot,0,0
+373,371,PT00M35.90S,3,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,0,0,0,h,Hunter BLOCK (1 BLK),,,0,0
+374,372,PT00M32.90S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+375,373,PT00M30.40S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman S.FOUL (P2.PN),Foul,Shooting,0,0
+376,374,PT00M30.40S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,MISS Turkoglu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+377,375,PT00M30.40S,3,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+378,376,PT00M30.40S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,76,69,145,h,Turkoglu Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+379,377,PT00M18.40S,3,1610612746,LAC,1894,Maggette,C. Maggette,77,99,13,Made,1,76,71,147,v,Maggette 13' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,0,0
+380,378,PT00M02.90S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,-153,212,26,Missed,1,0,0,0,h,MISS Turkoglu 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+381,379,PT00M02.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+382,380,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,71,147,,End of 3rd Period (8:57 PM EST),period,end,0,0
+383,382,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,71,147,,Start of 4th Period (9:00 PM EST),period,start,0,0
+384,383,PT11M39.00S,4,1610612753,ORL,1883,Francis,S. Francis,10,33,3,Missed,1,0,0,0,h,MISS Francis 3' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+385,384,PT11M38.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+386,385,PT11M24.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,3,220,22,Missed,1,0,0,0,v,MISS Simmons 22' Jump Shot,Missed Shot,Jump Shot,0,0
+387,386,PT11M21.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:5 Def:4),Rebound,Unknown,0,0
+388,387,PT11M19.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0
+389,387,PT11M19.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis STEAL (2 STL),,,0,0
+390,388,PT11M04.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,Made,1,78,71,149,h,Battie  Dunk (4 PTS) (Francis 6 AST),Made Shot,Dunk Shot,0,0
+391,389,PT10M43.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,-25,168,17,Missed,1,0,0,0,v,MISS Maggette 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+392,390,PT10M41.00S,4,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,0,0,0,h,Hunter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+393,391,PT10M29.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Missed,1,0,0,0,h,MISS Francis  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+394,392,PT10M28.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+395,393,PT10M24.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie S.FOUL (P1.T1),Foul,Shooting,0,0
+396,394,PT10M24.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,78,72,150,v,Maggette Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+397,395,PT10M24.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,78,73,151,v,Maggette Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+398,396,PT10M03.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,-46,179,18,Made,1,80,73,153,h,Stevenson 18' Jump Shot (4 PTS) (Hill 3 AST),Made Shot,Jump Shot,0,0
+399,397,PT09M41.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,82,117,14,Missed,1,0,0,0,v,MISS Livingston 14' Jump Shot,Missed Shot,Jump Shot,0,0
+400,398,PT09M38.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+401,399,PT09M34.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,Made,1,82,73,155,h,Hill  Layup (29 PTS) (Stevenson 1 AST),Made Shot,Layup Shot,0,0
+402,400,PT09M14.00S,4,1610612746,LAC,1882,Brand,E. Brand,-23,54,6,Missed,1,0,0,0,v,MISS Brand 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+403,401,PT09M13.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+404,402,PT09M06.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Missed,1,0,0,0,h,MISS Francis  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+405,403,PT09M05.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+406,404,PT09M05.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+407,407,PT08M48.00S,4,1610612746,LAC,1882,Brand,E. Brand,-146,3,15,Made,1,82,75,157,v,Brand 15' Jump Shot (20 PTS) (Livingston 3 AST),Made Shot,Jump Shot,0,0
+408,408,PT08M26.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand S.FOUL (P2.T1),Foul,Shooting,0,0
+409,409,PT08M26.00S,4,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,0,0,0,h,MISS Hunter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+410,410,PT08M26.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+411,411,PT08M26.00S,4,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,83,75,158,h,Hunter Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+412,412,PT08M14.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,Made,1,83,77,160,v,Livingston  Layup (5 PTS),Made Shot,Layup Shot,0,0
+413,415,PT07M40.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,0,0
+414,414,PT07M40.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,SUB: Kaman FOR Brand,Substitution,,0,0
+415,416,PT07M33.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,38,86,9,Missed,1,0,0,0,v,MISS Livingston 9' Jump Shot,Missed Shot,Jump Shot,0,0
+416,417,PT07M31.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+417,418,PT07M29.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,Missed,1,0,0,0,v,MISS Livingston  Layup,Missed Shot,Layup Shot,0,0
+418,419,PT07M28.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,Rebraca REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+419,420,PT07M27.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,Missed,1,0,0,0,v,MISS Rebraca  Layup,Missed Shot,Layup Shot,0,0
+420,421,PT07M26.00S,4,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,0,0,0,h,Hunter REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+421,422,PT07M22.00S,4,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,0,0,0,h,Hunter OFF.Foul (P1),Foul,Offensive,0,0
+422,423,PT07M22.00S,4,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,0,0,0,h,Hunter Foul Turnover (P1.T19),Turnover,Foul,0,0
+423,424,PT07M22.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,SUB: Cato FOR Battie,Substitution,,0,0
+424,425,PT07M22.00S,4,1610612753,ORL,2599,Hunter,B. Hunter,0,0,0,,0,0,0,0,h,SUB: Howard FOR Hunter,Substitution,,0,0
+425,427,PT07M05.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,10,217,22,Missed,1,0,0,0,v,MISS Maggette 22' Jump Shot,Missed Shot,Jump Shot,0,0
+426,428,PT07M02.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+427,429,PT06M57.00S,4,1610612753,ORL,255,Hill,G. Hill,192,-16,19,Made,1,85,77,162,h,Hill 19' Jump Shot (31 PTS) (Francis 7 AST),Made Shot,Jump Shot,0,0
+428,432,PT06M39.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,33,171,17,Made,1,85,79,164,v,Kaman 17' Jump Shot (13 PTS) (Livingston 4 AST),Made Shot,Jump Shot,0,0
+429,433,PT06M24.00S,4,1610612753,ORL,1509,Cato,K. Cato,0,0,0,Missed,1,0,0,0,h,MISS Cato  Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,0
+430,434,PT06M22.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+431,435,PT06M13.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,71,120,14,Made,1,85,81,166,v,Rebraca 14' Jump Shot (6 PTS) (Simmons 5 AST),Made Shot,Jump Shot,0,0
+432,436,PT05M58.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,Made,1,87,81,168,h,Hill  Driving Layup (33 PTS),Made Shot,Driving Layup Shot,0,0
+433,437,PT05M58.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette S.FOUL (P3.T2),Foul,Shooting,0,0
+434,439,PT05M58.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+435,441,PT05M58.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,SUB: Turkoglu FOR Stevenson,Substitution,,0,0
+436,443,PT05M58.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,88,81,169,h,Hill Free Throw 1 of 1 (34 PTS),Free Throw,Free Throw 1 of 1,0,0
+437,444,PT05M38.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,-56,30,6,Made,1,88,83,171,v,Rebraca 6' Hook Shot (8 PTS),Made Shot,Hook Shot,0,0
+438,445,PT05M18.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette S.FOUL (P4.T3),Foul,Shooting,0,0
+439,446,PT05M18.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+440,448,PT05M18.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+441,447,PT05M18.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,89,83,172,h,Hill Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,0,0
+442,449,PT05M00.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill S.FOUL (P3.T2),Foul,Shooting,0,0
+443,450,PT05M00.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,89,84,173,v,Kaman Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+444,452,PT05M00.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,SUB: Ross FOR Simmons,Substitution,,0,0
+445,453,PT05M00.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,MISS Kaman Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+446,454,PT04M58.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+447,455,PT04M46.00S,4,1610612753,ORL,1883,Francis,S. Francis,-2,146,15,Missed,1,0,0,0,h,MISS Francis 15' Jump Shot,Missed Shot,Jump Shot,0,0
+448,456,PT04M45.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,Rebraca REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+449,457,PT04M31.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,Missed,1,0,0,0,v,MISS Rebraca  Layup,Missed Shot,Layup Shot,0,0
+450,459,PT04M29.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+451,458,PT04M29.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Missed,1,0,0,0,v,MISS Ross  Tip Shot,Missed Shot,Tip Shot,0,0
+452,460,PT04M27.00S,4,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+453,461,PT04M09.00S,4,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu OFF.Foul (P3),Foul,Offensive,0,0
+454,462,PT04M09.00S,4,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu Foul Turnover (P6.T20),Turnover,Foul,0,0
+455,463,PT04M09.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Short (Reg.4 Short 2),Timeout,Short,0,0
+456,464,PT04M09.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,SUB: Simmons FOR Ross,Substitution,,0,0
+457,466,PT03M53.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,-20,49,5,Missed,1,0,0,0,v,MISS Rebraca 5' Hook Shot,Missed Shot,Hook Shot,0,0
+458,467,PT03M52.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+459,468,PT03M33.00S,4,1610612753,ORL,2045,Turkoglu,H. Turkoglu,-29,252,25,Missed,1,0,0,0,h,MISS Turkoglu 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+460,469,PT03M32.00S,4,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+461,470,PT03M30.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,Rebraca P.FOUL (P2.T4),Foul,Personal,0,0
+462,471,PT03M26.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Out of Bounds Lost Ball Turnover (P1.T21),Turnover,Out of Bounds Lost Ball Turnover,0,0
+463,472,PT03M11.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,Made,1,89,86,175,v,Livingston  Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,0
+464,473,PT02M56.00S,4,1610612753,ORL,255,Hill,G. Hill,-107,135,17,Made,1,91,86,177,h,Hill 17' Jump Shot (37 PTS),Made Shot,Jump Shot,0,0
+465,474,PT02M43.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,47,168,17,Missed,1,0,0,0,v,MISS Kaman 17' Jump Shot,Missed Shot,Jump Shot,0,0
+466,475,PT02M42.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+467,476,PT02M35.00S,4,1610612753,ORL,1509,Cato,K. Cato,0,0,0,Missed,1,0,0,0,h,MISS Cato  Layup,Missed Shot,Layup Shot,0,0
+468,477,PT02M34.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,Rebraca REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+469,478,PT02M22.00S,4,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato P.FOUL (P5.T3),Foul,Personal,0,0
+470,479,PT02M22.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+471,482,PT02M22.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,SUB: Brand FOR Kaman,Substitution,,0,0
+472,483,PT02M12.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,-209,22,21,Missed,1,0,0,0,v,MISS Simmons 21' Jump Shot,Missed Shot,Jump Shot,0,0
+473,484,PT02M11.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:6 Def:4),Rebound,Unknown,0,0
+474,485,PT02M11.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard P.FOUL (P5.T4),Foul,Personal,0,0
+475,486,PT01M59.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,Missed,1,0,0,0,v,MISS Rebraca  Layup,Missed Shot,Layup Shot,0,0
+476,487,PT01M57.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,Rebraca REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+477,488,PT01M57.00S,4,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,Cato S.FOUL (P6.PN),Foul,Shooting,0,0
+478,489,PT01M57.00S,4,1610612753,ORL,1509,Cato,K. Cato,0,0,0,,0,0,0,0,h,SUB: Battie FOR Cato,Substitution,,0,0
+479,490,PT01M57.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,MISS Rebraca Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+480,491,PT01M57.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+481,492,PT01M57.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,91,87,178,v,Rebraca Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+482,493,PT01M33.00S,4,1610612753,ORL,1883,Francis,S. Francis,-51,-3,5,Missed,1,0,0,0,h,MISS Francis 5' Jump Shot,Missed Shot,Jump Shot,0,0
+483,494,PT01M33.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+484,495,PT01M25.00S,4,1610612746,LAC,1882,Brand,E. Brand,-74,141,16,Missed,1,0,0,0,v,MISS Brand 16' Jump Shot,Missed Shot,Jump Shot,0,0
+485,496,PT01M23.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+486,497,PT01M07.00S,4,1610612753,ORL,255,Hill,G. Hill,92,30,10,Missed,1,0,0,0,h,MISS Hill 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+487,498,PT01M04.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+488,499,PT00M59.80S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill S.FOUL (P4.PN),Foul,Shooting,0,0
+489,500,PT00M59.80S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,91,88,179,v,Simmons Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+490,501,PT00M59.80S,4,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,SUB: Christie FOR Turkoglu,Substitution,,0,0
+491,502,PT00M59.80S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,SUB: Ross FOR Maggette,Substitution,,0,0
+492,503,PT00M59.80S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,91,89,180,v,Simmons Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+493,504,PT00M45.10S,4,1610612753,ORL,1883,Francis,S. Francis,-11,82,8,Made,1,93,89,182,h,Francis 8' Fadeaway Jumper (12 PTS) (Christie 4 AST),Made Shot,Fadeaway Jump Shot,0,0
+494,506,PT00M35.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P6.PN),Foul,Shooting,0,0
+495,507,PT00M35.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Garrity FOR Howard,Substitution,,0,0
+496,508,PT00M35.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,MISS Brand Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+497,509,PT00M35.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+498,510,PT00M35.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,93,90,183,v,Brand Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+499,511,PT00M35.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+500,514,PT00M35.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,SUB: Maggette FOR Brand,Substitution,,0,0
+501,515,PT00M13.10S,4,1610612753,ORL,1883,Francis,S. Francis,57,140,15,Made,1,95,90,185,h,Francis 15' Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+502,516,PT00M13.10S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,0
+503,518,PT00M13.10S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,SUB: Moore FOR Ross,Substitution,,0,0
+504,519,PT00M13.10S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,v,SUB: Brand FOR Rebraca,Substitution,,0,0
+505,520,PT00M11.90S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie S.FOUL (P2.PN),Foul,Shooting,0,0
+506,521,PT00M11.90S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,95,91,186,v,Maggette Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+507,522,PT00M11.90S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,SUB: Ross FOR Brand,Substitution,,0,0
+508,523,PT00M11.90S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,MISS Maggette Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+509,524,PT00M10.70S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+510,525,PT00M09.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons P.FOUL (P4.PN),Foul,Personal,0,0
+511,526,PT00M09.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,96,91,187,h,Hill Free Throw 1 of 2 (38 PTS),Free Throw,Free Throw 1 of 2,0,0
+512,527,PT00M09.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,SUB: Kaman FOR Maggette,Substitution,,0,0
+513,528,PT00M09.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,SUB: Brand FOR Simmons,Substitution,,0,0
+514,529,PT00M09.00S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,97,91,188,h,Hill Free Throw 2 of 2 (39 PTS),Free Throw,Free Throw 2 of 2,0,0
+515,530,PT00M09.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.6 Short 2),Timeout,Regular,0,0
+516,533,PT00M09.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,SUB: Simmons FOR Kaman,Substitution,,0,0
+517,534,PT00M09.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,SUB: Maggette FOR Ross,Substitution,,0,0
+518,535,PT00M06.70S,4,1610612746,LAC,2250,Simmons,B. Simmons,-228,0,0,Made,1,97,94,191,v,Simmons  3PT Jump Shot (20 PTS) (Livingston 5 AST),Made Shot,Jump Shot,0,0
+519,536,PT00M06.70S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+520,537,PT00M06.70S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,SUB: Ross FOR Brand,Substitution,,0,0
+521,538,PT00M05.70S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross P.FOUL (P4.PN),Foul,Personal,0,0
+522,539,PT00M05.70S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,98,94,192,h,Francis Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+523,540,PT00M05.70S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,99,94,193,h,Francis Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+524,541,PT00M00.80S,4,1610612746,LAC,1630,Moore,M. Moore,5,191,19,Missed,1,0,0,0,v,MISS Moore 19' Jump Shot,Missed Shot,Jump Shot,0,0
+525,542,PT00M00.40S,4,1610612753,ORL,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+526,544,PT00M00.00S,4,0,,0,,,0,0,0,,0,99,94,193,,End of 4th Period (9:44 PM EST),period,end,0,0

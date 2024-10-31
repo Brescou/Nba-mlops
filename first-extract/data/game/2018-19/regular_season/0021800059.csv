@@ -1,0 +1,578 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:43 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Jump Ball Lopez vs. Embiid: Tip to Simmons,Jump Ball,,1,0
+3,7,PT11M49.00S,1,1610612755,PHI,203967,Saric,D. Saric,-154,196,25,Made,1,0,3,3,v,Saric 25' 3PT Jump Shot (3 PTS) (Simmons 1 AST),Made Shot,Jump Shot,1,0
+4,8,PT11M43.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-14,262,26,Missed,1,,,0,h,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+5,45,PT11M42.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,9,PT11M27.00S,1,1610612755,PHI,1628365,Fultz,M. Fultz,-136,158,21,Made,1,0,5,5,v,Fultz 21' Jump Shot (2 PTS) (Embiid 1 AST),Made Shot,Jump Shot,1,0
+7,11,PT11M12.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,12,157,16,Missed,1,,,0,h,MISS Middleton 16' Jump Shot,Missed Shot,Jump Shot,1,0
+8,12,PT11M05.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+9,13,PT11M03.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+10,14,PT10M50.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-225,4,0,Missed,1,,,0,h,MISS Lopez 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+11,15,PT10M50.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0
+12,17,PT10M30.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-101,116,15,Missed,1,,,0,v,MISS Embiid 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+13,18,PT10M30.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+14,19,PT10M26.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0
+15,22,PT10M26.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,1,5,6,h,Middleton Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0
+16,23,PT10M26.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,2,5,7,h,Middleton Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0
+17,24,PT10M26.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,3,5,8,h,Middleton Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0
+18,25,PT10M11.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,-1,13,1,Made,1,3,7,10,v,Simmons 1' Driving Layup (2 PTS) (Fultz 1 AST),Made Shot,Driving Layup Shot,1,0
+19,27,PT10M02.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,3,34,3,Missed,1,,,0,h,MISS Antetokounmpo 3' Layup,Missed Shot,Layup Shot,1,0
+20,28,PT10M02.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+21,29,PT10M02.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-11,9,1,Made,1,5,7,12,h,Antetokounmpo 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,0
+22,30,PT10M02.00S,1,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric S.FOUL (P1.T2) (J.Williams),Foul,Shooting,1,0
+23,32,PT10M02.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,6,7,13,h,Antetokounmpo Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+24,33,PT09M46.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,4,11,1,Missed,1,,,0,v,MISS Simmons 1' Layup,Missed Shot,Layup Shot,1,0
+25,33,PT09M46.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo BLOCK (1 BLK),,,1,0
+26,35,PT09M46.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+27,36,PT09M40.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,10,18,2,Missed,1,,,0,v,MISS Simmons 2' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+28,37,PT09M37.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+29,38,PT09M36.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,10,7,1,Made,1,6,9,15,v,Simmons 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,0
+30,39,PT09M10.00S,1,1610612749,MIL,202339,Bledsoe,E. Bledsoe,130,266,30,Missed,1,,,0,h,MISS Bledsoe 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+31,40,PT09M10.00S,1,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+32,41,PT09M05.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+33,41,PT09M05.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons STEAL (1 STL),,,1,0
+34,43,PT09M04.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon P.FOUL (P1.T1) (N.Buchert),Foul,Personal,1,0
+35,46,PT08M56.00S,1,1610612755,PHI,203496,Covington,R. Covington,-14,164,16,Missed,1,,,0,v,MISS Covington 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+36,47,PT08M54.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+37,48,PT08M41.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,133,235,27,Missed,1,,,0,h,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+38,49,PT08M38.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+39,50,PT08M34.00S,1,1610612755,PHI,203967,Saric,D. Saric,6,16,2,Made,1,6,11,17,v,Saric 2' Driving Finger Roll Layup (5 PTS) (Simmons 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+40,52,PT08M21.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,133,241,28,Missed,1,,,0,h,MISS Lopez 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+41,53,PT08M18.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+42,54,PT08M18.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo P.FOUL (P1.T2) (J.Williams),Foul,Personal,1,0
+43,56,PT08M08.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-79,48,9,Made,1,6,13,19,v,Embiid 9' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+44,57,PT08M08.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez S.FOUL (P1.T3) (J.Orr),Foul,Shooting,1,0
+45,59,PT08M08.00S,1,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,1,0
+46,60,PT08M08.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,6,14,20,v,Embiid Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+47,61,PT07M55.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+48,61,PT07M55.00S,1,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,Fultz STEAL (1 STL),,,1,0
+49,63,PT07M50.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,4,10,1,Made,1,6,16,22,v,Simmons 1' Running Finger Roll Layup (6 PTS) (Fultz 2 AST),Made Shot,Running Finger Roll Layup Shot,1,0
+50,65,PT07M28.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,12,108,11,Missed,1,,,0,h,MISS Brogdon 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+51,66,PT07M26.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+52,67,PT07M03.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-38,15,4,Missed,1,,,0,v,MISS Embiid 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+53,68,PT07M00.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+54,69,PT06M59.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P1.T3) (J.Orr),Foul,Shooting,1,0
+55,71,PT06M59.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,7,16,23,h,Brogdon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+56,72,PT06M59.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Johnson FOR Embiid,Substitution,,0,0
+57,73,PT06M59.00S,1,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,SUB: Redick FOR Fultz,Substitution,,0,0
+58,76,PT06M59.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,8,16,24,h,Brogdon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+59,77,PT06M46.00S,1,1610612755,PHI,203496,Covington,R. Covington,-30,76,8,Missed,1,,,0,v,MISS Covington 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+60,78,PT06M46.00S,1,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+61,79,PT06M46.00S,1,1610612755,PHI,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson L.B.FOUL (P1.T4) (J.Orr),Foul,Loose Ball,1,0
+62,81,PT06M46.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,SUB: Ilyasova FOR Brogdon,Substitution,,0,0
+63,83,PT06M28.00S,1,1610612749,MIL,202339,Bledsoe,E. Bledsoe,71,222,23,Missed,1,,,0,h,MISS Bledsoe 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+64,84,PT06M25.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+65,85,PT06M21.00S,1,1610612755,PHI,203496,Covington,R. Covington,116,241,27,Made,1,8,19,27,v,Covington 27' 3PT Jump Shot (3 PTS) (Simmons 3 AST),Made Shot,Jump Shot,1,0
+66,87,PT06M12.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo Out of Bounds Lost Ball Turnover (P2.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0
+67,88,PT05M53.00S,1,1610612755,PHI,200755,Redick,J. Redick,48,141,15,Missed,1,,,0,v,MISS Redick 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+68,89,PT05M50.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+69,90,PT05M44.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,7,9,1,Made,1,10,19,29,h,Ilyasova 1' Driving Finger Roll Layup (2 PTS) (Bledsoe 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+70,92,PT05M39.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Traveling Turnover (P1.T2),Turnover,Traveling,1,0
+71,93,PT05M39.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Henson FOR Lopez,Substitution,,0,0
+72,95,PT05M26.00S,1,1610612749,MIL,203089,Henson,J. Henson,-226,17,0,Missed,1,,,0,h,MISS Henson 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+73,96,PT05M23.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+74,97,PT05M16.00S,1,1610612749,MIL,202339,Bledsoe,E. Bledsoe,237,48,24,Missed,1,,,0,h,MISS Bledsoe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+75,98,PT05M12.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+76,99,PT05M09.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+77,99,PT05M09.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova STEAL (1 STL),,,1,0
+78,101,PT04M56.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,57,0,6,Made,1,12,19,31,h,Middleton 6' Turnaround Fadeaway (5 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+79,102,PT04M55.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+80,103,PT04M55.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: DiVincenzo FOR Antetokounmpo,Substitution,,0,0
+81,104,PT04M55.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,SUB: Fultz FOR Simmons,Substitution,,0,0
+82,107,PT04M44.00S,1,1610612755,PHI,200755,Redick,J. Redick,228,49,0,Missed,1,,,0,v,MISS Redick 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+83,108,PT04M41.00S,1,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+84,109,PT04M38.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,11,30,3,Missed,1,,,0,h,MISS Middleton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+85,109,PT04M38.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (1 BLK),,,1,0
+86,111,PT04M37.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0
+87,113,PT04M27.00S,1,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric Offensive Charge Foul (P2.PN) (J.Orr),Foul,Offensive Charge,1,0
+88,115,PT04M27.00S,1,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0
+89,116,PT04M27.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Shamet FOR Covington,Substitution,,0,0
+90,118,PT04M27.00S,1,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,SUB: Muscala FOR Saric,Substitution,,0,0
+91,120,PT04M14.00S,1,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,188,200,27,Missed,1,,,0,h,MISS DiVincenzo 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+92,121,PT04M14.00S,1,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+93,122,PT04M14.00S,1,1610612755,PHI,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,v,Shamet L.B.FOUL (P1.PN) (N.Buchert),Foul,Loose Ball,1,0
+94,124,PT04M14.00S,1,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,SUB: Brogdon FOR Bledsoe,Substitution,,0,0
+95,126,PT04M14.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,13,19,32,h,Middleton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+96,127,PT04M14.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,14,19,33,h,Middleton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+97,128,PT03M55.00S,1,1610612755,PHI,1628365,Fultz,M. Fultz,-66,33,7,Missed,1,,,0,v,MISS Fultz 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+98,129,PT03M52.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+99,130,PT03M43.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,18,110,11,Missed,1,,,0,h,MISS Middleton 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+100,131,PT03M41.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+101,132,PT03M38.00S,1,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala S.FOUL (P1.PN) (J.Williams),Foul,Shooting,1,0
+102,134,PT03M38.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,15,19,34,h,Ilyasova Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+103,135,PT03M38.00S,1,1610612755,PHI,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Embiid FOR Johnson,Substitution,,0,0
+104,137,PT03M38.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,MISS Ilyasova Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+105,138,PT03M36.00S,1,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+106,139,PT03M23.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-6,180,18,Missed,1,,,0,v,MISS Embiid 18' Jump Shot,Missed Shot,Jump Shot,1,0
+107,139,PT03M23.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova BLOCK (1 BLK),,,1,0
+108,141,PT03M19.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+109,142,PT03M18.00S,1,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0
+110,142,PT03M18.00S,1,1610612755,PHI,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,v,Shamet STEAL (1 STL),,,1,0
+111,144,PT03M12.00S,1,1610612755,PHI,1628365,Fultz,M. Fultz,-3,20,2,Missed,1,,,0,v,MISS Fultz 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+112,144,PT03M12.00S,1,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo BLOCK (1 BLK),,,1,0
+113,145,PT03M09.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+114,146,PT03M08.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,22,34,4,Missed,1,,,0,v,MISS Embiid 4' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+115,147,PT03M03.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+116,148,PT03M03.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,-6,1,Made,1,15,21,36,v,Embiid 1' Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,0
+117,149,PT02M55.00S,1,1610612749,MIL,203089,Henson,J. Henson,-11,21,2,Made,1,17,21,38,h,Henson 2' Cutting Dunk Shot (2 PTS) (Brogdon 1 AST),Made Shot,Cutting Dunk Shot,1,0
+118,151,PT02M36.00S,1,1610612755,PHI,203488,Muscala,M. Muscala,145,218,26,Made,1,17,24,41,v,Muscala 26' 3PT Jump Shot (3 PTS) (Redick 1 AST),Made Shot,Jump Shot,1,0
+119,153,PT02M27.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova OFF.Foul (P1) (J.Orr),Foul,Offensive,1,0
+120,155,PT02M27.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0
+121,156,PT02M27.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,SUB: Antetokounmpo FOR Middleton,Substitution,,0,0
+122,158,PT02M06.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson S.FOUL (P1.T4) (J.Williams),Foul,Shooting,1,0
+123,160,PT02M06.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,17,25,42,v,Embiid Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+124,161,PT02M06.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,MISS Embiid Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+125,162,PT02M03.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+126,163,PT01M53.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,38,73,8,Missed,1,,,0,h,MISS Antetokounmpo 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+127,164,PT01M53.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0
+128,166,PT01M43.00S,1,1610612755,PHI,1629013,Shamet,L. Shamet,228,106,25,Missed,1,,,0,v,MISS Shamet 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+129,167,PT01M42.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0
+130,169,PT01M34.00S,1,1610612755,PHI,200755,Redick,J. Redick,-109,248,27,Made,1,17,28,45,v,Redick 27' 3PT Jump Shot (3 PTS) (Muscala 1 AST),Made Shot,Jump Shot,1,0
+131,171,PT01M13.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,236,30,24,Missed,1,,,0,h,MISS Brogdon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+132,172,PT01M10.00S,1,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+133,173,PT00M57.80S,1,1610612755,PHI,203954,Embiid,J. Embiid,-46,16,5,Missed,1,,,0,v,MISS Embiid 5' Jump Shot,Missed Shot,Jump Shot,1,0
+134,173,PT00M57.80S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson BLOCK (1 BLK),,,1,0
+135,175,PT00M57.80S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0
+136,177,PT00M57.80S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,SUB: Lopez FOR Ilyasova,Substitution,,0,0
+137,179,PT00M49.10S,1,1610612755,PHI,1629013,Shamet,L. Shamet,60,268,27,Made,1,17,31,48,v,Shamet 27' 3PT Jump Shot (3 PTS) (Embiid 2 AST),Made Shot,Jump Shot,1,0
+138,181,PT00M37.80S,1,1610612749,MIL,201572,Lopez,B. Lopez,-221,-1,0,Made,1,20,31,51,h,Lopez 3PT Jump Shot (3 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,1,0
+139,183,PT00M31.20S,1,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,Fultz Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0
+140,183,PT00M31.20S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson STEAL (1 STL),,,1,0
+141,185,PT00M28.50S,1,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala S.FOUL (P2.PN) (J.Orr),Foul,Shooting,1,0
+142,187,PT00M28.50S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,21,31,52,h,Antetokounmpo Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+143,188,PT00M28.50S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,SUB: Snell FOR Henson,Substitution,,0,0
+144,190,PT00M28.50S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,22,31,53,h,Antetokounmpo Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+145,191,PT00M07.50S,1,1610612755,PHI,200755,Redick,J. Redick,-232,49,24,Made,1,22,34,56,v,Redick 24' 3PT Jump Shot (6 PTS) (Embiid 3 AST),Made Shot,Jump Shot,1,0
+146,193,PT00M00.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,-86,242,26,Missed,1,,,0,h,MISS Brogdon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+147,194,PT00M00.00S,1,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,1,0
+148,195,PT00M00.00S,1,0,,0,,,0,0,0,,0,22,34,56,,End of 1st Period (10:11 PM EST),period,end,1,0
+149,199,PT12M00.00S,2,0,,0,,,0,0,0,,0,22,34,56,,Start of 2nd Period (10:15 PM EST),period,start,0,0
+150,200,PT11M45.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-3,17,2,Made,1,24,34,58,h,Antetokounmpo 2' Driving Dunk (7 PTS),Made Shot,Driving Dunk Shot,1,0
+151,201,PT11M29.00S,2,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,,,0,h,BUCKS T.Foul (Def. 3 Sec Snell ) (J.Williams),Foul,Defense 3 Second,1,0
+152,202,PT11M29.00S,2,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,24,35,59,v,Muscala Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0
+153,203,PT11M17.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-58,123,14,Missed,1,,,0,v,MISS Embiid 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+154,204,PT11M14.00S,2,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+155,205,PT11M10.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+156,206,PT10M58.00S,2,1610612755,PHI,203496,Covington,R. Covington,36,28,5,Made,1,24,37,61,v,Covington 5' Cutting Layup Shot (5 PTS) (Fultz 3 AST),Made Shot,Cutting Layup Shot,1,0
+157,208,PT10M41.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,-230,92,25,Made,1,27,37,64,h,Lopez 25' 3PT Jump Shot (6 PTS) (Antetokounmpo 1 AST),Made Shot,Jump Shot,1,0
+158,210,PT10M27.00S,2,1610612755,PHI,203496,Covington,R. Covington,20,148,15,Made,1,27,39,66,v,Covington 15' Pullup Jump Shot (7 PTS) (Embiid 4 AST),Made Shot,Pullup Jump shot,1,0
+159,212,PT10M14.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,42,4,Made,1,29,39,68,h,Antetokounmpo 4' Driving Layup (9 PTS) (Brogdon 2 AST),Made Shot,Driving Layup Shot,1,0
+160,228,PT10M14.00S,2,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala S.FOUL (P3.T1) (J.Orr),Foul,Shooting,1,0
+161,230,PT10M14.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,30,39,69,h,Antetokounmpo Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0
+162,214,PT10M14.00S,2,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,SUB: Middleton FOR DiVincenzo,Substitution,,0,0
+163,215,PT10M14.00S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,SUB: Bledsoe FOR Brogdon,Substitution,,0,0
+164,216,PT10M14.00S,2,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,SUB: Saric FOR Muscala,Substitution,,0,0
+165,220,PT09M59.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-44,248,25,Missed,1,,,0,v,MISS Embiid 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+166,221,PT09M56.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+167,222,PT09M52.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,223,130,26,Made,1,33,39,72,h,Lopez 26' 3PT Jump Shot (9 PTS) (Antetokounmpo 2 AST),Made Shot,Jump Shot,1,0
+168,224,PT09M45.00S,2,1610612755,PHI,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,v,Shamet Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+169,224,PT09M45.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo STEAL (1 STL),,,1,0
+170,226,PT09M43.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-6,13,1,Made,1,35,39,74,h,Antetokounmpo 1' Running Dunk (12 PTS),Made Shot,Running Dunk Shot,1,0
+171,227,PT09M43.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+172,231,PT09M43.00S,2,1610612755,PHI,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,v,SUB: Simmons FOR Shamet,Substitution,,0,0
+173,233,PT09M30.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez P.FOUL (P2.T1) (N.Buchert),Foul,Personal,1,0
+174,235,PT09M17.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-5,115,12,Missed,1,,,0,v,MISS Embiid 12' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,0
+175,236,PT09M15.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+176,237,PT09M06.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,-129,232,27,Made,1,38,39,77,h,Lopez 27' 3PT Jump Shot (12 PTS) (Antetokounmpo 3 AST),Made Shot,Jump Shot,1,0
+177,239,PT08M50.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton S.FOUL (P1.T2) (J.Williams),Foul,Shooting,1,0
+178,241,PT08M50.00S,2,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,38,40,78,v,Saric Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+179,242,PT08M50.00S,2,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,MISS Saric Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+180,243,PT08M47.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+181,244,PT08M27.00S,2,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,Fultz S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,0
+182,246,PT08M27.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,39,40,79,h,Bledsoe Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+183,247,PT08M27.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,40,40,80,h,Bledsoe Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+184,248,PT08M16.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe P.FOUL (P1.T3) (J.Orr),Foul,Personal,1,0
+185,250,PT08M13.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo S.FOUL (P2.T4) (J.Williams),Foul,Shooting,1,0
+186,252,PT08M13.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,40,41,81,v,Simmons Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+187,253,PT08M13.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,0
+188,254,PT08M13.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,MISS Simmons Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+189,255,PT08M13.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+190,256,PT08M04.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-188,180,26,Made,1,43,41,84,h,Middleton 26' 3PT Jump Shot (10 PTS) (Antetokounmpo 4 AST),Made Shot,Jump Shot,1,0
+191,258,PT07M56.00S,2,1610612755,PHI,203496,Covington,R. Covington,232,39,24,Missed,1,,,0,v,MISS Covington 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+192,259,PT07M54.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+193,260,PT07M50.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,155,235,28,Made,1,46,41,87,h,Lopez 28' 3PT Jump Shot (15 PTS) (Antetokounmpo 5 AST),Made Shot,Jump Shot,1,0
+194,262,PT07M36.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,1,0
+195,264,PT07M36.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,46,42,88,v,Covington Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+196,265,PT07M36.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Ilyasova FOR Antetokounmpo,Substitution,,0,0
+197,267,PT07M36.00S,2,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,SUB: Johnson FOR Fultz,Substitution,,0,0
+198,303,PT07M36.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Redick FOR Embiid,Substitution,,0,0
+199,271,PT07M36.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,MISS Covington Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+200,272,PT07M25.00S,2,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+201,273,PT07M17.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-233,17,0,Missed,1,,,0,h,MISS Ilyasova 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+202,274,PT07M14.00S,2,1610612755,PHI,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+203,275,PT07M10.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,8,7,1,Made,1,46,44,90,v,Simmons 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,0
+204,276,PT07M04.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,20,2,Made,1,48,44,92,h,Bledsoe 2' Running Layup (4 PTS) (Middleton 1 AST),Made Shot,Running Layup Shot,1,0
+205,278,PT06M57.00S,2,1610612755,PHI,203967,Saric,D. Saric,-187,196,27,Missed,1,,,0,v,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+206,279,PT06M52.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+207,280,PT06M48.00S,2,1610612749,MIL,203503,Snell,T. Snell,-151,218,27,Missed,1,,,0,h,MISS Snell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+208,281,PT06M45.00S,2,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+209,282,PT06M32.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0
+210,282,PT06M32.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe STEAL (1 STL),,,1,0
+211,284,PT06M27.00S,2,1610612749,MIL,203503,Snell,T. Snell,-3,15,2,Made,1,50,44,94,h,Snell 2' Running Layup (2 PTS) (Bledsoe 2 AST),Made Shot,Running Layup Shot,1,0
+212,286,PT06M08.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova S.FOUL (P2.PN) (J.Williams),Foul,Shooting,1,0
+213,288,PT06M08.00S,2,1610612755,PHI,101161,Johnson,A. Johnson,0,0,0,,0,50,45,95,v,Johnson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+214,289,PT06M08.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Henson FOR Lopez,Substitution,,0,0
+215,291,PT06M08.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,0
+216,292,PT06M08.00S,2,1610612755,PHI,101161,Johnson,A. Johnson,0,0,0,,0,50,46,96,v,Johnson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+217,293,PT05M46.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,8,87,9,Missed,1,,,0,h,MISS Bledsoe 9' Jump Shot,Missed Shot,Jump Shot,1,0
+218,293,PT05M46.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (2 BLK),,,1,0
+219,295,PT05M44.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+220,296,PT05M44.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons S.FOUL (P2.T3) (J.Orr),Foul,Shooting,1,0
+221,298,PT05M44.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,51,46,97,h,Middleton Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+222,311,PT05M44.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Korkmaz FOR Covington,Substitution,,0,0
+223,301,PT05M44.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,52,46,98,h,Middleton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+224,302,PT05M32.00S,2,1610612755,PHI,200755,Redick,J. Redick,-172,-6,17,Made,1,52,48,100,v,Redick 17' Jump Shot (8 PTS) (Simmons 4 AST),Made Shot,Jump Shot,1,0
+225,305,PT05M24.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,81,146,17,Missed,1,,,0,h,MISS Bledsoe 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+226,306,PT05M20.00S,2,1610612755,PHI,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+227,308,PT05M16.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,1,0
+228,310,PT05M16.00S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+229,313,PT05M16.00S,2,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,52,49,101,v,Redick Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0
+230,314,PT05M16.00S,2,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,52,50,102,v,Redick Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,0,0
+231,315,PT05M16.00S,2,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,52,51,103,v,Redick Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,0,0
+232,316,PT04M55.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,229,119,26,Made,1,55,51,106,h,Middleton 26' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,0
+233,317,PT04M46.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova P.FOUL (P3.PN) (J.Orr),Foul,Personal,1,0
+234,319,PT04M46.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,MISS Simmons Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+235,320,PT04M46.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+236,321,PT04M46.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,0
+237,322,PT04M46.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,55,52,107,v,Simmons Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+238,323,PT04M32.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-149,220,27,Made,1,58,52,110,h,Middleton 27' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,0
+239,324,PT04M09.00S,2,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,,,0,v,Redick Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,1,0
+240,325,PT04M09.00S,2,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,,,0,h,SUB: Brogdon FOR Snell,Substitution,,0,0
+241,326,PT04M09.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,SUB: Antetokounmpo FOR Ilyasova,Substitution,,0,0
+242,327,PT04M09.00S,2,1610612755,PHI,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Embiid FOR Johnson,Substitution,,0,0
+243,331,PT03M55.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,76,130,15,Made,1,60,52,112,h,Middleton 15' Floating Jump Shot (20 PTS),Made Shot,Floating Jump shot,1,0
+244,332,PT03M42.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,1,0
+245,334,PT03M42.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,60,53,113,v,Embiid Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+246,335,PT03M42.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,60,54,114,v,Embiid Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+247,336,PT03M29.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-140,199,24,Missed,1,,,0,h,MISS Middleton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+248,337,PT03M27.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+249,338,PT03M18.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,24,162,16,Missed,1,,,0,h,MISS Bledsoe 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+250,342,PT03M18.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+251,339,PT03M11.00S,2,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,-1,4,0,Made,1,60,56,116,v,Korkmaz Cutting Layup Shot (2 PTS) (Simmons 5 AST),Made Shot,Cutting Layup Shot,1,0
+252,341,PT02M57.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-91,152,18,Made,1,62,56,118,h,Antetokounmpo 18' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,0
+253,343,PT02M49.00S,2,1610612755,PHI,203967,Saric,D. Saric,-122,248,28,Missed,1,,,0,v,MISS Saric 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+254,344,PT02M49.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+255,345,PT02M38.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,40,41,6,Missed,1,,,0,h,MISS Antetokounmpo 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+256,346,PT02M36.00S,2,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+257,347,PT02M31.00S,2,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,-44,263,27,Missed,1,,,0,v,MISS Korkmaz 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+258,348,PT02M23.00S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+259,349,PT02M21.00S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,126,252,28,Missed,1,,,0,h,MISS Brogdon 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+260,350,PT02M19.00S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+261,351,PT02M16.00S,2,1610612749,MIL,203089,Henson,J. Henson,78,10,8,Missed,1,,,0,h,MISS Henson 8' Hook Shot,Missed Shot,Hook Shot,1,0
+262,352,PT02M13.00S,2,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+263,353,PT02M08.00S,2,1610612755,PHI,200755,Redick,J. Redick,-1,1,0,Made,1,62,58,120,v,Redick Cutting Layup Shot (13 PTS) (Simmons 6 AST),Made Shot,Cutting Layup Shot,1,0
+264,355,PT01M53.00S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,13,115,12,Missed,1,,,0,h,MISS Brogdon 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+265,356,PT01M49.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+266,357,PT01M45.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson S.FOUL (P2.PN) (J.Orr),Foul,Shooting,1,0
+267,359,PT01M45.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,MISS Embiid Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+268,360,PT01M45.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+269,361,PT01M45.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,SUB: Lopez FOR Bledsoe,Substitution,,0,0
+270,362,PT01M45.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,SUB: Snell FOR Middleton,Substitution,,0,0
+271,363,PT01M45.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,SUB: DiVincenzo FOR Henson,Substitution,,0,0
+272,367,PT01M45.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,62,59,121,v,Embiid Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+273,368,PT01M33.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-5,14,1,Made,1,64,59,123,h,Antetokounmpo 1' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,1,0
+274,369,PT01M21.00S,2,1610612755,PHI,200755,Redick,J. Redick,-126,241,27,Made,1,64,62,126,v,Redick 27' 3PT Jump Shot (16 PTS) (Simmons 7 AST),Made Shot,Jump Shot,1,0
+275,371,PT01M11.00S,2,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,Korkmaz P.FOUL (P1.T4) (J.Orr),Foul,Personal,1,0
+276,373,PT01M11.00S,2,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,SUB: Covington FOR Korkmaz,Substitution,,0,0
+277,375,PT01M04.00S,2,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,170,230,29,Made,1,67,62,129,h,DiVincenzo 29' 3PT Jump Shot (3 PTS) (Antetokounmpo 6 AST),Made Shot,Jump Shot,1,0
+278,377,PT00M48.30S,2,1610612755,PHI,203954,Embiid,J. Embiid,-5,-5,1,Made,1,67,64,131,v,Embiid 1' Dunk (11 PTS) (Covington 1 AST),Made Shot,Dunk Shot,1,0
+279,379,PT00M40.30S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,7,46,5,Missed,1,,,0,h,MISS Antetokounmpo 5' Layup,Missed Shot,Layup Shot,1,0
+280,380,PT00M39.70S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+281,381,PT00M38.90S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-5,1,1,Made,1,69,64,133,h,Antetokounmpo 1' Putback Layup (18 PTS),Made Shot,Putback Layup Shot,1,0
+282,382,PT00M31.50S,2,1610612755,PHI,200755,Redick,J. Redick,74,259,27,Missed,1,,,0,v,MISS Redick 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+283,383,PT00M28.00S,2,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+284,384,PT00M10.30S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,92,251,27,Missed,1,,,0,h,MISS Antetokounmpo 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+285,385,PT00M08.80S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+286,386,PT00M08.80S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0
+287,387,PT00M06.40S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,40,4,Made,1,71,64,135,h,Antetokounmpo 4' Hook Shot (20 PTS) (Brogdon 3 AST),Made Shot,Hook Shot,1,0
+288,389,PT00M00.40S,2,1610612755,PHI,203954,Embiid,J. Embiid,-16,299,30,Missed,1,,,0,v,MISS Embiid 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+289,390,PT00M00.40S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0
+290,391,PT00M00.00S,2,0,,0,,,0,0,0,,0,71,64,135,,End of 2nd Period (10:47 PM EST),period,end,1,0
+291,396,PT12M00.00S,3,0,,0,,,0,0,0,,0,71,64,135,,Start of 3rd Period (11:02 PM EST),period,start,0,0
+292,397,PT11M39.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-5,70,7,Missed,1,,,0,h,MISS Antetokounmpo 7' Hook Shot,Missed Shot,Hook Shot,1,0
+293,398,PT11M37.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+294,399,PT11M36.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,6,6,1,Made,1,73,64,137,h,Antetokounmpo 1' Finger Roll Layup (22 PTS),Made Shot,Finger Roll Layup Shot,1,0
+295,400,PT11M15.00S,3,1610612755,PHI,203967,Saric,D. Saric,-11,11,2,Made,1,73,66,139,v,Saric 2' Cutting Layup Shot (8 PTS) (Redick 2 AST),Made Shot,Cutting Layup Shot,1,0
+296,402,PT11M03.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,24,57,6,Missed,1,,,0,h,MISS Middleton 6' Jump Shot,Missed Shot,Jump Shot,1,0
+297,403,PT11M03.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,1,0
+298,404,PT11M02.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Jump Ball Antetokounmpo vs. Covington: Tip to Lopez,Jump Ball,,1,0
+299,407,PT11M02.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,6,28,3,Made,1,75,66,141,h,Lopez 3' Layup (17 PTS) (Antetokounmpo 7 AST),Made Shot,Layup Shot,1,0
+300,409,PT11M02.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,0
+301,411,PT11M02.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,76,66,142,h,Lopez Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0
+302,412,PT10M53.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,41,42,6,Made,1,76,68,144,v,Embiid 6' Fadeaway Jumper (13 PTS) (Simmons 8 AST),Made Shot,Fadeaway Jump Shot,1,0
+303,414,PT10M33.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-36,112,12,Missed,1,,,0,h,MISS Antetokounmpo 12' Jump Shot,Missed Shot,Jump Shot,1,0
+304,415,PT10M31.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+305,416,PT10M25.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,24,22,3,Missed,1,,,0,v,MISS Simmons 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+306,417,PT10M23.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:3 Def:8),Rebound,Unknown,1,0
+307,418,PT10M21.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-114,264,29,Missed,1,,,0,h,MISS Middleton 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+308,419,PT10M16.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+309,420,PT10M05.00S,3,1610612755,PHI,203967,Saric,D. Saric,-4,273,27,Missed,1,,,0,v,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+310,421,PT10M02.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:3 Def:9),Rebound,Unknown,1,0
+311,422,PT09M57.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-158,260,30,Missed,1,,,0,h,MISS Lopez 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+312,423,PT09M54.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+313,424,PT09M50.00S,3,1610612755,PHI,200755,Redick,J. Redick,6,138,14,Missed,1,,,0,v,MISS Redick 14' Jump Shot,Missed Shot,Jump Shot,1,0
+314,425,PT09M46.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+315,426,PT09M25.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,95,244,26,Missed,1,,,0,h,MISS Middleton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+316,427,PT09M22.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+317,428,PT09M14.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,BUCKS T.Foul (Def. 3 Sec Antetokounmpo ) (J.Orr),Foul,Defense 3 Second,1,0
+318,429,PT09M14.00S,3,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,76,69,145,v,Redick Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0
+319,430,PT09M09.00S,3,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,,,0,v,Redick 3 Second Violation Turnover (P2.T10),Turnover,3 Second Violation,1,0
+320,431,PT08M56.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-11,265,27,Missed,1,,,0,h,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+321,432,PT08M53.00S,3,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,,,0,v,Redick REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+322,433,PT08M40.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,34,52,6,Missed,1,,,0,v,MISS Embiid 6' Hook Shot,Missed Shot,Hook Shot,1,0
+323,434,PT08M38.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:3 Def:10),Rebound,Unknown,1,0
+324,435,PT08M37.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo Out of Bounds - Bad Pass Turnover Turnover (P4.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+325,458,PT08M23.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0
+326,437,PT08M22.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon P.FOUL (P2.T1) (J.Williams),Foul,Personal,1,0
+327,439,PT08M19.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons OFF.Foul (P3) (J.Orr),Foul,Offensive,1,0
+328,441,PT08M19.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0
+329,442,PT08M09.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P2.T2) (J.Williams),Foul,Personal,1,0
+330,444,PT07M53.00S,3,1610612749,MIL,202339,Bledsoe,E. Bledsoe,156,209,26,Missed,1,,,0,h,MISS Bledsoe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+331,445,PT07M50.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+332,446,PT07M45.00S,3,1610612755,PHI,200755,Redick,J. Redick,-161,214,27,Missed,1,,,0,v,MISS Redick 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+333,447,PT07M42.00S,3,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+334,448,PT07M31.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,6,13,1,Missed,1,,,0,h,MISS Antetokounmpo 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+335,449,PT07M28.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+336,450,PT07M25.00S,3,1610612755,PHI,203967,Saric,D. Saric,240,29,24,Missed,1,,,0,v,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+337,451,PT07M22.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:3 Def:11),Rebound,Unknown,1,0
+338,452,PT07M15.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,105,256,28,Missed,1,,,0,h,MISS Brogdon 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+339,453,PT07M12.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+340,454,PT07M02.00S,3,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,,,0,v,Redick OFF.Foul (P1) (J.Williams),Foul,Offensive,1,0
+341,456,PT07M02.00S,3,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,,,0,v,Redick Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,1,0
+342,457,PT07M02.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+343,459,PT07M02.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,SUB: Ilyasova FOR Brogdon,Substitution,,0,0
+344,460,PT07M02.00S,3,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,,,0,v,SUB: McConnell FOR Redick,Substitution,,0,0
+345,461,PT07M02.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Muscala FOR Embiid,Substitution,,0,0
+346,465,PT06M49.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,70,141,16,Missed,1,,,0,h,MISS Middleton 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+347,466,PT06M46.00S,3,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+348,467,PT06M29.00S,3,1610612755,PHI,203967,Saric,D. Saric,11,43,4,Missed,1,,,0,v,MISS Saric 4' Layup,Missed Shot,Layup Shot,1,0
+349,467,PT06M29.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo BLOCK (2 BLK),,,1,0
+350,469,PT06M25.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+351,470,PT06M18.00S,3,1610612749,MIL,202339,Bledsoe,E. Bledsoe,138,217,26,Made,1,79,69,148,h,Bledsoe 26' 3PT Jump Shot (7 PTS) (Lopez 1 AST),Made Shot,Jump Shot,1,0
+352,472,PT06M11.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova P.FOUL (P4.T2) (J.Williams),Foul,Personal,1,0
+353,474,PT06M11.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Henson FOR Lopez,Substitution,,0,0
+354,476,PT06M02.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,45,5,Missed,1,,,0,v,MISS Simmons 5' Layup,Missed Shot,Layup Shot,1,0
+355,477,PT05M59.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+356,478,PT05M55.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton Traveling Turnover (P1.T8),Turnover,Traveling,1,0
+357,479,PT05M55.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: DiVincenzo FOR Antetokounmpo,Substitution,,0,0
+358,481,PT05M43.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0
+359,481,PT05M43.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson STEAL (2 STL),,,1,0
+360,483,PT05M39.00S,3,1610612749,MIL,202339,Bledsoe,E. Bledsoe,5,0,1,Made,1,81,69,150,h,Bledsoe 1' Running Layup (9 PTS) (Middleton 2 AST),Made Shot,Running Layup Shot,1,0
+361,485,PT05M39.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+362,486,PT05M27.00S,3,1610612755,PHI,203488,Muscala,M. Muscala,-138,222,26,Missed,1,,,0,v,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+363,487,PT05M26.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0
+364,489,PT05M26.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,SUB: Fultz FOR Simmons,Substitution,,0,0
+365,491,PT05M18.00S,3,1610612755,PHI,1628365,Fultz,M. Fultz,-81,124,15,Missed,1,,,0,v,MISS Fultz 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+366,492,PT05M16.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+367,493,PT05M03.00S,3,1610612749,MIL,202339,Bledsoe,E. Bledsoe,-114,68,13,Missed,1,,,0,h,MISS Bledsoe 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+368,494,PT05M00.00S,3,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+369,495,PT04M55.00S,3,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,Fultz Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0
+370,495,PT04M55.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton STEAL (1 STL),,,1,0
+371,497,PT04M47.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,76ers T.Foul (Def. 3 Sec Covington ) (J.Orr),Foul,Defense 3 Second,1,0
+372,498,PT04M47.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,82,69,151,h,Middleton Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,0
+373,499,PT04M47.00S,3,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,SUB: Brogdon FOR Bledsoe,Substitution,,0,0
+374,500,PT04M47.00S,3,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,SUB: Embiid FOR Saric,Substitution,,0,0
+375,503,PT04M41.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-78,257,27,Missed,1,,,0,h,MISS Middleton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+376,504,PT04M38.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:11),Rebound,Unknown,1,0
+377,505,PT04M28.00S,3,1610612755,PHI,203496,Covington,R. Covington,215,127,25,Missed,1,,,0,v,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+378,506,PT04M25.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:3 Def:11),Rebound,Unknown,1,0
+379,507,PT04M14.00S,3,1610612755,PHI,203496,Covington,R. Covington,-130,224,26,Missed,1,,,0,v,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+380,508,PT04M12.00S,3,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+381,509,PT04M05.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,11,13,2,Made,1,84,69,153,h,Middleton 2' Driving Layup (23 PTS) (DiVincenzo 2 AST),Made Shot,Driving Layup Shot,1,0
+382,511,PT03M51.00S,3,1610612755,PHI,204456,McConnell,T. McConnell,110,-22,11,Made,1,84,71,155,v,McConnell 11' Pullup Jump Shot (2 PTS) (Embiid 5 AST),Made Shot,Pullup Jump shot,1,0
+383,513,PT03M41.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-2,25,3,Missed,1,,,0,h,MISS Middleton 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+384,513,PT03M41.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid BLOCK (1 BLK),,,1,0
+385,515,PT03M41.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+386,517,PT03M41.00S,3,1610612755,PHI,204456,McConnell,T. McConnell,0,0,0,,0,,,0,v,SUB: Simmons FOR McConnell,Substitution,,0,0
+387,518,PT03M41.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Redick FOR Covington,Substitution,,0,0
+388,521,PT03M25.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-39,160,16,Missed,1,,,0,h,MISS Middleton 16' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+389,522,PT03M23.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:3 Def:12),Rebound,Unknown,1,0
+390,523,PT03M20.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton P.FOUL (P3.T3) (N.Buchert),Foul,Personal,1,0
+391,525,PT03M20.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,SUB: Antetokounmpo FOR Middleton,Substitution,,0,0
+392,527,PT03M05.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,-9,19,2,Missed,1,,,0,v,MISS Simmons 2' Layup,Missed Shot,Layup Shot,1,0
+393,528,PT03M01.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+394,529,PT02M54.00S,3,1610612749,MIL,203089,Henson,J. Henson,-123,235,27,Missed,1,,,0,h,MISS Henson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+395,530,PT02M50.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+396,531,PT02M40.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,112,252,28,Made,1,84,74,158,v,Embiid 28' 3PT Jump Shot (16 PTS) (Fultz 4 AST),Made Shot,Jump Shot,1,0
+397,533,PT02M33.00S,3,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,Fultz S.FOUL (P2.T3) (J.Orr),Foul,Shooting,1,0
+398,537,PT02M33.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,MISS Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+399,542,PT02M33.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0
+400,538,PT02M33.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,85,74,159,h,Antetokounmpo Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+401,535,PT02M33.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,SUB: Snell FOR Ilyasova,Substitution,,0,0
+402,539,PT02M17.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,Henson S.FOUL (P3.T4) (J.Williams),Foul,Shooting,1,0
+403,541,PT02M17.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,85,75,160,v,Embiid Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+404,543,PT02M17.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,MISS Embiid Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+405,544,PT02M14.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:3 Def:12),Rebound,Unknown,1,0
+406,545,PT01M58.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo Bad Pass Turnover (P5.T9),Turnover,Bad Pass,1,0
+407,545,PT01M58.00S,3,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,Fultz STEAL (2 STL),,,1,0
+408,547,PT01M53.00S,3,1610612755,PHI,1628365,Fultz,M. Fultz,11,17,2,Missed,1,,,0,v,MISS Fultz 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+409,547,PT01M53.00S,3,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo BLOCK (2 BLK),,,1,0
+410,548,PT01M49.00S,3,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+411,549,PT01M45.00S,3,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,-234,-1,0,Missed,1,,,0,h,MISS DiVincenzo 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+412,550,PT01M42.00S,3,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,,,0,v,Redick REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+413,551,PT01M31.00S,3,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala Lost Ball Turnover (P1.T15),Turnover,Lost Ball,1,0
+414,551,PT01M31.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo STEAL (2 STL),,,1,0
+415,553,PT01M28.00S,3,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,9,13,2,Made,1,87,75,162,h,DiVincenzo 2' Running Dunk (5 PTS) (Antetokounmpo 8 AST),Made Shot,Running Dunk Shot,1,0
+416,555,PT01M07.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,1,0
+417,557,PT01M07.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,87,76,163,v,Embiid Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+418,558,PT01M07.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,SUB: Lopez FOR Henson,Substitution,,0,0
+419,560,PT01M07.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,87,77,164,v,Embiid Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+420,561,PT00M57.50S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,70,259,27,Missed,1,,,0,h,MISS Antetokounmpo 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+421,562,PT00M53.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:3 Def:13),Rebound,Unknown,1,0
+422,563,PT00M36.90S,3,1610612755,PHI,200755,Redick,J. Redick,-51,169,18,Made,1,87,79,166,v,Redick 18' Jump Shot (19 PTS) (Embiid 6 AST),Made Shot,Jump Shot,1,0
+423,565,PT00M26.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,4,10,1,Made,1,89,79,168,h,Brogdon 1' Layup (4 PTS),Made Shot,Layup Shot,1,0
+424,566,PT00M07.50S,3,1610612755,PHI,1627732,Simmons,B. Simmons,-2,6,1,Made,1,89,81,170,v,Simmons 1' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,1,0
+425,567,PT00M01.40S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,10,10,1,Made,1,91,81,172,h,Brogdon 1' Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,1,0
+426,568,PT00M01.40S,3,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,Fultz S.FOUL (P3.T4) (N.Buchert),Foul,Shooting,1,0
+427,570,PT00M01.40S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,92,81,173,h,Brogdon Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+428,572,PT00M00.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-147,365,39,Missed,1,,,0,v,MISS Embiid 39' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+429,573,PT00M00.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0
+430,574,PT00M00.00S,3,0,,0,,,0,0,0,,0,92,81,173,,End of 3rd Period (11:31 PM EST),period,end,1,0
+431,575,PT12M00.00S,4,0,,0,,,0,0,0,,0,92,81,173,,Start of 4th Period (11:34 PM EST),period,start,0,0
+432,576,PT11M42.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,11,129,13,Made,1,92,83,175,v,Embiid 13' Pullup Jump Shot (21 PTS) (Redick 3 AST),Made Shot,Pullup Jump shot,1,0
+433,578,PT11M29.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,-2,6,1,Missed,1,,,0,h,MISS Brogdon 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+434,578,PT11M29.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid BLOCK (2 BLK),,,1,0
+435,580,PT11M25.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:3 Def:14),Rebound,Unknown,1,0
+436,581,PT11M23.00S,4,1610612755,PHI,203488,Muscala,M. Muscala,-139,220,26,Missed,1,,,0,v,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+437,582,PT11M18.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:3 Def:13),Rebound,Unknown,1,0
+438,583,PT11M14.00S,4,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala P.FOUL (P4.T1) (J.Orr),Foul,Personal,1,0
+439,585,PT11M04.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,10,1,Made,1,94,83,177,h,Lopez 1' Layup (20 PTS) (Antetokounmpo 9 AST),Made Shot,Layup Shot,1,0
+440,587,PT11M04.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,1,0
+441,589,PT11M04.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,95,83,178,h,Lopez Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,0
+442,590,PT10M54.00S,4,1610612755,PHI,203488,Muscala,M. Muscala,-106,125,16,Made,1,95,85,180,v,Muscala 16' Jump Shot (6 PTS) (Simmons 9 AST),Made Shot,Jump Shot,1,0
+443,592,PT10M36.00S,4,1610612749,MIL,203503,Snell,T. Snell,150,227,27,Missed,1,,,0,h,MISS Snell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+444,593,PT10M33.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+445,594,PT10M30.00S,4,1610612755,PHI,200755,Redick,J. Redick,110,271,29,Missed,1,,,0,v,MISS Redick 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+446,595,PT10M28.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+447,597,PT10M12.00S,4,1610612749,MIL,203503,Snell,T. Snell,230,46,0,Made,1,98,85,183,h,Snell 3PT Jump Shot (5 PTS) (Antetokounmpo 10 AST),Made Shot,Jump Shot,1,0
+448,599,PT10M01.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon P.FOUL (P4.T1) (J.Williams),Foul,Personal,1,0
+449,601,PT10M01.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,SUB: Bledsoe FOR Brogdon,Substitution,,0,0
+450,602,PT10M01.00S,4,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,SUB: Saric FOR Muscala,Substitution,,0,0
+451,605,PT09M53.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-135,225,26,Missed,1,,,0,v,MISS Embiid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+452,606,PT09M50.00S,4,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+453,607,PT09M49.00S,4,1610612755,PHI,203967,Saric,D. Saric,1,1,0,Made,1,98,87,185,v,Saric Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,0
+454,608,PT09M41.00S,4,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,Fultz P.FOUL (P4.T3) (N.Buchert),Foul,Personal,1,0
+455,610,PT09M23.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-116,253,28,Missed,1,,,0,h,MISS Antetokounmpo 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+456,611,PT09M20.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+457,612,PT09M16.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,25,3,Missed,1,,,0,v,MISS Embiid 3' Dunk,Missed Shot,Dunk Shot,1,0
+458,612,PT09M16.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (1 BLK),,,1,0
+459,614,PT09M12.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+460,619,PT09M08.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,9,179,18,Missed,1,,,0,h,MISS Antetokounmpo 18' Jump Shot,Missed Shot,Jump Shot,1,0
+461,620,PT09M08.00S,4,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+462,621,PT08M53.00S,4,1610612755,PHI,1628365,Fultz,M. Fultz,237,26,24,Made,1,98,90,188,v,Fultz 24' 3PT Jump Shot (5 PTS) (Redick 4 AST),Made Shot,Jump Shot,1,0
+463,623,PT08M29.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,-106,162,19,Made,1,100,90,190,h,Bledsoe 19' Jump Shot (11 PTS),Made Shot,Jump Shot,1,0
+464,624,PT08M18.00S,4,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo P.FOUL (P1.T2) (J.Orr),Foul,Personal,1,0
+465,626,PT08M18.00S,4,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,SUB: Middleton FOR DiVincenzo,Substitution,,0,0
+466,627,PT08M18.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Muscala FOR Embiid,Substitution,,0,0
+467,630,PT08M18.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Ilyasova FOR Lopez,Substitution,,0,0
+468,631,PT08M18.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Brogdon FOR Antetokounmpo,Substitution,,0,0
+469,635,PT08M08.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons Offensive Charge Foul (P4.T4) (J.Williams),Foul,Offensive Charge,1,0
+470,637,PT08M08.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons Offensive Foul Turnover (P3.T16),Turnover,Offensive Foul Turnover,1,0
+471,638,PT07M59.00S,4,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala P.FOUL (P5.PN) (J.Williams),Foul,Personal,1,0
+472,640,PT07M54.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-9,260,26,Missed,1,,,0,h,MISS Middleton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+473,641,PT07M54.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0
+474,642,PT07M54.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,Ilyasova L.B.FOUL (P5.T3) (J.Orr),Foul,Loose Ball,1,0
+475,644,PT07M54.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+476,645,PT07M54.00S,4,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,,,0,h,SUB: Henson FOR Snell,Substitution,,0,0
+477,646,PT07M54.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,SUB: Antetokounmpo FOR Ilyasova,Substitution,,0,0
+478,649,PT07M35.00S,4,1610612755,PHI,203488,Muscala,M. Muscala,-160,209,26,Missed,1,,,0,v,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+479,650,PT07M32.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:3 Def:14),Rebound,Unknown,1,0
+480,651,PT07M25.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton OFF.Foul (P4) (J.Orr),Foul,Offensive,1,0
+481,653,PT07M25.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0
+482,654,PT07M25.00S,4,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,,,0,v,SUB: Covington FOR Redick,Substitution,,0,0
+483,656,PT07M16.00S,4,1610612755,PHI,203496,Covington,R. Covington,-100,131,16,Missed,1,,,0,v,MISS Covington 16' Jump Shot,Missed Shot,Jump Shot,1,0
+484,657,PT07M14.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,1,0
+485,661,PT06M58.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,4,2,0,Made,1,102,90,192,h,Antetokounmpo Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,0
+486,662,PT06M50.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,-5,14,1,Missed,1,,,0,v,MISS Simmons 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+487,663,PT06M47.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+488,664,PT06M46.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,2,15,2,Made,1,104,90,194,h,Antetokounmpo 2' Running Layup (27 PTS) (Middleton 3 AST),Made Shot,Running Layup Shot,1,0
+489,666,PT06M46.00S,4,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,Fultz S.FOUL (P5.PN) (J.Orr),Foul,Shooting,1,0
+490,668,PT06M46.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,,,0,h,SUB: Lopez FOR Henson,Substitution,,0,0
+491,669,PT06M46.00S,4,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,SUB: Embiid FOR Muscala,Substitution,,0,0
+492,672,PT06M46.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,105,90,195,h,Antetokounmpo Free Throw 1 of 1 (28 PTS),Free Throw,Free Throw 1 of 1,0,0
+493,673,PT06M39.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez P.FOUL (P3.T4) (J.Williams),Foul,Personal,1,0
+494,675,PT06M26.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,7,67,7,Made,1,105,92,197,v,Embiid 7' Hook Shot (23 PTS),Made Shot,Hook Shot,1,0
+495,676,PT06M12.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,5,10,1,Made,1,107,92,199,h,Brogdon 1' Driving Layup (9 PTS) (Bledsoe 3 AST),Made Shot,Driving Layup Shot,1,0
+496,678,PT06M11.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+497,679,PT06M11.00S,4,1610612755,PHI,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,v,SUB: Redick FOR Fultz,Substitution,,0,0
+498,681,PT05M54.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,-2,19,2,Made,1,107,94,201,v,Simmons 2' Driving Reverse Dunk Shot (14 PTS),Made Shot,Driving Reverse Dunk Shot,1,0
+499,682,PT05M46.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,20,270,27,Made,1,110,94,204,h,Bledsoe 27' 3PT Jump Shot (14 PTS) (Middleton 4 AST),Made Shot,Jump Shot,1,0
+500,684,PT05M29.00S,4,1610612755,PHI,203967,Saric,D. Saric,6,22,2,Made,1,110,96,206,v,Saric 2' Cutting Layup Shot (12 PTS) (Redick 5 AST),Made Shot,Cutting Layup Shot,1,0
+501,686,PT05M20.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,-148,249,29,Missed,1,,,0,h,MISS Bledsoe 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+502,689,PT05M20.00S,4,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+503,687,PT05M12.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,128,239,27,Made,1,110,99,209,v,Embiid 27' 3PT Jump Shot (26 PTS) (Simmons 10 AST),Made Shot,Jump Shot,1,0
+504,691,PT04M50.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,223,-24,0,Missed,1,,,0,h,MISS Bledsoe 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+505,692,PT04M48.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+506,693,PT04M44.00S,4,1610612755,PHI,203967,Saric,D. Saric,-225,100,25,Made,1,110,102,212,v,Saric 25' 3PT Jump Shot (15 PTS) (Simmons 11 AST),Made Shot,Jump Shot,1,0
+507,695,PT04M40.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+508,696,PT04M28.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,4,12,1,Made,1,112,102,214,h,Antetokounmpo 1' Cutting Dunk Shot (30 PTS) (Bledsoe 4 AST),Made Shot,Cutting Dunk Shot,1,0
+509,698,PT04M05.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-26,55,6,Missed,1,,,0,v,MISS Embiid 6' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+510,698,PT04M05.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo BLOCK (3 BLK),,,1,0
+511,699,PT04M03.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+512,700,PT03M52.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,-11,190,19,Missed,1,,,0,h,MISS Bledsoe 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+513,701,PT03M49.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:3 Def:15),Rebound,Unknown,1,0
+514,703,PT03M39.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,7,24,3,Missed,1,,,0,v,MISS Simmons 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+515,703,PT03M39.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (2 BLK),,,1,0
+516,705,PT03M39.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0
+517,707,PT03M37.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,16,285,29,Missed,1,,,0,v,MISS Embiid 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+518,708,PT03M34.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:3 Def:9),Rebound,Unknown,1,0
+519,709,PT03M32.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,8,34,3,Missed,1,,,0,v,MISS Simmons 3' Hook Shot,Missed Shot,Hook Shot,1,0
+520,710,PT03M32.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+521,711,PT03M32.00S,4,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric L.B.FOUL (P3.PN) (J.Williams),Foul,Loose Ball,1,0
+522,713,PT03M32.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,113,102,215,h,Middleton Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0
+523,714,PT03M32.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Ilyasova FOR Antetokounmpo,Substitution,,0,0
+524,716,PT03M32.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,114,102,216,h,Middleton Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+525,717,PT03M24.00S,4,1610612755,PHI,200755,Redick,J. Redick,-107,255,28,Missed,1,,,0,v,MISS Redick 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+526,717,PT03M24.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe BLOCK (1 BLK),,,1,0
+527,718,PT03M22.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+528,719,PT03M21.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0
+529,720,PT03M21.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe P.FOUL (P3.PN) (J.Orr),Foul,Personal,1,0
+530,722,PT03M21.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,114,103,217,v,Embiid Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0
+531,723,PT03M21.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,114,104,218,v,Embiid Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0
+532,724,PT03M18.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+533,725,PT03M18.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,,,0,h,SUB: Antetokounmpo FOR Ilyasova,Substitution,,0,0
+534,727,PT03M06.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,3,25,3,Missed,1,,,0,h,MISS Antetokounmpo 3' Hook Shot,Missed Shot,Hook Shot,1,0
+535,728,PT03M04.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:3 Def:16),Rebound,Unknown,1,0
+536,729,PT02M48.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,98,30,10,Missed,1,,,0,v,MISS Simmons 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+537,730,PT02M44.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+538,731,PT02M30.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,8,15,2,Missed,1,,,0,h,MISS Brogdon 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+539,731,PT02M30.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid BLOCK (3 BLK),,,1,0
+540,733,PT02M27.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:3 Def:10),Rebound,Unknown,1,0
+541,734,PT02M21.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,19,37,4,Made,1,114,106,220,v,Embiid 4' Turnaround Hook Shot (30 PTS) (Redick 6 AST),Made Shot,Turnaround Hook Shot,1,0
+542,736,PT02M08.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons P.FOUL (P5.PN) (J.Orr),Foul,Personal,1,0
+543,738,PT02M08.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,115,106,221,h,Antetokounmpo Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,0,0
+544,739,PT02M08.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,116,106,222,h,Antetokounmpo Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0
+545,740,PT02M05.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo P.FOUL (P4.PN) (J.Orr),Foul,Personal,1,0
+546,742,PT02M05.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,MISS Simmons Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+547,743,PT02M05.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+548,744,PT02M05.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,MISS Simmons Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+549,745,PT02M02.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:3 Def:15),Rebound,Unknown,1,0
+550,746,PT01M45.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,4,10,1,Made,1,118,106,224,h,Bledsoe 1' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,0
+551,747,PT01M45.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+552,748,PT01M32.00S,4,1610612755,PHI,203496,Covington,R. Covington,90,261,28,Missed,1,,,0,v,MISS Covington 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+553,749,PT01M31.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+554,750,PT01M31.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Personal Take Foul (P3.PN) (J.Williams),Foul,Personal Take,1,0
+555,753,PT01M31.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,SUB: DiVincenzo FOR Middleton,Substitution,,0,0
+556,754,PT01M31.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Ilyasova FOR Antetokounmpo,Substitution,,0,0
+557,755,PT01M31.00S,4,1610612755,PHI,203967,Saric,D. Saric,0,0,0,,0,,,0,v,SUB: Muscala FOR Saric,Substitution,,0,0
+558,756,PT01M31.00S,4,1610612755,PHI,200755,Redick,J. Redick,0,0,0,,0,,,0,v,SUB: Korkmaz FOR Redick,Substitution,,0,0
+559,757,PT01M31.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Fultz FOR Embiid,Substitution,,0,0
+560,758,PT01M31.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,SUB: Shamet FOR Simmons,Substitution,,0,0
+561,759,PT01M31.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: McConnell FOR Covington,Substitution,,0,0
+562,752,PT01M31.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,119,106,225,h,Bledsoe Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+563,767,PT01M31.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,120,106,226,h,Bledsoe Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+564,781,PT01M14.00S,4,1610612755,PHI,1629013,Shamet,L. Shamet,72,20,7,Missed,1,,,0,v,MISS Shamet 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+565,783,PT01M13.00S,4,1610612755,PHI,203488,Muscala,M. Muscala,0,0,0,,0,,,0,v,Muscala REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+566,784,PT01M12.00S,4,1610612755,PHI,203488,Muscala,M. Muscala,-8,3,1,Made,1,120,108,228,v,Muscala 1' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,0
+567,785,PT01M12.00S,4,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo Violation:Defensive Goaltending (N.Buchert),Violation,Defensive Goaltending,1,0
+568,769,PT00M59.00S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,-127,100,16,Missed,1,,,0,h,MISS Bledsoe 16' Jump Shot,Missed Shot,Jump Shot,1,0
+569,770,PT00M56.50S,4,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+570,771,PT00M38.40S,4,1610612755,PHI,1629013,Shamet,L. Shamet,52,171,18,Missed,1,,,0,v,MISS Shamet 18' Jump Shot,Missed Shot,Jump Shot,1,0
+571,772,PT00M35.70S,4,1610612749,MIL,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+572,773,PT00M20.20S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,-2,17,2,Missed,1,,,0,h,MISS Brogdon 2' Layup,Missed Shot,Layup Shot,1,0
+573,774,PT00M19.70S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+574,776,PT00M19.70S,4,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,SUB: Henson FOR Bledsoe,Substitution,,0,0
+575,777,PT00M19.70S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Snell FOR Lopez,Substitution,,0,0
+576,780,PT00M08.20S,4,1610612749,MIL,203503,Snell,T. Snell,-74,268,28,Made,1,123,108,231,h,Snell 28' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+577,786,PT00M00.00S,4,0,,0,,,0,0,0,,0,123,108,231,,End of 4th Period (12:16 AM EST),period,end,1,0

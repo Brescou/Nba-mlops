@@ -1,0 +1,466 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:12 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Jump Ball Howard vs. Bosh: Tip to Chalmers,Jump Ball,,1,0
+3,2,PT11M43.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden S.FOUL (P1.T1),Foul,Shooting,1,0
+4,3,PT11M43.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,1,1,v,Bosh Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+5,5,PT11M43.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,2,2,v,Bosh Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+6,8,PT11M20.00S,1,1610612745,HOU,201935,Harden,J. Harden,239,14,24,Missed,1,0,0,0,h,MISS Harden 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+7,9,PT11M19.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+8,10,PT11M15.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+9,10,PT11M15.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas STEAL (1 STL),,,1,0
+10,11,PT11M09.00S,1,1610612745,HOU,201935,Harden,J. Harden,135,206,25,Made,1,3,2,5,h,Harden 25' 3PT Jump Shot (3 PTS) (Beverley 1 AST),Made Shot,Jump Shot,1,0
+11,12,PT10M48.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+12,12,PT10M48.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (1 STL),,,1,0
+13,13,PT10M45.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-15,3,2,Made,1,5,2,7,h,Motiejunas 2' Layup (2 PTS) (Ariza 1 AST),Made Shot,Layup Shot,1,0
+14,14,PT10M24.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,-112,220,25,Missed,1,0,0,0,v,MISS Bosh 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+15,15,PT10M23.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+16,16,PT10M17.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+17,16,PT10M17.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng STEAL (1 STL),,,1,0
+18,17,PT10M13.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley S.FOUL (P1.T2),Foul,Shooting,1,0
+19,18,PT10M13.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,5,3,8,v,Wade Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+20,20,PT10M13.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,5,4,9,v,Wade Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+21,23,PT09M58.00S,1,1610612745,HOU,2730,Howard,D. Howard,50,19,5,Missed,1,0,0,0,h,MISS Howard 5' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,0
+22,24,PT09M57.00S,1,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,Andersen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+23,25,PT09M49.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+24,25,PT09M49.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (2 STL),,,1,0
+25,26,PT09M48.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers C.P.FOUL (P1.T1),Foul,Clear Path,1,0
+26,27,PT09M48.00S,1,0,,26,Longley,L. Longley,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+27,28,PT09M48.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,6,4,10,h,Beverley Free Throw Clear Path 1 of 2 (1 PTS),Free Throw,Free Throw Clear Path 1 of 2,0,0
+28,30,PT09M48.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,7,4,11,h,Beverley Free Throw Clear Path 2 of 2 (2 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,0
+29,33,PT09M28.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,42,3,4,Made,1,9,4,13,h,Ariza 4' Driving Layup (2 PTS) (Motiejunas 1 AST),Made Shot,Driving Layup Shot,1,0
+30,35,PT09M04.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+31,36,PT08M52.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0
+32,37,PT08M31.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,151,146,21,Made,1,9,6,15,v,Bosh 21' Jump Shot (4 PTS) (Chalmers 1 AST),Made Shot,Jump Shot,1,0
+33,38,PT08M24.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Traveling Turnover (P1.T3),Turnover,Traveling,1,0
+34,39,PT08M11.00S,1,1610612748,MIA,2548,Wade,D. Wade,-81,142,16,Made,1,9,8,17,v,Wade 16' Turnaround Jump Shot (4 PTS) (Chalmers 2 AST),Made Shot,Turnaround Jump Shot,1,0
+35,40,PT08M01.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,121,225,26,Missed,1,0,0,0,h,MISS Beverley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+36,41,PT08M00.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+37,42,PT07M49.00S,1,1610612748,MIA,2736,Deng,L. Deng,-7,-8,1,Made,1,9,10,19,v,Deng 1' Layup (2 PTS) (Chalmers 3 AST),Made Shot,Layup Shot,1,0
+38,43,PT07M39.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,-89,235,25,Missed,1,0,0,0,h,MISS Ariza 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+39,44,PT07M38.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+40,45,PT07M32.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,3,0,Missed,1,0,0,0,v,MISS Deng  Layup,Missed Shot,Layup Shot,1,0
+41,47,PT07M31.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+42,46,PT07M31.00S,1,1610612748,MIA,2736,Deng,L. Deng,1,-6,1,Made,1,9,12,21,v,Deng 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0
+43,48,PT07M21.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas OFF.Foul (P1),Foul,Offensive,1,0
+44,49,PT07M21.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas Foul Turnover (P1.T4),Turnover,Foul,1,0
+45,50,PT07M21.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,SUB: Granger FOR Bosh,Substitution,,0,0
+46,51,PT07M01.00S,1,1610612748,MIA,2548,Wade,D. Wade,118,126,17,Missed,1,0,0,0,v,MISS Wade 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+47,52,PT07M00.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+48,53,PT06M50.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,6,83,8,Made,1,11,12,23,h,Motiejunas 8' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,0
+49,54,PT06M50.00S,1,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,0,0,0,v,Granger S.FOUL (P1.T2),Foul,Shooting,1,0
+50,55,PT06M50.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,12,12,24,h,Motiejunas Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+51,58,PT06M34.00S,1,1610612748,MIA,101122,Granger,D. Granger,37,257,26,Missed,1,0,0,0,v,MISS Granger 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+52,59,PT06M32.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+53,60,PT06M29.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+54,60,PT06M29.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (3 STL),,,1,0
+55,61,PT06M25.00S,1,1610612745,HOU,201935,Harden,J. Harden,-5,22,2,Made,1,14,12,26,h,Harden 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+56,62,PT06M25.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+57,65,PT06M07.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade Traveling Turnover (P2.T6),Turnover,Traveling,1,0
+58,67,PT06M01.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+59,67,PT06M01.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers STEAL (1 STL),,,1,0
+60,68,PT05M53.00S,1,1610612748,MIA,2365,Andersen,C. Andersen,0,1,0,Made,1,14,14,28,v,Andersen  Alley Oop Dunk (2 PTS) (Chalmers 4 AST),Made Shot,Alley Oop Dunk Shot,1,0
+61,69,PT05M39.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-65,33,7,Made,1,16,14,30,h,Motiejunas 7' Turnaround Hook Shot (7 PTS) (Ariza 2 AST),Made Shot,Turnaround Hook Shot,1,0
+62,70,PT05M19.00S,1,1610612748,MIA,2736,Deng,L. Deng,133,86,16,Made,1,16,16,32,v,Deng 16' Pullup Bank Shot (6 PTS) (Andersen 1 AST),Made Shot,Pullup Bank shot,1,0
+63,71,PT05M00.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-67,6,7,Made,1,18,16,34,h,Motiejunas 7' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,1,0
+64,72,PT04M46.00S,1,1610612748,MIA,2548,Wade,D. Wade,-21,9,2,Missed,1,0,0,0,v,MISS Wade 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+65,73,PT04M45.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+66,74,PT04M36.00S,1,1610612745,HOU,201935,Harden,J. Harden,-168,181,25,Missed,1,0,0,0,h,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+67,75,PT04M35.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+68,76,PT04M24.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,15,1,2,Missed,1,0,0,0,v,MISS Chalmers 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+69,77,PT04M23.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+70,78,PT04M21.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,70,239,25,Made,1,18,19,37,v,Chalmers 25' 3PT Jump Shot (3 PTS) (Deng 1 AST),Made Shot,Jump Shot,1,0
+71,79,PT04M05.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,12,3,1,Missed,1,0,0,0,h,MISS Ariza 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+72,80,PT04M04.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+73,81,PT03M45.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P1.T3),Foul,Shooting,1,0
+74,82,PT03M45.00S,1,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,18,20,38,v,Granger Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+75,84,PT03M45.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,SUB: Ennis FOR Chalmers,Substitution,,0,0
+76,85,PT03M45.00S,1,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,SUB: Bosh FOR Andersen,Substitution,,0,0
+77,86,PT03M45.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,SUB: Terry FOR Beverley,Substitution,,0,0
+78,87,PT03M45.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Smith FOR Howard,Substitution,,0,0
+79,90,PT03M45.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,SUB: Cole FOR Wade,Substitution,,0,0
+80,88,PT03M45.00S,1,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,18,21,39,v,Granger Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+81,91,PT03M26.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-71,0,7,Missed,1,0,0,0,h,MISS Motiejunas 7' Jump Shot,Missed Shot,Jump Shot,1,0
+82,92,PT03M25.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+83,93,PT03M05.00S,1,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,0,0,0,v,Granger Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+84,93,PT03M05.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden STEAL (1 STL),,,1,0
+85,94,PT03M00.00S,1,1610612745,HOU,201935,Harden,J. Harden,-13,6,1,Missed,1,0,0,0,h,MISS Harden 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+86,95,PT02M59.00S,1,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,0,0,0,v,Granger REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+87,96,PT02M53.00S,1,1610612748,MIA,203516,Ennis III,J. Ennis III,187,178,26,Missed,1,0,0,0,v,MISS Ennis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+88,97,PT02M50.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,1,0
+89,98,PT02M50.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+90,100,PT02M50.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Ariza,Substitution,,0,0
+91,102,PT02M26.00S,1,1610612745,HOU,1891,Terry,J. Terry,-229,39,0,Missed,1,0,0,0,h,MISS Terry  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+92,103,PT02M25.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+93,104,PT02M05.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,62,80,10,Made,1,18,23,41,v,Bosh 10' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+94,105,PT01M45.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,-228,34,0,Made,1,21,23,44,h,Brewer  3PT Jump Shot (3 PTS) (Harden 1 AST),Made Shot,Jump Shot,1,0
+95,106,PT01M26.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas Shooting Block Foul (P2.T4),Foul,Shooting Block,1,0
+96,107,PT01M26.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,21,24,45,v,Bosh Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+97,109,PT01M26.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,SUB: Papanikolaou FOR Motiejunas,Substitution,,0,0
+98,110,PT01M26.00S,1,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,SUB: Shaw. Williams FOR Deng,Substitution,,0,0
+99,111,PT01M26.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,21,25,46,v,Bosh Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+100,114,PT01M08.00S,1,1610612745,HOU,1891,Terry,J. Terry,-8,28,3,Missed,1,0,0,0,h,MISS Terry 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+101,115,PT01M06.00S,1,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+102,116,PT00M59.30S,1,1610612745,HOU,201935,Harden,J. Harden,7,-3,1,Made,1,23,25,48,h,Harden 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0
+103,117,PT00M36.90S,1,1610612748,MIA,202708,Cole,N. Cole,-76,219,23,Made,1,23,27,50,v,Cole 23' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+104,118,PT00M13.50S,1,1610612745,HOU,201935,Harden,J. Harden,140,58,15,Missed,1,0,0,0,h,MISS Harden 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+105,119,PT00M13.50S,1,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+106,120,PT00M13.50S,1,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,Ennis L.B.FOUL (P1.T3),Foul,Loose Ball,1,0
+107,122,PT00M00.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,-234,31,24,Missed,1,0,0,0,h,MISS Brewer 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+108,123,PT00M00.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+109,124,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,27,50,,End of 1st Period (8:38 PM EST),period,end,0,0
+110,126,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,27,50,,Start of 2nd Period (8:40 PM EST),period,start,0,0
+111,127,PT11M48.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh S.FOUL (P1.T1),Foul,Shooting,1,0
+112,128,PT11M48.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,24,27,51,h,Howard Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+113,130,PT11M48.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,25,27,52,h,Howard Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+114,133,PT11M29.00S,2,1610612748,MIA,101122,Granger,D. Granger,75,113,14,Missed,1,0,0,0,v,MISS Granger 14' Jump Shot,Missed Shot,Jump Shot,1,0
+115,134,PT11M27.00S,2,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+116,136,PT11M20.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+117,137,PT11M08.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Violation:Kicked Ball,Violation,Kicked Ball,0,0
+118,138,PT10M56.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer P.FOUL (P1.T1),Foul,Personal,1,0
+119,139,PT10M50.00S,2,1610612748,MIA,202708,Cole,N. Cole,-2,-5,1,Made,1,25,29,54,v,Cole 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+120,140,PT10M27.00S,2,1610612745,HOU,2730,Howard,D. Howard,-19,3,2,Made,1,27,29,56,h,Howard 2' Jump Hook Shot (4 PTS) (Brewer 1 AST),Made Shot,Jump Hook Shot,1,0
+121,141,PT10M13.00S,2,1610612748,MIA,200761,Williams,S. Williams,43,258,26,Missed,1,0,0,0,v,MISS Shaw. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+122,142,PT10M11.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+123,143,PT10M03.00S,2,1610612745,HOU,2746,Smith,J. Smith,18,6,2,Missed,1,0,0,0,h,MISS Smith 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,0
+124,145,PT10M02.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+125,144,PT10M02.00S,2,1610612745,HOU,2730,Howard,D. Howard,7,0,1,Made,1,29,29,58,h,Howard 1' Tip Shot (6 PTS),Made Shot,Tip Shot,1,0
+126,146,PT09M45.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,-93,138,17,Missed,1,0,0,0,v,MISS Bosh 17' Jump Shot,Missed Shot,Jump Shot,1,0
+127,147,PT09M44.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+128,148,PT09M36.00S,2,1610612745,HOU,2730,Howard,D. Howard,-2,23,2,Missed,1,0,0,0,h,MISS Howard 2' Layup,Missed Shot,Layup Shot,1,0
+129,148,PT09M36.00S,2,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,Ennis BLOCK (1 BLK),,,1,0
+130,149,PT09M35.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+131,150,PT09M34.00S,2,1610612745,HOU,2730,Howard,D. Howard,6,4,1,Made,1,31,29,60,h,Howard 1' Layup (8 PTS),Made Shot,Layup Shot,1,0
+132,151,PT09M15.00S,2,1610612748,MIA,101122,Granger,D. Granger,-141,86,17,Missed,1,0,0,0,v,MISS Granger 17' Jump Shot,Missed Shot,Jump Shot,1,0
+133,152,PT09M14.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+134,153,PT09M06.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,231,50,24,Made,1,34,29,63,h,Brewer 24' 3PT Jump Shot (6 PTS) (Terry 1 AST),Made Shot,Jump Shot,1,0
+135,154,PT09M05.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+136,157,PT09M05.00S,2,1610612748,MIA,200761,Williams,S. Williams,0,0,0,,0,0,0,0,v,SUB: Whiteside FOR Shaw. Williams,Substitution,,0,0
+137,158,PT09M04.00S,2,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,Ennis Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0
+138,158,PT09M04.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer STEAL (1 STL),,,1,0
+139,159,PT09M00.00S,2,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,-2,-2,0,Made,1,36,29,65,h,Papanikolaou  Layup (2 PTS) (Brewer 2 AST),Made Shot,Layup Shot,1,0
+140,160,PT08M49.00S,2,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,Cole Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+141,161,PT08M32.00S,2,1610612745,HOU,2730,Howard,D. Howard,-65,0,7,Made,1,38,29,67,h,Howard 7' Jump Hook Shot (10 PTS),Made Shot,Jump Hook Shot,1,0
+142,162,PT08M05.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith S.FOUL (P1.T2),Foul,Shooting,1,0
+143,163,PT08M05.00S,2,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,MISS Ennis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+144,164,PT08M05.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+145,165,PT08M05.00S,2,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,0,0,0,v,SUB: Wade FOR Granger,Substitution,,0,0
+146,166,PT08M05.00S,2,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,SUB: Chalmers FOR Cole,Substitution,,0,0
+147,167,PT08M05.00S,2,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,MISS Ennis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+148,170,PT08M03.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+149,169,PT08M03.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,4,7,1,Made,1,38,31,69,v,Whiteside 1' Tip Shot (2 PTS),Made Shot,Tip Shot,1,0
+150,172,PT07M42.00S,2,1610612745,HOU,2730,Howard,D. Howard,4,12,1,Made,1,40,31,71,h,Howard 1' Turnaround Jump Shot (12 PTS) (Terry 2 AST),Made Shot,Turnaround Jump Shot,1,0
+151,173,PT07M29.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,1,0,Made,1,40,33,73,v,Whiteside  Alley Oop Dunk (4 PTS) (Chalmers 5 AST),Made Shot,Alley Oop Dunk Shot,1,0
+152,174,PT07M06.00S,2,1610612745,HOU,2730,Howard,D. Howard,-19,12,2,Made,1,42,33,75,h,Howard 2' Finger Roll Layup (14 PTS),Made Shot,Finger Roll Layup Shot,1,0
+153,175,PT06M45.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,1,0,Made,1,42,35,77,v,Wade  Driving Slam Dunk (6 PTS),Made Shot,Driving Slam Dunk Shot,1,0
+154,176,PT06M27.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside S.FOUL (P1.T2),Foul,Shooting,1,0
+155,177,PT06M27.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+156,178,PT06M27.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0
+157,179,PT06M27.00S,2,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,SUB: Deng FOR Ennis,Substitution,,0,0
+158,180,PT06M27.00S,2,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,SUB: Ariza FOR Papanikolaou,Substitution,,0,0
+159,181,PT06M27.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,SUB: Harden FOR Brewer,Substitution,,0,0
+160,182,PT06M27.00S,2,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,h,SUB: Beverley FOR Terry,Substitution,,0,0
+161,183,PT06M27.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+162,185,PT06M26.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Unknown,0,0
+163,186,PT06M26.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith L.B.FOUL (P2.T3),Foul,Loose Ball,1,0
+164,188,PT06M05.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,0,186,19,Missed,1,0,0,0,v,MISS Bosh 19' Jump Shot,Missed Shot,Jump Shot,1,0
+165,189,PT06M04.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+166,190,PT05M53.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside S.FOUL (P2.T3),Foul,Shooting,1,0
+167,191,PT05M53.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+168,193,PT05M53.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,SUB: Motiejunas FOR Smith,Substitution,,0,0
+169,194,PT05M53.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,SUB: Andersen FOR Bosh,Substitution,,0,0
+170,195,PT05M53.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,SUB: Granger FOR Whiteside,Substitution,,0,0
+171,196,PT05M53.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+172,197,PT05M53.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0
+173,198,PT05M53.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+174,200,PT05M53.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,Andersen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+175,201,PT05M39.00S,2,1610612748,MIA,2548,Wade,D. Wade,-101,129,16,Made,1,42,37,79,v,Wade 16' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,0
+176,202,PT05M21.00S,2,1610612745,HOU,2730,Howard,D. Howard,69,20,7,Missed,1,0,0,0,h,MISS Howard 7' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,0
+177,203,PT05M18.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+178,204,PT05M16.00S,2,1610612745,HOU,2730,Howard,D. Howard,53,36,6,Made,1,44,37,81,h,Howard 6' Hook Shot (16 PTS),Made Shot,Hook Shot,1,0
+179,205,PT05M11.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas T.FOUL (P2.T3),Foul,Technical,0,0
+180,206,PT05M11.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,44,38,82,v,Wade Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0
+181,209,PT04M57.00S,2,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,0,0,0,v,Granger Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+182,209,PT04M57.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (4 STL),,,1,0
+183,210,PT04M47.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+184,210,PT04M47.00S,2,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,0,0,0,v,Granger STEAL (1 STL),,,1,0
+185,211,PT04M42.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza S.FOUL (P1.T4),Foul,Shooting,1,0
+186,212,PT04M42.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,44,39,83,v,Wade Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+187,214,PT04M42.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Smith FOR Howard,Substitution,,0,0
+188,215,PT04M42.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,44,40,84,v,Wade Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+189,218,PT04M25.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,-130,179,22,Missed,1,0,0,0,h,MISS Beverley 22' Jump Shot,Missed Shot,Jump Shot,1,0
+190,219,PT04M24.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+191,220,PT04M14.00S,2,1610612748,MIA,2736,Deng,L. Deng,18,7,2,Made,1,44,42,86,v,Deng 2' Layup (8 PTS) (Andersen 2 AST),Made Shot,Layup Shot,1,0
+192,221,PT04M03.00S,2,1610612745,HOU,201935,Harden,J. Harden,-2,9,1,Made,1,46,42,88,h,Harden 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+193,222,PT03M35.00S,2,1610612748,MIA,2548,Wade,D. Wade,7,214,21,Missed,1,0,0,0,v,MISS Wade 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+194,223,PT03M34.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+195,224,PT03M28.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,1,0,Made,1,48,42,90,h,Smith  Slam Dunk (2 PTS) (Motiejunas 2 AST),Made Shot,Slam Dunk Shot,1,0
+196,225,PT03M21.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+197,228,PT03M21.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,SUB: Bosh FOR Andersen,Substitution,,0,0
+198,229,PT03M12.00S,2,1610612748,MIA,101122,Granger,D. Granger,228,11,0,Made,1,48,45,93,v,Granger  3PT Jump Shot (5 PTS) (Wade 1 AST),Made Shot,Jump Shot,1,0
+199,230,PT02M58.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,226,123,26,Made,1,51,45,96,h,Beverley 26' 3PT Jump Shot (5 PTS) (Harden 2 AST),Made Shot,Jump Shot,1,0
+200,231,PT02M42.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,20,6,2,Made,1,51,47,98,v,Bosh 2' Layup (10 PTS) (Wade 2 AST),Made Shot,Layup Shot,1,0
+201,232,PT02M32.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0
+202,233,PT02M32.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+203,237,PT02M32.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,SUB: Howard FOR Smith,Substitution,,0,0
+204,238,PT02M20.00S,2,1610612748,MIA,2548,Wade,D. Wade,77,129,15,Made,1,51,49,100,v,Wade 15' Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,1,0
+205,239,PT02M07.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,234,22,24,Made,1,54,49,103,h,Beverley 24' 3PT Jump Shot (8 PTS) (Ariza 3 AST),Made Shot,Jump Shot,1,0
+206,240,PT01M41.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,-160,187,25,Missed,1,0,0,0,v,MISS Bosh 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+207,241,PT01M40.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+208,242,PT01M30.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,228,28,0,Missed,1,0,0,0,h,MISS Motiejunas  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+209,243,PT01M29.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+210,244,PT01M28.00S,2,1610612745,HOU,201935,Harden,J. Harden,9,19,2,Missed,1,0,0,0,h,MISS Harden 2' Layup,Missed Shot,Layup Shot,1,0
+211,246,PT01M27.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+212,245,PT01M27.00S,2,1610612745,HOU,2730,Howard,D. Howard,12,1,1,Made,1,56,49,105,h,Howard 1' Tip Shot (18 PTS),Made Shot,Tip Shot,1,0
+213,249,PT01M27.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers L.B.FOUL (P2.T4),Foul,Loose Ball,1,0
+214,254,PT01M27.00S,2,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,0,0,0,v,SUB: Andersen FOR Granger,Substitution,,0,0
+215,260,PT01M27.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,SUB: Smith FOR Motiejunas,Substitution,,0,0
+216,247,PT01M27.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,57,49,106,h,Howard Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0
+217,258,PT01M12.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley S.FOUL (P2.PN),Foul,Shooting,1,0
+218,262,PT01M12.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,MISS Andersen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+219,263,PT01M12.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+220,257,PT01M12.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,SUB: Cole FOR Chalmers,Substitution,,0,0
+221,264,PT01M12.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,MISS Andersen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+222,271,PT01M12.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+223,270,PT01M03.00S,2,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,Cole S.FOUL (P1.PN),Foul,Shooting,1,0
+224,273,PT01M03.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,58,49,107,h,Harden Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+225,275,PT01M03.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,59,49,108,h,Harden Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+226,278,PT00M45.90S,2,1610612748,MIA,2547,Bosh,C. Bosh,114,4,11,Missed,1,0,0,0,v,MISS Bosh 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+227,279,PT00M44.90S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+228,281,PT00M40.90S,2,1610612745,HOU,201935,Harden,J. Harden,0,1,0,Made,1,61,49,110,h,Harden  Running Dunk (13 PTS) (Smith 1 AST),Made Shot,Running Dunk Shot,1,0
+229,283,PT00M26.90S,2,1610612748,MIA,2548,Wade,D. Wade,146,61,16,Missed,1,0,0,0,v,MISS Wade 16' Pullup Bank Shot,Missed Shot,Pullup Bank shot,1,0
+230,284,PT00M25.90S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:6),Rebound,Unknown,1,0
+231,286,PT00M02.80S,2,1610612745,HOU,201935,Harden,J. Harden,58,241,25,Missed,1,0,0,0,h,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+232,287,PT00M01.60S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+233,289,PT00M00.00S,2,0,,0,,,0,0,0,,0,61,49,110,,End of 2nd Period (9:09 PM EST),period,end,0,0
+234,291,PT12M00.00S,3,0,,0,,,0,0,0,,0,61,49,110,,Start of 3rd Period (9:25 PM EST),period,start,0,0
+235,292,PT11M42.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,141,213,26,Missed,1,0,0,0,h,MISS Ariza 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+236,293,PT11M41.00S,3,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,Andersen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+237,294,PT11M31.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,-127,132,18,Missed,1,0,0,0,v,MISS Bosh 18' Jump Shot,Missed Shot,Jump Shot,1,0
+238,295,PT11M30.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:7),Rebound,Unknown,1,0
+239,296,PT11M21.00S,3,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng S.FOUL (P1.T1),Foul,Shooting,1,0
+240,297,PT11M21.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,62,49,111,h,Howard Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+241,299,PT11M21.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,63,49,112,h,Howard Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+242,301,PT11M06.00S,3,1610612748,MIA,2736,Deng,L. Deng,-185,3,19,Made,1,63,51,114,v,Deng 19' Jump Shot (10 PTS) (Bosh 1 AST),Made Shot,Jump Shot,1,0
+243,302,PT10M49.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,63,6,Made,1,65,51,116,h,Howard 6' Turnaround Hook Shot (23 PTS) (Motiejunas 3 AST),Made Shot,Turnaround Hook Shot,1,0
+244,303,PT10M35.00S,3,1610612748,MIA,2736,Deng,L. Deng,-5,187,19,Missed,1,0,0,0,v,MISS Deng 19' Jump Shot,Missed Shot,Jump Shot,1,0
+245,304,PT10M33.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+246,305,PT10M27.00S,3,1610612745,HOU,201935,Harden,J. Harden,-117,220,25,Made,1,68,51,119,h,Harden 25' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,0
+247,308,PT10M01.00S,3,1610612748,MIA,2365,Andersen,C. Andersen,-11,-2,1,Made,1,68,53,121,v,Andersen 1' Reverse Layup (4 PTS) (Wade 3 AST),Made Shot,Reverse Layup Shot,1,0
+248,309,PT09M46.00S,3,1610612745,HOU,201935,Harden,J. Harden,13,0,1,Made,1,70,53,123,h,Harden 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,0
+249,310,PT09M46.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers S.FOUL (P3.T2),Foul,Shooting,1,0
+250,311,PT09M46.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,71,53,124,h,Harden Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0
+251,314,PT09M43.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas P.FOUL (P3.T1),Foul,Personal,1,0
+252,315,PT09M39.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley P.FOUL (P3.T2),Foul,Personal,1,0
+253,316,PT09M30.00S,3,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0
+254,316,PT09M30.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (5 STL),,,1,0
+255,317,PT09M24.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,144,205,25,Made,1,74,53,127,h,Beverley 25' 3PT Jump Shot (11 PTS) (Ariza 4 AST),Made Shot,Jump Shot,1,0
+256,318,PT09M23.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+257,322,PT09M15.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,-8,11,1,Missed,1,0,0,0,v,MISS Bosh 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+258,323,PT09M14.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+259,324,PT09M02.00S,3,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,Andersen Violation:Kicked Ball,Violation,Kicked Ball,0,0
+260,325,PT08M48.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh Shooting Block Foul (P2.T3),Foul,Shooting Block,1,0
+261,326,PT08M48.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,MISS Motiejunas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+262,327,PT08M48.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0
+263,328,PT08M48.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,75,53,128,h,Motiejunas Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+264,331,PT08M33.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh 3 Second Violation Turnover (P3.T12),Turnover,3 Second Violation,1,0
+265,332,PT08M20.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-70,41,8,Missed,1,0,0,0,h,MISS Motiejunas 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+266,333,PT08M19.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+267,334,PT08M15.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza Offensive Charge Foul (P2.T3),Foul,Offensive Charge,1,0
+268,335,PT08M15.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza Foul Turnover (P3.T9),Turnover,Foul,1,0
+269,337,PT07M59.00S,3,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,Andersen Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0
+270,337,PT07M59.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (6 STL),,,1,0
+271,338,PT07M45.00S,3,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,Andersen Violation:Kicked Ball,Violation,Kicked Ball,0,0
+272,339,PT07M32.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,-4,239,24,Missed,1,0,0,0,h,MISS Ariza 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+273,340,PT07M31.00S,3,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+274,341,PT07M27.00S,3,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,Deng Traveling Turnover (P4.T14),Turnover,Traveling,1,0
+275,343,PT07M11.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-27,6,3,Made,1,77,53,130,h,Motiejunas 3' Layup (12 PTS) (Beverley 2 AST),Made Shot,Layup Shot,1,0
+276,345,PT06M49.00S,3,1610612748,MIA,2736,Deng,L. Deng,218,25,22,Missed,1,0,0,0,v,MISS Deng 22' Jump Shot,Missed Shot,Jump Shot,1,0
+277,346,PT06M48.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+278,347,PT06M45.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers S.FOUL (P4.T4),Foul,Shooting,1,0
+279,348,PT06M45.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,78,53,131,h,Harden Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+280,350,PT06M45.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,SUB: Cole FOR Chalmers,Substitution,,0,0
+281,351,PT06M45.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,79,53,132,h,Harden Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+282,354,PT06M45.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+283,357,PT06M29.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh Poss Lost Ball Turnover (P4.T15),Turnover,Poss Lost Ball Turnover,1,0
+284,358,PT06M08.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+285,359,PT05M55.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,1,261,26,Missed,1,0,0,0,v,MISS Bosh 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+286,360,PT05M54.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Unknown,0,0
+287,361,PT05M53.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Smith FOR Howard,Substitution,,0,0
+288,363,PT05M31.00S,3,1610612748,MIA,2548,Wade,D. Wade,-108,138,18,Missed,1,0,0,0,v,MISS Wade 18' Jump Shot,Missed Shot,Jump Shot,1,0
+289,364,PT05M30.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+290,365,PT05M25.00S,3,1610612748,MIA,2548,Wade,D. Wade,-13,7,1,Made,1,79,55,134,v,Wade 1' Reverse Layup (15 PTS) (Bosh 2 AST),Made Shot,Reverse Layup Shot,1,0
+291,366,PT05M04.00S,3,1610612745,HOU,201935,Harden,J. Harden,-105,134,17,Missed,1,0,0,0,h,MISS Harden 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+292,367,PT05M03.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+293,368,PT04M51.00S,3,1610612745,HOU,201935,Harden,J. Harden,-16,1,2,Made,1,81,55,136,h,Harden 2' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,0
+294,370,PT04M37.00S,3,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,v,SUB: Whiteside FOR Andersen,Substitution,,0,0
+295,371,PT04M37.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Ariza,Substitution,,0,0
+296,372,PT04M37.00S,3,1610612748,MIA,2736,Deng,L. Deng,0,0,0,,0,0,0,0,v,SUB: Granger FOR Deng,Substitution,,0,0
+297,373,PT04M27.00S,3,1610612748,MIA,202708,Cole,N. Cole,-117,116,16,Missed,1,0,0,0,v,MISS Cole 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+298,374,PT04M26.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,Bosh REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+299,375,PT04M26.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas S.FOUL (P4.T4),Foul,Shooting,1,0
+300,377,PT04M26.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,MISS Bosh Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+301,378,PT04M26.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+302,379,PT04M26.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,81,56,137,v,Bosh Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+303,382,PT04M15.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0
+304,382,PT04M15.00S,3,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,0,0,0,v,Granger STEAL (2 STL),,,1,0
+305,384,PT04M10.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,SUB: Papanikolaou FOR Motiejunas,Substitution,,0,0
+306,385,PT04M02.00S,3,1610612748,MIA,2548,Wade,D. Wade,181,50,19,Missed,1,0,0,0,v,MISS Wade 19' Jump Shot,Missed Shot,Jump Shot,1,0
+307,386,PT04M01.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+308,387,PT03M47.00S,3,1610612745,HOU,201935,Harden,J. Harden,122,238,27,Made,1,84,56,140,h,Harden 27' 3PT Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,1,0
+309,388,PT03M33.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,-98,230,25,Made,1,84,59,143,v,Bosh 25' 3PT Jump Shot (14 PTS) (Cole 1 AST),Made Shot,Jump Shot,1,0
+310,389,PT03M11.00S,3,1610612745,HOU,201935,Harden,J. Harden,136,135,19,Missed,1,0,0,0,h,MISS Harden 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+311,390,PT03M10.00S,3,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+312,391,PT03M05.00S,3,1610612745,HOU,2746,Smith,J. Smith,12,249,25,Missed,1,0,0,0,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+313,392,PT03M04.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+314,393,PT02M52.00S,3,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith S.FOUL (P3.PN),Foul,Shooting,1,0
+315,394,PT02M52.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,84,60,144,v,Bosh Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+316,396,PT02M52.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,SUB: Ennis FOR Wade,Substitution,,0,0
+317,397,PT02M52.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,MISS Bosh Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+318,399,PT02M52.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+319,400,PT02M30.00S,3,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,Cole P.FOUL (P2.PN),Foul,Personal,1,0
+320,401,PT02M30.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,85,60,145,h,Harden Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0
+321,403,PT02M30.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0,0,0,v,SUB: Shaw. Williams FOR Bosh,Substitution,,0,0
+322,404,PT02M30.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,SUB: Terry FOR Beverley,Substitution,,0,0
+323,405,PT02M30.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,86,60,146,h,Harden Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0
+324,408,PT02M16.00S,3,1610612748,MIA,101122,Granger,D. Granger,-128,209,25,Missed,1,0,0,0,v,MISS Granger 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+325,409,PT02M15.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+326,410,PT02M15.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,SUB: Howard FOR Harden,Substitution,,0,0
+327,411,PT02M01.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard 3 Second Violation Turnover (P2.T12),Turnover,3 Second Violation,1,0
+328,412,PT01M47.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer S.FOUL (P2.PN),Foul,Shooting,1,0
+329,413,PT01M47.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,MISS Whiteside Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+330,415,PT01M47.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Unknown,0,0
+331,414,PT01M47.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,MISS Whiteside Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+332,417,PT01M47.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:8),Rebound,Unknown,1,0
+333,418,PT01M36.00S,3,1610612745,HOU,2746,Smith,J. Smith,0,1,0,Made,1,88,60,148,h,Smith  Slam Dunk (4 PTS) (Terry 3 AST),Made Shot,Slam Dunk Shot,1,0
+334,419,PT01M22.00S,3,1610612748,MIA,200761,Williams,S. Williams,-134,203,24,Missed,1,0,0,0,v,MISS Shaw. Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+335,420,PT01M21.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+336,421,PT00M56.90S,3,1610612745,HOU,2730,Howard,D. Howard,7,4,1,Missed,1,0,0,0,h,MISS Howard 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+337,422,PT00M55.80S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+338,428,PT00M38.90S,3,1610612748,MIA,202708,Cole,N. Cole,10,9,1,Missed,1,0,0,0,v,MISS Cole 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,0
+339,429,PT00M37.90S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+340,430,PT00M32.20S,3,1610612745,HOU,1891,Terry,J. Terry,-141,205,25,Made,1,91,60,151,h,Terry 25' 3PT Jump Shot (3 PTS) (Papanikolaou 1 AST),Made Shot,Jump Shot,1,0
+341,431,PT00M17.90S,3,1610612748,MIA,202708,Cole,N. Cole,-54,86,10,Missed,1,0,0,0,v,MISS Cole 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+342,432,PT00M16.40S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:9),Rebound,Unknown,1,0
+343,433,PT00M12.90S,3,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0
+344,433,PT00M12.90S,3,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,Ennis STEAL (1 STL),,,1,0
+345,434,PT00M09.60S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P2.PN),Foul,Shooting,1,0
+346,435,PT00M09.60S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,MISS Whiteside Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+347,436,PT00M09.60S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+348,437,PT00M09.60S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,MISS Whiteside Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+349,439,PT00M09.60S,3,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+350,440,PT00M01.90S,3,1610612745,HOU,201147,Brewer,C. Brewer,237,48,24,Made,1,94,60,154,h,Brewer 24' 3PT Jump Shot (9 PTS) (Smith 2 AST),Made Shot,Jump Shot,1,0
+351,441,PT00M01.90S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0
+352,441,PT00M01.90S,3,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou STEAL (1 STL),,,1,0
+353,442,PT00M01.90S,3,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,-16,4,2,Missed,1,0,0,0,h,MISS Papanikolaou 2' Layup,Missed Shot,Layup Shot,1,0
+354,443,PT00M00.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+355,464,PT00M00.00S,3,0,,0,,,0,0,0,,0,94,60,154,,End of 3rd Period (9:59 PM EST),period,end,0,0
+356,470,PT12M00.00S,4,0,,0,,,0,0,0,,0,94,60,154,,Start of 4th Period (10:00 PM EST),period,start,0,0
+357,446,PT11M51.00S,4,1610612748,MIA,101122,Granger,D. Granger,-69,189,20,Missed,1,0,0,0,v,MISS Granger 20' Jump Shot,Missed Shot,Jump Shot,1,0
+358,447,PT11M49.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+359,448,PT11M36.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,238,-1,24,Missed,1,0,0,0,h,MISS Brewer 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+360,449,PT11M32.00S,4,1610612748,MIA,200761,Williams,S. Williams,0,0,0,,0,0,0,0,v,Shaw. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+361,450,PT11M13.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,-1,-1,0,Made,1,94,62,156,v,Whiteside  Alley Oop Dunk (6 PTS) (Ennis 1 AST),Made Shot,Alley Oop Dunk Shot,1,0
+362,530,PT10M57.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou Poss Lost Ball Turnover (P2.T14),Turnover,Poss Lost Ball Turnover,0,0
+363,530,PT10M57.00S,4,1610612748,MIA,200761,Williams,S. Williams,0,0,0,,0,0,0,0,v,Shaw. Williams STEAL (1 STL),,,0,0
+364,452,PT10M53.00S,4,1610612748,MIA,202708,Cole,N. Cole,-8,9,1,Made,1,94,64,158,v,Cole 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+365,454,PT10M24.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith Poss Lost Ball Turnover (P2.T15),Turnover,Poss Lost Ball Turnover,0,0
+366,457,PT10M09.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas Violation:Kicked Ball,Violation,Kicked Ball,0,0
+367,458,PT09M54.00S,4,1610612748,MIA,200761,Williams,S. Williams,167,217,27,Missed,1,0,0,0,v,MISS Shaw. Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+368,567,PT09M52.00S,4,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,Ennis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+369,568,PT09M50.00S,4,1610612748,MIA,203516,Ennis III,J. Ennis III,3,71,7,Made,1,94,66,160,v,Ennis 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,0,0
+370,587,PT09M25.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,4,249,25,Missed,1,0,0,0,h,MISS Motiejunas 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+371,586,PT09M23.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+372,573,PT09M07.00S,4,1610612745,HOU,2746,Smith,J. Smith,73,14,7,Made,1,96,66,162,h,Smith 7' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,0
+373,574,PT09M07.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+374,575,PT08M58.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,Cole Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0
+375,575,PT08M58.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer STEAL (2 STL),,,0,0
+376,471,PT08M53.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,Cole P.FOUL (P3.T1),Foul,Personal,1,0
+377,472,PT08M53.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+378,474,PT08M53.00S,4,1610612748,MIA,101122,Granger,D. Granger,0,0,0,,0,0,0,0,v,SUB: Dawkins FOR Granger,Substitution,,0,0
+379,475,PT08M46.00S,4,1610612745,HOU,1891,Terry,J. Terry,237,39,24,Made,1,99,66,165,h,Terry 24' 3PT Jump Shot (6 PTS) (Brewer 3 AST),Made Shot,Jump Shot,1,0
+380,476,PT08M34.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside Lost Ball Turnover (P2.T18),Turnover,Lost Ball,1,0
+381,476,PT08M34.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas STEAL (2 STL),,,1,0
+382,477,PT08M31.00S,4,1610612748,MIA,200761,Williams,S. Williams,0,0,0,,0,0,0,0,v,Shaw. Williams S.FOUL (P1.T2),Foul,Shooting,1,0
+383,478,PT08M31.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,100,66,166,h,Brewer Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+384,480,PT08M31.00S,4,1610612748,MIA,200761,Williams,S. Williams,0,0,0,,0,0,0,0,v,SUB: Haslem FOR Shaw. Williams,Substitution,,0,0
+385,481,PT08M31.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,101,66,167,h,Brewer Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+386,483,PT08M18.00S,4,1610612748,MIA,203958,Dawkins,A. Dawkins,139,230,27,Missed,1,0,0,0,v,MISS Dawkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+387,484,PT08M17.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+388,485,PT08M12.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,0
+389,486,PT08M02.00S,4,1610612748,MIA,203516,Ennis III,J. Ennis III,170,178,25,Made,1,101,69,170,v,Ennis 25' 3PT Jump Shot (5 PTS) (Cole 2 AST),Made Shot,Jump Shot,1,0
+390,487,PT07M46.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,29,6,3,Missed,1,0,0,0,h,MISS Motiejunas 3' Layup,Missed Shot,Layup Shot,1,0
+391,578,PT07M45.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+392,579,PT07M45.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,1,-1,0,Missed,1,0,0,0,h,MISS Motiejunas  Tip Shot,Missed Shot,Tip Shot,1,0
+393,488,PT07M44.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+394,489,PT07M37.00S,4,1610612748,MIA,203958,Dawkins,A. Dawkins,130,214,25,Missed,1,0,0,0,v,MISS Dawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+395,490,PT07M36.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+396,491,PT07M26.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem S.FOUL (P1.T3),Foul,Shooting,1,0
+397,493,PT07M26.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,MISS Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+398,494,PT07M26.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0
+399,495,PT07M26.00S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,h,SUB: Canaan FOR Terry,Substitution,,0,0
+400,496,PT07M26.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,SUB: Dorsey FOR Motiejunas,Substitution,,0,0
+401,497,PT07M26.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,MISS Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+402,499,PT07M25.00S,4,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,Ennis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+403,500,PT07M12.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,-17,22,3,Missed,1,0,0,0,v,MISS Whiteside 3' Layup,Missed Shot,Layup Shot,1,0
+404,500,PT07M12.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith BLOCK (1 BLK),,,1,0
+405,581,PT07M11.00S,4,1610612745,HOU,203477,Canaan,I. Canaan,0,0,0,,0,0,0,0,h,Canaan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+406,501,PT07M07.00S,4,1610612745,HOU,203477,Canaan,I. Canaan,-125,219,25,Missed,1,0,0,0,h,MISS Canaan 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+407,502,PT07M06.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,Cole REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+408,503,PT06M47.00S,4,1610612748,MIA,203958,Dawkins,A. Dawkins,58,249,26,Missed,1,0,0,0,v,MISS Dawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+409,504,PT06M46.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+410,505,PT06M38.00S,4,1610612748,MIA,203958,Dawkins,A. Dawkins,0,0,0,,0,0,0,0,v,Dawkins P.FOUL (P1.T4),Foul,Personal,1,0
+411,506,PT06M30.00S,4,1610612745,HOU,2746,Smith,J. Smith,-11,14,2,Made,1,103,69,172,h,Smith 2' Layup (8 PTS) (Canaan 1 AST),Made Shot,Layup Shot,1,0
+412,507,PT06M01.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,-23,0,2,Made,1,103,71,174,v,Whiteside 2' Layup (8 PTS) (Dawkins 1 AST),Made Shot,Layup Shot,1,0
+413,508,PT05M44.00S,4,1610612745,HOU,2746,Smith,J. Smith,-98,72,12,Made,1,105,71,176,h,Smith 12' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,0
+414,509,PT05M27.00S,4,1610612748,MIA,203516,Ennis III,J. Ennis III,-76,164,18,Missed,1,0,0,0,v,MISS Ennis 18' Jump Shot,Missed Shot,Jump Shot,1,0
+415,510,PT05M25.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+416,583,PT05M25.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,29,27,4,Missed,1,0,0,0,v,MISS Whiteside 4' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,0
+417,584,PT05M25.00S,4,1610612745,HOU,201595,Dorsey,J. Dorsey,0,0,0,,0,0,0,0,h,Dorsey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+418,511,PT05M16.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,230,0,0,Missed,1,0,0,0,h,MISS Brewer  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+419,512,PT05M15.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+420,513,PT05M00.00S,4,1610612748,MIA,203516,Ennis III,J. Ennis III,0,1,0,Made,1,105,73,178,v,Ennis  Alley Oop Dunk (7 PTS) (Cole 3 AST),Made Shot,Alley Oop Dunk Shot,1,0
+421,514,PT04M46.00S,4,1610612745,HOU,203477,Canaan,I. Canaan,-48,254,26,Made,1,108,73,181,h,Canaan 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,0
+422,515,PT04M24.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,1,0,Made,1,108,75,183,v,Whiteside  Alley Oop Dunk (10 PTS) (Cole 4 AST),Made Shot,Alley Oop Dunk Shot,1,0
+423,516,PT04M05.00S,4,1610612745,HOU,2746,Smith,J. Smith,-48,200,21,Missed,1,0,0,0,h,MISS Smith 21' Jump Shot,Missed Shot,Jump Shot,1,0
+424,517,PT04M04.00S,4,1610612745,HOU,203477,Canaan,I. Canaan,0,0,0,,0,0,0,0,h,Canaan REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+425,518,PT03M48.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,-23,7,2,Missed,1,0,0,0,h,MISS Papanikolaou 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+426,520,PT03M46.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+427,519,PT03M46.00S,4,1610612745,HOU,2746,Smith,J. Smith,1,1,0,Made,1,110,75,185,h,Smith  Tip Shot (12 PTS),Made Shot,Tip Shot,1,0
+428,521,PT03M29.00S,4,1610612748,MIA,202708,Cole,N. Cole,-30,20,4,Missed,1,0,0,0,v,MISS Cole 4' Jump Shot,Missed Shot,Jump Shot,1,0
+429,522,PT03M27.00S,4,1610612745,HOU,201595,Dorsey,J. Dorsey,0,0,0,,0,0,0,0,h,Dorsey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+430,523,PT03M21.00S,4,1610612745,HOU,203477,Canaan,I. Canaan,157,197,25,Made,1,113,75,188,h,Canaan 25' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,1,0
+431,524,PT03M19.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+432,527,PT03M19.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,SUB: Terry FOR Smith,Substitution,,0,0
+433,528,PT03M04.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou S.FOUL (P1.T1),Foul,Shooting,1,0
+434,529,PT03M04.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,113,76,189,v,Whiteside Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+435,532,PT03M04.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,113,77,190,v,Whiteside Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+436,534,PT02M42.00S,4,1610612745,HOU,203477,Canaan,I. Canaan,-32,28,4,Missed,1,0,0,0,h,MISS Canaan 4' Jump Shot,Missed Shot,Jump Shot,1,0
+437,534,PT02M42.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside BLOCK (1 BLK),,,1,0
+438,535,PT02M40.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,Cole REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+439,536,PT02M38.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,Cole Poss Lost Ball Turnover (P3.T19),Turnover,Poss Lost Ball Turnover,1,0
+440,537,PT02M38.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+441,540,PT02M26.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,7,31,3,Missed,1,0,0,0,h,MISS Papanikolaou 3' Jump Shot,Missed Shot,Jump Shot,1,0
+442,541,PT02M25.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+443,542,PT02M20.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,241,14,24,Missed,1,0,0,0,h,MISS Brewer 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+444,543,PT02M19.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou REBOUND (Off:5 Def:2),Rebound,Unknown,1,0
+445,544,PT02M16.00S,4,1610612745,HOU,1891,Terry,J. Terry,154,206,26,Missed,1,0,0,0,h,MISS Terry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+446,545,PT02M15.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+447,546,PT01M56.00S,4,1610612748,MIA,203516,Ennis III,J. Ennis III,0,0,0,,0,0,0,0,v,Ennis Bad Pass Turnover (P2.T20),Turnover,Bad Pass,1,0
+448,546,PT01M56.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou STEAL (2 STL),,,1,0
+449,547,PT01M41.00S,4,1610612745,HOU,201595,Dorsey,J. Dorsey,0,1,0,Missed,1,0,0,0,h,MISS Dorsey  Driving Slam Dunk,Missed Shot,Driving Slam Dunk Shot,1,0
+450,547,PT01M41.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside BLOCK (2 BLK),,,1,0
+451,548,PT01M40.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+452,549,PT01M20.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,v,Whiteside Bad Pass Turnover (P3.T21),Turnover,Bad Pass,1,0
+453,551,PT01M11.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,84,235,25,Missed,1,0,0,0,h,MISS Papanikolaou 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+454,552,PT01M10.00S,4,1610612748,MIA,203958,Dawkins,A. Dawkins,0,0,0,,0,0,0,0,v,Dawkins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+455,553,PT01M01.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,1,0,Made,1,113,79,192,v,Whiteside  Alley Oop Dunk (14 PTS) (Ennis 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+456,554,PT00M44.90S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,-24,50,6,Missed,1,0,0,0,h,MISS Papanikolaou 6' Jump Shot,Missed Shot,Jump Shot,1,0
+457,555,PT00M42.90S,4,1610612745,HOU,201595,Dorsey,J. Dorsey,0,0,0,,0,0,0,0,h,Dorsey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+458,556,PT00M27.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,v,Cole S.FOUL (P4.PN),Foul,Shooting,1,0
+459,557,PT00M27.00S,4,1610612745,HOU,203477,Canaan,I. Canaan,0,0,0,,0,0,0,0,h,MISS Canaan Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0
+460,558,PT00M27.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0
+461,559,PT00M27.00S,4,1610612745,HOU,203477,Canaan,I. Canaan,0,0,0,,0,114,79,193,h,Canaan Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0
+462,561,PT00M27.00S,4,1610612745,HOU,203477,Canaan,I. Canaan,0,0,0,,0,115,79,194,h,Canaan Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0
+463,564,PT00M11.90S,4,1610612748,MIA,203516,Ennis III,J. Ennis III,-191,206,28,Missed,1,0,0,0,v,MISS Ennis 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+464,566,PT00M10.50S,4,1610612745,HOU,203477,Canaan,I. Canaan,0,0,0,,0,0,0,0,h,Canaan REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+465,577,PT00M00.00S,4,0,,0,,,0,0,0,,0,115,79,194,,End of 4th Period (10:34 PM EST),period,end,0,0

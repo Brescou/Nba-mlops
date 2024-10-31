@@ -1,0 +1,462 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (3:01 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Jump Ball Thomas vs. Lopez: Tip to Deng,Jump Ball,,0,0
+3,2,PT11M40.00S,1,1610612741,CHI,2736,Deng,L. Deng,-8,12,1,Missed,1,0,0,0,h,MISS Deng 1' Layup,Missed Shot,Layup Shot,0,0
+4,3,PT11M38.00S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+5,4,PT11M29.00S,1,1610612751,NJN,2743,Humphries,K. Humphries,10,23,3,Missed,1,0,0,0,v,MISS Humphries 3' Hook Shot,Missed Shot,Hook Shot,0,0
+6,5,PT11M27.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+7,6,PT11M15.00S,1,1610612741,CHI,201565,Rose,D. Rose,171,0,17,Made,1,2,0,2,h,Rose 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+8,7,PT10M51.00S,1,1610612751,NJN,2734,Harris,D. Harris,127,168,21,Missed,1,0,0,0,v,MISS Harris 21' Jump Shot,Missed Shot,Jump Shot,0,0
+9,8,PT10M50.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,9,PT10M44.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+11,9,PT10M44.00S,1,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries STEAL (1 STL),,,0,0
+12,10,PT10M33.00S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw Traveling Turnover (P1.T1),Turnover,Traveling,0,0
+13,11,PT10M18.00S,1,1610612741,CHI,703,Thomas,K. Thomas,-123,-2,12,Missed,1,0,0,0,h,MISS Thomas 12' Jump Shot,Missed Shot,Jump Shot,0,0
+14,12,PT10M17.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+15,13,PT10M12.00S,1,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Short (Reg.0 Short 1),Timeout,Short,0,0
+16,15,PT10M05.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer S.FOUL (P1.T1),Foul,Shooting,0,0
+17,16,PT10M05.00S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,MISS Outlaw Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+18,17,PT10M05.00S,1,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Normal Rebound,0,0
+19,18,PT10M05.00S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,MISS Outlaw Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+20,20,PT10M04.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+21,21,PT09M49.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-108,-2,11,Made,1,4,0,4,h,Boozer 11' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+22,22,PT09M27.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,119,-2,12,Missed,1,0,0,0,v,MISS Lopez 12' Jump Shot,Missed Shot,Jump Shot,0,0
+23,23,PT09M26.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+24,24,PT09M10.00S,1,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Nets T.Foul (Def. 3 Sec Harris ),Foul,Defense 3 Second,0,0
+25,25,PT09M10.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,5,0,5,h,Rose Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0
+26,27,PT09M00.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-157,-6,16,Missed,1,0,0,0,h,MISS Boozer 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+27,29,PT08M58.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+28,28,PT08M58.00S,1,1610612741,CHI,2736,Deng,L. Deng,24,7,3,Made,1,7,0,7,h,Deng 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0
+29,30,PT08M35.00S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,-138,31,14,Made,1,7,2,9,v,Outlaw 14' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+30,31,PT08M22.00S,1,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris S.FOUL (P1.T1),Foul,Shooting,0,0
+31,32,PT08M22.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,8,2,10,h,Bogans Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+32,34,PT08M22.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,9,2,11,h,Bogans Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+33,36,PT08M08.00S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,152,63,16,Made,1,9,4,13,v,Outlaw 16' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+34,37,PT07M48.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,26,4,3,Missed,1,0,0,0,h,MISS Boozer 3' Layup,Missed Shot,Layup Shot,0,0
+35,37,PT07M48.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez BLOCK (1 BLK),,,0,0
+36,38,PT07M46.00S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+37,39,PT07M40.00S,1,1610612751,NJN,101211,Graham,S. Graham,147,56,16,Made,1,9,6,15,v,Graham 16' Jump Shot (2 PTS) (Outlaw 1 AST),Made Shot,Jump Shot,0,0
+38,40,PT07M20.00S,1,1610612741,CHI,201565,Rose,D. Rose,132,216,25,Made,1,12,6,18,h,Rose 25' 3PT Jump Shot (6 PTS) (Boozer 1 AST),Made Shot,Jump Shot,0,0
+39,41,PT06M58.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,127,0,13,Made,1,12,8,20,v,Lopez 13' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+40,42,PT06M40.00S,1,1610612741,CHI,703,Thomas,K. Thomas,-30,39,5,Made,1,14,8,22,h,Thomas 5' Turnaround Jump Shot (2 PTS) (Boozer 2 AST),Made Shot,Turnaround Jump Shot,0,0
+41,43,PT06M28.00S,1,1610612751,NJN,101211,Graham,S. Graham,-204,-13,20,Made,1,14,10,24,v,Graham 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+42,44,PT06M17.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer OFF.Foul (P2),Foul,Offensive,0,0
+43,45,PT06M17.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Foul Turnover (P1.T2),Turnover,Foul,0,0
+44,46,PT06M17.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Boozer,Substitution,,0,0
+45,47,PT06M00.00S,1,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries 3 Second Violation Turnover (P1.T2),Turnover,3 Second Violation,0,0
+46,48,PT05M40.00S,1,1610612741,CHI,2736,Deng,L. Deng,97,108,15,Missed,1,0,0,0,h,MISS Deng 15' Jump Shot,Missed Shot,Jump Shot,0,0
+47,49,PT05M39.00S,1,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+48,51,PT05M35.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+49,50,PT05M35.00S,1,1610612751,NJN,2734,Harris,D. Harris,24,9,3,Made,1,14,12,26,v,Harris 3' Layup (2 PTS),Made Shot,Layup Shot,0,0
+50,52,PT05M19.00S,1,1610612741,CHI,2736,Deng,L. Deng,-111,176,21,Missed,1,0,0,0,h,MISS Deng 21' Jump Shot,Missed Shot,Jump Shot,0,0
+51,53,PT05M17.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+52,55,PT05M05.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,26,20,3,Made,1,14,14,28,v,Lopez 3' Layup (4 PTS) (Harris 1 AST),Made Shot,Layup Shot,0,0
+53,56,PT05M05.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans Shooting Block Foul (P1.T2),Foul,Shooting Block,0,0
+54,57,PT05M05.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+55,58,PT05M05.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Bogans,Substitution,,0,0
+56,59,PT05M05.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,14,15,29,v,Lopez Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+57,61,PT04M51.00S,1,1610612741,CHI,201565,Rose,D. Rose,50,74,9,Missed,1,0,0,0,h,MISS Rose 9' Floating Jump Shot,Missed Shot,Floating Jump shot,0,0
+58,62,PT04M50.00S,1,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+59,63,PT04M32.00S,1,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+60,63,PT04M32.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng STEAL (1 STL),,,0,0
+61,64,PT04M29.00S,1,1610612741,CHI,2736,Deng,L. Deng,12,12,2,Made,1,16,15,31,h,Deng 2' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,0,0
+62,65,PT04M04.00S,1,1610612751,NJN,2743,Humphries,K. Humphries,-34,78,9,Missed,1,0,0,0,v,MISS Humphries 9' Jump Shot,Missed Shot,Jump Shot,0,0
+63,66,PT04M02.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+64,67,PT03M54.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0
+65,68,PT03M54.00S,1,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,SUB: Uzoh FOR Harris,Substitution,,0,0
+66,69,PT03M32.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,130,7,13,Missed,1,0,0,0,v,MISS Lopez 13' Hook Shot,Missed Shot,Hook Shot,0,0
+67,70,PT03M31.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+68,71,PT03M19.00S,1,1610612741,CHI,201565,Rose,D. Rose,-8,25,3,Missed,1,0,0,0,h,MISS Rose 3' Layup,Missed Shot,Layup Shot,0,0
+69,72,PT03M18.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+70,73,PT03M11.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez Traveling Turnover (P1.T4),Turnover,Traveling,0,0
+71,75,PT02M55.00S,1,1610612741,CHI,2736,Deng,L. Deng,-24,11,3,Made,1,18,15,33,h,Deng 3' Layup (6 PTS) (Rose 1 AST),Made Shot,Layup Shot,0,0
+72,76,PT02M39.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,BULLS T.Foul (Def. 3 Sec Gibson ),Foul,Defense 3 Second,0,0
+73,77,PT02M39.00S,1,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Regular (Reg.1 Short 1),Timeout,Regular,0,0
+74,80,PT02M39.00S,1,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,SUB: Favors FOR Graham,Substitution,,0,0
+75,79,PT02M39.00S,1,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,SUB: Vujacic FOR Humphries,Substitution,,0,0
+76,81,PT02M39.00S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,18,16,34,v,Outlaw Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+77,83,PT02M23.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,-67,149,16,Made,1,18,18,36,v,Lopez 16' Jump Shot (7 PTS) (Uzoh 1 AST),Made Shot,Jump Shot,0,0
+78,84,PT02M06.00S,1,1610612741,CHI,2736,Deng,L. Deng,-18,22,3,Missed,1,0,0,0,h,MISS Deng 3' Layup,Missed Shot,Layup Shot,0,0
+79,84,PT02M06.00S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw BLOCK (1 BLK),,,0,0
+80,85,PT02M03.00S,1,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+81,86,PT01M55.00S,1,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas S.FOUL (P1.T3),Foul,Shooting,0,0
+82,87,PT01M55.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,18,19,37,v,Lopez Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+83,89,PT01M55.00S,1,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,18,20,38,v,Lopez Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+84,91,PT01M41.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,24,3,2,Missed,1,0,0,0,h,MISS Gibson 2' Dunk,Missed Shot,Dunk Shot,0,0
+85,92,PT01M40.00S,1,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+86,93,PT01M31.00S,1,1610612741,CHI,200758,Brewer,R. Brewer,-174,119,21,Made,1,20,20,40,h,Brewer 21' Jump Shot (2 PTS) (Deng 1 AST),Made Shot,Jump Shot,0,0
+87,94,PT01M18.00S,1,1610612751,NJN,2756,Vujacic,S. Vujacic,45,228,23,Missed,1,0,0,0,v,MISS Vujacic 23' Jump Shot,Missed Shot,Jump Shot,0,0
+88,95,PT01M17.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+89,96,PT01M11.00S,1,1610612741,CHI,2736,Deng,L. Deng,-163,187,25,Made,1,23,20,43,h,Deng 25' 3PT Jump Shot (9 PTS) (Rose 2 AST),Made Shot,Jump Shot,0,0
+90,97,PT00M51.10S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw Traveling Turnover (P2.T5),Turnover,Traveling,0,0
+91,98,PT00M38.90S,1,1610612741,CHI,201565,Rose,D. Rose,23,15,3,Missed,1,0,0,0,h,MISS Rose 3' Layup,Missed Shot,Layup Shot,0,0
+92,98,PT00M38.90S,1,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez BLOCK (2 BLK),,,0,0
+93,99,PT00M36.50S,1,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,Vujacic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+94,100,PT00M33.50S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson S.FOUL (P1.PN),Foul,Shooting,0,0
+95,101,PT00M33.50S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,MISS Outlaw Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+96,102,PT00M33.50S,1,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Normal Rebound,0,0
+97,103,PT00M33.50S,1,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,23,21,44,v,Outlaw Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+98,105,PT00M19.90S,1,1610612741,CHI,201565,Rose,D. Rose,-93,143,17,Missed,1,0,0,0,h,MISS Rose 17' Jump Shot,Missed Shot,Jump Shot,0,0
+99,106,PT00M18.80S,1,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+100,107,PT00M00.90S,1,1610612751,NJN,2756,Vujacic,S. Vujacic,-161,183,24,Missed,1,0,0,0,v,MISS Vujacic 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+101,108,PT00M00.00S,1,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+102,109,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,21,44,,End of 1st Period (3:26 PM EST),period,end,0,0
+103,111,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,21,44,,Start of 2nd Period (3:29 PM EST),period,start,0,0
+104,112,PT11M48.00S,2,1610612751,NJN,2756,Vujacic,S. Vujacic,143,197,24,Made,1,23,24,47,v,Vujacic 24' 3PT Jump Shot (3 PTS) (Harris 2 AST),Made Shot,Jump Shot,0,0
+105,113,PT11M34.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,28,11,3,Made,1,25,24,49,h,Boozer 3' Reverse Layup (4 PTS) (Korver 1 AST),Made Shot,Reverse Layup Shot,0,0
+106,114,PT11M12.00S,2,1610612751,NJN,202324,Favors,D. Favors,23,12,3,Missed,1,0,0,0,v,MISS Favors 3' Layup,Missed Shot,Layup Shot,0,0
+107,116,PT11M08.00S,2,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+108,115,PT11M08.00S,2,1610612751,NJN,101130,Petro,J. Petro,28,9,3,Missed,1,0,0,0,v,MISS Petro 3' Layup,Missed Shot,Layup Shot,0,0
+109,117,PT11M07.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+110,118,PT11M00.00S,2,1610612741,CHI,2594,Korver,K. Korver,128,-13,13,Made,1,27,24,51,h,Korver 13' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+111,120,PT10M46.00S,2,1610612751,NJN,101130,Petro,J. Petro,6,186,19,Made,1,27,26,53,v,Petro 19' Jump Shot (2 PTS) (Harris 3 AST),Made Shot,Jump Shot,0,0
+112,123,PT10M22.00S,2,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors S.FOUL (P1.T1),Foul,Shooting,0,0
+113,124,PT10M22.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,28,26,54,h,Boozer Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+114,126,PT10M22.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,29,26,55,h,Boozer Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+115,128,PT10M08.00S,2,1610612751,NJN,101130,Petro,J. Petro,54,151,16,Missed,1,0,0,0,v,MISS Petro 16' Jump Shot,Missed Shot,Jump Shot,0,0
+116,129,PT10M06.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+117,130,PT09M58.00S,2,1610612741,CHI,201228,Watson,C. Watson,-112,197,23,Made,1,31,26,57,h,Watson 23' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+118,131,PT09M43.00S,2,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,Vujacic Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0
+119,132,PT09M27.00S,2,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors S.FOUL (P2.T2),Foul,Shooting,0,0
+120,133,PT09M27.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,32,26,58,h,Brewer Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+121,135,PT09M27.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,MISS Brewer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+122,137,PT09M26.00S,2,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+123,138,PT09M12.00S,2,1610612751,NJN,2734,Harris,D. Harris,-8,22,2,Missed,1,0,0,0,v,MISS Harris 2' Layup,Missed Shot,Layup Shot,0,0
+124,139,PT09M10.00S,2,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+125,140,PT09M08.00S,2,1610612751,NJN,202324,Favors,D. Favors,21,9,2,Made,1,32,28,60,v,Favors 2' Layup (2 PTS) (Harris 4 AST),Made Shot,Layup Shot,0,0
+126,141,PT09M08.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson S.FOUL (P2.T1),Foul,Shooting,0,0
+127,142,PT09M08.00S,2,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,MISS Favors Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+128,144,PT09M06.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+129,145,PT08M45.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,84,149,17,Missed,1,0,0,0,h,MISS Gibson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+130,146,PT08M44.00S,2,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,Vujacic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+131,148,PT08M33.00S,2,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+132,148,PT08M33.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson STEAL (1 STL),,,0,0
+133,149,PT08M29.00S,2,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro S.FOUL (P1.T3),Foul,Shooting,0,0
+134,150,PT08M29.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+135,151,PT08M29.00S,2,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,SUB: Humphries FOR Favors,Substitution,,0,0
+136,152,PT08M29.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,MISS Boozer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+137,153,PT08M29.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+138,154,PT08M29.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,MISS Boozer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+139,156,PT08M27.00S,2,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+140,157,PT08M15.00S,2,1610612751,NJN,2734,Harris,D. Harris,-3,8,1,Missed,1,0,0,0,v,MISS Harris 1' Layup,Missed Shot,Layup Shot,0,0
+141,157,PT08M15.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson BLOCK (1 BLK),,,0,0
+142,158,PT08M12.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+143,159,PT08M07.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,6,19,2,Missed,1,0,0,0,h,MISS Brewer 2' Layup,Missed Shot,Layup Shot,0,0
+144,159,PT08M07.00S,2,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries BLOCK (1 BLK),,,0,0
+145,160,PT08M06.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+146,161,PT08M06.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+147,162,PT08M06.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Asik FOR Gibson,Substitution,,0,0
+148,163,PT07M45.00S,2,1610612751,NJN,101211,Graham,S. Graham,-188,44,19,Missed,1,0,0,0,v,MISS Graham 19' Jump Shot,Missed Shot,Jump Shot,0,0
+149,164,PT07M45.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+150,165,PT07M45.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik L.B.FOUL (P1.T2),Foul,Loose Ball,0,0
+151,166,PT07M45.00S,2,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,SUB: Lopez FOR Petro,Substitution,,0,0
+152,167,PT07M45.00S,2,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,SUB: Outlaw FOR Vujacic,Substitution,,0,0
+153,168,PT07M40.00S,2,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris OFF.Foul (P2),Foul,Offensive,0,0
+154,169,PT07M40.00S,2,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris Foul Turnover (P2.T8),Turnover,Foul,0,0
+155,170,PT07M40.00S,2,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,SUB: Uzoh FOR Harris,Substitution,,0,0
+156,171,PT07M28.00S,2,1610612741,CHI,2594,Korver,K. Korver,-209,134,25,Missed,1,0,0,0,h,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+157,172,PT07M27.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+158,173,PT07M22.00S,2,1610612741,CHI,2594,Korver,K. Korver,165,208,27,Made,1,35,28,63,h,Korver 27' 3PT Jump Shot (5 PTS) (Brewer 1 AST),Made Shot,Jump Shot,0,0
+159,174,PT07M03.00S,2,1610612751,NJN,2566,Outlaw,T. Outlaw,21,4,2,Missed,1,0,0,0,v,MISS Outlaw 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+160,176,PT07M02.00S,2,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+161,175,PT07M02.00S,2,1610612751,NJN,2743,Humphries,K. Humphries,1,19,2,Missed,1,0,0,0,v,MISS Humphries 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+162,177,PT07M00.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+163,178,PT06M48.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,20,4,2,Made,1,37,28,65,h,Boozer 2' Layup (8 PTS),Made Shot,Layup Shot,0,0
+164,180,PT06M32.00S,2,1610612751,NJN,101211,Graham,S. Graham,192,85,21,Missed,1,0,0,0,v,MISS Graham 21' Jump Shot,Missed Shot,Jump Shot,0,0
+165,181,PT06M30.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+166,183,PT06M25.00S,2,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez S.FOUL (P1.T4),Foul,Shooting,0,0
+167,185,PT06M25.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,38,28,66,h,Brewer Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+168,187,PT06M25.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,39,28,67,h,Brewer Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+169,189,PT06M07.00S,2,1610612751,NJN,201572,Lopez,B. Lopez,99,0,10,Made,1,39,30,69,v,Lopez 10' Running Hook Shot (11 PTS),Made Shot,Running Hook Shot,0,0
+170,190,PT05M50.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson Offensive Charge Foul (P1.T3),Foul,Offensive Charge,0,0
+171,191,PT05M50.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson Foul Turnover (P1.T5),Turnover,Foul,0,0
+172,192,PT05M50.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+173,193,PT05M50.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,SUB: Rose FOR Watson,Substitution,,0,0
+174,195,PT05M33.00S,2,1610612751,NJN,101211,Graham,S. Graham,152,9,15,Made,1,39,32,71,v,Graham 15' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+175,196,PT05M20.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,-130,101,16,Missed,1,0,0,0,h,MISS Brewer 16' Jump Shot,Missed Shot,Jump Shot,0,0
+176,197,PT05M19.00S,2,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+177,198,PT05M09.00S,2,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,Korver S.FOUL (P1.T4),Foul,Shooting,0,0
+178,199,PT05M09.00S,2,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,39,33,72,v,Lopez Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+179,201,PT05M09.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,SUB: Deng FOR Brewer,Substitution,,0,0
+180,202,PT05M09.00S,2,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,39,34,73,v,Lopez Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+181,204,PT04M48.00S,2,1610612741,CHI,2594,Korver,K. Korver,94,175,20,Missed,1,0,0,0,h,MISS Korver 20' Jump Shot,Missed Shot,Jump Shot,0,0
+182,205,PT04M47.00S,2,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+183,206,PT04M28.00S,2,1610612751,NJN,2566,Outlaw,T. Outlaw,-231,77,24,Missed,1,0,0,0,v,MISS Outlaw 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+184,207,PT04M27.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+185,208,PT04M22.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0
+186,208,PT04M22.00S,2,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries STEAL (2 STL),,,0,0
+187,209,PT04M18.00S,2,1610612751,NJN,101211,Graham,S. Graham,15,22,3,Made,1,39,36,75,v,Graham 3' Layup (8 PTS) (Humphries 1 AST),Made Shot,Layup Shot,0,0
+188,210,PT04M08.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+189,212,PT04M08.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,SUB: Thomas FOR Asik,Substitution,,0,0
+190,213,PT03M49.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,151,4,15,Missed,1,0,0,0,h,MISS Boozer 15' Jump Shot,Missed Shot,Jump Shot,0,0
+191,214,PT03M48.00S,2,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+192,215,PT03M24.00S,2,1610612751,NJN,101211,Graham,S. Graham,29,0,3,Made,1,39,38,77,v,Graham 3' Driving Layup (10 PTS) (Lopez 1 AST),Made Shot,Driving Layup Shot,0,0
+193,216,PT03M10.00S,2,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,Graham P.FOUL (P1.PN),Foul,Personal,0,0
+194,217,PT03M10.00S,2,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,40,38,78,h,Korver Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+195,220,PT03M10.00S,2,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,SUB: Vujacic FOR Humphries,Substitution,,0,0
+196,221,PT03M10.00S,2,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,41,38,79,h,Korver Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+197,223,PT02M56.00S,2,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,Korver S.FOUL (P2.PN),Foul,Shooting,0,0
+198,224,PT02M56.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,0
+199,226,PT02M56.00S,2,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Korver,Substitution,,0,0
+200,227,PT02M56.00S,2,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,41,39,80,v,Graham Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+201,229,PT02M56.00S,2,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,41,40,81,v,Graham Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+202,231,PT02M40.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,-152,58,16,Missed,1,0,0,0,h,MISS Boozer 16' Jump Shot,Missed Shot,Jump Shot,0,0
+203,232,PT02M39.00S,2,1610612751,NJN,202386,Uzoh,B. Uzoh,0,0,0,,0,0,0,0,v,Uzoh REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+204,233,PT02M23.00S,2,1610612751,NJN,2566,Outlaw,T. Outlaw,99,179,20,Made,1,41,42,83,v,Outlaw 20' Jump Shot (8 PTS) (Uzoh 2 AST),Made Shot,Jump Shot,0,0
+205,234,PT02M16.00S,2,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,Vujacic Personal Block Foul (P1.PN),Foul,Personal Block,0,0
+206,235,PT02M16.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,42,42,84,h,Rose Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+207,237,PT02M16.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,43,42,85,h,Rose Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+208,239,PT01M53.00S,2,1610612751,NJN,2566,Outlaw,T. Outlaw,119,72,14,Missed,1,0,0,0,v,MISS Outlaw 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+209,240,PT01M52.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+210,241,PT01M39.00S,2,1610612741,CHI,201565,Rose,D. Rose,174,186,25,Missed,1,0,0,0,h,MISS Rose 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+211,242,PT01M38.00S,2,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,Graham REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+212,243,PT01M16.00S,2,1610612751,NJN,2566,Outlaw,T. Outlaw,-2,17,2,Made,1,43,44,87,v,Outlaw 2' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,0,0
+213,254,PT00M51.90S,2,1610612741,CHI,2430,Boozer,C. Boozer,30,32,4,Missed,1,0,0,0,h,MISS Boozer 4' Jump Shot,Missed Shot,Jump Shot,0,0
+214,245,PT00M51.90S,2,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,Vujacic REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+215,246,PT00M43.50S,2,1610612751,NJN,201572,Lopez,B. Lopez,4,11,1,Missed,1,0,0,0,v,MISS Lopez 1' Layup,Missed Shot,Layup Shot,0,0
+216,246,PT00M43.50S,2,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas BLOCK (1 BLK),,,0,0
+217,247,PT00M43.50S,2,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+218,248,PT00M43.50S,2,1610612751,NJN,201572,Lopez,B. Lopez,6,30,3,Missed,1,0,0,0,v,MISS Lopez 3' Layup,Missed Shot,Layup Shot,0,0
+219,249,PT00M43.50S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+220,250,PT00M43.50S,2,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,SUB: Petro FOR Lopez,Substitution,,0,0
+221,252,PT00M23.20S,2,1610612741,CHI,200758,Brewer,R. Brewer,-161,181,24,Made,1,46,44,90,h,Brewer 24' 3PT Jump Shot (8 PTS) (Rose 3 AST),Made Shot,Jump Shot,0,0
+222,255,PT00M00.20S,2,1610612751,NJN,202386,Uzoh,B. Uzoh,69,208,22,Missed,1,0,0,0,v,MISS Uzoh 22' Jump Shot,Missed Shot,Jump Shot,0,0
+223,257,PT00M00.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+224,256,PT00M00.00S,2,0,,0,,,0,0,0,,0,46,44,90,,End of 2nd Period (4:00 PM EST),period,end,0,0
+225,259,PT12M00.00S,3,0,,0,,,0,0,0,,0,46,44,90,,Start of 3rd Period (4:17 PM EST),period,start,0,0
+226,260,PT11M45.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,113,121,17,Missed,1,0,0,0,v,MISS Lopez 17' Jump Shot,Missed Shot,Jump Shot,0,0
+227,261,PT11M44.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+228,262,PT11M30.00S,3,1610612741,CHI,2736,Deng,L. Deng,-122,121,17,Made,1,48,44,92,h,Deng 17' Jump Shot (11 PTS) (Boozer 3 AST),Made Shot,Jump Shot,0,0
+229,263,PT11M09.00S,3,1610612751,NJN,101211,Graham,S. Graham,15,198,20,Missed,1,0,0,0,v,MISS Graham 20' Jump Shot,Missed Shot,Jump Shot,0,0
+230,264,PT11M08.00S,3,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+231,265,PT11M05.00S,3,1610612751,NJN,101211,Graham,S. Graham,-16,17,2,Made,1,48,46,94,v,Graham 2' Running Layup (14 PTS) (Harris 5 AST),Made Shot,Running Layup Shot,0,0
+232,266,PT10M51.00S,3,1610612741,CHI,2736,Deng,L. Deng,-134,160,21,Made,1,50,46,96,h,Deng 21' Jump Shot (13 PTS) (Rose 4 AST),Made Shot,Jump Shot,0,0
+233,267,PT10M26.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0
+234,267,PT10M26.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas STEAL (1 STL),,,0,0
+235,268,PT10M17.00S,3,1610612741,CHI,2586,Bogans,K. Bogans,-232,9,0,Missed,1,0,0,0,h,MISS Bogans  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+236,269,PT10M16.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+237,270,PT10M09.00S,3,1610612741,CHI,2586,Bogans,K. Bogans,-229,15,0,Missed,1,0,0,0,h,MISS Bogans  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+238,271,PT10M08.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+239,272,PT09M49.00S,3,1610612751,NJN,2734,Harris,D. Harris,81,190,21,Missed,1,0,0,0,v,MISS Harris 21' Jump Shot,Missed Shot,Jump Shot,0,0
+240,273,PT09M49.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+241,274,PT09M37.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas S.FOUL (P2.T1),Foul,Shooting,0,0
+242,275,PT09M37.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,50,47,97,v,Lopez Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+243,277,PT09M37.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,50,48,98,v,Lopez Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+244,279,PT09M23.00S,3,1610612741,CHI,201565,Rose,D. Rose,-67,238,25,Made,1,53,48,101,h,Rose 25' 3PT Jump Shot (11 PTS) (Thomas 1 AST),Made Shot,Jump Shot,0,0
+245,280,PT09M10.00S,3,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0
+246,280,PT09M10.00S,3,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans STEAL (1 STL),,,0,0
+247,281,PT08M56.00S,3,1610612741,CHI,2736,Deng,L. Deng,152,205,26,Missed,1,0,0,0,h,MISS Deng 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+248,282,PT08M55.00S,3,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+249,283,PT08M46.00S,3,1610612751,NJN,2743,Humphries,K. Humphries,-10,4,1,Made,1,53,50,103,v,Humphries 1' Layup (2 PTS) (Lopez 2 AST),Made Shot,Layup Shot,0,0
+250,284,PT08M20.00S,3,1610612741,CHI,2736,Deng,L. Deng,-224,7,0,Missed,1,0,0,0,h,MISS Deng  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+251,285,PT08M19.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+252,286,PT08M09.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,20,252,25,Missed,1,0,0,0,v,MISS Outlaw 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+253,287,PT08M08.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:9),Rebound,Unknown,0,0
+254,288,PT08M02.00S,3,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,Humphries P.FOUL (P1.T1),Foul,Personal,0,0
+255,289,PT07M57.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Traveling Turnover (P3.T7),Turnover,Traveling,0,0
+256,297,PT07M45.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,-11,30,3,Missed,1,0,0,0,v,MISS Lopez 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+257,297,PT07M45.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas BLOCK (2 BLK),,,0,0
+258,305,PT07M43.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+259,291,PT07M40.00S,3,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris S.FOUL (P3.T2),Foul,Shooting,0,0
+260,292,PT07M40.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,54,50,104,h,Rose Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+261,294,PT07M40.00S,3,1610612751,NJN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,v,SUB: Favors FOR Humphries,Substitution,,0,0
+262,295,PT07M40.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,55,50,105,h,Rose Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+263,298,PT07M24.00S,3,1610612751,NJN,2734,Harris,D. Harris,-120,222,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+264,300,PT07M22.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:10),Rebound,Unknown,0,0
+265,301,PT07M12.00S,3,1610612741,CHI,201565,Rose,D. Rose,-163,183,25,Missed,1,0,0,0,h,MISS Rose 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+266,302,PT07M11.00S,3,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,Graham REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+267,303,PT07M05.00S,3,1610612751,NJN,2734,Harris,D. Harris,91,156,18,Made,1,55,52,107,v,Harris 18' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,0,0
+268,304,PT06M48.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,21,11,2,Made,1,57,52,109,h,Boozer 2' Layup (10 PTS) (Rose 5 AST),Made Shot,Layup Shot,0,0
+269,306,PT06M31.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,189,123,23,Missed,1,0,0,0,v,MISS Outlaw 23' Jump Shot,Missed Shot,Jump Shot,0,0
+270,307,PT06M30.00S,3,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,Graham REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+271,309,PT06M20.00S,3,1610612751,NJN,101211,Graham,S. Graham,-123,176,21,Missed,1,0,0,0,v,MISS Graham 21' Jump Shot,Missed Shot,Jump Shot,0,0
+272,310,PT06M19.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+273,312,PT06M00.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,13,121,12,Missed,1,0,0,0,h,MISS Boozer 12' Jump Shot,Missed Shot,Jump Shot,0,0
+274,313,PT05M59.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+275,314,PT05M55.00S,3,1610612741,CHI,2586,Bogans,K. Bogans,160,137,21,Missed,1,0,0,0,h,MISS Bogans 21' Jump Shot,Missed Shot,Jump Shot,0,0
+276,315,PT05M55.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+277,316,PT05M55.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez L.B.FOUL (P2.T3),Foul,Loose Ball,0,0
+278,317,PT05M55.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+279,319,PT05M55.00S,3,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Bogans,Substitution,,0,0
+280,320,PT05M55.00S,3,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,SUB: Vujacic FOR Graham,Substitution,,0,0
+281,321,PT05M39.00S,3,1610612741,CHI,201565,Rose,D. Rose,203,142,25,Missed,1,0,0,0,h,MISS Rose 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+282,322,PT05M38.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:2 Def:10),Rebound,Unknown,0,0
+283,323,PT05M32.00S,3,1610612741,CHI,200758,Brewer,R. Brewer,-201,50,21,Missed,1,0,0,0,h,MISS Brewer 21' Jump Shot,Missed Shot,Jump Shot,0,0
+284,324,PT05M31.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+285,325,PT05M30.00S,3,1610612741,CHI,201565,Rose,D. Rose,-8,11,1,Made,1,59,52,111,h,Rose 1' Layup (15 PTS),Made Shot,Layup Shot,0,0
+286,326,PT05M11.00S,3,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors OFF.Foul (P3),Foul,Offensive,0,0
+287,327,PT05M11.00S,3,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors Foul Turnover (P1.T11),Turnover,Foul,0,0
+288,328,PT04M59.00S,3,1610612741,CHI,2736,Deng,L. Deng,234,3,0,Made,1,62,52,114,h,Deng  3PT Jump Shot (16 PTS) (Rose 6 AST),Made Shot,Jump Shot,0,0
+289,329,PT04M43.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas S.FOUL (P3.T2),Foul,Shooting,0,0
+290,330,PT04M43.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,62,53,115,v,Lopez Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+291,332,PT04M43.00S,3,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,SUB: Uzoh FOR Harris,Substitution,,0,0
+292,333,PT04M43.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,62,54,116,v,Lopez Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+293,335,PT04M28.00S,3,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors P.FOUL (P4.T4),Foul,Personal,0,0
+294,336,PT04M28.00S,3,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,SUB: Harris FOR Favors,Substitution,,0,0
+295,337,PT04M15.00S,3,1610612741,CHI,200758,Brewer,R. Brewer,94,194,22,Made,1,64,54,118,h,Brewer 22' Jump Shot (10 PTS) (Thomas 2 AST),Made Shot,Jump Shot,0,0
+296,338,PT03M58.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,-155,37,16,Made,1,64,56,120,v,Outlaw 16' Jump Shot (12 PTS) (Harris 6 AST),Made Shot,Jump Shot,0,0
+297,339,PT03M41.00S,3,1610612741,CHI,200758,Brewer,R. Brewer,-24,156,16,Missed,1,0,0,0,h,MISS Brewer 16' Jump Shot,Missed Shot,Jump Shot,0,0
+298,340,PT03M41.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+299,341,PT03M41.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw P.FOUL (P1.PN),Foul,Personal,0,0
+300,342,PT03M41.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,65,56,121,h,Thomas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+301,347,PT03M41.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Lane Violation Turnover (P4.T8),Turnover,Lane Violation,0,0
+302,348,PT03M26.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,133,224,26,Made,1,65,59,124,v,Outlaw 26' 3PT Jump Shot (15 PTS) (Harris 7 AST),Made Shot,Jump Shot,0,0
+303,349,PT03M06.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-13,14,2,Made,1,67,59,126,h,Boozer 2' Dunk (12 PTS) (Rose 7 AST),Made Shot,Dunk Shot,0,0
+304,350,PT02M46.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,108,227,25,Missed,1,0,0,0,v,MISS Outlaw 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+305,351,PT02M45.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+306,352,PT02M40.00S,3,1610612741,CHI,201565,Rose,D. Rose,12,11,2,Missed,1,0,0,0,h,MISS Rose 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+307,353,PT02M40.00S,3,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,Vujacic REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+308,354,PT02M24.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0
+309,355,PT02M24.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+310,357,PT02M24.00S,3,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,SUB: Petro FOR Lopez,Substitution,,0,0
+311,358,PT02M24.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Watson FOR Boozer,Substitution,,0,0
+312,359,PT02M13.00S,3,1610612751,NJN,202386,Uzoh,B. Uzoh,0,0,0,,0,0,0,0,v,Uzoh Personal Block Foul (P1.PN),Foul,Personal Block,0,0
+313,360,PT02M13.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,MISS Deng Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+314,361,PT02M13.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+315,362,PT02M13.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,68,59,127,h,Deng Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+316,364,PT01M55.00S,3,1610612751,NJN,2756,Vujacic,S. Vujacic,-164,176,24,Made,1,68,62,130,v,Vujacic 24' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+317,365,PT01M30.00S,3,1610612741,CHI,200758,Brewer,R. Brewer,6,12,1,Missed,1,0,0,0,h,MISS Brewer 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+318,366,PT01M29.00S,3,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+319,367,PT01M13.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas Shooting Block Foul (P4.T3),Foul,Shooting Block,0,0
+320,368,PT01M13.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,68,63,131,v,Outlaw Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+321,370,PT01M13.00S,3,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,SUB: Asik FOR Thomas,Substitution,,0,0
+322,371,PT01M13.00S,3,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,MISS Outlaw Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+323,373,PT01M12.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+324,375,PT00M59.70S,3,1610612741,CHI,201565,Rose,D. Rose,13,14,2,Missed,1,0,0,0,h,MISS Rose 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+325,376,PT00M59.70S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+326,377,PT00M59.70S,3,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro P.FOUL (P2.PN),Foul,Personal,0,0
+327,378,PT00M59.70S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,69,63,132,h,Deng Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+328,380,PT00M59.70S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,70,63,133,h,Deng Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+329,382,PT00M44.40S,3,1610612751,NJN,202386,Uzoh,B. Uzoh,0,0,0,,0,0,0,0,v,Uzoh Traveling Turnover (P1.T13),Turnover,Traveling,0,0
+330,384,PT00M26.90S,3,1610612741,CHI,201565,Rose,D. Rose,-179,121,22,Missed,1,0,0,0,h,MISS Rose 22' Jump Shot,Missed Shot,Jump Shot,0,0
+331,385,PT00M25.50S,3,1610612751,NJN,202386,Uzoh,B. Uzoh,0,0,0,,0,0,0,0,v,Uzoh REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+332,386,PT00M05.90S,3,1610612751,NJN,101130,Petro,J. Petro,-24,213,21,Missed,1,0,0,0,v,MISS Petro 21' Jump Shot,Missed Shot,Jump Shot,0,0
+333,387,PT00M04.70S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+334,388,PT00M00.10S,3,1610612741,CHI,201228,Watson,C. Watson,-155,192,25,Missed,1,0,0,0,h,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+335,390,PT00M00.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+336,389,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,63,133,,End of 3rd Period (4:44 PM EST),period,end,0,0
+337,392,PT12M00.00S,4,0,,0,,,0,0,0,,0,70,63,133,,Start of 4th Period (4:46 PM EST),period,start,0,0
+338,393,PT11M49.00S,4,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris P.FOUL (P4.T1),Foul,Personal,0,0
+339,394,PT11M49.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,SUB: Korver FOR Deng,Substitution,,0,0
+340,395,PT11M40.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,190,11,19,Made,1,72,63,135,h,Gibson 19' Jump Shot (2 PTS) (Brewer 2 AST),Made Shot,Jump Shot,0,0
+341,396,PT11M15.00S,4,1610612751,NJN,2756,Vujacic,S. Vujacic,177,20,18,Missed,1,0,0,0,v,MISS Vujacic 18' Jump Shot,Missed Shot,Jump Shot,0,0
+342,397,PT11M14.00S,4,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,Korver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+343,398,PT11M06.00S,4,1610612741,CHI,2594,Korver,K. Korver,-125,205,24,Missed,1,0,0,0,h,MISS Korver 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+344,399,PT11M05.00S,4,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,Graham REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+345,400,PT10M49.00S,4,1610612751,NJN,101211,Graham,S. Graham,184,-14,18,Missed,1,0,0,0,v,MISS Graham 18' Jump Shot,Missed Shot,Jump Shot,0,0
+346,401,PT10M49.00S,4,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+347,402,PT10M49.00S,4,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,Korver L.B.FOUL (P3.T1),Foul,Loose Ball,0,0
+348,403,PT10M42.00S,4,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,Vujacic Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0
+349,404,PT10M31.00S,4,1610612741,CHI,2594,Korver,K. Korver,-161,97,19,Missed,1,0,0,0,h,MISS Korver 19' Jump Shot,Missed Shot,Jump Shot,0,0
+350,405,PT10M31.00S,4,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Rebound,Rebound,Unknown,0,0
+351,406,PT10M14.00S,4,1610612751,NJN,2756,Vujacic,S. Vujacic,-81,206,22,Made,1,72,65,137,v,Vujacic 22' Jump Shot (8 PTS) (Harris 8 AST),Made Shot,Jump Shot,0,0
+352,407,PT09M48.00S,4,1610612741,CHI,200758,Brewer,R. Brewer,-146,200,25,Missed,1,0,0,0,h,MISS Brewer 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+353,408,PT09M46.00S,4,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+354,409,PT09M40.00S,4,1610612751,NJN,101130,Petro,J. Petro,37,66,8,Made,1,72,67,139,v,Petro 8' Running Jump Shot (4 PTS) (Harris 9 AST),Made Shot,Running Jump Shot,0,0
+355,410,PT09M38.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+356,411,PT09M38.00S,4,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,SUB: Rose FOR Watson,Substitution,,0,0
+357,412,PT09M38.00S,4,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,SUB: Boozer FOR Asik,Substitution,,0,0
+358,414,PT09M28.00S,4,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro S.FOUL (P3.T2),Foul,Shooting,0,0
+359,415,PT09M28.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,73,67,140,h,Boozer Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+360,417,PT09M28.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,MISS Boozer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+361,419,PT09M26.00S,4,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+362,420,PT09M12.00S,4,1610612751,NJN,101130,Petro,J. Petro,138,14,14,Missed,1,0,0,0,v,MISS Petro 14' Hook Shot,Missed Shot,Hook Shot,0,0
+363,421,PT09M11.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+364,422,PT08M59.00S,4,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro Violation:Kicked Ball,Violation,Kicked Ball,0,0
+365,423,PT08M53.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-8,12,1,Missed,1,0,0,0,h,MISS Gibson 1' Layup,Missed Shot,Layup Shot,0,0
+366,424,PT08M52.00S,4,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,Petro REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+367,429,PT08M47.00S,4,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,Korver S.FOUL (P4.T2),Foul,Shooting,0,0
+368,430,PT08M47.00S,4,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,73,68,141,v,Favors Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+369,432,PT08M47.00S,4,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,SUB: Deng FOR Korver,Substitution,,0,0
+370,433,PT08M47.00S,4,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,73,69,142,v,Favors Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+371,435,PT08M34.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,-59,39,7,Made,1,75,69,144,h,Boozer 7' Jump Shot (15 PTS) (Rose 8 AST),Made Shot,Jump Shot,0,0
+372,436,PT08M13.00S,4,1610612751,NJN,2734,Harris,D. Harris,12,61,6,Made,1,75,71,146,v,Harris 6' Running Jump Shot (6 PTS) (Vujacic 1 AST),Made Shot,Running Jump Shot,0,0
+373,437,PT07M46.00S,4,1610612741,CHI,200758,Brewer,R. Brewer,-215,257,34,Missed,1,0,0,0,h,MISS Brewer 34' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+374,438,PT07M45.00S,4,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+375,439,PT07M39.00S,4,1610612751,NJN,2734,Harris,D. Harris,53,22,6,Missed,1,0,0,0,v,MISS Harris 6' Jump Shot,Missed Shot,Jump Shot,0,0
+376,440,PT07M38.00S,4,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,Graham REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+377,441,PT07M24.00S,4,1610612751,NJN,2734,Harris,D. Harris,0,230,23,Missed,1,0,0,0,v,MISS Harris 23' Jump Shot,Missed Shot,Jump Shot,0,0
+378,442,PT07M23.00S,4,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+379,443,PT07M07.00S,4,1610612741,CHI,201565,Rose,D. Rose,-24,246,25,Missed,1,0,0,0,h,MISS Rose 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+380,444,PT07M06.00S,4,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,Graham REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+381,445,PT07M02.00S,4,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+382,446,PT07M02.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Thomas FOR Gibson,Substitution,,0,0
+383,447,PT07M02.00S,4,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,SUB: Korver FOR Brewer,Substitution,,0,0
+384,448,PT07M02.00S,4,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,SUB: Lopez FOR Graham,Substitution,,0,0
+385,449,PT07M02.00S,4,1610612751,NJN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,v,SUB: Outlaw FOR Petro,Substitution,,0,0
+386,450,PT06M50.00S,4,1610612751,NJN,2734,Harris,D. Harris,51,44,7,Missed,1,0,0,0,v,MISS Harris 7' Jump Shot,Missed Shot,Jump Shot,0,0
+387,452,PT06M48.00S,4,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+388,451,PT06M48.00S,4,1610612751,NJN,202324,Favors,D. Favors,12,9,2,Made,1,75,73,148,v,Favors 2' Tip Shot (6 PTS),Made Shot,Tip Shot,0,0
+389,453,PT06M30.00S,4,1610612741,CHI,2736,Deng,L. Deng,236,26,24,Missed,1,0,0,0,h,MISS Deng 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+390,454,PT06M29.00S,4,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+391,455,PT06M27.00S,4,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0
+392,455,PT06M27.00S,4,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,Vujacic STEAL (1 STL),,,0,0
+393,456,PT06M05.00S,4,1610612751,NJN,2566,Outlaw,T. Outlaw,105,28,11,Missed,1,0,0,0,v,MISS Outlaw 11' Jump Shot,Missed Shot,Jump Shot,0,0
+394,457,PT06M04.00S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+395,458,PT06M03.00S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez Poss Lost Ball Turnover (P4.T15),Turnover,Poss Lost Ball Turnover,0,0
+396,458,PT06M03.00S,4,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,Korver STEAL (1 STL),,,0,0
+397,460,PT05M41.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,12,28,3,Made,1,77,73,150,h,Boozer 3' Layup (17 PTS) (Korver 2 AST),Made Shot,Layup Shot,0,0
+398,461,PT05M41.00S,4,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors S.FOUL (P5.T3),Foul,Shooting,0,0
+399,462,PT05M41.00S,4,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,SUB: Graham FOR Favors,Substitution,,0,0
+400,463,PT05M41.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,78,73,151,h,Boozer Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0
+401,465,PT05M28.00S,4,1610612751,NJN,2566,Outlaw,T. Outlaw,-19,178,18,Missed,1,0,0,0,v,MISS Outlaw 18' Jump Shot,Missed Shot,Jump Shot,0,0
+402,466,PT05M27.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:2 Def:11),Rebound,Unknown,0,0
+403,467,PT05M24.00S,4,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw S.FOUL (P2.T4),Foul,Shooting,0,0
+404,468,PT05M24.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,79,73,152,h,Rose Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+405,470,PT05M24.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,80,73,153,h,Rose Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+406,474,PT04M58.00S,4,1610612751,NJN,2756,Vujacic,S. Vujacic,198,149,25,Missed,1,0,0,0,v,MISS Vujacic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+407,475,PT04M55.00S,4,1610612751,NJN,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+408,476,PT04M50.00S,4,1610612751,NJN,201572,Lopez,B. Lopez,4,12,1,Missed,1,0,0,0,v,MISS Lopez 1' Layup,Missed Shot,Layup Shot,0,0
+409,477,PT04M47.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+410,478,PT04M41.00S,4,1610612741,CHI,2594,Korver,K. Korver,-232,48,24,Missed,1,0,0,0,h,MISS Korver 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+411,480,PT04M39.00S,4,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,Graham REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+412,482,PT04M23.00S,4,1610612751,NJN,2734,Harris,D. Harris,17,160,16,Made,1,80,75,155,v,Harris 16' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+413,484,PT04M07.00S,4,1610612741,CHI,201565,Rose,D. Rose,-84,4,8,Made,1,82,75,157,h,Rose 8' Running Jump Shot (19 PTS),Made Shot,Running Jump Shot,0,0
+414,485,PT03M44.00S,4,1610612751,NJN,101211,Graham,S. Graham,-87,192,21,Made,1,82,77,159,v,Graham 21' Jump Shot (16 PTS) (Vujacic 2 AST),Made Shot,Jump Shot,0,0
+415,486,PT03M29.00S,4,1610612741,CHI,703,Thomas,K. Thomas,26,9,3,Made,1,84,77,161,h,Thomas 3' Layup (5 PTS) (Boozer 4 AST),Made Shot,Layup Shot,0,0
+416,487,PT03M09.00S,4,1610612751,NJN,2756,Vujacic,S. Vujacic,-155,145,21,Missed,1,0,0,0,v,MISS Vujacic 21' Jump Shot,Missed Shot,Jump Shot,0,0
+417,488,PT03M08.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:2 Def:12),Rebound,Unknown,0,0
+418,489,PT02M52.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,23,14,3,Made,1,86,77,163,h,Boozer 3' Dunk (20 PTS) (Korver 3 AST),Made Shot,Dunk Shot,0,0
+419,490,PT02M52.00S,4,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Short (Reg.4 Short 2),Timeout,Short,0,0
+420,491,PT02M52.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+421,494,PT02M37.00S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez Offensive Charge Foul (P3.PN),Foul,Offensive Charge,0,0
+422,495,PT02M37.00S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez Foul Turnover (P5.T16),Turnover,Foul,0,0
+423,496,PT02M23.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer OFF.Foul (P3),Foul,Offensive,0,0
+424,497,PT02M23.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Foul Turnover (P5.T10),Turnover,Foul,0,0
+425,498,PT02M07.00S,4,1610612751,NJN,2756,Vujacic,S. Vujacic,174,200,27,Missed,1,0,0,0,v,MISS Vujacic 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+426,499,PT02M06.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+427,500,PT01M54.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+428,502,PT01M47.00S,4,1610612741,CHI,2594,Korver,K. Korver,-141,126,19,Made,1,88,77,165,h,Korver 19' Jump Shot (9 PTS) (Rose 9 AST),Made Shot,Jump Shot,0,0
+429,503,PT01M38.00S,4,1610612751,NJN,2734,Harris,D. Harris,0,14,1,Made,1,88,79,167,v,Harris 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+430,504,PT01M19.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0
+431,504,PT01M19.00S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez STEAL (1 STL),,,0,0
+432,505,PT01M13.00S,4,1610612751,NJN,2756,Vujacic,S. Vujacic,-187,175,26,Missed,1,0,0,0,v,MISS Vujacic 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+433,506,PT01M12.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+434,507,PT00M50.90S,4,1610612741,CHI,703,Thomas,K. Thomas,-177,4,18,Missed,1,0,0,0,h,MISS Thomas 18' Jump Shot,Missed Shot,Jump Shot,0,0
+435,508,PT00M50.90S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+436,509,PT00M39.90S,4,1610612741,CHI,2736,Deng,L. Deng,154,205,26,Missed,1,0,0,0,h,MISS Deng 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+437,510,PT00M38.90S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+438,511,PT00M38.90S,4,0,,1610612751,,,0,0,0,,0,0,0,0,v,Nets Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,0
+439,512,PT00M38.90S,4,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,SUB: Favors FOR Graham,Substitution,,0,0
+440,513,PT00M38.90S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Boozer,Substitution,,0,0
+441,515,PT00M28.90S,4,1610612751,NJN,2566,Outlaw,T. Outlaw,-157,12,16,Missed,1,0,0,0,v,MISS Outlaw 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+442,516,PT00M27.60S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+443,517,PT00M26.30S,4,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer S.FOUL (P1.T3),Foul,Shooting,0,0
+444,518,PT00M26.30S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,88,80,168,v,Lopez Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+445,520,PT00M26.30S,4,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,SUB: Boozer FOR Brewer,Substitution,,0,0
+446,522,PT00M26.30S,4,1610612751,NJN,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,SUB: Uzoh FOR Favors,Substitution,,0,0
+447,523,PT00M26.30S,4,1610612751,NJN,2756,Vujacic,S. Vujacic,0,0,0,,0,0,0,0,v,SUB: Graham FOR Vujacic,Substitution,,0,0
+448,524,PT00M26.30S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,88,81,169,v,Lopez Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+449,526,PT00M26.30S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 5 Short 2),Timeout,Regular,0,0
+450,527,PT00M26.30S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,SUB: Watson FOR Deng,Substitution,,0,0
+451,528,PT00M26.30S,4,1610612751,NJN,101211,Graham,S. Graham,0,0,0,,0,0,0,0,v,SUB: Vujacic FOR Graham,Substitution,,0,0
+452,529,PT00M26.30S,4,1610612751,NJN,202386,Uzoh,B. Uzoh,0,0,0,,0,0,0,0,v,SUB: Favors FOR Uzoh,Substitution,,0,0
+453,530,PT00M25.50S,4,1610612751,NJN,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris Personal Take Foul (P5.PN),Foul,Personal Take,0,0
+454,531,PT00M25.50S,4,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,89,81,170,h,Thomas Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+455,533,PT00M25.50S,4,1610612741,CHI,703,Thomas,K. Thomas,0,0,0,,0,90,81,171,h,Thomas Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+456,535,PT00M14.90S,4,1610612751,NJN,2566,Outlaw,T. Outlaw,204,156,26,Missed,1,0,0,0,v,MISS Outlaw 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+457,535,PT00M14.90S,4,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson BLOCK (1 BLK),,,0,0
+458,536,PT00M11.90S,4,1610612751,NJN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,v,Lopez REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+459,537,PT00M09.90S,4,1610612751,NJN,2566,Outlaw,T. Outlaw,206,146,25,Missed,1,0,0,0,v,MISS Outlaw 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+460,538,PT00M06.90S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:2 Def:13),Rebound,Unknown,0,0
+461,539,PT00M00.00S,4,0,,0,,,0,0,0,,0,90,81,171,,End of 4th Period (5:20 PM EST),period,end,0,0

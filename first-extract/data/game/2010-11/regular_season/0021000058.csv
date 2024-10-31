@@ -1,0 +1,529 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:08 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,Jump Ball O'Neal vs. Bogut: Tip to Garnett,Jump Ball,,0,0
+3,2,PT11M41.00S,1,1610612738,BOS,951,Allen,R. Allen,-13,6,1,Missed,1,0,0,0,h,MISS Allen 1' Layup,Missed Shot,Layup Shot,0,0
+4,2,PT11M41.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut BLOCK (1 BLK),,,0,0
+5,3,PT11M40.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+6,4,PT11M23.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,-5,12,1,Missed,1,0,0,0,v,MISS Bogut 1' Hook Shot,Missed Shot,Hook Shot,0,0
+7,5,PT11M22.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+8,6,PT11M15.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0
+9,7,PT11M03.00S,1,1610612749,MIL,2422,Salmons,J. Salmons,84,105,13,Missed,1,0,0,0,v,MISS Salmons 13' Jump Shot,Missed Shot,Jump Shot,0,0
+10,8,PT11M02.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+11,9,PT10M51.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-7,-17,2,Missed,1,0,0,0,h,MISS Pierce 2' Layup,Missed Shot,Layup Shot,0,0
+12,10,PT10M50.00S,1,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+13,11,PT10M45.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal S.FOUL (P1.T1),Foul,Shooting,0,0
+14,12,PT10M45.00S,1,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,1,1,v,Gooden Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+15,14,PT10M45.00S,1,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,2,2,v,Gooden Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+16,16,PT10M34.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+17,16,PT10M34.00S,1,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden STEAL (1 STL),,,0,0
+18,17,PT10M26.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+19,18,PT10M15.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings P.FOUL (P1.T1),Foul,Personal,0,0
+20,19,PT09M59.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,166,124,21,Made,1,2,2,4,h,Pierce 21' Pullup Jump Shot (2 PTS) (Allen 1 AST),Made Shot,Pullup Jump shot,0,0
+21,20,PT09M40.00S,1,1610612749,MIL,2400,Gooden,D. Gooden,-37,217,22,Missed,1,0,0,0,v,MISS Gooden 22' Jump Shot,Missed Shot,Jump Shot,0,0
+22,21,PT09M39.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+23,22,PT09M30.00S,1,1610612738,BOS,951,Allen,R. Allen,0,148,15,Made,1,4,2,6,h,Allen 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,0
+24,23,PT09M20.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,7,0,1,Missed,1,0,0,0,v,MISS Bogut 1' Layup,Missed Shot,Layup Shot,0,0
+25,23,PT09M20.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal BLOCK (1 BLK),,,0,0
+26,24,PT09M20.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+27,25,PT09M17.00S,1,1610612749,MIL,2422,Salmons,J. Salmons,-161,20,16,Made,1,4,4,8,v,Salmons 16' Jump Shot (2 PTS) (Delfino 1 AST),Made Shot,Jump Shot,0,0
+28,26,PT08M52.00S,1,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+29,26,PT08M52.00S,1,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden STEAL (2 STL),,,0,0
+30,27,PT08M33.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,-5,0,1,Missed,1,0,0,0,v,MISS Bogut 1' Layup,Missed Shot,Layup Shot,0,0
+31,28,PT08M31.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+32,29,PT08M21.00S,1,1610612738,BOS,951,Allen,R. Allen,39,20,4,Made,1,6,4,10,h,Allen 4' Running Bank Shot (4 PTS),Made Shot,Running Bank shot,0,0
+33,30,PT07M58.00S,1,1610612749,MIL,2422,Salmons,J. Salmons,84,31,9,Made,1,6,6,12,v,Salmons 9' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,0,0
+34,31,PT07M34.00S,1,1610612738,BOS,708,Garnett,K. Garnett,-100,148,18,Missed,1,0,0,0,h,MISS Garnett 18' Jump Shot,Missed Shot,Jump Shot,0,0
+35,32,PT07M33.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+36,33,PT07M25.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,-54,175,18,Missed,1,0,0,0,v,MISS Jennings 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+37,34,PT07M24.00S,1,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+38,35,PT07M16.00S,1,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden S.FOUL (P1.T2),Foul,Shooting,0,0
+39,36,PT07M16.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+40,37,PT07M16.00S,1,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0
+41,38,PT07M16.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,7,6,13,h,O'Neal Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+42,40,PT06M52.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,69,37,8,Missed,1,0,0,0,v,MISS Bogut 8' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+43,41,PT06M51.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+44,42,PT06M46.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo Traveling Turnover (P2.T4),Turnover,Traveling,0,0
+45,43,PT06M30.00S,1,1610612749,MIL,2422,Salmons,J. Salmons,-70,36,8,Made,1,7,8,15,v,Salmons 8' Fadeaway Jumper (6 PTS) (Jennings 1 AST),Made Shot,Fadeaway Jump Shot,0,0
+46,44,PT06M25.00S,1,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino S.FOUL (P1.T3),Foul,Shooting,0,0
+47,45,PT06M25.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,8,8,16,h,Rondo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+48,47,PT06M25.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,9,8,17,h,Rondo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+49,49,PT06M10.00S,1,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen P.FOUL (P1.T2),Foul,Personal,0,0
+50,50,PT05M59.00S,1,1610612749,MIL,2422,Salmons,J. Salmons,-82,230,24,Missed,1,0,0,0,v,MISS Salmons 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+51,51,PT05M58.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+52,52,PT05M44.00S,1,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden S.FOUL (P2.T4),Foul,Shooting,0,0
+53,53,PT05M44.00S,1,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+54,55,PT05M44.00S,1,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,SUB: Ilyasova FOR Gooden,Substitution,,0,0
+55,56,PT05M44.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,10,8,18,h,Pierce Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+56,58,PT05M44.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,11,8,19,h,Pierce Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+57,60,PT05M26.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,-13,42,4,Missed,1,0,0,0,v,MISS Bogut 4' Jump Shot,Missed Shot,Jump Shot,0,0
+58,60,PT05M26.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett BLOCK (1 BLK),,,0,0
+59,61,PT05M25.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+60,63,PT05M14.00S,1,1610612738,BOS,708,Garnett,K. Garnett,54,15,6,Missed,1,0,0,0,h,MISS Garnett 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+61,64,PT05M12.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+62,65,PT05M08.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-138,201,24,Missed,1,0,0,0,h,MISS Pierce 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+63,66,PT05M07.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+64,67,PT05M00.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo S.FOUL (P1.T3),Foul,Shooting,0,0
+65,68,PT05M00.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Brockman FOR Bogut,Substitution,,0,0
+66,69,PT05M00.00S,1,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,SUB: Davis FOR O'Neal,Substitution,,0,0
+67,70,PT05M00.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,11,9,20,v,Jennings Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+68,72,PT05M00.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,MISS Jennings Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+69,74,PT04M59.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+70,75,PT04M42.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Bucks T.Foul (Def. 3 Sec Ilyasova ),Foul,Defense 3 Second,0,0
+71,76,PT04M42.00S,1,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,12,9,21,h,Allen Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+72,78,PT04M36.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,6,1,1,Made,1,14,9,23,h,Pierce 1' Layup (6 PTS) (Rondo 1 AST),Made Shot,Layup Shot,0,0
+73,79,PT04M17.00S,1,1610612749,MIL,2422,Salmons,J. Salmons,-5,0,1,Missed,1,0,0,0,v,MISS Salmons 1' Layup,Missed Shot,Layup Shot,0,0
+74,80,PT04M16.00S,1,1610612749,MIL,201972,Brockman,J. Brockman,0,0,0,,0,0,0,0,v,Brockman REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+75,81,PT04M15.00S,1,1610612749,MIL,201972,Brockman,J. Brockman,-2,4,0,Made,1,14,11,25,v,Brockman  Tip Shot (2 PTS),Made Shot,Tip Shot,0,0
+76,82,PT04M04.00S,1,1610612749,MIL,201972,Brockman,J. Brockman,0,0,0,,0,0,0,0,v,Brockman S.FOUL (P1.PN),Foul,Shooting,0,0
+77,83,PT04M04.00S,1,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,SUB: Daniels FOR Allen,Substitution,,0,0
+78,84,PT04M04.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,15,11,26,h,Garnett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+79,86,PT04M04.00S,1,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,SUB: Maggette FOR Delfino,Substitution,,0,0
+80,87,PT04M04.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,MISS Garnett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+81,89,PT04M03.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+82,90,PT03M48.00S,1,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons Backcourt Turnover (P1.T2),Turnover,Backcourt Turnover,0,0
+83,91,PT03M34.00S,1,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis Offensive Charge Foul (P1.T4),Foul,Offensive Charge,0,0
+84,92,PT03M34.00S,1,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis Foul Turnover (P1.T5),Turnover,Foul,0,0
+85,93,PT03M18.00S,1,1610612749,MIL,1894,Maggette,C. Maggette,45,131,14,Missed,1,0,0,0,v,MISS Maggette 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+86,94,PT03M17.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+87,95,PT03M12.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,4,-3,1,Made,1,17,11,28,h,Rondo 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+88,96,PT02M56.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,-4,15,2,Missed,1,0,0,0,v,MISS Jennings 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+89,97,PT02M55.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+90,98,PT02M53.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo Traveling Turnover (P3.T6),Turnover,Traveling,0,0
+91,99,PT02M53.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+92,101,PT02M53.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,SUB: Dooling FOR Jennings,Substitution,,0,0
+93,102,PT02M44.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce P.FOUL (P1.PN),Foul,Personal,0,0
+94,103,PT02M38.00S,1,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,CELTICS T.Foul (Def. 3 Sec Davis ),Foul,Defense 3 Second,0,0
+95,104,PT02M38.00S,1,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,17,12,29,v,Maggette Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+96,106,PT02M23.00S,1,1610612749,MIL,2422,Salmons,J. Salmons,171,56,18,Missed,1,0,0,0,v,MISS Salmons 18' Jump Shot,Missed Shot,Jump Shot,0,0
+97,107,PT02M22.00S,1,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+98,108,PT02M09.00S,1,1610612738,BOS,708,Garnett,K. Garnett,67,63,9,Missed,1,0,0,0,h,MISS Garnett 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+99,109,PT02M08.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+100,110,PT01M53.00S,1,1610612749,MIL,1894,Maggette,C. Maggette,80,45,9,Missed,1,0,0,0,v,MISS Maggette 9' Jump Shot,Missed Shot,Jump Shot,0,0
+101,111,PT01M52.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+102,112,PT01M42.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,198,25,20,Made,1,19,12,31,h,Rondo 20' Jump Shot (6 PTS) (Pierce 1 AST),Made Shot,Jump Shot,0,0
+103,113,PT01M22.00S,1,1610612749,MIL,2039,Dooling,K. Dooling,-239,0,24,Made,1,19,15,34,v,Dooling 24' 3PT Jump Shot (3 PTS) (Salmons 1 AST),Made Shot,Jump Shot,0,0
+104,114,PT01M04.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-138,102,17,Made,1,21,15,36,h,Pierce 17' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,0,0
+105,115,PT00M47.90S,1,1610612749,MIL,1894,Maggette,C. Maggette,-13,-5,1,Missed,1,0,0,0,v,MISS Maggette 1' Layup,Missed Shot,Layup Shot,0,0
+106,116,PT00M46.90S,1,1610612749,MIL,201972,Brockman,J. Brockman,0,0,0,,0,0,0,0,v,Brockman REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+107,117,PT00M41.90S,1,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0
+108,117,PT00M41.90S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo STEAL (1 STL),,,0,0
+109,119,PT00M35.50S,1,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons S.FOUL (P1.PN),Foul,Shooting,0,0
+110,120,PT00M35.50S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Rondo,Substitution,,0,0
+111,121,PT00M35.50S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,SUB: Erden FOR Garnett,Substitution,,0,0
+112,122,PT00M35.50S,1,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,MISS Daniels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+113,123,PT00M35.50S,1,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0
+114,124,PT00M35.50S,1,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,22,15,37,h,Daniels Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+115,126,PT00M21.80S,1,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,Daniels S.FOUL (P1.PN),Foul,Shooting,0,0
+116,127,PT00M21.80S,1,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,MISS Salmons Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+117,128,PT00M21.80S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+118,130,PT00M21.80S,1,1610612738,BOS,201623,Erden,S. Erden,0,0,0,,0,0,0,0,h,SUB: Allen FOR Erden,Substitution,,0,0
+119,131,PT00M21.80S,1,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,SUB: Rondo FOR Davis,Substitution,,0,0
+120,133,PT00M21.80S,1,1610612749,MIL,201972,Brockman,J. Brockman,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Brockman,Substitution,,0,0
+121,135,PT00M21.80S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,SUB: Jennings FOR Ilyasova,Substitution,,0,0
+122,137,PT00M21.80S,1,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,22,16,38,v,Salmons Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+123,139,PT00M01.70S,1,1610612738,BOS,951,Allen,R. Allen,-226,3,0,Made,1,25,16,41,h,Allen  3PT Jump Shot (8 PTS) (Pierce 2 AST),Made Shot,Jump Shot,0,0
+124,140,PT00M00.00S,1,1610612749,MIL,2039,Dooling,K. Dooling,-97,517,53,Missed,1,0,0,0,v,MISS Dooling 53' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+125,141,PT00M00.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+126,143,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,16,41,,End of 1st Period (8:40 PM EST),period,end,0,0
+127,145,PT12M00.00S,2,0,,0,,,0,0,0,,0,25,16,41,,Start of 2nd Period (8:43 PM EST),period,start,0,0
+128,146,PT11M44.00S,2,1610612749,MIL,2568,Delfino,C. Delfino,4,1,0,Missed,1,0,0,0,v,MISS Delfino  Layup,Missed Shot,Layup Shot,0,0
+129,148,PT11M43.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+130,147,PT11M43.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,-5,1,1,Made,1,25,18,43,v,Bogut 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,0
+131,149,PT11M19.00S,2,1610612738,BOS,101144,Wafer,V. Wafer,7,159,16,Made,1,27,18,45,h,Wafer 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+132,150,PT10M54.00S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,9,97,10,Missed,1,0,0,0,v,MISS Mbah a Moute 10' Jump Shot,Missed Shot,Jump Shot,0,0
+133,151,PT10M53.00S,2,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+134,152,PT10M47.00S,2,1610612738,BOS,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson OFF.Foul (P1),Foul,Offensive,0,0
+135,153,PT10M47.00S,2,1610612738,BOS,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson Foul Turnover (P1.T7),Turnover,Foul,0,0
+136,154,PT10M31.00S,2,1610612749,MIL,2039,Dooling,K. Dooling,-164,187,25,Made,1,27,21,48,v,Dooling 25' 3PT Jump Shot (6 PTS) (Delfino 2 AST),Made Shot,Jump Shot,0,0
+137,155,PT10M04.00S,2,1610612738,BOS,201175,Davis,G. Davis,-4,3,1,Missed,1,0,0,0,h,MISS Davis 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+138,156,PT10M03.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+139,157,PT09M53.00S,2,1610612749,MIL,2568,Delfino,C. Delfino,0,3,0,Made,1,27,23,50,v,Delfino  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+140,158,PT09M26.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,-73,61,10,Missed,1,0,0,0,h,MISS Daniels 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+141,160,PT09M25.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+142,161,PT09M25.00S,2,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis L.B.FOUL (P2.T1),Foul,Loose Ball,0,0
+143,162,PT09M22.00S,2,1610612738,BOS,201623,Erden,S. Erden,0,0,0,,0,0,0,0,h,SUB: O'Neal FOR Erden,Substitution,,0,0
+144,163,PT09M11.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-158,39,16,Made,1,27,25,52,v,Ilyasova 16' Jump Shot (2 PTS) (Dooling 1 AST),Made Shot,Jump Shot,0,0
+145,164,PT09M02.00S,2,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+146,167,PT09M02.00S,2,1610612738,BOS,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,SUB: Rondo FOR Robinson,Substitution,,0,0
+147,168,PT09M02.00S,2,1610612738,BOS,101144,Wafer,V. Wafer,0,0,0,,0,0,0,0,h,SUB: Allen FOR Wafer,Substitution,,0,0
+148,169,PT08M43.00S,2,1610612738,BOS,201175,Davis,G. Davis,12,160,16,Made,1,29,25,54,h,Davis 16' Jump Shot (2 PTS) (O'Neal 1 AST),Made Shot,Jump Shot,0,0
+149,170,PT08M31.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-11,11,2,Missed,1,0,0,0,v,MISS Ilyasova 2' Layup,Missed Shot,Layup Shot,0,0
+150,172,PT08M29.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+151,171,PT08M29.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,-12,9,2,Made,1,29,27,56,v,Bogut 2' Tip Shot (4 PTS),Made Shot,Tip Shot,0,0
+152,173,PT08M09.00S,2,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo Bad Pass Turnover (P4.T8),Turnover,Bad Pass,0,0
+153,173,PT08M09.00S,2,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino STEAL (1 STL),,,0,0
+154,174,PT08M04.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-10,3,1,Made,1,29,29,58,v,Ilyasova 1' Layup (4 PTS) (Delfino 3 AST),Made Shot,Layup Shot,0,0
+155,175,PT08M04.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,Daniels S.FOUL (P2.T2),Foul,Shooting,0,0
+156,176,PT08M04.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,29,30,59,v,Ilyasova Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+157,178,PT07M51.00S,2,1610612738,BOS,951,Allen,R. Allen,6,159,16,Made,1,31,30,61,h,Allen 16' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,0,0
+158,179,PT07M35.00S,2,1610612749,MIL,2568,Delfino,C. Delfino,130,168,21,Made,1,31,32,63,v,Delfino 21' Jump Shot (4 PTS) (Dooling 2 AST),Made Shot,Jump Shot,0,0
+159,180,PT07M10.00S,2,1610612738,BOS,951,Allen,R. Allen,70,48,8,Missed,1,0,0,0,h,MISS Allen 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+160,181,PT07M09.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,Daniels REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+161,182,PT07M08.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut S.FOUL (P1.T1),Foul,Shooting,0,0
+162,183,PT07M08.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,32,32,64,h,Daniels Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+163,185,PT07M08.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,33,32,65,h,Daniels Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+164,187,PT06M55.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,-2,15,2,Made,1,33,34,67,v,Bogut 2' Dunk (6 PTS) (Ilyasova 1 AST),Made Shot,Dunk Shot,0,0
+165,188,PT06M35.00S,2,1610612738,BOS,201175,Davis,G. Davis,-7,0,1,Missed,1,0,0,0,h,MISS Davis 1' Layup,Missed Shot,Layup Shot,0,0
+166,189,PT06M32.00S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+167,190,PT06M19.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,52,5,Made,1,33,36,69,v,Bogut 5' Hook Bank Shot (8 PTS) (Mbah a Moute 1 AST),Made Shot,Hook Bank Shot,0,0
+168,191,PT06M02.00S,2,1610612738,BOS,979,O'Neal,J. O'Neal,-62,154,17,Missed,1,0,0,0,h,MISS O'Neal 17' Jump Shot,Missed Shot,Jump Shot,0,0
+169,192,PT06M01.00S,2,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+170,193,PT05M52.00S,2,1610612749,MIL,2568,Delfino,C. Delfino,-7,268,27,Missed,1,0,0,0,v,MISS Delfino 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+171,194,PT05M51.00S,2,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+172,195,PT05M31.00S,2,1610612738,BOS,951,Allen,R. Allen,-127,132,18,Made,1,35,36,71,h,Allen 18' Jump Shot (12 PTS) (Rondo 2 AST),Made Shot,Jump Shot,0,0
+173,196,PT05M08.00S,2,1610612749,MIL,2568,Delfino,C. Delfino,-13,0,1,Made,1,35,38,73,v,Delfino 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+174,197,PT04M49.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova S.FOUL (P1.T2),Foul,Shooting,0,0
+175,198,PT04M49.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+176,201,PT04M49.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,SUB: Pierce FOR Daniels,Substitution,,0,0
+177,202,PT04M49.00S,2,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,36,38,74,h,Davis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+178,204,PT04M49.00S,2,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,37,38,75,h,Davis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+179,206,PT04M36.00S,2,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal P.FOUL (P2.T3),Foul,Personal,0,0
+180,207,PT04M36.00S,2,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,SUB: Garnett FOR Davis,Substitution,,0,0
+181,208,PT04M28.00S,2,1610612749,MIL,2568,Delfino,C. Delfino,170,187,25,Missed,1,0,0,0,v,MISS Delfino 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+182,209,PT04M27.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+183,210,PT04M27.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce L.B.FOUL (P2.T4),Foul,Loose Ball,0,0
+184,211,PT04M12.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,84,236,25,Made,1,37,41,78,v,Ilyasova 25' 3PT Jump Shot (8 PTS) (Delfino 4 AST),Made Shot,Jump Shot,0,0
+185,212,PT03M50.00S,2,1610612738,BOS,708,Garnett,K. Garnett,189,20,19,Missed,1,0,0,0,h,MISS Garnett 19' Jump Shot,Missed Shot,Jump Shot,0,0
+186,213,PT03M49.00S,2,1610612749,MIL,2039,Dooling,K. Dooling,0,0,0,,0,0,0,0,v,Dooling REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+187,214,PT03M41.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,-2,14,1,Missed,1,0,0,0,v,MISS Bogut 1' Layup,Missed Shot,Layup Shot,0,0
+188,214,PT03M41.00S,2,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal BLOCK (2 BLK),,,0,0
+189,215,PT03M40.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+190,216,PT03M30.00S,2,1610612738,BOS,708,Garnett,K. Garnett,1,0,0,Made,1,39,41,80,h,Garnett  Layup (3 PTS) (Rondo 3 AST),Made Shot,Layup Shot,0,0
+191,217,PT03M07.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-5,-3,1,Missed,1,0,0,0,v,MISS Ilyasova 1' Layup,Missed Shot,Layup Shot,0,0
+192,218,PT03M06.00S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+193,219,PT03M05.00S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,-34,-3,3,Missed,1,0,0,0,v,MISS Mbah a Moute 3' Jump Shot,Missed Shot,Jump Shot,0,0
+194,219,PT03M05.00S,2,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal BLOCK (3 BLK),,,0,0
+195,220,PT03M04.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+196,221,PT03M04.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,0
+197,222,PT03M04.00S,2,1610612749,MIL,2039,Dooling,K. Dooling,0,0,0,,0,0,0,0,v,SUB: Jennings FOR Dooling,Substitution,,0,0
+198,223,PT02M49.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce Traveling Turnover (P2.T9),Turnover,Traveling,0,0
+199,224,PT02M49.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+200,226,PT02M29.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett P.FOUL (P1.PN),Foul,Personal,0,0
+201,227,PT02M29.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,39,42,81,v,Ilyasova Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+202,229,PT02M29.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,39,43,82,v,Ilyasova Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+203,231,PT02M13.00S,2,1610612738,BOS,951,Allen,R. Allen,-235,33,24,Made,1,42,43,85,h,Allen 24' 3PT Jump Shot (15 PTS) (Pierce 3 AST),Made Shot,Jump Shot,0,0
+204,232,PT01M52.00S,2,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal P.FOUL (P3.PN),Foul,Personal,0,0
+205,235,PT01M52.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,42,44,86,v,Bogut Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+206,237,PT01M52.00S,2,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,SUB: Davis FOR O'Neal,Substitution,,0,0
+207,238,PT01M52.00S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Salmons FOR Mbah a Moute,Substitution,,0,0
+208,239,PT01M52.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,42,45,87,v,Bogut Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+209,242,PT01M34.00S,2,1610612738,BOS,200765,Rondo,R. Rondo,10,1,1,Made,1,44,45,89,h,Rondo 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+210,243,PT01M15.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova Offensive Charge Foul (P2.T3),Foul,Offensive Charge,0,0
+211,244,PT01M15.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova Foul Turnover (P1.T5),Turnover,Foul,0,0
+212,245,PT01M15.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,SUB: Gooden FOR Ilyasova,Substitution,,0,0
+213,246,PT01M01.00S,2,1610612738,BOS,951,Allen,R. Allen,-86,53,10,Missed,1,0,0,0,h,MISS Allen 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+214,247,PT00M59.80S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+215,248,PT00M46.70S,2,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis S.FOUL (P3.PN),Foul,Shooting,0,0
+216,249,PT00M46.70S,2,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,44,46,90,v,Salmons Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+217,251,PT00M46.70S,2,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,44,47,91,v,Salmons Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+218,253,PT00M37.90S,2,1610612738,BOS,200765,Rondo,R. Rondo,6,1,1,Missed,1,0,0,0,h,MISS Rondo 1' Layup,Missed Shot,Layup Shot,0,0
+219,254,PT00M36.90S,2,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+220,255,PT00M33.10S,2,1610612738,BOS,1718,Pierce,P. Pierce,43,242,25,Made,1,47,47,94,h,Pierce 25' 3PT Jump Shot (11 PTS) (Rondo 4 AST),Made Shot,Jump Shot,0,0
+221,256,PT00M09.60S,2,1610612749,MIL,201943,Jennings,B. Jennings,236,6,24,Missed,1,0,0,0,v,MISS Jennings 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+222,257,PT00M09.10S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+223,258,PT00M09.10S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0
+224,259,PT00M09.10S,2,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+225,261,PT00M07.30S,2,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Davis,Substitution,,0,0
+226,262,PT00M07.30S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Dooling FOR Bogut,Substitution,,0,0
+227,263,PT00M00.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,-2,148,15,Missed,1,0,0,0,h,MISS Pierce 15' Jump Shot,Missed Shot,Jump Shot,0,0
+228,264,PT00M00.00S,2,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Rebound,Rebound,Unknown,0,0
+229,265,PT00M00.00S,2,0,,0,,,0,0,0,,0,47,47,94,,End of 2nd Period (9:15 PM EST),period,end,0,0
+230,267,PT12M00.00S,3,0,,0,,,0,0,0,,0,47,47,94,,Start of 3rd Period (9:34 PM EST),period,start,0,0
+231,268,PT11M41.00S,3,1610612749,MIL,2422,Salmons,J. Salmons,-100,33,11,Missed,1,0,0,0,v,MISS Salmons 11' Jump Shot,Missed Shot,Jump Shot,0,0
+232,269,PT11M40.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+233,270,PT11M39.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,-5,0,1,Missed,1,0,0,0,v,MISS Gooden 1' Layup,Missed Shot,Layup Shot,0,0
+234,271,PT11M38.00S,3,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+235,272,PT11M22.00S,3,1610612738,BOS,951,Allen,R. Allen,212,110,24,Missed,1,0,0,0,h,MISS Allen 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+236,273,PT11M21.00S,3,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+237,274,PT11M03.00S,3,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+238,275,PT10M44.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce Backcourt Turnover (P3.T10),Turnover,Backcourt Turnover,0,0
+239,276,PT10M32.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,43,39,6,Missed,1,0,0,0,v,MISS Gooden 6' Jump Shot,Missed Shot,Jump Shot,0,0
+240,277,PT10M31.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+241,278,PT10M27.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+242,278,PT10M27.00S,3,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen STEAL (1 STL),,,0,0
+243,279,PT10M16.00S,3,1610612738,BOS,979,O'Neal,J. O'Neal,136,28,14,Missed,1,0,0,0,h,MISS O'Neal 14' Jump Shot,Missed Shot,Jump Shot,0,0
+244,280,PT10M15.00S,3,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+245,281,PT09M57.00S,3,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen S.FOUL (P2.T1),Foul,Shooting,0,0
+246,282,PT09M57.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,47,48,95,v,Bogut Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+247,283,PT09M57.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,47,49,96,v,Bogut Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+248,285,PT09M39.00S,3,1610612738,BOS,708,Garnett,K. Garnett,18,159,16,Missed,1,0,0,0,h,MISS Garnett 16' Jump Shot,Missed Shot,Jump Shot,0,0
+249,286,PT09M38.00S,3,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+250,287,PT09M24.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,1,19,2,Missed,1,0,0,0,v,MISS Jennings 2' Layup,Missed Shot,Layup Shot,0,0
+251,289,PT09M22.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+252,288,PT09M22.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,-8,8,1,Made,1,47,51,98,v,Bogut 1' Tip Shot (14 PTS),Made Shot,Tip Shot,0,0
+253,290,PT09M05.00S,3,1610612738,BOS,708,Garnett,K. Garnett,-54,184,19,Missed,1,0,0,0,h,MISS Garnett 19' Jump Shot,Missed Shot,Jump Shot,0,0
+254,291,PT09M04.00S,3,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+255,292,PT08M54.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,-93,28,10,Made,1,47,53,100,v,Jennings 10' Running Jump Shot (3 PTS),Made Shot,Running Jump Shot,0,0
+256,293,PT08M31.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,-70,39,8,Missed,1,0,0,0,h,MISS Pierce 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+257,294,PT08M30.00S,3,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+258,295,PT08M12.00S,3,1610612749,MIL,2568,Delfino,C. Delfino,-177,160,24,Missed,1,0,0,0,v,MISS Delfino 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+259,296,PT08M11.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+260,297,PT07M55.00S,3,1610612738,BOS,708,Garnett,K. Garnett,-136,143,20,Made,1,49,53,102,h,Garnett 20' Jump Shot (5 PTS) (Rondo 5 AST),Made Shot,Jump Shot,0,0
+261,298,PT07M36.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,6,91,9,Missed,1,0,0,0,v,MISS Bogut 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+262,299,PT07M35.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+263,300,PT07M21.00S,3,1610612738,BOS,979,O'Neal,J. O'Neal,-141,6,14,Made,1,51,53,104,h,O'Neal 14' Jump Shot (3 PTS) (Allen 2 AST),Made Shot,Jump Shot,0,0
+264,301,PT06M56.00S,3,1610612749,MIL,2422,Salmons,J. Salmons,-73,156,17,Missed,1,0,0,0,v,MISS Salmons 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+265,302,PT06M55.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+266,303,PT06M53.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,-21,9,2,Made,1,51,55,106,v,Gooden 2' Layup (4 PTS),Made Shot,Layup Shot,0,0
+267,304,PT06M34.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,-8,15,2,Missed,1,0,0,0,h,MISS Rondo 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+268,305,PT06M33.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+269,306,PT06M26.00S,3,1610612749,MIL,2422,Salmons,J. Salmons,-8,1,1,Missed,1,0,0,0,v,MISS Salmons 1' Layup,Missed Shot,Layup Shot,0,0
+270,306,PT06M26.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo BLOCK (1 BLK),,,0,0
+271,307,PT06M25.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+272,308,PT06M21.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo Out of Bounds Lost Ball Turnover (P5.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0
+273,309,PT06M21.00S,3,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,SUB: Davis FOR O'Neal,Substitution,,0,0
+274,310,PT06M02.00S,3,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0
+275,310,PT06M02.00S,3,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis STEAL (1 STL),,,0,0
+276,311,PT05M52.00S,3,1610612738,BOS,708,Garnett,K. Garnett,1,1,0,Made,1,53,55,108,h,Garnett  Layup (7 PTS) (Rondo 6 AST),Made Shot,Layup Shot,0,0
+277,312,PT05M49.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+278,316,PT05M29.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Turnover: 5 Second Inbound (T#10),Turnover,5 Second Inbound Turnover,0,0
+279,318,PT05M05.00S,3,1610612738,BOS,951,Allen,R. Allen,198,72,21,Missed,1,0,0,0,h,MISS Allen 21' Jump Shot,Missed Shot,Jump Shot,0,0
+280,319,PT05M04.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+281,320,PT04M52.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden Offensive Charge Foul (P3.T1),Foul,Offensive Charge,0,0
+282,321,PT04M52.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden Foul Turnover (P1.T11),Turnover,Foul,0,0
+283,322,PT04M31.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo Offensive Charge Foul (P2.T2),Foul,Offensive Charge,0,0
+284,323,PT04M31.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo Foul Turnover (P6.T12),Turnover,Foul,0,0
+285,324,PT04M10.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,-5,1,1,Made,1,53,57,110,v,Gooden 1' Layup (6 PTS) (Jennings 2 AST),Made Shot,Layup Shot,0,0
+286,325,PT03M43.00S,3,1610612738,BOS,708,Garnett,K. Garnett,121,162,20,Missed,1,0,0,0,h,MISS Garnett 20' Jump Shot,Missed Shot,Jump Shot,0,0
+287,326,PT03M42.00S,3,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+288,327,PT03M40.00S,3,1610612738,BOS,951,Allen,R. Allen,-5,1,1,Made,1,55,57,112,h,Allen 1' Layup (17 PTS),Made Shot,Layup Shot,0,0
+289,328,PT03M12.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0
+290,329,PT03M12.00S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,SUB: O'Neal FOR Garnett,Substitution,,0,0
+291,330,PT02M59.00S,3,1610612738,BOS,201175,Davis,G. Davis,-172,14,17,Made,1,57,57,114,h,Davis 17' Jump Shot (6 PTS) (Rondo 7 AST),Made Shot,Jump Shot,0,0
+292,331,PT02M33.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,-62,7,6,Made,1,57,59,116,v,Bogut 6' Turnaround Hook Shot (16 PTS),Made Shot,Turnaround Hook Shot,0,0
+293,332,PT02M19.00S,3,1610612738,BOS,951,Allen,R. Allen,231,4,0,Missed,1,0,0,0,h,MISS Allen  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+294,333,PT02M15.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+295,334,PT02M06.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,86,146,17,Made,1,59,59,118,h,Rondo 17' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+296,335,PT01M53.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0
+297,335,PT01M53.00S,3,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen STEAL (2 STL),,,0,0
+298,336,PT01M49.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden Personal Block Foul (P4.T2),Foul,Personal Block,0,0
+299,337,PT01M49.00S,3,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+300,339,PT01M49.00S,3,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,SUB: Ilyasova FOR Salmons,Substitution,,0,0
+301,340,PT01M49.00S,3,1610612749,MIL,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,SUB: Maggette FOR Gooden,Substitution,,0,0
+302,341,PT01M38.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,-81,142,16,Missed,1,0,0,0,h,MISS Pierce 16' Jump Shot,Missed Shot,Jump Shot,0,0
+303,342,PT01M36.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+304,344,PT01M22.00S,3,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,SUB: Daniels FOR Allen,Substitution,,0,0
+305,345,PT01M15.00S,3,1610612749,MIL,2568,Delfino,C. Delfino,1,-2,0,Missed,1,0,0,0,v,MISS Delfino  Layup,Missed Shot,Layup Shot,0,0
+306,346,PT01M14.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:4 Def:5),Rebound,Unknown,0,0
+307,347,PT01M10.00S,3,1610612749,MIL,1894,Maggette,C. Maggette,-125,131,18,Made,1,59,61,120,v,Maggette 18' Jump Shot (3 PTS),Made Shot,Jump Shot,0,0
+308,348,PT00M54.00S,3,1610612738,BOS,201175,Davis,G. Davis,-169,6,17,Made,1,61,61,122,h,Davis 17' Jump Shot (8 PTS) (Rondo 8 AST),Made Shot,Jump Shot,0,0
+309,349,PT00M41.10S,3,1610612749,MIL,201943,Jennings,B. Jennings,26,26,4,Made,1,61,63,124,v,Jennings 4' Running Bank Shot (5 PTS),Made Shot,Running Bank shot,0,0
+310,350,PT00M33.40S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings S.FOUL (P2.PN),Foul,Shooting,0,0
+311,351,PT00M33.40S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,MISS Rondo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+312,352,PT00M33.40S,3,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0
+313,353,PT00M33.40S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,62,63,125,h,Rondo Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+314,356,PT00M15.90S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,64,6,Missed,1,0,0,0,v,MISS Ilyasova 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+315,357,PT00M13.10S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+316,358,PT00M00.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,78,129,15,Missed,1,0,0,0,v,MISS Jennings 15' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+317,359,PT00M00.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+318,360,PT00M00.00S,3,0,,0,,,0,0,0,,0,62,63,125,,End of 3rd Period (10:00 PM EST),period,end,0,0
+319,362,PT12M00.00S,4,0,,0,,,0,0,0,,0,62,63,125,,Start of 4th Period (10:03 PM EST),period,start,0,0
+320,363,PT11M50.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,9,0,1,Made,1,64,63,127,h,Rondo 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,0
+321,366,PT11M40.00S,4,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal P.FOUL (P4.T1),Foul,Personal,0,0
+322,367,PT11M40.00S,4,0,,1941,,,0,0,0,,0,0,0,0,,Glenn Rivers Foul:T.FOUL,Foul,Technical,0,0
+323,368,PT11M40.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,64,64,128,v,Maggette Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0
+324,371,PT11M35.00S,4,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal P.FOUL (P5.T2),Foul,Personal,0,0
+325,372,PT11M35.00S,4,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,SUB: Erden FOR O'Neal,Substitution,,0,0
+326,373,PT11M24.00S,4,1610612738,BOS,201623,Erden,S. Erden,0,0,0,,0,0,0,0,h,Erden S.FOUL (P1.T3),Foul,Shooting,0,0
+327,374,PT11M24.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,64,65,129,v,Bogut Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+328,383,PT11M24.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Rondo,Substitution,,0,0
+329,376,PT11M24.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,MISS Bogut Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+330,378,PT11M21.00S,4,1610612738,BOS,201623,Erden,S. Erden,0,0,0,,0,0,0,0,h,Erden REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+331,379,PT11M10.00S,4,1610612738,BOS,201175,Davis,G. Davis,-84,165,19,Missed,1,0,0,0,h,MISS Davis 19' Jump Shot,Missed Shot,Jump Shot,0,0
+332,380,PT11M09.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Rebound,Rebound,Unknown,0,0
+333,381,PT10M58.00S,4,1610612738,BOS,101126,Robinson,N. Robinson,122,151,19,Missed,1,0,0,0,h,MISS Robinson 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+334,382,PT10M56.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+335,384,PT10M38.00S,4,1610612749,MIL,2039,Dooling,K. Dooling,230,23,0,Missed,1,0,0,0,v,MISS Dooling  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+336,385,PT10M36.00S,4,1610612738,BOS,201623,Erden,S. Erden,0,0,0,,0,0,0,0,h,Erden REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+337,387,PT10M17.00S,4,1610612738,BOS,951,Allen,R. Allen,62,241,25,Missed,1,0,0,0,h,MISS Allen 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+338,388,PT10M16.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+339,389,PT10M08.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette Offensive Charge Foul (P1.T1),Foul,Offensive Charge,0,0
+340,390,PT10M08.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette Foul Turnover (P1.T14),Turnover,Foul,0,0
+341,391,PT09M49.00S,4,1610612738,BOS,101126,Robinson,N. Robinson,-79,149,17,Missed,1,0,0,0,h,MISS Robinson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+342,392,PT09M47.00S,4,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+343,393,PT09M45.00S,4,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis OFF.Foul (P4),Foul,Offensive,0,0
+344,394,PT09M45.00S,4,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis Foul Turnover (P2.T13),Turnover,Foul,0,0
+345,395,PT09M25.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-123,138,18,Missed,1,0,0,0,v,MISS Ilyasova 18' Jump Shot,Missed Shot,Jump Shot,0,0
+346,396,PT09M24.00S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+347,397,PT09M15.00S,4,1610612738,BOS,951,Allen,R. Allen,-40,167,17,Made,1,66,65,131,h,Allen 17' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,0,0
+348,398,PT08M50.00S,4,1610612749,MIL,2039,Dooling,K. Dooling,-87,45,10,Made,1,66,67,133,v,Dooling 10' Pullup Bank Shot (8 PTS),Made Shot,Pullup Bank shot,0,0
+349,399,PT08M34.00S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen OFF.Foul (P3),Foul,Offensive,0,0
+350,400,PT08M34.00S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen Foul Turnover (P2.T14),Turnover,Foul,0,0
+351,401,PT08M34.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+352,403,PT08M34.00S,4,1610612738,BOS,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,SUB: Rondo FOR Robinson,Substitution,,0,0
+353,404,PT08M34.00S,4,1610612738,BOS,201623,Erden,S. Erden,0,0,0,,0,0,0,0,h,SUB: Garnett FOR Erden,Substitution,,0,0
+354,405,PT08M18.00S,4,1610612749,MIL,2039,Dooling,K. Dooling,34,249,25,Missed,1,0,0,0,v,MISS Dooling 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+355,406,PT08M18.00S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+356,407,PT08M01.00S,4,1610612738,BOS,201175,Davis,G. Davis,-160,99,19,Missed,1,0,0,0,h,MISS Davis 19' Jump Shot,Missed Shot,Jump Shot,0,0
+357,408,PT08M00.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+358,409,PT07M41.00S,4,1610612749,MIL,2568,Delfino,C. Delfino,-128,135,19,Made,1,66,69,135,v,Delfino 19' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,0,0
+359,410,PT07M21.00S,4,1610612738,BOS,708,Garnett,K. Garnett,-24,34,4,Missed,1,0,0,0,h,MISS Garnett 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+360,411,PT07M20.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:4 Def:6),Rebound,Unknown,0,0
+361,412,PT07M10.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,-5,-8,1,Made,1,66,71,137,v,Bogut 1' Dunk (19 PTS) (Delfino 5 AST),Made Shot,Dunk Shot,0,0
+362,413,PT07M10.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+363,416,PT07M10.00S,4,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,SUB: Pierce FOR Daniels,Substitution,,0,0
+364,417,PT06M53.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett Traveling Turnover (P1.T15),Turnover,Traveling,0,0
+365,418,PT06M43.00S,4,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0
+366,418,PT06M43.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo STEAL (2 STL),,,0,0
+367,419,PT06M39.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,1,1,0,Made,1,68,71,139,h,Rondo  Layup (15 PTS) (Pierce 4 AST),Made Shot,Layup Shot,0,0
+368,420,PT06M24.00S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen S.FOUL (P4.T4),Foul,Shooting,0,0
+369,421,PT06M24.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,68,72,140,v,Maggette Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+370,423,PT06M24.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,68,73,141,v,Maggette Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+371,425,PT06M11.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,102,228,25,Missed,1,0,0,0,h,MISS Pierce 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+372,426,PT06M10.00S,4,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+373,427,PT06M07.00S,4,1610612749,MIL,2039,Dooling,K. Dooling,9,9,1,Made,1,68,75,143,v,Dooling 1' Layup (10 PTS) (Delfino 6 AST),Made Shot,Layup Shot,0,0
+374,428,PT06M07.00S,4,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis S.FOUL (P5.PN),Foul,Shooting,0,0
+375,429,PT06M07.00S,4,1610612749,MIL,2039,Dooling,K. Dooling,0,0,0,,0,0,0,0,v,MISS Dooling Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+376,431,PT06M07.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+377,433,PT05M54.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,105,83,13,Made,1,70,75,145,h,Rondo 13' Jump Shot (17 PTS),Made Shot,Jump Shot,0,0
+378,434,PT05M39.00S,4,1610612749,MIL,2568,Delfino,C. Delfino,81,164,18,Missed,1,0,0,0,v,MISS Delfino 18' Jump Shot,Missed Shot,Jump Shot,0,0
+379,435,PT05M38.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+380,436,PT05M22.00S,4,1610612738,BOS,201175,Davis,G. Davis,-147,11,15,Made,1,72,75,147,h,Davis 15' Jump Shot (10 PTS) (Rondo 9 AST),Made Shot,Jump Shot,0,0
+381,437,PT04M57.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,-70,-3,7,Missed,1,0,0,0,v,MISS Bogut 7' Hook Shot,Missed Shot,Hook Shot,0,0
+382,438,PT04M56.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+383,439,PT04M44.00S,4,1610612738,BOS,951,Allen,R. Allen,-190,148,24,Missed,1,0,0,0,h,MISS Allen 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+384,440,PT04M43.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:4 Def:7),Rebound,Unknown,0,0
+385,441,PT04M38.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+386,443,PT04M38.00S,4,1610612749,MIL,2039,Dooling,K. Dooling,0,0,0,,0,0,0,0,v,SUB: Jennings FOR Dooling,Substitution,,0,0
+387,444,PT04M18.00S,4,1610612749,MIL,2568,Delfino,C. Delfino,204,88,22,Missed,1,0,0,0,v,MISS Delfino 22' Jump Shot,Missed Shot,Jump Shot,0,0
+388,445,PT04M16.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:5 Def:7),Rebound,Unknown,0,0
+389,446,PT04M02.00S,4,1610612749,MIL,201943,Jennings,B. Jennings,100,151,18,Made,1,72,77,149,v,Jennings 18' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+390,447,PT03M42.00S,4,1610612738,BOS,201175,Davis,G. Davis,4,-6,1,Made,1,74,77,151,h,Davis 1' Layup (12 PTS) (Rondo 10 AST),Made Shot,Layup Shot,0,0
+391,448,PT03M29.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-196,145,24,Made,1,74,80,154,v,Ilyasova 24' 3PT Jump Shot (13 PTS) (Jennings 3 AST),Made Shot,Jump Shot,0,0
+392,449,PT03M17.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova P.FOUL (P3.T2),Foul,Personal,0,0
+393,450,PT03M02.00S,4,1610612738,BOS,708,Garnett,K. Garnett,-67,167,18,Missed,1,0,0,0,h,MISS Garnett 18' Jump Shot,Missed Shot,Jump Shot,0,0
+394,451,PT03M01.00S,4,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+395,452,PT02M58.00S,4,1610612738,BOS,951,Allen,R. Allen,-237,6,24,Made,1,77,80,157,h,Allen 24' 3PT Jump Shot (22 PTS) (Davis 1 AST),Made Shot,Jump Shot,0,0
+396,453,PT02M43.00S,4,1610612749,MIL,201943,Jennings,B. Jennings,7,4,1,Made,1,77,82,159,v,Jennings 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,0
+397,455,PT02M30.00S,4,1610612738,BOS,708,Garnett,K. Garnett,-2,0,0,Made,1,79,82,161,h,Garnett  Driving Dunk (9 PTS) (Rondo 11 AST),Made Shot,Driving Dunk Shot,0,0
+398,456,PT02M30.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut S.FOUL (P2.T3),Foul,Shooting,0,0
+399,457,PT02M30.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,,"Double Technical - Garnett, Bogut",Foul,Double Technical,0,0
+400,458,PT02M30.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,80,82,162,h,Garnett Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0
+401,460,PT02M17.00S,4,1610612749,MIL,201943,Jennings,B. Jennings,-73,102,13,Missed,1,0,0,0,v,MISS Jennings 13' Jump Shot,Missed Shot,Jump Shot,0,0
+402,461,PT02M16.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+403,462,PT02M13.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,-7,3,1,Made,1,82,82,164,h,Pierce 1' Running Layup (13 PTS) (Rondo 12 AST),Made Shot,Running Layup Shot,0,0
+404,463,PT02M13.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette S.FOUL (P2.T4),Foul,Shooting,0,0
+405,464,PT02M13.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,83,82,165,h,Pierce Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0
+406,466,PT02M02.00S,4,1610612749,MIL,2568,Delfino,C. Delfino,-13,3,1,Missed,1,0,0,0,v,MISS Delfino 1' Layup,Missed Shot,Layup Shot,0,0
+407,467,PT02M01.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+408,468,PT02M00.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,-2,0,Made,1,83,84,167,v,Ilyasova  Tip Shot (15 PTS),Made Shot,Tip Shot,0,0
+409,469,PT01M50.00S,4,1610612738,BOS,708,Garnett,K. Garnett,-10,4,1,Made,1,85,84,169,h,Garnett 1' Layup (12 PTS) (Rondo 13 AST),Made Shot,Layup Shot,0,0
+410,470,PT01M50.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova S.FOUL (P4.PN),Foul,Shooting,0,0
+411,471,PT01M50.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,86,84,170,h,Garnett Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0
+412,474,PT01M31.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0
+413,474,PT01M31.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo STEAL (3 STL),,,0,0
+414,475,PT01M26.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,-7,0,1,Made,1,88,84,172,h,Pierce 1' Layup (16 PTS) (Rondo 14 AST),Made Shot,Layup Shot,0,0
+415,476,PT01M26.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0
+416,478,PT01M21.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette Lost Ball Turnover (P2.T17),Turnover,Lost Ball,0,0
+417,478,PT01M21.00S,4,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis STEAL (2 STL),,,0,0
+418,479,PT01M20.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette P.FOUL (P3.PN),Foul,Personal,0,0
+419,480,PT01M20.00S,4,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,89,84,173,h,Davis Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+420,482,PT01M20.00S,4,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,90,84,174,h,Davis Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+421,484,PT01M08.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce S.FOUL (P3.PN),Foul,Shooting,0,0
+422,485,PT01M08.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,90,85,175,v,Maggette Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+423,487,PT01M08.00S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,MISS Maggette Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+424,489,PT01M07.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+425,490,PT00M45.90S,4,1610612738,BOS,951,Allen,R. Allen,-220,108,25,Missed,1,0,0,0,h,MISS Allen 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+426,491,PT00M44.90S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+427,492,PT00M44.20S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Short (Reg.4 Short 2),Timeout,Short,0,0
+428,494,PT00M37.70S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce S.FOUL (P4.PN),Foul,Shooting,0,0
+429,496,PT00M37.70S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,90,86,176,v,Maggette Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+430,498,PT00M37.70S,4,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,90,87,177,v,Maggette Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+431,500,PT00M20.90S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce Lost Ball Turnover (P4.T16),Turnover,Lost Ball,0,0
+432,500,PT00M20.90S,4,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings STEAL (1 STL),,,0,0
+433,501,PT00M17.40S,4,1610612749,MIL,201943,Jennings,B. Jennings,-5,1,1,Made,1,90,89,179,v,Jennings 1' Layup (11 PTS),Made Shot,Layup Shot,0,0
+434,502,PT00M17.40S,4,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+435,505,PT00M17.40S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Mbah a Moute FOR Bogut,Substitution,,0,0
+436,506,PT00M17.40S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,SUB: Dooling FOR Ilyasova,Substitution,,0,0
+437,507,PT00M16.80S,4,1610612749,MIL,2039,Dooling,K. Dooling,0,0,0,,0,0,0,0,v,Dooling P.FOUL (P1.PN),Foul,Personal,0,0
+438,508,PT00M16.80S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,91,89,180,h,Allen Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0
+439,510,PT00M16.80S,4,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Bogut FOR Mbah a Moute,Substitution,,0,0
+440,511,PT00M16.80S,4,1610612749,MIL,2039,Dooling,K. Dooling,0,0,0,,0,0,0,0,v,SUB: Ilyasova FOR Dooling,Substitution,,0,0
+441,512,PT00M16.80S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+442,514,PT00M16.50S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+443,515,PT00M16.50S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,0
+444,518,PT00M10.50S,4,1610612749,MIL,2568,Delfino,C. Delfino,4,-13,1,Made,1,91,91,182,v,Delfino 1' Driving Layup (10 PTS) (Jennings 4 AST),Made Shot,Driving Layup Shot,0,0
+445,519,PT00M05.20S,4,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Timeout: Short (Full 5 Short 2),Timeout,Short,0,0
+446,522,PT00M05.20S,4,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Davis,Substitution,,0,0
+447,523,PT00M05.20S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,SUB: Dooling FOR Ilyasova,Substitution,,0,0
+448,524,PT00M00.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,-169,82,19,Missed,1,0,0,0,h,MISS Rondo 19' Jump Shot,Missed Shot,Jump Shot,0,0
+449,525,PT00M00.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Rebound,Rebound,Unknown,0,0
+450,526,PT00M00.00S,4,0,,0,,,0,0,0,,0,91,91,182,,End of 4th Period (10:45 PM EST),period,end,0,0
+451,528,PT05M00.00S,5,0,,0,,,0,0,0,,0,91,91,182,,Start of 1st OT (10:47 PM EST),period,start,0,0
+452,529,PT05M00.00S,5,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Jump Ball Garnett vs. Bogut: Tip to Ilyasova,Jump Ball,,0,0
+453,530,PT04M39.00S,5,1610612749,MIL,101106,Bogut,A. Bogut,4,37,4,Missed,1,0,0,0,v,MISS Bogut 4' Hook Shot,Missed Shot,Hook Shot,0,0
+454,531,PT04M38.00S,5,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,h,Garnett REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+455,532,PT04M25.00S,5,1610612738,BOS,1718,Pierce,P. Pierce,-2,-5,1,Made,1,93,91,184,h,Pierce 1' Layup (18 PTS) (Rondo 15 AST),Made Shot,Layup Shot,0,0
+456,533,PT04M09.00S,5,1610612749,MIL,1894,Maggette,C. Maggette,73,142,16,Made,1,93,93,186,v,Maggette 16' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+457,534,PT03M54.00S,5,1610612738,BOS,951,Allen,R. Allen,-122,80,15,Missed,1,0,0,0,h,MISS Allen 15' Jump Shot,Missed Shot,Jump Shot,0,0
+458,535,PT03M53.00S,5,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+459,536,PT03M46.00S,5,1610612749,MIL,201943,Jennings,B. Jennings,165,86,19,Missed,1,0,0,0,v,MISS Jennings 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+460,537,PT03M45.00S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+461,538,PT03M33.00S,5,1610612738,BOS,1718,Pierce,P. Pierce,-213,119,24,Missed,1,0,0,0,h,MISS Pierce 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+462,539,PT03M32.00S,5,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+463,540,PT03M21.00S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,-8,1,Made,1,95,93,188,h,Pierce 1' Layup (20 PTS) (Garnett 1 AST),Made Shot,Layup Shot,0,0
+464,541,PT03M08.00S,5,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,Davis Personal Block Foul (P6.T1),Foul,Personal Block,0,0
+465,542,PT03M08.00S,5,1610612738,BOS,201175,Davis,G. Davis,0,0,0,,0,0,0,0,h,SUB: O'Neal FOR Davis,Substitution,,0,0
+466,544,PT03M08.00S,5,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,95,94,189,v,Delfino Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+467,546,PT03M08.00S,5,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,95,95,190,v,Delfino Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+468,548,PT02M47.00S,5,1610612738,BOS,1718,Pierce,P. Pierce,-117,129,17,Missed,1,0,0,0,h,MISS Pierce 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+469,549,PT02M45.00S,5,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+470,550,PT02M28.00S,5,1610612749,MIL,201943,Jennings,B. Jennings,-97,201,22,Missed,1,0,0,0,v,MISS Jennings 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+471,551,PT02M26.00S,5,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:6 Def:7),Rebound,Unknown,0,0
+472,552,PT02M14.00S,5,1610612749,MIL,1894,Maggette,C. Maggette,140,124,19,Missed,1,0,0,0,v,MISS Maggette 19' Jump Shot,Missed Shot,Jump Shot,0,0
+473,553,PT02M13.00S,5,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+474,554,PT01M52.00S,5,1610612738,BOS,708,Garnett,K. Garnett,-160,6,16,Missed,1,0,0,0,h,MISS Garnett 16' Jump Shot,Missed Shot,Jump Shot,0,0
+475,555,PT01M51.00S,5,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+476,556,PT01M50.00S,5,1610612738,BOS,951,Allen,R. Allen,-24,4,2,Missed,1,0,0,0,h,MISS Allen 2' Layup,Missed Shot,Layup Shot,0,0
+477,557,PT01M49.00S,5,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+478,558,PT01M49.00S,5,1610612738,BOS,979,O'Neal,J. O'Neal,1,1,0,Made,1,97,95,192,h,O'Neal  Tip Shot (5 PTS),Made Shot,Tip Shot,0,0
+479,559,PT01M49.00S,5,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.6 Short 2),Timeout,Regular,0,0
+480,561,PT01M38.00S,5,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal P.FOUL (P6.T2),Foul,Personal,0,0
+481,562,PT01M38.00S,5,1610612738,BOS,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,SUB: Daniels FOR O'Neal,Substitution,,0,0
+482,563,PT01M29.00S,5,1610612749,MIL,101141,Ilyasova,E. Ilyasova,7,53,5,Missed,1,0,0,0,v,MISS Ilyasova 5' Jump Shot,Missed Shot,Jump Shot,0,0
+483,563,PT01M29.00S,5,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,Daniels BLOCK (1 BLK),,,0,0
+484,564,PT01M29.00S,5,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+485,565,PT01M23.00S,5,1610612749,MIL,2568,Delfino,C. Delfino,-60,189,20,Missed,1,0,0,0,v,MISS Delfino 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+486,566,PT01M22.00S,5,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Rebound,Rebound,Unknown,0,0
+487,567,PT01M22.00S,5,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette L.B.FOUL (P4.T1),Foul,Loose Ball,0,0
+488,568,PT01M09.00S,5,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,Maggette P.FOUL (P5.PN),Foul,Personal,0,0
+489,570,PT01M09.00S,5,1610612749,MIL,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,v,SUB: Salmons FOR Maggette,Substitution,,0,0
+490,571,PT01M09.00S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,98,95,193,h,Pierce Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0
+491,573,PT01M09.00S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,99,95,194,h,Pierce Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0
+492,575,PT00M57.30S,5,1610612749,MIL,101106,Bogut,A. Bogut,1,1,0,Made,1,99,97,196,v,Bogut  Layup (21 PTS) (Delfino 7 AST),Made Shot,Layup Shot,0,0
+493,576,PT00M57.30S,5,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,Daniels S.FOUL (P3.PN),Foul,Shooting,0,0
+494,577,PT00M57.30S,5,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,MISS Bogut Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+495,579,PT00M56.90S,5,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,Daniels REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+496,580,PT00M35.90S,5,1610612738,BOS,1718,Pierce,P. Pierce,-76,129,15,Missed,1,0,0,0,h,MISS Pierce 15' Jump Shot,Missed Shot,Jump Shot,0,0
+497,581,PT00M35.20S,5,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,Ilyasova REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+498,582,PT00M34.90S,5,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Short (Reg.6 Short 3),Timeout,Short,0,0
+499,584,PT00M27.90S,5,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino Bad Pass Turnover (P4.T18),Turnover,Bad Pass,0,0
+500,584,PT00M27.90S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,h,Pierce STEAL (1 STL),,,0,0
+501,585,PT00M14.00S,5,0,,1610612738,,,0,0,0,,0,0,0,0,h,CELTICS Timeout: Regular (Full 6 Short 2),Timeout,Regular,0,0
+502,587,PT00M14.00S,5,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Mbah a Moute FOR Bogut,Substitution,,0,0
+503,588,PT00M14.00S,5,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,SUB: Dooling FOR Ilyasova,Substitution,,0,0
+504,589,PT00M14.00S,5,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Daniels,Substitution,,0,0
+505,590,PT00M13.30S,5,1610612749,MIL,2039,Dooling,K. Dooling,0,0,0,,0,0,0,0,v,Dooling P.FOUL (P2.PN),Foul,Personal,0,0
+506,591,PT00M13.30S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,100,97,197,h,Pierce Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0
+507,594,PT00M13.30S,5,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Bogut FOR Mbah a Moute,Substitution,,0,0
+508,595,PT00M13.30S,5,1610612749,MIL,2039,Dooling,K. Dooling,0,0,0,,0,0,0,0,v,SUB: Ilyasova FOR Dooling,Substitution,,0,0
+509,596,PT00M13.30S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,101,97,198,h,Pierce Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0
+510,598,PT00M13.30S,5,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Short (Reg.6 Short 4),Timeout,Short,0,0
+511,599,PT00M13.30S,5,1610612738,BOS,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,SUB: Daniels FOR Robinson,Substitution,,0,0
+512,600,PT00M10.90S,5,1610612749,MIL,2568,Delfino,C. Delfino,233,12,0,Made,1,101,100,201,v,Delfino  3PT Jump Shot (15 PTS) (Salmons 2 AST),Made Shot,Jump Shot,0,0
+513,601,PT00M10.30S,5,1610612749,MIL,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons P.FOUL (P2.PN),Foul,Personal,0,0
+514,602,PT00M10.30S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,102,100,202,h,Pierce Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0
+515,604,PT00M10.30S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,103,100,203,h,Pierce Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0
+516,606,PT00M05.40S,5,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0,0,0,h,Rondo Personal Take Foul (P3.PN),Foul,Personal Take,0,0
+517,607,PT00M05.40S,5,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,103,101,204,v,Jennings Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+518,609,PT00M05.40S,5,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0,0,0,v,SUB: Dooling FOR Ilyasova,Substitution,,0,0
+519,610,PT00M05.40S,5,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Mbah a Moute FOR Bogut,Substitution,,0,0
+520,612,PT00M05.40S,5,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,103,102,205,v,Jennings Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+521,614,PT00M04.20S,5,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings P.FOUL (P3.PN),Foul,Personal,0,0
+522,615,PT00M04.20S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,104,102,206,h,Pierce Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0
+523,617,PT00M04.20S,5,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Bogut FOR Mbah a Moute,Substitution,,0,0
+524,618,PT00M04.20S,5,1610612749,MIL,2039,Dooling,K. Dooling,0,0,0,,0,0,0,0,v,SUB: Ilyasova FOR Dooling,Substitution,,0,0
+525,619,PT00M04.20S,5,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,105,102,207,h,Pierce Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0
+526,621,PT00M02.90S,5,1610612749,MIL,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino Bad Pass Turnover (P5.T19),Turnover,Bad Pass,0,0
+527,621,PT00M02.90S,5,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,h,Daniels STEAL (1 STL),,,0,0
+528,622,PT00M00.00S,5,0,,0,,,0,0,0,,0,105,102,207,,End of 1st OT (11:08 PM EST),period,end,0,0

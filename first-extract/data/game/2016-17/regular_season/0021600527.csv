@@ -1,0 +1,479 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,,Jump Ball,,1,0
+3,2,PT11M49.00S,1,1610612748,MIA,203585,McGruder,R. McGruder,99,224,24,Missed,1,,,0,v,MISS McGruder 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+4,3,PT11M47.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+5,6,PT11M47.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson P.FOUL (P1.T1) (S.Foster),Foul,Personal,1,0
+6,7,PT11M38.00S,1,1610612756,PHX,203933,Warren,T. Warren,-143,-11,14,Missed,1,,,0,h,MISS Warren 14' Jump Shot,Missed Shot,Jump Shot,1,0
+7,8,PT11M36.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+8,9,PT11M26.00S,1,1610612748,MIA,202337,Babbitt,L. Babbitt,-70,115,13,Made,1,0,2,2,v,Babbitt 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+9,10,PT11M15.00S,1,1610612756,PHX,1626164,Booker,D. Booker,6,0,1,Made,1,2,2,4,h,Booker 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+10,11,PT10M55.00S,1,1610612748,MIA,203186,Reed,W. Reed,-130,0,13,Made,1,2,4,6,v,Reed 13' Jump Shot (2 PTS) (Richardson 1 AST),Made Shot,Jump Shot,1,0
+11,12,PT10M44.00S,1,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler OFF.Foul (P1) (S.Foster),Foul,Offensive,1,0
+12,13,PT10M44.00S,1,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler Foul Turnover (P1.T1),Turnover,Foul,1,0
+13,14,PT10M12.00S,1,1610612748,MIA,203585,McGruder,R. McGruder,148,87,17,Made,1,2,6,8,v,McGruder 17' Jump Shot (2 PTS) (Reed 1 AST),Made Shot,Jump Shot,1,0
+14,15,PT09M50.00S,1,1610612756,PHX,2199,Chandler,T. Chandler,6,18,2,Missed,1,,,0,h,MISS Chandler 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+15,16,PT09M45.00S,1,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+16,17,PT09M40.00S,1,1610612748,MIA,203186,Reed,W. Reed,-27,51,6,Made,1,2,8,10,v,Reed 6' Jump Shot (4 PTS) (Dragic 1 AST),Made Shot,Jump Shot,1,0
+17,18,PT09M36.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+18,21,PT09M19.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-79,72,11,Missed,1,,,0,h,MISS Bledsoe 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+19,22,PT09M18.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+20,23,PT09M18.00S,1,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed P.FOUL (P1.T2) (E.Dalen),Foul,Personal,1,0
+21,24,PT09M16.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-97,141,17,Missed,1,,,0,h,MISS Booker 17' Jump Shot,Missed Shot,Jump Shot,1,0
+22,25,PT09M15.00S,1,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+23,26,PT09M04.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+24,26,PT09M04.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss STEAL (1 STL),,,1,0
+25,27,PT08M59.00S,1,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,Babbitt S.FOUL (P1.T3) (L.Wood),Foul,Shooting,1,0
+26,28,PT08M59.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,3,8,11,h,Chriss Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+27,30,PT08M59.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,4,8,12,h,Chriss Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+28,32,PT08M43.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic Lost Ball Turnover (P2.T2),Turnover,Lost Ball,1,0
+29,32,PT08M43.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker STEAL (1 STL),,,1,0
+30,33,PT08M38.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+31,33,PT08M38.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic STEAL (1 STL),,,1,0
+32,34,PT08M32.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,174,126,21,Missed,1,,,0,v,MISS Richardson 21' Jump Shot,Missed Shot,Jump Shot,1,0
+33,35,PT08M30.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+34,36,PT08M30.00S,1,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder P.FOUL (P1.T4) (L.Wood),Foul,Personal,1,0
+35,37,PT08M14.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,10,23,3,Made,1,6,8,14,h,Chriss 3' Layup (4 PTS) (Bledsoe 1 AST),Made Shot,Layup Shot,1,0
+36,38,PT07M56.00S,1,1610612748,MIA,203186,Reed,W. Reed,0,1,0,Made,1,6,10,16,v,Reed Alley Oop Dunk (6 PTS) (Dragic 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+37,39,PT07M33.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,-17,2,2,Missed,1,,,0,h,MISS Chriss 2' Layup,Missed Shot,Layup Shot,1,0
+38,39,PT07M33.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson BLOCK (1 BLK),,,1,0
+39,40,PT07M31.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+40,41,PT07M24.00S,1,1610612748,MIA,202337,Babbitt,L. Babbitt,42,120,13,Made,1,6,12,18,v,Babbitt 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+41,42,PT07M11.00S,1,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,,,0,h,Warren OFF.Foul (P1) (L.Wood),Foul,Offensive,1,0
+42,62,PT07M11.00S,1,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,,,0,h,Warren Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0
+43,44,PT07M11.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,SUB: Barbosa FOR Booker,Substitution,,0,0
+44,45,PT07M11.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,SUB: Ellington FOR Richardson,Substitution,,0,0
+45,46,PT06M56.00S,1,1610612748,MIA,201961,Ellington,W. Ellington,10,183,18,Missed,1,,,0,v,MISS Ellington 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+46,47,PT06M53.00S,1,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+47,48,PT06M40.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,143,208,25,Made,1,9,12,21,h,Bledsoe 25' 3PT Jump Shot (3 PTS) (Chriss 1 AST),Made Shot,Jump Shot,1,0
+48,49,PT06M29.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,123,26,13,Made,1,9,14,23,v,Dragic 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+49,50,PT06M18.00S,1,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,Babbitt Personal Block Foul (P2.PN) (L.Wood),Foul,Personal Block,1,0
+50,51,PT06M18.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,10,14,24,h,Bledsoe Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+51,53,PT06M18.00S,1,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,SUB: Williams FOR Babbitt,Substitution,,0,0
+52,54,PT06M18.00S,1,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,,,0,h,SUB: Tucker FOR Warren,Substitution,,0,0
+53,55,PT06M18.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,11,14,25,h,Bledsoe Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+54,57,PT06M08.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,141,14,Made,1,11,16,27,v,Dragic 14' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+55,58,PT05M57.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,0,1,0,Made,1,13,16,29,h,Chriss Cutting Dunk Shot (6 PTS) (Barbosa 1 AST),Made Shot,Cutting Dunk Shot,1,0
+56,60,PT05M55.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+57,66,PT05M36.00S,1,1610612748,MIA,203585,McGruder,R. McGruder,191,178,26,Missed,1,,,0,v,MISS McGruder 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+58,67,PT05M35.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0
+59,68,PT05M23.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,132,26,13,Made,1,13,18,31,v,Dragic 13' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,0
+60,69,PT05M23.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,Tucker S.FOUL (P1.T1) (S.Foster),Foul,Shooting,1,0
+61,70,PT05M23.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,13,19,32,v,Dragic Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+62,72,PT05M11.00S,1,1610612756,PHX,2199,Chandler,T. Chandler,0,1,0,Made,1,15,19,34,h,Chandler Alley Oop Dunk (2 PTS) (Bledsoe 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+63,73,PT04M49.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,-104,234,26,Made,1,15,22,37,v,Dragic 26' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,1,0
+64,74,PT04M29.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,-199,156,25,Missed,1,,,0,h,MISS Chriss 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+65,75,PT04M27.00S,1,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+66,76,PT04M21.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,9,2,1,Made,1,15,24,39,v,Dragic 1' Driving Reverse Layup (12 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+67,77,PT04M03.00S,1,1610612756,PHX,2571,Barbosa,L. Barbosa,-228,121,26,Made,1,18,24,42,h,Barbosa 26' 3PT Jump Shot (3 PTS) (Chriss 2 AST),Made Shot,Jump Shot,1,0
+68,78,PT03M53.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,232,46,24,Missed,1,,,0,v,MISS Dragic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+69,79,PT03M51.00S,1,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+70,80,PT03M48.00S,1,1610612756,PHX,2571,Barbosa,L. Barbosa,14,-1,1,Made,1,20,24,44,h,Barbosa 1' Running Reverse Layup (5 PTS) (Bledsoe 3 AST),Made Shot,Running Reverse Layup Shot,1,0
+71,81,PT03M30.00S,1,1610612748,MIA,201961,Ellington,W. Ellington,-130,164,21,Made,1,20,26,46,v,Ellington 21' Jump Shot (2 PTS) (Dragic 3 AST),Made Shot,Jump Shot,1,0
+72,82,PT03M13.00S,1,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0
+73,82,PT03M13.00S,1,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,1,0
+74,83,PT03M03.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss S.FOUL (P1.T2) (L.Wood),Foul,Shooting,1,0
+75,84,PT03M03.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,MISS Dragic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+76,85,PT03M03.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+77,86,PT03M03.00S,1,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,SUB: Len FOR Chandler,Substitution,,0,0
+78,87,PT03M03.00S,1,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,SUB: Bender FOR Chriss,Substitution,,0,0
+79,88,PT03M03.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,SUB: Ulis FOR Bledsoe,Substitution,,0,0
+80,89,PT03M03.00S,1,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,SUB: Richardson FOR McGruder,Substitution,,0,0
+81,90,PT03M03.00S,1,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,SUB: Haslem FOR Reed,Substitution,,0,0
+82,91,PT03M03.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,20,27,47,v,Dragic Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+83,93,PT02M46.00S,1,1610612756,PHX,1627733,Bender,D. Bender,0,0,0,,0,,,0,h,Bender Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0
+84,93,PT02M46.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson STEAL (1 STL),,,1,0
+85,94,PT02M46.00S,1,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa P.FOUL (P1.T3) (E.Dalen),Foul,Personal,1,0
+86,95,PT02M46.00S,1,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,SUB: Babbitt FOR Dragic,Substitution,,0,0
+87,96,PT02M37.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+88,96,PT02M37.00S,1,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa STEAL (1 STL),,,1,0
+89,97,PT02M32.00S,1,1610612756,PHX,1627755,Ulis,T. Ulis,15,-1,2,Missed,1,,,0,h,MISS Ulis 2' Layup,Missed Shot,Layup Shot,1,0
+90,97,PT02M32.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson BLOCK (2 BLK),,,1,0
+91,98,PT02M29.00S,1,1610612756,PHX,1627755,Ulis,T. Ulis,0,0,0,,0,,,0,h,Ulis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+92,99,PT02M20.00S,1,1610612756,PHX,1627755,Ulis,T. Ulis,14,56,6,Missed,1,,,0,h,MISS Ulis 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+93,100,PT02M18.00S,1,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,Babbitt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+94,101,PT02M09.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,119,120,17,Made,1,20,29,49,v,Richardson 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+95,102,PT01M50.00S,1,1610612756,PHX,2571,Barbosa,L. Barbosa,246,-11,25,Made,1,23,29,52,h,Barbosa 25' 3PT Jump Shot (8 PTS) (Ulis 1 AST),Made Shot,Jump Shot,1,0
+96,103,PT01M26.00S,1,1610612748,MIA,202682,Williams,D. Williams,27,11,3,Missed,1,,,0,v,MISS Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+97,103,PT01M26.00S,1,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len BLOCK (1 BLK),,,1,0
+98,104,PT01M24.00S,1,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+99,105,PT01M12.00S,1,1610612756,PHX,203458,Len,A. Len,25,-10,3,Missed,1,,,0,h,MISS Len 3' Layup,Missed Shot,Layup Shot,1,0
+100,106,PT01M10.00S,1,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+101,107,PT01M09.00S,1,1610612756,PHX,203458,Len,A. Len,-43,8,4,Made,1,25,29,54,h,Len 4' Hook Shot (2 PTS),Made Shot,Hook Shot,1,0
+102,108,PT00M51.90S,1,1610612748,MIA,1626196,Richardson,J. Richardson,99,228,25,Missed,1,,,0,v,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+103,109,PT00M49.90S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+104,110,PT00M43.30S,1,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P1.PN) (L.Wood),Foul,Shooting,1,0
+105,111,PT00M43.30S,1,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,MISS Len Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+106,112,PT00M43.30S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+107,113,PT00M43.30S,1,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,26,29,55,h,Len Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+108,115,PT00M32.90S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0
+109,115,PT00M32.90S,1,1610612756,PHX,1627755,Ulis,T. Ulis,0,0,0,,0,,,0,h,Ulis STEAL (1 STL),,,1,0
+110,116,PT00M29.60S,1,1610612756,PHX,1627733,Bender,D. Bender,0,1,0,Made,1,28,29,57,h,Bender Running Alley Oop Dunk Shot (2 PTS) (Tucker 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,0
+111,117,PT00M20.60S,1,1610612748,MIA,1626196,Richardson,J. Richardson,22,2,2,Missed,1,,,0,v,MISS Richardson 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+112,118,PT00M15.90S,1,1610612756,PHX,1627733,Bender,D. Bender,0,0,0,,0,,,0,h,Bender REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+113,119,PT00M12.90S,1,1610612756,PHX,1627733,Bender,D. Bender,-197,134,24,Missed,1,,,0,h,MISS Bender 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+114,120,PT00M09.90S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+115,121,PT00M00.20S,1,1610612748,MIA,202337,Babbitt,L. Babbitt,-150,-1,15,Missed,1,,,0,v,MISS Babbitt 15' Jump Shot,Missed Shot,Jump Shot,1,0
+116,123,PT00M00.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0
+117,122,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,29,57,,End of 1st Period (9:34 PM EST),period,end,0,0
+118,125,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,29,57,,Start of 2nd Period (9:37 PM EST),period,start,0,0
+119,126,PT11M46.00S,2,1610612756,PHX,1627733,Bender,D. Bender,122,213,25,Missed,1,,,0,h,MISS Bender 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+120,127,PT11M44.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,Haslem REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+121,128,PT11M38.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,Haslem OFF.Foul (P1) (S.Foster),Foul,Offensive,1,0
+122,129,PT11M38.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,Haslem Foul Turnover (P1.T5),Turnover,Foul,1,0
+123,130,PT11M38.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,SUB: McGruder FOR Babbitt,Substitution,,0,0
+124,131,PT11M23.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,20,-5,2,Made,1,30,29,59,h,Barbosa 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+125,132,PT11M04.00S,2,1610612748,MIA,202682,Williams,D. Williams,9,178,18,Missed,1,,,0,v,MISS Williams 18' Jump Shot,Missed Shot,Jump Shot,1,0
+126,133,PT11M02.00S,2,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+127,134,PT10M47.00S,2,1610612756,PHX,203458,Len,A. Len,4,8,1,Made,1,32,29,61,h,Len 1' Alley Oop Layup (5 PTS) (Tucker 2 AST),Made Shot,Alley Oop Layup shot,1,0
+128,135,PT10M26.00S,2,1610612748,MIA,203585,McGruder,R. McGruder,-151,208,26,Made,1,32,32,64,v,McGruder 26' 3PT Jump Shot (5 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,0
+129,136,PT10M10.00S,2,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P2.T1) (L.Wood),Foul,Personal,1,0
+130,137,PT10M10.00S,2,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,,,0,v,SUB: Dragic FOR Ellington,Substitution,,0,0
+131,138,PT10M10.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,SUB: Reed FOR Haslem,Substitution,,0,0
+132,139,PT10M10.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,SUB: Booker FOR Barbosa,Substitution,,0,0
+133,140,PT09M54.00S,2,1610612756,PHX,203458,Len,A. Len,-61,33,7,Missed,1,,,0,h,MISS Len 7' Jump Shot,Missed Shot,Jump Shot,1,0
+134,141,PT09M52.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+135,142,PT09M45.00S,2,1610612748,MIA,203585,McGruder,R. McGruder,-233,-10,0,Made,1,32,35,67,v,McGruder 3PT Jump Shot (8 PTS) (Dragic 4 AST),Made Shot,Jump Shot,1,0
+136,143,PT09M35.00S,2,1610612756,PHX,1627755,Ulis,T. Ulis,0,105,11,Missed,1,,,0,h,MISS Ulis 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+137,144,PT09M31.00S,2,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+138,145,PT09M26.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,-24,8,3,Missed,1,,,0,v,MISS Dragic 3' Layup,Missed Shot,Layup Shot,1,0
+139,147,PT09M23.00S,2,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+140,146,PT09M23.00S,2,1610612748,MIA,203186,Reed,W. Reed,2,13,1,Made,1,32,37,69,v,Reed 1' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,0
+141,148,PT09M23.00S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+142,152,PT09M13.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,27,7,3,Made,1,34,37,71,h,Tucker 3' Cutting Layup Shot (2 PTS) (Booker 1 AST),Made Shot,Cutting Layup Shot,1,0
+143,153,PT09M13.00S,2,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,1,0
+144,154,PT09M13.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,35,37,72,h,Tucker Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+145,156,PT08M55.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,-9,2,1,Made,1,35,39,74,v,Dragic 1' Driving Reverse Layup (15 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+146,157,PT08M55.00S,2,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0
+147,158,PT08M55.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,SUB: Ellington FOR Richardson,Substitution,,0,0
+148,159,PT08M55.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,35,40,75,v,Dragic Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0
+149,161,PT08M45.00S,2,1610612756,PHX,1626164,Booker,D. Booker,107,144,18,Made,1,37,40,77,h,Booker 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+150,162,PT08M34.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,10,7,1,Made,1,37,42,79,v,Dragic 1' Driving Reverse Layup (18 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+151,163,PT08M19.00S,2,1610612756,PHX,1626164,Booker,D. Booker,9,-1,1,Missed,1,,,0,h,MISS Booker 1' Layup,Missed Shot,Layup Shot,1,0
+152,164,PT08M17.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+153,165,PT08M17.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0
+154,166,PT08M08.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,156,51,16,Missed,1,,,0,v,MISS Dragic 16' Jump Shot,Missed Shot,Jump Shot,1,0
+155,168,PT08M06.00S,2,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+156,167,PT08M06.00S,2,1610612748,MIA,202682,Williams,D. Williams,13,4,1,Missed,1,,,0,v,MISS Williams 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+157,170,PT08M04.00S,2,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+158,169,PT08M04.00S,2,1610612748,MIA,203186,Reed,W. Reed,10,-4,1,Missed,1,,,0,v,MISS Reed 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+159,179,PT08M04.00S,2,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+160,180,PT08M04.00S,2,1610612748,MIA,203186,Reed,W. Reed,8,4,1,Missed,1,,,0,v,MISS Reed 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+161,171,PT08M02.00S,2,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+162,172,PT07M49.00S,2,1610612756,PHX,203458,Len,A. Len,-38,90,10,Made,1,39,42,81,h,Len 10' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,1,0
+163,173,PT07M36.00S,2,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len P.FOUL (P2.T2) (S.Foster),Foul,Personal,1,0
+164,174,PT07M36.00S,2,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,SUB: Chandler FOR Len,Substitution,,0,0
+165,175,PT07M36.00S,2,1610612756,PHX,1627755,Ulis,T. Ulis,0,0,0,,0,,,0,h,SUB: Bledsoe FOR Ulis,Substitution,,0,0
+166,176,PT07M27.00S,2,1610612748,MIA,201961,Ellington,W. Ellington,-163,183,25,Missed,1,,,0,v,MISS Ellington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+167,177,PT07M25.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+168,181,PT07M23.00S,2,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,SUB: Babbitt FOR Williams,Substitution,,0,0
+169,182,PT07M21.00S,2,1610612756,PHX,1627733,Bender,D. Bender,-168,0,17,Missed,1,,,0,h,MISS Bender 17' Jump Shot,Missed Shot,Jump Shot,1,0
+170,183,PT07M19.00S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+171,185,PT07M17.00S,2,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder Personal Block Foul (P3.T3) (L.Wood),Foul,Personal Block,1,0
+172,186,PT07M17.00S,2,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,SUB: Richardson FOR McGruder,Substitution,,0,0
+173,187,PT07M13.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,233,61,24,Missed,1,,,0,h,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+174,188,PT07M11.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,Babbitt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+175,189,PT07M01.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,-60,16,6,Missed,1,,,0,v,MISS Babbitt 6' Jump Shot,Missed Shot,Jump Shot,1,0
+176,190,PT06M59.00S,2,1610612756,PHX,1627733,Bender,D. Bender,0,0,0,,0,,,0,h,Bender REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+177,191,PT06M52.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,45,247,25,Made,1,42,42,84,h,Bledsoe 25' 3PT Jump Shot (8 PTS) (Booker 2 AST),Made Shot,Jump Shot,1,0
+178,192,PT06M21.00S,2,1610612748,MIA,203186,Reed,W. Reed,-122,8,12,Missed,1,,,0,v,MISS Reed 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+179,193,PT06M17.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+180,194,PT06M07.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,76,21,8,Missed,1,,,0,h,MISS Bledsoe 8' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+181,195,PT06M03.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+182,196,PT05M53.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,-40,149,15,Missed,1,,,0,v,MISS Richardson 15' Jump Shot,Missed Shot,Jump Shot,1,0
+183,197,PT05M51.00S,2,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+184,198,PT05M32.00S,2,1610612756,PHX,1626164,Booker,D. Booker,-199,110,23,Missed,1,,,0,h,MISS Booker 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+185,199,PT05M30.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,Babbitt REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+186,200,PT05M24.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+187,202,PT05M24.00S,2,1610612756,PHX,1627733,Bender,D. Bender,0,0,0,,0,,,0,h,SUB: Chriss FOR Bender,Substitution,,0,0
+188,203,PT05M24.00S,2,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,SUB: Haslem FOR Reed,Substitution,,0,0
+189,204,PT05M05.00S,2,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,,,0,v,Ellington Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0
+190,204,PT05M05.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe STEAL (1 STL),,,1,0
+191,205,PT04M55.00S,2,1610612756,PHX,1627737,Chriss,M. Chriss,-237,-21,24,Made,1,45,42,87,h,Chriss 24' 3PT Jump Shot (9 PTS) (Tucker 3 AST),Made Shot,Jump Shot,1,0
+192,206,PT04M30.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,-45,134,14,Missed,1,,,0,v,MISS Dragic 14' Jump Shot,Missed Shot,Jump Shot,1,0
+193,206,PT04M30.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe BLOCK (1 BLK),,,1,0
+194,207,PT04M28.00S,2,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+195,209,PT04M19.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker OFF.Foul (P1) (L.Wood),Foul,Offensive,1,0
+196,210,PT04M19.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Foul Turnover (P3.T7),Turnover,Foul,1,0
+197,211,PT03M57.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,238,-24,24,Missed,1,,,0,v,MISS Babbitt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+198,212,PT03M56.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,Haslem REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+199,213,PT03M43.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,123,131,18,Missed,1,,,0,v,MISS Babbitt 18' Jump Shot,Missed Shot,Jump Shot,1,0
+200,214,PT03M41.00S,2,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+201,215,PT03M34.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe Offensive Charge Foul (P1) (L.Wood),Foul,Offensive Charge,1,0
+202,216,PT03M34.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe Foul Turnover (P1.T8),Turnover,Foul,1,0
+203,217,PT03M34.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,SUB: Warren FOR Tucker,Substitution,,0,0
+204,218,PT03M22.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,81,239,25,Missed,1,,,0,v,MISS Babbitt 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+205,219,PT03M20.00S,2,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+206,220,PT03M13.00S,2,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,,,0,v,Ellington S.FOUL (P1.T4) (S.Foster),Foul,Shooting,1,0
+207,221,PT03M13.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,46,42,88,h,Booker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+208,223,PT03M13.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,MISS Booker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+209,225,PT03M12.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,Babbitt REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+210,226,PT03M00.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,12,7,1,Made,1,46,44,90,v,Haslem 1' Cutting Layup Shot (2 PTS) (Dragic 5 AST),Made Shot,Cutting Layup Shot,1,0
+211,227,PT03M00.00S,2,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0
+212,228,PT03M00.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,46,45,91,v,Haslem Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+213,230,PT02M51.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic P.FOUL (P1.PN) (E.Dalen),Foul,Personal,1,0
+214,231,PT02M51.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+215,235,PT02M51.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,47,45,92,h,Bledsoe Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+216,237,PT02M51.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,48,45,93,h,Bledsoe Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+217,239,PT02M36.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,-89,136,16,Made,1,48,47,95,v,Dragic 16' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,0
+218,240,PT02M17.00S,2,1610612756,PHX,2199,Chandler,T. Chandler,17,11,2,Missed,1,,,0,h,MISS Chandler 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+219,241,PT02M14.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,Babbitt REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+220,242,PT02M09.00S,2,1610612748,MIA,201961,Ellington,W. Ellington,51,106,12,Missed,1,,,0,v,MISS Ellington 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+221,242,PT02M09.00S,2,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,,,0,h,Warren BLOCK (1 BLK),,,1,0
+222,243,PT02M08.00S,2,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+223,244,PT02M04.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,Haslem S.FOUL (P2.PN) (L.Wood),Foul,Shooting,1,0
+224,245,PT02M04.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,49,47,96,h,Booker Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+225,247,PT02M04.00S,2,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,SUB: Williams FOR Babbitt,Substitution,,0,0
+226,248,PT02M04.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,50,47,97,h,Booker Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+227,250,PT01M54.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic Offensive Charge Foul (P2) (S.Foster),Foul,Offensive Charge,1,0
+228,251,PT01M54.00S,2,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic Foul Turnover (P3.T7),Turnover,Foul,1,0
+229,252,PT01M37.00S,2,1610612756,PHX,1626164,Booker,D. Booker,53,239,24,Missed,1,,,0,h,MISS Booker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+230,254,PT01M35.00S,2,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+231,253,PT01M35.00S,2,1610612756,PHX,1627737,Chriss,M. Chriss,0,1,0,Made,1,52,47,99,h,Chriss Tip Dunk Shot (11 PTS),Made Shot,Tip Dunk Shot,1,0
+232,255,PT01M09.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,-55,2,6,Missed,1,,,0,v,MISS Richardson 6' Jump Shot,Missed Shot,Jump Shot,1,0
+233,255,PT01M09.00S,2,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler BLOCK (1 BLK),,,1,0
+234,256,PT01M09.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0
+235,257,PT01M09.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+236,259,PT01M09.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,SUB: Reed FOR Haslem,Substitution,,0,0
+237,262,PT01M09.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0
+238,263,PT01M00.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+239,263,PT01M00.00S,2,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,,,0,v,Ellington STEAL (1 STL),,,1,0
+240,264,PT01M00.00S,2,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss P.FOUL (P3.T4) (S.Foster),Foul,Personal,1,0
+241,265,PT01M00.00S,2,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,SUB: Tucker FOR Chriss,Substitution,,0,0
+242,267,PT00M36.80S,2,1610612748,MIA,1626196,Richardson,J. Richardson,-233,110,26,Made,1,52,50,102,v,Richardson 26' 3PT Jump Shot (5 PTS) (Dragic 6 AST),Made Shot,Jump Shot,1,0
+243,268,PT00M30.00S,2,1610612756,PHX,1626164,Booker,D. Booker,17,0,2,Made,1,54,50,104,h,Booker 2' Layup (9 PTS),Made Shot,Layup Shot,0,0
+244,269,PT00M09.30S,2,1610612748,MIA,201609,Dragic,G. Dragic,-52,36,6,Made,1,54,52,106,v,Dragic 6' Floating Jump Shot (22 PTS),Made Shot,Floating Jump shot,1,0
+245,270,PT00M04.20S,2,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic S.FOUL (P3.PN) (S.Foster),Foul,Shooting,1,0
+246,271,PT00M04.20S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,55,52,107,h,Bledsoe Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+247,273,PT00M04.20S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,56,52,108,h,Bledsoe Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+248,275,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,52,108,,End of 2nd Period (10:07 PM EST),period,end,0,0
+249,277,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,52,108,,Start of 3rd Period (10:23 PM EST),period,start,0,0
+250,278,PT11M44.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,233,11,0,Missed,1,,,0,h,MISS Chriss 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+251,279,PT11M42.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+252,280,PT11M36.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,6,252,25,Missed,1,,,0,v,MISS McGruder 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+253,281,PT11M33.00S,3,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+254,282,PT11M21.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0
+255,282,PT11M21.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe STEAL (2 STL),,,1,0
+256,283,PT11M15.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,-29,70,8,Made,1,58,52,110,h,Chriss 8' Turnaround Jump Shot (13 PTS) (Booker 3 AST),Made Shot,Turnaround Jump Shot,1,0
+257,284,PT10M49.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,-161,193,25,Missed,1,,,0,v,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+258,285,PT10M47.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+259,286,PT10M42.00S,3,1610612756,PHX,1626164,Booker,D. Booker,210,105,23,Missed,1,,,0,h,MISS Booker 23' Jump Shot,Missed Shot,Jump Shot,1,0
+260,287,PT10M38.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+261,288,PT10M31.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,10,7,1,Missed,1,,,0,h,MISS Bledsoe 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+262,289,PT10M29.00S,3,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+263,290,PT10M23.00S,3,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0
+264,290,PT10M23.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss STEAL (2 STL),,,1,0
+265,291,PT10M13.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,19,2,2,Missed,1,,,0,h,MISS Bledsoe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+266,293,PT10M11.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+267,292,PT10M11.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,-11,11,2,Made,1,60,52,112,h,Chandler 2' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,0
+268,294,PT09M47.00S,3,1610612748,MIA,202337,Babbitt,L. Babbitt,-217,116,25,Missed,1,,,0,v,MISS Babbitt 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+269,295,PT09M45.00S,3,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:5 Def:4),Rebound,Unknown,1,0
+270,296,PT09M42.00S,3,1610612748,MIA,202337,Babbitt,L. Babbitt,-189,154,24,Made,1,60,55,115,v,Babbitt 24' 3PT Jump Shot (7 PTS) (Reed 2 AST),Made Shot,Jump Shot,1,0
+271,297,PT09M22.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,145,200,25,Made,1,63,55,118,h,Chriss 25' 3PT Jump Shot (16 PTS) (Booker 4 AST),Made Shot,Jump Shot,1,0
+272,298,PT09M04.00S,3,1610612748,MIA,201609,Dragic,G. Dragic,-194,-16,19,Missed,1,,,0,v,MISS Dragic 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+273,299,PT09M00.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+274,300,PT08M58.00S,3,1610612756,PHX,203933,Warren,T. Warren,17,7,2,Made,1,65,55,120,h,Warren 2' Running Reverse Layup (2 PTS) (Bledsoe 4 AST),Made Shot,Running Reverse Layup Shot,1,0
+275,301,PT08M58.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+276,305,PT08M46.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler P.FOUL (P2.T1) (L.Wood),Foul,Personal,1,0
+277,306,PT08M36.00S,3,1610612748,MIA,202337,Babbitt,L. Babbitt,-22,72,8,Missed,1,,,0,v,MISS Babbitt 8' Jump Shot,Missed Shot,Jump Shot,1,0
+278,307,PT08M34.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+279,308,PT08M11.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,225,-15,0,Missed,1,,,0,h,MISS Bledsoe 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+280,309,PT08M09.00S,3,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:5 Def:5),Rebound,Unknown,1,0
+281,310,PT08M02.00S,3,1610612748,MIA,201609,Dragic,G. Dragic,-11,-10,1,Missed,1,,,0,v,MISS Dragic 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,0
+282,311,PT07M59.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+283,312,PT07M54.00S,3,1610612756,PHX,1626164,Booker,D. Booker,97,144,17,Made,1,67,55,122,h,Booker 17' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,0
+284,313,PT07M30.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,-60,151,16,Made,1,67,57,124,v,Richardson 16' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,0
+285,314,PT07M24.00S,3,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic Personal Block Foul (P4.T1) (L.Wood),Foul,Personal Block,1,0
+286,315,PT07M24.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,68,57,125,h,Booker Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+287,317,PT07M24.00S,3,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,SUB: Williams FOR Babbitt,Substitution,,0,0
+288,318,PT07M24.00S,3,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,SUB: Ellington FOR Dragic,Substitution,,0,0
+289,319,PT07M24.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,69,57,126,h,Booker Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+290,321,PT07M11.00S,3,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,,,0,h,Warren P.FOUL (P2.T2) (E.Dalen),Foul,Personal,1,0
+291,322,PT07M02.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,86,232,25,Missed,1,,,0,v,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+292,323,PT07M00.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+293,324,PT06M44.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder Personal Block Foul (P4.T2) (S.Foster),Foul,Personal Block,1,0
+294,325,PT06M38.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-16,2,2,Missed,1,,,0,h,MISS Booker 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+295,325,PT06M38.00S,3,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed BLOCK (1 BLK),,,1,0
+296,326,PT06M35.00S,3,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,,,0,v,Ellington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+297,327,PT06M21.00S,3,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+298,328,PT06M00.00S,3,1610612756,PHX,203933,Warren,T. Warren,-238,2,24,Missed,1,,,0,h,MISS Warren 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+299,329,PT05M57.00S,3,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+300,330,PT05M53.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler S.FOUL (P3.T3) (E.Dalen),Foul,Shooting,1,0
+301,331,PT05M53.00S,3,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,69,58,127,v,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+302,333,PT05M53.00S,3,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,69,59,128,v,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+303,335,PT05M38.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-9,2,1,Made,1,71,59,130,h,Bledsoe 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,0
+304,336,PT05M19.00S,3,1610612748,MIA,203186,Reed,W. Reed,-91,-11,9,Made,1,71,61,132,v,Reed 9' Jump Shot (10 PTS) (Richardson 2 AST),Made Shot,Jump Shot,1,0
+305,337,PT05M02.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,155,16,16,Missed,1,,,0,h,MISS Bledsoe 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+306,338,PT04M58.00S,3,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:5 Def:6),Rebound,Unknown,1,0
+307,339,PT04M46.00S,3,1610612748,MIA,201961,Ellington,W. Ellington,158,151,22,Missed,1,,,0,v,MISS Ellington 22' Jump Shot,Missed Shot,Jump Shot,1,0
+308,340,PT04M44.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+309,341,PT04M40.00S,3,1610612756,PHX,1626164,Booker,D. Booker,12,0,1,Made,1,73,61,134,h,Booker 1' Running Layup (15 PTS),Made Shot,Running Layup Shot,1,0
+310,342,PT04M40.00S,3,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P3.T3) (E.Dalen),Foul,Shooting,1,0
+311,343,PT04M40.00S,3,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,SUB: Haslem FOR Reed,Substitution,,0,0
+312,344,PT04M40.00S,3,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,SUB: Len FOR Chandler,Substitution,,0,0
+313,345,PT04M40.00S,3,1610612756,PHX,203933,Warren,T. Warren,0,0,0,,0,,,0,h,SUB: Tucker FOR Warren,Substitution,,0,0
+314,346,PT04M40.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,74,61,135,h,Booker Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0
+315,348,PT04M17.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,199,38,20,Missed,1,,,0,v,MISS McGruder 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+316,349,PT04M14.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+317,350,PT04M08.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-88,134,16,Made,1,76,61,137,h,Bledsoe 16' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,0
+318,351,PT03M45.00S,3,1610612748,MIA,201961,Ellington,W. Ellington,130,213,25,Missed,1,,,0,v,MISS Ellington 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+319,352,PT03M42.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+320,353,PT03M37.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-19,0,2,Missed,1,,,0,h,MISS Bledsoe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+321,354,PT03M33.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+322,355,PT03M14.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0
+323,356,PT03M01.00S,3,1610612748,MIA,202682,Williams,D. Williams,66,174,19,Missed,1,,,0,v,MISS Williams 19' Jump Shot,Missed Shot,Jump Shot,1,0
+324,357,PT03M01.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0
+325,358,PT03M01.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss L.B.FOUL (P4.T4) (S.Foster),Foul,Loose Ball,1,0
+326,359,PT03M01.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss T.FOUL (P4.T4) (S.Foster),Foul,Technical,0,0
+327,360,PT03M01.00S,3,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,76,62,138,v,Ellington Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0
+328,362,PT03M01.00S,3,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,SUB: Bender FOR Chriss,Substitution,,0,0
+329,363,PT02M52.00S,3,1610612748,MIA,202682,Williams,D. Williams,0,1,0,Missed,1,,,0,v,MISS Williams Dunk,Missed Shot,Dunk Shot,1,0
+330,363,PT02M52.00S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len BLOCK (2 BLK),,,1,0
+331,364,PT02M50.00S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+332,365,PT02M43.00S,3,1610612756,PHX,1626164,Booker,D. Booker,233,90,25,Missed,1,,,0,h,MISS Booker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+333,366,PT02M41.00S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+334,367,PT02M36.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,69,249,26,Missed,1,,,0,h,MISS Bledsoe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+335,368,PT02M35.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,Haslem REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+336,369,PT02M20.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,19,146,15,Missed,1,,,0,v,MISS McGruder 15' Jump Shot,Missed Shot,Jump Shot,1,0
+337,370,PT02M18.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+338,371,PT01M59.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-117,252,28,Made,1,79,62,141,h,Booker 28' 3PT Jump Shot (19 PTS) (Bledsoe 5 AST),Made Shot,Jump Shot,1,0
+339,372,PT01M46.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,-6,195,20,Missed,1,,,0,v,MISS Richardson 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+340,374,PT01M43.00S,3,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+341,373,PT01M43.00S,3,1610612748,MIA,202682,Williams,D. Williams,15,2,2,Missed,1,,,0,v,MISS Williams 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+342,375,PT01M40.00S,3,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+343,376,PT01M35.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker OFF.Foul (P2) (E.Dalen),Foul,Offensive,1,0
+344,377,PT01M35.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Foul Turnover (P4.T11),Turnover,Foul,1,0
+345,378,PT01M35.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+346,380,PT01M35.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,SUB: Ulis FOR Bledsoe,Substitution,,0,0
+347,381,PT01M35.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,SUB: Dragic FOR McGruder,Substitution,,0,0
+348,382,PT01M35.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,SUB: Babbitt FOR Richardson,Substitution,,0,0
+349,383,PT01M17.00S,3,1610612748,MIA,201961,Ellington,W. Ellington,-165,46,17,Made,1,79,64,143,v,Ellington 17' Jump Shot (5 PTS) (Haslem 1 AST),Made Shot,Jump Shot,1,0
+350,384,PT01M04.00S,3,1610612756,PHX,203458,Len,A. Len,0,1,0,Made,1,81,64,145,h,Len Cutting Dunk Shot (9 PTS) (Bender 1 AST),Made Shot,Cutting Dunk Shot,1,0
+351,385,PT00M40.90S,3,1610612748,MIA,202682,Williams,D. Williams,-230,0,0,Missed,1,,,0,v,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+352,386,PT00M38.90S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,Tucker REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+353,387,PT00M20.90S,3,1610612756,PHX,1627733,Bender,D. Bender,-232,87,25,Missed,1,,,0,h,MISS Bender 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+354,388,PT00M18.90S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,Tucker REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+355,389,PT00M18.30S,3,1610612756,PHX,200782,Tucker,P. Tucker,-1,28,3,Made,1,83,64,147,h,Tucker 3' Hook Shot (5 PTS),Made Shot,Hook Shot,1,0
+356,390,PT00M01.30S,3,1610612756,PHX,1627755,Ulis,T. Ulis,0,0,0,,0,,,0,h,Ulis S.FOUL (P1.PN) (S.Foster),Foul,Shooting,1,0
+357,392,PT00M01.30S,3,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,83,65,148,v,Dragic Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0
+358,394,PT00M01.30S,3,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,83,66,149,v,Dragic Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0
+359,396,PT00M00.00S,3,0,,0,,,0,0,0,,0,83,66,149,,End of 3rd Period (10:45 PM EST),period,end,0,0
+360,398,PT12M00.00S,4,0,,0,,,0,0,0,,0,83,66,149,,Start of 4th Period (10:48 PM EST),period,start,0,0
+361,399,PT11M45.00S,4,1610612748,MIA,202337,Babbitt,L. Babbitt,-7,21,2,Missed,1,,,0,v,MISS Babbitt 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+362,399,PT11M45.00S,4,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len BLOCK (3 BLK),,,1,0
+363,400,PT11M43.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,Haslem REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+364,402,PT11M40.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa P.FOUL (P2.T1) (L.Wood),Foul,Personal,1,0
+365,403,PT11M31.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa S.FOUL (P3.T2) (S.Foster),Foul,Shooting,1,0
+366,404,PT11M31.00S,4,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+367,405,PT11M31.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+368,406,PT11M31.00S,4,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,83,67,150,v,Williams Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+369,408,PT11M15.00S,4,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+370,409,PT11M01.00S,4,1610612748,MIA,201961,Ellington,W. Ellington,2,154,15,Made,1,83,69,152,v,Ellington 15' Jump Shot (7 PTS) (Dragic 7 AST),Made Shot,Jump Shot,1,0
+371,410,PT10M39.00S,4,1610612756,PHX,1627755,Ulis,T. Ulis,-79,8,8,Made,1,85,69,154,h,Ulis 8' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,0
+372,411,PT10M19.00S,4,1610612748,MIA,201609,Dragic,G. Dragic,-140,56,15,Missed,1,,,0,v,MISS Dragic 15' Jump Shot,Missed Shot,Jump Shot,1,0
+373,412,PT10M17.00S,4,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+374,413,PT10M01.00S,4,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0
+375,413,PT10M01.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,Haslem STEAL (1 STL),,,1,0
+376,414,PT10M00.00S,4,1610612756,PHX,1627755,Ulis,T. Ulis,0,0,0,,0,,,0,h,Ulis FLAGRANT.FOUL.TYPE1 (P2.T3) (E.Dalen),Foul,Flagrant Type 1,1,0
+377,415,PT10M00.00S,4,0,,414,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+378,424,PT10M00.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,SUB: Reed FOR Haslem,Substitution,,0,0
+379,416,PT10M00.00S,4,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,MISS Babbitt Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,0,0
+380,417,PT10M00.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+381,418,PT10M00.00S,4,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,MISS Babbitt Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0
+382,419,PT10M00.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+383,420,PT09M57.00S,4,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic Traveling Turnover (P5.T12),Turnover,Traveling,1,0
+384,421,PT09M46.00S,4,1610612756,PHX,203458,Len,A. Len,12,3,1,Missed,1,,,0,h,MISS Len 1' Layup,Missed Shot,Layup Shot,1,0
+385,421,PT09M46.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed BLOCK (2 BLK),,,1,0
+386,422,PT09M41.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:5 Def:7),Rebound,Unknown,1,0
+387,423,PT09M37.00S,4,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,Len P.FOUL (P3.T4) (S.Foster),Foul,Personal,1,0
+388,425,PT09M37.00S,4,1610612748,MIA,202337,Babbitt,L. Babbitt,0,0,0,,0,,,0,v,SUB: McGruder FOR Babbitt,Substitution,,0,0
+389,426,PT09M32.00S,4,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,,,0,v,Ellington OFF.Foul (P2) (S.Foster),Foul,Offensive,1,0
+390,427,PT09M32.00S,4,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,,,0,v,Ellington Foul Turnover (P2.T13),Turnover,Foul,1,0
+391,428,PT09M11.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,-240,51,25,Missed,1,,,0,h,MISS Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+392,429,PT09M09.00S,4,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+393,430,PT08M57.00S,4,1610612748,MIA,203186,Reed,W. Reed,-16,3,2,Made,1,85,71,156,v,Reed 2' Layup (12 PTS) (Dragic 8 AST),Made Shot,Layup Shot,1,0
+394,431,PT08M33.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,32,175,18,Missed,1,,,0,h,MISS Barbosa 18' Jump Shot,Missed Shot,Jump Shot,1,0
+395,432,PT08M31.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:5 Def:8),Rebound,Unknown,1,0
+396,433,PT08M17.00S,4,1610612748,MIA,203585,McGruder,R. McGruder,-12,70,7,Missed,1,,,0,v,MISS McGruder 7' Jump Shot,Missed Shot,Jump Shot,1,0
+397,434,PT08M16.00S,4,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+398,435,PT08M13.00S,4,1610612748,MIA,201961,Ellington,W. Ellington,-237,7,24,Made,1,85,74,159,v,Ellington 24' 3PT Jump Shot (10 PTS) (McGruder 1 AST),Made Shot,Jump Shot,1,0
+399,436,PT08M13.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+400,438,PT08M13.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,SUB: Booker FOR Barbosa,Substitution,,0,0
+401,439,PT08M13.00S,4,1610612756,PHX,203458,Len,A. Len,0,0,0,,0,,,0,h,SUB: Bledsoe FOR Len,Substitution,,0,0
+402,440,PT08M13.00S,4,1610612756,PHX,1627733,Bender,D. Bender,0,0,0,,0,,,0,h,SUB: Chriss FOR Bender,Substitution,,0,0
+403,441,PT08M13.00S,4,1610612756,PHX,1627755,Ulis,T. Ulis,0,0,0,,0,,,0,h,SUB: Chandler FOR Ulis,Substitution,,0,0
+404,442,PT08M13.00S,4,1610612748,MIA,202682,Williams,D. Williams,0,0,0,,0,,,0,v,SUB: Richardson FOR Williams,Substitution,,0,0
+405,443,PT08M03.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-65,136,15,Missed,1,,,0,h,MISS Booker 15' Jump Shot,Missed Shot,Jump Shot,1,0
+406,444,PT08M01.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:5 Def:9),Rebound,Unknown,1,0
+407,445,PT07M47.00S,4,1610612748,MIA,201961,Ellington,W. Ellington,191,154,25,Missed,1,,,0,v,MISS Ellington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+408,446,PT07M45.00S,4,1610612756,PHX,1627737,Chriss,M. Chriss,0,0,0,,0,,,0,h,Chriss REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+409,447,PT07M37.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,130,120,18,Missed,1,,,0,h,MISS Bledsoe 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+410,448,PT07M33.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:5 Def:10),Rebound,Unknown,1,0
+411,449,PT07M22.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,1,0,Made,1,85,76,161,v,Reed Alley Oop Dunk (14 PTS) (Ellington 1 AST),Made Shot,Alley Oop Dunk Shot,1,0
+412,450,PT07M05.00S,4,1610612756,PHX,1627737,Chriss,M. Chriss,207,134,25,Missed,1,,,0,h,MISS Chriss 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+413,451,PT07M03.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:3 Def:10),Rebound,Unknown,1,0
+414,452,PT06M41.00S,4,1610612756,PHX,1626164,Booker,D. Booker,153,195,25,Missed,1,,,0,h,MISS Booker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+415,453,PT06M39.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:4 Def:10),Rebound,Unknown,1,0
+416,454,PT06M36.00S,4,1610612756,PHX,1626164,Booker,D. Booker,169,198,26,Made,1,88,76,164,h,Booker 26' 3PT Jump Shot (22 PTS) (Chandler 1 AST),Made Shot,Jump Shot,1,0
+417,455,PT06M20.00S,4,1610612748,MIA,203186,Reed,W. Reed,-2,65,7,Missed,1,,,0,v,MISS Reed 7' Hook Shot,Missed Shot,Hook Shot,1,0
+418,456,PT06M17.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:4 Def:11),Rebound,Unknown,1,0
+419,458,PT05M58.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+420,461,PT05M55.00S,4,1610612756,PHX,1626164,Booker,D. Booker,48,249,25,Made,1,91,76,167,h,Booker 25' 3PT Jump Shot (25 PTS) (Tucker 4 AST),Made Shot,Jump Shot,1,0
+421,462,PT05M48.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+422,467,PT05M32.00S,4,1610612748,MIA,201961,Ellington,W. Ellington,235,-6,24,Missed,1,,,0,v,MISS Ellington 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+423,468,PT05M30.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:4 Def:12),Rebound,Unknown,1,0
+424,469,PT05M12.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Bad Pass Turnover (P5.T14),Turnover,Bad Pass,1,0
+425,469,PT05M12.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson STEAL (2 STL),,,1,0
+426,470,PT05M08.00S,4,1610612748,MIA,201609,Dragic,G. Dragic,-11,-1,1,Missed,1,,,0,v,MISS Dragic 1' Layup,Missed Shot,Layup Shot,1,0
+427,471,PT05M04.00S,4,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+428,472,PT04M59.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,-102,156,19,Made,1,91,78,169,v,Richardson 19' Pullup Jump Shot (9 PTS) (Dragic 9 AST),Made Shot,Pullup Jump shot,1,0
+429,473,PT04M39.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson P.FOUL (P2.T1) (S.Foster),Foul,Personal,1,0
+430,474,PT04M29.00S,4,1610612756,PHX,1627737,Chriss,M. Chriss,-79,11,8,Made,1,93,78,171,h,Chriss 8' Floating Jump Shot (18 PTS) (Bledsoe 6 AST),Made Shot,Floating Jump shot,1,0
+431,475,PT04M11.00S,4,1610612748,MIA,203186,Reed,W. Reed,-30,11,3,Missed,1,,,0,v,MISS Reed 3' Jump Shot,Missed Shot,Jump Shot,1,0
+432,475,PT04M11.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler BLOCK (2 BLK),,,1,0
+433,476,PT04M09.00S,4,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+434,477,PT04M09.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Personal Block Foul (P3.PN) (L.Wood),Foul,Personal Block,1,0
+435,478,PT04M09.00S,4,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,93,79,172,v,Ellington Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+436,480,PT04M09.00S,4,1610612748,MIA,201961,Ellington,W. Ellington,0,0,0,,0,93,80,173,v,Ellington Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+437,482,PT03M57.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0
+438,482,PT03M57.00S,4,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic STEAL (2 STL),,,1,0
+439,483,PT03M50.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,-201,134,24,Missed,1,,,0,v,MISS Richardson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+440,484,PT03M48.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:4 Def:13),Rebound,Unknown,1,0
+441,485,PT03M31.00S,4,1610612756,PHX,1626164,Booker,D. Booker,102,126,16,Missed,1,,,0,h,MISS Booker 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+442,486,PT03M29.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:5 Def:13),Rebound,Unknown,1,0
+443,487,PT03M10.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-78,144,16,Missed,1,,,0,h,MISS Bledsoe 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+444,488,PT03M10.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:6 Def:13),Rebound,Unknown,1,0
+445,489,PT03M10.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,1,0
+446,490,PT03M10.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,94,80,174,h,Chandler Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+447,492,PT03M10.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,MISS Chandler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+448,494,PT03M09.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+449,495,PT02M54.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,15,41,4,Missed,1,,,0,v,MISS Richardson 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+450,497,PT02M52.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:6 Def:10),Rebound,Unknown,1,0
+451,496,PT02M52.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,1,0,Made,1,94,82,176,v,Reed Tip Dunk Shot (16 PTS),Made Shot,Tip Dunk Shot,1,0
+452,498,PT02M29.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe Bad Pass Turnover (P4.T16),Turnover,Bad Pass,1,0
+453,499,PT02M12.00S,4,1610612748,MIA,203585,McGruder,R. McGruder,12,43,4,Missed,1,,,0,v,MISS McGruder 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+454,501,PT02M09.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:7 Def:10),Rebound,Unknown,1,0
+455,500,PT02M09.00S,4,1610612748,MIA,203186,Reed,W. Reed,0,-1,0,Made,1,94,84,178,v,Reed Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,0
+456,502,PT01M56.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,Tucker OFF.Foul (P2) (E.Dalen),Foul,Offensive,1,0
+457,503,PT01M56.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,h,Tucker Foul Turnover (P1.T17),Turnover,Foul,1,0
+458,505,PT01M47.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,1,0,Made,1,94,86,180,v,Richardson Driving Dunk (11 PTS),Made Shot,Driving Dunk Shot,1,0
+459,506,PT01M27.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,15,7,2,Made,1,96,86,182,h,Tucker 2' Layup (7 PTS) (Bledsoe 7 AST),Made Shot,Layup Shot,1,0
+460,507,PT01M18.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,159,156,22,Missed,1,,,0,v,MISS Richardson 22' Jump Shot,Missed Shot,Jump Shot,1,0
+461,508,PT01M16.00S,4,1610612756,PHX,2199,Chandler,T. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:6 Def:14),Rebound,Unknown,1,0
+462,509,PT00M53.90S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Lost Ball Turnover (P6.T18),Turnover,Lost Ball,1,0
+463,509,PT00M53.90S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed STEAL (1 STL),,,1,0
+464,510,PT00M48.20S,4,1610612748,MIA,203186,Reed,W. Reed,0,1,0,Made,1,96,88,184,v,Reed Dunk (20 PTS) (Richardson 3 AST),Made Shot,Dunk Shot,1,0
+465,511,PT00M29.70S,4,1610612756,PHX,1626164,Booker,D. Booker,114,149,19,Made,1,98,88,186,h,Booker 19' Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,1,0
+466,512,PT00M29.70S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+467,516,PT00M23.30S,4,1610612748,MIA,201961,Ellington,W. Ellington,-106,228,25,Missed,1,,,0,v,MISS Ellington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+468,517,PT00M21.50S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+469,518,PT00M15.50S,4,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,v,McGruder Personal Take Foul (P5.T3) (E.Dalen),Foul,Personal Take,1,0
+470,520,PT00M15.50S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Short (Full 4 Short 1),Timeout,Short,0,0
+471,523,PT00M12.60S,4,1610612748,MIA,201609,Dragic,G. Dragic,0,0,0,,0,,,0,v,Dragic Personal Take Foul (P5.PN) (E.Dalen),Foul,Personal Take,1,0
+472,524,PT00M12.60S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,MISS Bledsoe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+473,525,PT00M12.60S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+474,526,PT00M12.60S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,99,88,187,h,Bledsoe Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+475,528,PT00M03.70S,4,1610612748,MIA,201609,Dragic,G. Dragic,-7,0,1,Missed,1,,,0,v,MISS Dragic 1' Layup,Missed Shot,Layup Shot,1,0
+476,530,PT00M02.90S,4,1610612748,MIA,203186,Reed,W. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:8 Def:10),Rebound,Unknown,1,0
+477,529,PT00M02.90S,4,1610612748,MIA,203186,Reed,W. Reed,4,2,0,Made,1,99,90,189,v,Reed Tip Layup Shot (22 PTS),Made Shot,Tip Layup Shot,1,0
+478,531,PT00M00.00S,4,0,,0,,,0,0,0,,0,99,90,189,,End of 4th Period (11:21 PM EST),period,end,1,0

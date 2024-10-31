@@ -1,0 +1,438 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:03 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Jump Ball Miller vs. Dalembert: Tip to,Jump Ball,,0,0
+3,2,PT11M34.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,-133,102,17,Made,1,2,0,2,h,Udrih 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+4,3,PT11M18.00S,1,1610612755,PHI,1889,Miller,A. Miller,-105,58,12,Missed,1,0,0,0,v,MISS Miller 12' Jump Shot,Missed Shot,Jump Shot,0,0
+5,3,PT11M18.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller BLOCK (1 BLK),,,0,0
+6,4,PT11M16.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+7,5,PT11M16.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert Poss Lost Ball Turnover (P1.T1),Turnover,Poss Lost Ball Turnover,0,0
+8,6,PT10M59.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,Missed,1,0,0,0,h,MISS Garcia  Layup,Missed Shot,Layup Shot,0,0
+9,7,PT10M57.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+10,8,PT10M49.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,2,2,4,v,Dalembert  Alley Oop Dunk (2 PTS) (Iguodala 1 AST),Made Shot,Alley Oop Dunk Shot,0,0
+11,9,PT10M37.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,Made,1,4,2,6,h,Udrih  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+12,10,PT10M13.00S,1,1610612755,PHI,200760,Carney,R. Carney,-10,104,10,Missed,1,0,0,0,v,MISS Carney 10' Jump Shot,Missed Shot,Jump Shot,0,0
+13,11,PT10M13.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Unknown,0,0
+14,12,PT10M13.00S,1,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore L.B.FOUL (P1.T1),Foul,Loose Ball,0,0
+15,13,PT09M55.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,-6,202,20,Made,1,4,4,8,v,Dalembert 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+16,14,PT09M36.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,76ers T.Foul (Def. 3 Sec Dalembert ),Foul,Defense 3 Second,0,0
+17,15,PT09M36.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,5,4,9,h,Miller Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+18,16,PT09M28.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+19,16,PT09M28.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala STEAL (1 STL),,,0,0
+20,17,PT09M27.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia C.P.FOUL (P1.T2),Foul,Clear Path,0,0
+21,18,PT09M27.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,5,5,10,v,Iguodala Free Throw Clear Path 2 of 2 (1 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,0
+22,19,PT09M13.00S,1,1610612755,PHI,1889,Miller,A. Miller,-171,84,19,Missed,1,0,0,0,v,MISS Miller 19' Jump Shot,Missed Shot,Jump Shot,0,0
+23,20,PT09M12.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+24,22,PT09M00.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,Made,1,7,5,12,h,Udrih  Finger Roll Layup (6 PTS),Made Shot,Finger Roll Layup Shot,0,0
+25,23,PT08M35.00S,1,1610612755,PHI,200760,Carney,R. Carney,0,0,0,Made,1,7,7,14,v,Carney  Hook Shot (2 PTS) (Evans 1 AST),Made Shot,Hook Shot,0,0
+26,24,PT08M13.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,-233,-11,0,Made,1,10,7,17,h,Udrih  3PT Jump Shot (9 PTS) (Garcia 1 AST),Made Shot,Jump Shot,0,0
+27,25,PT07M59.00S,1,1610612755,PHI,200760,Carney,R. Carney,97,183,21,Missed,1,0,0,0,v,MISS Carney 21' Jump Shot,Missed Shot,Jump Shot,0,0
+28,26,PT07M57.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+29,27,PT07M46.00S,1,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Missed,1,0,0,0,v,MISS Miller  Layup,Missed Shot,Layup Shot,0,0
+30,29,PT07M45.00S,1,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+31,28,PT07M45.00S,1,1610612755,PHI,2501,Evans,R. Evans,0,0,0,Missed,1,0,0,0,v,MISS Evans  Layup,Missed Shot,Layup Shot,0,0
+32,30,PT07M44.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+33,31,PT07M35.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,172,186,25,Missed,1,0,0,0,h,MISS Salmons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+34,32,PT07M33.00S,1,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+35,33,PT07M19.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,Made,1,12,7,19,h,Udrih  Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,0
+36,34,PT06M57.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,-148,23,15,Made,1,12,9,21,v,Dalembert 15' Turnaround Jump Shot (6 PTS) (Carney 1 AST),Made Shot,Turnaround Jump Shot,0,0
+37,35,PT06M45.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Made,1,14,9,23,h,Salmons  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+38,36,PT06M29.00S,1,1610612755,PHI,1889,Miller,A. Miller,110,36,12,Missed,1,0,0,0,v,MISS Miller 12' Jump Shot,Missed Shot,Jump Shot,0,0
+39,37,PT06M28.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+40,38,PT06M16.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+41,38,PT06M16.00S,1,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,Evans STEAL (1 STL),,,0,0
+42,39,PT06M12.00S,1,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,Evans Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+43,39,PT06M12.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia STEAL (1 STL),,,0,0
+44,40,PT06M05.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Missed,1,0,0,0,h,MISS Salmons  Layup,Missed Shot,Layup Shot,0,0
+45,41,PT06M03.00S,1,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+46,42,PT06M02.00S,1,1610612758,SAC,1630,Moore,M. Moore,0,0,0,Missed,1,0,0,0,h,MISS Moore  Layup,Missed Shot,Layup Shot,0,0
+47,43,PT05M59.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+48,44,PT05M56.00S,1,1610612755,PHI,200760,Carney,R. Carney,0,0,0,Made,1,14,11,25,v,Carney  Layup (4 PTS) (Dalembert 1 AST),Made Shot,Layup Shot,0,0
+49,45,PT05M42.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,182,204,27,Made,1,17,11,28,h,Garcia 27' 3PT Jump Shot (3 PTS) (Salmons 1 AST),Made Shot,Jump Shot,0,0
+50,46,PT05M34.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+51,48,PT05M28.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller S.FOUL (P1.T3),Foul,Shooting,0,0
+52,49,PT05M28.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,17,12,29,v,Dalembert Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+53,50,PT05M28.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,17,13,30,v,Dalembert Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+54,51,PT05M16.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Made,1,19,13,32,h,Salmons  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+55,52,PT05M16.00S,1,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,v,Carney S.FOUL (P1.T1),Foul,Shooting,0,0
+56,53,PT05M16.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,20,13,33,h,Salmons Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+57,54,PT05M04.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,148,128,20,Missed,1,0,0,0,v,MISS Iguodala 20' Jump Shot,Missed Shot,Jump Shot,0,0
+58,55,PT05M04.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+59,56,PT04M41.00S,1,1610612758,SAC,1802,Miller,B. Miller,18,64,7,Missed,1,0,0,0,h,MISS Miller 7' Jump Shot,Missed Shot,Jump Shot,0,0
+60,56,PT04M41.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert BLOCK (1 BLK),,,0,0
+61,57,PT04M38.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+62,58,PT04M36.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Missed,1,0,0,0,h,MISS Salmons  Layup,Missed Shot,Layup Shot,0,0
+63,59,PT04M34.00S,1,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+64,60,PT04M29.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+65,60,PT04M29.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller STEAL (1 STL),,,0,0
+66,61,PT04M22.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,Missed,1,0,0,0,h,MISS Garcia  Dunk,Missed Shot,Dunk Shot,0,0
+67,62,PT04M20.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+68,63,PT04M19.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,31,91,10,Missed,1,0,0,0,h,MISS Salmons 10' Jump Shot,Missed Shot,Jump Shot,0,0
+69,63,PT04M19.00S,1,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,v,Carney BLOCK (1 BLK),,,0,0
+70,64,PT04M17.00S,1,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,v,Carney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+71,65,PT04M12.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Violation:Kicked Ball,Violation,Kicked Ball,0,0
+72,66,PT04M06.00S,1,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Made,1,20,15,35,v,Miller  Reverse Layup (2 PTS) (Iguodala 2 AST),Made Shot,Reverse Layup Shot,0,0
+73,67,PT03M40.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,125,23,13,Missed,1,0,0,0,h,MISS Garcia 13' Jump Shot,Missed Shot,Jump Shot,0,0
+74,68,PT03M39.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+75,69,PT03M31.00S,1,1610612755,PHI,200760,Carney,R. Carney,-153,20,15,Missed,1,0,0,0,v,MISS Carney 15' Jump Shot,Missed Shot,Jump Shot,0,0
+76,70,PT03M31.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+77,71,PT03M31.00S,1,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,SUB: Smith FOR Evans,Substitution,,0,0
+78,72,PT03M19.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+79,72,PT03M19.00S,1,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller STEAL (1 STL),,,0,0
+80,74,PT03M15.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+81,73,PT03M15.00S,1,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Made,1,20,17,37,v,Miller  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+82,75,PT03M05.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih Traveling Turnover (P2.T4),Turnover,Traveling,0,0
+83,76,PT03M05.00S,1,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,v,SUB: Korver FOR Carney,Substitution,,0,0
+84,77,PT03M05.00S,1,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,SUB: Hawes FOR Moore,Substitution,,0,0
+85,78,PT02M49.00S,1,1610612755,PHI,201160,Smith,J. Smith,-108,160,19,Made,1,20,19,39,v,Smith 19' Jump Shot (2 PTS) (Iguodala 3 AST),Made Shot,Jump Shot,0,0
+86,79,PT02M26.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,-174,179,25,Made,1,23,19,42,h,Udrih 25' 3PT Jump Shot (14 PTS) (Salmons 2 AST),Made Shot,Jump Shot,0,0
+87,80,PT02M08.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,23,21,44,v,Dalembert  Alley Oop Dunk (10 PTS) (Iguodala 4 AST),Made Shot,Alley Oop Dunk Shot,0,0
+88,81,PT01M46.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+89,84,PT01M46.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,SUB: Douby FOR Miller,Substitution,,0,0
+90,85,PT01M46.00S,1,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,SUB: Thomas FOR Udrih,Substitution,,0,0
+91,86,PT01M41.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,136,56,15,Made,1,25,21,46,h,Garcia 15' Jump Shot (5 PTS) (Hawes 1 AST),Made Shot,Jump Shot,0,0
+92,87,PT01M24.00S,1,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby P.FOUL (P1.T4),Foul,Personal,0,0
+93,88,PT01M24.00S,1,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,SUB: Williams FOR Miller,Substitution,,0,0
+94,89,PT01M19.00S,1,1610612755,PHI,2594,Korver,K. Korver,-230,36,0,Made,1,25,24,49,v,Korver  3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,0
+95,90,PT00M57.90S,1,1610612758,SAC,200763,Douby,Q. Douby,233,22,0,Missed,1,0,0,0,h,MISS Douby  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+96,90,PT00M57.90S,1,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams BLOCK (1 BLK),,,0,0
+97,91,PT00M54.90S,1,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+98,92,PT00M51.90S,1,1610612758,SAC,201150,Hawes,S. Hawes,-186,17,19,Missed,1,0,0,0,h,MISS Hawes 19' Jump Shot,Missed Shot,Jump Shot,0,0
+99,93,PT00M50.60S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+100,94,PT00M29.80S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Missed,1,0,0,0,v,MISS Dalembert  Jump Shot,Missed Shot,Jump Shot,0,0
+101,95,PT00M28.40S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Unknown,0,0
+102,96,PT00M28.40S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,0
+103,97,PT00M28.40S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,SUB: Jones FOR Salmons,Substitution,,0,0
+104,98,PT00M04.40S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+105,99,PT00M00.50S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,-62,174,18,Made,1,25,26,51,v,Iguodala 18' Fadeaway Jumper (3 PTS),Made Shot,Fadeaway Jump Shot,0,0
+106,100,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,26,51,,End of 1st Period (10:28 PM EST),period,end,0,0
+107,102,PT12M00.00S,2,0,,0,,,0,0,0,,0,25,26,51,,Start of 2nd Period (10:31 PM EST),period,start,0,0
+108,103,PT11M44.00S,2,1610612755,PHI,101150,Williams,L. Williams,0,0,0,Missed,1,0,0,0,v,MISS Williams  Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+109,105,PT11M42.00S,2,1610612755,PHI,201160,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+110,104,PT11M42.00S,2,1610612755,PHI,201160,Smith,J. Smith,0,0,0,Made,1,25,28,53,v,Smith  Tip Shot (4 PTS),Made Shot,Tip Shot,0,0
+111,106,PT11M16.00S,2,1610612758,SAC,200763,Douby,Q. Douby,59,68,9,Made,1,27,28,55,h,Douby 9' Running Hook Shot (2 PTS),Made Shot,Running Hook Shot,0,0
+112,107,PT10M55.00S,2,1610612755,PHI,101150,Williams,L. Williams,-112,199,23,Missed,1,0,0,0,v,MISS Williams 23' Jump Shot,Missed Shot,Jump Shot,0,0
+113,108,PT10M54.00S,2,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+114,109,PT10M40.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,SUB: Young FOR Iguodala,Substitution,,0,0
+115,110,PT10M32.00S,2,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby P.FOUL (P2.T1),Foul,Personal,0,0
+116,111,PT10M19.00S,2,1610612755,PHI,201152,Young,T. Young,-197,0,20,Made,1,27,30,57,v,Young 20' Jump Shot (2 PTS) (Korver 1 AST),Made Shot,Jump Shot,0,0
+117,112,PT10M07.00S,2,1610612758,SAC,200763,Douby,Q. Douby,98,230,25,Missed,1,0,0,0,h,MISS Douby 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+118,113,PT10M06.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+119,114,PT10M02.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+120,114,PT10M02.00S,2,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby STEAL (1 STL),,,0,0
+121,115,PT09M58.00S,2,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,Made,1,29,30,59,h,Douby  Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,0,0
+122,116,PT09M40.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver Traveling Turnover (P1.T6),Turnover,Traveling,0,0
+123,117,PT09M40.00S,2,1610612758,SAC,2563,Jones,D. Jones,0,0,0,,0,0,0,0,h,SUB: Udrih FOR Jones,Substitution,,0,0
+124,118,PT09M27.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons OFF.Foul (P1),Foul,Offensive,0,0
+125,119,PT09M27.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons Foul Turnover (P2.T6),Turnover,Foul,0,0
+126,120,PT09M12.00S,2,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih S.FOUL (P1.T2),Foul,Shooting,0,0
+127,121,PT09M12.00S,2,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,29,31,60,v,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+128,122,PT09M12.00S,2,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,29,32,61,v,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+129,123,PT08M51.00S,2,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+130,123,PT08M51.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young STEAL (1 STL),,,0,0
+131,124,PT08M46.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,Made,1,29,34,63,v,Young  Driving Slam Dunk (4 PTS),Made Shot,Driving Slam Dunk Shot,0,0
+132,125,PT08M26.00S,2,1610612758,SAC,1903,Thomas,K. Thomas,20,51,5,Missed,1,0,0,0,h,MISS Thomas 5' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+133,127,PT08M24.00S,2,1610612758,SAC,201150,Hawes,S. Hawes,0,0,0,,0,0,0,0,h,Hawes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+134,126,PT08M24.00S,2,1610612758,SAC,201150,Hawes,S. Hawes,0,0,0,Missed,1,0,0,0,h,MISS Hawes  Layup,Missed Shot,Layup Shot,0,0
+135,128,PT08M23.00S,2,1610612755,PHI,201160,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+136,129,PT08M12.00S,2,1610612755,PHI,101150,Williams,L. Williams,-195,79,21,Missed,1,0,0,0,v,MISS Williams 21' Jump Shot,Missed Shot,Jump Shot,0,0
+137,130,PT08M10.00S,2,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+138,131,PT08M04.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,84,8,Made,1,31,34,65,h,Salmons 8' Running Jump Shot (7 PTS) (Udrih 1 AST),Made Shot,Running Jump Shot,0,0
+139,132,PT07M40.00S,2,1610612755,PHI,2594,Korver,K. Korver,-126,5,13,Made,1,31,36,67,v,Korver 13' Jump Shot (5 PTS),Made Shot,Jump Shot,0,0
+140,133,PT07M25.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Missed,1,0,0,0,h,MISS Salmons  Layup,Missed Shot,Layup Shot,0,0
+141,134,PT07M24.00S,2,1610612758,SAC,201150,Hawes,S. Hawes,0,0,0,,0,0,0,0,h,Hawes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+142,135,PT07M23.00S,2,1610612758,SAC,201150,Hawes,S. Hawes,0,0,0,Missed,1,0,0,0,h,MISS Hawes  Layup,Missed Shot,Layup Shot,0,0
+143,136,PT07M22.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Unknown,0,0
+144,137,PT07M22.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+145,140,PT07M22.00S,2,1610612758,SAC,201150,Hawes,S. Hawes,0,0,0,,0,0,0,0,h,SUB: Garcia FOR Hawes,Substitution,,0,0
+146,141,PT07M22.00S,2,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,SUB: Moore FOR Douby,Substitution,,0,0
+147,142,PT07M22.00S,2,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,SUB: Miller FOR Thomas,Substitution,,0,0
+148,143,PT07M02.00S,2,1610612755,PHI,201160,Smith,J. Smith,-232,31,0,Made,1,31,39,70,v,Smith  3PT Jump Shot (7 PTS) (Williams 2 AST),Made Shot,Jump Shot,0,0
+149,145,PT06M42.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,0
+150,145,PT06M42.00S,2,1610612755,PHI,201160,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith STEAL (1 STL),,,0,0
+151,147,PT06M31.00S,2,1610612755,PHI,2594,Korver,K. Korver,-20,253,25,Missed,1,0,0,0,v,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+152,148,PT06M29.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+153,150,PT06M23.00S,2,1610612758,SAC,2757,Udrih,B. Udrih,80,199,21,Missed,1,0,0,0,h,MISS Udrih 21' Jump Shot,Missed Shot,Jump Shot,0,0
+154,151,PT06M21.00S,2,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+155,152,PT06M20.00S,2,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih P.FOUL (P2.T3),Foul,Personal,0,0
+156,154,PT06M20.00S,2,1610612755,PHI,201160,Smith,J. Smith,0,0,0,,0,0,0,0,v,SUB: Dalembert FOR Smith,Substitution,,0,0
+157,155,PT06M20.00S,2,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,SUB: Miller FOR Williams,Substitution,,0,0
+158,156,PT06M14.00S,2,1610612755,PHI,2594,Korver,K. Korver,-123,145,19,Made,1,31,41,72,v,Korver 19' Jump Shot (7 PTS) (Miller 1 AST),Made Shot,Jump Shot,0,0
+159,157,PT05M52.00S,2,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih Poss Lost Ball Turnover (P3.T9),Turnover,Poss Lost Ball Turnover,0,0
+160,158,PT05M52.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+161,160,PT05M32.00S,2,1610612755,PHI,1889,Miller,A. Miller,80,38,9,Missed,1,0,0,0,v,MISS Miller 9' Jump Shot,Missed Shot,Jump Shot,0,0
+162,161,PT05M31.00S,2,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+163,162,PT05M15.00S,2,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Missed,1,0,0,0,v,MISS Miller  Layup,Missed Shot,Layup Shot,0,0
+164,163,PT05M14.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+165,164,PT05M14.00S,2,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,Evans L.B.FOUL (P1.T1),Foul,Loose Ball,0,0
+166,165,PT05M14.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,SUB: Iguodala FOR Young,Substitution,,0,0
+167,166,PT05M02.00S,2,1610612758,SAC,2757,Udrih,B. Udrih,3,247,25,Made,1,34,41,75,h,Udrih 25' 3PT Jump Shot (17 PTS) (Garcia 2 AST),Made Shot,Jump Shot,0,0
+168,167,PT04M48.00S,2,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore P.FOUL (P2.T4),Foul,Personal,0,0
+169,168,PT04M40.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,-238,10,24,Missed,1,0,0,0,v,MISS Iguodala 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+170,169,PT04M38.00S,2,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+171,170,PT04M38.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Short (Reg.1 Short 1),Timeout,Short,0,0
+172,173,PT04M21.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0
+173,173,PT04M21.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller STEAL (2 STL),,,0,0
+174,174,PT04M16.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Made,1,36,41,77,h,Salmons  Layup (9 PTS) (Udrih 2 AST),Made Shot,Layup Shot,0,0
+175,175,PT03M51.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,36,43,79,v,Dalembert  Slam Dunk (12 PTS) (Korver 2 AST),Made Shot,Slam Dunk Shot,0,0
+176,176,PT03M32.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,-148,212,26,Missed,1,0,0,0,h,MISS Salmons 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+177,177,PT03M31.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+178,178,PT03M22.00S,2,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,SUB: Jones FOR Udrih,Substitution,,0,0
+179,179,PT03M22.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,SUB: Carney FOR Korver,Substitution,,0,0
+180,180,PT03M20.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,36,45,81,v,Dalembert  Alley Oop Layup (14 PTS) (Miller 2 AST),Made Shot,Alley Oop Layup shot,0,0
+181,181,PT02M52.00S,2,1610612758,SAC,1630,Moore,M. Moore,-172,107,20,Missed,1,0,0,0,h,MISS Moore 20' Jump Shot,Missed Shot,Jump Shot,0,0
+182,182,PT02M52.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Unknown,0,0
+183,183,PT02M52.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,0
+184,186,PT02M52.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,SUB: Douby FOR Salmons,Substitution,,0,0
+185,187,PT02M31.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,167,22,17,Made,1,36,47,83,v,Iguodala 17' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,0,0
+186,188,PT02M25.00S,2,1610612758,SAC,2563,Jones,D. Jones,47,74,9,Made,1,38,47,85,h,Jones 9' Jump Hook Shot (2 PTS),Made Shot,Jump Hook Shot,0,0
+187,189,PT02M25.00S,2,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,v,Carney S.FOUL (P2.T2),Foul,Shooting,0,0
+188,190,PT02M25.00S,2,1610612758,SAC,2563,Jones,D. Jones,0,0,0,,0,39,47,86,h,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+189,191,PT02M06.00S,2,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Made,1,39,49,88,v,Miller  Layup (6 PTS),Made Shot,Layup Shot,0,0
+190,192,PT01M51.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Made,1,41,49,90,h,Miller  Layup (3 PTS),Made Shot,Layup Shot,0,0
+191,193,PT01M20.00S,2,1610612755,PHI,1889,Miller,A. Miller,-141,130,19,Missed,1,0,0,0,v,MISS Miller 19' Jump Shot,Missed Shot,Jump Shot,0,0
+192,194,PT01M19.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+193,195,PT01M09.00S,2,1610612758,SAC,101128,Garcia,F. Garcia,44,253,26,Missed,1,0,0,0,h,MISS Garcia 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+194,196,PT01M07.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+195,199,PT01M00.00S,2,1610612758,SAC,2563,Jones,D. Jones,0,0,0,,0,0,0,0,h,Jones S.FOUL (P1.PN),Foul,Shooting,0,0
+196,200,PT01M00.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,41,50,91,v,Iguodala Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+197,201,PT01M00.00S,2,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,v,SUB: Williams FOR Carney,Substitution,,0,0
+198,202,PT01M00.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,MISS Iguodala Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+199,204,PT00M54.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+200,203,PT00M37.90S,2,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,Missed,1,0,0,0,h,MISS Garcia  Layup,Missed Shot,Layup Shot,0,0
+201,205,PT00M34.20S,2,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+202,206,PT00M34.10S,2,1610612758,SAC,1802,Miller,B. Miller,-202,168,26,Made,1,44,50,94,h,Miller 26' 3PT Jump Shot (6 PTS) (Moore 1 AST),Made Shot,Jump Shot,0,0
+203,207,PT00M15.90S,2,1610612755,PHI,101150,Williams,L. Williams,0,0,0,Missed,1,0,0,0,v,MISS Williams  Layup,Missed Shot,Layup Shot,0,0
+204,207,PT00M15.90S,2,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia BLOCK (1 BLK),,,0,0
+205,208,PT00M13.50S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+206,209,PT00M11.10S,2,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,Missed,1,0,0,0,h,MISS Douby  Layup,Missed Shot,Layup Shot,0,0
+207,211,PT00M11.10S,2,1610612758,SAC,2563,Jones,D. Jones,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+208,210,PT00M11.10S,2,1610612758,SAC,2563,Jones,D. Jones,0,0,0,Made,1,46,50,96,h,Jones  Putback Slam Dunk (5 PTS),Made Shot,Putback Slam Dunk Shot,0,0
+209,212,PT00M00.00S,2,1610612755,PHI,1889,Miller,A. Miller,167,191,25,Missed,1,0,0,0,v,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+210,214,PT00M00.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Unknown,0,0
+211,213,PT00M00.00S,2,0,,0,,,0,0,0,,0,46,50,96,,End of 2nd Period (10:58 PM EST),period,end,0,0
+212,216,PT12M00.00S,3,0,,0,,,0,0,0,,0,46,50,96,,Start of 3rd Period (11:14 PM EST),period,start,0,0
+213,217,PT11M55.00S,3,1610612755,PHI,2501,Evans,R. Evans,0,0,0,Missed,1,0,0,0,v,MISS Evans  Layup,Missed Shot,Layup Shot,0,0
+214,218,PT11M54.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+215,219,PT11M45.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0
+216,220,PT11M25.00S,3,1610612755,PHI,200760,Carney,R. Carney,149,168,22,Missed,1,0,0,0,v,MISS Carney 22' Jump Shot,Missed Shot,Jump Shot,0,0
+217,221,PT11M24.00S,3,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,v,Carney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+218,222,PT11M11.00S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+219,222,PT11M11.00S,3,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih STEAL (1 STL),,,0,0
+220,223,PT11M06.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Made,1,48,50,98,h,Salmons  Layup (11 PTS) (Udrih 3 AST),Made Shot,Layup Shot,0,0
+221,442,PT10M53.00S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+222,442,PT10M53.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia STEAL (2 STL),,,0,0
+223,443,PT10M46.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,-132,205,24,Missed,1,0,0,0,h,MISS Garcia 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+224,444,PT10M46.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+225,225,PT10M39.00S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Missed,1,0,0,0,v,MISS Miller  Layup,Missed Shot,Layup Shot,0,0
+226,226,PT10M38.00S,3,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:4 Def:0),Rebound,Unknown,0,0
+227,227,PT10M21.00S,3,1610612755,PHI,2501,Evans,R. Evans,85,173,19,Made,1,48,52,100,v,Evans 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+228,228,PT10M02.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Poss Lost Ball Turnover (P2.T11),Turnover,Poss Lost Ball Turnover,0,0
+229,229,PT10M02.00S,3,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih L.B.FOUL (P3.T1),Foul,Loose Ball,0,0
+230,230,PT09M44.00S,3,1610612755,PHI,2501,Evans,R. Evans,159,20,16,Missed,1,0,0,0,v,MISS Evans 16' Jump Shot,Missed Shot,Jump Shot,0,0
+231,231,PT09M43.00S,3,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+232,232,PT09M27.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert P.FOUL (P1.T1),Foul,Personal,0,0
+233,233,PT09M15.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,-92,51,11,Missed,1,0,0,0,h,MISS Salmons 11' Jump Shot,Missed Shot,Jump Shot,0,0
+234,234,PT09M11.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+235,235,PT09M02.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,-149,86,17,Missed,1,0,0,0,v,MISS Dalembert 17' Jump Shot,Missed Shot,Jump Shot,0,0
+236,236,PT09M00.00S,3,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:5 Def:0),Rebound,Unknown,0,0
+237,237,PT08M58.00S,3,1610612755,PHI,2501,Evans,R. Evans,0,0,0,Made,1,48,54,102,v,Evans  Jump Hook Shot (4 PTS),Made Shot,Jump Hook Shot,0,0
+238,238,PT08M58.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+239,240,PT08M35.00S,3,1610612758,SAC,1802,Miller,B. Miller,-240,8,24,Missed,1,0,0,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+240,241,PT08M35.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+241,242,PT08M35.00S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller L.B.FOUL (P1.T2),Foul,Loose Ball,0,0
+242,243,PT08M32.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia Traveling Turnover (P2.T12),Turnover,Traveling,0,0
+243,244,PT08M18.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,169,25,17,Missed,1,0,0,0,v,MISS Dalembert 17' Jump Shot,Missed Shot,Jump Shot,0,0
+244,245,PT08M17.00S,3,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+245,246,PT08M05.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert S.FOUL (P2.T3),Foul,Shooting,0,0
+246,247,PT08M05.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,49,54,103,h,Salmons Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+247,248,PT08M05.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,50,54,104,h,Salmons Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+248,249,PT07M51.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller P.FOUL (P2.T2),Foul,Personal,0,0
+249,250,PT07M40.00S,3,1610612755,PHI,200760,Carney,R. Carney,87,187,21,Missed,1,0,0,0,v,MISS Carney 21' Jump Shot,Missed Shot,Jump Shot,0,0
+250,251,PT07M39.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+251,252,PT07M32.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0
+252,253,PT07M11.00S,3,1610612755,PHI,200760,Carney,R. Carney,-117,183,22,Missed,1,0,0,0,v,MISS Carney 22' Jump Shot,Missed Shot,Jump Shot,0,0
+253,254,PT07M09.00S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+254,255,PT07M04.00S,3,1610612755,PHI,1889,Miller,A. Miller,-108,10,11,Made,1,50,56,106,v,Miller 11' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+255,256,PT06M47.00S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller P.FOUL (P2.T4),Foul,Personal,0,0
+256,257,PT06M47.00S,3,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,v,SUB: Korver FOR Carney,Substitution,,0,0
+257,258,PT06M34.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,-209,20,21,Missed,1,0,0,0,h,MISS Garcia 21' Jump Shot,Missed Shot,Jump Shot,0,0
+258,259,PT06M33.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+259,260,PT06M33.00S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller P.FOUL (P3.PN),Foul,Personal,0,0
+260,261,PT06M33.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,51,56,107,h,Miller Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+261,262,PT06M33.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,52,56,108,h,Miller Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+262,263,PT06M21.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Traveling Turnover (P2.T10),Turnover,Traveling,0,0
+263,264,PT05M59.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,-191,158,25,Made,1,55,56,111,h,Garcia 25' 3PT Jump Shot (8 PTS) (Udrih 4 AST),Made Shot,Jump Shot,0,0
+264,265,PT05M43.00S,3,1610612755,PHI,1889,Miller,A. Miller,-130,74,15,Made,1,55,58,113,v,Miller 15' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+265,266,PT05M19.00S,3,1610612758,SAC,2757,Udrih,B. Udrih,-41,245,25,Missed,1,0,0,0,h,MISS Udrih 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+266,267,PT05M17.00S,3,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+267,268,PT05M09.00S,3,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore P.FOUL (P3.T3),Foul,Personal,0,0
+268,269,PT05M09.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+269,271,PT05M09.00S,3,1610612755,PHI,2501,Evans,R. Evans,0,0,0,,0,0,0,0,v,SUB: Williams FOR Evans,Substitution,,0,0
+270,273,PT05M00.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Missed,1,0,0,0,v,MISS Iguodala  Layup,Missed Shot,Layup Shot,0,0
+271,274,PT04M58.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+272,275,PT04M50.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,-235,12,24,Missed,1,0,0,0,h,MISS Garcia 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+273,276,PT04M48.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+274,277,PT04M45.00S,3,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,Missed,1,0,0,0,h,MISS Udrih  Layup,Missed Shot,Layup Shot,0,0
+275,278,PT04M43.00S,3,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:4 Def:0),Rebound,Unknown,0,0
+276,279,PT04M41.00S,3,1610612758,SAC,1630,Moore,M. Moore,0,0,0,Made,1,57,58,115,h,Moore  Layup (2 PTS) (Udrih 5 AST),Made Shot,Layup Shot,0,0
+277,280,PT04M23.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons S.FOUL (P2.T4),Foul,Shooting,0,0
+278,281,PT04M23.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,MISS Iguodala Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+279,282,PT04M23.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+280,283,PT04M23.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,57,59,116,v,Iguodala Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+281,284,PT04M05.00S,3,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore 3 Second Violation Turnover (P1.T14),Turnover,3 Second Violation,0,0
+282,285,PT03M50.00S,3,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0
+283,286,PT03M37.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,235,18,24,Missed,1,0,0,0,h,MISS Garcia 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+284,287,PT03M36.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+285,288,PT03M16.00S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller Traveling Turnover (P3.T12),Turnover,Traveling,0,0
+286,289,PT02M58.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,1,17,2,Made,1,59,59,118,h,Salmons 2' Jump Shot (15 PTS),Made Shot,Jump Shot,0,0
+287,290,PT02M31.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0
+288,291,PT02M31.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+289,295,PT02M21.00S,3,1610612758,SAC,1630,Moore,M. Moore,0,0,0,Missed,1,0,0,0,h,MISS Moore  Layup,Missed Shot,Layup Shot,0,0
+290,296,PT02M20.00S,3,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:5 Def:0),Rebound,Unknown,0,0
+291,297,PT02M19.00S,3,1610612758,SAC,1630,Moore,M. Moore,43,36,6,Made,1,61,59,120,h,Moore 6' Jump Hook Shot (4 PTS),Made Shot,Jump Hook Shot,0,0
+292,298,PT01M59.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert 3 Second Violation Turnover (P2.T14),Turnover,3 Second Violation,0,0
+293,299,PT01M41.00S,3,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih Poss Lost Ball Turnover (P4.T15),Turnover,Poss Lost Ball Turnover,0,0
+294,300,PT01M27.00S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Made,1,61,61,122,v,Miller  Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,0
+295,301,PT01M10.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia OFF.Foul (P2),Foul,Offensive,0,0
+296,302,PT01M10.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia Foul Turnover (P3.T16),Turnover,Foul,0,0
+297,303,PT00M57.90S,3,1610612755,PHI,2594,Korver,K. Korver,-84,233,25,Missed,1,0,0,0,v,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+298,304,PT00M55.90S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:3 Def:8),Rebound,Unknown,0,0
+299,305,PT00M45.90S,3,1610612758,SAC,101128,Garcia,F. Garcia,227,0,0,Missed,1,0,0,0,h,MISS Garcia  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+300,306,PT00M44.80S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+301,307,PT00M29.90S,3,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Missed,1,0,0,0,v,MISS Miller  Layup,Missed Shot,Layup Shot,0,0
+302,308,PT00M27.90S,3,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+303,309,PT00M21.90S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Missed,1,0,0,0,h,MISS Salmons  Layup,Missed Shot,Layup Shot,0,0
+304,310,PT00M20.80S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+305,311,PT00M16.60S,3,1610612755,PHI,101150,Williams,L. Williams,0,0,0,Made,1,61,63,124,v,Williams  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+306,312,PT00M00.00S,3,1610612758,SAC,1802,Miller,B. Miller,74,158,17,Made,1,63,63,126,h,Miller 17' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+307,313,PT00M00.00S,3,0,,0,,,0,0,0,,0,63,63,126,,Instant Replay3rd Period (11:40 PM EST),Instant Replay,Support Ruling,0,0
+308,314,PT00M00.00S,3,0,,0,,,0,0,0,,0,63,63,126,,End of 3rd Period (11:41 PM EST),period,end,0,0
+309,316,PT12M00.00S,4,0,,0,,,0,0,0,,0,63,63,126,,Start of 4th Period (11:43 PM EST),period,start,0,0
+310,317,PT11M42.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Missed,1,0,0,0,h,MISS Salmons  Layup,Missed Shot,Layup Shot,0,0
+311,318,PT11M41.00S,4,1610612755,PHI,201160,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+312,319,PT11M34.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,Missed,1,0,0,0,v,MISS Williams  Layup,Missed Shot,Layup Shot,0,0
+313,320,PT11M33.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+314,321,PT11M20.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala S.FOUL (P1.T1),Foul,Shooting,0,0
+315,322,PT11M20.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,SUB: Young FOR Iguodala,Substitution,,0,0
+316,323,PT11M20.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,64,63,127,h,Salmons Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+317,324,PT11M20.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,65,63,128,h,Salmons Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+318,325,PT11M12.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia P.FOUL (P3.T1),Foul,Personal,0,0
+319,326,PT11M04.00S,4,1610612755,PHI,1889,Miller,A. Miller,66,28,7,Made,1,65,65,130,v,Miller 7' Running Hook Shot (14 PTS),Made Shot,Running Hook Shot,0,0
+320,327,PT10M52.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons Lost Ball Turnover (P4.T17),Turnover,Lost Ball,0,0
+321,327,PT10M52.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (1 STL),,,0,0
+322,328,PT10M47.00S,4,1610612755,PHI,201160,Smith,J. Smith,0,0,0,Made,1,65,67,132,v,Smith  Dunk (9 PTS) (Miller 3 AST),Made Shot,Dunk Shot,0,0
+323,329,PT10M27.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,Missed,1,0,0,0,h,MISS Garcia  Layup,Missed Shot,Layup Shot,0,0
+324,329,PT10M27.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams BLOCK (2 BLK),,,0,0
+325,330,PT10M25.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+326,331,PT10M20.00S,4,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Made,1,65,69,134,v,Miller  Driving Layup (16 PTS) (Williams 3 AST),Made Shot,Driving Layup Shot,0,0
+327,332,PT10M14.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+328,334,PT10M14.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,SUB: Douby FOR Miller,Substitution,,0,0
+329,335,PT10M14.00S,4,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,SUB: Hawes FOR Udrih,Substitution,,0,0
+330,336,PT10M01.00S,4,1610612758,SAC,200763,Douby,Q. Douby,-15,252,25,Missed,1,0,0,0,h,MISS Douby 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+331,337,PT09M59.00S,4,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+332,338,PT09M55.00S,4,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore P.FOUL (P4.T2),Foul,Personal,0,0
+333,339,PT09M55.00S,4,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,MISS Miller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+334,340,PT09M55.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+335,342,PT09M55.00S,4,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,SUB: Thomas FOR Moore,Substitution,,0,0
+336,343,PT09M55.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+337,344,PT09M55.00S,4,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,MISS Miller Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+338,345,PT09M54.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+339,346,PT09M54.00S,4,1610612755,PHI,201160,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith L.B.FOUL (P1.T2),Foul,Loose Ball,0,0
+340,347,PT09M38.00S,4,1610612758,SAC,200763,Douby,Q. Douby,-3,68,7,Made,1,67,69,136,h,Douby 7' Running Jump Shot (6 PTS),Made Shot,Running Jump Shot,0,0
+341,348,PT09M15.00S,4,1610612755,PHI,2594,Korver,K. Korver,176,13,18,Missed,1,0,0,0,v,MISS Korver 18' Jump Shot,Missed Shot,Jump Shot,0,0
+342,349,PT09M14.00S,4,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+343,350,PT08M58.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,-56,168,18,Made,1,69,69,138,h,Salmons 18' Jump Shot (19 PTS),Made Shot,Jump Shot,0,0
+344,351,PT08M39.00S,4,1610612755,PHI,2594,Korver,K. Korver,87,151,17,Made,1,69,71,140,v,Korver 17' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+345,352,PT08M39.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons S.FOUL (P3.T3),Foul,Shooting,0,0
+346,353,PT08M39.00S,4,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,SUB: Dalembert FOR Miller,Substitution,,0,0
+347,354,PT08M39.00S,4,1610612755,PHI,201160,Smith,J. Smith,0,0,0,,0,0,0,0,v,SUB: Iguodala FOR Smith,Substitution,,0,0
+348,355,PT08M39.00S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,69,72,141,v,Korver Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0
+349,356,PT08M26.00S,4,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,Missed,1,0,0,0,h,MISS Douby  Layup,Missed Shot,Layup Shot,0,0
+350,357,PT08M24.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+351,358,PT08M21.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons S.FOUL (P4.T4),Foul,Shooting,0,0
+352,359,PT08M21.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,69,73,142,v,Williams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+353,360,PT08M21.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,SUB: Jones FOR Salmons,Substitution,,0,0
+354,361,PT08M21.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,69,74,143,v,Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+355,362,PT08M00.00S,4,1610612758,SAC,2563,Jones,D. Jones,0,0,0,Missed,1,0,0,0,h,MISS Jones  Layup,Missed Shot,Layup Shot,0,0
+356,362,PT08M00.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young BLOCK (1 BLK),,,0,0
+357,363,PT07M59.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+358,364,PT07M55.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,Missed,1,0,0,0,v,MISS Williams  Layup,Missed Shot,Layup Shot,0,0
+359,365,PT07M54.00S,4,1610612758,SAC,201150,Hawes,S. Hawes,0,0,0,,0,0,0,0,h,Hawes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+360,366,PT07M50.00S,4,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby Bad Pass Turnover (P2.T18),Turnover,Bad Pass,0,0
+361,366,PT07M50.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (2 STL),,,0,0
+362,367,PT07M45.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Missed,1,0,0,0,v,MISS Iguodala  Layup,Missed Shot,Layup Shot,0,0
+363,369,PT07M43.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+364,368,PT07M43.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,Made,1,69,76,145,v,Young  Layup (6 PTS),Made Shot,Layup Shot,0,0
+365,370,PT07M30.00S,4,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby Bad Pass Turnover (P3.T19),Turnover,Bad Pass,0,0
+366,370,PT07M30.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young STEAL (2 STL),,,0,0
+367,371,PT07M30.00S,4,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas P.FOUL (P1.PN),Foul,Personal,0,0
+368,372,PT07M30.00S,4,1610612758,SAC,201150,Hawes,S. Hawes,0,0,0,,0,0,0,0,h,SUB: Udrih FOR Hawes,Substitution,,0,0
+369,373,PT07M30.00S,4,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,SUB: Miller FOR Douby,Substitution,,0,0
+370,374,PT07M30.00S,4,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,SUB: Moore FOR Thomas,Substitution,,0,0
+371,375,PT07M30.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+372,376,PT07M30.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+373,377,PT07M30.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,MISS Young Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+374,378,PT07M29.00S,4,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:5 Def:1),Rebound,Unknown,0,0
+375,379,PT07M10.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Missed,1,0,0,0,h,MISS Miller  Layup,Missed Shot,Layup Shot,0,0
+376,379,PT07M10.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert BLOCK (2 BLK),,,0,0
+377,380,PT07M10.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+378,381,PT07M08.00S,4,1610612758,SAC,1630,Moore,M. Moore,-5,84,8,Made,1,71,76,147,h,Moore 8' Jump Shot (6 PTS) (Jones 1 AST),Made Shot,Jump Shot,0,0
+379,382,PT07M08.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams S.FOUL (P1.T3),Foul,Shooting,0,0
+380,383,PT07M08.00S,4,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,MISS Moore Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+381,384,PT07M07.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+382,385,PT06M55.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert OFF.Foul (P3),Foul,Offensive,0,0
+383,386,PT06M55.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert Foul Turnover (P3.T15),Turnover,Foul,0,0
+384,387,PT06M55.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,SUB: Salmons FOR Garcia,Substitution,,0,0
+385,388,PT06M55.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,SUB: Miller FOR Williams,Substitution,,0,0
+386,389,PT06M42.00S,4,1610612758,SAC,2563,Jones,D. Jones,0,0,0,,0,0,0,0,h,Jones Lost Ball Turnover (P1.T20),Turnover,Lost Ball,0,0
+387,389,PT06M42.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young STEAL (3 STL),,,0,0
+388,390,PT06M37.00S,4,1610612755,PHI,1889,Miller,A. Miller,0,0,0,Made,1,71,78,149,v,Miller  Layup (18 PTS) (Young 1 AST),Made Shot,Layup Shot,0,0
+389,391,PT06M14.00S,4,1610612758,SAC,2757,Udrih,B. Udrih,-200,3,20,Made,1,73,78,151,h,Udrih 20' Jump Shot (19 PTS) (Miller 1 AST),Made Shot,Jump Shot,0,0
+390,392,PT05M52.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,73,80,153,v,Dalembert  Dunk (16 PTS) (Iguodala 5 AST),Made Shot,Dunk Shot,0,0
+391,393,PT05M20.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons Bad Pass Turnover (P5.T21),Turnover,Bad Pass,0,0
+392,393,PT05M20.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala STEAL (2 STL),,,0,0
+393,394,PT05M17.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,73,82,155,v,Iguodala  Slam Dunk (9 PTS),Made Shot,Slam Dunk Shot,0,0
+394,395,PT05M03.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,190,164,25,Missed,1,0,0,0,h,MISS Salmons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+395,396,PT05M01.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+396,397,PT04M57.00S,4,1610612758,SAC,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih P.FOUL (P4.PN),Foul,Personal,0,0
+397,398,PT04M57.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+398,400,PT04M57.00S,4,1610612758,SAC,2563,Jones,D. Jones,0,0,0,,0,0,0,0,h,SUB: Garcia FOR Jones,Substitution,,0,0
+399,401,PT04M57.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,MISS Dalembert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+400,402,PT04M57.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+401,403,PT04M57.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,73,83,156,v,Dalembert Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+402,404,PT04M51.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia OFF.Foul (P4),Foul,Offensive,0,0
+403,405,PT04M51.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia Foul Turnover (P4.T22),Turnover,Foul,0,0
+404,406,PT04M28.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,73,85,158,v,Iguodala  Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,0
+405,407,PT04M09.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,182,174,25,Missed,1,0,0,0,h,MISS Garcia 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+406,408,PT04M08.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+407,409,PT03M51.00S,4,1610612755,PHI,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,0
+408,410,PT03M41.00S,4,1610612758,SAC,1630,Moore,M. Moore,20,43,5,Missed,1,0,0,0,h,MISS Moore 5' Hook Shot,Missed Shot,Hook Shot,0,0
+409,410,PT03M41.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert BLOCK (3 BLK),,,0,0
+410,411,PT03M40.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Unknown,0,0
+411,412,PT03M14.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,182,186,26,Made,1,73,88,161,v,Iguodala 26' 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+412,413,PT02M58.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,148,212,26,Made,1,76,88,164,h,Salmons 26' 3PT Jump Shot (22 PTS) (Udrih 6 AST),Made Shot,Jump Shot,0,0
+413,414,PT02M38.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+414,417,PT02M38.00S,4,1610612758,SAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,SUB: Douby FOR Moore,Substitution,,0,0
+415,418,PT02M37.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,Missed,1,0,0,0,v,MISS Young  Layup,Missed Shot,Layup Shot,0,0
+416,418,PT02M37.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia BLOCK (2 BLK),,,0,0
+417,419,PT02M36.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+418,421,PT02M36.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,Young Poss Lost Ball Turnover (P2.T17),Turnover,Poss Lost Ball Turnover,0,0
+419,422,PT02M36.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Jump Ball Miller vs. Young: Tip to Salmons,Jump Ball,,0,0
+420,423,PT02M25.00S,4,1610612758,SAC,200763,Douby,Q. Douby,233,10,0,Missed,1,0,0,0,h,MISS Douby  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+421,424,PT02M24.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:4 Def:8),Rebound,Unknown,0,0
+422,425,PT02M08.00S,4,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,Made,1,78,88,166,h,Douby  Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+423,426,PT01M46.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller P.FOUL (P3.PN),Foul,Personal,0,0
+424,427,PT01M46.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,78,89,167,v,Dalembert Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+425,428,PT01M46.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,v,SUB: Williams FOR Young,Substitution,,0,0
+426,429,PT01M46.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,78,90,168,v,Dalembert Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+427,430,PT01M33.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Missed,1,0,0,0,h,MISS Salmons  Layup,Missed Shot,Layup Shot,0,0
+428,431,PT01M32.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:2 Def:10),Rebound,Unknown,0,0
+429,432,PT01M11.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,128,169,21,Missed,1,0,0,0,v,MISS Iguodala 21' Jump Shot,Missed Shot,Jump Shot,0,0
+430,433,PT01M09.00S,4,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+431,434,PT00M58.90S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Lost Ball Turnover (P4.T23),Turnover,Lost Ball,0,0
+432,434,PT00M58.90S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala STEAL (3 STL),,,0,0
+433,435,PT00M36.50S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,66,199,21,Made,1,78,92,170,v,Iguodala 21' Fadeaway Jumper (16 PTS),Made Shot,Fadeaway Jump Shot,0,0
+434,436,PT00M29.70S,4,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,Made,1,80,92,172,h,Douby  Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+435,437,PT00M05.30S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,174,240,30,Missed,1,0,0,0,v,MISS Iguodala 30' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+436,438,PT00M04.80S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+437,439,PT00M00.00S,4,0,,0,,,0,0,0,,0,80,92,172,,End of 4th Period (12:13 PM EST),period,end,0,0

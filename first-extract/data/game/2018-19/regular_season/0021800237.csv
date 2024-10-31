@@ -1,0 +1,523 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (6:12 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Jump Ball Howard vs. Nurkic: Tip to Porter Jr.,Jump Ball,,1,0
+3,7,PT11M40.00S,1,1610612764,WAS,202693,Morris,M. Morris,91,53,11,Missed,1,,,0,h,MISS Morris 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+4,8,PT11M35.00S,1,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,Layman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+5,9,PT11M17.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-5,25,3,Missed,1,,,0,v,MISS McCollum 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+6,10,PT11M14.00S,1,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+7,12,PT11M05.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum P.FOUL (P1.T1) (B.Forte),Foul,Personal,1,0
+8,14,PT10M59.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-31,213,22,Missed,1,,,0,h,MISS Porter Jr. 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+9,15,PT10M55.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+10,16,PT10M51.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-3,11,1,Made,1,0,2,2,v,Lillard 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,0
+11,17,PT10M27.00S,1,1610612764,WAS,202322,Wall,J. Wall,20,19,3,Missed,1,,,0,h,MISS Wall 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+12,18,PT10M25.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+13,19,PT10M20.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-201,164,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+14,20,PT10M16.00S,1,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+15,21,PT10M12.00S,1,1610612764,WAS,203078,Beal,B. Beal,-140,124,19,Missed,1,,,0,h,MISS Beal 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+16,22,PT10M09.00S,1,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,Layman REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+17,23,PT09M58.00S,1,1610612757,POR,202329,Aminu,A. Aminu,-228,22,0,Made,1,0,5,5,v,Aminu 3PT Jump Shot (3 PTS) (Nurkic 1 AST),Made Shot,Jump Shot,1,0
+18,25,PT09M38.00S,1,1610612764,WAS,202322,Wall,J. Wall,-119,227,26,Made,1,3,5,8,h,Wall 26' 3PT Jump Shot (3 PTS) (Beal 1 AST),Made Shot,Jump Shot,1,0
+19,27,PT09M16.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,31,17,4,Missed,1,,,0,v,MISS Nurkic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+20,28,PT09M15.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+21,29,PT09M15.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,8,10,1,Made,1,3,7,10,v,Nurkic 1' Layup (2 PTS),Made Shot,Layup Shot,1,0
+22,30,PT09M15.00S,1,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris S.FOUL (P1.T1) (B.Forte),Foul,Shooting,1,0
+23,32,PT09M15.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,3,8,11,v,Nurkic Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+24,33,PT09M05.00S,1,1610612764,WAS,202322,Wall,J. Wall,-169,195,26,Made,1,6,8,14,h,Wall 26' 3PT Jump Shot (6 PTS) (Beal 2 AST),Made Shot,Jump Shot,1,0
+25,35,PT08M46.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,-52,63,8,Made,1,6,10,16,v,Nurkic 8' Hook Shot (5 PTS) (Lillard 1 AST),Made Shot,Hook Shot,1,0
+26,39,PT08M34.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,0
+27,41,PT08M34.00S,1,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+28,42,PT08M34.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0
+29,43,PT08M34.00S,1,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+30,44,PT08M32.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+31,45,PT08M21.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic Traveling Turnover (P1.T1),Turnover,Traveling,1,0
+32,46,PT08M08.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+33,46,PT08M08.00S,1,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,Layman STEAL (1 STL),,,1,0
+34,48,PT08M04.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-214,138,25,Made,1,6,13,19,v,McCollum 25' 3PT Jump Shot (3 PTS) (Layman 1 AST),Made Shot,Jump Shot,1,0
+35,50,PT07M49.00S,1,1610612764,WAS,2730,Howard,D. Howard,99,184,21,Made,1,8,13,21,h,Howard 21' Jump Shot (2 PTS) (Morris 1 AST),Made Shot,Jump Shot,1,0
+36,52,PT07M38.00S,1,1610612757,POR,202329,Aminu,A. Aminu,172,199,26,Made,1,8,16,24,v,Aminu 26' 3PT Jump Shot (6 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,1,0
+37,54,PT07M19.00S,1,1610612764,WAS,203078,Beal,B. Beal,-193,110,22,Missed,1,,,0,h,MISS Beal 22' Jump Shot,Missed Shot,Jump Shot,1,0
+38,55,PT07M17.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+39,56,PT07M12.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-169,228,28,Made,1,8,19,27,v,Lillard 28' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+40,57,PT07M10.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+41,58,PT07M00.00S,1,1610612764,WAS,202693,Morris,M. Morris,-117,34,12,Missed,1,,,0,h,MISS Morris 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+42,59,PT06M56.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+43,60,PT06M52.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-148,263,30,Missed,1,,,0,v,MISS Lillard 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+44,61,PT06M48.00S,1,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+45,62,PT06M41.00S,1,1610612764,WAS,2730,Howard,D. Howard,-114,90,15,Missed,1,,,0,h,MISS Howard 15' Jump Shot,Missed Shot,Jump Shot,1,0
+46,63,PT06M41.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+47,64,PT06M24.00S,1,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard P.FOUL (P1.T2) (J.Orr),Foul,Personal,1,0
+48,66,PT06M21.00S,1,1610612757,POR,1627774,Layman,J. Layman,3,7,1,Made,1,8,21,29,v,Layman 1' Cutting Dunk Shot (2 PTS) (Nurkic 3 AST),Made Shot,Cutting Dunk Shot,1,0
+49,68,PT06M08.00S,1,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard OFF.Foul (P2) (B.Forte),Foul,Offensive,1,0
+50,70,PT06M08.00S,1,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0
+51,71,PT06M08.00S,1,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,SUB: Green FOR Howard,Substitution,,0,0
+52,73,PT05M53.00S,1,1610612757,POR,203468,McCollum,C. McCollum,30,256,26,Made,1,8,24,32,v,McCollum 26' 3PT Jump Shot (6 PTS) (Nurkic 4 AST),Made Shot,Jump Shot,1,0
+53,75,PT05M31.00S,1,1610612764,WAS,202322,Wall,J. Wall,77,251,26,Missed,1,,,0,h,MISS Wall 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+54,76,PT05M27.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+55,77,PT05M26.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,150,146,21,Made,1,10,24,34,h,Porter Jr. 21' Jump Shot (2 PTS) (Wall 1 AST),Made Shot,Jump Shot,1,0
+56,79,PT05M05.00S,1,1610612757,POR,202329,Aminu,A. Aminu,46,63,8,Made,1,10,26,36,v,Aminu 8' Driving Floating Jump Shot (8 PTS) (Layman 2 AST),Made Shot,Driving Floating Jump Shot,1,0
+57,81,PT04M52.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,150,106,18,Made,1,12,26,38,h,Porter Jr. 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+58,83,PT04M26.00S,1,1610612757,POR,1627774,Layman,J. Layman,220,120,25,Made,1,12,29,41,v,Layman 25' 3PT Jump Shot (5 PTS) (Lillard 2 AST),Made Shot,Jump Shot,1,0
+59,85,PT04M06.00S,1,1610612764,WAS,203078,Beal,B. Beal,73,258,27,Missed,1,,,0,h,MISS Beal 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+60,86,PT04M01.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+61,87,PT03M54.00S,1,1610612757,POR,203468,McCollum,C. McCollum,192,176,26,Made,1,12,32,44,v,McCollum 26' 3PT Jump Shot (9 PTS) (Lillard 3 AST),Made Shot,Jump Shot,1,0
+62,89,PT03M53.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+63,90,PT03M53.00S,1,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,SUB: Oubre Jr. FOR Morris,Substitution,,0,0
+64,91,PT03M53.00S,1,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,SUB: Collins FOR Layman,Substitution,,0,0
+65,92,PT03M53.00S,1,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,SUB: Turner FOR Nurkic,Substitution,,0,0
+66,96,PT03M41.00S,1,1610612764,WAS,203078,Beal,B. Beal,76,135,15,Made,1,14,32,46,h,Beal 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+67,97,PT03M18.00S,1,1610612757,POR,202323,Turner,E. Turner,53,100,11,Missed,1,,,0,v,MISS Turner 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+68,98,PT03M15.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+69,99,PT03M05.00S,1,1610612764,WAS,203078,Beal,B. Beal,-188,173,26,Made,1,17,32,49,h,Beal 26' 3PT Jump Shot (5 PTS) (Oubre Jr. 1 AST),Made Shot,Jump Shot,1,0
+70,102,PT02M47.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,SUB: Rivers FOR Porter Jr.,Substitution,,0,0
+71,104,PT02M47.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,SUB: Stauskas FOR McCollum,Substitution,,0,0
+72,106,PT02M38.00S,1,1610612757,POR,202329,Aminu,A. Aminu,151,221,27,Missed,1,,,0,v,MISS Aminu 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+73,107,PT02M34.00S,1,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+74,108,PT02M29.00S,1,1610612764,WAS,201145,Green,J. Green,11,24,3,Missed,1,,,0,h,MISS Green 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+75,109,PT02M26.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+76,111,PT02M19.00S,1,1610612757,POR,1628380,Collins,Z. Collins,-117,233,26,Missed,1,,,0,v,MISS Collins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+77,112,PT02M16.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+78,113,PT02M12.00S,1,1610612764,WAS,202322,Wall,J. Wall,22,21,3,Missed,1,,,0,h,MISS Wall 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+79,113,PT02M12.00S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins BLOCK (1 BLK),,,1,0
+80,115,PT02M12.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+81,117,PT02M12.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,SUB: Layman FOR Aminu,Substitution,,0,0
+82,119,PT02M05.00S,1,1610612764,WAS,202322,Wall,J. Wall,-3,20,2,Made,1,19,32,51,h,Wall 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,0
+83,120,PT02M05.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard S.FOUL (P1.T3) (B.Forte),Foul,Shooting,1,0
+84,122,PT02M05.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,SUB: Satoransky FOR Beal,Substitution,,0,0
+85,124,PT02M05.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,SUB: Simons FOR Lillard,Substitution,,0,0
+86,126,PT02M05.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,MISS Wall Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+87,127,PT02M05.00S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+88,128,PT01M54.00S,1,1610612757,POR,1629014,Simons,A. Simons,174,186,25,Missed,1,,,0,v,MISS Simons 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+89,129,PT01M52.00S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+90,131,PT01M44.00S,1,1610612764,WAS,203085,Rivers,A. Rivers,-21,16,3,Missed,1,,,0,h,MISS Rivers 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+91,132,PT01M42.00S,1,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,Simons REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+92,133,PT01M38.00S,1,1610612757,POR,203917,Stauskas,N. Stauskas,-219,157,27,Missed,1,,,0,v,MISS Stauskas 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+93,134,PT01M34.00S,1,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+94,135,PT01M20.00S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,-2,17,2,Missed,1,,,0,h,MISS Satoransky 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+95,136,PT01M17.00S,1,1610612757,POR,203917,Stauskas,N. Stauskas,0,0,0,,0,,,0,v,Stauskas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+96,137,PT01M14.00S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins OFF.Foul (P1) (B.Forte),Foul,Offensive,1,0
+97,139,PT01M14.00S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0
+98,140,PT01M02.00S,1,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,-3,21,2,Made,1,21,32,53,h,Oubre Jr. 2' Driving Dunk (2 PTS) (Wall 2 AST),Made Shot,Driving Dunk Shot,1,0
+99,142,PT01M01.00S,1,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+100,144,PT00M43.40S,1,1610612757,POR,203917,Stauskas,N. Stauskas,0,0,0,,0,,,0,v,Stauskas Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0
+101,145,PT00M35.60S,1,1610612764,WAS,202322,Wall,J. Wall,13,158,16,Missed,1,,,0,h,MISS Wall 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+102,146,PT00M32.90S,1,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+103,147,PT00M21.70S,1,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,Simons Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0
+104,147,PT00M21.70S,1,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green STEAL (1 STL),,,1,0
+105,149,PT00M19.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,25,3,Made,1,23,32,55,h,Wall 3' Running Finger Roll Layup (10 PTS) (Green 1 AST),Made Shot,Running Finger Roll Layup Shot,1,0
+106,151,PT00M10.20S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky P.FOUL (P1.T3) (B.Forte),Foul,Personal,1,0
+107,153,PT00M10.20S,1,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,SUB: Lillard FOR Simons,Substitution,,0,0
+108,155,PT00M05.40S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins OFF.Foul (P2) (J.Orr),Foul,Offensive,1,0
+109,157,PT00M05.40S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0
+110,158,PT00M05.40S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,SUB: Beal FOR Satoransky,Substitution,,0,0
+111,160,PT00M00.50S,1,1610612764,WAS,202322,Wall,J. Wall,41,129,14,Made,1,25,32,57,h,Wall 14' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,0
+112,161,PT00M00.00S,1,0,,160,Breaux,T. Breaux,0,0,0,,0,25,32,57,,Instant Replay1st Period (6:37 PM EST),Instant Replay,Support Ruling,0,0
+113,162,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,32,57,,End of 1st Period (6:38 PM EST),period,end,1,0
+114,167,PT12M00.00S,2,0,,0,,,0,0,0,,0,25,32,57,,Start of 2nd Period (6:40 PM EST),period,start,0,0
+115,168,PT11M41.00S,2,1610612757,POR,203917,Stauskas,N. Stauskas,0,0,0,,0,,,0,v,Stauskas Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+116,168,PT11M41.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal STEAL (1 STL),,,1,0
+117,170,PT11M35.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,9,42,4,Missed,1,,,0,h,MISS Oubre Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+118,170,PT11M35.00S,2,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,Layman BLOCK (1 BLK),,,1,0
+119,172,PT11M31.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,Simons REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+120,173,PT11M27.00S,2,1610612757,POR,1627774,Layman,J. Layman,-164,214,27,Missed,1,,,0,v,MISS Layman 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+121,174,PT11M23.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+122,175,PT11M12.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins P.FOUL (P3.T1) (T.Washington),Foul,Personal,1,0
+123,177,PT11M00.00S,2,1610612764,WAS,203078,Beal,B. Beal,-4,62,6,Made,1,27,32,59,h,Beal 6' Layup (7 PTS),Made Shot,Layup Shot,1,0
+124,178,PT10M46.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky S.FOUL (P2.T1) (T.Washington),Foul,Shooting,1,0
+125,180,PT10M46.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,27,33,60,v,Collins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+126,181,PT10M46.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,27,34,61,v,Collins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+127,182,PT10M32.00S,2,1610612764,WAS,203078,Beal,B. Beal,50,53,7,Missed,1,,,0,h,MISS Beal 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+128,183,PT10M28.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+129,184,PT10M28.00S,2,1610612764,WAS,201145,Green,J. Green,0,-6,1,Made,1,29,34,63,h,Green 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,0
+130,185,PT10M13.00S,2,1610612757,POR,1628380,Collins,Z. Collins,40,28,5,Made,1,29,36,65,v,Collins 5' Layup (4 PTS) (Turner 1 AST),Made Shot,Layup Shot,1,0
+131,187,PT10M13.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,0
+132,189,PT10M13.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,29,37,66,v,Collins Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+133,190,PT09M55.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,19,34,4,Made,1,31,37,68,h,Satoransky 4' Layup (2 PTS),Made Shot,Layup Shot,1,0
+134,192,PT09M37.00S,2,1610612757,POR,202323,Turner,E. Turner,-13,8,2,Made,1,31,39,70,v,Turner 2' Layup (2 PTS) (Collins 1 AST),Made Shot,Layup Shot,1,0
+135,194,PT09M23.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,219,113,25,Missed,1,,,0,h,MISS Oubre Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+136,195,PT09M21.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+137,196,PT09M13.00S,2,1610612764,WAS,201145,Green,J. Green,154,113,19,Missed,1,,,0,h,MISS Green 19' Jump Shot,Missed Shot,Jump Shot,1,0
+138,197,PT09M11.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+139,199,PT09M01.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky P.FOUL (P3.T3) (T.Washington),Foul,Personal,1,0
+140,201,PT09M01.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,SUB: Wall FOR Satoransky,Substitution,,0,0
+141,203,PT08M54.00S,2,1610612757,POR,1629014,Simons,A. Simons,-13,65,7,Missed,1,,,0,v,MISS Simons 7' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+142,203,PT08M54.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall BLOCK (1 BLK),,,1,0
+143,205,PT08M51.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+144,206,PT08M50.00S,2,1610612764,WAS,203078,Beal,B. Beal,-15,250,25,Made,1,34,39,73,h,Beal 25' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,1,0
+145,207,PT08M29.00S,2,1610612757,POR,202323,Turner,E. Turner,2,13,1,Missed,1,,,0,v,MISS Turner 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+146,208,PT08M29.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+147,210,PT08M29.00S,2,1610612757,POR,203917,Stauskas,N. Stauskas,0,0,0,,0,,,0,v,SUB: McCollum FOR Stauskas,Substitution,,0,0
+148,211,PT08M29.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,,,0,v,SUB: Lillard FOR Simons,Substitution,,0,0
+149,214,PT08M22.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P4.T2) (T.Washington),Foul,Shooting,1,0
+150,216,PT08M22.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,MISS Wall Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+151,217,PT08M22.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0
+152,218,PT08M22.00S,2,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,SUB: Nurkic FOR Layman,Substitution,,0,0
+153,219,PT08M22.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,SUB: Aminu FOR Collins,Substitution,,0,0
+154,222,PT08M22.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,MISS Wall Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+155,223,PT08M21.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+156,224,PT08M21.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal L.B.FOUL (P2.T4) (J.Orr),Foul,Loose Ball,1,0
+157,226,PT08M10.00S,2,1610612757,POR,202323,Turner,E. Turner,10,15,2,Made,1,34,41,75,v,Turner 2' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,0
+158,227,PT07M50.00S,2,1610612764,WAS,203078,Beal,B. Beal,-232,56,24,Missed,1,,,0,h,MISS Beal 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+159,228,PT07M49.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0
+160,229,PT07M49.00S,2,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic L.B.FOUL (P2.T3) (J.Orr),Foul,Loose Ball,1,0
+161,231,PT07M42.00S,2,1610612764,WAS,202322,Wall,J. Wall,23,178,18,Missed,1,,,0,h,MISS Wall 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+162,232,PT07M39.00S,2,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+163,246,PT07M25.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-9,13,2,Missed,1,,,0,v,MISS Lillard 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+164,246,PT07M25.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal BLOCK (1 BLK),,,1,0
+165,248,PT07M25.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+166,235,PT07M14.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,-230,125,26,Missed,1,,,0,h,MISS Oubre Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+167,236,PT07M10.00S,2,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+168,237,PT07M05.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. P.FOUL (P1.PN) (B.Forte),Foul,Personal,1,0
+169,239,PT07M05.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,34,42,76,v,Lillard Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+170,240,PT07M05.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,SUB: Howard FOR Green,Substitution,,0,0
+171,242,PT07M05.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,34,43,77,v,Lillard Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+172,243,PT06M54.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner P.FOUL (P1.T4) (B.Forte),Foul,Personal,1,0
+173,245,PT06M54.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+174,249,PT06M46.00S,2,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard 3 Second Violation Turnover (P2.T3),Turnover,3 Second Violation,1,0
+175,250,PT06M34.00S,2,1610612757,POR,203994,Nurkic,J. Nurkic,-6,23,2,Missed,1,,,0,v,MISS Nurkic 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,0
+176,250,PT06M34.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. BLOCK (1 BLK),,,1,0
+177,252,PT06M31.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+178,253,PT06M26.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,137,248,28,Missed,1,,,0,h,MISS Oubre Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+179,254,PT06M21.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+180,255,PT06M14.00S,2,1610612757,POR,202323,Turner,E. Turner,-74,154,17,Missed,1,,,0,v,MISS Turner 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+181,256,PT06M11.00S,2,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+182,257,PT06M03.00S,2,1610612764,WAS,202322,Wall,J. Wall,-144,48,15,Missed,1,,,0,h,MISS Wall 15' Jump Shot,Missed Shot,Jump Shot,1,0
+183,258,PT06M01.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+184,259,PT05M54.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-11,11,2,Made,1,34,45,79,v,Lillard 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+185,260,PT05M36.00S,2,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard Lost Ball Turnover (P3.T4),Turnover,Lost Ball,1,0
+186,260,PT05M36.00S,2,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu STEAL (1 STL),,,1,0
+187,262,PT05M32.00S,2,1610612757,POR,202329,Aminu,A. Aminu,14,5,1,Missed,1,,,0,v,MISS Aminu 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+188,262,PT05M32.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall BLOCK (2 BLK),,,1,0
+189,264,PT05M32.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+190,265,PT05M32.00S,2,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard L.B.FOUL (P3.PN) (T.Washington),Foul,Loose Ball,1,0
+191,267,PT05M32.00S,2,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,MISS Nurkic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+192,268,PT05M32.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+193,269,PT05M32.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,SUB: Green FOR Oubre Jr.,Substitution,,0,0
+194,270,PT05M32.00S,2,1610612764,WAS,2730,Howard,D. Howard,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Howard,Substitution,,0,0
+195,275,PT05M32.00S,2,0,,1610612764,,,0,0,0,,0,,,0,,Delay Of Game,Violation,Delay Of Game,0,0
+196,273,PT05M32.00S,2,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+197,274,PT05M30.00S,2,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+198,276,PT05M13.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum S.FOUL (P2.PN) (T.Washington),Foul,Shooting,1,0
+199,278,PT05M13.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,35,45,80,h,Beal Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+200,279,PT05M13.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,36,45,81,h,Beal Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+201,280,PT05M07.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-1,22,2,Made,1,36,47,83,v,McCollum 2' Cutting Dunk Shot (11 PTS) (Turner 2 AST),Made Shot,Cutting Dunk Shot,1,0
+202,283,PT04M41.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+203,284,PT04M31.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-112,138,18,Made,1,36,49,85,v,Lillard 18' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,0
+204,285,PT04M18.00S,2,1610612764,WAS,203078,Beal,B. Beal,-139,219,26,Missed,1,,,0,h,MISS Beal 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+205,286,PT04M15.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+206,287,PT04M08.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-152,202,25,Missed,1,,,0,v,MISS McCollum 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+207,288,PT04M06.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+208,289,PT03M56.00S,2,1610612764,WAS,201145,Green,J. Green,1,257,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+209,290,PT03M52.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+210,291,PT03M48.00S,2,1610612757,POR,203081,Lillard,D. Lillard,13,18,2,Made,1,36,51,87,v,Lillard 2' Cutting Layup Shot (13 PTS) (Turner 3 AST),Made Shot,Cutting Layup Shot,1,0
+211,293,PT03M47.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+212,294,PT03M47.00S,2,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,SUB: Oubre Jr. FOR Rivers,Substitution,,0,0
+213,296,PT03M33.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,109,167,20,Missed,1,,,0,h,MISS Porter Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+214,297,PT03M31.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+215,298,PT03M20.00S,2,1610612757,POR,203081,Lillard,D. Lillard,179,195,26,Made,1,36,54,90,v,Lillard 26' 3PT Jump Shot (16 PTS) (Nurkic 5 AST),Made Shot,Jump Shot,1,0
+216,300,PT03M05.00S,2,1610612764,WAS,203078,Beal,B. Beal,89,245,26,Missed,1,,,0,h,MISS Beal 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+217,301,PT03M02.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+218,302,PT03M00.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,83,168,19,Missed,1,,,0,h,MISS Porter Jr. 19' Jump Shot,Missed Shot,Jump Shot,1,0
+219,303,PT03M00.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+220,304,PT03M00.00S,2,1610612764,WAS,201145,Green,J. Green,0,-6,1,Made,1,38,54,92,h,Green 1' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,0
+221,305,PT03M00.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard S.FOUL (P2.PN) (J.Orr),Foul,Shooting,1,0
+222,307,PT03M00.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,39,54,93,h,Green Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+223,308,PT02M48.00S,2,1610612757,POR,203468,McCollum,C. McCollum,14,15,2,Made,1,39,56,95,v,McCollum 2' Cutting Layup Shot (13 PTS) (Nurkic 6 AST),Made Shot,Cutting Layup Shot,1,0
+224,310,PT02M29.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,13,29,3,Made,1,41,56,97,h,Oubre Jr. 3' Pullup Jump Shot (4 PTS) (Beal 3 AST),Made Shot,Pullup Jump shot,1,0
+225,312,PT02M18.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-8,15,2,Missed,1,,,0,v,MISS Lillard 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,0
+226,314,PT02M16.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+227,315,PT02M13.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0
+228,316,PT01M57.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal S.FOUL (P3.PN) (J.Orr),Foul,Shooting,1,0
+229,318,PT01M57.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,41,57,98,v,Turner Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+230,319,PT01M57.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,SUB: Morris FOR Beal,Substitution,,0,0
+231,321,PT01M57.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,41,58,99,v,Turner Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+232,322,PT01M44.00S,2,1610612764,WAS,202322,Wall,J. Wall,-151,214,26,Missed,1,,,0,h,MISS Wall 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+233,323,PT01M40.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+234,324,PT01M37.00S,2,1610612757,POR,203468,McCollum,C. McCollum,216,159,27,Missed,1,,,0,v,MISS McCollum 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+235,325,PT01M33.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+236,326,PT01M16.00S,2,1610612764,WAS,202693,Morris,M. Morris,217,145,26,Missed,1,,,0,h,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+237,327,PT01M09.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+238,328,PT01M00.00S,2,1610612757,POR,202329,Aminu,A. Aminu,-229,-5,0,Missed,1,,,0,v,MISS Aminu 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+239,329,PT00M59.20S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+240,330,PT00M59.20S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green L.B.FOUL (P1.PN) (T.Washington),Foul,Loose Ball,1,0
+241,332,PT00M59.20S,2,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,41,59,100,v,Nurkic Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+242,333,PT00M59.20S,2,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,41,60,101,v,Nurkic Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+243,334,PT00M50.80S,2,1610612764,WAS,201145,Green,J. Green,94,246,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+244,335,PT00M47.40S,2,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+245,336,PT00M33.60S,2,1610612757,POR,203081,Lillard,D. Lillard,-185,225,29,Missed,1,,,0,v,MISS Lillard 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+246,337,PT00M30.50S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+247,338,PT00M06.90S,2,1610612764,WAS,201145,Green,J. Green,155,150,22,Missed,1,,,0,h,MISS Green 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+248,339,PT00M06.90S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+249,340,PT00M01.00S,2,1610612757,POR,202323,Turner,E. Turner,-20,15,3,Missed,1,,,0,v,MISS Turner 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+250,341,PT00M00.70S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+251,342,PT00M00.60S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. S.FOUL (P2.PN) (B.Forte),Foul,Shooting,1,0
+252,344,PT00M00.60S,2,0,,342,Toolson,A. Toolson,0,0,0,,0,41,60,101,,Instant Replay2nd Period (7:09 PM EST),Instant Replay,Support Ruling,0,0
+253,345,PT00M00.60S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,41,61,102,v,Lillard Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+254,346,PT00M00.60S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,41,62,103,v,Lillard Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+255,347,PT00M00.00S,2,0,,0,,,0,0,0,,0,41,62,103,,End of 2nd Period (7:10 PM EST),period,end,1,0
+256,352,PT12M00.00S,3,0,,0,,,0,0,0,,0,41,62,103,,Start of 3rd Period (7:25 PM EST),period,start,0,0
+257,354,PT11M39.00S,3,1610612757,POR,203468,McCollum,C. McCollum,-157,120,20,Missed,1,,,0,v,MISS McCollum 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+258,355,PT11M37.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+259,356,PT11M27.00S,3,1610612764,WAS,202693,Morris,M. Morris,16,18,2,Missed,1,,,0,h,MISS Morris 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+260,357,PT11M25.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+261,358,PT11M22.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris S.FOUL (P2.T1) (J.Orr),Foul,Shooting,1,0
+262,360,PT11M22.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,MISS Lillard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+263,361,PT11M22.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+264,362,PT11M22.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,41,63,104,v,Lillard Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+265,363,PT11M08.00S,3,1610612764,WAS,202693,Morris,M. Morris,140,63,15,Missed,1,,,0,h,MISS Morris 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+266,364,PT11M02.00S,3,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:5 Def:5),Rebound,Unknown,1,0
+267,365,PT11M02.00S,3,1610612764,WAS,201145,Green,J. Green,0,-6,1,Missed,1,,,0,h,MISS Green 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+268,366,PT11M02.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+269,367,PT10M58.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-44,258,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+270,368,PT10M53.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+271,369,PT10M44.00S,3,1610612764,WAS,202322,Wall,J. Wall,-9,8,1,Made,1,43,63,106,h,Wall 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,0
+272,370,PT10M35.00S,3,1610612757,POR,1627774,Layman,J. Layman,-228,24,0,Missed,1,,,0,v,MISS Layman 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+273,371,PT10M33.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+274,372,PT10M31.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-139,230,27,Made,1,43,66,109,v,Lillard 27' 3PT Jump Shot (22 PTS) (Aminu 1 AST),Made Shot,Jump Shot,1,0
+275,374,PT10M14.00S,3,1610612764,WAS,201145,Green,J. Green,30,11,3,Made,1,45,66,111,h,Green 3' Driving Dunk (7 PTS) (Wall 3 AST),Made Shot,Driving Dunk Shot,1,0
+276,376,PT09M58.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-60,258,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+277,377,PT09M55.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+278,378,PT09M52.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum S.FOUL (P3.T1) (B.Forte),Foul,Shooting,1,0
+279,380,PT09M52.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,MISS Wall Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+280,381,PT09M52.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0
+281,382,PT09M52.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,46,66,112,h,Wall Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+282,383,PT09M37.00S,3,1610612757,POR,203468,McCollum,C. McCollum,-2,5,1,Made,1,46,68,114,v,McCollum 1' Cutting Layup Shot (15 PTS) (Nurkic 7 AST),Made Shot,Cutting Layup Shot,1,0
+283,385,PT09M24.00S,3,1610612764,WAS,203078,Beal,B. Beal,109,53,12,Missed,1,,,0,h,MISS Beal 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+284,386,PT09M22.00S,3,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+285,387,PT09M14.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu Offensive Charge Foul (P1.T2) (B.Forte),Foul,Offensive Charge,1,0
+286,389,PT09M14.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0
+287,390,PT09M05.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+288,390,PT09M05.00S,3,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,Layman STEAL (2 STL),,,1,0
+289,392,PT08M56.00S,3,1610612757,POR,203468,McCollum,C. McCollum,11,46,5,Missed,1,,,0,v,MISS McCollum 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+290,393,PT08M53.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+291,394,PT08M46.00S,3,1610612757,POR,203994,Nurkic,J. Nurkic,-8,64,6,Missed,1,,,0,v,MISS Nurkic 6' Hook Shot,Missed Shot,Hook Shot,1,0
+292,395,PT08M43.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+293,396,PT08M36.00S,3,1610612764,WAS,202322,Wall,J. Wall,2,2,0,Made,1,48,68,116,h,Wall Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,0
+294,397,PT08M19.00S,3,1610612757,POR,1627774,Layman,J. Layman,-70,20,7,Made,1,48,70,118,v,Layman 7' Hook Shot (7 PTS) (Nurkic 8 AST),Made Shot,Hook Shot,1,0
+295,399,PT08M11.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal OFF.Foul (P4) (T.Washington),Foul,Offensive,1,0
+296,401,PT08M11.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0
+297,402,PT07M53.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+298,403,PT07M42.00S,3,1610612764,WAS,203078,Beal,B. Beal,10,17,2,Missed,1,,,0,h,MISS Beal 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+299,404,PT07M40.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+300,406,PT07M22.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal Violation:Kicked Ball (J.Orr),Violation,Kicked Ball,0,0
+301,407,PT07M21.00S,3,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,Layman OFF.Foul (P1) (J.Orr),Foul,Offensive,1,0
+302,409,PT07M21.00S,3,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,Layman Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0
+303,410,PT07M13.00S,3,1610612764,WAS,202322,Wall,J. Wall,-61,133,15,Missed,1,,,0,h,MISS Wall 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+304,411,PT07M09.00S,3,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:6 Def:5),Rebound,Unknown,1,0
+305,412,PT07M08.00S,3,1610612764,WAS,201145,Green,J. Green,5,17,2,Missed,1,,,0,h,MISS Green 2' Layup,Missed Shot,Layup Shot,1,0
+306,413,PT07M08.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+307,414,PT07M02.00S,3,1610612757,POR,1627774,Layman,J. Layman,-160,208,26,Missed,1,,,0,v,MISS Layman 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+308,415,PT07M01.00S,3,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:6 Def:6),Rebound,Unknown,1,0
+309,416,PT07M01.00S,3,0,,2623,,,0,0,0,,0,,,0,,Scott Brooks Foul:T.FOUL (J.Orr),Foul,Technical,0,0
+310,417,PT07M01.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,48,71,119,v,Lillard Free Throw Technical (23 PTS),Free Throw,Free Throw Technical,0,0
+311,418,PT06M48.00S,3,1610612764,WAS,202322,Wall,J. Wall,13,20,2,Made,1,50,71,121,h,Wall 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,0
+312,419,PT06M32.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-2,16,2,Made,1,50,73,123,v,Lillard 2' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,0
+313,420,PT06M32.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris S.FOUL (P3.T2) (T.Washington),Foul,Shooting,1,0
+314,422,PT06M32.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+315,423,PT06M32.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,50,74,124,v,Lillard Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,0,0
+316,424,PT06M24.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,116,63,13,Made,1,52,74,126,h,Porter Jr. 13' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+317,425,PT06M05.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris Violation:Kicked Ball (T.Washington),Violation,Kicked Ball,0,0
+318,426,PT05M57.00S,3,1610612757,POR,202329,Aminu,A. Aminu,27,42,5,Missed,1,,,0,v,MISS Aminu 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+319,426,PT05M57.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall BLOCK (3 BLK),,,1,0
+320,428,PT05M53.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+321,429,PT05M47.00S,3,1610612764,WAS,202322,Wall,J. Wall,-1,247,25,Missed,1,,,0,h,MISS Wall 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+322,430,PT05M43.00S,3,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+323,431,PT05M37.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal P.FOUL (P5.T3) (B.Forte),Foul,Personal,1,0
+324,433,PT05M37.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,SUB: Rivers FOR Beal,Substitution,,0,0
+325,434,PT05M37.00S,3,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,SUB: Turner FOR Layman,Substitution,,0,0
+326,437,PT05M29.00S,3,1610612757,POR,203468,McCollum,C. McCollum,12,26,3,Made,1,52,76,128,v,McCollum 3' Driving Finger Roll Layup (17 PTS) (Lillard 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+327,439,PT05M24.00S,3,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner S.FOUL (P2.T3) (J.Orr),Foul,Shooting,1,0
+328,441,PT05M24.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,MISS Porter Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+329,442,PT05M24.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0
+330,443,PT05M24.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,MISS Porter Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+331,444,PT05M23.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+332,446,PT05M17.00S,3,1610612764,WAS,202693,Morris,M. Morris,-232,6,0,Made,1,55,76,131,h,Morris 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,0
+333,448,PT04M58.00S,3,1610612757,POR,203468,McCollum,C. McCollum,28,67,7,Made,1,55,78,133,v,McCollum 7' Driving Layup (19 PTS) (Turner 4 AST),Made Shot,Driving Layup Shot,1,0
+334,450,PT04M58.00S,3,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,Rivers S.FOUL (P1.T4) (T.Washington),Foul,Shooting,1,0
+335,452,PT04M58.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,55,79,134,v,McCollum Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0
+336,453,PT04M46.00S,3,1610612764,WAS,202322,Wall,J. Wall,90,232,25,Made,1,58,79,137,h,Wall 25' 3PT Jump Shot (22 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,1,0
+337,455,PT04M30.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-5,26,3,Missed,1,,,0,v,MISS Lillard 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+338,455,PT04M30.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. BLOCK (1 BLK),,,1,0
+339,457,PT04M28.00S,3,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:6 Def:7),Rebound,Unknown,1,0
+340,458,PT04M24.00S,3,1610612764,WAS,203085,Rivers,A. Rivers,-225,42,0,Missed,1,,,0,h,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+341,459,PT04M20.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+342,460,PT04M13.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,8,1,Made,1,58,81,139,v,Lillard 1' Driving Layup (28 PTS),Made Shot,Driving Layup Shot,1,0
+343,461,PT04M05.00S,3,1610612764,WAS,202322,Wall,J. Wall,2,17,2,Made,1,60,81,141,h,Wall 2' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,1,0
+344,462,PT03M43.00S,3,1610612757,POR,203994,Nurkic,J. Nurkic,-11,262,26,Missed,1,,,0,v,MISS Nurkic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+345,463,PT03M39.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+346,464,PT03M39.00S,3,1610612757,POR,203468,McCollum,C. McCollum,1,99,10,Missed,1,,,0,v,MISS McCollum 10' Jump Shot,Missed Shot,Jump Shot,1,0
+347,465,PT03M39.00S,3,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+348,466,PT03M25.00S,3,1610612764,WAS,202322,Wall,J. Wall,-27,34,4,Missed,1,,,0,h,MISS Wall 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+349,467,PT03M22.00S,3,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+350,468,PT03M21.00S,3,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner OFF.Foul (P3) (J.Orr),Foul,Offensive,1,0
+351,470,PT03M21.00S,3,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0
+352,471,PT03M21.00S,3,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,h,SUB: Oubre Jr. FOR Green,Substitution,,0,0
+353,472,PT03M21.00S,3,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,SUB: Collins FOR Nurkic,Substitution,,0,0
+354,475,PT03M04.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris OFF.Foul (P4) (T.Washington),Foul,Offensive,1,0
+355,477,PT03M04.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0
+356,478,PT03M04.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+357,479,PT03M04.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,,,0,h,SUB: Smith FOR Morris,Substitution,,0,0
+358,481,PT02M50.00S,3,1610612757,POR,203468,McCollum,C. McCollum,7,32,3,Made,1,60,83,143,v,McCollum 3' Driving Finger Roll Layup (22 PTS) (Collins 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+359,483,PT02M37.00S,3,1610612764,WAS,201160,Smith,J. Smith,128,36,13,Missed,1,,,0,h,MISS Smith 13' Jump Shot,Missed Shot,Jump Shot,1,0
+360,484,PT02M34.00S,3,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+361,485,PT02M32.00S,3,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins OFF.Foul (P5) (B.Forte),Foul,Offensive,1,0
+362,487,PT02M32.00S,3,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1,0
+363,488,PT02M32.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,SUB: Stauskas FOR McCollum,Substitution,,0,0
+364,490,PT02M23.00S,3,1610612764,WAS,202322,Wall,J. Wall,-28,27,4,Missed,1,,,0,h,MISS Wall 4' Layup,Missed Shot,Layup Shot,1,0
+365,491,PT02M21.00S,3,1610612764,WAS,201160,Smith,J. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+366,492,PT02M21.00S,3,1610612764,WAS,201160,Smith,J. Smith,-13,18,2,Missed,1,,,0,h,MISS Smith 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+367,493,PT02M14.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+368,494,PT02M14.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-5,17,2,Missed,1,,,0,v,MISS Lillard 2' Layup,Missed Shot,Layup Shot,1,0
+369,495,PT02M11.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+370,496,PT02M11.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,-6,1,Made,1,60,85,145,v,Lillard 1' Tip Layup Shot (30 PTS),Made Shot,Tip Layup Shot,1,0
+371,497,PT02M02.00S,3,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,113,226,25,Missed,1,,,0,h,MISS Oubre Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+372,498,PT01M59.00S,3,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+373,499,PT01M49.00S,3,1610612757,POR,203081,Lillard,D. Lillard,13,16,2,Made,1,60,87,147,v,Lillard 2' Layup (32 PTS) (Turner 5 AST),Made Shot,Layup Shot,1,0
+374,501,PT01M45.00S,3,1610612764,WAS,201160,Smith,J. Smith,0,0,0,,0,,,0,h,Smith Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0
+375,501,PT01M45.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard STEAL (1 STL),,,1,0
+376,503,PT01M45.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-4,24,2,Made,1,60,89,149,v,Lillard 2' Layup (34 PTS),Made Shot,Layup Shot,1,0
+377,504,PT01M45.00S,3,1610612764,WAS,201160,Smith,J. Smith,0,0,0,,0,,,0,h,Smith S.FOUL (P1.PN) (T.Washington),Foul,Shooting,1,0
+378,506,PT01M45.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,,,0,h,SUB: Satoransky FOR Wall,Substitution,,0,0
+379,508,PT01M45.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,MISS Lillard Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+380,509,PT01M45.00S,3,1610612764,WAS,201160,Smith,J. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+381,510,PT01M20.00S,3,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,16,22,3,Made,1,62,89,151,h,Oubre Jr. 3' Driving Dunk (6 PTS) (Satoransky 1 AST),Made Shot,Driving Dunk Shot,1,0
+382,512,PT01M06.00S,3,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0
+383,512,PT01M06.00S,3,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky STEAL (1 STL),,,1,0
+384,514,PT01M03.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu S.FOUL (P2.T4) (T.Washington),Foul,Shooting,1,0
+385,516,PT01M03.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,63,89,152,h,Porter Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+386,517,PT01M03.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,64,89,153,h,Porter Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+387,518,PT00M51.30S,3,1610612757,POR,203081,Lillard,D. Lillard,-46,138,15,Missed,1,,,0,v,MISS Lillard 15' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+388,518,PT00M51.30S,3,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,Rivers BLOCK (1 BLK),,,1,0
+389,520,PT00M51.30S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0
+390,521,PT00M51.30S,3,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,Jump Ball Rivers vs. Lillard: Tip to Oubre Jr.,Jump Ball,,1,0
+391,526,PT00M39.60S,3,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,-183,186,26,Made,1,67,89,156,h,Oubre Jr. 26' 3PT Jump Shot (9 PTS) (Satoransky 2 AST),Made Shot,Jump Shot,1,0
+392,528,PT00M33.30S,3,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,Rivers P.FOUL (P2.PN) (B.Forte),Foul,Personal,1,0
+393,530,PT00M33.30S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,67,90,157,v,Lillard Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,0,0
+394,531,PT00M33.30S,3,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,SUB: Nurkic FOR Collins,Substitution,,0,0
+395,533,PT00M33.30S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,67,91,158,v,Lillard Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,0,0
+396,534,PT00M23.60S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,234,60,24,Made,1,70,91,161,h,Porter Jr. 24' 3PT Jump Shot (11 PTS) (Satoransky 3 AST),Made Shot,Jump Shot,1,0
+397,536,PT00M05.80S,3,1610612757,POR,203081,Lillard,D. Lillard,-11,263,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+398,537,PT00M02.40S,3,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+399,538,PT00M02.00S,3,1610612757,POR,203994,Nurkic,J. Nurkic,19,29,3,Missed,1,,,0,v,MISS Nurkic 3' Layup,Missed Shot,Layup Shot,1,0
+400,538,PT00M02.00S,3,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. BLOCK (2 BLK),,,1,0
+401,540,PT00M02.00S,3,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+402,541,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,91,161,,Instant Replay3rd Period (7:54 PM EST),Instant Replay,Support Ruling,0,0
+403,542,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,91,161,,End of 3rd Period (7:55 PM EST),period,end,1,0
+404,549,PT12M00.00S,4,0,,0,,,0,0,0,,0,70,91,161,,Start of 4th Period (7:57 PM EST),period,start,0,0
+405,550,PT11M46.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-1,8,1,Made,1,72,91,163,h,Porter Jr. 1' Cutting Dunk Shot (13 PTS) (Satoransky 4 AST),Made Shot,Cutting Dunk Shot,1,0
+406,552,PT11M25.00S,4,1610612757,POR,203917,Stauskas,N. Stauskas,-6,113,11,Made,1,72,93,165,v,Stauskas 11' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,0
+407,553,PT11M12.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,16,78,8,Missed,1,,,0,h,MISS Oubre Jr. 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+408,554,PT11M10.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+409,555,PT11M09.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,13,23,3,Missed,1,,,0,h,MISS Oubre Jr. 3' Layup,Missed Shot,Layup Shot,1,0
+410,556,PT11M07.00S,4,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+411,557,PT11M00.00S,4,1610612764,WAS,201160,Smith,J. Smith,0,0,0,,0,,,0,h,Smith P.FOUL (P2.T1) (B.Forte),Foul,Personal,1,0
+412,559,PT10M52.00S,4,1610612757,POR,202323,Turner,E. Turner,6,20,2,Made,1,72,95,167,v,Turner 2' Dunk (8 PTS) (Collins 3 AST),Made Shot,Dunk Shot,1,0
+413,561,PT10M35.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,-20,16,3,Made,1,74,95,169,h,Oubre Jr. 3' Driving Layup (11 PTS) (Smith 1 AST),Made Shot,Driving Layup Shot,1,0
+414,562,PT10M30.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. T.FOUL (P2.T1) (B.Forte),Foul,Technical,1,0
+415,563,PT10M30.00S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,74,96,170,v,McCollum Free Throw Technical (23 PTS),Free Throw,Free Throw Technical,0,0
+416,564,PT10M30.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,SUB: Brown Jr. FOR Porter Jr.,Substitution,,0,0
+417,566,PT10M14.00S,4,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins 3 Second Violation Turnover (P4.T13),Turnover,3 Second Violation,1,0
+418,567,PT10M06.00S,4,1610612764,WAS,201160,Smith,J. Smith,0,0,0,,0,,,0,h,Smith OFF.Foul (P3) (J.Orr),Foul,Offensive,1,0
+419,569,PT10M06.00S,4,1610612764,WAS,201160,Smith,J. Smith,0,0,0,,0,,,0,h,Smith Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0
+420,570,PT09M48.00S,4,1610612757,POR,1627774,Layman,J. Layman,-223,77,24,Missed,1,,,0,v,MISS Layman 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+421,571,PT09M45.00S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+422,572,PT09M34.00S,4,1610612757,POR,1628380,Collins,Z. Collins,-13,19,2,Made,1,74,98,172,v,Collins 2' Driving Reverse Layup (7 PTS) (Stauskas 1 AST),Made Shot,Driving Reverse Layup Shot,1,0
+423,574,PT09M22.00S,4,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P6.T1) (B.Forte),Foul,Shooting,1,0
+424,576,PT09M22.00S,4,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,SUB: Leonard FOR Collins,Substitution,,0,0
+425,578,PT09M22.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,75,98,173,h,Oubre Jr. Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+426,579,PT09M22.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,76,98,174,h,Oubre Jr. Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+427,580,PT09M11.00S,4,1610612757,POR,203917,Stauskas,N. Stauskas,112,232,26,Made,1,76,101,177,v,Stauskas 26' 3PT Jump Shot (5 PTS) (Turner 6 AST),Made Shot,Jump Shot,1,0
+428,582,PT08M50.00S,4,1610612764,WAS,203085,Rivers,A. Rivers,-159,199,25,Made,1,79,101,180,h,Rivers 25' 3PT Jump Shot (3 PTS) (Brown Jr. 1 AST),Made Shot,Jump Shot,1,0
+429,584,PT08M32.00S,4,1610612757,POR,203086,Leonard,M. Leonard,5,8,1,Made,1,79,103,182,v,Leonard 1' Cutting Dunk Shot (2 PTS),Made Shot,Cutting Dunk Shot,1,0
+430,586,PT08M18.00S,4,1610612764,WAS,1628972,Brown Jr.,T. Brown Jr.,182,175,25,Missed,1,,,0,h,MISS Brown Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+431,587,PT08M16.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+432,588,PT08M07.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-71,177,19,Missed,1,,,0,v,MISS McCollum 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+433,589,PT08M04.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+434,590,PT07M55.00S,4,1610612764,WAS,1628972,Brown Jr.,T. Brown Jr.,15,8,2,Made,1,81,103,184,h,Brown Jr. 2' Driving Layup (2 PTS) (Satoransky 5 AST),Made Shot,Driving Layup Shot,1,0
+435,592,PT07M37.00S,4,1610612757,POR,203917,Stauskas,N. Stauskas,-16,20,3,Missed,1,,,0,v,MISS Stauskas 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+436,593,PT07M34.00S,4,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+437,594,PT07M29.00S,4,1610612764,WAS,203085,Rivers,A. Rivers,-11,23,3,Made,1,83,103,186,h,Rivers 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+438,595,PT07M29.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+439,597,PT07M29.00S,4,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,SUB: Baldwin IV FOR Turner,Substitution,,0,0
+440,598,PT07M29.00S,4,1610612757,POR,203917,Stauskas,N. Stauskas,0,0,0,,0,,,0,v,SUB: Aminu FOR Stauskas,Substitution,,0,0
+441,599,PT07M29.00S,4,1610612757,POR,1627774,Layman,J. Layman,0,0,0,,0,,,0,v,SUB: Lillard FOR Layman,Substitution,,0,0
+442,603,PT07M13.00S,4,1610612757,POR,1627735,Baldwin IV,W. Baldwin IV,0,0,0,,0,,,0,v,Baldwin IV Offensive Charge Foul (P1.T2) (B.Forte),Foul,Offensive Charge,1,0
+443,605,PT07M13.00S,4,1610612757,POR,1627735,Baldwin IV,W. Baldwin IV,0,0,0,,0,,,0,v,Baldwin IV Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0
+444,606,PT07M03.00S,4,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,Rivers Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0
+445,607,PT06M48.00S,4,1610612757,POR,203081,Lillard,D. Lillard,95,281,30,Missed,1,,,0,v,MISS Lillard 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+446,608,PT06M44.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+447,609,PT06M39.00S,4,1610612764,WAS,201160,Smith,J. Smith,152,196,25,Made,1,86,103,189,h,Smith 25' 3PT Jump Shot (3 PTS) (Oubre Jr. 2 AST),Made Shot,Jump Shot,1,0
+448,611,PT06M20.00S,4,1610612757,POR,203086,Leonard,M. Leonard,116,241,27,Made,1,86,106,192,v,Leonard 27' 3PT Jump Shot (5 PTS) (Lillard 5 AST),Made Shot,Jump Shot,1,0
+449,613,PT06M07.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,-47,267,27,Made,1,89,106,195,h,Oubre Jr. 27' 3PT Jump Shot (16 PTS) (Smith 2 AST),Made Shot,Jump Shot,1,0
+450,615,PT05M48.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-11,19,2,Missed,1,,,0,v,MISS Lillard 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+451,616,PT05M45.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+452,617,PT05M43.00S,4,1610612764,WAS,203085,Rivers,A. Rivers,-213,160,27,Made,1,92,106,198,h,Rivers 27' 3PT Jump Shot (8 PTS) (Oubre Jr. 3 AST),Made Shot,Jump Shot,1,0
+453,619,PT05M27.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. S.FOUL (P3.T2) (J.Orr),Foul,Shooting,1,0
+454,621,PT05M27.00S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,92,107,199,v,McCollum Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0
+455,622,PT05M27.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,SUB: Nurkic FOR Leonard,Substitution,,0,0
+456,623,PT05M27.00S,4,1610612757,POR,1627735,Baldwin IV,W. Baldwin IV,0,0,0,,0,,,0,v,SUB: Turner FOR Baldwin IV,Substitution,,0,0
+457,626,PT05M27.00S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,92,108,200,v,McCollum Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+458,627,PT05M14.00S,4,1610612764,WAS,201160,Smith,J. Smith,-18,254,25,Missed,1,,,0,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+459,628,PT05M07.00S,4,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+460,629,PT04M57.00S,4,1610612764,WAS,201160,Smith,J. Smith,0,0,0,,0,,,0,h,Smith S.FOUL (P4.T3) (B.Forte),Foul,Shooting,1,0
+461,631,PT04M57.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,MISS Aminu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+462,632,PT04M57.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+463,633,PT04M57.00S,4,1610612764,WAS,201160,Smith,J. Smith,0,0,0,,0,,,0,h,SUB: Bryant FOR Smith,Substitution,,0,0
+464,635,PT04M57.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,92,109,201,v,Aminu Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+465,636,PT04M40.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,-43,84,9,Made,1,94,109,203,h,Satoransky 9' Driving Floating Jump Shot (4 PTS) (Bryant 1 AST),Made Shot,Driving Floating Jump Shot,1,0
+466,637,PT04M19.00S,4,1610612757,POR,202323,Turner,E. Turner,3,100,10,Missed,1,,,0,v,MISS Turner 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+467,638,PT04M19.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+468,639,PT04M19.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu L.B.FOUL (P3.T3) (B.Forte),Foul,Loose Ball,1,0
+469,641,PT04M04.00S,4,1610612764,WAS,203085,Rivers,A. Rivers,-192,173,26,Missed,1,,,0,h,MISS Rivers 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+470,642,PT04M00.00S,4,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+471,644,PT03M41.00S,4,1610612757,POR,203081,Lillard,D. Lillard,147,99,18,Missed,1,,,0,v,MISS Lillard 18' Jump Shot,Missed Shot,Jump Shot,1,0
+472,645,PT03M37.00S,4,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,h,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+473,646,PT03M26.00S,4,1610612764,WAS,1628418,Bryant,T. Bryant,-3,0,0,Made,1,96,109,205,h,Bryant Cutting Layup Shot (2 PTS) (Satoransky 6 AST),Made Shot,Cutting Layup Shot,1,0
+474,648,PT03M26.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu S.FOUL (P4.T4) (B.Forte),Foul,Shooting,1,0
+475,650,PT03M26.00S,4,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,h,MISS Bryant Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+476,651,PT03M22.00S,4,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+477,653,PT03M08.00S,4,1610612757,POR,203081,Lillard,D. Lillard,7,20,2,Missed,1,,,0,v,MISS Lillard 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+478,654,PT03M07.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+479,656,PT02M54.00S,4,1610612764,WAS,203085,Rivers,A. Rivers,8,29,3,Missed,1,,,0,h,MISS Rivers 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+480,656,PT02M54.00S,4,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic BLOCK (1 BLK),,,1,0
+481,658,PT02M54.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+482,660,PT02M54.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+483,661,PT02M54.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu AWAY.FROM.PLAY.FOUL (P5.PN) (B.Forte),Foul,Away From Play,1,0
+484,663,PT02M54.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,MISS Oubre Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+485,664,PT02M54.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+486,665,PT02M50.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,139,17,14,Made,1,98,109,207,h,Satoransky 14' Pullup Jump Shot (6 PTS) (Bryant 2 AST),Made Shot,Pullup Jump shot,1,0
+487,667,PT02M42.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky P.FOUL (P4.T4) (J.Orr),Foul,Personal,1,0
+488,669,PT02M38.00S,4,1610612764,WAS,203085,Rivers,A. Rivers,0,0,0,,0,,,0,h,Rivers P.FOUL (P3.PN) (T.Washington),Foul,Personal,1,0
+489,671,PT02M38.00S,4,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,98,110,208,v,Nurkic Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+490,672,PT02M38.00S,4,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,98,111,209,v,Nurkic Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+491,673,PT02M28.00S,4,1610612764,WAS,1628418,Bryant,T. Bryant,-2,16,2,Made,1,100,111,211,h,Bryant 2' Dunk (4 PTS) (Rivers 1 AST),Made Shot,Dunk Shot,1,0
+492,675,PT02M14.00S,4,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,h,Bryant P.FOUL (P1.PN) (B.Forte),Foul,Personal,1,0
+493,677,PT02M14.00S,4,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,100,112,212,v,Nurkic Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+494,678,PT02M14.00S,4,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,100,113,213,v,Nurkic Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+495,679,PT01M56.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,233,52,24,Made,1,103,113,216,h,Satoransky 24' 3PT Jump Shot (9 PTS) (Oubre Jr. 4 AST),Made Shot,Jump Shot,1,0
+496,681,PT01M32.00S,4,1610612757,POR,203081,Lillard,D. Lillard,30,34,5,Missed,1,,,0,v,MISS Lillard 5' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+497,683,PT01M32.00S,4,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:3 Def:10),Rebound,Unknown,1,0
+498,684,PT01M32.00S,4,1610612757,POR,203994,Nurkic,J. Nurkic,7,11,1,Made,1,103,115,218,v,Nurkic 1' Putback Dunk (13 PTS),Made Shot,Putback Dunk Shot,1,0
+499,685,PT01M19.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu P.FOUL (P6.PN) (T.Washington),Foul,Personal,1,0
+500,687,PT01M19.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,SUB: Layman FOR Aminu,Substitution,,0,0
+501,689,PT01M19.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,MISS Satoransky Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+502,690,PT01M19.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0
+503,691,PT01M19.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,104,115,219,h,Satoransky Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+504,692,PT00M54.80S,4,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner Lost Ball Turnover (P3.T15),Turnover,Lost Ball,1,0
+505,692,PT00M54.80S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. STEAL (1 STL),,,1,0
+506,694,PT00M51.90S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,24,0,2,Made,1,106,115,221,h,Oubre Jr. 2' Running Layup (18 PTS) (Bryant 3 AST),Made Shot,Running Layup Shot,1,0
+507,696,PT00M51.90S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum S.FOUL (P4.PN) (J.Orr),Foul,Shooting,1,0
+508,698,PT00M51.90S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,107,115,222,h,Oubre Jr. Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0
+509,699,PT00M49.70S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+510,700,PT00M38.10S,4,1610612757,POR,203081,Lillard,D. Lillard,3,37,4,Missed,1,,,0,v,MISS Lillard 4' Driving Dunk,Missed Shot,Driving Dunk Shot,1,0
+511,700,PT00M38.10S,4,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,h,Bryant BLOCK (1 BLK),,,1,0
+512,702,PT00M33.50S,4,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,h,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+513,703,PT00M31.70S,4,1610612764,WAS,203085,Rivers,A. Rivers,227,39,0,Missed,1,,,0,h,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+514,704,PT00M29.10S,4,1610612757,POR,203994,Nurkic,J. Nurkic,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:3 Def:11),Rebound,Unknown,1,0
+515,705,PT00M23.20S,4,1610612764,WAS,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,,,0,h,Brown Jr. P.FOUL (P1.PN) (B.Forte),Foul,Personal,1,0
+516,707,PT00M23.20S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,107,116,223,v,Lillard Free Throw 1 of 2 (37 PTS),Free Throw,Free Throw 1 of 2,1,0
+517,708,PT00M23.20S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,107,117,224,v,Lillard Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,1,0
+518,709,PT00M18.50S,4,1610612764,WAS,1628418,Bryant,T. Bryant,0,26,3,Made,1,109,117,226,h,Bryant 3' Alley Oop Dunk (6 PTS) (Satoransky 7 AST),Made Shot,Alley Oop Dunk Shot,1,0
+519,711,PT00M05.90S,4,1610612764,WAS,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,,,0,h,Brown Jr. P.FOUL (P2.PN) (T.Washington),Foul,Personal,1,0
+520,713,PT00M05.90S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,109,118,227,v,Lillard Free Throw 1 of 2 (39 PTS),Free Throw,Free Throw 1 of 2,1,0
+521,714,PT00M05.90S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,109,119,228,v,Lillard Free Throw 2 of 2 (40 PTS),Free Throw,Free Throw 2 of 2,1,0
+522,717,PT00M00.00S,4,0,,0,,,0,0,0,,0,109,119,228,,End of 4th Period (8:28 PM EST),period,end,1,0

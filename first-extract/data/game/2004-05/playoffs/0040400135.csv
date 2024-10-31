@@ -1,0 +1,518 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:09 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Jump Ball Davis vs. Haywood: Tip to Hinrich,Jump Ball,,0,0
+3,2,PT11M37.00S,1,1610612741,CHI,213,Davis,A. Davis,-123,76,14,Missed,1,0,0,0,h,MISS Davis 14' Jump Shot,Missed Shot,Jump Shot,0,0
+4,3,PT11M35.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+5,4,PT11M35.00S,1,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood T.FOUL (P0.T0),Foul,Technical,0,0
+6,5,PT11M35.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,1,0,1,h,Hinrich Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+7,6,PT11M17.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,-140,153,21,Made,1,1,2,3,v,Hughes 21' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+8,7,PT11M03.00S,1,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,Harrington Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0
+9,7,PT11M03.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas STEAL (1 STL),,,0,0
+10,8,PT10M52.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,-168,10,17,Missed,1,0,0,0,v,MISS Hughes 17' Jump Shot,Missed Shot,Jump Shot,0,0
+11,9,PT10M50.00S,1,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+12,10,PT10M41.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,Missed,1,0,0,0,h,MISS Hinrich  Layup,Missed Shot,Layup Shot,0,0
+13,10,PT10M41.00S,1,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood BLOCK (1 BLK),,,0,0
+14,11,PT10M39.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+15,12,PT10M33.00S,1,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0
+16,13,PT10M16.00S,1,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries P.FOUL (P1.T1),Foul,Personal,0,0
+17,14,PT10M04.00S,1,1610612741,CHI,970,Harrington,O. Harrington,-10,61,6,Made,1,3,2,5,h,Harrington 6' Jump Shot (2 PTS) (Hinrich 1 AST),Made Shot,Jump Shot,0,0
+18,15,PT09M47.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+19,16,PT09M40.00S,1,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis OFF.Foul (P1),Foul,Offensive,0,0
+20,17,PT09M40.00S,1,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis Foul Turnover (P1.T2),Turnover,Foul,0,0
+21,18,PT09M20.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,97,163,19,Made,1,3,4,7,v,Jamison 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+22,19,PT09M08.00S,1,1610612741,CHI,2804,Nocioni,A. Nocioni,-38,206,21,Missed,1,0,0,0,h,MISS Nocioni 21' Jump Shot,Missed Shot,Jump Shot,0,0
+23,20,PT09M06.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+24,21,PT08M59.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,97,247,27,Missed,1,0,0,0,v,MISS Arenas 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+25,22,PT08M57.00S,1,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+26,23,PT08M42.00S,1,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,Duhon Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+27,23,PT08M42.00S,1,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries STEAL (1 STL),,,0,0
+28,24,PT08M36.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,Made,1,3,6,9,v,Arenas  Layup (2 PTS),Made Shot,Layup Shot,0,0
+29,25,PT08M20.00S,1,1610612741,CHI,2804,Nocioni,A. Nocioni,-192,-11,19,Missed,1,0,0,0,h,MISS Nocioni 19' Jump Shot,Missed Shot,Jump Shot,0,0
+30,26,PT08M18.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+31,27,PT08M12.00S,1,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,Missed,1,0,0,0,v,MISS Jeffries  Layup,Missed Shot,Layup Shot,0,0
+32,28,PT08M11.00S,1,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,Harrington REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+33,29,PT08M01.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+34,29,PT08M01.00S,1,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries STEAL (2 STL),,,0,0
+35,30,PT07M58.00S,1,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,Duhon S.FOUL (P1.T1),Foul,Shooting,0,0
+36,31,PT07M58.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,3,7,10,v,Hughes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+37,32,PT07M58.00S,1,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,SUB: Gordon FOR Duhon,Substitution,,0,0
+38,33,PT07M58.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,3,8,11,v,Hughes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+39,34,PT07M49.00S,1,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,Made,1,5,8,13,h,Nocioni  Dunk (2 PTS) (Hinrich 2 AST),Made Shot,Dunk Shot,0,0
+40,35,PT07M37.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,-36,255,26,Made,1,5,11,16,v,Hughes 26' 3PT Jump Shot (7 PTS) (Jeffries 1 AST),Made Shot,Jump Shot,0,0
+41,36,PT07M23.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison S.FOUL (P1.T2),Foul,Shooting,0,0
+42,37,PT07M23.00S,1,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,6,11,17,h,Harrington Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+43,38,PT07M23.00S,1,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,MISS Harrington Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+44,39,PT07M23.00S,1,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+45,40,PT07M01.00S,1,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,Made,1,6,13,19,v,Haywood  Slam Dunk (2 PTS) (Arenas 1 AST),Made Shot,Slam Dunk Shot,0,0
+46,41,PT06M55.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+47,43,PT06M51.00S,1,1610612741,CHI,970,Harrington,O. Harrington,-61,36,7,Made,1,8,13,21,h,Harrington 7' Jump Bank Shot (5 PTS),Made Shot,Jump Bank Shot,0,0
+48,44,PT06M32.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,-71,79,11,Missed,1,0,0,0,v,MISS Jamison 11' Jump Shot,Missed Shot,Jump Shot,0,0
+49,45,PT06M30.00S,1,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+50,46,PT06M29.00S,1,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,Made,1,8,15,23,v,Haywood  Dunk (4 PTS),Made Shot,Dunk Shot,0,0
+51,47,PT06M12.00S,1,1610612741,CHI,970,Harrington,O. Harrington,113,59,13,Made,1,10,15,25,h,Harrington 13' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+52,48,PT05M49.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,44,183,19,Made,1,10,17,27,v,Jamison 19' Jump Shot (4 PTS) (Hughes 1 AST),Made Shot,Jump Shot,0,0
+53,49,PT05M32.00S,1,1610612741,CHI,2804,Nocioni,A. Nocioni,-71,209,22,Missed,1,0,0,0,h,MISS Nocioni 22' Jump Shot,Missed Shot,Jump Shot,0,0
+54,50,PT05M30.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+55,51,PT05M28.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Made,1,10,19,29,v,Jamison  Layup (6 PTS) (Arenas 2 AST),Made Shot,Layup Shot,0,0
+56,52,PT05M13.00S,1,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood P.FOUL (P1.T3),Foul,Personal,0,0
+57,53,PT05M13.00S,1,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,SUB: Chandler FOR Harrington,Substitution,,0,0
+58,54,PT05M13.00S,1,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,SUB: Griffin FOR Nocioni,Substitution,,0,0
+59,55,PT05M13.00S,1,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,SUB: Thomas FOR Haywood,Substitution,,0,0
+60,56,PT05M10.00S,1,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+61,56,PT05M10.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes STEAL (1 STL),,,0,0
+62,57,PT05M08.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,Made,1,10,21,31,v,Hughes  Dunk (9 PTS) (Thomas 1 AST),Made Shot,Dunk Shot,0,0
+63,58,PT04M54.00S,1,1610612741,CHI,213,Davis,A. Davis,115,0,12,Missed,1,0,0,0,h,MISS Davis 12' Jump Shot,Missed Shot,Jump Shot,0,0
+64,59,PT04M52.00S,1,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+65,60,PT04M50.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-126,232,26,Made,1,13,21,34,h,Hinrich 26' 3PT Jump Shot (4 PTS) (Chandler 1 AST),Made Shot,Jump Shot,0,0
+66,61,PT04M36.00S,1,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon P.FOUL (P1.T2),Foul,Personal,0,0
+67,62,PT04M36.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich IN.FOUL (P1.T3),Foul,Inbound,0,0
+68,63,PT04M36.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,13,22,35,v,Arenas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+69,64,PT04M36.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,13,23,36,v,Arenas Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+70,65,PT04M26.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-62,127,14,Missed,1,0,0,0,h,MISS Hinrich 14' Jump Shot,Missed Shot,Jump Shot,0,0
+71,65,PT04M26.00S,1,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas BLOCK (1 BLK),,,0,0
+72,66,PT04M26.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+73,67,PT04M26.00S,1,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler L.B.FOUL (P1.T4),Foul,Loose Ball,0,0
+74,68,PT04M26.00S,1,0,,1654,,,0,0,0,,0,0,0,0,,Scott Skiles Foul:T.FOUL,Foul,Technical,0,0
+75,69,PT04M26.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,13,24,37,v,Arenas Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+76,70,PT04M19.00S,1,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas Double Dribble Turnover (P1.T3),Turnover,Double Dribble,0,0
+77,71,PT04M11.00S,1,1610612741,CHI,2732,Gordon,B. Gordon,98,10,10,Made,1,15,24,39,h,Gordon 10' Jump Shot (2 PTS) (Davis 1 AST),Made Shot,Jump Shot,0,0
+78,72,PT03M58.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,-44,61,8,Made,1,15,26,41,v,Hughes 8' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+79,73,PT03M44.00S,1,1610612741,CHI,1559,Griffin,A. Griffin,-64,107,12,Made,1,17,26,43,h,Griffin 12' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,0
+80,74,PT03M26.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,-71,125,14,Made,1,17,28,45,v,Arenas 14' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+81,75,PT03M09.00S,1,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Made,1,19,28,47,h,Chandler  Layup (2 PTS) (Gordon 1 AST),Made Shot,Layup Shot,0,0
+82,76,PT03M09.00S,1,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas S.FOUL (P1.T4),Foul,Shooting,0,0
+83,77,PT03M09.00S,1,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,MISS Chandler Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+84,78,PT03M08.00S,1,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+85,79,PT03M04.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+86,81,PT03M03.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich P.FOUL (P2.PN),Foul,Personal,0,0
+87,82,PT03M03.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,MISS Arenas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+88,83,PT03M03.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+89,84,PT03M03.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,SUB: Duhon FOR Hinrich,Substitution,,0,0
+90,85,PT03M03.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,MISS Arenas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+91,86,PT03M02.00S,1,1610612741,CHI,1559,Griffin,A. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+92,87,PT02M46.00S,1,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+93,87,PT02M46.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes STEAL (2 STL),,,0,0
+94,88,PT02M42.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+95,88,PT02M42.00S,1,1610612741,CHI,1559,Griffin,A. Griffin,0,0,0,,0,0,0,0,h,Griffin STEAL (1 STL),,,0,0
+96,89,PT02M31.00S,1,1610612741,CHI,2732,Gordon,B. Gordon,3,191,19,Missed,1,0,0,0,h,MISS Gordon 19' Jump Shot,Missed Shot,Jump Shot,0,0
+97,90,PT02M29.00S,1,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+98,91,PT02M13.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,Made,1,19,30,49,v,Hughes  Layup (13 PTS) (Thomas 2 AST),Made Shot,Layup Shot,0,0
+99,92,PT01M59.00S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes S.FOUL (P1.PN),Foul,Shooting,0,0
+100,93,PT01M59.00S,1,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,20,30,50,h,Gordon Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+101,94,PT01M59.00S,1,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,21,30,51,h,Gordon Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+102,95,PT01M34.00S,1,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0
+103,95,PT01M34.00S,1,1610612741,CHI,1559,Griffin,A. Griffin,0,0,0,,0,0,0,0,h,Griffin STEAL (2 STL),,,0,0
+104,96,PT01M28.00S,1,1610612741,CHI,2732,Gordon,B. Gordon,125,7,13,Made,1,23,30,53,h,Gordon 13' Jump Shot (6 PTS) (Griffin 1 AST),Made Shot,Jump Shot,0,0
+105,97,PT01M12.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,-130,115,17,Made,1,23,32,55,v,Jamison 17' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+106,98,PT01M03.00S,1,1610612741,CHI,2732,Gordon,B. Gordon,-149,209,26,Made,1,26,32,58,h,Gordon 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+107,99,PT00M48.20S,1,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon S.FOUL (P2.PN),Foul,Shooting,0,0
+108,100,PT00M48.20S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,MISS Hughes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+109,101,PT00M48.20S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+110,102,PT00M48.20S,1,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,SUB: Piatkowski FOR Gordon,Substitution,,0,0
+111,103,PT00M48.20S,1,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,MISS Hughes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+112,104,PT00M47.90S,1,1610612741,CHI,1559,Griffin,A. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+113,105,PT00M37.70S,1,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Made,1,28,32,60,h,Chandler  Layup (4 PTS) (Duhon 1 AST),Made Shot,Layup Shot,0,0
+114,106,PT00M24.10S,1,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,Made,1,28,34,62,v,Jeffries  Layup (2 PTS) (Arenas 3 AST),Made Shot,Layup Shot,0,0
+115,107,PT00M02.90S,1,1610612741,CHI,1559,Griffin,A. Griffin,-79,137,16,Missed,1,0,0,0,h,MISS Griffin 16' Jump Shot,Missed Shot,Jump Shot,0,0
+116,108,PT00M00.90S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+117,109,PT00M00.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,-80,408,42,Missed,1,0,0,0,v,MISS Arenas 42' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+118,111,PT00M00.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+119,110,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,34,62,,End of 1st Period (7:39 PM EST),period,end,0,0
+120,113,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,34,62,,Start of 2nd Period (7:42 PM EST),period,start,0,0
+121,114,PT11M46.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,Made,1,28,36,64,v,Thomas  Layup (2 PTS) (Hughes 2 AST),Made Shot,Layup Shot,0,0
+122,115,PT11M46.00S,2,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis S.FOUL (P2.T1),Foul,Shooting,0,0
+123,117,PT11M46.00S,2,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,SUB: Harrington FOR Davis,Substitution,,0,0
+124,118,PT11M46.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,28,37,65,v,Thomas Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+125,119,PT11M33.00S,2,1610612741,CHI,2768,Duhon,C. Duhon,-146,210,26,Missed,1,0,0,0,h,MISS Duhon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+126,120,PT11M31.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+127,121,PT11M24.00S,2,1610612764,WAS,2413,Dixon,J. Dixon,-238,5,24,Missed,1,0,0,0,v,MISS Dixon 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+128,122,PT11M22.00S,2,1610612741,CHI,15,Piatkowski,E. Piatkowski,0,0,0,,0,0,0,0,h,Piatkowski REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+129,123,PT11M14.00S,2,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,Made,1,30,37,67,h,Duhon  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+130,124,PT10M53.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0
+131,125,PT10M35.00S,2,1610612741,CHI,1559,Griffin,A. Griffin,-148,97,18,Missed,1,0,0,0,h,MISS Griffin 18' Jump Shot,Missed Shot,Jump Shot,0,0
+132,126,PT10M33.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+133,127,PT10M19.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,233,23,0,Missed,1,0,0,0,v,MISS Hughes  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+134,128,PT10M18.00S,2,1610612741,CHI,15,Piatkowski,E. Piatkowski,0,0,0,,0,0,0,0,h,Piatkowski REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+135,129,PT10M03.00S,2,1610612741,CHI,970,Harrington,O. Harrington,39,48,6,Made,1,32,37,69,h,Harrington 6' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+136,130,PT09M40.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,SUB: Ruffin FOR Thomas,Substitution,,0,0
+137,131,PT09M40.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,SUB: Haywood FOR Jamison,Substitution,,0,0
+138,132,PT09M34.00S,2,1610612764,WAS,2413,Dixon,J. Dixon,47,56,7,Made,1,32,39,71,v,Dixon 7' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+139,133,PT09M18.00S,2,1610612741,CHI,2768,Duhon,C. Duhon,-149,220,27,Missed,1,0,0,0,h,MISS Duhon 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+140,134,PT09M17.00S,2,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,,0,0,0,0,v,Ruffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+141,135,PT09M02.00S,2,1610612764,WAS,2413,Dixon,J. Dixon,84,71,11,Made,1,32,41,73,v,Dixon 11' Jump Shot (4 PTS) (Hughes 3 AST),Made Shot,Jump Shot,0,0
+142,136,PT08M42.00S,2,1610612741,CHI,970,Harrington,O. Harrington,-158,0,16,Missed,1,0,0,0,h,MISS Harrington 16' Jump Shot,Missed Shot,Jump Shot,0,0
+143,137,PT08M40.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+144,138,PT08M34.00S,2,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,Harrington P.FOUL (P1.T2),Foul,Personal,0,0
+145,139,PT08M34.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+146,141,PT08M34.00S,2,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,SUB: Nocioni FOR Duhon,Substitution,,0,0
+147,142,PT08M34.00S,2,1610612741,CHI,1559,Griffin,A. Griffin,0,0,0,,0,0,0,0,h,SUB: Hinrich FOR Griffin,Substitution,,0,0
+148,144,PT08M25.00S,2,1610612764,WAS,2413,Dixon,J. Dixon,0,0,0,,0,0,0,0,v,Dixon Traveling Turnover (P1.T7),Turnover,Traveling,0,0
+149,145,PT08M12.00S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0
+150,145,PT08M12.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood STEAL (1 STL),,,0,0
+151,146,PT08M08.00S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler S.FOUL (P2.T3),Foul,Shooting,0,0
+152,147,PT08M08.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,MISS Hughes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+153,148,PT08M08.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+154,149,PT08M08.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,32,42,74,v,Hughes Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+155,150,PT07M58.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,-18,257,26,Made,1,35,42,77,h,Hinrich 26' 3PT Jump Shot (7 PTS) (Nocioni 1 AST),Made Shot,Jump Shot,0,0
+156,151,PT07M42.00S,2,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni P.FOUL (P1.T4),Foul,Personal,0,0
+157,152,PT07M42.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,SUB: Jamison FOR Hughes,Substitution,,0,0
+158,153,PT07M33.00S,2,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,Made,1,35,44,79,v,Ruffin  Dunk (2 PTS) (Dixon 1 AST),Made Shot,Dunk Shot,0,0
+159,154,PT07M18.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison P.FOUL (P2.T1),Foul,Personal,0,0
+160,155,PT07M14.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+161,156,PT07M03.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison OFF.Foul (P3),Foul,Offensive,0,0
+162,157,PT07M03.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison Foul Turnover (P1.T8),Turnover,Foul,0,0
+163,158,PT07M03.00S,2,1610612741,CHI,15,Piatkowski,E. Piatkowski,0,0,0,,0,0,0,0,h,SUB: Gordon FOR Piatkowski,Substitution,,0,0
+164,159,PT07M03.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,SUB: Jeffries FOR Jamison,Substitution,,0,0
+165,160,PT06M53.00S,2,1610612741,CHI,2732,Gordon,B. Gordon,135,94,16,Missed,1,0,0,0,h,MISS Gordon 16' Jump Shot,Missed Shot,Jump Shot,0,0
+166,161,PT06M52.00S,2,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+167,162,PT06M51.00S,2,1610612741,CHI,2732,Gordon,B. Gordon,28,107,11,Missed,1,0,0,0,h,MISS Gordon 11' Jump Shot,Missed Shot,Jump Shot,0,0
+168,162,PT06M51.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood BLOCK (2 BLK),,,0,0
+169,163,PT06M48.00S,2,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+170,164,PT06M36.00S,2,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,Missed,1,0,0,0,h,MISS Harrington  Layup,Missed Shot,Layup Shot,0,0
+171,165,PT06M35.00S,2,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,Harrington REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+172,166,PT06M30.00S,2,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,Harrington Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0
+173,167,PT06M13.00S,2,1610612764,WAS,2413,Dixon,J. Dixon,121,117,17,Made,1,35,46,81,v,Dixon 17' Jump Shot (6 PTS) (Haywood 1 AST),Made Shot,Jump Shot,0,0
+174,168,PT06M04.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,Missed,1,0,0,0,h,MISS Hinrich  Layup,Missed Shot,Layup Shot,0,0
+175,169,PT06M03.00S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+176,170,PT06M00.00S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Missed,1,0,0,0,h,MISS Chandler  Layup,Missed Shot,Layup Shot,0,0
+177,171,PT05M59.00S,2,1610612764,WAS,2413,Dixon,J. Dixon,0,0,0,,0,0,0,0,v,Dixon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+178,172,PT05M53.00S,2,1610612764,WAS,2413,Dixon,J. Dixon,84,2,8,Missed,1,0,0,0,v,MISS Dixon 8' Jump Shot,Missed Shot,Jump Shot,0,0
+179,173,PT05M51.00S,2,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+180,174,PT05M46.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,Missed,1,0,0,0,h,MISS Hinrich  Layup,Missed Shot,Layup Shot,0,0
+181,175,PT05M45.00S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+182,176,PT05M45.00S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Made,1,37,46,83,h,Chandler  Layup (6 PTS),Made Shot,Layup Shot,0,0
+183,177,PT05M45.00S,2,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,,0,0,0,0,v,Ruffin S.FOUL (P1.T2),Foul,Shooting,0,0
+184,178,PT05M45.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+185,180,PT05M45.00S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,MISS Chandler Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+186,181,PT05M43.00S,2,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,,0,0,0,0,v,Ruffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+187,182,PT05M26.00S,2,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,Made,1,37,48,85,v,Ruffin  Layup (4 PTS) (Arenas 4 AST),Made Shot,Layup Shot,0,0
+188,183,PT05M10.00S,2,1610612741,CHI,2804,Nocioni,A. Nocioni,133,79,15,Missed,1,0,0,0,h,MISS Nocioni 15' Jump Shot,Missed Shot,Jump Shot,0,0
+189,183,PT05M10.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood BLOCK (3 BLK),,,0,0
+190,184,PT05M09.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+191,185,PT05M08.00S,2,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,Made,1,39,48,87,h,Harrington  Layup (11 PTS) (Nocioni 2 AST),Made Shot,Layup Shot,0,0
+192,186,PT04M44.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,18,77,8,Missed,1,0,0,0,v,MISS Haywood 8' Hook Shot,Missed Shot,Hook Shot,0,0
+193,187,PT04M43.00S,2,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+194,188,PT04M30.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood S.FOUL (P2.T3),Foul,Shooting,0,0
+195,189,PT04M30.00S,2,1610612764,WAS,2413,Dixon,J. Dixon,0,0,0,,0,0,0,0,v,SUB: Hughes FOR Dixon,Substitution,,0,0
+196,190,PT04M30.00S,2,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,MISS Harrington Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+197,191,PT04M30.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+198,192,PT04M30.00S,2,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,40,48,88,h,Harrington Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+199,193,PT04M12.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,Made,1,40,50,90,v,Haywood  Layup (6 PTS) (Arenas 5 AST),Made Shot,Layup Shot,0,0
+200,194,PT04M00.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,-44,189,19,Missed,1,0,0,0,h,MISS Hinrich 19' Jump Shot,Missed Shot,Jump Shot,0,0
+201,195,PT03M58.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+202,196,PT03M42.00S,2,1610612764,WAS,2407,Jeffries,J. Jeffries,-79,20,8,Missed,1,0,0,0,v,MISS Jeffries 8' Jump Shot,Missed Shot,Jump Shot,0,0
+203,196,PT03M42.00S,2,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni BLOCK (1 BLK),,,0,0
+204,197,PT03M40.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+205,198,PT03M38.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,Made,1,40,52,92,v,Haywood  Layup (8 PTS),Made Shot,Layup Shot,0,0
+206,199,PT03M21.00S,2,1610612741,CHI,2732,Gordon,B. Gordon,153,53,16,Made,1,42,52,94,h,Gordon 16' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+207,200,PT03M07.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,138,22,14,Made,1,42,54,96,v,Haywood 14' Hook Shot (10 PTS) (Hughes 4 AST),Made Shot,Hook Shot,0,0
+208,201,PT02M47.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,-243,-5,24,Made,1,45,54,99,h,Hinrich 24' 3PT Jump Shot (10 PTS) (Gordon 2 AST),Made Shot,Jump Shot,0,0
+209,202,PT02M25.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,149,150,21,Missed,1,0,0,0,v,MISS Hughes 21' Jump Shot,Missed Shot,Jump Shot,0,0
+210,203,PT02M23.00S,2,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,,0,0,0,0,v,Ruffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+211,204,PT02M21.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,-10,97,10,Missed,1,0,0,0,v,MISS Hughes 10' Jump Shot,Missed Shot,Jump Shot,0,0
+212,205,PT02M20.00S,2,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+213,206,PT02M18.00S,2,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,,0,0,0,0,v,Ruffin S.FOUL (P2.T4),Foul,Shooting,0,0
+214,207,PT02M18.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+215,209,PT02M18.00S,2,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,SUB: Funderburke FOR Harrington,Substitution,,0,0
+216,210,PT02M18.00S,2,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,,0,0,0,0,v,SUB: Peeler FOR Ruffin,Substitution,,0,0
+217,211,PT02M18.00S,2,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,MISS Gordon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+218,212,PT02M18.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+219,213,PT02M18.00S,2,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,46,54,100,h,Gordon Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+220,214,PT02M01.00S,2,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon S.FOUL (P3.PN),Foul,Shooting,0,0
+221,215,PT02M01.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,46,55,101,v,Hughes Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+222,216,PT02M01.00S,2,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,SUB: Pargo FOR Gordon,Substitution,,0,0
+223,217,PT02M01.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,46,56,102,v,Hughes Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+224,218,PT01M49.00S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Missed,1,0,0,0,h,MISS Chandler  Layup,Missed Shot,Layup Shot,0,0
+225,219,PT01M47.00S,2,1610612764,WAS,324,Peeler,A. Peeler,0,0,0,,0,0,0,0,v,Peeler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+226,220,PT01M29.00S,2,1610612741,CHI,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,Pargo P.FOUL (P1.PN),Foul,Personal,0,0
+227,221,PT01M29.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,46,57,103,v,Arenas Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+228,222,PT01M29.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,46,58,104,v,Arenas Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+229,223,PT01M18.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich OFF.Foul (P3),Foul,Offensive,0,0
+230,224,PT01M18.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich Foul Turnover (P3.T10),Turnover,Foul,0,0
+231,225,PT01M18.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,SUB: Piatkowski FOR Hinrich,Substitution,,0,0
+232,226,PT01M07.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,-51,189,20,Made,1,46,60,106,v,Hughes 20' Jump Shot (18 PTS),Made Shot,Jump Shot,0,0
+233,227,PT00M52.30S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Made,1,48,60,108,h,Chandler  Layup (8 PTS) (Piatkowski 1 AST),Made Shot,Layup Shot,0,0
+234,228,PT00M39.90S,2,1610612764,WAS,2240,Arenas,G. Arenas,235,20,24,Missed,1,0,0,0,v,MISS Arenas 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+235,229,PT00M38.90S,2,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+236,230,PT00M38.90S,2,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,Made,1,48,62,110,v,Jeffries  Dunk (4 PTS),Made Shot,Dunk Shot,0,0
+237,231,PT00M30.50S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas P.FOUL (P1.PN),Foul,Personal,0,0
+238,232,PT00M30.50S,2,1610612741,CHI,2457,Pargo,J. Pargo,0,0,0,,0,49,62,111,h,Pargo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+239,233,PT00M30.50S,2,1610612741,CHI,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,MISS Pargo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+240,234,PT00M29.90S,2,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+241,235,PT00M13.90S,2,1610612764,WAS,1716,Hughes,L. Hughes,-112,122,17,Missed,1,0,0,0,v,MISS Hughes 17' Jump Shot,Missed Shot,Jump Shot,0,0
+242,236,PT00M12.70S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+243,237,PT00M11.20S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler S.FOUL (P3.PN),Foul,Shooting,0,0
+244,238,PT00M11.20S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,MISS Haywood Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+245,239,PT00M11.20S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+246,240,PT00M11.20S,2,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,SUB: Griffin FOR Chandler,Substitution,,0,0
+247,241,PT00M11.20S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,49,63,112,v,Haywood Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+248,243,PT00M00.00S,2,1610612741,CHI,2457,Pargo,J. Pargo,189,15,19,Missed,1,0,0,0,h,MISS Pargo 19' Jump Shot,Missed Shot,Jump Shot,0,0
+249,244,PT00M00.00S,2,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+250,245,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,63,112,,End of 2nd Period (8:16 PM EST),period,end,0,0
+251,247,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,63,112,,Start of 3rd Period (8:36 PM EST),period,start,0,0
+252,248,PT11M42.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,-159,33,16,Missed,1,0,0,0,v,MISS Jamison 16' Jump Shot,Missed Shot,Jump Shot,0,0
+253,249,PT11M41.00S,3,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+254,250,PT11M29.00S,3,1610612741,CHI,2804,Nocioni,A. Nocioni,230,0,0,Missed,1,0,0,0,h,MISS Nocioni  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+255,251,PT11M27.00S,3,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+256,252,PT11M25.00S,3,1610612741,CHI,213,Davis,A. Davis,0,0,0,Missed,1,0,0,0,h,MISS Davis  Layup,Missed Shot,Layup Shot,0,0
+257,253,PT11M23.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+258,254,PT11M09.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,120,257,28,Missed,1,0,0,0,v,MISS Arenas 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+259,255,PT11M07.00S,3,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+260,256,PT11M03.00S,3,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,Made,1,49,65,114,v,Jeffries  Layup (6 PTS),Made Shot,Layup Shot,0,0
+261,257,PT10M38.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-115,72,14,Missed,1,0,0,0,h,MISS Hinrich 14' Jump Shot,Missed Shot,Jump Shot,0,0
+262,257,PT10M38.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood BLOCK (4 BLK),,,0,0
+263,258,PT10M35.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+264,259,PT10M33.00S,3,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,Made,1,49,67,116,v,Hughes  Dunk (20 PTS) (Jamison 1 AST),Made Shot,Dunk Shot,0,0
+265,260,PT10M18.00S,3,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,Harrington OFF.Foul (P2),Foul,Offensive,0,0
+266,261,PT10M18.00S,3,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,Harrington Foul Turnover (P3.T11),Turnover,Foul,0,0
+267,262,PT10M08.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,Made,1,49,69,118,v,Arenas  Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,0
+268,263,PT09M55.00S,3,1610612741,CHI,2804,Nocioni,A. Nocioni,-240,7,24,Missed,1,0,0,0,h,MISS Nocioni 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+269,264,PT09M51.00S,3,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+270,265,PT09M46.00S,3,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,SUB: Gordon FOR Nocioni,Substitution,,0,0
+271,266,PT09M39.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas Violation:Kicked Ball,Violation,Kicked Ball,0,0
+272,267,PT09M32.00S,3,1610612741,CHI,2768,Duhon,C. Duhon,-136,206,25,Made,1,52,69,121,h,Duhon 25' 3PT Jump Shot (5 PTS) (Gordon 3 AST),Made Shot,Jump Shot,0,0
+273,268,PT09M20.00S,3,1610612764,WAS,1716,Hughes,L. Hughes,-158,209,26,Missed,1,0,0,0,v,MISS Hughes 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+274,269,PT09M18.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+275,270,PT09M09.00S,3,1610612741,CHI,2768,Duhon,C. Duhon,-115,224,25,Made,1,55,69,124,h,Duhon 25' 3PT Jump Shot (8 PTS) (Hinrich 3 AST),Made Shot,Jump Shot,0,0
+276,271,PT09M08.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+277,273,PT09M05.00S,3,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,Missed,1,0,0,0,v,MISS Hughes  Layup,Missed Shot,Layup Shot,0,0
+278,273,PT09M05.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich BLOCK (1 BLK),,,0,0
+279,274,PT09M05.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+280,275,PT08M48.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood P.FOUL (P3.T1),Foul,Personal,0,0
+281,276,PT08M46.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas P.FOUL (P2.T2),Foul,Personal,0,0
+282,277,PT08M39.00S,3,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,Missed,1,0,0,0,h,MISS Duhon  Layup,Missed Shot,Layup Shot,0,0
+283,277,PT08M39.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood BLOCK (5 BLK),,,0,0
+284,278,PT08M37.00S,3,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+285,279,PT08M31.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,163,204,26,Missed,1,0,0,0,v,MISS Arenas 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+286,280,PT08M29.00S,3,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+287,281,PT08M10.00S,3,1610612741,CHI,970,Harrington,O. Harrington,33,58,7,Missed,1,0,0,0,h,MISS Harrington 7' Jump Shot,Missed Shot,Jump Shot,0,0
+288,282,PT08M08.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+289,283,PT07M51.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,-89,15,9,Made,1,55,71,126,v,Jamison 9' Running Jump Shot (10 PTS),Made Shot,Running Jump Shot,0,0
+290,284,PT07M33.00S,3,1610612741,CHI,2732,Gordon,B. Gordon,-135,169,22,Made,1,57,71,128,h,Gordon 22' Jump Shot (14 PTS) (Duhon 2 AST),Made Shot,Jump Shot,0,0
+291,285,PT07M11.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,Missed,1,0,0,0,v,MISS Haywood  Layup,Missed Shot,Layup Shot,0,0
+292,286,PT07M10.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+293,287,PT07M10.00S,3,1610612741,CHI,970,Harrington,O. Harrington,0,0,0,,0,0,0,0,h,SUB: Chandler FOR Harrington,Substitution,,0,0
+294,288,PT06M52.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,54,59,8,Made,1,59,71,130,h,Hinrich 8' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,0,0
+295,289,PT06M32.00S,3,1610612764,WAS,1716,Hughes,L. Hughes,67,146,16,Missed,1,0,0,0,v,MISS Hughes 16' Jump Shot,Missed Shot,Jump Shot,0,0
+296,290,PT06M32.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+297,291,PT06M32.00S,3,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler L.B.FOUL (P4.T1),Foul,Loose Ball,0,0
+298,292,PT06M26.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,-15,255,26,Missed,1,0,0,0,v,MISS Arenas 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+299,293,PT06M22.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+300,294,PT06M19.00S,3,1610612764,WAS,1716,Hughes,L. Hughes,54,176,18,Made,1,59,73,132,v,Hughes 18' Jump Shot (22 PTS) (Arenas 6 AST),Made Shot,Jump Shot,0,0
+301,295,PT05M59.00S,3,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,Missed,1,0,0,0,h,MISS Gordon  Layup,Missed Shot,Layup Shot,0,0
+302,296,PT05M57.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+303,297,PT05M45.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,-2,77,8,Made,1,59,75,134,v,Haywood 8' Hook Shot (13 PTS),Made Shot,Hook Shot,0,0
+304,298,PT05M30.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-41,102,11,Missed,1,0,0,0,h,MISS Hinrich 11' Jump Shot,Missed Shot,Jump Shot,0,0
+305,299,PT05M29.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+306,300,PT05M29.00S,3,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis P.FOUL (P3.T2),Foul,Personal,0,0
+307,301,PT05M16.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,Made,1,59,77,136,v,Haywood  Slam Dunk (15 PTS) (Arenas 7 AST),Made Shot,Slam Dunk Shot,0,0
+308,302,PT05M12.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+309,304,PT05M05.00S,3,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,Duhon Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0
+310,304,PT05M05.00S,3,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes STEAL (3 STL),,,0,0
+311,305,PT05M01.00S,3,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,Made,1,59,79,138,v,Hughes  Dunk (24 PTS) (Haywood 2 AST),Made Shot,Dunk Shot,0,0
+312,306,PT04M40.00S,3,1610612741,CHI,2768,Duhon,C. Duhon,136,219,26,Missed,1,0,0,0,h,MISS Duhon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+313,307,PT04M38.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+314,308,PT04M20.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,-84,105,13,Missed,1,0,0,0,v,MISS Jamison 13' Jump Shot,Missed Shot,Jump Shot,0,0
+315,309,PT04M18.00S,3,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,Duhon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+316,310,PT04M10.00S,3,1610612741,CHI,213,Davis,A. Davis,0,0,0,Made,1,61,79,140,h,Davis  Dunk (2 PTS) (Gordon 4 AST),Made Shot,Dunk Shot,0,0
+317,311,PT03M52.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,-72,89,11,Made,1,61,81,142,v,Jamison 11' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,0,0
+318,312,PT03M41.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood S.FOUL (P4.T3),Foul,Shooting,0,0
+319,313,PT03M41.00S,3,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,MISS Chandler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+320,314,PT03M41.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+321,315,PT03M41.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,SUB: Thomas FOR Haywood,Substitution,,0,0
+322,316,PT03M41.00S,3,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,62,81,143,h,Chandler Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+323,317,PT03M26.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,163,191,25,Made,1,62,84,146,v,Jamison 25' 3PT Jump Shot (15 PTS) (Hughes 5 AST),Made Shot,Jump Shot,0,0
+324,318,PT03M12.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-238,15,24,Made,1,65,84,149,h,Hinrich 24' 3PT Jump Shot (15 PTS) (Gordon 5 AST),Made Shot,Jump Shot,0,0
+325,319,PT02M58.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison OFF.Foul (P4),Foul,Offensive,0,0
+326,320,PT02M58.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison Foul Turnover (P2.T9),Turnover,Foul,0,0
+327,321,PT02M58.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,SUB: Dixon FOR Jamison,Substitution,,0,0
+328,322,PT02M52.00S,3,1610612764,WAS,2413,Dixon,J. Dixon,0,0,0,,0,0,0,0,v,Dixon P.FOUL (P1.T4),Foul,Personal,0,0
+329,323,PT02M52.00S,3,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,SUB: Ruffin FOR Jeffries,Substitution,,0,0
+330,324,PT02M44.00S,3,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,Missed,1,0,0,0,h,MISS Duhon  Layup,Missed Shot,Layup Shot,0,0
+331,325,PT02M42.00S,3,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,Duhon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+332,326,PT02M37.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-186,178,26,Made,1,68,84,152,h,Hinrich 26' 3PT Jump Shot (18 PTS) (Duhon 3 AST),Made Shot,Jump Shot,0,0
+333,327,PT02M25.00S,3,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,Duhon P.FOUL (P2.T3),Foul,Personal,0,0
+334,328,PT02M15.00S,3,1610612764,WAS,2413,Dixon,J. Dixon,-136,127,19,Missed,1,0,0,0,v,MISS Dixon 19' Jump Shot,Missed Shot,Jump Shot,0,0
+335,329,PT02M13.00S,3,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+336,330,PT01M58.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,Missed,1,0,0,0,h,MISS Hinrich  Layup,Missed Shot,Layup Shot,0,0
+337,330,PT01M58.00S,3,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,,0,0,0,0,v,Ruffin BLOCK (1 BLK),,,0,0
+338,331,PT01M57.00S,3,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,,0,0,0,0,v,Ruffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+339,332,PT01M57.00S,3,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis P.FOUL (P4.T4),Foul,Personal,0,0
+340,333,PT01M33.00S,3,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,Missed,1,0,0,0,v,MISS Thomas  Layup,Missed Shot,Layup Shot,0,0
+341,334,PT01M31.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+342,335,PT01M23.00S,3,1610612764,WAS,2413,Dixon,J. Dixon,0,0,0,,0,0,0,0,v,Dixon Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+343,335,PT01M23.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich STEAL (1 STL),,,0,0
+344,336,PT01M20.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,0
+345,336,PT01M20.00S,3,1610612764,WAS,2413,Dixon,J. Dixon,0,0,0,,0,0,0,0,v,Dixon STEAL (1 STL),,,0,0
+346,337,PT01M03.00S,3,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,Made,1,68,86,154,v,Ruffin  Dunk (6 PTS) (Dixon 2 AST),Made Shot,Dunk Shot,0,0
+347,338,PT00M55.90S,3,1610612764,WAS,2413,Dixon,J. Dixon,0,0,0,,0,0,0,0,v,Dixon P.FOUL (P2.PN),Foul,Personal,0,0
+348,339,PT00M55.90S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,69,86,155,h,Hinrich Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0
+349,340,PT00M55.90S,3,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,SUB: Nocioni FOR Davis,Substitution,,0,0
+350,341,PT00M55.90S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,70,86,156,h,Hinrich Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0
+351,342,PT00M39.90S,3,1610612764,WAS,1716,Hughes,L. Hughes,-161,30,16,Missed,1,0,0,0,v,MISS Hughes 16' Jump Shot,Missed Shot,Jump Shot,0,0
+352,343,PT00M38.20S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+353,344,PT00M29.20S,3,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas P.FOUL (P2.PN),Foul,Personal,0,0
+354,345,PT00M29.20S,3,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,71,86,157,h,Chandler Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+355,346,PT00M29.20S,3,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,SUB: Peeler FOR Thomas,Substitution,,0,0
+356,347,PT00M29.20S,3,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,MISS Chandler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+357,348,PT00M27.90S,3,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+358,349,PT00M05.90S,3,1610612764,WAS,1716,Hughes,L. Hughes,-118,22,12,Missed,1,0,0,0,v,MISS Hughes 12' Jump Shot,Missed Shot,Jump Shot,0,0
+359,350,PT00M04.20S,3,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+360,351,PT00M00.00S,3,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,Made,1,73,86,159,h,Gordon  Running Layup (16 PTS),Made Shot,Running Layup Shot,0,0
+361,352,PT00M00.00S,3,0,,0,,,0,0,0,,0,73,86,159,,End of 3rd Period (9:03 PM EST),period,end,0,0
+362,354,PT12M00.00S,4,0,,0,,,0,0,0,,0,73,86,159,,Start of 4th Period (9:07 PM EST),period,start,0,0
+363,355,PT11M45.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,-31,61,7,Made,1,75,86,161,h,Gordon 7' Running Layup (18 PTS),Made Shot,Running Layup Shot,0,0
+364,356,PT11M24.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,Made,1,75,88,163,v,Haywood  Slam Dunk (17 PTS) (Hughes 6 AST),Made Shot,Slam Dunk Shot,0,0
+365,357,PT11M04.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0
+366,357,PT11M04.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison STEAL (1 STL),,,0,0
+367,358,PT11M00.00S,4,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni S.FOUL (P2.T1),Foul,Shooting,0,0
+368,359,PT11M00.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,75,89,164,v,Hughes Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0
+369,360,PT11M00.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,75,90,165,v,Hughes Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0
+370,361,PT10M44.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Made,1,77,90,167,h,Chandler  Dunk (12 PTS) (Nocioni 3 AST),Made Shot,Dunk Shot,0,0
+371,362,PT10M34.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0
+372,363,PT10M16.00S,4,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,Missed,1,0,0,0,h,MISS Nocioni  Layup,Missed Shot,Layup Shot,0,0
+373,364,PT10M15.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+374,365,PT10M02.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,-166,148,22,Missed,1,0,0,0,v,MISS Arenas 22' Jump Shot,Missed Shot,Jump Shot,0,0
+375,366,PT10M00.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+376,367,PT09M55.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,Missed,1,0,0,0,h,MISS Hinrich  Layup,Missed Shot,Layup Shot,0,0
+377,368,PT09M53.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+378,369,PT09M42.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,-74,179,19,Made,1,77,92,169,v,Hughes 19' Jump Shot (28 PTS) (Jamison 2 AST),Made Shot,Jump Shot,0,0
+379,370,PT09M27.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,130,212,25,Made,1,80,92,172,h,Gordon 25' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,0,0
+380,371,PT09M11.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison OFF.Foul (P5),Foul,Offensive,0,0
+381,372,PT09M11.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison Foul Turnover (P3.T12),Turnover,Foul,0,0
+382,373,PT09M11.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,SUB: Dixon FOR Hughes,Substitution,,0,0
+383,374,PT08M59.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries S.FOUL (P2.T1),Foul,Shooting,0,0
+384,375,PT08M59.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+385,377,PT08M59.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,81,92,173,h,Gordon Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0
+386,378,PT08M59.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,82,92,174,h,Gordon Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+387,379,PT08M38.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,100,97,14,Missed,1,0,0,0,v,MISS Arenas 14' Jump Shot,Missed Shot,Jump Shot,0,0
+388,379,PT08M38.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler BLOCK (1 BLK),,,0,0
+389,380,PT08M35.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+390,381,PT08M33.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,131,54,14,Made,1,82,94,176,v,Jamison 14' Jump Shot (17 PTS),Made Shot,Jump Shot,0,0
+391,382,PT08M12.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood S.FOUL (P5.T2),Foul,Shooting,0,0
+392,383,PT08M12.00S,4,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,83,94,177,h,Nocioni Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+393,384,PT08M12.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,SUB: Hughes FOR Haywood,Substitution,,0,0
+394,385,PT08M12.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,SUB: Thomas FOR Jamison,Substitution,,0,0
+395,386,PT08M12.00S,4,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,MISS Nocioni Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+396,387,PT08M11.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+397,388,PT07M54.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,-158,199,25,Missed,1,0,0,0,v,MISS Hughes 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+398,389,PT07M52.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+399,390,PT07M37.00S,4,1610612741,CHI,2768,Duhon,C. Duhon,108,224,25,Missed,1,0,0,0,h,MISS Duhon 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+400,391,PT07M35.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+401,392,PT07M22.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,Missed,1,0,0,0,v,MISS Thomas  Layup,Missed Shot,Layup Shot,0,0
+402,392,PT07M22.00S,4,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni BLOCK (2 BLK),,,0,0
+403,393,PT07M20.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+404,394,PT07M16.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,Made,1,85,94,179,h,Gordon  Layup (25 PTS),Made Shot,Layup Shot,0,0
+405,395,PT06M54.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries 3 Second Violation Turnover (P2.T13),Turnover,3 Second Violation,0,0
+406,396,PT06M54.00S,4,1610612764,WAS,2413,Dixon,J. Dixon,0,0,0,,0,0,0,0,v,SUB: Jamison FOR Dixon,Substitution,,0,0
+407,397,PT06M40.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,Missed,1,0,0,0,h,MISS Hinrich  Layup,Missed Shot,Layup Shot,0,0
+408,397,PT06M40.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas BLOCK (2 BLK),,,0,0
+409,398,PT06M38.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+410,399,PT06M31.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0
+411,399,PT06M31.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich STEAL (2 STL),,,0,0
+412,400,PT06M29.00S,4,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,Nocioni Out of Bounds Lost Ball Turnover (P1.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0
+413,401,PT06M09.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,97,86,13,Missed,1,0,0,0,v,MISS Hughes 13' Jump Shot,Missed Shot,Jump Shot,0,0
+414,403,PT06M07.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+415,402,PT06M07.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,Made,1,85,96,181,v,Jeffries  Tip Shot (8 PTS),Made Shot,Tip Shot,0,0
+416,404,PT05M46.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,71,49,9,Made,1,87,96,183,h,Gordon 9' Jump Bank Shot (27 PTS) (Duhon 4 AST),Made Shot,Jump Bank Shot,0,0
+417,405,PT05M30.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes OFF.Foul (P2),Foul,Offensive,0,0
+418,406,PT05M30.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes Foul Turnover (P2.T15),Turnover,Foul,0,0
+419,407,PT05M30.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+420,409,PT05M12.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Made,1,89,96,185,h,Chandler  Slam Dunk (14 PTS) (Hinrich 4 AST),Made Shot,Slam Dunk Shot,0,0
+421,410,PT05M12.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries S.FOUL (P3.T3),Foul,Shooting,0,0
+422,411,PT05M12.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,90,96,186,h,Chandler Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+423,412,PT04M57.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0
+424,412,PT04M57.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich STEAL (3 STL),,,0,0
+425,413,PT04M49.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,-181,187,26,Missed,1,0,0,0,h,MISS Hinrich 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+426,414,PT04M47.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+427,415,PT04M38.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon S.FOUL (P4.T2),Foul,Shooting,0,0
+428,416,PT04M38.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0,0,0,v,SUB: Haywood FOR Thomas,Substitution,,0,0
+429,417,PT04M38.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,90,97,187,v,Hughes Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0
+430,418,PT04M38.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,90,98,188,v,Hughes Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0
+431,419,PT04M24.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,-240,3,24,Missed,1,0,0,0,h,MISS Gordon 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+432,420,PT04M23.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,Haywood REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+433,421,PT04M23.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler P.FOUL (P5.T3),Foul,Personal,0,0
+434,422,PT04M10.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,-120,30,12,Made,1,90,100,190,v,Arenas 12' Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+435,423,PT03M50.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,Missed,1,0,0,0,h,MISS Gordon  Layup,Missed Shot,Layup Shot,0,0
+436,424,PT03M49.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+437,425,PT03M42.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,Made,1,90,102,192,v,Jeffries  Driving Dunk (10 PTS) (Hughes 7 AST),Made Shot,Driving Dunk Shot,0,0
+438,426,PT03M28.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Made,1,92,102,194,h,Chandler  Layup (17 PTS) (Hinrich 5 AST),Made Shot,Layup Shot,0,0
+439,427,PT03M12.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+440,429,PT03M12.00S,4,1610612741,CHI,2804,Nocioni,A. Nocioni,0,0,0,,0,0,0,0,h,SUB: Davis FOR Nocioni,Substitution,,0,0
+441,430,PT03M07.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,153,104,19,Missed,1,0,0,0,v,MISS Jamison 19' Jump Shot,Missed Shot,Jump Shot,0,0
+442,431,PT03M06.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+443,432,PT02M52.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,128,173,22,Missed,1,0,0,0,v,MISS Arenas 22' Jump Shot,Missed Shot,Jump Shot,0,0
+444,433,PT02M49.00S,4,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+445,434,PT02M27.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,21,74,8,Missed,1,0,0,0,h,MISS Hinrich 8' Jump Shot,Missed Shot,Jump Shot,0,0
+446,436,PT02M26.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+447,435,PT02M26.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Made,1,94,102,196,h,Chandler  Tip Shot (19 PTS),Made Shot,Tip Shot,0,0
+448,437,PT02M08.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,Missed,1,0,0,0,v,MISS Jeffries  Layup,Missed Shot,Layup Shot,0,0
+449,437,PT02M08.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler BLOCK (2 BLK),,,0,0
+450,438,PT02M06.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+451,439,PT02M06.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon S.FOUL (P5.T4),Foul,Shooting,0,0
+452,440,PT02M06.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,MISS Jamison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+453,441,PT02M06.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+454,442,PT02M06.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,MISS Jamison Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+455,443,PT02M04.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+456,444,PT01M55.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,46,255,26,Missed,1,0,0,0,h,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+457,445,PT01M53.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+458,446,PT01M33.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Made,1,94,104,198,v,Jamison  Layup (19 PTS) (Arenas 8 AST),Made Shot,Layup Shot,0,0
+459,447,PT01M33.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+460,449,PT01M26.00S,4,1610612741,CHI,2732,Gordon,B. Gordon,-21,87,9,Missed,1,0,0,0,h,MISS Gordon 9' Jump Shot,Missed Shot,Jump Shot,0,0
+461,451,PT01M26.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:5 Def:4),Rebound,Unknown,0,0
+462,450,PT01M26.00S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,Made,1,96,104,200,h,Chandler  Follow Up Dunk (21 PTS),Made Shot,Follow Up Dunk Shot,0,0
+463,452,PT01M10.00S,4,1610612764,WAS,1716,Hughes,L. Hughes,128,56,14,Missed,1,0,0,0,v,MISS Hughes 14' Jump Shot,Missed Shot,Jump Shot,0,0
+464,453,PT01M08.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+465,454,PT01M08.00S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,Made,1,96,106,202,v,Jeffries  Layup (12 PTS),Made Shot,Layup Shot,0,0
+466,455,PT00M55.70S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes S.FOUL (P3.T4),Foul,Shooting,0,0
+467,456,PT00M55.70S,4,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,97,106,203,h,Davis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+468,457,PT00M55.70S,4,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+469,458,PT00M54.90S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+470,459,PT00M47.90S,4,1610612741,CHI,2732,Gordon,B. Gordon,-233,2,0,Missed,1,0,0,0,h,MISS Gordon  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+471,460,PT00M46.90S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+472,461,PT00M46.90S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries L.B.FOUL (P4.PN),Foul,Loose Ball,0,0
+473,462,PT00M46.90S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,98,106,204,h,Chandler Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0
+474,463,PT00M46.90S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,MISS Chandler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+475,464,PT00M45.90S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,Hughes REBOUND (Off:0 Def:9),Rebound,Unknown,0,0
+476,465,PT00M42.90S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,Made,1,98,108,206,v,Hughes  Layup (32 PTS),Made Shot,Layup Shot,0,0
+477,466,PT00M41.40S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Short (Full 5 Short 1),Timeout,Short,0,0
+478,468,PT00M41.40S,4,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,SUB: Pargo FOR Duhon,Substitution,,0,0
+479,469,PT00M39.10S,4,1610612741,CHI,2457,Pargo,J. Pargo,-227,2,0,Made,1,101,108,209,h,Pargo  3PT Jump Shot (4 PTS) (Hinrich 6 AST),Made Shot,Jump Shot,0,0
+480,470,PT00M38.70S,4,1610612741,CHI,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,Pargo P.FOUL (P2.PN),Foul,Personal,0,0
+481,471,PT00M38.70S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,MISS Arenas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+482,472,PT00M38.70S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+483,473,PT00M38.70S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,101,109,210,v,Arenas Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+484,474,PT00M28.40S,4,1610612741,CHI,2457,Pargo,J. Pargo,-141,214,26,Made,1,104,109,213,h,Pargo 26' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+485,475,PT00M28.40S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+486,477,PT00M28.40S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,SUB: Peeler FOR Haywood,Substitution,,0,0
+487,478,PT00M28.40S,4,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,SUB: Duhon FOR Davis,Substitution,,0,0
+488,479,PT00M25.20S,4,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,Duhon P.FOUL (P3.PN),Foul,Personal,0,0
+489,480,PT00M25.20S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,MISS Jamison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+490,481,PT00M25.20S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+491,482,PT00M25.20S,4,1610612764,WAS,324,Peeler,A. Peeler,0,0,0,,0,0,0,0,v,SUB: Haywood FOR Peeler,Substitution,,0,0
+492,484,PT00M25.20S,4,1610612741,CHI,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,h,SUB: Davis FOR Duhon,Substitution,,0,0
+493,485,PT00M25.20S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,MISS Jamison Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+494,486,PT00M24.90S,4,1610612741,CHI,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,h,Chandler REBOUND (Off:5 Def:5),Rebound,Unknown,0,0
+495,487,PT00M11.60S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,-220,143,26,Made,1,107,109,216,h,Hinrich 26' 3PT Jump Shot (23 PTS) (Pargo 1 AST),Made Shot,Jump Shot,0,0
+496,488,PT00M11.40S,4,1610612741,CHI,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,Pargo P.FOUL (P3.PN),Foul,Personal,0,0
+497,489,PT00M11.40S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,0,0,0,v,MISS Hughes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+498,490,PT00M11.40S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+499,491,PT00M11.40S,4,1610612764,WAS,1716,Hughes,L. Hughes,0,0,0,,0,107,110,217,v,Hughes Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,0,0
+500,492,PT00M11.40S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 6 Short 1),Timeout,Regular,0,0
+501,493,PT00M11.40S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,SUB: Dixon FOR Jamison,Substitution,,0,0
+502,494,PT00M11.40S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0,0,0,v,SUB: Ruffin FOR Haywood,Substitution,,0,0
+503,495,PT00M09.20S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries P.FOUL (P5.PN),Foul,Personal,0,0
+504,496,PT00M09.20S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,MISS Hinrich Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+505,497,PT00M09.20S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+506,498,PT00M09.20S,4,1610612741,CHI,213,Davis,A. Davis,0,0,0,,0,0,0,0,h,SUB: Duhon FOR Davis,Substitution,,0,0
+507,499,PT00M09.20S,4,1610612764,WAS,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,SUB: Jamison FOR Jeffries,Substitution,,0,0
+508,500,PT00M09.20S,4,1610612764,WAS,2413,Dixon,J. Dixon,0,0,0,,0,0,0,0,v,SUB: Haywood FOR Dixon,Substitution,,0,0
+509,501,PT00M09.20S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,MISS Hinrich Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+510,502,PT00M07.90S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+511,503,PT00M05.20S,4,1610612741,CHI,2457,Pargo,J. Pargo,-209,164,27,Made,1,110,110,220,h,Pargo 27' 3PT Jump Shot (10 PTS) (Hinrich 7 AST),Made Shot,Jump Shot,0,0
+512,504,PT00M05.20S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+513,506,PT00M05.20S,4,1610612764,WAS,1913,Ruffin,M. Ruffin,0,0,0,,0,0,0,0,v,SUB: Peeler FOR Ruffin,Substitution,,0,0
+514,507,PT00M05.20S,4,1610612741,CHI,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,SUB: Davis FOR Gordon,Substitution,,0,0
+515,508,PT00M00.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,-117,77,14,Made,1,110,112,222,v,Arenas 14' Jump Shot (16 PTS),Made Shot,Jump Shot,0,0
+516,511,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,112,222,,Instant Replay4th Period (9:55 PM EST),Instant Replay,Support Ruling,0,0
+517,509,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,112,222,,End of 4th Period (9:55 PM EST),period,end,0,0

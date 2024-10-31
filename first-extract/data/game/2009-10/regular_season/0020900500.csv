@@ -1,0 +1,453 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:10 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Jump Ball Dalembert vs. Blatche: Tip to Young,Jump Ball,,0,0
+3,2,PT11M43.00S,1,1610612755,PHI,201152,Young,T. Young,133,-16,13,Made,1,2,0,2,h,Young 13' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,0,0
+4,3,PT11M29.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche Traveling Turnover (P1.T1),Turnover,Traveling,0,0
+5,4,PT11M13.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,Missed,1,0,0,0,h,MISS Young  Layup,Missed Shot,Layup Shot,0,0
+6,6,PT11M11.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+7,5,PT11M11.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,4,0,4,h,Dalembert  Tip Shot (2 PTS),Made Shot,Tip Shot,0,0
+8,7,PT10M57.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,118,127,17,Made,1,4,2,6,v,Blatche 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+9,8,PT10M41.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+10,8,PT10M41.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto STEAL (1 STL),,,0,0
+11,9,PT10M37.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,Young S.FOUL (P1.T1),Foul,Shooting,0,0
+12,10,PT10M37.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,4,3,7,v,Arenas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+13,12,PT10M37.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,4,4,8,v,Arenas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+14,14,PT10M19.00S,1,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,Williams Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+15,14,PT10M19.00S,1,1610612764,WAS,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler STEAL (1 STL),,,0,0
+16,15,PT10M14.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,Made,1,4,6,10,v,Arenas  Layup (4 PTS),Made Shot,Layup Shot,0,0
+17,16,PT09M54.00S,1,1610612764,WAS,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler P.FOUL (P1.T1),Foul,Personal,0,0
+18,17,PT09M41.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,121,75,14,Missed,1,0,0,0,h,MISS Iguodala 14' Jump Shot,Missed Shot,Jump Shot,0,0
+19,18,PT09M39.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+20,19,PT09M35.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert S.FOUL (P1.T2),Foul,Shooting,0,0
+21,20,PT09M35.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,4,7,11,v,Jamison Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+22,22,PT09M35.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,4,8,12,v,Jamison Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+23,24,PT09M20.00S,1,1610612755,PHI,101150,Williams,L. Williams,100,239,26,Missed,1,0,0,0,h,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+24,25,PT09M18.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+25,26,PT09M12.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,-60,252,26,Missed,1,0,0,0,v,MISS Arenas 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+26,39,PT09M10.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+27,27,PT08M57.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala Poss Lost Ball Turnover (P1.T3),Turnover,Poss Lost Ball Turnover,0,0
+28,29,PT08M37.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,Missed,1,0,0,0,v,MISS Oberto  Layup,Missed Shot,Layup Shot,0,0
+29,31,PT08M37.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+30,32,PT08M24.00S,1,1610612755,PHI,101150,Williams,L. Williams,-191,97,21,Made,1,6,8,14,h,Williams 21' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+31,34,PT08M01.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,-153,124,20,Missed,1,0,0,0,v,MISS Arenas 20' Jump Shot,Missed Shot,Jump Shot,0,0
+32,36,PT07M59.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+33,37,PT07M44.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,-175,-13,18,Missed,1,0,0,0,h,MISS Dalembert 18' Jump Shot,Missed Shot,Jump Shot,0,0
+34,38,PT07M42.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+35,40,PT07M26.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,236,-3,24,Missed,1,0,0,0,v,MISS Blatche 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+36,41,PT07M24.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+37,43,PT07M18.00S,1,1610612755,PHI,101150,Williams,L. Williams,0,0,0,Missed,1,0,0,0,h,MISS Williams  Layup,Missed Shot,Layup Shot,0,0
+38,44,PT07M16.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+39,45,PT07M11.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,Missed,1,0,0,0,v,MISS Arenas  Layup,Missed Shot,Layup Shot,0,0
+40,47,PT07M10.00S,1,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+41,48,PT06M59.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,8,8,16,h,Iguodala  Layup (2 PTS) (Dalembert 1 AST),Made Shot,Layup Shot,0,0
+42,49,PT06M58.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+43,51,PT06M42.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,-109,72,13,Missed,1,0,0,0,v,MISS Blatche 13' Jump Shot,Missed Shot,Jump Shot,0,0
+44,52,PT06M41.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+45,53,PT06M32.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson Poss Lost Ball Turnover (P2.T4),Turnover,Poss Lost Ball Turnover,0,0
+46,54,PT06M22.00S,1,1610612764,WAS,2406,Butler,C. Butler,162,-21,16,Made,1,8,10,18,v,Butler 16' Jump Shot (2 PTS) (Arenas 1 AST),Made Shot,Jump Shot,0,0
+47,55,PT06M04.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto S.FOUL (P1.T2),Foul,Shooting,0,0
+48,56,PT06M04.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+49,57,PT06M04.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+50,58,PT06M04.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,9,10,19,h,Young Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+51,60,PT05M50.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert Violation:Kicked Ball,Violation,Kicked Ball,0,0
+52,61,PT05M45.00S,1,1610612764,WAS,2406,Butler,C. Butler,-4,187,19,Missed,1,0,0,0,v,MISS Butler 19' Jump Shot,Missed Shot,Jump Shot,0,0
+53,62,PT05M43.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+54,63,PT05M36.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,11,10,21,h,Dalembert  Dunk (4 PTS) (Iguodala 1 AST),Made Shot,Dunk Shot,0,0
+55,64,PT05M21.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson P.FOUL (P1.T3),Foul,Personal,0,0
+56,66,PT05M11.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+57,65,PT05M11.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Made,1,11,12,23,v,Jamison  Layup (4 PTS) (Arenas 2 AST),Made Shot,Layup Shot,0,0
+58,67,PT04M57.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,Missed,1,0,0,0,h,MISS Young  Layup,Missed Shot,Layup Shot,0,0
+59,68,PT04M56.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,Young REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+60,69,PT04M52.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,13,12,25,h,Dalembert  Dunk (6 PTS) (Young 1 AST),Made Shot,Dunk Shot,0,0
+61,70,PT04M46.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,Made,1,13,14,27,v,Blatche  Slam Dunk (4 PTS) (Arenas 3 AST),Made Shot,Slam Dunk Shot,0,0
+62,71,PT04M32.00S,1,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,Williams Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0
+63,71,PT04M32.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto STEAL (2 STL),,,0,0
+64,73,PT04M23.00S,1,1610612764,WAS,2240,Arenas,G. Arenas,-16,266,27,Made,1,13,17,30,v,Arenas 27' 3PT Jump Shot (7 PTS) (Jamison 1 AST),Made Shot,Jump Shot,0,0
+65,74,PT03M53.00S,1,1610612755,PHI,947,Iverson,A. Iverson,184,-22,19,Missed,1,0,0,0,h,MISS Iverson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+66,75,PT03M51.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+67,76,PT03M40.00S,1,1610612755,PHI,101150,Williams,L. Williams,-163,205,26,Made,1,16,17,33,h,Williams 26' 3PT Jump Shot (5 PTS) (Iverson 1 AST),Made Shot,Jump Shot,0,0
+68,78,PT03M26.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,Young P.FOUL (P2.T4),Foul,Personal,0,0
+69,79,PT03M26.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,SUB: McGee FOR Oberto,Substitution,,0,0
+70,80,PT03M26.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,SUB: Brand FOR Dalembert,Substitution,,0,0
+71,81,PT03M26.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,SUB: Speights FOR Young,Substitution,,0,0
+72,82,PT03M21.00S,1,1610612764,WAS,2406,Butler,C. Butler,-35,20,4,Made,1,16,19,35,v,Butler 4' Turnaround Hook Shot (4 PTS) (Blatche 1 AST),Made Shot,Turnaround Hook Shot,0,0
+73,83,PT02M56.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-169,-14,17,Made,1,18,19,37,h,Iverson 17' Jump Shot (2 PTS) (Iguodala 2 AST),Made Shot,Jump Shot,0,0
+74,84,PT02M44.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche OFF.Foul (P1),Foul,Offensive,0,0
+75,85,PT02M44.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche Foul Turnover (P2.T2),Turnover,Foul,0,0
+76,86,PT02M44.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+77,88,PT02M31.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,-166,213,27,Made,1,21,19,40,h,Iguodala 27' 3PT Jump Shot (5 PTS) (Iverson 2 AST),Made Shot,Jump Shot,0,0
+78,89,PT02M15.00S,1,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,76ERS T.Foul (Def. 3 Sec Speights ),Foul,Defense 3 Second,0,0
+79,90,PT02M15.00S,1,1610612764,WAS,2406,Butler,C. Butler,0,0,0,,0,21,20,41,v,Butler Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+80,92,PT02M10.00S,1,1610612764,WAS,2406,Butler,C. Butler,-207,-17,21,Missed,1,0,0,0,v,MISS Butler 21' Jump Shot,Missed Shot,Jump Shot,0,0
+81,93,PT02M09.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+82,94,PT01M54.00S,1,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee S.FOUL (P1.T3),Foul,Shooting,0,0
+83,95,PT01M54.00S,1,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,MISS Brand Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+84,96,PT01M54.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+85,97,PT01M54.00S,1,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,MISS Brand Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+86,98,PT01M54.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,SUB: Green FOR Iverson,Substitution,,0,0
+87,100,PT01M52.00S,1,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+88,101,PT01M39.00S,1,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand S.FOUL (P1.PN),Foul,Shooting,0,0
+89,102,PT01M39.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,21,21,42,v,Blatche Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+90,103,PT01M39.00S,1,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,SUB: Foye FOR Jamison,Substitution,,0,0
+91,105,PT01M39.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,MISS Blatche Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+92,107,PT01M37.00S,1,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,Foye REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+93,108,PT01M20.00S,1,1610612764,WAS,201580,McGee,J. McGee,-2,33,3,Made,1,21,23,44,v,McGee 3' Hook Shot (2 PTS) (Arenas 4 AST),Made Shot,Hook Shot,0,0
+94,109,PT00M58.90S,1,1610612755,PHI,201578,Speights,M. Speights,-119,123,17,Made,1,23,23,46,h,Speights 17' Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,0
+95,110,PT00M41.40S,1,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee Traveling Turnover (P1.T3),Turnover,Traveling,0,0
+96,111,PT00M21.90S,1,1610612755,PHI,2584,Green,W. Green,154,194,25,Made,1,26,23,49,h,Green 25' 3PT Jump Shot (3 PTS) (Speights 1 AST),Made Shot,Jump Shot,0,0
+97,112,PT00M00.10S,1,1610612764,WAS,200751,Foye,R. Foye,147,200,25,Missed,1,0,0,0,v,MISS Foye 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+98,113,PT00M00.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+99,114,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,23,49,,End of 1st Period (7:37 PM EST),period,end,0,0
+100,116,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,23,49,,Start of 2nd Period (7:39 PM EST),period,start,0,0
+101,117,PT11M49.00S,2,1610612755,PHI,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday P.FOUL (P1.T1),Foul,Personal,0,0
+102,118,PT11M44.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+103,118,PT11M44.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala STEAL (1 STL),,,0,0
+104,119,PT11M42.00S,2,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,Foye S.FOUL (P1.T1),Foul,Shooting,0,0
+105,120,PT11M42.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,MISS Iguodala Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+106,121,PT11M42.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+107,122,PT11M42.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,27,23,50,h,Iguodala Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+108,123,PT11M42.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,SUB: Boykins FOR Arenas,Substitution,,0,0
+109,127,PT11M21.00S,2,1610612764,WAS,2406,Butler,C. Butler,-157,-19,16,Missed,1,0,0,0,v,MISS Butler 16' Jump Shot,Missed Shot,Jump Shot,0,0
+110,125,PT11M20.00S,2,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+111,126,PT11M11.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,29,23,52,h,Iguodala  Reverse Layup (8 PTS) (Holiday 1 AST),Made Shot,Reverse Layup Shot,0,0
+112,128,PT10M47.00S,2,1610612764,WAS,2406,Butler,C. Butler,0,0,0,Missed,1,0,0,0,v,MISS Butler  Layup,Missed Shot,Layup Shot,0,0
+113,129,PT10M45.00S,2,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+114,130,PT10M40.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,Made,1,31,23,54,h,Speights  Alley Oop Dunk (4 PTS) (Iguodala 3 AST),Made Shot,Alley Oop Dunk Shot,0,0
+115,132,PT10M35.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+116,134,PT10M35.00S,2,1610612764,WAS,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,SUB: Young FOR Butler,Substitution,,0,0
+117,135,PT10M35.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,SUB: Carney FOR Iguodala,Substitution,,0,0
+118,136,PT10M16.00S,2,1610612764,WAS,201156,Young,N. Young,231,33,0,Made,1,31,26,57,v,Young  3PT Jump Shot (3 PTS) (Foye 1 AST),Made Shot,Jump Shot,0,0
+119,137,PT09M51.00S,2,1610612755,PHI,201578,Speights,M. Speights,-32,186,19,Missed,1,0,0,0,h,MISS Speights 19' Jump Shot,Missed Shot,Jump Shot,0,0
+120,138,PT09M49.00S,2,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,h,Carney REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+121,139,PT09M41.00S,2,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand OFF.Foul (P2),Foul,Offensive,0,0
+122,140,PT09M41.00S,2,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand Foul Turnover (P1.T6),Turnover,Foul,0,0
+123,141,PT09M30.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,-86,160,18,Missed,1,0,0,0,v,MISS Boykins 18' Jump Shot,Missed Shot,Jump Shot,0,0
+124,142,PT09M29.00S,2,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+125,143,PT09M16.00S,2,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,Missed,1,0,0,0,v,MISS Oberto  Layup,Missed Shot,Layup Shot,0,0
+126,144,PT09M15.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+127,145,PT09M09.00S,2,1610612755,PHI,2584,Green,W. Green,-141,58,15,Made,1,33,26,59,h,Green 15' Pullup Jump Shot (5 PTS) (Holiday 2 AST),Made Shot,Pullup Jump shot,0,0
+128,146,PT08M47.00S,2,1610612764,WAS,200751,Foye,R. Foye,10,230,23,Missed,1,0,0,0,v,MISS Foye 23' Jump Shot,Missed Shot,Jump Shot,0,0
+129,147,PT08M45.00S,2,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,h,Carney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+130,148,PT08M38.00S,2,1610612755,PHI,200760,Carney,R. Carney,-112,236,26,Missed,1,0,0,0,h,MISS Carney 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+131,149,PT08M36.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+132,150,PT08M33.00S,2,1610612755,PHI,201578,Speights,M. Speights,54,48,7,Missed,1,0,0,0,h,MISS Speights 7' Jump Shot,Missed Shot,Jump Shot,0,0
+133,151,PT08M33.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+134,152,PT08M33.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison S.FOUL (P1.T2),Foul,Shooting,0,0
+135,153,PT08M33.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,MISS Speights Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+136,154,PT08M33.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+137,155,PT08M33.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,34,26,60,h,Speights Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+138,157,PT08M19.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,-53,-3,5,Made,1,34,28,62,v,Boykins 5' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,0
+139,158,PT08M10.00S,2,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,Foye S.FOUL (P2.T3),Foul,Shooting,0,0
+140,159,PT08M10.00S,2,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,35,28,63,h,Brand Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+141,161,PT08M10.00S,2,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,36,28,64,h,Brand Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+142,163,PT08M00.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights S.FOUL (P1.T2),Foul,Shooting,0,0
+143,164,PT08M00.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,0,0,0,,0,36,29,65,v,Boykins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+144,166,PT08M00.00S,2,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,SUB: Blatche FOR Oberto,Substitution,,0,0
+145,167,PT08M00.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,0,0,0,,0,36,30,66,v,Boykins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+146,169,PT07M37.00S,2,1610612755,PHI,200760,Carney,R. Carney,42,0,4,Made,1,38,30,68,h,Carney 4' Running Jump Shot (2 PTS) (Speights 2 AST),Made Shot,Running Jump Shot,0,0
+147,170,PT07M20.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,-157,86,18,Missed,1,0,0,0,v,MISS Boykins 18' Jump Shot,Missed Shot,Jump Shot,0,0
+148,171,PT07M18.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+149,172,PT07M12.00S,2,1610612755,PHI,2584,Green,W. Green,-108,140,18,Made,1,40,30,70,h,Green 18' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+150,173,PT06M53.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,99,200,22,Made,1,40,32,72,v,Jamison 22' Jump Shot (6 PTS) (Boykins 1 AST),Made Shot,Jump Shot,0,0
+151,174,PT06M40.00S,2,1610612755,PHI,1882,Brand,E. Brand,124,121,17,Made,1,42,32,74,h,Brand 17' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+152,175,PT06M26.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Missed,1,0,0,0,v,MISS Jamison  Layup,Missed Shot,Layup Shot,0,0
+153,176,PT06M25.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+154,177,PT06M17.00S,2,1610612755,PHI,201950,Holiday,J. Holiday,-119,222,25,Made,1,45,32,77,h,Holiday 25' 3PT Pullup Jump Shot (3 PTS) (Green 1 AST),Made Shot,Pullup Jump shot,0,0
+155,178,PT06M07.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+156,181,PT06M07.00S,2,1610612755,PHI,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,SUB: Dalembert FOR Speights,Substitution,,0,0
+157,182,PT05M54.00S,2,1610612764,WAS,201156,Young,N. Young,146,88,17,Made,1,45,34,79,v,Young 17' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,0,0
+158,183,PT05M37.00S,2,1610612755,PHI,200760,Carney,R. Carney,-224,-8,0,Missed,1,0,0,0,h,MISS Carney  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+159,184,PT05M35.00S,2,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+160,185,PT05M29.00S,2,1610612764,WAS,201156,Young,N. Young,111,74,13,Missed,1,0,0,0,v,MISS Young 13' Jump Shot,Missed Shot,Jump Shot,0,0
+161,186,PT05M28.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+162,187,PT05M28.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche L.B.FOUL (P2.T4),Foul,Loose Ball,0,0
+163,188,PT05M28.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+164,189,PT05M28.00S,2,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,SUB: Butler FOR Foye,Substitution,,0,0
+165,190,PT05M28.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,v,SUB: Arenas FOR Boykins,Substitution,,0,0
+166,191,PT05M28.00S,2,1610612755,PHI,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,SUB: Iverson FOR Holiday,Substitution,,0,0
+167,192,PT05M28.00S,2,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,0,0,0,h,SUB: Williams FOR Green,Substitution,,0,0
+168,193,PT05M18.00S,2,1610612755,PHI,1882,Brand,E. Brand,9,146,15,Missed,1,0,0,0,h,MISS Brand 15' Jump Shot,Missed Shot,Jump Shot,0,0
+169,194,PT05M16.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+170,195,PT05M00.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,-237,45,24,Missed,1,0,0,0,v,MISS Jamison 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+171,196,PT04M58.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+172,197,PT04M46.00S,2,1610612755,PHI,200760,Carney,R. Carney,146,190,24,Made,1,48,34,82,h,Carney 24' 3PT Jump Shot (5 PTS) (Williams 2 AST),Made Shot,Jump Shot,0,0
+173,198,PT04M28.00S,2,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Made,1,48,36,84,v,Jamison  Driving Finger Roll Layup (8 PTS) (Arenas 5 AST),Made Shot,Driving Finger Roll Layup Shot,0,0
+174,199,PT04M09.00S,2,1610612755,PHI,101150,Williams,L. Williams,48,55,7,Missed,1,0,0,0,h,MISS Williams 7' Jump Shot,Missed Shot,Jump Shot,0,0
+175,200,PT04M08.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+176,201,PT04M01.00S,2,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,Williams S.FOUL (P1.T3),Foul,Shooting,0,0
+177,202,PT04M01.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,MISS Arenas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+178,203,PT04M01.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+179,204,PT04M01.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,MISS Arenas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+180,206,PT04M00.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+181,207,PT03M47.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson Palming Turnover (P3.T7),Turnover,Palming Turnover,0,0
+182,208,PT03M32.00S,2,1610612764,WAS,201156,Young,N. Young,0,0,0,Missed,1,0,0,0,v,MISS Young  Layup,Missed Shot,Layup Shot,0,0
+183,209,PT03M31.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+184,210,PT03M22.00S,2,1610612755,PHI,200760,Carney,R. Carney,-235,3,24,Missed,1,0,0,0,h,MISS Carney 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+185,211,PT03M21.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+186,212,PT03M11.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,Missed,1,0,0,0,v,MISS Arenas  Layup,Missed Shot,Layup Shot,0,0
+187,213,PT03M10.00S,2,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,h,Carney REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+188,214,PT03M04.00S,2,1610612755,PHI,101150,Williams,L. Williams,0,0,0,Made,1,50,36,86,h,Williams  Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,0
+189,215,PT02M49.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,Missed,1,0,0,0,v,MISS Arenas  Layup,Missed Shot,Layup Shot,0,0
+190,216,PT02M48.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+191,217,PT02M47.00S,2,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,h,Carney S.FOUL (P1.T4),Foul,Shooting,0,0
+192,218,PT02M47.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+193,220,PT02M47.00S,2,1610612755,PHI,200760,Carney,R. Carney,0,0,0,,0,0,0,0,h,SUB: Young FOR Carney,Substitution,,0,0
+194,221,PT02M47.00S,2,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,SUB: Iguodala FOR Brand,Substitution,,0,0
+195,222,PT02M47.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,MISS Blatche Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+196,223,PT02M47.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+197,224,PT02M47.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,50,37,87,v,Blatche Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+198,226,PT02M30.00S,2,1610612755,PHI,101150,Williams,L. Williams,91,7,9,Made,1,52,37,89,h,Williams 9' Running Bank Shot (9 PTS) (Iverson 3 AST),Made Shot,Running Bank shot,0,0
+199,227,PT02M05.00S,2,1610612764,WAS,201156,Young,N. Young,-67,137,15,Made,1,52,39,91,v,Young 15' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,0,0
+200,228,PT01M41.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,54,39,93,h,Dalembert  Layup (8 PTS) (Young 2 AST),Made Shot,Layup Shot,0,0
+201,229,PT01M27.00S,2,1610612764,WAS,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler Traveling Turnover (P1.T5),Turnover,Traveling,0,0
+202,230,PT01M27.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,SUB: McGee FOR Blatche,Substitution,,0,0
+203,231,PT01M15.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,56,39,95,h,Dalembert  Alley Oop Dunk (10 PTS) (Iverson 4 AST),Made Shot,Alley Oop Dunk Shot,0,0
+204,232,PT00M58.70S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,76ERS T.Foul (Def. 3 Sec Young ),Foul,Defense 3 Second,0,0
+205,233,PT00M58.70S,2,1610612764,WAS,2406,Butler,C. Butler,0,0,0,,0,56,40,96,v,Butler Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0
+206,235,PT00M47.90S,2,1610612764,WAS,201156,Young,N. Young,0,0,0,Made,1,56,42,98,v,Young  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,0
+207,236,PT00M34.90S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson Bad Pass Turnover (P4.T8),Turnover,Bad Pass,0,0
+208,236,PT00M34.90S,2,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee STEAL (1 STL),,,0,0
+209,237,PT00M29.30S,2,1610612764,WAS,201580,McGee,J. McGee,0,0,0,Made,1,56,44,100,v,McGee  Running Slam Dunk (4 PTS) (Arenas 6 AST),Made Shot,Running Slam Dunk Shot,0,0
+210,238,PT00M09.90S,2,1610612755,PHI,201152,Young,T. Young,-60,6,6,Missed,1,0,0,0,h,MISS Young 6' Jump Shot,Missed Shot,Jump Shot,0,0
+211,239,PT00M08.50S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+212,240,PT00M07.90S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,-35,11,4,Made,1,58,44,102,h,Dalembert 4' Jump Shot (12 PTS),Made Shot,Jump Shot,0,0
+213,241,PT00M01.00S,2,1610612764,WAS,2240,Arenas,G. Arenas,-71,266,28,Missed,1,0,0,0,v,MISS Arenas 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+214,242,PT00M00.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+215,243,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,44,102,,End of 2nd Period (8:08 PM EST),period,end,0,0
+216,245,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,44,102,,Start of 3rd Period (8:25 PM EST),period,start,0,0
+217,247,PT11M46.00S,3,1610612764,WAS,201156,Young,N. Young,-127,33,13,Missed,1,0,0,0,v,MISS Young 13' Jump Shot,Missed Shot,Jump Shot,0,0
+218,248,PT11M46.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+219,250,PT11M46.00S,3,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto P.FOUL (P2.T1),Foul,Personal,0,0
+220,249,PT11M31.00S,3,1610612755,PHI,101150,Williams,L. Williams,-231,-8,0,Made,1,61,44,105,h,Williams  3PT Jump Shot (12 PTS) (Iguodala 4 AST),Made Shot,Jump Shot,0,0
+221,251,PT11M14.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,10,45,5,Missed,1,0,0,0,v,MISS Jamison 5' Jump Shot,Missed Shot,Jump Shot,0,0
+222,252,PT11M13.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:3 Def:8),Rebound,Unknown,0,0
+223,253,PT11M05.00S,3,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,v,Young Violation:Kicked Ball,Violation,Kicked Ball,0,0
+224,255,PT10M56.00S,3,1610612755,PHI,947,Iverson,A. Iverson,-155,0,16,Missed,1,0,0,0,h,MISS Iverson 16' Jump Shot,Missed Shot,Jump Shot,0,0
+225,256,PT10M54.00S,3,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+226,257,PT10M44.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,-71,184,20,Made,1,61,46,107,v,Arenas 20' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+227,258,PT10M30.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,63,46,109,h,Iguodala  Layup (10 PTS),Made Shot,Layup Shot,0,0
+228,259,PT10M30.00S,3,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto S.FOUL (P3.T2),Foul,Shooting,0,0
+229,260,PT10M30.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,64,46,110,h,Iguodala Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0
+230,262,PT10M18.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,Young P.FOUL (P3.T1),Foul,Personal,0,0
+231,263,PT10M04.00S,3,1610612764,WAS,201156,Young,N. Young,-92,47,10,Made,1,64,48,112,v,Young 10' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,0,0
+232,264,PT09M44.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,Missed,1,0,0,0,h,MISS Young  Layup,Missed Shot,Layup Shot,0,0
+233,265,PT09M43.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+234,266,PT09M36.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,-73,244,25,Missed,1,0,0,0,v,MISS Arenas 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+235,267,PT09M34.00S,3,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+236,268,PT09M30.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas S.FOUL (P1.T3),Foul,Shooting,0,0
+237,269,PT09M30.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Short (Reg.2 Short 2),Timeout,Short,0,0
+238,270,PT09M30.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+239,271,PT09M30.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+240,272,PT09M30.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,65,48,113,h,Young Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+241,274,PT09M16.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,-4,48,5,Missed,1,0,0,0,v,MISS Jamison 5' Jump Shot,Missed Shot,Jump Shot,0,0
+242,275,PT09M14.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:3 Def:9),Rebound,Unknown,0,0
+243,276,PT09M11.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison S.FOUL (P2.T4),Foul,Shooting,0,0
+244,277,PT09M11.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,66,48,114,h,Young Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+245,279,PT09M11.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,MISS Young Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+246,281,PT09M10.00S,3,1610612764,WAS,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+247,282,PT08M58.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Missed,1,0,0,0,v,MISS Jamison  Layup,Missed Shot,Layup Shot,0,0
+248,283,PT08M57.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+249,284,PT08M49.00S,3,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,Williams Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0
+250,284,PT08M49.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison STEAL (1 STL),,,0,0
+251,285,PT08M40.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,Missed,1,0,0,0,v,MISS Arenas  Layup,Missed Shot,Layup Shot,0,0
+252,287,PT08M38.00S,3,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+253,286,PT08M38.00S,3,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,Missed,1,0,0,0,v,MISS Oberto  Layup,Missed Shot,Layup Shot,0,0
+254,288,PT08M37.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:3 Def:10),Rebound,Unknown,0,0
+255,289,PT08M29.00S,3,1610612755,PHI,101150,Williams,L. Williams,-205,157,26,Missed,1,0,0,0,h,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+256,290,PT08M27.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+257,291,PT08M18.00S,3,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+258,292,PT07M53.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0
+259,293,PT07M40.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,54,-14,6,Made,1,66,50,116,v,Jamison 6' Floating Jump Shot (10 PTS) (Butler 1 AST),Made Shot,Floating Jump shot,0,0
+260,294,PT07M40.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+261,297,PT07M40.00S,3,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,SUB: Blatche FOR Oberto,Substitution,,0,0
+262,298,PT07M40.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,SUB: Brand FOR Young,Substitution,,0,0
+263,299,PT07M24.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Missed,1,0,0,0,h,MISS Dalembert  Layup,Missed Shot,Layup Shot,0,0
+264,300,PT07M23.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+265,303,PT07M15.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+266,301,PT07M15.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,-23,23,3,Made,1,66,52,118,v,Arenas 3' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,0,0
+267,304,PT06M51.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,68,52,120,h,Dalembert  Layup (14 PTS) (Iguodala 5 AST),Made Shot,Layup Shot,0,0
+268,305,PT06M41.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Made,1,68,54,122,v,Jamison  Driving Layup (12 PTS) (Arenas 7 AST),Made Shot,Driving Layup Shot,0,0
+269,306,PT06M25.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche S.FOUL (P3.PN),Foul,Shooting,0,0
+270,307,PT06M25.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,SUB: Holiday FOR Dalembert,Substitution,,0,0
+271,308,PT06M25.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,SUB: Green FOR Iverson,Substitution,,0,0
+272,309,PT06M25.00S,3,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,SUB: Smith FOR Williams,Substitution,,0,0
+273,310,PT06M25.00S,3,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,MISS Brand Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+274,311,PT06M25.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+275,312,PT06M25.00S,3,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,MISS Brand Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+276,314,PT06M24.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+277,315,PT06M13.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0
+278,315,PT06M13.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala STEAL (2 STL),,,0,0
+279,316,PT06M09.00S,3,1610612755,PHI,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday Poss Lost Ball Turnover (P1.T11),Turnover,Poss Lost Ball Turnover,0,0
+280,317,PT06M00.00S,3,1610612755,PHI,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday S.FOUL (P2.T2),Foul,Shooting,0,0
+281,318,PT06M00.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,68,55,123,v,Arenas Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+282,320,PT06M00.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,68,56,124,v,Arenas Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+283,322,PT05M42.00S,3,1610612755,PHI,1882,Brand,E. Brand,-130,37,14,Made,1,70,56,126,h,Brand 14' Fadeaway Jumper (6 PTS) (Smith 1 AST),Made Shot,Fadeaway Jump Shot,0,0
+284,323,PT05M31.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0
+285,323,PT05M31.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala STEAL (3 STL),,,0,0
+286,324,PT05M26.00S,3,1610612755,PHI,2584,Green,W. Green,0,0,0,Missed,1,0,0,0,h,MISS Green  Layup,Missed Shot,Layup Shot,0,0
+287,325,PT05M24.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+288,326,PT05M23.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,72,56,128,h,Iguodala  Layup (13 PTS),Made Shot,Layup Shot,0,0
+289,327,PT05M07.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,184,-14,18,Made,1,72,58,130,v,Jamison 18' Jump Shot (14 PTS) (Young 1 AST),Made Shot,Jump Shot,0,0
+290,328,PT04M51.00S,3,1610612755,PHI,2584,Green,W. Green,-7,201,20,Missed,1,0,0,0,h,MISS Green 20' Jump Shot,Missed Shot,Jump Shot,0,0
+291,329,PT04M49.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:9),Rebound,Unknown,0,0
+292,330,PT04M37.00S,3,1610612764,WAS,201156,Young,N. Young,108,-16,11,Made,1,72,60,132,v,Young 11' Pullup Jump Shot (13 PTS) (Butler 2 AST),Made Shot,Pullup Jump shot,0,0
+293,331,PT04M36.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Short (Full 3 Short 1),Timeout,Short,0,0
+294,332,PT04M36.00S,3,1610612764,WAS,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,SUB: Stevenson FOR Butler,Substitution,,0,0
+295,333,PT04M14.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,-10,250,25,Missed,1,0,0,0,h,MISS Iguodala 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+296,334,PT04M12.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+297,335,PT04M02.00S,3,1610612755,PHI,201160,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith S.FOUL (P1.T3),Foul,Shooting,0,0
+298,336,PT04M02.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,72,61,133,v,Jamison Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+299,338,PT04M02.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,SUB: Kapono FOR Iguodala,Substitution,,0,0
+300,339,PT04M02.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,72,62,134,v,Jamison Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+301,341,PT03M39.00S,3,1610612755,PHI,2584,Green,W. Green,-171,80,19,Missed,1,0,0,0,h,MISS Green 19' Jump Shot,Missed Shot,Jump Shot,0,0
+302,342,PT03M37.00S,3,1610612755,PHI,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+303,343,PT03M22.00S,3,1610612755,PHI,201950,Holiday,J. Holiday,-48,41,6,Missed,1,0,0,0,h,MISS Holiday 6' Jump Shot,Missed Shot,Jump Shot,0,0
+304,344,PT03M20.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:0 Def:10),Rebound,Unknown,0,0
+305,345,PT03M14.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,Made,1,72,64,136,v,Blatche  Layup (8 PTS) (Arenas 8 AST),Made Shot,Layup Shot,0,0
+306,346,PT02M54.00S,3,1610612755,PHI,201950,Holiday,J. Holiday,-127,89,16,Missed,1,0,0,0,h,MISS Holiday 16' Jump Shot,Missed Shot,Jump Shot,0,0
+307,347,PT02M52.00S,3,1610612764,WAS,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,v,Stevenson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+308,348,PT02M42.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Made,1,72,66,138,v,Jamison  Driving Layup (18 PTS) (Arenas 9 AST),Made Shot,Driving Layup Shot,0,0
+309,349,PT02M42.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+310,352,PT02M42.00S,3,1610612755,PHI,201160,Smith,J. Smith,0,0,0,,0,0,0,0,h,SUB: Speights FOR Smith,Substitution,,0,0
+311,353,PT02M22.00S,3,1610612755,PHI,2574,Kapono,J. Kapono,-166,209,27,Missed,1,0,0,0,h,MISS Kapono 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+312,354,PT02M20.00S,3,1610612764,WAS,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,v,Stevenson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+313,355,PT02M12.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,9,66,7,Missed,1,0,0,0,v,MISS Jamison 7' Jump Shot,Missed Shot,Jump Shot,0,0
+314,355,PT02M12.00S,3,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand BLOCK (1 BLK),,,0,0
+315,356,PT02M11.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:1 Def:10),Rebound,Unknown,0,0
+316,357,PT02M11.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,-7,33,3,Made,1,72,68,140,v,Jamison 3' Jump Shot (20 PTS),Made Shot,Jump Shot,0,0
+317,358,PT02M11.00S,3,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,0,0,0,h,Green S.FOUL (P1.T4),Foul,Shooting,0,0
+318,359,PT02M11.00S,3,1610612755,PHI,201950,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,SUB: Iverson FOR Holiday,Substitution,,0,0
+319,360,PT02M11.00S,3,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,0,0,0,h,SUB: Iguodala FOR Green,Substitution,,0,0
+320,361,PT02M11.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,72,69,141,v,Jamison Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,0
+321,363,PT01M55.00S,3,1610612755,PHI,947,Iverson,A. Iverson,-138,89,16,Made,1,74,69,143,h,Iverson 16' Jump Shot (4 PTS) (Iguodala 6 AST),Made Shot,Jump Shot,0,0
+322,364,PT01M44.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+323,364,PT01M44.00S,3,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand STEAL (1 STL),,,0,0
+324,365,PT01M41.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas S.FOUL (P2.PN),Foul,Shooting,0,0
+325,367,PT01M41.00S,3,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison T.FOUL (P2.PN),Foul,Technical,0,0
+326,368,PT01M41.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,75,69,144,h,Iguodala Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,0,0
+327,370,PT01M41.00S,3,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,MISS Brand Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+328,371,PT01M41.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+329,372,PT01M41.00S,3,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,76,69,145,h,Brand Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+330,374,PT01M32.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,1,82,8,Made,1,76,71,147,v,Arenas 8' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,0,0
+331,375,PT01M16.00S,3,1610612755,PHI,201578,Speights,M. Speights,80,-8,8,Missed,1,0,0,0,h,MISS Speights 8' Jump Shot,Missed Shot,Jump Shot,0,0
+332,375,PT01M16.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche BLOCK (1 BLK),,,0,0
+333,376,PT01M14.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+334,377,PT01M07.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,-187,-24,19,Missed,1,0,0,0,v,MISS Blatche 19' Jump Shot,Missed Shot,Jump Shot,0,0
+335,378,PT01M06.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+336,379,PT01M02.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0
+337,379,PT01M02.00S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas STEAL (1 STL),,,0,0
+338,380,PT00M58.10S,3,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand S.FOUL (P3.PN),Foul,Shooting,0,0
+339,381,PT00M58.10S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,76,72,148,v,Arenas Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+340,383,PT00M58.10S,3,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,76,73,149,v,Arenas Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+341,385,PT00M41.90S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,151,-25,15,Made,1,78,73,151,h,Iguodala 15' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,0,0
+342,386,PT00M32.90S,3,1610612764,WAS,2240,Arenas,G. Arenas,-185,-17,19,Made,1,78,75,153,v,Arenas 19' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,0,0
+343,387,PT00M08.60S,3,1610612755,PHI,2574,Kapono,J. Kapono,166,3,17,Missed,1,0,0,0,h,MISS Kapono 17' Jump Shot,Missed Shot,Jump Shot,0,0
+344,388,PT00M08.60S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+345,389,PT00M08.60S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0
+346,390,PT00M06.90S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0
+347,390,PT00M06.90S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala STEAL (4 STL),,,0,0
+348,391,PT00M05.70S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,80,75,155,h,Iguodala  Slam Dunk (18 PTS),Made Shot,Slam Dunk Shot,0,0
+349,392,PT00M00.90S,3,1610612764,WAS,1712,Jamison,A. Jamison,-240,-25,24,Made,1,80,78,158,v,Jamison 24' 3PT Jump Shot (24 PTS) (Blatche 2 AST),Made Shot,Jump Shot,0,0
+350,393,PT00M00.70S,3,1610612755,PHI,201578,Speights,M. Speights,45,515,52,Missed,1,0,0,0,h,MISS Speights 52' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+351,394,PT00M00.10S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+352,395,PT00M00.00S,3,0,,0,,,0,0,0,,0,80,78,158,,End of 3rd Period (8:54 PM EST),period,end,0,0
+353,398,PT12M00.00S,4,0,,0,,,0,0,0,,0,80,78,158,,Start of 4th Period (8:56 PM EST),period,start,0,0
+354,399,PT11M44.00S,4,1610612755,PHI,947,Iverson,A. Iverson,4,201,20,Missed,1,0,0,0,h,MISS Iverson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+355,400,PT11M42.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:4 Def:10),Rebound,Unknown,0,0
+356,401,PT11M40.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,-23,15,3,Missed,1,0,0,0,h,MISS Dalembert 3' Jump Shot,Missed Shot,Jump Shot,0,0
+357,402,PT11M38.00S,4,1610612764,WAS,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,v,Stevenson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+358,403,PT11M21.00S,4,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,Made,1,80,80,160,v,Oberto  Reverse Layup (2 PTS) (Blatche 3 AST),Made Shot,Reverse Layup Shot,0,0
+359,404,PT11M06.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas S.FOUL (P3.T1),Foul,Shooting,0,0
+360,405,PT11M06.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,81,80,161,h,Dalembert Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+361,407,PT11M06.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,82,80,162,h,Dalembert Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+362,409,PT10M47.00S,4,1610612764,WAS,201156,Young,N. Young,73,60,9,Missed,1,0,0,0,v,MISS Young 9' Jump Shot,Missed Shot,Jump Shot,0,0
+363,410,PT10M45.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+364,411,PT10M33.00S,4,1610612755,PHI,1882,Brand,E. Brand,97,99,14,Missed,1,0,0,0,h,MISS Brand 14' Jump Shot,Missed Shot,Jump Shot,0,0
+365,412,PT10M30.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+366,413,PT10M21.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche Traveling Turnover (P4.T11),Turnover,Traveling,0,0
+367,414,PT10M21.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,v,SUB: Foye FOR Young,Substitution,,0,0
+368,415,PT10M05.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Missed,1,0,0,0,h,MISS Dalembert  Dunk,Missed Shot,Dunk Shot,0,0
+369,415,PT10M05.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche BLOCK (2 BLK),,,0,0
+370,416,PT10M04.00S,4,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,Oberto REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+371,417,PT09M55.00S,4,1610612755,PHI,2574,Kapono,J. Kapono,0,0,0,,0,0,0,0,h,Kapono P.FOUL (P1.T1),Foul,Personal,0,0
+372,418,PT09M55.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,SUB: Butler FOR Arenas,Substitution,,0,0
+373,419,PT09M49.00S,4,1610612764,WAS,2052,Stevenson,D. Stevenson,233,0,0,Missed,1,0,0,0,v,MISS Stevenson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+374,420,PT09M46.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:4 Def:11),Rebound,Unknown,0,0
+375,421,PT09M34.00S,4,1610612755,PHI,1882,Brand,E. Brand,-130,-13,13,Made,1,84,80,164,h,Brand 13' Jump Shot (9 PTS) (Iguodala 7 AST),Made Shot,Jump Shot,0,0
+376,422,PT09M13.00S,4,1610612755,PHI,2574,Kapono,J. Kapono,0,0,0,,0,0,0,0,h,SUB: Young FOR Kapono,Substitution,,0,0
+377,423,PT09M09.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,157,11,16,Made,1,84,82,166,v,Blatche 16' Fadeaway Jumper (10 PTS) (Butler 3 AST),Made Shot,Fadeaway Jump Shot,0,0
+378,424,PT08M51.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,166,4,17,Missed,1,0,0,0,h,MISS Iguodala 17' Jump Shot,Missed Shot,Jump Shot,0,0
+379,425,PT08M49.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+380,426,PT08M49.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+381,428,PT08M49.00S,4,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,SUB: Williams FOR Brand,Substitution,,0,0
+382,429,PT08M31.00S,4,1610612764,WAS,2406,Butler,C. Butler,122,-24,12,Missed,1,0,0,0,v,MISS Butler 12' Jump Shot,Missed Shot,Jump Shot,0,0
+383,430,PT08M30.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:4 Def:12),Rebound,Unknown,0,0
+384,431,PT08M24.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson Palming Turnover (P5.T14),Turnover,Palming Turnover,0,0
+385,432,PT08M14.00S,4,1610612764,WAS,200751,Foye,R. Foye,56,159,17,Made,1,84,84,168,v,Foye 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+386,433,PT07M49.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Jump Ball Dalembert vs. Butler: Tip to Foye,Jump Ball,,0,0
+387,435,PT07M49.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0
+388,435,PT07M49.00S,4,1610612764,WAS,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler STEAL (2 STL),,,0,0
+389,434,PT07M49.00S,4,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,v,SUB: Jamison FOR Oberto,Substitution,,0,0
+390,436,PT07M44.00S,4,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,Foye OFF.Foul (P3),Foul,Offensive,0,0
+391,437,PT07M44.00S,4,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,Foye Foul Turnover (P1.T12),Turnover,Foul,0,0
+392,438,PT07M34.00S,4,1610612755,PHI,101150,Williams,L. Williams,-196,-33,20,Made,1,86,84,170,h,Williams 20' Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+393,440,PT07M17.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Made,1,86,86,172,v,Jamison  Layup (26 PTS) (Butler 4 AST),Made Shot,Layup Shot,0,0
+394,441,PT06M56.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,-163,12,16,Missed,1,0,0,0,h,MISS Dalembert 16' Jump Shot,Missed Shot,Jump Shot,0,0
+395,442,PT06M55.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,h,Iguodala REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+396,443,PT06M53.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,88,86,174,h,Iguodala  Slam Dunk (20 PTS),Made Shot,Slam Dunk Shot,0,0
+397,444,PT06M40.00S,4,1610612764,WAS,200751,Foye,R. Foye,0,225,23,Missed,1,0,0,0,v,MISS Foye 23' Jump Shot,Missed Shot,Jump Shot,0,0
+398,445,PT06M38.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:4 Def:13),Rebound,Unknown,0,0
+399,446,PT06M25.00S,4,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,Foye P.FOUL (P4.T2),Foul,Personal,0,0
+400,447,PT06M25.00S,4,1610612764,WAS,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,v,SUB: Young FOR Stevenson,Substitution,,0,0
+401,448,PT06M18.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,Young OFF.Foul (P4),Foul,Offensive,0,0
+402,449,PT06M18.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,0,0,0,h,Young Foul Turnover (P1.T16),Turnover,Foul,0,0
+403,450,PT06M02.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,-168,20,17,Missed,1,0,0,0,v,MISS Jamison 17' Jump Shot,Missed Shot,Jump Shot,0,0
+404,451,PT06M00.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:4 Def:14),Rebound,Unknown,0,0
+405,452,PT05M52.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,90,86,176,h,Dalembert  Running Slam Dunk (18 PTS) (Iverson 5 AST),Made Shot,Running Slam Dunk Shot,0,0
+406,453,PT05M52.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.3 Short 2),Timeout,Regular,0,0
+407,455,PT05M52.00S,4,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,SUB: Arenas FOR Foye,Substitution,,0,0
+408,456,PT05M39.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0
+409,456,PT05M39.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert STEAL (1 STL),,,0,0
+410,457,PT05M18.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson Bad Pass Turnover (P6.T17),Turnover,Bad Pass,0,0
+411,457,PT05M18.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,v,Young STEAL (1 STL),,,0,0
+412,458,PT05M08.00S,4,1610612764,WAS,201156,Young,N. Young,-131,214,25,Made,1,90,89,179,v,Young 25' 3PT Jump Shot (16 PTS) (Arenas 10 AST),Made Shot,Jump Shot,0,0
+413,459,PT04M49.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,Williams Bad Pass Turnover (P4.T18),Turnover,Bad Pass,0,0
+414,459,PT04M49.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas STEAL (2 STL),,,0,0
+415,460,PT04M46.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,Made,1,90,91,181,v,Young  Layup (18 PTS) (Arenas 11 AST),Made Shot,Layup Shot,0,0
+416,461,PT04M46.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson S.FOUL (P2.T2),Foul,Shooting,0,0
+417,462,PT04M46.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,90,92,182,v,Young Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0
+418,464,PT04M27.00S,4,1610612755,PHI,201152,Young,T. Young,0,0,0,Missed,1,0,0,0,h,MISS Young  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+419,465,PT04M26.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+420,466,PT04M12.00S,4,1610612764,WAS,201156,Young,N. Young,-97,105,14,Made,1,90,94,184,v,Young 14' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,0,0
+421,467,PT03M57.00S,4,1610612764,WAS,2240,Arenas,G. Arenas,0,0,0,,0,0,0,0,v,Arenas P.FOUL (P4.T3),Foul,Personal,0,0
+422,468,PT03M46.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,159,184,24,Missed,1,0,0,0,h,MISS Iguodala 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+423,469,PT03M44.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:1 Def:11),Rebound,Unknown,0,0
+424,470,PT03M27.00S,4,1610612764,WAS,201156,Young,N. Young,72,85,11,Missed,1,0,0,0,v,MISS Young 11' Jump Shot,Missed Shot,Jump Shot,0,0
+425,471,PT03M26.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:4 Def:15),Rebound,Unknown,0,0
+426,472,PT03M22.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,Iverson Bad Pass Turnover (P7.T19),Turnover,Bad Pass,0,0
+427,473,PT03M07.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,1,208,21,Made,1,90,96,186,v,Jamison 21' Jump Shot (28 PTS) (Arenas 12 AST),Made Shot,Jump Shot,0,0
+428,474,PT03M06.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+429,476,PT02M59.00S,4,1610612755,PHI,101150,Williams,L. Williams,40,48,6,Made,1,92,96,188,h,Williams 6' Running Bank Shot (16 PTS),Made Shot,Running Bank shot,0,0
+430,477,PT02M34.00S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Made,1,92,98,190,v,Jamison  Layup (30 PTS) (Arenas 13 AST),Made Shot,Layup Shot,0,0
+431,478,PT02M19.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,Williams Lost Ball Turnover (P5.T20),Turnover,Lost Ball,0,0
+432,478,PT02M19.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche STEAL (1 STL),,,0,0
+433,479,PT02M00.00S,4,1610612764,WAS,2406,Butler,C. Butler,110,126,17,Made,1,92,100,192,v,Butler 17' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,0,0
+434,480,PT01M47.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Missed,1,0,0,0,h,MISS Iverson  Layup,Missed Shot,Layup Shot,0,0
+435,481,PT01M46.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,h,Dalembert REBOUND (Off:5 Def:15),Rebound,Unknown,0,0
+436,482,PT01M45.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche S.FOUL (P4.T4),Foul,Shooting,0,0
+437,483,PT01M45.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,93,100,193,h,Dalembert Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0
+438,485,PT01M45.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0,0,0,h,SUB: Green FOR Iverson,Substitution,,0,0
+439,486,PT01M45.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,94,100,194,h,Dalembert Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0
+440,488,PT01M37.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,0
+441,490,PT01M26.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,Made,1,94,102,196,v,Blatche  Layup (12 PTS) (Arenas 14 AST),Made Shot,Layup Shot,0,0
+442,491,PT01M18.00S,4,1610612755,PHI,101150,Williams,L. Williams,-172,184,25,Missed,1,0,0,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+443,492,PT01M17.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,v,Young REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+444,494,PT00M57.90S,4,1610612764,WAS,2240,Arenas,G. Arenas,21,274,27,Missed,1,0,0,0,v,MISS Arenas 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+445,495,PT00M56.50S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:2 Def:11),Rebound,Unknown,0,0
+446,496,PT00M56.30S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,Made,1,94,104,198,v,Jamison  Layup (32 PTS),Made Shot,Layup Shot,0,0
+447,497,PT00M45.90S,4,1610612755,PHI,2584,Green,W. Green,-158,64,17,Missed,1,0,0,0,h,MISS Green 17' Jump Shot,Missed Shot,Jump Shot,0,0
+448,498,PT00M43.80S,4,1610612764,WAS,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,v,Jamison REBOUND (Off:2 Def:12),Rebound,Unknown,0,0
+449,499,PT00M22.90S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,v,Blatche Bad Pass Turnover (P5.T14),Turnover,Bad Pass,0,0
+450,499,PT00M22.90S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,h,Williams STEAL (1 STL),,,0,0
+451,500,PT00M16.90S,4,1610612755,PHI,101150,Williams,L. Williams,173,175,25,Made,1,97,104,201,h,Williams 25' 3PT Jump Shot (19 PTS) (Iguodala 8 AST),Made Shot,Jump Shot,0,0
+452,502,PT00M00.00S,4,0,,0,,,0,0,0,,0,97,104,201,,End of 4th Period (9:24 PM EST),period,end,0,0

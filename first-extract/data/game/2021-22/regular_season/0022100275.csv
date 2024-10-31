@@ -1,0 +1,535 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Jump Ball Valanciunas vs. Gafford: Tip to Hart,Jump Ball,,1,0
+3,7,PT11M44.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,23,256,26,Made,1,3,0,3,h,Valanciunas 26' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,1,0
+4,9,PT11M24.00S,1,1610612764,WAS,203078,Beal,B. Beal,20,-2,2,Made,1,3,2,5,v,Beal 2' Driving Finger Roll Layup (2 PTS) (Gafford 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+5,11,PT11M17.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0
+6,13,PT11M17.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,4,2,6,h,Valanciunas Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0
+7,14,PT11M17.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,5,2,7,h,Valanciunas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0
+8,15,PT10M54.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,127,135,19,Missed,1,,,0,v,MISS Gafford 19' Jump Shot,Missed Shot,Jump Shot,1,0
+9,16,PT10M52.00S,1,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+10,17,PT10M44.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,17,4,2,Missed,1,,,0,h,MISS Valanciunas 2' Layup,Missed Shot,Layup Shot,1,0
+11,17,PT10M44.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford BLOCK (1 BLK),,,1,0
+12,19,PT10M42.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+13,20,PT10M39.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+14,20,PT10M39.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,1,0
+15,22,PT10M33.00S,1,1610612740,NOP,1630529,Jones,H. Jones,11,8,1,Made,1,7,2,9,h,Jones 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,0
+16,23,PT10M21.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-185,152,24,Missed,1,,,0,v,MISS Kuzma 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+17,24,PT10M17.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+18,25,PT10M04.00S,1,1610612740,NOP,1628984,Graham,D. Graham,-4,20,2,Made,1,9,2,11,h,Graham 2' Cutting Finger Roll Layup Shot (2 PTS) (Valanciunas 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,0
+19,27,PT09M53.00S,1,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,-200,146,25,Made,1,9,5,14,v,Caldwell-Pope 25' 3PT Jump Shot (3 PTS) (Dinwiddie 1 AST),Made Shot,Jump Shot,1,0
+20,29,PT09M31.00S,1,1610612740,NOP,1628984,Graham,D. Graham,-18,16,2,Missed,1,,,0,h,MISS Graham 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+21,30,PT09M25.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+22,31,PT09M25.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,Made,1,11,5,16,h,Valanciunas Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,0
+23,32,PT09M15.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,16,0,2,Missed,1,,,0,v,MISS Gafford 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+24,33,PT09M13.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+25,34,PT09M11.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal S.FOUL (P2.T2) (C.Flores),Foul,Shooting,1,0
+26,36,PT09M11.00S,1,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,12,5,17,h,Hart Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+27,37,PT09M11.00S,1,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,13,5,18,h,Hart Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+28,38,PT09M01.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,-34,162,17,Missed,1,,,0,v,MISS Dinwiddie 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+29,39,PT08M58.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+30,40,PT08M48.00S,1,1610612740,NOP,1628984,Graham,D. Graham,21,12,2,Made,1,15,5,20,h,Graham 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+31,41,PT08M38.00S,1,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+32,41,PT08M38.00S,1,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart STEAL (1 STL),,,1,0
+33,43,PT08M34.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie S.FOUL (P1.T3) (E.Lewis),Foul,Shooting,1,0
+34,45,PT08M34.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,16,5,21,h,Ingram Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+35,46,PT08M34.00S,1,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,SUB: Lewis Jr. FOR Graham,Substitution,,0,0
+36,48,PT08M34.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,17,5,22,h,Ingram Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+37,49,PT08M17.00S,1,1610612764,WAS,203078,Beal,B. Beal,153,201,25,Missed,1,,,0,v,MISS Beal 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+38,50,PT08M14.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+39,51,PT08M02.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,-4,65,7,Made,1,19,5,24,h,Valanciunas 7' Hook Shot (9 PTS),Made Shot,Hook Shot,1,0
+40,52,PT08M02.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+41,53,PT08M02.00S,1,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,0,0,0,,0,,,0,h,SUB: Graham FOR Lewis Jr.,Substitution,,0,0
+42,56,PT07M42.00S,1,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0
+43,58,PT07M42.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,MISS Dinwiddie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+44,59,PT07M42.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+45,60,PT07M42.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,19,6,25,v,Dinwiddie Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0
+46,61,PT07M22.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford S.FOUL (P1.T4) (E.Lewis),Foul,Shooting,1,0
+47,63,PT07M22.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,20,6,26,h,Valanciunas Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+48,64,PT07M22.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,21,6,27,h,Valanciunas Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+49,65,PT07M05.00S,1,1610612764,WAS,203078,Beal,B. Beal,-224,127,26,Missed,1,,,0,v,MISS Beal 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+50,66,PT06M58.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+51,67,PT06M54.00S,1,1610612740,NOP,1628984,Graham,D. Graham,-120,136,18,Missed,1,,,0,h,MISS Graham 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+52,68,PT06M52.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+53,69,PT06M48.00S,1,1610612740,NOP,1630529,Jones,H. Jones,167,152,23,Missed,1,,,0,h,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,1,0
+54,70,PT06M46.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+55,71,PT06M39.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,1,0
+56,73,PT06M39.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,21,7,28,v,Dinwiddie Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0
+57,74,PT06M39.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,SUB: Harrell FOR Gafford,Substitution,,0,0
+58,76,PT06M39.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,21,8,29,v,Dinwiddie Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0
+59,77,PT06M27.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,116,10,12,Made,1,23,8,31,h,Ingram 12' Turnaround Jump Shot (4 PTS) (Hart 1 AST),Made Shot,Turnaround Jump Shot,1,0
+60,79,PT06M13.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,1,0
+61,81,PT06M13.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,MISS Beal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+62,82,PT06M13.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+63,83,PT06M13.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Neto FOR Dinwiddie,Substitution,,0,0
+64,85,PT06M13.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,23,9,32,v,Beal Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0
+65,86,PT06M01.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,172,17,Made,1,25,9,34,h,Ingram 17' Turnaround Jump Shot (6 PTS) (Hart 2 AST),Made Shot,Turnaround Jump Shot,1,0
+66,88,PT05M43.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+67,88,PT05M43.00S,1,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart STEAL (2 STL),,,1,0
+68,90,PT05M36.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,18,256,26,Missed,1,,,0,h,MISS Valanciunas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+69,91,PT05M33.00S,1,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+70,92,PT05M22.00S,1,1610612764,WAS,203078,Beal,B. Beal,36,53,6,Made,1,25,11,36,v,Beal 6' Pullup Jump Shot (5 PTS) (Kuzma 1 AST),Made Shot,Pullup Jump shot,1,0
+71,94,PT05M13.00S,1,1610612740,NOP,1628984,Graham,D. Graham,-186,179,26,Missed,1,,,0,h,MISS Graham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+72,95,PT05M10.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+73,96,PT05M06.00S,1,1610612764,WAS,203078,Beal,B. Beal,-125,215,25,Missed,1,,,0,v,MISS Beal 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+74,97,PT05M02.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+75,98,PT04M55.00S,1,1610612740,NOP,1628404,Hart,J. Hart,-15,1,2,Made,1,27,11,38,h,Hart 2' Reverse Layup (4 PTS) (Graham 1 AST),Made Shot,Reverse Layup Shot,1,0
+76,140,PT04M47.00S,1,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+77,140,PT04M47.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones STEAL (2 STL),,,1,0
+78,142,PT04M45.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+79,142,PT04M45.00S,1,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell STEAL (1 STL),,,1,0
+80,100,PT04M33.00S,1,1610612764,WAS,203526,Neto,R. Neto,-7,126,13,Made,1,27,13,40,v,Neto 13' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,0
+81,101,PT04M27.00S,1,1610612740,NOP,1628984,Graham,D. Graham,-109,242,27,Missed,1,,,0,h,MISS Graham 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+82,102,PT04M25.00S,1,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+83,103,PT04M14.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram S.FOUL (P2.T4) (C.Flores),Foul,Shooting,1,0
+84,105,PT04M14.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,27,14,41,v,Kuzma Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+85,106,PT04M14.00S,1,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,SUB: Lewis Jr. FOR Hart,Substitution,,0,0
+86,107,PT04M14.00S,1,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,SUB: Temple FOR Graham,Substitution,,0,0
+87,108,PT04M14.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Alexander-Walker FOR Ingram,Substitution,,0,0
+88,109,PT04M14.00S,1,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,SUB: Avdija FOR Caldwell-Pope,Substitution,,0,0
+89,114,PT04M14.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,27,15,42,v,Kuzma Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+90,115,PT03M58.00S,1,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,197,31,20,Missed,1,,,0,h,MISS Lewis Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+91,116,PT03M54.00S,1,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+92,117,PT03M48.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,23,3,2,Made,1,27,17,44,v,Kuzma 2' Driving Layup (4 PTS) (Neto 1 AST),Made Shot,Driving Layup Shot,1,0
+93,118,PT03M30.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,11,256,26,Missed,1,,,0,h,MISS Valanciunas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+94,119,PT03M29.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0
+95,121,PT03M29.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,SUB: Bertans FOR Beal,Substitution,,0,0
+96,123,PT03M21.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,165,116,20,Missed,1,,,0,h,MISS Valanciunas 20' Jump Shot,Missed Shot,Jump Shot,1,0
+97,124,PT03M18.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+98,125,PT03M09.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-13,22,3,Made,1,29,17,46,h,Jones 3' Driving Layup (4 PTS) (Alexander-Walker 1 AST),Made Shot,Driving Layup Shot,1,0
+99,127,PT02M53.00S,1,1610612764,WAS,202722,Bertans,D. Bertans,-173,215,28,Missed,1,,,0,v,MISS Bertans 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+100,128,PT02M50.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+101,129,PT02M42.00S,1,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,18,15,2,Missed,1,,,0,h,MISS Alexander-Walker 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+102,130,PT02M40.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+103,131,PT02M35.00S,1,1610612764,WAS,1626149,Harrell,M. Harrell,-9,-4,1,Made,1,29,19,48,v,Harrell 1' Dunk (2 PTS) (Kuzma 2 AST),Made Shot,Dunk Shot,1,0
+104,133,PT02M11.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,31,121,12,Missed,1,,,0,h,MISS Valanciunas 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+105,134,PT02M09.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+106,135,PT02M00.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+107,135,PT02M00.00S,1,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,0,0,0,,0,,,0,h,Lewis Jr. STEAL (1 STL),,,1,0
+108,137,PT01M59.00S,1,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell S.FOUL (P1.PN) (C.Flores),Foul,Shooting,1,0
+109,139,PT01M59.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+110,144,PT01M59.00S,1,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,SUB: Hernangomez FOR Valanciunas,Substitution,,0,0
+111,145,PT01M59.00S,1,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Neto,Substitution,,0,0
+112,146,PT01M59.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,SUB: Holiday FOR Kuzma,Substitution,,0,0
+113,150,PT01M59.00S,1,1610612740,NOP,202066,Temple,G. Temple,0,0,0,,0,,,0,h,MISS Temple Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+114,151,PT01M59.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,0,0
+115,153,PT01M59.00S,1,1610612740,NOP,202066,Temple,G. Temple,0,0,0,,0,30,19,49,h,Temple Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0
+116,154,PT01M41.00S,1,1610612764,WAS,202722,Bertans,D. Bertans,161,205,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+117,155,PT01M38.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+118,156,PT01M24.00S,1,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,-62,12,6,Missed,1,,,0,h,MISS Hernangomez 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+119,157,PT01M22.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,v,Avdija REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+120,158,PT01M17.00S,1,1610612764,WAS,1626149,Harrell,M. Harrell,11,-5,1,Missed,1,,,0,v,MISS Harrell 1' Layup,Missed Shot,Layup Shot,1,0
+121,159,PT01M17.00S,1,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+122,161,PT01M15.00S,1,1610612764,WAS,202722,Bertans,D. Bertans,228,4,0,Made,1,30,22,52,v,Bertans 3PT Jump Shot (3 PTS) (Holiday 1 AST),Made Shot,Jump Shot,1,0
+123,163,PT01M04.00S,1,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,120,-3,12,Made,1,32,22,54,h,Alexander-Walker 12' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,0
+124,164,PT01M01.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P1.PN) (E.Lewis),Foul,Personal,1,0
+125,166,PT01M01.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,32,23,55,v,Dinwiddie Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0
+126,167,PT01M01.00S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,32,24,56,v,Dinwiddie Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0
+127,168,PT00M44.60S,1,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,-12,2,1,Made,1,34,24,58,h,Alexander-Walker 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+128,169,PT00M34.40S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,-94,93,13,Missed,1,,,0,v,MISS Dinwiddie 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+129,170,PT00M30.50S,1,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+130,171,PT00M22.30S,1,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,-17,12,2,Made,1,36,24,60,h,Lewis Jr. 2' Cutting Layup Shot (2 PTS) (Alexander-Walker 2 AST),Made Shot,Cutting Layup Shot,1,0
+131,173,PT00M03.40S,1,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,186,203,28,Made,1,36,27,63,v,Dinwiddie 28' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,0
+132,174,PT00M00.20S,1,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,199,535,57,Missed,1,,,0,h,MISS Lewis Jr. 57' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+133,175,PT00M00.20S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0
+134,176,PT00M00.00S,1,0,,0,,,0,0,0,,0,36,27,63,,End of 1st Period (8:37 PM EST),period,end,1,0
+135,183,PT12M00.00S,2,0,,0,,,0,0,0,,0,36,27,63,,Start of 2nd Period (8:40 PM EST),period,start,0,0
+136,184,PT11M45.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,-1,-1,0,Made,1,36,29,65,v,Harrell Alley Oop Dunk (4 PTS) (Dinwiddie 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+137,186,PT11M26.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-152,81,17,Made,1,38,29,67,h,Ingram 17' Turnaround Jump Shot (8 PTS) (Satoransky 1 AST),Made Shot,Turnaround Jump Shot,1,0
+138,188,PT11M08.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,13,6,1,Missed,1,,,0,v,MISS Avdija 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+139,189,PT11M06.00S,2,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+140,190,PT10M59.00S,2,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,-100,149,18,Missed,1,,,0,h,MISS Alexander-Walker 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+141,191,PT10M57.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+142,194,PT10M49.00S,2,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky Violation:Kicked Ball (E.Lewis),Violation,Kicked Ball,0,0
+143,195,PT10M39.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,1,0
+144,197,PT10M39.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+145,198,PT10M39.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+146,199,PT10M39.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+147,200,PT10M36.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+148,201,PT10M25.00S,2,1610612740,NOP,203107,Satoransky,T. Satoransky,55,50,7,Missed,1,,,0,h,MISS Satoransky 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+149,202,PT10M22.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+150,203,PT10M14.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,-222,130,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+151,204,PT10M09.00S,2,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+152,205,PT10M04.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,-9,29,3,Made,1,40,29,69,h,Hernangomez 3' Layup (2 PTS) (Hart 3 AST),Made Shot,Layup Shot,1,0
+153,207,PT09M42.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+154,208,PT09M26.00S,2,1610612740,NOP,1628404,Hart,J. Hart,32,5,3,Missed,1,,,0,h,MISS Hart 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+155,209,PT09M25.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+156,211,PT09M21.00S,2,1610612764,WAS,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+157,211,PT09M21.00S,2,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky STEAL (1 STL),,,0,0
+158,213,PT09M20.00S,2,1610612740,NOP,1628404,Hart,J. Hart,0,2,0,Made,1,42,29,71,h,Hart Cutting Dunk Shot (6 PTS) (Satoransky 2 AST),Made Shot,Cutting Dunk Shot,1,0
+159,215,PT09M20.00S,2,1610612764,WAS,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0
+160,217,PT09M20.00S,2,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,43,29,72,h,Hart Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0
+161,218,PT09M10.00S,2,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+162,219,PT09M00.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,v,Avdija P.FOUL (P1.T2) (D.Taylor),Foul,Personal,1,0
+163,221,PT08M53.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-4,133,13,Made,1,45,29,74,h,Ingram 13' Pullup Jump Shot (10 PTS) (Hernangomez 1 AST),Made Shot,Pullup Jump shot,1,0
+164,222,PT08M32.00S,2,1610612764,WAS,1628988,Holiday,A. Holiday,-18,8,2,Missed,1,,,0,v,MISS Holiday 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+165,223,PT08M29.00S,2,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+166,224,PT08M14.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-61,256,26,Missed,1,,,0,h,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+167,225,PT08M10.00S,2,1610612764,WAS,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+168,226,PT08M04.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,185,172,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+169,227,PT08M03.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+170,271,PT08M02.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,-38,8,4,Missed,1,,,0,v,MISS Harrell 4' Layup,Missed Shot,Layup Shot,1,0
+171,272,PT08M01.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+172,228,PT08M00.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,-10,-4,1,Missed,1,,,0,v,MISS Harrell 1' Layup,Missed Shot,Layup Shot,1,0
+173,228,PT08M00.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez BLOCK (1 BLK),,,1,0
+174,230,PT07M59.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell REBOUND (Off:4 Def:1),Rebound,Unknown,1,0
+175,231,PT07M58.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,-26,20,3,Made,1,45,31,76,v,Harrell 3' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,0
+176,232,PT07M58.00S,2,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,1,0
+177,234,PT07M58.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Kuzma FOR Bertans,Substitution,,0,0
+178,245,PT07M58.00S,2,1610612764,WAS,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,v,SUB: Beal FOR Holiday,Substitution,,0,0
+179,370,PT07M58.00S,2,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Neto FOR Dinwiddie,Substitution,,0,0
+180,236,PT07M58.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,MISS Harrell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+181,237,PT07M55.00S,2,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+182,238,PT07M46.00S,2,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,-148,68,16,Missed,1,,,0,h,MISS Alexander-Walker 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+183,239,PT07M43.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,v,Avdija REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+184,240,PT07M31.00S,2,1610612764,WAS,203078,Beal,B. Beal,-18,0,2,Made,1,45,33,78,v,Beal 2' Driving Layup (7 PTS) (Kuzma 3 AST),Made Shot,Driving Layup Shot,1,0
+185,242,PT07M15.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,1,0
+186,244,PT07M15.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,46,33,79,h,Hernangomez Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+187,372,PT07M15.00S,2,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,SUB: Gafford FOR Harrell,Substitution,,0,0
+188,376,PT07M15.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,v,SUB: Caldwell-Pope FOR Avdija,Substitution,,0,0
+189,251,PT07M15.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,47,33,80,h,Hernangomez Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+190,252,PT06M57.00S,2,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,228,93,25,Missed,1,,,0,v,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+191,253,PT06M54.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+192,254,PT06M51.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,1,-4,0,Made,1,47,35,82,v,Gafford Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,0
+193,255,PT06M38.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,-17,12,2,Made,1,49,35,84,h,Hernangomez 2' Layup (6 PTS) (Satoransky 3 AST),Made Shot,Layup Shot,1,0
+194,257,PT06M29.00S,2,1610612764,WAS,203526,Neto,R. Neto,2,83,8,Missed,1,,,0,v,MISS Neto 8' Jump Shot,Missed Shot,Jump Shot,1,0
+195,258,PT06M29.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+196,259,PT06M23.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0
+197,259,PT06M23.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez STEAL (1 STL),,,1,0
+198,261,PT06M14.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,53,75,9,Missed,1,,,0,h,MISS Ingram 9' Running Layup,Missed Shot,Running Layup Shot,1,0
+199,262,PT06M13.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+200,263,PT06M12.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,31,1,3,Missed,1,,,0,h,MISS Hernangomez 3' Layup,Missed Shot,Layup Shot,1,0
+201,264,PT06M11.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+202,265,PT06M09.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,23,15,3,Made,1,51,35,86,h,Ingram 3' Layup (12 PTS),Made Shot,Layup Shot,1,0
+203,266,PT06M02.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+204,267,PT06M02.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+205,273,PT06M02.00S,2,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,SUB: Temple FOR Hart,Substitution,,0,0
+206,274,PT06M02.00S,2,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Hernangomez,Substitution,,0,0
+207,275,PT06M02.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Graham FOR Ingram,Substitution,,0,0
+208,276,PT06M02.00S,2,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,SUB: Jones FOR Satoransky,Substitution,,0,0
+209,281,PT05M40.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+210,281,PT05M40.00S,2,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope STEAL (1 STL),,,1,0
+211,283,PT05M23.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-5,16,2,Made,1,51,37,88,v,Kuzma 2' Layup (6 PTS) (Beal 1 AST),Made Shot,Layup Shot,1,0
+212,284,PT05M23.00S,2,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,1,0
+213,286,PT05M23.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,51,38,89,v,Kuzma Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0
+214,287,PT05M11.00S,2,1610612740,NOP,202066,Temple,G. Temple,232,104,25,Made,1,54,38,92,h,Temple 25' 3PT Jump Shot (4 PTS) (Alexander-Walker 3 AST),Made Shot,Jump Shot,1,0
+215,289,PT04M48.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-21,52,6,Missed,1,,,0,v,MISS Kuzma 6' Hook Shot,Missed Shot,Hook Shot,1,0
+216,290,PT04M48.00S,2,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+217,291,PT04M48.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford P.FOUL (P2.T4) (E.Lewis),Foul,Personal,1,0
+218,293,PT04M34.00S,2,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,-7,15,2,Made,1,56,38,94,h,Alexander-Walker 2' Driving Layup (6 PTS) (Valanciunas 2 AST),Made Shot,Driving Layup Shot,1,0
+219,294,PT04M34.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford Violation:Defensive Goaltending (C.Flores),Violation,Defensive Goaltending,1,0
+220,295,PT04M17.00S,2,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0
+221,295,PT04M17.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones STEAL (3 STL),,,1,0
+222,297,PT04M11.00S,2,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,7,4,1,Missed,1,,,0,h,MISS Alexander-Walker 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+223,298,PT04M09.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+224,299,PT04M08.00S,2,1610612740,NOP,1628984,Graham,D. Graham,-143,220,26,Made,1,59,38,97,h,Graham 26' 3PT Jump Shot (7 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,0
+225,301,PT03M54.00S,2,1610612764,WAS,203526,Neto,R. Neto,17,-1,2,Missed,1,,,0,v,MISS Neto 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+226,302,PT03M54.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+227,303,PT03M49.00S,2,1610612740,NOP,1628984,Graham,D. Graham,-173,191,26,Made,1,62,38,100,h,Graham 26' 3PT Jump Shot (10 PTS) (Alexander-Walker 4 AST),Made Shot,Jump Shot,1,0
+228,305,PT03M47.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+229,306,PT03M47.00S,2,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Neto,Substitution,,0,0
+230,307,PT03M47.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,SUB: Bertans FOR Gafford,Substitution,,0,0
+231,310,PT03M35.00S,2,1610612764,WAS,203078,Beal,B. Beal,22,1,2,Made,1,62,40,102,v,Beal 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+232,311,PT03M21.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,6,62,6,Missed,1,,,0,h,MISS Valanciunas 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+233,312,PT03M21.00S,2,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+234,313,PT03M16.00S,2,1610612764,WAS,203078,Beal,B. Beal,-1,52,5,Made,1,62,42,104,v,Beal 5' Driving Floating Jump Shot (11 PTS) (Dinwiddie 3 AST),Made Shot,Driving Floating Jump Shot,1,0
+235,314,PT03M16.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P2.T4) (C.Flores),Foul,Shooting,1,0
+236,316,PT03M16.00S,2,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,SUB: Ingram FOR Alexander-Walker,Substitution,,0,0
+237,318,PT03M16.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,MISS Beal Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+238,319,PT03M13.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+239,320,PT03M05.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,5,16,2,Made,1,64,42,106,h,Valanciunas 2' Dunk (13 PTS) (Ingram 2 AST),Made Shot,Dunk Shot,1,0
+240,322,PT02M49.00S,2,1610612764,WAS,203078,Beal,B. Beal,23,5,2,Made,1,64,44,108,v,Beal 2' Driving Layup (13 PTS) (Kuzma 4 AST),Made Shot,Driving Layup Shot,1,0
+241,324,PT02M37.00S,2,1610612740,NOP,202066,Temple,G. Temple,-229,50,0,Missed,1,,,0,h,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+242,325,PT02M37.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+243,326,PT02M34.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,Made,1,66,44,110,h,Valanciunas Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,1,0
+244,327,PT02M21.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,-162,208,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+245,328,PT02M18.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+246,329,PT02M12.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P1.PN) (C.Flores),Foul,Shooting,1,0
+247,331,PT02M12.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,67,44,111,h,Valanciunas Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0
+248,332,PT02M12.00S,2,1610612740,NOP,202066,Temple,G. Temple,0,0,0,,0,,,0,h,SUB: Hart FOR Temple,Substitution,,0,0
+249,334,PT02M12.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,68,44,112,h,Valanciunas Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0
+250,335,PT01M59.00S,2,1610612764,WAS,203078,Beal,B. Beal,15,3,2,Made,1,68,46,114,v,Beal 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,0
+251,336,PT01M44.00S,2,1610612740,NOP,1628984,Graham,D. Graham,-31,280,28,Missed,1,,,0,h,MISS Graham 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+252,337,PT01M41.00S,2,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+253,338,PT01M34.00S,2,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,157,210,26,Missed,1,,,0,v,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+254,339,PT01M30.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+255,340,PT01M27.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,-229,-17,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+256,341,PT01M25.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+257,343,PT01M25.00S,2,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,SUB: Temple FOR Valanciunas,Substitution,,0,0
+258,346,PT01M16.00S,2,1610612764,WAS,203078,Beal,B. Beal,191,100,22,Made,1,68,48,116,v,Beal 22' Jump Shot (17 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,1,0
+259,348,PT01M11.00S,2,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope P.FOUL (P1.PN) (E.Lewis),Foul,Personal,1,0
+260,350,PT01M11.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,69,48,117,h,Ingram Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0
+261,351,PT01M11.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,70,48,118,h,Ingram Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0
+262,352,PT00M52.60S,2,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,78,236,25,Missed,1,,,0,v,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+263,353,PT00M49.50S,2,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+264,354,PT00M44.30S,2,1610612740,NOP,1628404,Hart,J. Hart,16,11,2,Missed,1,,,0,h,MISS Hart 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+265,355,PT00M42.10S,2,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+266,356,PT00M38.60S,2,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0
+267,356,PT00M38.60S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones STEAL (4 STL),,,1,0
+268,358,PT00M38.40S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma Personal Take Foul (P1.PN) (D.Taylor),Foul,Personal Take,1,0
+269,360,PT00M38.40S,2,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,71,48,119,h,Graham Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0
+270,361,PT00M38.40S,2,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,72,48,120,h,Graham Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0
+271,362,PT00M27.80S,2,1610612764,WAS,203078,Beal,B. Beal,9,6,1,Missed,1,,,0,v,MISS Beal 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+272,363,PT00M27.60S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+273,364,PT00M27.60S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,Made,1,72,50,122,v,Beal Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1,0
+274,365,PT00M04.10S,2,1610612740,NOP,1628984,Graham,D. Graham,-16,257,26,Missed,1,,,0,h,MISS Graham 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+275,366,PT00M03.60S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+276,367,PT00M03.60S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma Traveling Turnover (P3.T13),Turnover,Traveling,1,0
+277,368,PT00M02.70S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0
+278,369,PT00M00.00S,2,0,,0,,,0,0,0,,0,72,50,122,,End of 2nd Period (9:09 PM EST),period,end,1,0
+279,381,PT12M00.00S,3,0,,0,,,0,0,0,,0,72,50,122,,Start of 3rd Period (9:25 PM EST),period,start,0,0
+280,382,PT11M43.00S,3,1610612764,WAS,203078,Beal,B. Beal,129,152,20,Missed,1,,,0,v,MISS Beal 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+281,383,PT11M39.00S,3,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+282,384,PT11M30.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,210,126,24,Missed,1,,,0,h,MISS Ingram 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+283,385,PT11M28.00S,3,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+284,386,PT11M18.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,5,-10,1,Made,1,72,52,124,v,Gafford 1' Alley Oop Dunk (4 PTS) (Dinwiddie 5 AST),Made Shot,Alley Oop Dunk Shot,1,0
+285,388,PT10M56.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,40,58,7,Missed,1,,,0,h,MISS Valanciunas 7' Hook Shot,Missed Shot,Hook Shot,1,0
+286,389,PT10M53.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+287,390,PT10M47.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma Offensive Charge Foul (P2) (D.Taylor),Foul,Offensive Charge,1,0
+288,392,PT10M47.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,1,0
+289,393,PT10M33.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas 3 Second Violation Turnover (P2.T4),Turnover,3 Second Violation,1,0
+290,394,PT10M22.00S,3,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,-234,-11,0,Missed,1,,,0,v,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+291,395,PT10M18.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+292,396,PT10M09.00S,3,1610612740,NOP,1628404,Hart,J. Hart,18,-4,2,Made,1,74,52,126,h,Hart 2' Cutting Layup Shot (9 PTS) (Valanciunas 3 AST),Made Shot,Cutting Layup Shot,1,0
+293,398,PT10M09.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal S.FOUL (P3.T1) (E.Lewis),Foul,Shooting,1,0
+294,400,PT10M09.00S,3,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,75,52,127,h,Hart Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0
+295,401,PT09M57.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+296,402,PT09M50.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma S.FOUL (P3.T2) (D.Taylor),Foul,Shooting,1,0
+297,404,PT09M50.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,76,52,128,h,Ingram Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+298,405,PT09M50.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,MISS Ingram Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+299,409,PT09M44.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+300,406,PT09M44.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Jump Ball Valanciunas vs. Gafford: Tip to Kuzma,Jump Ball,,1,0
+301,411,PT09M43.00S,3,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart P.FOUL (P2.T1) (E.Lewis),Foul,Personal,1,0
+302,413,PT09M37.00S,3,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,-54,41,7,Made,1,76,54,130,v,Dinwiddie 7' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+303,415,PT09M23.00S,3,1610612740,NOP,1628984,Graham,D. Graham,140,103,17,Missed,1,,,0,h,MISS Graham 17' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+304,416,PT09M21.00S,3,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+305,417,PT09M16.00S,3,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,-150,263,30,Missed,1,,,0,v,MISS Dinwiddie 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+306,418,PT09M13.00S,3,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+307,419,PT09M12.00S,3,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,-229,23,0,Missed,1,,,0,v,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+308,420,PT09M09.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+309,422,PT09M01.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,26,142,14,Missed,1,,,0,h,MISS Valanciunas 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+310,422,PT09M01.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford BLOCK (2 BLK),,,1,0
+311,424,PT08M56.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+312,425,PT08M48.00S,3,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham S.FOUL (P1.T2) (C.Flores),Foul,Shooting,1,0
+313,427,PT08M48.00S,3,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,76,55,131,v,Caldwell-Pope Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0
+314,428,PT08M48.00S,3,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,MISS Caldwell-Pope Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+315,429,PT08M46.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+316,430,PT08M25.00S,3,1610612740,NOP,1628404,Hart,J. Hart,172,218,28,Missed,1,,,0,h,MISS Hart 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+317,431,PT08M20.00S,3,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+318,432,PT08M18.00S,3,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,0
+319,432,PT08M18.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram STEAL (1 STL),,,1,0
+320,434,PT08M13.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas Out of Bounds Lost Ball Turnover (P3.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0
+321,435,PT08M07.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P3.T3) (C.Flores),Foul,Personal,1,0
+322,437,PT08M04.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas P.FOUL (P2.T4) (E.Lewis),Foul,Personal,1,0
+323,439,PT07M58.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,5,2,1,Made,1,76,57,133,v,Gafford 1' Alley Oop Dunk (6 PTS) (Dinwiddie 6 AST),Made Shot,Alley Oop Dunk Shot,1,0
+324,441,PT07M33.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-17,4,2,Made,1,78,57,135,h,Ingram 2' Cutting Finger Roll Layup Shot (17 PTS) (Valanciunas 4 AST),Made Shot,Cutting Finger Roll Layup Shot,1,0
+325,443,PT07M20.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,-2,1,0,Made,1,78,59,137,v,Gafford Alley Oop Dunk (8 PTS) (Dinwiddie 7 AST),Made Shot,Alley Oop Dunk Shot,1,0
+326,445,PT07M08.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,6,24,2,Made,1,80,59,139,h,Valanciunas 2' Layup (19 PTS) (Jones 2 AST),Made Shot,Layup Shot,1,0
+327,447,PT06M58.00S,3,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,-195,165,26,Made,1,80,62,142,v,Caldwell-Pope 26' 3PT Jump Shot (7 PTS) (Dinwiddie 8 AST),Made Shot,Jump Shot,1,0
+328,449,PT06M57.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+329,450,PT06M57.00S,3,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Neto FOR Dinwiddie,Substitution,,0,0
+330,452,PT06M36.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,-22,68,7,Made,1,82,62,144,h,Valanciunas 7' Hook Shot (21 PTS) (Hart 4 AST),Made Shot,Hook Shot,1,0
+331,454,PT06M20.00S,3,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham P.FOUL (P2.PN) (E.Lewis),Foul,Personal,1,0
+332,456,PT06M20.00S,3,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,82,63,145,v,Caldwell-Pope Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0
+333,457,PT06M20.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,SUB: Harrell FOR Gafford,Substitution,,0,0
+334,459,PT06M20.00S,3,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,82,64,146,v,Caldwell-Pope Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0
+335,460,PT06M02.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,143,1,14,Missed,1,,,0,h,MISS Ingram 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+336,461,PT05M59.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+337,462,PT05M48.00S,3,1610612764,WAS,203078,Beal,B. Beal,-151,83,17,Missed,1,,,0,v,MISS Beal 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+338,463,PT05M44.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+339,464,PT05M32.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-1,6,1,Made,1,84,64,148,h,Ingram 1' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+340,466,PT05M16.00S,3,1610612764,WAS,203078,Beal,B. Beal,-113,10,11,Made,1,84,66,150,v,Beal 11' Pullup Jump Shot (21 PTS) (Harrell 1 AST),Made Shot,Pullup Jump shot,1,0
+341,468,PT04M56.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,-114,231,26,Missed,1,,,0,h,MISS Valanciunas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+342,469,PT04M52.00S,3,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+343,470,PT04M50.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-204,153,26,Made,1,87,66,153,h,Ingram 26' 3PT Jump Shot (22 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,0
+344,472,PT04M30.00S,3,1610612764,WAS,203078,Beal,B. Beal,-9,206,21,Missed,1,,,0,v,MISS Beal 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+345,473,PT04M28.00S,3,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell REBOUND (Off:5 Def:1),Rebound,Unknown,1,0
+346,474,PT04M20.00S,3,1610612764,WAS,203526,Neto,R. Neto,-2,76,8,Made,1,87,68,155,v,Neto 8' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+347,476,PT04M00.00S,3,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham OFF.Foul (P3) (D.Taylor),Foul,Offensive,1,0
+348,478,PT04M00.00S,3,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0
+349,479,PT04M00.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+350,480,PT04M00.00S,3,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,SUB: Lewis Jr. FOR Hart,Substitution,,0,0
+351,481,PT04M00.00S,3,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,SUB: Temple FOR Graham,Substitution,,0,0
+352,482,PT04M00.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Alexander-Walker FOR Ingram,Substitution,,0,0
+353,483,PT04M00.00S,3,1610612764,WAS,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,SUB: Avdija FOR Caldwell-Pope,Substitution,,0,0
+354,488,PT03M46.00S,3,1610612764,WAS,203526,Neto,R. Neto,23,2,2,Made,1,87,70,157,v,Neto 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+355,489,PT03M22.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,12,100,10,Missed,1,,,0,h,MISS Valanciunas 10' Hook Shot,Missed Shot,Hook Shot,1,0
+356,490,PT03M19.00S,3,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell REBOUND (Off:5 Def:2),Rebound,Unknown,1,0
+357,491,PT03M08.00S,3,1610612764,WAS,203078,Beal,B. Beal,235,21,24,Missed,1,,,0,v,MISS Beal 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+358,492,PT03M04.00S,3,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+359,493,PT02M53.00S,3,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,59,89,11,Missed,1,,,0,h,MISS Alexander-Walker 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+360,494,PT02M49.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:4 Def:7),Rebound,Unknown,1,0
+361,495,PT02M49.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,Missed,1,,,0,h,MISS Valanciunas Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+362,496,PT02M48.00S,3,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell REBOUND (Off:5 Def:3),Rebound,Unknown,1,0
+363,497,PT02M40.00S,3,1610612764,WAS,1626149,Harrell,M. Harrell,-11,12,2,Missed,1,,,0,v,MISS Harrell 2' Layup,Missed Shot,Layup Shot,1,0
+364,498,PT02M39.00S,3,1610612740,NOP,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+365,499,PT02M31.00S,3,1610612740,NOP,202066,Temple,G. Temple,-229,34,0,Missed,1,,,0,h,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+366,500,PT02M27.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+367,501,PT02M20.00S,3,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker P.FOUL (P2.PN) (C.Flores),Foul,Personal,1,0
+368,503,PT02M20.00S,3,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,MISS Neto Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+369,504,PT02M20.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+370,505,PT02M20.00S,3,1610612740,NOP,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,h,SUB: Hernangomez FOR Valanciunas,Substitution,,0,0
+371,506,PT02M20.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,SUB: Bertans FOR Kuzma,Substitution,,0,0
+372,509,PT02M20.00S,3,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,87,71,158,v,Neto Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0
+373,510,PT02M11.00S,3,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,26,3,3,Missed,1,,,0,h,MISS Lewis Jr. 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+374,511,PT02M11.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+375,513,PT02M00.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P4.PN) (D.Taylor),Foul,Personal,1,0
+376,515,PT02M00.00S,3,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+377,516,PT02M00.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+378,517,PT02M00.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,SUB: Hart FOR Jones,Substitution,,0,0
+379,519,PT02M00.00S,3,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+380,520,PT01M55.00S,3,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+381,521,PT01M36.00S,3,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,12,98,10,Made,1,89,71,160,h,Hernangomez 10' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,1,0
+382,525,PT01M17.00S,3,1610612764,WAS,203078,Beal,B. Beal,-16,4,2,Made,1,89,73,162,v,Beal 2' Layup (23 PTS),Made Shot,Layup Shot,1,0
+383,526,PT00M59.80S,3,1610612740,NOP,1628404,Hart,J. Hart,-102,72,12,Made,1,91,73,164,h,Hart 12' Pullup Jump Shot (12 PTS) (Hernangomez 2 AST),Made Shot,Pullup Jump shot,1,0
+384,528,PT00M47.40S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Bad Pass Turnover (P3.T17),Turnover,Bad Pass,1,0
+385,528,PT00M47.40S,3,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez STEAL (2 STL),,,1,0
+386,530,PT00M47.10S,3,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Violation:Kicked Ball (E.Lewis),Violation,Kicked Ball,0,0
+387,533,PT00M34.40S,3,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P2.T3) (E.Lewis),Foul,Personal,1,0
+388,566,PT00M34.40S,3,0,,533,,,0,0,0,,0,91,73,164,,Instant Replay3rd Period (9:52 PM EST),Instant Replay,Overturn Ruling,0,0
+389,535,PT00M28.10S,3,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+390,535,PT00M28.10S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,v,Avdija STEAL (1 STL),,,1,0
+391,537,PT00M12.60S,3,1610612764,WAS,202722,Bertans,D. Bertans,176,201,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+392,538,PT00M07.80S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+393,539,PT00M02.50S,3,1610612764,WAS,203078,Beal,B. Beal,16,5,2,Missed,1,,,0,v,MISS Beal 2' Layup,Missed Shot,Layup Shot,1,0
+394,540,PT00M02.50S,3,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+395,541,PT00M00.50S,3,1610612740,NOP,1628404,Hart,J. Hart,-9,390,39,Made,1,94,73,167,h,Hart 39' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,0
+396,542,PT00M00.50S,3,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,1,0
+397,545,PT00M00.50S,3,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,95,73,168,h,Hart Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0
+398,544,PT00M00.00S,3,0,,541,,,0,0,0,,0,94,73,167,,Instant Replay3rd Period (9:54 PM EST),Instant Replay,Ruling Stands,0,0
+399,546,PT00M00.00S,3,0,,0,,,0,0,0,,0,95,73,168,,End of 3rd Period (9:57 PM EST),period,end,1,0
+400,555,PT12M00.00S,4,0,,0,,,0,0,0,,0,95,73,168,,Start of 4th Period (10:00 PM EST),period,start,0,0
+401,556,PT11M47.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,87,151,17,Missed,1,,,0,h,MISS Ingram 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+402,557,PT11M45.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+403,559,PT11M33.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,179,181,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+404,560,PT11M29.00S,4,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,Harrell REBOUND (Off:6 Def:3),Rebound,Unknown,1,0
+405,561,PT11M22.00S,4,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,126,231,26,Missed,1,,,0,v,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+406,562,PT11M22.00S,4,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+407,563,PT10M59.00S,4,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,1,0
+408,565,PT10M59.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,96,73,169,h,Ingram Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0
+409,567,PT10M59.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,97,73,170,h,Ingram Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0
+410,568,PT10M34.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,-26,11,3,Missed,1,,,0,v,MISS Avdija 3' Layup,Missed Shot,Layup Shot,1,0
+411,569,PT10M32.00S,4,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+412,570,PT10M26.00S,4,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,17,137,14,Missed,1,,,0,h,MISS Alexander-Walker 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+413,571,PT10M20.00S,4,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+414,572,PT10M17.00S,4,1610612764,WAS,1628988,Holiday,A. Holiday,-21,15,3,Made,1,97,75,172,v,Holiday 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+415,573,PT09M56.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,11,147,15,Missed,1,,,0,h,MISS Ingram 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+416,574,PT09M56.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+417,576,PT09M52.00S,4,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky P.FOUL (P2.T1) (E.Lewis),Foul,Personal,1,0
+418,578,PT09M40.00S,4,1610612764,WAS,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P2.T18),Turnover,Bad Pass,1,0
+419,578,PT09M40.00S,4,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker STEAL (1 STL),,,1,0
+420,580,PT09M27.00S,4,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,60,254,26,Made,1,100,75,175,h,Alexander-Walker 26' 3PT Jump Shot (9 PTS) (Satoransky 4 AST),Made Shot,Jump Shot,1,0
+421,582,PT09M13.00S,4,1610612764,WAS,1628988,Holiday,A. Holiday,116,26,12,Missed,1,,,0,v,MISS Holiday 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+422,583,PT09M09.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+423,584,PT09M00.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,174,196,26,Made,1,103,75,178,h,Hernangomez 26' 3PT Jump Shot (11 PTS) (Ingram 3 AST),Made Shot,Jump Shot,1,0
+424,586,PT08M59.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+425,587,PT08M47.00S,4,1610612764,WAS,1626149,Harrell,M. Harrell,-2,4,0,Made,1,103,77,180,v,Harrell Dunk (8 PTS) (Dinwiddie 9 AST),Made Shot,Dunk Shot,1,0
+426,589,PT08M47.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez S.FOUL (P2.T2) (E.Lewis),Foul,Shooting,1,0
+427,591,PT08M47.00S,4,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,103,78,181,v,Harrell Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0
+428,592,PT08M32.00S,4,1610612740,NOP,203107,Satoransky,T. Satoransky,15,3,2,Made,1,105,78,183,h,Satoransky 2' Driving Layup (2 PTS) (Alexander-Walker 5 AST),Made Shot,Driving Layup Shot,1,0
+429,593,PT08M32.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P4.T2) (C.Flores),Foul,Shooting,1,0
+430,595,PT08M32.00S,4,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,106,78,184,h,Satoransky Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0
+431,596,PT08M17.00S,4,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart S.FOUL (P3.T3) (C.Flores),Foul,Shooting,1,0
+432,598,PT08M17.00S,4,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,MISS Dinwiddie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+433,599,PT08M17.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+434,600,PT08M17.00S,4,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,106,79,185,v,Dinwiddie Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+435,601,PT08M03.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,v,Avdija S.FOUL (P2.T3) (C.Flores),Foul,Shooting,1,0
+436,603,PT08M03.00S,4,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,MISS Satoransky Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+437,604,PT08M03.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,0,0
+438,605,PT08M03.00S,4,1610612764,WAS,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Kispert FOR Dinwiddie,Substitution,,0,0
+439,607,PT08M03.00S,4,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,107,79,186,h,Satoransky Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+440,608,PT07M50.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,15,257,26,Missed,1,,,0,v,MISS Avdija 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+441,609,PT07M46.00S,4,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+442,610,PT07M35.00S,4,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,212,148,26,Made,1,110,79,189,h,Alexander-Walker 26' 3PT Jump Shot (12 PTS) (Hernangomez 3 AST),Made Shot,Jump Shot,1,0
+443,612,PT07M22.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,11,26,3,Missed,1,,,0,v,MISS Bertans 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+444,613,PT07M21.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+445,614,PT06M58.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0
+446,615,PT06M43.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,-148,214,26,Made,1,110,82,192,v,Avdija 26' 3PT Jump Shot (3 PTS) (Harrell 2 AST),Made Shot,Jump Shot,1,0
+447,617,PT06M27.00S,4,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+448,617,PT06M27.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,v,Avdija STEAL (2 STL),,,1,0
+449,619,PT06M26.00S,4,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart Personal Take Foul (P4.T4) (E.Lewis),Foul,Personal Take,1,0
+450,621,PT06M26.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Gill FOR Bertans,Substitution,,0,0
+451,623,PT06M17.00S,4,1610612764,WAS,1630264,Gill,A. Gill,1,74,7,Made,1,110,84,194,v,Gill 7' Layup (2 PTS) (Avdija 1 AST),Made Shot,Layup Shot,1,0
+452,625,PT06M00.00S,4,1610612740,NOP,203107,Satoransky,T. Satoransky,118,235,26,Missed,1,,,0,h,MISS Satoransky 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+453,626,PT05M57.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,v,Avdija REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+454,627,PT05M53.00S,4,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,1,0
+455,629,PT05M53.00S,4,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,110,85,195,v,Harrell Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+456,630,PT05M53.00S,4,1610612740,NOP,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,SUB: Jones FOR Hart,Substitution,,0,0
+457,632,PT05M53.00S,4,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+458,633,PT05M50.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+459,634,PT05M49.00S,4,1610612764,WAS,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,v,Holiday Personal Take Foul (P2.T4) (E.Lewis),Foul,Personal Take,1,0
+460,636,PT05M49.00S,4,1610612764,WAS,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,v,SUB: Neto FOR Harrell,Substitution,,0,0
+461,638,PT05M37.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-153,9,15,Made,1,112,85,197,h,Ingram 15' Jump Shot (26 PTS) (Hernangomez 4 AST),Made Shot,Jump Shot,1,0
+462,640,PT05M26.00S,4,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,Alexander-Walker S.FOUL (P4.PN) (E.Lewis),Foul,Shooting,1,0
+463,642,PT05M26.00S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,112,86,198,v,Neto Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0
+464,643,PT05M26.00S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,112,87,199,v,Neto Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0
+465,644,PT05M26.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+466,646,PT05M26.00S,4,1610612740,NOP,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,h,SUB: Marshall FOR Alexander-Walker,Substitution,,0,0
+467,647,PT05M26.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Murphy III FOR Ingram,Substitution,,0,0
+468,650,PT05M07.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,75,21,8,Missed,1,,,0,h,MISS Hernangomez 8' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,0
+469,651,PT05M04.00S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+470,652,PT04M54.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,96,42,10,Missed,1,,,0,v,MISS Avdija 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+471,653,PT04M50.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+472,654,PT04M34.00S,4,1610612740,NOP,203107,Satoransky,T. Satoransky,7,72,7,Missed,1,,,0,h,MISS Satoransky 7' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+473,654,PT04M34.00S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill BLOCK (1 BLK),,,1,0
+474,656,PT04M31.00S,4,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,Satoransky REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+475,657,PT04M27.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,23,9,2,Made,1,114,87,201,h,Murphy III 2' Cutting Layup Shot (2 PTS) (Satoransky 5 AST),Made Shot,Cutting Layup Shot,1,0
+476,659,PT04M24.00S,4,1610612764,WAS,1628988,Holiday,A. Holiday,13,13,2,Made,1,114,89,203,v,Holiday 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,0
+477,660,PT04M12.00S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,1,0
+478,662,PT04M12.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,MISS Hernangomez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+479,663,PT04M12.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,0,0
+480,664,PT04M12.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,SUB: Alvarado FOR Jones,Substitution,,0,0
+481,665,PT04M12.00S,4,1610612740,NOP,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,h,SUB: Lewis Jr. FOR Satoransky,Substitution,,0,0
+482,668,PT04M12.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,MISS Hernangomez Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+483,669,PT04M09.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,v,Kispert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+484,670,PT04M05.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado P.FOUL (P1.PN) (E.Lewis),Foul,Personal,1,0
+485,672,PT04M05.00S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,114,90,204,v,Neto Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+486,673,PT04M05.00S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,114,91,205,v,Neto Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+487,674,PT03M57.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,v,Avdija S.FOUL (P3.PN) (E.Lewis),Foul,Shooting,1,0
+488,676,PT03M57.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,115,91,206,h,Hernangomez Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0
+489,677,PT03M57.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,116,91,207,h,Hernangomez Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0
+490,678,PT03M46.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado P.FOUL (P2.PN) (D.Taylor),Foul,Personal,1,0
+491,680,PT03M46.00S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,116,92,208,v,Neto Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0
+492,681,PT03M46.00S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,116,93,209,v,Neto Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0
+493,682,PT03M33.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,-61,3,6,Missed,1,,,0,h,MISS Hernangomez 6' Layup,Missed Shot,Layup Shot,1,0
+494,683,PT03M31.00S,4,1610612764,WAS,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+495,684,PT03M24.00S,4,1610612764,WAS,203526,Neto,R. Neto,-228,4,0,Missed,1,,,0,v,MISS Neto 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+496,685,PT03M20.00S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+497,686,PT03M19.00S,4,1610612764,WAS,1630264,Gill,A. Gill,-2,31,3,Missed,1,,,0,v,MISS Gill 3' Layup,Missed Shot,Layup Shot,1,0
+498,687,PT03M17.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+499,688,PT03M10.00S,4,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,0,0,0,,0,,,0,h,Lewis Jr. Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0
+500,688,PT03M10.00S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto STEAL (1 STL),,,1,0
+501,690,PT03M08.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,1,0
+502,692,PT03M08.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,v,MISS Kispert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+503,693,PT03M08.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+504,694,PT03M08.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,116,94,210,v,Kispert Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0
+505,695,PT03M01.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+506,696,PT02M47.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-156,216,27,Missed,1,,,0,v,MISS Kispert 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+507,697,PT02M41.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+508,698,PT02M37.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,10,36,4,Missed,1,,,0,h,MISS Marshall 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+509,699,PT02M37.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+510,733,PT02M37.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,-26,-6,3,Missed,1,,,0,h,MISS Marshall 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+511,734,PT02M37.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+512,701,PT02M24.00S,4,1610612764,WAS,1630264,Gill,A. Gill,98,247,27,Made,1,116,97,213,v,Gill 27' 3PT Jump Shot (5 PTS) (Avdija 2 AST),Made Shot,Jump Shot,1,0
+513,703,PT02M04.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,235,21,24,Made,1,119,97,216,h,Murphy III 24' 3PT Jump Shot (5 PTS) (Marshall 1 AST),Made Shot,Jump Shot,1,0
+514,705,PT01M54.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-16,1,2,Missed,1,,,0,v,MISS Kispert 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+515,706,PT01M51.00S,4,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,0,0,0,,0,,,0,h,Lewis Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+516,707,PT01M43.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,-228,-23,0,Missed,1,,,0,h,MISS Marshall 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+517,708,PT01M41.00S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+518,709,PT01M38.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,5,2,1,Made,1,119,99,218,v,Kispert 1' Running Layup (3 PTS) (Holiday 2 AST),Made Shot,Running Layup Shot,1,0
+519,711,PT01M25.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,-11,-4,1,Made,1,121,99,220,h,Marshall 1' Cutting Layup Shot (2 PTS) (Alvarado 1 AST),Made Shot,Cutting Layup Shot,1,0
+520,713,PT01M11.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,234,8,0,Missed,1,,,0,v,MISS Kispert 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+521,713,PT01M11.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez BLOCK (2 BLK),,,1,0
+522,715,PT01M07.00S,4,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,0,0,0,,0,,,0,h,Lewis Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+523,716,PT01M01.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,-181,171,25,Missed,1,,,0,h,MISS Marshall 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+524,717,PT00M59.80S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0
+525,719,PT00M48.60S,4,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,-105,236,26,Missed,1,,,0,h,MISS Lewis Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+526,720,PT00M46.50S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+527,721,PT00M37.90S,4,1610612740,NOP,1630230,Marshall,N. Marshall,178,178,25,Made,1,124,99,223,h,Marshall 25' 3PT Jump Shot (5 PTS) (Lewis Jr. 1 AST),Made Shot,Jump Shot,1,0
+528,723,PT00M28.70S,4,1610612764,WAS,1630264,Gill,A. Gill,-4,257,26,Made,1,124,102,226,v,Gill 26' 3PT Jump Shot (8 PTS) (Neto 2 AST),Made Shot,Jump Shot,1,0
+529,725,PT00M20.40S,4,1610612740,NOP,1630230,Marshall,N. Marshall,88,122,15,Missed,1,,,0,h,MISS Marshall 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+530,726,PT00M16.80S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+531,727,PT00M14.20S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill Lost Ball Turnover (P1.T19),Turnover,Lost Ball,1,0
+532,727,PT00M14.20S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,0,0,0,,0,,,0,h,Hernangomez STEAL (3 STL),,,1,0
+533,729,PT00M11.50S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,-137,208,25,Made,1,127,102,229,h,Murphy III 25' 3PT Jump Shot (8 PTS) (Alvarado 2 AST),Made Shot,Jump Shot,1,0
+534,731,PT00M00.00S,4,0,,0,,,0,0,0,,0,127,102,229,,End of 4th Period (10:29 PM EST),period,end,1,0

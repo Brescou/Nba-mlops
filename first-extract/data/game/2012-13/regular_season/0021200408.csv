@@ -1,0 +1,435 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:08 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Jump Ball Noah vs. Asik: Tip to Boozer,Jump Ball,,0,0
+3,2,PT11M44.00S,1,1610612741,CHI,2736,Deng,L. Deng,29,9,3,Made,1,2,0,2,h,Deng 3' Driving Layup (2 PTS) (Boozer 1 AST),Made Shot,Driving Layup Shot,0,0
+4,3,PT11M23.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-103,225,25,Missed,1,0,0,0,v,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+5,4,PT11M22.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+6,5,PT11M07.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,37,19,4,Missed,1,0,0,0,h,MISS Belinelli 4' Jump Shot,Missed Shot,Jump Shot,0,0
+7,6,PT11M06.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+8,7,PT11M02.00S,1,1610612745,HOU,201935,Harden,J. Harden,6,26,3,Made,1,2,2,4,v,Harden 3' Running Dunk (2 PTS) (Lin 1 AST),Made Shot,Running Dunk Shot,0,0
+9,8,PT10M40.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,39,93,10,Made,1,4,2,6,h,Boozer 10' Turnaround Fadeaway (2 PTS) (Hinrich 1 AST),Made Shot,Turnaround Fadeaway shot,0,0
+10,9,PT10M30.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich S.FOUL (P1.T1),Foul,Shooting,0,0
+11,10,PT10M30.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,MISS Asik Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+12,11,PT10M30.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0
+13,12,PT10M30.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,4,3,7,v,Asik Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+14,14,PT10M10.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,28,14,3,Made,1,6,3,9,h,Boozer 3' Reverse Layup (4 PTS) (Noah 1 AST),Made Shot,Reverse Layup Shot,0,0
+15,15,PT10M00.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,Belinelli S.FOUL (P1.T2),Foul,Shooting,0,0
+16,16,PT10M00.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,6,4,10,v,Harden Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+17,18,PT10M00.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,6,5,11,v,Harden Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+18,20,PT09M44.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-27,0,3,Missed,1,0,0,0,h,MISS Hinrich 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+19,21,PT09M43.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+20,22,PT09M40.00S,1,1610612745,HOU,202391,Lin,J. Lin,28,17,3,Missed,1,0,0,0,v,MISS Lin 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,0,0
+21,23,PT09M39.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+22,24,PT09M33.00S,1,1610612741,CHI,2736,Deng,L. Deng,163,184,25,Missed,1,0,0,0,h,MISS Deng 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+23,25,PT09M31.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+24,26,PT09M15.00S,1,1610612745,HOU,201600,Asik,O. Asik,10,23,3,Made,1,6,7,13,v,Asik 3' Layup (3 PTS),Made Shot,Layup Shot,0,0
+25,27,PT08M59.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,152,142,21,Made,1,8,7,15,h,Belinelli 21' Pullup Jump Shot (2 PTS) (Hinrich 2 AST),Made Shot,Pullup Jump shot,0,0
+26,28,PT08M40.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,83,224,24,Made,1,8,10,18,v,Morris 24' 3PT Jump Shot (3 PTS) (Lin 2 AST),Made Shot,Jump Shot,0,0
+27,29,PT08M20.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,50,165,17,Missed,1,0,0,0,h,MISS Boozer 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+28,30,PT08M19.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+29,31,PT08M06.00S,1,1610612745,HOU,202391,Lin,J. Lin,21,17,3,Made,1,8,12,20,v,Lin 3' Layup (2 PTS),Made Shot,Layup Shot,0,0
+30,33,PT07M46.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-45,69,8,Missed,1,0,0,0,h,MISS Boozer 8' Jump Shot,Missed Shot,Jump Shot,0,0
+31,34,PT07M44.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+32,35,PT07M42.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,32,20,4,Made,1,8,14,22,v,Parsons 4' Running Layup (2 PTS) (Harden 1 AST),Made Shot,Running Layup Shot,0,0
+33,36,PT07M19.00S,1,1610612741,CHI,201149,Noah,J. Noah,-26,23,3,Made,1,10,14,24,h,Noah 3' Driving Layup (2 PTS) (Belinelli 1 AST),Made Shot,Driving Layup Shot,0,0
+34,37,PT06M56.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,16,1,2,Missed,1,0,0,0,v,MISS Parsons 2' Layup,Missed Shot,Layup Shot,0,0
+35,38,PT06M54.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+36,39,PT06M53.00S,1,1610612745,HOU,201600,Asik,O. Asik,-13,19,2,Made,1,10,16,26,v,Asik 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0
+37,40,PT06M31.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-231,-10,0,Missed,1,0,0,0,h,MISS Hinrich  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+38,40,PT06M31.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin BLOCK (1 BLK),,,0,0
+39,41,PT06M29.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+40,42,PT06M09.00S,1,1610612745,HOU,201935,Harden,J. Harden,-130,146,20,Made,1,10,18,28,v,Harden 20' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,0,0
+41,43,PT05M42.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,212,129,25,Missed,1,0,0,0,h,MISS Belinelli 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+42,44,PT05M41.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+43,45,PT05M29.00S,1,1610612745,HOU,202391,Lin,J. Lin,-136,198,24,Missed,1,0,0,0,v,MISS Lin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+44,46,PT05M28.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+45,47,PT05M18.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,151,208,26,Missed,1,0,0,0,h,MISS Hinrich 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+46,48,PT05M17.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+47,49,PT05M12.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,Belinelli S.FOUL (P2.T3),Foul,Shooting,0,0
+48,50,PT05M12.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+49,52,PT05M12.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,SUB: Smith FOR Asik,Substitution,,0,0
+50,53,PT05M12.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,SUB: Douglas FOR Lin,Substitution,,0,0
+51,54,PT05M12.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,SUB: Butler FOR Belinelli,Substitution,,0,0
+52,55,PT05M12.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,10,19,29,v,Harden Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+53,57,PT05M12.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,10,20,30,v,Harden Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+54,59,PT04M52.00S,1,1610612741,CHI,201149,Noah,J. Noah,-90,0,9,Made,1,12,20,32,h,Noah 9' Hook Shot (4 PTS) (Boozer 2 AST),Made Shot,Hook Shot,0,0
+55,60,PT04M41.00S,1,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,Douglas Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+56,60,PT04M41.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer STEAL (1 STL),,,0,0
+57,61,PT04M37.00S,1,1610612741,CHI,2736,Deng,L. Deng,18,6,2,Made,1,14,20,34,h,Deng 2' Driving Layup (4 PTS) (Hinrich 3 AST),Made Shot,Driving Layup Shot,0,0
+58,62,PT04M15.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,234,-10,0,Missed,1,0,0,0,v,MISS Morris  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+59,63,PT04M15.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+60,64,PT04M04.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Morris P.FOUL (P1.T1),Foul,Personal,0,0
+61,65,PT03M49.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,32,69,8,Missed,1,0,0,0,h,MISS Hinrich 8' Jump Shot,Missed Shot,Jump Shot,0,0
+62,66,PT03M48.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+63,67,PT03M34.00S,1,1610612745,HOU,201935,Harden,J. Harden,160,85,18,Missed,1,0,0,0,v,MISS Harden 18' Jump Shot,Missed Shot,Jump Shot,0,0
+64,68,PT03M33.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+65,69,PT03M30.00S,1,1610612745,HOU,202962,Smith,G. Smith,4,31,3,Made,1,14,22,36,v,Smith 3' Layup (2 PTS) (Harden 2 AST),Made Shot,Layup Shot,0,0
+66,70,PT03M17.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons P.FOUL (P1.T2),Foul,Personal,0,0
+67,71,PT03M09.00S,1,1610612741,CHI,2736,Deng,L. Deng,-41,203,21,Made,1,16,22,38,h,Deng 21' Pullup Jump Shot (6 PTS) (Noah 2 AST),Made Shot,Pullup Jump shot,0,0
+68,72,PT03M02.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,h,Butler Personal Block Foul (P1.T4),Foul,Personal Block,0,0
+69,73,PT02M56.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,-163,160,23,Missed,1,0,0,0,v,MISS Parsons 23' Jump Shot,Missed Shot,Jump Shot,0,0
+70,74,PT02M55.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+71,75,PT02M37.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Morris P.FOUL (P2.T3),Foul,Personal,0,0
+72,76,PT02M37.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+73,78,PT02M37.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Morris,Substitution,,0,0
+74,79,PT02M37.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Boozer,Substitution,,0,0
+75,80,PT02M23.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,105,75,13,Made,1,18,22,40,h,Gibson 13' Turnaround Jump Shot (2 PTS) (Hinrich 4 AST),Made Shot,Turnaround Jump Shot,0,0
+76,81,PT02M04.00S,1,1610612745,HOU,2568,Delfino,C. Delfino,225,0,0,Missed,1,0,0,0,v,MISS Delfino  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+77,82,PT02M03.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+78,83,PT01M57.00S,1,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,Douglas P.FOUL (P1.T4),Foul,Personal,0,0
+79,84,PT01M41.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-185,160,24,Missed,1,0,0,0,h,MISS Hinrich 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+80,85,PT01M41.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+81,86,PT01M41.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0
+82,87,PT01M30.00S,1,1610612745,HOU,201962,Douglas,T. Douglas,56,239,25,Missed,1,0,0,0,v,MISS Douglas 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+83,88,PT01M30.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+84,89,PT01M10.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,-108,1,11,Missed,1,0,0,0,h,MISS Gibson 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,0
+85,90,PT01M09.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+86,91,PT01M05.00S,1,1610612745,HOU,201935,Harden,J. Harden,-11,22,2,Made,1,18,24,42,v,Harden 2' Layup (10 PTS),Made Shot,Layup Shot,0,0
+87,92,PT00M44.90S,1,1610612741,CHI,2736,Deng,L. Deng,0,52,5,Missed,1,0,0,0,h,MISS Deng 5' Jump Shot,Missed Shot,Jump Shot,0,0
+88,93,PT00M43.90S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+89,94,PT00M42.80S,1,1610612741,CHI,2736,Deng,L. Deng,95,112,15,Made,1,20,24,44,h,Deng 15' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+90,95,PT00M32.90S,1,1610612745,HOU,2568,Delfino,C. Delfino,-235,34,24,Made,1,20,27,47,v,Delfino 24' 3PT Jump Shot (3 PTS) (Parsons 1 AST),Made Shot,Jump Shot,0,0
+91,97,PT00M08.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-116,74,14,Made,1,22,27,49,h,Hinrich 14' Floating Jump Shot (2 PTS) (Noah 3 AST),Made Shot,Floating Jump shot,0,0
+92,98,PT00M01.00S,1,1610612745,HOU,201935,Harden,J. Harden,-183,168,25,Missed,1,0,0,0,v,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+93,99,PT00M00.10S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+94,100,PT00M00.00S,1,0,,0,,,0,0,0,,0,22,27,49,,End of 1st Period (8:31 PM EST),period,end,0,0
+95,102,PT12M00.00S,2,0,,0,,,0,0,0,,0,22,27,49,,Start of 2nd Period (8:34 PM EST),period,start,0,0
+96,103,PT11M43.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,Douglas Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0
+97,104,PT11M32.00S,2,1610612741,CHI,2736,Deng,L. Deng,133,160,21,Missed,1,0,0,0,h,MISS Deng 21' Jump Shot,Missed Shot,Jump Shot,0,0
+98,105,PT11M31.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+99,106,PT11M30.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng Offensive Charge Foul (P1.T1),Foul,Offensive Charge,0,0
+100,107,PT11M30.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng Foul Turnover (P1.T2),Turnover,Foul,0,0
+101,109,PT11M14.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+102,108,PT11M14.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,26,17,3,Made,1,22,29,51,v,Delfino 3' Layup (5 PTS) (Douglas 1 AST),Made Shot,Layup Shot,0,0
+103,110,PT10M55.00S,2,1610612741,CHI,202710,Butler,J. Butler,24,7,3,Made,1,24,29,53,h,Butler 3' Alley Oop Layup (2 PTS) (Deng 1 AST),Made Shot,Alley Oop Layup shot,0,0
+104,111,PT10M41.00S,2,1610612745,HOU,202391,Lin,J. Lin,15,115,12,Made,1,24,31,55,v,Lin 12' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,0
+105,112,PT10M21.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0
+106,112,PT10M21.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons STEAL (1 STL),,,0,0
+107,113,PT10M12.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,-16,4,2,Missed,1,0,0,0,v,MISS Douglas 2' Layup,Missed Shot,Layup Shot,0,0
+108,113,PT10M12.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah BLOCK (1 BLK),,,0,0
+109,114,PT10M11.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+110,115,PT10M01.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,2,64,6,Missed,1,0,0,0,v,MISS Parsons 6' Jump Shot,Missed Shot,Jump Shot,0,0
+111,116,PT10M00.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+112,118,PT09M48.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+113,118,PT09M48.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin STEAL (1 STL),,,0,0
+114,119,PT09M44.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,24,7,3,Made,1,24,33,57,v,Douglas 3' Layup (2 PTS) (Lin 3 AST),Made Shot,Layup Shot,0,0
+115,120,PT09M31.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+116,120,PT09M31.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino STEAL (1 STL),,,0,0
+117,121,PT09M22.00S,2,1610612745,HOU,201600,Asik,O. Asik,-15,19,2,Missed,1,0,0,0,v,MISS Asik 2' Layup,Missed Shot,Layup Shot,0,0
+118,122,PT09M20.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+119,123,PT09M09.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin S.FOUL (P1.T1),Foul,Shooting,0,0
+120,124,PT09M09.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,25,33,58,h,Gibson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+121,126,PT09M09.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,SUB: Morris FOR Parsons,Substitution,,0,0
+122,127,PT09M09.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,26,33,59,h,Gibson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+123,129,PT08M54.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,-7,66,7,Made,1,26,35,61,v,Douglas 7' Jump Shot (4 PTS) (Asik 1 AST),Made Shot,Jump Shot,0,0
+124,130,PT08M42.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+125,130,PT08M42.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino STEAL (2 STL),,,0,0
+126,131,PT08M39.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,4,20,2,Made,1,26,37,63,v,Delfino 2' Running Slam Dunk (7 PTS),Made Shot,Running Slam Dunk Shot,0,0
+127,132,PT08M31.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+128,134,PT08M31.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,SUB: Belinelli FOR Noah,Substitution,,0,0
+129,136,PT08M20.00S,2,1610612741,CHI,2736,Deng,L. Deng,159,140,21,Missed,1,0,0,0,h,MISS Deng 21' Jump Shot,Missed Shot,Jump Shot,0,0
+130,137,PT08M19.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+131,138,PT08M11.00S,2,1610612745,HOU,202391,Lin,J. Lin,-19,195,20,Made,1,26,39,65,v,Lin 20' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,0,0
+132,139,PT07M51.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-163,11,16,Made,1,28,39,67,h,Gibson 16' Pullup Jump Shot (6 PTS) (Belinelli 2 AST),Made Shot,Pullup Jump shot,0,0
+133,140,PT07M26.00S,2,1610612745,HOU,201600,Asik,O. Asik,189,-21,19,Missed,1,0,0,0,v,MISS Asik 19' Jump Shot,Missed Shot,Jump Shot,0,0
+134,141,PT07M24.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+135,142,PT07M19.00S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,20,12,2,Made,1,30,39,69,h,Belinelli 2' Running Layup (4 PTS) (Robinson 1 AST),Made Shot,Running Layup Shot,0,0
+136,143,PT07M07.00S,2,1610612745,HOU,201600,Asik,O. Asik,26,11,3,Made,1,30,41,71,v,Asik 3' Layup (7 PTS) (Delfino 1 AST),Made Shot,Layup Shot,0,0
+137,144,PT06M45.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,154,192,25,Missed,1,0,0,0,h,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+138,145,PT06M44.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+139,146,PT06M36.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+140,146,PT06M36.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson STEAL (1 STL),,,0,0
+141,147,PT06M27.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,28,17,3,Made,1,32,41,73,h,Gibson 3' Layup (8 PTS),Made Shot,Layup Shot,0,0
+142,148,PT06M05.00S,2,1610612745,HOU,201600,Asik,O. Asik,-16,15,2,Made,1,32,43,75,v,Asik 2' Reverse Layup (9 PTS) (Lin 4 AST),Made Shot,Reverse Layup Shot,0,0
+143,149,PT05M56.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+144,150,PT05M56.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+145,151,PT05M56.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,SUB: Harden FOR Douglas,Substitution,,0,0
+146,152,PT05M56.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,SUB: Boozer FOR Deng,Substitution,,0,0
+147,153,PT05M38.00S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,32,7,3,Missed,1,0,0,0,h,MISS Belinelli 3' Layup,Missed Shot,Layup Shot,0,0
+148,154,PT05M37.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+149,155,PT05M16.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,70,42,8,Made,1,32,45,77,v,Morris 8' Floating Jump Shot (5 PTS) (Lin 5 AST),Made Shot,Floating Jump shot,0,0
+150,156,PT05M01.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,-46,164,17,Missed,1,0,0,0,h,MISS Boozer 17' Jump Shot,Missed Shot,Jump Shot,0,0
+151,157,PT05M01.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+152,158,PT04M49.00S,2,1610612745,HOU,202391,Lin,J. Lin,83,14,8,Made,1,32,47,79,v,Lin 8' Running Bank Shot (8 PTS),Made Shot,Running Bank shot,0,0
+153,159,PT04M29.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,-240,-22,24,Missed,1,0,0,0,h,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+154,160,PT04M27.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+155,161,PT04M23.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer S.FOUL (P1.T2),Foul,Shooting,0,0
+156,162,PT04M23.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,32,48,80,v,Morris Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+157,164,PT04M23.00S,2,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,h,SUB: Noah FOR Butler,Substitution,,0,0
+158,165,PT04M23.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Hinrich FOR Gibson,Substitution,,0,0
+159,166,PT04M23.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,SUB: Deng FOR Robinson,Substitution,,0,0
+160,167,PT04M23.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,32,49,81,v,Morris Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+161,169,PT04M04.00S,2,1610612741,CHI,201149,Noah,J. Noah,24,17,3,Made,1,34,49,83,h,Noah 3' Layup (6 PTS) (Boozer 3 AST),Made Shot,Layup Shot,0,0
+162,170,PT03M49.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,26,3,Made,1,34,51,85,v,Lin 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+163,172,PT03M35.00S,2,1610612741,CHI,2736,Deng,L. Deng,-16,11,2,Missed,1,0,0,0,h,MISS Deng 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+164,173,PT03M34.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+165,174,PT03M30.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer S.FOUL (P2.T3),Foul,Shooting,0,0
+166,175,PT03M30.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,34,52,86,v,Harden Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+167,177,PT03M30.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,34,53,87,v,Harden Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+168,179,PT03M05.00S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,234,-14,0,Missed,1,0,0,0,h,MISS Belinelli  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+169,180,PT03M04.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+170,181,PT02M52.00S,2,1610612745,HOU,202391,Lin,J. Lin,29,12,3,Made,1,34,55,89,v,Lin 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,0
+171,182,PT02M44.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+172,184,PT02M30.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,94,127,16,Missed,1,0,0,0,h,MISS Boozer 16' Jump Shot,Missed Shot,Jump Shot,0,0
+173,185,PT02M29.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+174,186,PT02M19.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,181,26,18,Missed,1,0,0,0,v,MISS Delfino 18' Jump Shot,Missed Shot,Jump Shot,0,0
+175,187,PT02M17.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+176,188,PT02M06.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,-111,61,13,Missed,1,0,0,0,h,MISS Boozer 13' Jump Shot,Missed Shot,Jump Shot,0,0
+177,189,PT02M05.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+178,190,PT02M04.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino S.FOUL (P1.T2),Foul,Shooting,0,0
+179,191,PT02M04.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,35,55,90,h,Deng Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+180,193,PT02M04.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,SUB: Parsons FOR Morris,Substitution,,0,0
+181,194,PT02M04.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,36,55,91,h,Deng Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+182,196,PT01M50.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich P.FOUL (P2.T4),Foul,Personal,0,0
+183,197,PT01M47.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0
+184,197,PT01M47.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah STEAL (1 STL),,,0,0
+185,199,PT01M23.00S,2,1610612741,CHI,2736,Deng,L. Deng,171,190,26,Missed,1,0,0,0,h,MISS Deng 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+186,200,PT01M21.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+187,201,PT01M16.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,1,9,1,Made,1,36,57,93,v,Parsons 1' Running Dunk (4 PTS) (Harden 3 AST),Made Shot,Running Dunk Shot,0,0
+188,202,PT01M00.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino P.FOUL (P2.T3),Foul,Personal,0,0
+189,204,PT00M54.60S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,130,11,13,Made,1,38,57,95,h,Belinelli 13' Running Jump Shot (6 PTS),Made Shot,Running Jump Shot,0,0
+190,205,PT00M54.60S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin S.FOUL (P2.PN),Foul,Shooting,0,0
+191,206,PT00M54.60S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,SUB: Douglas FOR Lin,Substitution,,0,0
+192,207,PT00M54.60S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,39,57,96,h,Belinelli Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+193,210,PT00M41.50S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,Douglas Traveling Turnover (P3.T5),Turnover,Traveling,0,0
+194,211,PT00M33.20S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons Personal Block Foul (P2.PN),Foul,Personal Block,0,0
+195,212,PT00M33.20S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,40,57,97,h,Belinelli Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+196,214,PT00M33.20S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,41,57,98,h,Belinelli Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+197,216,PT00M19.20S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,Belinelli P.FOUL (P3.PN),Foul,Personal,0,0
+198,217,PT00M19.20S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,41,58,99,v,Harden Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+199,219,PT00M19.20S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Belinelli,Substitution,,0,0
+200,220,PT00M19.20S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+201,222,PT00M17.90S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+202,224,PT00M01.00S,2,1610612741,CHI,2736,Deng,L. Deng,92,25,10,Missed,1,0,0,0,h,MISS Deng 10' Jump Shot,Missed Shot,Jump Shot,0,0
+203,225,PT00M00.10S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+204,226,PT00M00.00S,2,0,,0,,,0,0,0,,0,41,58,99,,End of 2nd Period (9:05 PM EST),period,end,0,0
+205,228,PT12M00.00S,3,0,,0,,,0,0,0,,0,41,58,99,,Start of 3rd Period (9:22 PM EST),period,start,0,0
+206,229,PT11M39.00S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,193,153,25,Made,1,41,61,102,v,Morris 25' 3PT Jump Shot (10 PTS) (Harden 4 AST),Made Shot,Jump Shot,0,0
+207,230,PT11M31.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin P.FOUL (P3.T1),Foul,Personal,0,0
+208,231,PT11M23.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,26,14,3,Missed,1,0,0,0,h,MISS Boozer 3' Layup,Missed Shot,Layup Shot,0,0
+209,232,PT11M22.00S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Morris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+210,233,PT10M57.00S,3,1610612745,HOU,201935,Harden,J. Harden,154,146,21,Made,1,41,63,104,v,Harden 21' Jump Shot (15 PTS),Made Shot,Jump Shot,0,0
+211,234,PT10M40.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0
+212,234,PT10M40.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons STEAL (2 STL),,,0,0
+213,235,PT10M38.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0
+214,237,PT10M28.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah OFF.Foul (P1),Foul,Offensive,0,0
+215,238,PT10M28.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah Foul Turnover (P4.T8),Turnover,Foul,0,0
+216,239,PT10M12.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,130,162,21,Missed,1,0,0,0,v,MISS Parsons 21' Jump Shot,Missed Shot,Jump Shot,0,0
+217,240,PT10M10.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+218,241,PT09M58.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,94,192,21,Made,1,43,63,106,h,Hinrich 21' Jump Shot (4 PTS) (Belinelli 3 AST),Made Shot,Jump Shot,0,0
+219,242,PT09M43.00S,3,1610612745,HOU,201600,Asik,O. Asik,24,9,3,Made,1,43,65,108,v,Asik 3' Driving Dunk (11 PTS) (Harden 5 AST),Made Shot,Driving Dunk Shot,0,0
+220,243,PT09M25.00S,3,1610612741,CHI,2736,Deng,L. Deng,-67,198,21,Missed,1,0,0,0,h,MISS Deng 21' Jump Shot,Missed Shot,Jump Shot,0,0
+221,244,PT09M24.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+222,245,PT09M21.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-123,44,13,Made,1,45,65,110,h,Boozer 13' Jump Shot (6 PTS) (Noah 4 AST),Made Shot,Jump Shot,0,0
+223,246,PT09M11.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer S.FOUL (P3.T1),Foul,Shooting,0,0
+224,247,PT09M11.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,45,66,111,v,Lin Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+225,249,PT09M11.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,45,67,112,v,Lin Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+226,251,PT09M00.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0
+227,252,PT08M51.00S,3,1610612745,HOU,202391,Lin,J. Lin,11,9,1,Missed,1,0,0,0,v,MISS Lin 1' Layup,Missed Shot,Layup Shot,0,0
+228,254,PT08M50.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:3 Def:8),Rebound,Unknown,0,0
+229,253,PT08M50.00S,3,1610612745,HOU,201600,Asik,O. Asik,16,3,2,Missed,1,0,0,0,v,MISS Asik 2' Tip Shot,Missed Shot,Tip Shot,0,0
+230,255,PT08M49.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:4 Def:8),Rebound,Unknown,0,0
+231,256,PT08M47.00S,3,1610612745,HOU,201600,Asik,O. Asik,-8,19,2,Made,1,45,69,114,v,Asik 2' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,0,0
+232,257,PT08M27.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,135,30,14,Missed,1,0,0,0,h,MISS Boozer 14' Jump Shot,Missed Shot,Jump Shot,0,0
+233,258,PT08M25.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:4 Def:9),Rebound,Unknown,0,0
+234,259,PT08M18.00S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-155,206,26,Missed,1,0,0,0,v,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+235,260,PT08M18.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+236,261,PT08M03.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,29,22,4,Missed,1,0,0,0,h,MISS Boozer 4' Jump Shot,Missed Shot,Jump Shot,0,0
+237,261,PT08M03.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik BLOCK (1 BLK),,,0,0
+238,262,PT08M01.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:4 Def:10),Rebound,Unknown,0,0
+239,263,PT07M59.00S,3,1610612745,HOU,201935,Harden,J. Harden,-24,7,3,Made,1,45,71,116,v,Harden 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,0,0
+240,264,PT07M59.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich S.FOUL (P3.T2),Foul,Shooting,0,0
+241,265,PT07M59.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,45,72,117,v,Harden Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0
+242,266,PT07M47.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-191,151,24,Missed,1,0,0,0,h,MISS Hinrich 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+243,267,PT07M45.00S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Morris REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+244,268,PT07M42.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich S.FOUL (P4.T3),Foul,Shooting,0,0
+245,269,PT07M42.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,45,73,118,v,Parsons Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+246,271,PT07M42.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Hinrich,Substitution,,0,0
+247,272,PT07M42.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,MISS Parsons Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+248,274,PT07M40.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+249,275,PT07M23.00S,3,1610612741,CHI,2736,Deng,L. Deng,-11,19,2,Made,1,47,73,120,h,Deng 2' Layup (12 PTS),Made Shot,Layup Shot,0,0
+250,276,PT07M14.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,4,3,1,Made,1,47,75,122,v,Parsons 1' Layup (7 PTS) (Lin 6 AST),Made Shot,Layup Shot,0,0
+251,277,PT07M03.00S,3,1610612741,CHI,101126,Robinson,N. Robinson,-10,26,3,Made,1,49,75,124,h,Robinson 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+252,278,PT06M46.00S,3,1610612745,HOU,202391,Lin,J. Lin,20,20,3,Made,1,49,77,126,v,Lin 3' Layup (16 PTS),Made Shot,Layup Shot,0,0
+253,279,PT06M24.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik S.FOUL (P1.T2),Foul,Shooting,0,0
+254,280,PT06M24.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,50,77,127,h,Noah Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+255,282,PT06M24.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,51,77,128,h,Noah Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+256,284,PT06M05.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,-231,25,0,Made,1,51,80,131,v,Parsons  3PT Jump Shot (10 PTS) (Morris 1 AST),Made Shot,Jump Shot,0,0
+257,285,PT05M44.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah Bad Pass Turnover (P5.T10),Turnover,Bad Pass,0,0
+258,285,PT05M44.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden STEAL (1 STL),,,0,0
+259,286,PT05M40.00S,3,1610612745,HOU,201600,Asik,O. Asik,-16,19,2,Made,1,51,82,133,v,Asik 2' Layup (15 PTS) (Harden 6 AST),Made Shot,Layup Shot,0,0
+260,287,PT05M39.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+261,289,PT05M39.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Teague FOR Boozer,Substitution,,0,0
+262,291,PT05M25.00S,3,1610612741,CHI,203104,Teague,M. Teague,0,0,0,,0,0,0,0,h,Teague Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0
+263,291,PT05M25.00S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Morris STEAL (1 STL),,,0,0
+264,292,PT05M22.00S,3,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson S.FOUL (P1.T4),Foul,Shooting,0,0
+265,293,PT05M22.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,51,83,134,v,Lin Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+266,295,PT05M22.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,51,84,135,v,Lin Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+267,297,PT05M09.00S,3,1610612741,CHI,2736,Deng,L. Deng,209,36,21,Missed,1,0,0,0,h,MISS Deng 21' Jump Shot,Missed Shot,Jump Shot,0,0
+268,298,PT05M08.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:4 Def:11),Rebound,Unknown,0,0
+269,299,PT04M59.00S,3,1610612745,HOU,201600,Asik,O. Asik,24,20,3,Missed,1,0,0,0,v,MISS Asik 3' Layup,Missed Shot,Layup Shot,0,0
+270,301,PT04M58.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:5 Def:11),Rebound,Unknown,0,0
+271,300,PT04M58.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,23,2,Made,1,51,86,137,v,Asik 2' Tip Shot (17 PTS),Made Shot,Tip Shot,0,0
+272,302,PT04M40.00S,3,1610612741,CHI,101126,Robinson,N. Robinson,211,99,23,Made,1,53,86,139,h,Robinson 23' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+273,303,PT04M22.00S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-239,-5,24,Missed,1,0,0,0,v,MISS Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+274,304,PT04M21.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+275,305,PT04M16.00S,3,1610612741,CHI,101126,Robinson,N. Robinson,177,179,25,Made,1,56,86,142,h,Robinson 25' 3PT Running Jump Shot (7 PTS) (Deng 2 AST),Made Shot,Running Jump Shot,0,0
+276,307,PT04M03.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,SUB: Douglas FOR Lin,Substitution,,0,0
+277,308,PT03M50.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,-41,25,5,Missed,1,0,0,0,v,MISS Parsons 5' Jump Shot,Missed Shot,Jump Shot,0,0
+278,308,PT03M50.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah BLOCK (2 BLK),,,0,0
+279,309,PT03M48.00S,3,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+280,310,PT03M47.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik P.FOUL (P2.T3),Foul,Personal,0,0
+281,311,PT03M34.00S,3,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0
+282,311,PT03M34.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden STEAL (2 STL),,,0,0
+283,312,PT03M30.00S,3,1610612741,CHI,203104,Teague,M. Teague,0,0,0,,0,0,0,0,h,Teague S.FOUL (P1.PN),Foul,Shooting,0,0
+284,313,PT03M30.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,56,87,143,v,Harden Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0
+285,315,PT03M30.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,56,88,144,v,Harden Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0
+286,317,PT03M12.00S,3,1610612741,CHI,101126,Robinson,N. Robinson,-185,162,25,Made,1,59,88,147,h,Robinson 25' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+287,318,PT02M48.00S,3,1610612745,HOU,201935,Harden,J. Harden,13,52,5,Missed,1,0,0,0,v,MISS Harden 5' Jump Shot,Missed Shot,Jump Shot,0,0
+288,320,PT02M46.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+289,319,PT02M46.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,-19,20,3,Made,1,59,90,149,v,Parsons 3' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,0,0
+290,321,PT02M24.00S,3,1610612741,CHI,203104,Teague,M. Teague,17,0,2,Missed,1,0,0,0,h,MISS Teague 2' Layup,Missed Shot,Layup Shot,0,0
+291,322,PT02M23.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+292,323,PT02M11.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,10,11,1,Made,1,59,92,151,v,Douglas 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+293,324,PT01M58.00S,3,1610612741,CHI,201158,Belinelli,M. Belinelli,-194,146,24,Made,1,62,92,154,h,Belinelli 24' 3PT Jump Shot (12 PTS) (Robinson 2 AST),Made Shot,Jump Shot,0,0
+294,326,PT01M48.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+295,327,PT01M48.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Parsons,Substitution,,0,0
+296,328,PT01M48.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,SUB: Smith FOR Asik,Substitution,,0,0
+297,330,PT01M33.00S,3,1610612745,HOU,201935,Harden,J. Harden,88,23,9,Missed,1,0,0,0,v,MISS Harden 9' Driving Jump Shot,Missed Shot,Driving Jump shot,0,0
+298,331,PT01M31.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+299,332,PT01M21.00S,3,1610612741,CHI,101126,Robinson,N. Robinson,118,211,24,Made,1,65,92,157,h,Robinson 24' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+300,333,PT01M01.00S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-19,22,3,Missed,1,0,0,0,v,MISS Morris 3' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+301,335,PT01M00.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+302,334,PT01M00.00S,3,1610612745,HOU,202962,Smith,G. Smith,6,12,1,Made,1,65,94,159,v,Smith 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0
+303,336,PT00M50.70S,3,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino P.FOUL (P3.T4),Foul,Personal,0,0
+304,338,PT00M45.70S,3,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,Douglas P.FOUL (P2.PN),Foul,Personal,0,0
+305,339,PT00M45.70S,3,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+306,340,PT00M45.70S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+307,341,PT00M45.70S,3,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,66,94,160,h,Robinson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+308,343,PT00M32.50S,3,1610612745,HOU,201935,Harden,J. Harden,75,162,18,Missed,1,0,0,0,v,MISS Harden 18' Jump Shot,Missed Shot,Jump Shot,0,0
+309,343,PT00M32.50S,3,1610612741,CHI,203104,Teague,M. Teague,0,0,0,,0,0,0,0,h,Teague BLOCK (1 BLK),,,0,0
+310,344,PT00M32.50S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+311,345,PT00M32.50S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden P.FOUL (P1.PN),Foul,Personal,0,0
+312,346,PT00M32.50S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,67,94,161,h,Deng Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+313,348,PT00M32.50S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,68,94,162,h,Deng Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+314,351,PT00M08.90S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,230,-14,0,Missed,1,0,0,0,v,MISS Morris  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+315,352,PT00M07.90S,3,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,Belinelli REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+316,353,PT00M00.90S,3,1610612741,CHI,101126,Robinson,N. Robinson,-139,219,26,Missed,1,0,0,0,h,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+317,354,PT00M00.10S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0,0,0,v,Morris REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+318,355,PT00M00.00S,3,0,,0,,,0,0,0,,0,68,94,162,,End of 3rd Period (9:50 PM EST),period,end,0,0
+319,357,PT12M00.00S,4,0,,0,,,0,0,0,,0,68,94,162,,Start of 4th Period (9:52 PM EST),period,start,0,0
+320,358,PT11M41.00S,4,1610612741,CHI,201158,Belinelli,M. Belinelli,-234,-13,0,Missed,1,0,0,0,h,MISS Belinelli  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+321,359,PT11M41.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+322,360,PT11M27.00S,4,1610612741,CHI,201158,Belinelli,M. Belinelli,201,142,25,Made,1,71,94,165,h,Belinelli 25' 3PT Jump Shot (15 PTS) (Teague 1 AST),Made Shot,Jump Shot,0,0
+323,361,PT11M05.00S,4,1610612745,HOU,202391,Lin,J. Lin,-141,157,21,Missed,1,0,0,0,v,MISS Lin 21' Jump Shot,Missed Shot,Jump Shot,0,0
+324,362,PT11M04.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+325,363,PT10M55.00S,4,1610612741,CHI,203104,Teague,M. Teague,32,14,3,Made,1,73,94,167,h,Teague 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+326,364,PT10M47.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,133,238,27,Made,1,73,97,170,v,Parsons 27' 3PT Jump Shot (15 PTS) (Lin 7 AST),Made Shot,Jump Shot,0,0
+327,365,PT10M34.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin S.FOUL (P4.T1),Foul,Shooting,0,0
+328,366,PT10M34.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,74,97,171,h,Robinson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+329,368,PT10M34.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,SUB: Butler FOR Deng,Substitution,,0,0
+330,369,PT10M34.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,75,97,172,h,Robinson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+331,371,PT10M20.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,-109,228,25,Missed,1,0,0,0,v,MISS Parsons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+332,372,PT10M19.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+333,373,PT10M04.00S,4,1610612741,CHI,202710,Butler,J. Butler,-153,-16,15,Made,1,77,97,174,h,Butler 15' Jump Shot (4 PTS) (Teague 2 AST),Made Shot,Jump Shot,0,0
+334,374,PT09M56.00S,4,1610612745,HOU,202962,Smith,G. Smith,-11,14,2,Missed,1,0,0,0,v,MISS Smith 2' Layup,Missed Shot,Layup Shot,0,0
+335,376,PT09M55.00S,4,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,Douglas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+336,375,PT09M55.00S,4,1610612745,HOU,201962,Douglas,T. Douglas,28,15,3,Missed,1,0,0,0,v,MISS Douglas 3' Tip Shot,Missed Shot,Tip Shot,0,0
+337,377,PT09M51.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+338,378,PT09M47.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,-8,17,2,Missed,1,0,0,0,h,MISS Robinson 2' Layup,Missed Shot,Layup Shot,0,0
+339,379,PT09M47.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+340,380,PT09M47.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith S.FOUL (P1.T2),Foul,Shooting,0,0
+341,381,PT09M47.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,78,97,175,h,Gibson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+342,383,PT09M47.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,MISS Gibson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+343,385,PT09M44.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+344,386,PT09M39.00S,4,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,Douglas OFF.Foul (P3),Foul,Offensive,0,0
+345,387,PT09M39.00S,4,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,Douglas Foul Turnover (P4.T7),Turnover,Foul,0,0
+346,388,PT09M29.00S,4,1610612741,CHI,203104,Teague,M. Teague,-16,19,2,Missed,1,0,0,0,h,MISS Teague 2' Layup,Missed Shot,Layup Shot,0,0
+347,390,PT09M28.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+348,389,PT09M28.00S,4,1610612741,CHI,202710,Butler,J. Butler,-7,12,1,Made,1,80,97,177,h,Butler 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0
+349,391,PT09M27.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+350,392,PT09M27.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,SUB: Asik FOR Smith,Substitution,,0,0
+351,393,PT09M27.00S,4,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,SUB: Harden FOR Douglas,Substitution,,0,0
+352,395,PT09M25.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson P.FOUL (P1.T1),Foul,Personal,0,0
+353,396,PT09M02.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,226,-16,0,Made,1,80,100,180,v,Parsons  3PT Jump Shot (18 PTS) (Lin 8 AST),Made Shot,Jump Shot,0,0
+354,397,PT08M44.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,12,11,2,Made,1,82,100,182,h,Robinson 2' Driving Layup (18 PTS) (Teague 3 AST),Made Shot,Driving Layup Shot,0,0
+355,398,PT08M44.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik S.FOUL (P3.T3),Foul,Shooting,0,0
+356,399,PT08M44.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,83,100,183,h,Robinson Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0
+357,401,PT08M25.00S,4,1610612745,HOU,201935,Harden,J. Harden,-152,61,16,Missed,1,0,0,0,v,MISS Harden 16' Jump Shot,Missed Shot,Jump Shot,0,0
+358,402,PT08M24.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+359,403,PT08M09.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,75,170,19,Made,1,85,100,185,h,Robinson 19' Jump Shot (21 PTS),Made Shot,Jump Shot,0,0
+360,404,PT07M53.00S,4,1610612745,HOU,202391,Lin,J. Lin,28,17,3,Made,1,85,102,187,v,Lin 3' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,0
+361,405,PT07M42.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+362,407,PT07M32.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,116,219,25,Missed,1,0,0,0,h,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+363,408,PT07M31.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:5 Def:12),Rebound,Unknown,0,0
+364,409,PT07M25.00S,4,1610612741,CHI,203104,Teague,M. Teague,0,0,0,,0,0,0,0,h,Teague S.FOUL (P2.T2),Foul,Shooting,0,0
+365,410,PT07M25.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,MISS Harden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+366,411,PT07M25.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0
+367,412,PT07M25.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,85,103,188,v,Harden Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+368,414,PT07M08.00S,4,1610612741,CHI,203104,Teague,M. Teague,149,145,21,Missed,1,0,0,0,h,MISS Teague 21' Jump Shot,Missed Shot,Jump Shot,0,0
+369,415,PT07M06.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:5 Def:13),Rebound,Unknown,0,0
+370,416,PT06M57.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,9,1,Made,1,85,105,190,v,Asik 1' Dunk (19 PTS) (Parsons 2 AST),Made Shot,Dunk Shot,0,0
+371,417,PT06M57.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson S.FOUL (P2.T3),Foul,Shooting,0,0
+372,418,PT06M57.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,85,106,191,v,Asik Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0
+373,420,PT06M39.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,132,88,16,Missed,1,0,0,0,h,MISS Gibson 16' Jump Shot,Missed Shot,Jump Shot,0,0
+374,421,PT06M37.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+375,422,PT06M31.00S,4,1610612741,CHI,203104,Teague,M. Teague,133,126,18,Made,1,87,106,193,h,Teague 18' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+376,423,PT06M17.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,234,-16,0,Made,1,87,109,196,v,Parsons  3PT Jump Shot (21 PTS) (Lin 9 AST),Made Shot,Jump Shot,0,0
+377,424,PT06M02.00S,4,1610612741,CHI,203104,Teague,M. Teague,-37,167,17,Made,1,89,109,198,h,Teague 17' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+378,425,PT05M41.00S,4,1610612745,HOU,201935,Harden,J. Harden,97,146,18,Made,1,89,111,200,v,Harden 18' Jump Shot (23 PTS) (Lin 10 AST),Made Shot,Jump Shot,0,0
+379,426,PT05M25.00S,4,1610612741,CHI,203104,Teague,M. Teague,26,17,3,Made,1,91,111,202,h,Teague 3' Driving Layup (8 PTS) (Robinson 3 AST),Made Shot,Driving Layup Shot,0,0
+380,427,PT05M17.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,13,20,2,Made,1,91,113,204,v,Parsons 2' Layup (23 PTS) (Lin 11 AST),Made Shot,Layup Shot,0,0
+381,428,PT04M59.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,65,107,13,Made,1,93,113,206,h,Robinson 13' Jump Shot (23 PTS),Made Shot,Jump Shot,0,0
+382,429,PT04M35.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+383,429,PT04M35.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,h,Butler STEAL (1 STL),,,0,0
+384,430,PT04M31.00S,4,1610612741,CHI,202710,Butler,J. Butler,1,17,2,Missed,1,0,0,0,h,MISS Butler 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+385,430,PT04M31.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden BLOCK (1 BLK),,,0,0
+386,431,PT04M31.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+387,433,PT04M17.00S,4,1610612741,CHI,203104,Teague,M. Teague,-38,23,4,Missed,1,0,0,0,h,MISS Teague 4' Jump Shot,Missed Shot,Jump Shot,0,0
+388,433,PT04M17.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik BLOCK (2 BLK),,,0,0
+389,434,PT04M15.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+390,435,PT03M53.00S,4,1610612745,HOU,201935,Harden,J. Harden,59,235,24,Made,1,93,116,209,v,Harden 24' 3PT Jump Shot (26 PTS),Made Shot,Jump Shot,0,0
+391,436,PT03M34.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,-13,23,3,Missed,1,0,0,0,h,MISS Robinson 3' Layup,Missed Shot,Layup Shot,0,0
+392,436,PT03M34.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik BLOCK (3 BLK),,,0,0
+393,437,PT03M32.00S,4,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+394,439,PT03M30.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,SUB: Cook FOR Harden,Substitution,,0,0
+395,440,PT03M30.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,SUB: Douglas FOR Lin,Substitution,,0,0
+396,441,PT03M30.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,SUB: Smith FOR Asik,Substitution,,0,0
+397,442,PT03M30.00S,4,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,SUB: Radmanovic FOR Belinelli,Substitution,,0,0
+398,443,PT03M23.00S,4,1610612745,HOU,2568,Delfino,C. Delfino,12,167,17,Missed,1,0,0,0,v,MISS Delfino 17' Jump Shot,Missed Shot,Jump Shot,0,0
+399,444,PT03M22.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+400,445,PT03M10.00S,4,1610612741,CHI,202710,Butler,J. Butler,-152,94,18,Missed,1,0,0,0,h,MISS Butler 18' Jump Shot,Missed Shot,Jump Shot,0,0
+401,446,PT03M09.00S,4,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+402,447,PT03M01.00S,4,1610612745,HOU,201962,Douglas,T. Douglas,-237,11,24,Missed,1,0,0,0,v,MISS Douglas 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+403,448,PT02M59.00S,4,1610612741,CHI,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+404,449,PT02M42.00S,4,1610612741,CHI,203104,Teague,M. Teague,-155,143,21,Missed,1,0,0,0,h,MISS Teague 21' Jump Shot,Missed Shot,Jump Shot,0,0
+405,450,PT02M41.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+406,451,PT02M36.00S,4,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino P.FOUL (P4.T4),Foul,Personal,0,0
+407,452,PT02M36.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+408,453,PT02M36.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Mohammed FOR Gibson,Substitution,,0,0
+409,454,PT02M36.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,SUB: Motiejunas FOR Parsons,Substitution,,0,0
+410,455,PT02M36.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,SUB: Aldrich FOR Smith,Substitution,,0,0
+411,456,PT02M36.00S,4,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,SUB: Machado FOR Delfino,Substitution,,0,0
+412,457,PT02M36.00S,4,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0,0,0,v,Douglas P.FOUL (P4.PN),Foul,Personal,0,0
+413,459,PT02M36.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+414,460,PT02M36.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+415,461,PT02M36.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,94,116,210,h,Robinson Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0
+416,463,PT02M26.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson P.FOUL (P2.T4),Foul,Personal,0,0
+417,465,PT02M20.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-21,11,2,Made,1,94,118,212,v,Motiejunas 2' Layup (2 PTS) (Machado 1 AST),Made Shot,Layup Shot,0,0
+418,466,PT02M05.00S,4,1610612741,CHI,2209,Radmanovic,V. Radmanovic,166,181,25,Missed,1,0,0,0,h,MISS Radmanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+419,467,PT02M01.00S,4,1610612745,HOU,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+420,468,PT01M55.00S,4,1610612745,HOU,202332,Aldrich,C. Aldrich,-11,7,1,Made,1,94,120,214,v,Aldrich 1' Layup (2 PTS) (Machado 2 AST),Made Shot,Layup Shot,0,0
+421,470,PT01M31.00S,4,1610612741,CHI,203104,Teague,M. Teague,119,181,22,Missed,1,0,0,0,h,MISS Teague 22' Jump Shot,Missed Shot,Jump Shot,0,0
+422,471,PT01M30.00S,4,1610612745,HOU,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+423,472,PT01M06.00S,4,1610612745,HOU,203159,Machado,S. Machado,13,181,18,Missed,1,0,0,0,v,MISS Machado 18' Jump Shot,Missed Shot,Jump Shot,0,0
+424,473,PT01M05.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,v,Motiejunas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+425,474,PT00M56.90S,4,1610612745,HOU,203159,Machado,S. Machado,0,0,0,,0,0,0,0,v,Machado Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0
+426,474,PT00M56.90S,4,1610612741,CHI,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic STEAL (1 STL),,,0,0
+427,475,PT00M48.60S,4,1610612741,CHI,101126,Robinson,N. Robinson,-146,195,24,Made,1,97,120,217,h,Robinson 24' 3PT Jump Shot (27 PTS),Made Shot,Jump Shot,0,0
+428,476,PT00M36.80S,4,1610612745,HOU,203159,Machado,S. Machado,0,0,0,,0,0,0,0,v,Machado Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+429,476,PT00M36.80S,4,1610612741,CHI,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic STEAL (2 STL),,,0,0
+430,479,PT00M24.90S,4,1610612741,CHI,101126,Robinson,N. Robinson,32,110,11,Missed,1,0,0,0,h,MISS Robinson 11' Jump Shot,Missed Shot,Jump Shot,0,0
+431,480,PT00M23.60S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,v,Motiejunas REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+432,481,PT00M04.70S,4,1610612745,HOU,203159,Machado,S. Machado,84,235,25,Missed,1,0,0,0,v,MISS Machado 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+433,482,PT00M04.70S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+434,483,PT00M00.00S,4,0,,0,,,0,0,0,,0,97,120,217,,End of 4th Period (10:22 PM EST),period,end,0,0

@@ -1,0 +1,497 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:06 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Jump Ball Miller vs. Wallace: Tip to Bibby,Jump Ball,,0,0
+3,2,PT11M38.00S,1,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,2,0,2,h,Martin  Reverse Layup (2 PTS) (Miller 1 AST),Made Shot,Reverse Layup Shot,0,0
+4,3,PT11M17.00S,1,1610612766,CHA,101109,Felton,R. Felton,-43,242,25,Missed,1,0,0,0,v,MISS Felton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+5,4,PT11M15.00S,1,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,Carroll REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+6,5,PT11M07.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+7,5,PT11M07.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0,0,0,h,Bibby STEAL (1 STL),,,0,0
+8,6,PT10M51.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,11,245,25,Missed,1,0,0,0,h,MISS Bibby 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+9,7,PT10M49.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,Brezec REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,8,PT10M27.00S,1,1610612766,CHA,2679,Carroll,M. Carroll,-235,-1,24,Made,1,2,3,5,v,Carroll 24' 3PT Jump Shot (3 PTS) (Felton 1 AST),Made Shot,Jump Shot,0,0
+11,9,PT10M16.00S,1,1610612758,SAC,1802,Miller,B. Miller,154,133,20,Made,1,4,3,7,h,Miller 20' Jump Shot (2 PTS) (Bibby 1 AST),Made Shot,Jump Shot,0,0
+12,10,PT09M59.00S,1,1610612766,CHA,2679,Carroll,M. Carroll,120,174,21,Missed,1,0,0,0,v,MISS Carroll 21' Jump Shot,Missed Shot,Jump Shot,0,0
+13,11,PT09M57.00S,1,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+14,12,PT09M50.00S,1,1610612758,SAC,2755,Martin,K. Martin,153,140,21,Missed,1,0,0,0,h,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,0,0
+15,12,PT09M50.00S,1,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,Carroll BLOCK (1 BLK),,,0,0
+16,13,PT09M49.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+17,14,PT09M45.00S,1,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton S.FOUL (P1.T1),Foul,Shooting,0,0
+18,15,PT09M45.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0,0,0,h,MISS Bibby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+19,16,PT09M45.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+20,17,PT09M45.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,5,3,8,h,Bibby Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+21,18,PT09M31.00S,1,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,Made,1,5,5,10,v,Anderson  Layup (2 PTS) (Wallace 1 AST),Made Shot,Layup Shot,0,0
+22,19,PT09M04.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,Missed,1,0,0,0,h,MISS Bibby  Layup,Missed Shot,Layup Shot,0,0
+23,20,PT09M03.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+24,21,PT08M57.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,Made,1,5,7,12,v,Brezec  Layup (2 PTS) (Anderson 1 AST),Made Shot,Layup Shot,0,0
+25,22,PT08M44.00S,1,1610612758,SAC,1903,Thomas,K. Thomas,-52,76,9,Missed,1,0,0,0,h,MISS Thomas 9' Hook Shot,Missed Shot,Hook Shot,0,0
+26,23,PT08M43.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+27,24,PT08M34.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,Made,1,5,9,14,v,Brezec  Dunk (4 PTS) (Wallace 2 AST),Made Shot,Dunk Shot,0,0
+28,25,PT08M13.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+29,25,PT08M13.00S,1,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton STEAL (1 STL),,,0,0
+30,26,PT08M09.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Missed,1,0,0,0,v,MISS Wallace  Alley Oop Layup,Missed Shot,Alley Oop Layup shot,0,0
+31,27,PT08M08.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+32,28,PT07M55.00S,1,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,Missed,1,0,0,0,h,MISS Thomas  Layup,Missed Shot,Layup Shot,0,0
+33,28,PT07M55.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace BLOCK (1 BLK),,,0,0
+34,29,PT07M53.00S,1,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+35,30,PT07M38.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,10,69,7,Missed,1,0,0,0,v,MISS Wallace 7' Jump Shot,Missed Shot,Jump Shot,0,0
+36,31,PT07M37.00S,1,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+37,32,PT07M31.00S,1,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson P.FOUL (P1.T2),Foul,Personal,0,0
+38,33,PT07M28.00S,1,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton P.FOUL (P2.T3),Foul,Personal,0,0
+39,34,PT07M28.00S,1,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,SUB: Knight FOR Felton,Substitution,,0,0
+40,35,PT07M22.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,Brezec S.FOUL (P1.T4),Foul,Shooting,0,0
+41,36,PT07M22.00S,1,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+42,37,PT07M22.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+43,38,PT07M22.00S,1,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,6,9,15,h,Martin Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+44,39,PT07M01.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Made,1,6,11,17,v,Wallace  Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,0,0
+45,40,PT06M50.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,126,68,14,Missed,1,0,0,0,h,MISS Salmons 14' Jump Shot,Missed Shot,Jump Shot,0,0
+46,41,PT06M49.00S,1,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+47,42,PT06M38.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,29,13,3,Made,1,6,13,19,v,Brezec 3' Layup (6 PTS),Made Shot,Layup Shot,0,0
+48,43,PT06M31.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+49,44,PT06M12.00S,1,1610612758,SAC,2755,Martin,K. Martin,220,66,0,Made,1,9,13,22,h,Martin  3PT Jump Shot (6 PTS) (Bibby 2 AST),Made Shot,Jump Shot,0,0
+50,45,PT05M53.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,Made,1,9,15,24,v,Brezec  Layup (8 PTS) (Knight 1 AST),Made Shot,Layup Shot,0,0
+51,46,PT05M32.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace S.FOUL (P1.PN),Foul,Shooting,0,0
+52,47,PT05M32.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,10,15,25,h,Salmons Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+53,48,PT05M32.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,11,15,26,h,Salmons Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+54,49,PT05M16.00S,1,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,Made,1,11,17,28,v,Carroll  Layup (5 PTS) (Brezec 1 AST),Made Shot,Layup Shot,0,0
+55,50,PT05M16.00S,1,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin S.FOUL (P1.T1),Foul,Shooting,0,0
+56,51,PT05M16.00S,1,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,11,18,29,v,Carroll Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0
+57,52,PT05M02.00S,1,1610612758,SAC,1802,Miller,B. Miller,-46,214,22,Made,1,13,18,31,h,Miller 22' Jump Shot (4 PTS) (Martin 1 AST),Made Shot,Jump Shot,0,0
+58,53,PT04M44.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Missed,1,0,0,0,v,MISS Wallace  Layup,Missed Shot,Layup Shot,0,0
+59,54,PT04M43.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+60,55,PT04M28.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,-21,199,20,Missed,1,0,0,0,h,MISS Bibby 20' Jump Shot,Missed Shot,Jump Shot,0,0
+61,56,PT04M24.00S,1,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+62,57,PT04M18.00S,1,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,Carroll S.FOUL (P1.PN),Foul,Shooting,0,0
+63,58,PT04M18.00S,1,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,SUB: Morrison FOR Carroll,Substitution,,0,0
+64,59,PT04M18.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,14,18,32,h,Salmons Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+65,60,PT04M18.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,15,18,33,h,Salmons Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+66,61,PT04M05.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller S.FOUL (P1.T2),Foul,Shooting,0,0
+67,62,PT04M05.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,15,19,34,v,Wallace Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+68,63,PT04M05.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0,0,0,h,SUB: Garcia FOR Bibby,Substitution,,0,0
+69,64,PT04M05.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,15,20,35,v,Wallace Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+70,65,PT03M44.00S,1,1610612758,SAC,2755,Martin,K. Martin,-146,210,26,Missed,1,0,0,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+71,66,PT03M42.00S,1,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+72,67,PT03M37.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,Missed,1,0,0,0,v,MISS Brezec  Layup,Missed Shot,Layup Shot,0,0
+73,68,PT03M36.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,Brezec REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+74,69,PT03M35.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,-3,33,3,Missed,1,0,0,0,v,MISS Brezec 3' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+75,70,PT03M33.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+76,71,PT03M24.00S,1,1610612758,SAC,1802,Miller,B. Miller,-43,210,21,Made,1,17,20,37,h,Miller 21' Jump Shot (6 PTS) (Garcia 1 AST),Made Shot,Jump Shot,0,0
+77,73,PT03M04.00S,1,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Made,1,17,22,39,v,Wallace  Alley Oop Layup (6 PTS) (Knight 2 AST),Made Shot,Alley Oop Layup shot,0,0
+78,74,PT02M47.00S,1,1610612758,SAC,2755,Martin,K. Martin,197,74,21,Made,1,19,22,41,h,Martin 21' Jump Shot (8 PTS) (Miller 2 AST),Made Shot,Jump Shot,0,0
+79,75,PT02M29.00S,1,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,Made,1,19,24,43,v,Anderson  Dunk (4 PTS) (Wallace 3 AST),Made Shot,Dunk Shot,0,0
+80,76,PT02M10.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,Brezec P.FOUL (P2.PN),Foul,Personal,0,0
+81,77,PT02M10.00S,1,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+82,80,PT02M10.00S,1,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,SUB: Voskuhl FOR Brezec,Substitution,,0,0
+83,81,PT02M10.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,20,24,44,h,Miller Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+84,82,PT02M10.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,21,24,45,h,Miller Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+85,83,PT01M59.00S,1,1610612766,CHA,200747,Morrison,A. Morrison,-210,140,25,Missed,1,0,0,0,v,MISS Morrison 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+86,84,PT01M57.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+87,85,PT01M53.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Made,1,23,24,47,h,Salmons  Finger Roll (6 PTS),Made Shot,Finger Roll Shot,0,0
+88,86,PT01M37.00S,1,1610612766,CHA,200747,Morrison,A. Morrison,24,61,7,Missed,1,0,0,0,v,MISS Morrison 7' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+89,87,PT01M35.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+90,88,PT01M30.00S,1,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,25,24,49,h,Martin  Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+91,89,PT01M11.00S,1,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,Voskuhl Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+92,89,PT01M11.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons STEAL (1 STL),,,0,0
+93,90,PT01M06.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,Made,1,27,24,51,h,Salmons  Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+94,91,PT00M59.70S,1,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Timeout: Short (Reg.1 Short 1),Timeout,Short,0,0
+95,93,PT00M59.70S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,SUB: Abdur-Rahim FOR Miller,Substitution,,0,0
+96,94,PT00M52.10S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia S.FOUL (P1.T3),Foul,Shooting,0,0
+97,95,PT00M52.10S,1,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,27,25,52,v,Voskuhl Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+98,96,PT00M52.10S,1,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,SUB: Carroll FOR Anderson,Substitution,,0,0
+99,97,PT00M52.10S,1,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,27,26,53,v,Voskuhl Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+100,98,PT00M37.70S,1,1610612758,SAC,101128,Garcia,F. Garcia,161,115,20,Made,1,29,26,55,h,Garcia 20' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+101,99,PT00M20.90S,1,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,Missed,1,0,0,0,v,MISS Voskuhl  Layup,Missed Shot,Layup Shot,0,0
+102,101,PT00M19.90S,1,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,Voskuhl REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+103,100,PT00M19.90S,1,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,Made,1,29,28,57,v,Voskuhl  Tip Shot (4 PTS),Made Shot,Tip Shot,0,0
+104,102,PT00M02.90S,1,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,Carroll P.FOUL (P2.PN),Foul,Personal,0,0
+105,103,PT00M02.90S,1,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,30,28,58,h,Martin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+106,104,PT00M02.90S,1,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,SUB: Price FOR Thomas,Substitution,,0,0
+107,105,PT00M02.90S,1,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,31,28,59,h,Martin Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+108,106,PT00M00.00S,1,1610612766,CHA,200747,Morrison,A. Morrison,-20,326,33,Missed,1,0,0,0,v,MISS Morrison 33' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+109,108,PT00M00.00S,1,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Rebound,Rebound,Unknown,0,0
+110,107,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,28,59,,End of 1st Period (10:32 PM EST),period,end,0,0
+111,110,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,28,59,,Start of 2nd Period (10:35 PM EST),period,start,0,0
+112,111,PT11M50.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Made,1,31,30,61,v,Wallace  Layup (8 PTS) (Morrison 1 AST),Made Shot,Layup Shot,0,0
+113,112,PT11M50.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,Abdur-Rahim S.FOUL (P1.T1),Foul,Shooting,0,0
+114,113,PT11M50.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,31,31,62,v,Wallace Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+115,114,PT11M43.00S,2,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,Voskuhl S.FOUL (P1.T1),Foul,Shooting,0,0
+116,115,PT11M43.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,MISS Abdur-Rahim Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+117,116,PT11M43.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+118,117,PT11M43.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,32,31,63,h,Abdur-Rahim Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+119,118,PT11M25.00S,2,1610612766,CHA,1510,Knight,B. Knight,182,118,22,Missed,1,0,0,0,v,MISS Knight 22' Jump Shot,Missed Shot,Jump Shot,0,0
+120,119,PT11M24.00S,2,1610612758,SAC,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+121,120,PT11M07.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+122,120,PT11M07.00S,2,1610612766,CHA,1510,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight STEAL (1 STL),,,0,0
+123,121,PT11M07.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons P.FOUL (P1.T2),Foul,Personal,0,0
+124,122,PT11M07.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,SUB: Martin FOR Salmons,Substitution,,0,0
+125,123,PT10M55.00S,2,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison OFF.Foul (P1),Foul,Offensive,0,0
+126,124,PT10M55.00S,2,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison Foul Turnover (P1.T3),Turnover,Foul,0,0
+127,125,PT10M37.00S,2,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,Made,1,34,31,65,h,Garcia  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+128,126,PT10M22.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+129,126,PT10M22.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin STEAL (1 STL),,,0,0
+130,127,PT10M20.00S,2,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+131,128,PT10M05.00S,2,1610612766,CHA,1510,Knight,B. Knight,0,0,0,Missed,1,0,0,0,v,MISS Knight  Layup,Missed Shot,Layup Shot,0,0
+132,129,PT10M04.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,Abdur-Rahim REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+133,130,PT09M58.00S,2,1610612758,SAC,101179,Price,R. Price,213,122,25,Made,1,37,31,68,h,Price 25' 3PT Jump Shot (3 PTS) (Martin 2 AST),Made Shot,Jump Shot,0,0
+134,131,PT09M50.00S,2,1610612758,SAC,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price P.FOUL (P1.T3),Foul,Personal,0,0
+135,132,PT09M50.00S,2,1610612766,CHA,1510,Knight,B. Knight,0,0,0,,0,0,0,0,v,SUB: Felton FOR Knight,Substitution,,0,0
+136,133,PT09M42.00S,2,1610612766,CHA,200747,Morrison,A. Morrison,-182,146,23,Made,1,37,33,70,v,Morrison 23' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+137,134,PT09M31.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,Missed,1,0,0,0,h,MISS Abdur-Rahim  Layup,Missed Shot,Layup Shot,0,0
+138,135,PT09M29.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,Abdur-Rahim REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+139,136,PT09M28.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,94,28,10,Made,1,39,33,72,h,Abdur-Rahim 10' Fadeaway Jumper (3 PTS),Made Shot,Fadeaway Jump Shot,0,0
+140,137,PT09M20.00S,2,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,Missed,1,0,0,0,v,MISS Carroll  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+141,137,PT09M20.00S,2,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia BLOCK (1 BLK),,,0,0
+142,138,PT09M19.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Rebound,Rebound,Unknown,0,0
+143,139,PT09M16.00S,2,1610612766,CHA,101109,Felton,R. Felton,20,214,21,Made,1,39,35,74,v,Felton 21' Jump Bank Shot (2 PTS) (Carroll 1 AST),Made Shot,Jump Bank Shot,0,0
+144,140,PT08M57.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,3,71,7,Missed,1,0,0,0,h,MISS Abdur-Rahim 7' Jump Shot,Missed Shot,Jump Shot,0,0
+145,140,PT08M57.00S,2,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,Voskuhl BLOCK (1 BLK),,,0,0
+146,141,PT08M54.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+147,142,PT08M51.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,0
+148,142,PT08M51.00S,2,1610612758,SAC,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price STEAL (1 STL),,,0,0
+149,143,PT08M43.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,Abdur-Rahim Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0
+150,143,PT08M43.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace STEAL (1 STL),,,0,0
+151,144,PT08M36.00S,2,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+152,145,PT08M36.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+153,148,PT08M36.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,SUB: Brezec FOR Wallace,Substitution,,0,0
+154,149,PT08M36.00S,2,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,SUB: Williams FOR Voskuhl,Substitution,,0,0
+155,150,PT08M21.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,41,35,76,h,Martin  Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,0
+156,151,PT08M06.00S,2,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,Brezec Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0
+157,152,PT07M51.00S,2,1610612758,SAC,722,Williamson,C. Williamson,121,156,20,Missed,1,0,0,0,h,MISS Williamson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+158,153,PT07M49.00S,2,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+159,154,PT07M34.00S,2,1610612766,CHA,677,Williams,E. Williams,-199,5,20,Missed,1,0,0,0,v,MISS Williams 20' Jump Shot,Missed Shot,Jump Shot,0,0
+160,155,PT07M32.00S,2,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,Brezec REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+161,156,PT07M29.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,Williamson S.FOUL (P1.T4),Foul,Shooting,0,0
+162,157,PT07M29.00S,2,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,41,36,77,v,Carroll Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+163,158,PT07M29.00S,2,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,MISS Carroll Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+164,159,PT07M28.00S,2,1610612766,CHA,677,Williams,E. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+165,160,PT07M23.00S,2,1610612766,CHA,2679,Carroll,M. Carroll,-237,10,24,Missed,1,0,0,0,v,MISS Carroll 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+166,161,PT07M23.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Rebound,Rebound,Unknown,0,0
+167,162,PT07M23.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,Williamson L.B.FOUL (P2.PN),Foul,Loose Ball,0,0
+168,163,PT07M23.00S,2,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,MISS Brezec Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+169,164,PT07M23.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Rebound,Rebound,Normal Rebound,0,0
+170,165,PT07M23.00S,2,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,41,37,78,v,Brezec Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+171,166,PT07M08.00S,2,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,Brezec S.FOUL (P3.T2),Foul,Shooting,0,0
+172,167,PT07M08.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,42,37,79,h,Williamson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+173,168,PT07M08.00S,2,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,SUB: Wallace FOR Brezec,Substitution,,0,0
+174,169,PT07M08.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,43,37,80,h,Williamson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+175,170,PT06M56.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,Williamson S.FOUL (P3.PN),Foul,Shooting,0,0
+176,171,PT06M56.00S,2,1610612766,CHA,677,Williams,E. Williams,0,0,0,,0,0,0,0,v,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+177,172,PT06M56.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Rebound,Rebound,Normal Rebound,0,0
+178,173,PT06M56.00S,2,1610612766,CHA,677,Williams,E. Williams,0,0,0,,0,43,38,81,v,Williams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+179,174,PT06M43.00S,2,1610612758,SAC,722,Williamson,C. Williamson,-136,127,19,Made,1,45,38,83,h,Williamson 19' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+180,175,PT06M28.00S,2,1610612766,CHA,200747,Morrison,A. Morrison,-189,100,21,Made,1,45,40,85,v,Morrison 21' Jump Shot (4 PTS) (Wallace 4 AST),Made Shot,Jump Shot,0,0
+181,176,PT06M16.00S,2,1610612758,SAC,722,Williamson,C. Williamson,3,76,8,Made,1,47,40,87,h,Williamson 8' Jump Hook Shot (6 PTS),Made Shot,Jump Hook Shot,0,0
+182,177,PT06M09.00S,2,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,SUB: Bibby FOR Garcia,Substitution,,0,0
+183,178,PT06M01.00S,2,1610612766,CHA,2679,Carroll,M. Carroll,-186,54,19,Missed,1,0,0,0,v,MISS Carroll 19' Jump Shot,Missed Shot,Jump Shot,0,0
+184,179,PT06M01.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+185,180,PT06M01.00S,2,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison P.FOUL (P2.T3),Foul,Personal,0,0
+186,181,PT05M52.00S,2,1610612766,CHA,677,Williams,E. Williams,0,0,0,,0,0,0,0,v,Bobcats T.Foul (Def. 3 Sec Williams ),Foul,Defense 3 Second,0,0
+187,182,PT05M52.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+188,184,PT05M52.00S,2,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Carroll,Substitution,,0,0
+189,185,PT05M52.00S,2,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,SUB: Herrmann FOR Felton,Substitution,,0,0
+190,186,PT05M52.00S,2,1610612766,CHA,677,Williams,E. Williams,0,0,0,,0,0,0,0,v,SUB: Felton FOR Williams,Substitution,,0,0
+191,188,PT05M52.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,48,40,88,h,Williamson Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0
+192,190,PT05M44.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0
+193,190,PT05M44.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace STEAL (2 STL),,,0,0
+194,191,PT05M41.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Made,1,48,42,90,v,Wallace  Layup (11 PTS),Made Shot,Layup Shot,0,0
+195,192,PT05M41.00S,2,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0,0,0,h,Bibby S.FOUL (P1.PN),Foul,Shooting,0,0
+196,193,PT05M41.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,48,43,91,v,Wallace Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0
+197,194,PT05M27.00S,2,1610612758,SAC,101179,Price,R. Price,-217,118,25,Missed,1,0,0,0,h,MISS Price 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+198,195,PT05M24.00S,2,1610612766,CHA,200835,Herrmann,W. Herrmann,0,0,0,,0,0,0,0,v,Herrmann REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+199,196,PT05M09.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,-228,-1,0,Made,1,48,46,94,v,Wallace  3PT Jump Shot (15 PTS) (Anderson 2 AST),Made Shot,Jump Shot,0,0
+200,197,PT04M55.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,Made,1,50,46,96,h,Abdur-Rahim  Layup (5 PTS) (Martin 3 AST),Made Shot,Layup Shot,0,0
+201,198,PT04M33.00S,2,1610612766,CHA,101109,Felton,R. Felton,-181,176,25,Made,1,50,49,99,v,Felton 25' 3PT Jump Shot (5 PTS) (Wallace 5 AST),Made Shot,Jump Shot,0,0
+202,199,PT04M22.00S,2,1610612766,CHA,200835,Herrmann,W. Herrmann,0,0,0,,0,0,0,0,v,Herrmann S.FOUL (P1.T4),Foul,Shooting,0,0
+203,200,PT04M22.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,SUB: Miller FOR Abdur-Rahim,Substitution,,0,0
+204,201,PT04M22.00S,2,1610612758,SAC,101179,Price,R. Price,0,0,0,,0,51,49,100,h,Price Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+205,202,PT04M22.00S,2,1610612758,SAC,101179,Price,R. Price,0,0,0,,0,52,49,101,h,Price Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+206,204,PT04M03.00S,2,1610612766,CHA,1507,Anderson,D. Anderson,103,222,24,Missed,1,0,0,0,v,MISS Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+207,205,PT04M01.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,Williamson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+208,206,PT03M54.00S,2,1610612758,SAC,101179,Price,R. Price,0,0,0,,0,0,0,0,h,SUB: Salmons FOR Price,Substitution,,0,0
+209,207,PT03M49.00S,2,1610612766,CHA,200835,Herrmann,W. Herrmann,0,0,0,,0,0,0,0,v,Herrmann S.FOUL (P2.PN),Foul,Shooting,0,0
+210,208,PT03M49.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+211,209,PT03M49.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+212,210,PT03M49.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,53,49,102,h,Williamson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+213,211,PT03M33.00S,2,1610612766,CHA,200835,Herrmann,W. Herrmann,225,23,0,Missed,1,0,0,0,v,MISS Herrmann  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+214,212,PT03M31.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+215,213,PT03M25.00S,2,1610612758,SAC,2755,Martin,K. Martin,-79,242,25,Missed,1,0,0,0,h,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+216,214,PT03M23.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+217,215,PT03M20.00S,2,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,Made,1,53,51,104,v,Anderson  Layup (6 PTS) (Wallace 6 AST),Made Shot,Layup Shot,0,0
+218,216,PT02M59.00S,2,1610612758,SAC,2755,Martin,K. Martin,-164,196,26,Missed,1,0,0,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+219,217,PT02M57.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+220,218,PT02M54.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,0
+221,222,PT02M41.00S,2,1610612766,CHA,101109,Felton,R. Felton,-21,245,25,Missed,1,0,0,0,v,MISS Felton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+222,223,PT02M39.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+223,224,PT02M20.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Missed,1,0,0,0,h,MISS Miller  Layup,Missed Shot,Layup Shot,0,0
+224,224,PT02M20.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace BLOCK (2 BLK),,,0,0
+225,225,PT02M18.00S,2,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0,0,0,h,Bibby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+226,226,PT02M17.00S,2,1610612758,SAC,1710,Bibby,M. Bibby,-105,225,25,Made,1,56,51,107,h,Bibby 25' 3PT Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+227,227,PT01M57.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,-153,66,17,Made,1,56,53,109,v,Wallace 17' Jump Bank Shot (17 PTS),Made Shot,Jump Bank Shot,0,0
+228,228,PT01M47.00S,2,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,Made,1,58,53,111,h,Williamson  Running Hook Shot (10 PTS),Made Shot,Running Hook Shot,0,0
+229,229,PT01M35.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons S.FOUL (P2.PN),Foul,Shooting,0,0
+230,230,PT01M35.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,SUB: Garcia FOR Salmons,Substitution,,0,0
+231,231,PT01M35.00S,2,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,MISS Morrison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+232,232,PT01M35.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Rebound,Rebound,Normal Rebound,0,0
+233,233,PT01M35.00S,2,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,58,54,112,v,Morrison Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+234,234,PT01M14.00S,2,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0,0,0,h,Bibby Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+235,234,PT01M14.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace STEAL (3 STL),,,0,0
+236,235,PT01M09.00S,2,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Made,1,58,56,114,v,Wallace  Alley Oop Dunk (19 PTS) (Felton 2 AST),Made Shot,Alley Oop Dunk Shot,0,0
+237,236,PT00M58.10S,2,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson P.FOUL (P2.PN),Foul,Personal,0,0
+238,237,PT00M58.10S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,59,56,115,h,Martin Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+239,238,PT00M58.10S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,60,56,116,h,Martin Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+240,239,PT00M46.90S,2,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0
+241,239,PT00M46.90S,2,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia STEAL (1 STL),,,0,0
+242,240,PT00M39.90S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Missed,1,0,0,0,h,MISS Martin  Layup,Missed Shot,Layup Shot,0,0
+243,241,PT00M38.90S,2,1610612766,CHA,200835,Herrmann,W. Herrmann,0,0,0,,0,0,0,0,v,Herrmann REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+244,242,PT00M31.90S,2,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,Made,1,60,58,118,v,Anderson  Layup (8 PTS) (Wallace 7 AST),Made Shot,Layup Shot,0,0
+245,243,PT00M15.40S,2,1610612758,SAC,2755,Martin,K. Martin,-3,171,17,Made,1,62,58,120,h,Martin 17' Jump Shot (18 PTS),Made Shot,Jump Shot,0,0
+246,244,PT00M00.00S,2,1610612766,CHA,200835,Herrmann,W. Herrmann,-222,10,0,Missed,1,0,0,0,v,MISS Herrmann  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+247,246,PT00M00.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Rebound,Rebound,Unknown,0,0
+248,245,PT00M00.00S,2,0,,0,,,0,0,0,,0,62,58,120,,End of 2nd Period (11:06 PM EST),period,end,0,0
+249,248,PT12M00.00S,3,0,,0,,,0,0,0,,0,62,58,120,,Start of 3rd Period (11:22 PM EST),period,start,0,0
+250,249,PT11M50.00S,3,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,Made,1,62,60,122,v,Brezec  Dunk (11 PTS) (Anderson 3 AST),Made Shot,Dunk Shot,0,0
+251,250,PT11M38.00S,3,1610612758,SAC,2755,Martin,K. Martin,10,63,6,Made,1,64,60,124,h,Martin 6' Jump Shot (20 PTS) (Salmons 1 AST),Made Shot,Jump Shot,0,0
+252,251,PT11M20.00S,3,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+253,251,PT11M20.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin STEAL (2 STL),,,0,0
+254,252,PT11M16.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,66,60,126,h,Martin  Dunk (22 PTS),Made Shot,Dunk Shot,0,0
+255,253,PT10M49.00S,3,1610612766,CHA,2222,Wallace,G. Wallace,-92,89,13,Missed,1,0,0,0,v,MISS Wallace 13' Jump Shot,Missed Shot,Jump Shot,0,0
+256,254,PT10M47.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+257,255,PT10M46.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0
+258,255,PT10M46.00S,3,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson STEAL (1 STL),,,0,0
+259,256,PT10M44.00S,3,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,Made,1,66,62,128,v,Anderson  Layup (10 PTS),Made Shot,Layup Shot,0,0
+260,257,PT10M25.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,-215,128,25,Made,1,69,62,131,h,Salmons 25' 3PT Jump Shot (11 PTS) (Bibby 3 AST),Made Shot,Jump Shot,0,0
+261,258,PT10M03.00S,3,1610612766,CHA,1507,Anderson,D. Anderson,11,89,9,Missed,1,0,0,0,v,MISS Anderson 9' Jump Shot,Missed Shot,Jump Shot,0,0
+262,259,PT10M00.00S,3,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+263,260,PT09M54.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+264,260,PT09M54.00S,3,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,Carroll STEAL (1 STL),,,0,0
+265,261,PT09M47.00S,3,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0
+266,261,PT09M47.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons STEAL (2 STL),,,0,0
+267,262,PT09M44.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,Made,1,71,62,133,h,Bibby  Layup (6 PTS) (Salmons 2 AST),Made Shot,Layup Shot,0,0
+268,263,PT09M43.00S,3,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+269,266,PT09M21.00S,3,1610612766,CHA,101109,Felton,R. Felton,-52,255,26,Made,1,71,65,136,v,Felton 26' 3PT Jump Shot (8 PTS) (Anderson 4 AST),Made Shot,Jump Shot,0,0
+270,267,PT09M06.00S,3,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,Brezec S.FOUL (P4.T1),Foul,Shooting,0,0
+271,268,PT09M06.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,72,65,137,h,Martin Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0
+272,269,PT09M06.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+273,270,PT09M05.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+274,271,PT09M02.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0
+275,271,PT09M02.00S,3,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton STEAL (2 STL),,,0,0
+276,272,PT08M56.00S,3,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,Carroll Traveling Turnover (P1.T11),Turnover,Traveling,0,0
+277,273,PT08M41.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller Traveling Turnover (P4.T10),Turnover,Traveling,0,0
+278,274,PT08M41.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller T.FOUL (P1.T0),Foul,Technical,0,0
+279,275,PT08M41.00S,3,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,SUB: Voskuhl FOR Brezec,Substitution,,0,0
+280,276,PT08M41.00S,3,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,72,66,138,v,Carroll Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0
+281,277,PT08M26.00S,3,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,0
+282,277,PT08M26.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0,0,0,h,Bibby STEAL (2 STL),,,0,0
+283,278,PT08M20.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,-210,118,24,Missed,1,0,0,0,h,MISS Bibby 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+284,279,PT08M18.00S,3,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+285,280,PT07M55.00S,3,1610612766,CHA,2222,Wallace,G. Wallace,-235,2,24,Made,1,72,69,141,v,Wallace 24' 3PT Jump Shot (22 PTS) (Felton 3 AST),Made Shot,Jump Shot,0,0
+286,281,PT07M43.00S,3,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson P.FOUL (P3.T2),Foul,Personal,0,0
+287,282,PT07M43.00S,3,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,SUB: Knight FOR Felton,Substitution,,0,0
+288,283,PT07M36.00S,3,1610612766,CHA,1510,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight P.FOUL (P1.T3),Foul,Personal,0,0
+289,284,PT07M22.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,228,13,0,Made,1,75,69,144,h,Bibby  3PT Jump Shot (9 PTS) (Salmons 3 AST),Made Shot,Jump Shot,0,0
+290,285,PT07M20.00S,3,0,,813,,,0,0,0,,0,0,0,0,,Bernie Bickerstaff Foul:T.FOUL,Foul,Technical,0,0
+291,286,PT07M20.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,76,69,145,h,Bibby Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,0
+292,287,PT06M59.00S,3,1610612766,CHA,2679,Carroll,M. Carroll,207,12,21,Missed,1,0,0,0,v,MISS Carroll 21' Jump Shot,Missed Shot,Jump Shot,0,0
+293,288,PT06M57.00S,3,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,Voskuhl REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+294,289,PT06M53.00S,3,1610612766,CHA,2679,Carroll,M. Carroll,235,2,24,Made,1,76,72,148,v,Carroll 24' 3PT Jump Shot (11 PTS) (Anderson 5 AST),Made Shot,Jump Shot,0,0
+295,290,PT06M24.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,95,238,26,Made,1,79,72,151,h,Bibby 26' 3PT Jump Shot (13 PTS) (Thomas 1 AST),Made Shot,Jump Shot,0,0
+296,291,PT06M09.00S,3,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,Made,1,79,74,153,v,Carroll  Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,0
+297,292,PT06M01.00S,3,1610612758,SAC,2755,Martin,K. Martin,-230,68,24,Made,1,82,74,156,h,Martin 24' 3PT Jump Shot (26 PTS) (Bibby 4 AST),Made Shot,Jump Shot,0,0
+298,293,PT05M42.00S,3,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,Thomas S.FOUL (P1.T1),Foul,Shooting,0,0
+299,294,PT05M42.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+300,296,PT05M42.00S,3,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,SUB: Morrison FOR Anderson,Substitution,,0,0
+301,297,PT05M42.00S,3,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0,0,0,h,SUB: Garcia FOR Thomas,Substitution,,0,0
+302,298,PT05M42.00S,3,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,82,75,157,v,Wallace Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0
+303,299,PT05M42.00S,3,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,82,76,158,v,Wallace Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0
+304,300,PT05M21.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,-171,192,26,Made,1,85,76,161,h,Bibby 26' 3PT Jump Shot (16 PTS) (Miller 3 AST),Made Shot,Jump Shot,0,0
+305,301,PT05M06.00S,3,1610612766,CHA,200747,Morrison,A. Morrison,-189,174,26,Missed,1,0,0,0,v,MISS Morrison 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+306,302,PT05M03.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+307,303,PT04M51.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,87,76,163,h,Martin  Layup (28 PTS) (Miller 4 AST),Made Shot,Layup Shot,0,0
+308,304,PT04M51.00S,3,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,Carroll S.FOUL (P3.T4),Foul,Shooting,0,0
+309,305,PT04M51.00S,3,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,SUB: Felton FOR Carroll,Substitution,,0,0
+310,306,PT04M51.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,88,76,164,h,Martin Free Throw 1 of 1 (29 PTS),Free Throw,Free Throw 1 of 1,0,0
+311,307,PT04M37.00S,3,1610612766,CHA,101109,Felton,R. Felton,186,118,22,Made,1,88,78,166,v,Felton 22' Jump Shot (10 PTS) (Wallace 8 AST),Made Shot,Jump Shot,0,0
+312,308,PT04M20.00S,3,1610612758,SAC,1802,Miller,B. Miller,46,36,6,Made,1,90,78,168,h,Miller 6' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+313,309,PT04M07.00S,3,1610612766,CHA,200747,Morrison,A. Morrison,227,22,0,Missed,1,0,0,0,v,MISS Morrison  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+314,310,PT04M05.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+315,311,PT04M01.00S,3,1610612766,CHA,1510,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight S.FOUL (P2.PN),Foul,Shooting,0,0
+316,312,PT04M01.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,91,78,169,h,Bibby Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+317,313,PT04M01.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,92,78,170,h,Bibby Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+318,314,PT03M39.00S,3,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Made,1,92,80,172,v,Wallace  Layup (26 PTS) (Knight 3 AST),Made Shot,Layup Shot,0,0
+319,315,PT03M39.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia S.FOUL (P2.T2),Foul,Shooting,0,0
+320,316,PT03M39.00S,3,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,92,81,173,v,Wallace Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,0,0
+321,317,PT03M23.00S,3,1610612758,SAC,1802,Miller,B. Miller,-156,135,21,Missed,1,0,0,0,h,MISS Miller 21' Jump Shot,Missed Shot,Jump Shot,0,0
+322,318,PT03M21.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+323,319,PT03M18.00S,3,1610612758,SAC,2755,Martin,K. Martin,-200,81,22,Made,1,94,81,175,h,Martin 22' Jump Shot (31 PTS),Made Shot,Jump Shot,0,0
+324,320,PT02M52.00S,3,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0
+325,321,PT02M52.00S,3,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+326,323,PT02M52.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,SUB: Abdur-Rahim FOR Miller,Substitution,,0,0
+327,325,PT02M27.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,171,120,21,Missed,1,0,0,0,h,MISS Salmons 21' Jump Shot,Missed Shot,Jump Shot,0,0
+328,326,PT02M27.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+329,327,PT02M27.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0
+330,328,PT02M08.00S,3,1610612766,CHA,1510,Knight,B. Knight,-161,130,21,Missed,1,0,0,0,v,MISS Knight 21' Jump Shot,Missed Shot,Jump Shot,0,0
+331,329,PT02M07.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+332,330,PT01M57.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0
+333,330,PT01M57.00S,3,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison STEAL (1 STL),,,0,0
+334,331,PT01M52.00S,3,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Made,1,94,83,177,v,Wallace  Dunk (29 PTS) (Knight 4 AST),Made Shot,Dunk Shot,0,0
+335,332,PT01M27.00S,3,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,Voskuhl S.FOUL (P2.PN),Foul,Shooting,0,0
+336,333,PT01M27.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,MISS Salmons Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+337,334,PT01M27.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+338,335,PT01M27.00S,3,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Wallace,Substitution,,0,0
+339,336,PT01M27.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0,0,0,h,SUB: Price FOR Bibby,Substitution,,0,0
+340,337,PT01M27.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,95,83,178,h,Salmons Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+341,338,PT01M18.00S,3,1610612766,CHA,1510,Knight,B. Knight,0,0,0,Made,1,95,85,180,v,Knight  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+342,339,PT00M53.90S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,Abdur-Rahim 3 Second Violation Turnover (P2.T13),Turnover,3 Second Violation,0,0
+343,340,PT00M53.90S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,SUB: Williamson FOR Salmons,Substitution,,0,0
+344,341,PT00M39.90S,3,1610612766,CHA,2063,Voskuhl,J. Voskuhl,-177,0,18,Missed,1,0,0,0,v,MISS Voskuhl 18' Jump Shot,Missed Shot,Jump Shot,0,0
+345,342,PT00M37.90S,3,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,Williamson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+346,343,PT00M25.60S,3,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson S.FOUL (P4.PN),Foul,Shooting,0,0
+347,344,PT00M25.60S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+348,345,PT00M25.60S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+349,346,PT00M25.60S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,96,85,181,h,Martin Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0
+350,347,PT00M02.50S,3,1610612766,CHA,101109,Felton,R. Felton,-212,122,24,Made,1,96,88,184,v,Felton 24' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+351,348,PT00M00.00S,3,1610612758,SAC,101179,Price,R. Price,-159,468,49,Missed,1,0,0,0,h,MISS Price 49' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+352,350,PT00M00.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+353,349,PT00M00.00S,3,0,,0,,,0,0,0,,0,96,88,184,,End of 3rd Period (11:48 PM EST),period,end,0,0
+354,352,PT12M00.00S,4,0,,0,,,0,0,0,,0,96,88,184,,Start of 4th Period (11:50 PM EST),period,start,0,0
+355,353,PT11M43.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0
+356,353,PT11M43.00S,4,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,Voskuhl STEAL (1 STL),,,0,0
+357,354,PT11M42.00S,4,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,Abdur-Rahim P.FOUL (P2.T1),Foul,Personal,0,0
+358,355,PT11M30.00S,4,1610612766,CHA,1510,Knight,B. Knight,108,153,19,Made,1,96,90,186,v,Knight 19' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+359,356,PT11M19.00S,4,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,Voskuhl P.FOUL (P3.T1),Foul,Personal,0,0
+360,357,PT11M16.00S,4,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,Voskuhl S.FOUL (P4.T2),Foul,Shooting,0,0
+361,358,PT11M16.00S,4,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+362,359,PT11M16.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+363,360,PT11M16.00S,4,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+364,362,PT11M13.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+365,363,PT11M05.00S,4,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,Williamson S.FOUL (P4.T2),Foul,Shooting,0,0
+366,364,PT11M05.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,96,91,187,v,Anderson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+367,365,PT11M05.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,96,92,188,v,Anderson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+368,366,PT10M51.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,-153,201,25,Made,1,99,92,191,h,Garcia 25' 3PT Jump Shot (7 PTS) (Martin 4 AST),Made Shot,Jump Shot,0,0
+369,367,PT10M44.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0
+370,367,PT10M44.00S,4,1610612758,SAC,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price STEAL (2 STL),,,0,0
+371,368,PT10M44.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson P.FOUL (P5.T3),Foul,Personal,0,0
+372,369,PT10M44.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,SUB: Wallace FOR Anderson,Substitution,,0,0
+373,370,PT10M31.00S,4,1610612758,SAC,2755,Martin,K. Martin,-159,105,19,Made,1,101,92,193,h,Martin 19' Jump Shot (34 PTS),Made Shot,Jump Shot,0,0
+374,375,PT10M24.00S,4,1610612758,SAC,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price S.FOUL (P2.T3),Foul,Shooting,0,0
+375,371,PT10M24.00S,4,1610612766,CHA,1510,Knight,B. Knight,0,0,0,,0,101,93,194,v,Knight Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+376,372,PT10M24.00S,4,1610612766,CHA,1510,Knight,B. Knight,0,0,0,,0,101,94,195,v,Knight Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+377,373,PT10M24.00S,4,1610612766,CHA,2063,Voskuhl,J. Voskuhl,0,0,0,,0,0,0,0,v,SUB: Brezec FOR Voskuhl,Substitution,,0,0
+378,374,PT10M10.00S,4,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,Abdur-Rahim OFF.Foul (P3),Foul,Offensive,0,0
+379,379,PT10M10.00S,4,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,Abdur-Rahim Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0
+380,376,PT09M51.00S,4,1610612766,CHA,101109,Felton,R. Felton,123,36,13,Made,1,101,96,197,v,Felton 13' Jump Shot (15 PTS),Made Shot,Jump Shot,0,0
+381,377,PT09M34.00S,4,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,Made,1,103,96,199,h,Abdur-Rahim  Layup (7 PTS) (Williamson 1 AST),Made Shot,Layup Shot,0,0
+382,378,PT09M30.00S,4,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+383,382,PT09M30.00S,4,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0,0,0,h,SUB: Miller FOR Abdur-Rahim,Substitution,,0,0
+384,383,PT09M11.00S,4,1610612766,CHA,1510,Knight,B. Knight,133,150,20,Made,1,103,98,201,v,Knight 20' Jump Shot (8 PTS) (Wallace 9 AST),Made Shot,Jump Shot,0,0
+385,384,PT08M57.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison S.FOUL (P3.T4),Foul,Shooting,0,0
+386,385,PT08M57.00S,4,1610612758,SAC,101179,Price,R. Price,0,0,0,,0,0,0,0,h,SUB: Bibby FOR Price,Substitution,,0,0
+387,386,PT08M57.00S,4,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+388,387,PT08M57.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+389,388,PT08M57.00S,4,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,104,98,202,h,Williamson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+390,390,PT08M43.00S,4,1610612766,CHA,1510,Knight,B. Knight,176,110,21,Made,1,104,100,204,v,Knight 21' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+391,391,PT08M28.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0
+392,391,PT08M28.00S,4,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace STEAL (4 STL),,,0,0
+393,392,PT08M19.00S,4,1610612766,CHA,2222,Wallace,G. Wallace,-232,20,0,Missed,1,0,0,0,v,MISS Wallace  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+394,393,PT08M17.00S,4,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+395,395,PT08M12.00S,4,1610612766,CHA,101109,Felton,R. Felton,212,118,24,Missed,1,0,0,0,v,MISS Felton 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+396,396,PT08M12.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+397,397,PT08M12.00S,4,1610612758,SAC,722,Williamson,C. Williamson,0,0,0,,0,0,0,0,h,SUB: Salmons FOR Williamson,Substitution,,0,0
+398,399,PT07M54.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,59,237,24,Made,1,107,100,207,h,Garcia 24' 3PT Jump Shot (10 PTS) (Salmons 4 AST),Made Shot,Jump Shot,0,0
+399,400,PT07M33.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons P.FOUL (P3.T4),Foul,Personal,0,0
+400,402,PT07M33.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,SUB: Carroll FOR Morrison,Substitution,,0,0
+401,404,PT07M27.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,Carroll Step Out of Bounds Turnover (P2.T15),Turnover,Step Out of Bounds Turnover,0,0
+402,405,PT07M08.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,109,100,209,h,Martin  Layup (36 PTS) (Miller 5 AST),Made Shot,Layup Shot,0,0
+403,406,PT07M06.00S,4,0,,1610612766,,,0,0,0,,0,0,0,0,v,Bobcats Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,0
+404,410,PT06M43.00S,4,1610612766,CHA,101109,Felton,R. Felton,0,0,0,Missed,1,0,0,0,v,MISS Felton  Layup,Missed Shot,Layup Shot,0,0
+405,410,PT06M43.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller BLOCK (1 BLK),,,0,0
+406,411,PT06M42.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+407,412,PT06M30.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia Poss Lost Ball Turnover (P3.T17),Turnover,Poss Lost Ball Turnover,0,0
+408,413,PT06M12.00S,4,1610612766,CHA,2056,Brezec,P. Brezec,67,58,9,Missed,1,0,0,0,v,MISS Brezec 9' Jump Shot,Missed Shot,Jump Shot,0,0
+409,414,PT06M10.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+410,415,PT06M07.00S,4,1610612766,CHA,1510,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight S.FOUL (P3.PN),Foul,Shooting,0,0
+411,416,PT06M07.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,MISS Salmons Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+412,417,PT06M07.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+413,418,PT06M07.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,110,100,210,h,Salmons Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+414,419,PT05M53.00S,4,1610612766,CHA,1510,Knight,B. Knight,-153,45,16,Made,1,110,102,212,v,Knight 16' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,0,0
+415,420,PT05M46.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,176,10,18,Missed,1,0,0,0,h,MISS Garcia 18' Jump Shot,Missed Shot,Jump Shot,0,0
+416,421,PT05M44.00S,4,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+417,422,PT05M35.00S,4,1610612766,CHA,1510,Knight,B. Knight,148,148,21,Missed,1,0,0,0,v,MISS Knight 21' Jump Shot,Missed Shot,Jump Shot,0,0
+418,423,PT05M33.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+419,424,PT05M24.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,-179,36,18,Made,1,112,102,214,h,Bibby 18' Jump Shot (20 PTS),Made Shot,Jump Shot,0,0
+420,425,PT05M10.00S,4,1610612766,CHA,101109,Felton,R. Felton,0,0,0,Made,1,112,104,216,v,Felton  Driving Layup (17 PTS),Made Shot,Driving Layup Shot,0,0
+421,426,PT04M54.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,15,250,25,Made,1,115,104,219,h,Bibby 25' 3PT Jump Shot (23 PTS),Made Shot,Jump Shot,0,0
+422,427,PT04M38.00S,4,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,Made,1,115,106,221,v,Wallace  Alley Oop Dunk (31 PTS) (Knight 5 AST),Made Shot,Alley Oop Dunk Shot,0,0
+423,428,PT04M25.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,8,261,26,Made,1,118,106,224,h,Bibby 26' 3PT Jump Shot (26 PTS) (Miller 6 AST),Made Shot,Jump Shot,0,0
+424,429,PT04M10.00S,4,1610612766,CHA,2222,Wallace,G. Wallace,-238,0,24,Missed,1,0,0,0,v,MISS Wallace 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+425,430,PT04M08.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+426,431,PT04M08.00S,4,1610612766,CHA,1510,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight P.FOUL (P4.PN),Foul,Personal,0,0
+427,432,PT04M08.00S,4,1610612766,CHA,2056,Brezec,P. Brezec,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Brezec,Substitution,,0,0
+428,433,PT04M08.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,119,106,225,h,Garcia Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+429,434,PT04M08.00S,4,1610612766,CHA,1510,Knight,B. Knight,0,0,0,,0,0,0,0,v,SUB: Morrison FOR Knight,Substitution,,0,0
+430,435,PT04M08.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,120,106,226,h,Garcia Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+431,436,PT04M02.00S,4,1610612766,CHA,101109,Felton,R. Felton,0,0,0,Made,1,120,108,228,v,Felton  Driving Layup (19 PTS),Made Shot,Driving Layup Shot,0,0
+432,437,PT03M44.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,151,199,25,Made,1,123,108,231,h,Bibby 25' 3PT Jump Shot (29 PTS) (Salmons 5 AST),Made Shot,Jump Shot,0,0
+433,438,PT03M31.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia S.FOUL (P3.PN),Foul,Shooting,0,0
+434,439,PT03M31.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,123,109,232,v,Carroll Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+435,440,PT03M31.00S,4,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,SUB: Herrmann FOR Wallace,Substitution,,0,0
+436,441,PT03M31.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,123,110,233,v,Carroll Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+437,442,PT03M27.00S,4,1610612766,CHA,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,v,Wallace T.FOUL (P1.PN),Foul,Technical,0,0
+438,443,PT03M27.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,124,110,234,h,Bibby Free Throw Technical (30 PTS),Free Throw,Free Throw Technical,0,0
+439,444,PT03M21.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,194,169,26,Missed,1,0,0,0,h,MISS Bibby 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+440,445,PT03M20.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+441,446,PT03M15.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin P.FOUL (P2.PN),Foul,Personal,0,0
+442,447,PT03M15.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,124,111,235,v,Carroll Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+443,448,PT03M15.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,124,112,236,v,Carroll Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+444,449,PT03M01.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson S.FOUL (P6.PN),Foul,Shooting,0,0
+445,450,PT03M01.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,SUB: Hollins FOR Anderson,Substitution,,0,0
+446,451,PT03M01.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,125,112,237,h,Salmons Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+447,452,PT03M01.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,126,112,238,h,Salmons Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+448,453,PT02M44.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,-214,10,21,Missed,1,0,0,0,v,MISS Morrison 21' Jump Shot,Missed Shot,Jump Shot,0,0
+449,453,PT02M44.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia BLOCK (2 BLK),,,0,0
+450,454,PT02M41.00S,4,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+451,455,PT02M24.00S,4,1610612758,SAC,1802,Miller,B. Miller,-233,2,0,Made,1,129,112,241,h,Miller  3PT Jump Shot (13 PTS) (Bibby 5 AST),Made Shot,Jump Shot,0,0
+452,456,PT02M12.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,Made,1,129,114,243,v,Hollins  Slam Dunk (2 PTS) (Felton 4 AST),Made Shot,Slam Dunk Shot,0,0
+453,457,PT01M54.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Missed,1,0,0,0,h,MISS Martin  Layup,Missed Shot,Layup Shot,0,0
+454,457,PT01M54.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins BLOCK (1 BLK),,,0,0
+455,458,PT01M51.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+456,459,PT01M49.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,Made,1,129,116,245,v,Carroll  Driving Layup (19 PTS),Made Shot,Driving Layup Shot,0,0
+457,460,PT01M31.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,-2,197,20,Missed,1,0,0,0,h,MISS Garcia 20' Jump Shot,Missed Shot,Jump Shot,0,0
+458,461,PT01M29.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0,0,0,v,Carroll REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+459,462,PT01M25.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,h,Garcia P.FOUL (P4.PN),Foul,Personal,0,0
+460,463,PT01M25.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+461,468,PT01M25.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,129,117,246,v,Morrison Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+462,469,PT01M25.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,MISS Morrison Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+463,470,PT01M22.00S,4,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+464,471,PT01M18.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,49,115,13,Missed,1,0,0,0,v,MISS Morrison 13' Jump Shot,Missed Shot,Jump Shot,0,0
+465,472,PT01M16.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+466,473,PT01M15.00S,4,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,Missed,1,0,0,0,v,MISS Morrison  Layup,Missed Shot,Layup Shot,0,0
+467,474,PT01M15.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+468,475,PT01M15.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins L.B.FOUL (P1.PN),Foul,Loose Ball,0,0
+469,476,PT01M15.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,130,117,247,h,Miller Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+470,477,PT01M15.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0,0,0,h,SUB: Douby FOR Bibby,Substitution,,0,0
+471,478,PT01M15.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,MISS Miller Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+472,479,PT01M14.00S,4,1610612766,CHA,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+473,480,PT01M07.00S,4,1610612766,CHA,200835,Herrmann,W. Herrmann,90,17,9,Missed,1,0,0,0,v,MISS Herrmann 9' Jump Shot,Missed Shot,Jump Shot,0,0
+474,482,PT01M06.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+475,481,PT01M06.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,Missed,1,0,0,0,v,MISS Hollins  Tip Shot,Missed Shot,Tip Shot,0,0
+476,483,PT01M05.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0
+477,484,PT01M05.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0,0,0,h,SUB: Williams FOR Miller,Substitution,,0,0
+478,486,PT00M45.40S,4,1610612766,CHA,200835,Herrmann,W. Herrmann,0,0,0,,0,0,0,0,v,Herrmann P.FOUL (P3.PN),Foul,Personal,0,0
+479,487,PT00M45.40S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,131,117,248,h,Garcia Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+480,488,PT00M45.40S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0,0,0,h,SUB: Price FOR Martin,Substitution,,0,0
+481,489,PT00M45.40S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,132,117,249,h,Garcia Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+482,490,PT00M37.90S,4,1610612766,CHA,2679,Carroll,M. Carroll,171,17,17,Missed,1,0,0,0,v,MISS Carroll 17' Jump Shot,Missed Shot,Jump Shot,0,0
+483,491,PT00M35.90S,4,1610612758,SAC,200818,Williams,J. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+484,492,PT00M31.90S,4,1610612758,SAC,200818,Williams,J. Williams,0,0,0,,0,0,0,0,h,Williams Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0
+485,492,PT00M31.90S,4,1610612766,CHA,200747,Morrison,A. Morrison,0,0,0,,0,0,0,0,v,Morrison STEAL (2 STL),,,0,0
+486,493,PT00M27.80S,4,1610612766,CHA,101109,Felton,R. Felton,-189,160,25,Made,1,132,120,252,v,Felton 25' 3PT Jump Shot (22 PTS),Made Shot,Jump Shot,0,0
+487,494,PT00M20.90S,4,1610612758,SAC,101179,Price,R. Price,0,0,0,Missed,1,0,0,0,h,MISS Price  Layup,Missed Shot,Layup Shot,0,0
+488,495,PT00M20.20S,4,1610612758,SAC,200818,Williams,J. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+489,496,PT00M20.20S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins P.FOUL (P2.PN),Foul,Personal,0,0
+490,498,PT00M20.20S,4,1610612758,SAC,200818,Williams,J. Williams,0,0,0,,0,0,0,0,h,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+491,499,PT00M20.20S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0
+492,500,PT00M20.20S,4,1610612758,SAC,200818,Williams,J. Williams,0,0,0,,0,133,120,253,h,Williams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+493,501,PT00M15.90S,4,1610612766,CHA,200747,Morrison,A. Morrison,-168,197,26,Missed,1,0,0,0,v,MISS Morrison 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+494,502,PT00M14.90S,4,1610612758,SAC,200763,Douby,Q. Douby,0,0,0,,0,0,0,0,h,Douby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+495,503,PT00M10.20S,4,1610612758,SAC,200818,Williams,J. Williams,0,0,0,Made,1,135,120,255,h,Williams  Alley Oop Dunk (3 PTS) (Douby 1 AST),Made Shot,Alley Oop Dunk Shot,0,0
+496,504,PT00M00.00S,4,0,,0,,,0,0,0,,0,135,120,255,,End of 4th Period (12:24 PM EST),period,end,0,0

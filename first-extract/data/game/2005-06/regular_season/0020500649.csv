@@ -1,0 +1,465 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:43 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,Jump Ball O'Neal vs. Kaman: Tip to Haslem,Jump Ball,,0,0
+3,2,PT11M38.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,-38,130,14,Made,1,2,0,2,h,Haslem 14' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+4,3,PT11M21.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+5,3,PT11M21.00S,1,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey STEAL (1 STL),,,0,0
+6,4,PT11M09.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman P.FOUL (P1.T1),Foul,Personal,0,0
+7,5,PT11M09.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman T.FOUL (P1.T1),Foul,Technical,0,0
+8,6,PT11M09.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,3,0,3,h,Haslem Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0
+9,7,PT11M03.00S,1,1610612748,MIA,56,Payton,G. Payton,232,10,0,Made,1,6,0,6,h,Payton  3PT Jump Shot (3 PTS) (Wade 1 AST),Made Shot,Jump Shot,0,0
+10,8,PT10M53.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,-59,58,8,Missed,1,0,0,0,v,MISS Kaman 8' Hook Shot,Missed Shot,Hook Shot,0,0
+11,9,PT10M50.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0
+12,10,PT10M37.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal Traveling Turnover (P1.T1),Turnover,Traveling,0,0
+13,11,PT10M24.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,72,138,16,Made,1,6,2,8,v,Mobley 16' Jump Shot (2 PTS) (Cassell 1 AST),Made Shot,Jump Shot,0,0
+14,12,PT10M14.00S,1,1610612748,MIA,2548,Wade,D. Wade,15,35,4,Made,1,8,2,10,h,Wade 4' Hook Shot (2 PTS) (Payton 1 AST),Made Shot,Hook Shot,0,0
+15,13,PT10M14.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross S.FOUL (P1.T2),Foul,Shooting,0,0
+16,14,PT10M14.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,9,2,11,h,Wade Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+17,15,PT10M04.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,100,178,20,Made,1,9,4,13,v,Mobley 20' Jump Shot (4 PTS) (Cassell 2 AST),Made Shot,Jump Shot,0,0
+18,16,PT09M46.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,Made,1,11,4,15,h,O'Neal  Layup (2 PTS) (Haslem 1 AST),Made Shot,Layup Shot,0,0
+19,17,PT09M33.00S,1,1610612746,LAC,208,Cassell,S. Cassell,-151,137,20,Missed,1,0,0,0,v,MISS Cassell 20' Jump Shot,Missed Shot,Jump Shot,0,0
+20,18,PT09M31.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+21,19,PT09M26.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,Made,1,13,4,17,h,O'Neal  Dunk (4 PTS) (Wade 2 AST),Made Shot,Dunk Shot,0,0
+22,20,PT09M12.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,-82,128,15,Made,1,13,6,19,v,Mobley 15' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+23,21,PT09M12.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade S.FOUL (P1.T1),Foul,Shooting,0,0
+24,22,PT09M12.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,13,7,20,v,Mobley Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+25,23,PT09M01.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross S.FOUL (P2.T3),Foul,Shooting,0,0
+26,24,PT09M01.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Kaman,Substitution,,0,0
+27,25,PT09M01.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+28,26,PT09M01.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+29,27,PT09M01.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,SUB: Singleton FOR Ross,Substitution,,0,0
+30,28,PT09M01.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,14,7,21,h,Wade Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+31,29,PT08M52.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,-182,160,24,Missed,1,0,0,0,v,MISS Mobley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+32,29,PT08M52.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade BLOCK (1 BLK),,,0,0
+33,30,PT08M50.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+34,31,PT08M46.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,16,7,23,h,Wade  Dunk (6 PTS) (O'Neal 1 AST),Made Shot,Dunk Shot,0,0
+35,32,PT08M46.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell S.FOUL (P1.T4),Foul,Shooting,0,0
+36,33,PT08M46.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,17,7,24,h,Wade Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+37,34,PT08M33.00S,1,1610612746,LAC,2404,Wilcox,C. Wilcox,-36,132,14,Missed,1,0,0,0,v,MISS Wilcox 14' Jump Shot,Missed Shot,Jump Shot,0,0
+38,35,PT08M31.00S,1,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+39,36,PT08M23.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,135,125,18,Made,1,19,7,26,h,Haslem 18' Jump Shot (5 PTS) (Payton 2 AST),Made Shot,Jump Shot,0,0
+40,37,PT08M15.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+41,40,PT08M10.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell OFF.Foul (P2),Foul,Offensive,0,0
+42,41,PT08M10.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell Foul Turnover (P1.T2),Turnover,Foul,0,0
+43,42,PT08M10.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,SUB: Livingston FOR Cassell,Substitution,,0,0
+44,43,PT07M55.00S,1,1610612748,MIA,1899,Posey,J. Posey,-235,-5,24,Made,1,22,7,29,h,Posey 24' 3PT Jump Shot (3 PTS) (Haslem 2 AST),Made Shot,Jump Shot,0,0
+45,44,PT07M38.00S,1,1610612746,LAC,101189,Singleton,J. Singleton,-202,-8,20,Made,1,22,9,31,v,Singleton 20' Jump Shot (2 PTS) (Livingston 1 AST),Made Shot,Jump Shot,0,0
+46,45,PT07M22.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,56,45,7,Missed,1,0,0,0,h,MISS O'Neal 7' Hook Shot,Missed Shot,Hook Shot,0,0
+47,46,PT07M20.00S,1,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+48,47,PT07M11.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Missed,1,0,0,0,v,MISS Brand  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+49,47,PT07M11.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal BLOCK (1 BLK),,,0,0
+50,48,PT07M09.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+51,49,PT07M04.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,24,9,33,h,Wade  Driving Dunk (9 PTS) (Payton 3 AST),Made Shot,Driving Dunk Shot,0,0
+52,50,PT06M56.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem P.FOUL (P1.T2),Foul,Personal,0,0
+53,51,PT06M50.00S,1,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton P.FOUL (P1.T3),Foul,Personal,0,0
+54,52,PT06M46.00S,1,1610612746,LAC,2404,Wilcox,C. Wilcox,-2,58,6,Made,1,24,11,35,v,Wilcox 6' Jump Shot (2 PTS) (Mobley 1 AST),Made Shot,Jump Shot,0,0
+55,53,PT06M46.00S,1,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey S.FOUL (P1.T4),Foul,Shooting,0,0
+56,54,PT06M46.00S,1,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,24,12,36,v,Wilcox Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+57,55,PT06M29.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal 3 Second Violation Turnover (P2.T2),Turnover,3 Second Violation,0,0
+58,56,PT06M16.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Made,1,24,14,38,v,Mobley  Layup (9 PTS),Made Shot,Layup Shot,0,0
+59,57,PT05M55.00S,1,1610612748,MIA,56,Payton,G. Payton,6,53,5,Made,1,26,14,40,h,Payton 5' Driving Finger Roll (5 PTS),Made Shot,Driving Finger Roll Shot,0,0
+60,58,PT05M50.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+61,58,PT05M50.00S,1,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey STEAL (2 STL),,,0,0
+62,59,PT05M48.00S,1,1610612748,MIA,1899,Posey,J. Posey,0,0,0,Made,1,28,14,42,h,Posey  Layup (5 PTS),Made Shot,Layup Shot,0,0
+63,60,PT05M40.00S,1,1610612746,LAC,2733,Livingston,S. Livingston,236,26,24,Missed,1,0,0,0,v,MISS Livingston 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+64,61,PT05M38.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+65,62,PT05M33.00S,1,1610612746,LAC,101189,Singleton,J. Singleton,-240,-8,24,Made,1,28,17,45,v,Singleton 24' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,0,0
+66,63,PT05M16.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,Missed,1,0,0,0,h,MISS O'Neal  Layup,Missed Shot,Layup Shot,0,0
+67,64,PT05M14.00S,1,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+68,65,PT05M01.00S,1,1610612746,LAC,2404,Wilcox,C. Wilcox,39,22,4,Made,1,28,19,47,v,Wilcox 4' Hook Shot (5 PTS) (Mobley 2 AST),Made Shot,Hook Shot,0,0
+69,66,PT04M47.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,5,40,4,Made,1,30,19,49,h,O'Neal 4' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+70,67,PT04M47.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand S.FOUL (P1.PN),Foul,Shooting,0,0
+71,68,PT04M47.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,31,19,50,h,O'Neal Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+72,69,PT04M30.00S,1,1610612746,LAC,1882,Brand,E. Brand,5,148,15,Made,1,31,21,52,v,Brand 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+73,70,PT04M15.00S,1,1610612748,MIA,56,Payton,G. Payton,0,0,0,Missed,1,0,0,0,h,MISS Payton  Layup,Missed Shot,Layup Shot,0,0
+74,70,PT04M15.00S,1,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston BLOCK (1 BLK),,,0,0
+75,71,PT04M11.00S,1,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+76,72,PT04M10.00S,1,1610612748,MIA,1899,Posey,J. Posey,233,13,0,Made,1,34,21,55,h,Posey  3PT Jump Shot (8 PTS) (Payton 4 AST),Made Shot,Jump Shot,0,0
+77,73,PT04M06.00S,1,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston OFF.Foul (P1),Foul,Offensive,0,0
+78,74,PT04M06.00S,1,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston Foul Turnover (P1.T4),Turnover,Foul,0,0
+79,75,PT04M06.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,SUB: Walker FOR Wade,Substitution,,0,0
+80,76,PT03M49.00S,1,1610612748,MIA,56,Payton,G. Payton,233,49,24,Missed,1,0,0,0,h,MISS Payton 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+81,77,PT03M47.00S,1,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+82,78,PT03M34.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal S.FOUL (P1.PN),Foul,Shooting,0,0
+83,79,PT03M34.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,34,22,56,v,Brand Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+84,80,PT03M34.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,34,23,57,v,Brand Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+85,81,PT03M20.00S,1,1610612748,MIA,56,Payton,G. Payton,0,0,0,Made,1,36,23,59,h,Payton  Layup (7 PTS),Made Shot,Layup Shot,0,0
+86,82,PT03M05.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0
+87,83,PT02M54.00S,1,1610612748,MIA,1899,Posey,J. Posey,179,173,25,Missed,1,0,0,0,h,MISS Posey 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+88,84,PT02M52.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+89,85,PT02M50.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,Made,1,38,23,61,h,O'Neal  Slam Dunk (9 PTS),Made Shot,Slam Dunk Shot,0,0
+90,86,PT02M38.00S,1,1610612746,LAC,1882,Brand,E. Brand,115,46,12,Made,1,38,25,63,v,Brand 12' Hook Shot (6 PTS) (Mobley 3 AST),Made Shot,Hook Shot,0,0
+91,87,PT02M29.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+92,90,PT02M29.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,SUB: Mourning FOR O'Neal,Substitution,,0,0
+93,91,PT02M19.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,40,25,65,h,Mourning  Dunk (2 PTS) (Walker 1 AST),Made Shot,Dunk Shot,0,0
+94,92,PT01M56.00S,1,1610612746,LAC,2733,Livingston,S. Livingston,66,155,17,Made,1,40,27,67,v,Livingston 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+95,93,PT01M35.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,0,0
+96,94,PT01M21.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,130,146,20,Made,1,40,29,69,v,Mobley 20' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+97,95,PT01M07.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning OFF.Foul (P1),Foul,Offensive,0,0
+98,96,PT01M07.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning Foul Turnover (P2.T4),Turnover,Foul,0,0
+99,97,PT01M07.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,SUB: Wade FOR Haslem,Substitution,,0,0
+100,98,PT01M07.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,SUB: Kaman FOR Brand,Substitution,,0,0
+101,99,PT00M46.90S,1,1610612746,LAC,2733,Livingston,S. Livingston,-120,153,19,Missed,1,0,0,0,v,MISS Livingston 19' Jump Shot,Missed Shot,Jump Shot,0,0
+102,100,PT00M45.50S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+103,101,PT00M44.90S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,40,31,71,v,Kaman  Layup (2 PTS),Made Shot,Layup Shot,0,0
+104,102,PT00M24.60S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning Traveling Turnover (P3.T5),Turnover,Traveling,0,0
+105,103,PT00M11.70S,1,1610612746,LAC,2549,Kaman,C. Kaman,-28,173,18,Made,1,40,33,73,v,Kaman 18' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+106,104,PT00M00.90S,1,1610612748,MIA,2548,Wade,D. Wade,-10,187,19,Made,1,42,33,75,h,Wade 19' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+107,105,PT00M00.00S,1,0,,0,,,0,0,0,,0,42,33,75,,End of 1st Period (8:10 PM EST),period,end,0,0
+108,109,PT12M00.00S,2,0,,0,,,0,0,0,,0,42,33,75,,Start of 2nd Period (8:13 PM EST),period,start,0,0
+109,110,PT11M45.00S,2,1610612746,LAC,101189,Singleton,J. Singleton,-25,40,5,Made,1,42,35,77,v,Singleton 5' Hook Shot (7 PTS) (Mobley 4 AST),Made Shot,Hook Shot,0,0
+110,111,PT11M33.00S,2,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker OFF.Foul (P1),Foul,Offensive,0,0
+111,112,PT11M33.00S,2,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker Foul Turnover (P1.T6),Turnover,Foul,0,0
+112,113,PT11M22.00S,2,1610612746,LAC,2404,Wilcox,C. Wilcox,79,31,8,Made,1,42,37,79,v,Wilcox 8' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,0,0
+113,114,PT11M14.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Short (Full 1 Short 1),Timeout,Short,0,0
+114,118,PT10M56.00S,2,1610612748,MIA,56,Payton,G. Payton,57,77,10,Missed,1,0,0,0,h,MISS Payton 10' Jump Shot,Missed Shot,Jump Shot,0,0
+115,119,PT10M55.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+116,120,PT10M55.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade L.B.FOUL (P2.T1),Foul,Loose Ball,0,0
+117,121,PT10M41.00S,2,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton 3 Second Violation Turnover (P1.T6),Turnover,3 Second Violation,0,0
+118,122,PT10M41.00S,2,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,SUB: Fitch FOR Payton,Substitution,,0,0
+119,123,PT10M25.00S,2,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker Traveling Turnover (P2.T7),Turnover,Traveling,0,0
+120,124,PT10M25.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,SUB: O'Neal FOR Mourning,Substitution,,0,0
+121,125,PT10M05.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,44,201,21,Missed,1,0,0,0,v,MISS Livingston 21' Jump Shot,Missed Shot,Jump Shot,0,0
+122,127,PT10M01.00S,2,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+123,126,PT10M01.00S,2,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,Missed,1,0,0,0,v,MISS Singleton  Tip Shot,Missed Shot,Tip Shot,0,0
+124,128,PT09M59.00S,2,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+125,129,PT09M56.00S,2,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox S.FOUL (P1.T1),Foul,Shooting,0,0
+126,130,PT09M56.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,SUB: Cassell FOR Mobley,Substitution,,0,0
+127,131,PT09M56.00S,2,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Brand FOR Wilcox,Substitution,,0,0
+128,132,PT09M56.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+129,133,PT09M56.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+130,134,PT09M56.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,43,37,80,h,O'Neal Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+131,135,PT09M36.00S,2,1610612746,LAC,1882,Brand,E. Brand,-102,118,16,Made,1,43,39,82,v,Brand 16' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,0
+132,136,PT09M36.00S,2,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker S.FOUL (P2.T2),Foul,Shooting,0,0
+133,137,PT09M36.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,43,40,83,v,Brand Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+134,138,PT09M21.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman S.FOUL (P2.T2),Foul,Shooting,0,0
+135,139,PT09M21.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+136,140,PT09M21.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+137,141,PT09M21.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,44,40,84,h,Wade Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+138,142,PT09M02.00S,2,1610612748,MIA,2809,Fitch,G. Fitch,0,0,0,,0,0,0,0,h,Fitch S.FOUL (P1.T3),Foul,Shooting,0,0
+139,143,PT09M02.00S,2,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,44,41,85,v,Cassell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+140,144,PT09M02.00S,2,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,44,42,86,v,Cassell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+141,145,PT08M45.00S,2,1610612748,MIA,2809,Fitch,G. Fitch,49,178,18,Missed,1,0,0,0,h,MISS Fitch 18' Jump Shot,Missed Shot,Jump Shot,0,0
+142,146,PT08M43.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+143,147,PT08M36.00S,2,1610612746,LAC,1882,Brand,E. Brand,-94,150,18,Missed,1,0,0,0,v,MISS Brand 18' Jump Shot,Missed Shot,Jump Shot,0,0
+144,148,PT08M34.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+145,149,PT08M29.00S,2,1610612746,LAC,101189,Singleton,J. Singleton,-164,117,20,Made,1,44,44,88,v,Singleton 20' Jump Shot (9 PTS) (Brand 1 AST),Made Shot,Jump Shot,0,0
+146,150,PT08M10.00S,2,1610612748,MIA,1899,Posey,J. Posey,232,13,0,Made,1,47,44,91,h,Posey  3PT Jump Shot (11 PTS) (Wade 3 AST),Made Shot,Jump Shot,0,0
+147,151,PT07M58.00S,2,1610612746,LAC,208,Cassell,S. Cassell,28,145,15,Missed,1,0,0,0,v,MISS Cassell 15' Jump Shot,Missed Shot,Jump Shot,0,0
+148,152,PT07M56.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+149,153,PT07M53.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,49,38,6,Missed,1,0,0,0,v,MISS Kaman 6' Hook Shot,Missed Shot,Hook Shot,0,0
+150,154,PT07M52.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0
+151,155,PT07M52.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+152,158,PT07M41.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal Traveling Turnover (P3.T8),Turnover,Traveling,0,0
+153,159,PT07M23.00S,2,1610612746,LAC,1882,Brand,E. Brand,-6,107,11,Missed,1,0,0,0,v,MISS Brand 11' Jump Shot,Missed Shot,Jump Shot,0,0
+154,160,PT07M21.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+155,161,PT07M14.00S,2,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton S.FOUL (P1.T3),Foul,Shooting,0,0
+156,162,PT07M14.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,48,44,92,h,Wade Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+157,163,PT07M14.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,SUB: Mobley FOR Livingston,Substitution,,0,0
+158,164,PT07M14.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,49,44,93,h,Wade Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+159,165,PT07M01.00S,2,1610612746,LAC,208,Cassell,S. Cassell,-84,41,9,Made,1,49,46,95,v,Cassell 9' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,0,0
+160,167,PT06M41.00S,2,1610612748,MIA,2809,Fitch,G. Fitch,123,138,18,Missed,1,0,0,0,h,MISS Fitch 18' Jump Shot,Missed Shot,Jump Shot,0,0
+161,168,PT06M38.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+162,169,PT06M27.00S,2,1610612748,MIA,2809,Fitch,G. Fitch,0,0,0,,0,0,0,0,h,Fitch P.FOUL (P2.T4),Foul,Personal,0,0
+163,170,PT06M27.00S,2,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,SUB: Haslem FOR Posey,Substitution,,0,0
+164,171,PT06M27.00S,2,1610612748,MIA,2809,Fitch,G. Fitch,0,0,0,,0,0,0,0,h,SUB: Payton FOR Fitch,Substitution,,0,0
+165,172,PT06M03.00S,2,1610612746,LAC,1882,Brand,E. Brand,136,138,19,Made,1,49,48,97,v,Brand 19' Jump Shot (11 PTS) (Mobley 5 AST),Made Shot,Jump Shot,0,0
+166,173,PT05M59.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem Traveling Turnover (P1.T9),Turnover,Traveling,0,0
+167,174,PT05M41.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,-84,135,16,Missed,1,0,0,0,v,MISS Mobley 16' Jump Shot,Missed Shot,Jump Shot,0,0
+168,174,PT05M41.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade BLOCK (2 BLK),,,0,0
+169,175,PT05M39.00S,2,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+170,176,PT05M36.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman S.FOUL (P3.T4),Foul,Shooting,0,0
+171,178,PT05M36.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,0
+172,180,PT05M36.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Kaman,Substitution,,0,0
+173,182,PT05M36.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+174,183,PT05M36.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+175,186,PT05M36.00S,2,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton Violation:Lane,Violation,Lane,0,0
+176,187,PT05M36.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,50,48,98,h,O'Neal Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+177,188,PT05M16.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,v,MISS Mobley  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+178,189,PT05M14.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+179,190,PT05M07.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,-94,138,17,Made,1,52,48,100,h,Haslem 17' Jump Shot (7 PTS) (Wade 4 AST),Made Shot,Jump Shot,0,0
+180,191,PT04M44.00S,2,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,Missed,1,0,0,0,v,MISS Wilcox  Dunk,Missed Shot,Dunk Shot,0,0
+181,191,PT04M44.00S,2,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker BLOCK (1 BLK),,,0,0
+182,192,PT04M42.00S,2,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+183,193,PT04M38.00S,2,1610612748,MIA,2548,Wade,D. Wade,-115,5,12,Made,1,54,48,102,h,Wade 12' Jump Shot (16 PTS) (Payton 5 AST),Made Shot,Jump Shot,0,0
+184,194,PT04M33.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+185,198,PT04M16.00S,2,1610612746,LAC,1882,Brand,E. Brand,-67,128,14,Missed,1,0,0,0,v,MISS Brand 14' Jump Shot,Missed Shot,Jump Shot,0,0
+186,199,PT04M14.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+187,200,PT03M58.00S,2,1610612748,MIA,56,Payton,G. Payton,15,243,24,Made,1,57,48,105,h,Payton 24' 3PT Jump Shot (10 PTS) (O'Neal 2 AST),Made Shot,Jump Shot,0,0
+188,201,PT03M38.00S,2,1610612746,LAC,101189,Singleton,J. Singleton,195,3,20,Made,1,57,50,107,v,Singleton 20' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+189,202,PT03M20.00S,2,1610612748,MIA,2548,Wade,D. Wade,126,164,21,Missed,1,0,0,0,h,MISS Wade 21' Jump Shot,Missed Shot,Jump Shot,0,0
+190,203,PT03M19.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+191,204,PT03M19.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal L.B.FOUL (P2.PN),Foul,Loose Ball,0,0
+192,205,PT03M19.00S,2,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,MISS Cassell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+193,206,PT03M19.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+194,207,PT03M19.00S,2,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,57,51,108,v,Cassell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+195,208,PT03M03.00S,2,1610612748,MIA,2548,Wade,D. Wade,-74,132,15,Missed,1,0,0,0,h,MISS Wade 15' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,0
+196,209,PT03M00.00S,2,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+197,210,PT03M00.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade T.FOUL (P2.PN),Foul,Technical,0,0
+198,211,PT03M00.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,57,52,109,v,Mobley Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,0
+199,212,PT02M48.00S,2,1610612746,LAC,208,Cassell,S. Cassell,-10,145,15,Made,1,57,54,111,v,Cassell 15' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+200,213,PT02M32.00S,2,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox P.FOUL (P2.PN),Foul,Personal,0,0
+201,214,PT02M32.00S,2,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,SUB: Posey FOR Walker,Substitution,,0,0
+202,215,PT02M32.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,58,54,112,h,O'Neal Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+203,216,PT02M32.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+204,217,PT02M31.00S,2,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+205,218,PT02M22.00S,2,1610612746,LAC,1882,Brand,E. Brand,-80,150,17,Made,1,58,56,114,v,Brand 17' Jump Shot (13 PTS) (Mobley 6 AST),Made Shot,Jump Shot,0,0
+206,219,PT02M05.00S,2,1610612748,MIA,56,Payton,G. Payton,69,230,24,Missed,1,0,0,0,h,MISS Payton 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+207,220,PT02M03.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+208,221,PT02M00.00S,2,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox P.FOUL (P3.PN),Foul,Personal,0,0
+209,222,PT02M00.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,59,56,115,h,O'Neal Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+210,223,PT02M00.00S,2,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: N'Dong FOR Wilcox,Substitution,,0,0
+211,224,PT02M00.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,60,56,116,h,O'Neal Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+212,225,PT01M47.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,-77,127,15,Made,1,60,58,118,v,N'Dong 15' Turnaround Jump Shot (2 PTS) (Cassell 3 AST),Made Shot,Turnaround Jump Shot,0,0
+213,226,PT01M29.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,Made,1,62,58,120,h,O'Neal  Alley Oop Dunk (16 PTS) (Wade 5 AST),Made Shot,Alley Oop Dunk Shot,0,0
+214,227,PT01M18.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,-102,168,20,Made,1,62,60,122,v,N'Dong 20' Jump Shot (4 PTS) (Cassell 4 AST),Made Shot,Jump Shot,0,0
+215,228,PT00M57.70S,2,1610612748,MIA,2617,Haslem,U. Haslem,-181,5,18,Made,1,64,60,124,h,Haslem 18' Jump Shot (9 PTS) (Posey 1 AST),Made Shot,Jump Shot,0,0
+216,229,PT00M52.80S,2,1610612746,LAC,1882,Brand,E. Brand,117,36,12,Made,1,64,62,126,v,Brand 12' Jump Shot (15 PTS) (Mobley 7 AST),Made Shot,Jump Shot,0,0
+217,230,PT00M32.10S,2,1610612748,MIA,56,Payton,G. Payton,-48,40,6,Missed,1,0,0,0,h,MISS Payton 6' Jump Shot,Missed Shot,Jump Shot,0,0
+218,231,PT00M31.10S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0
+219,232,PT00M24.70S,2,1610612748,MIA,1899,Posey,J. Posey,-169,178,25,Made,1,67,62,129,h,Posey 25' 3PT Jump Shot (14 PTS) (Haslem 3 AST),Made Shot,Jump Shot,0,0
+220,233,PT00M02.90S,2,1610612746,LAC,101238,Ndong,B. Ndong,20,181,18,Missed,1,0,0,0,v,MISS N'Dong 18' Jump Shot,Missed Shot,Jump Shot,0,0
+221,233,PT00M02.90S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade BLOCK (3 BLK),,,0,0
+222,234,PT00M01.10S,2,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+223,235,PT00M00.00S,2,0,,0,,,0,0,0,,0,67,62,129,,End of 2nd Period (8:48 PM EST),period,end,0,0
+224,237,PT12M00.00S,3,0,,0,,,0,0,0,,0,67,62,129,,Start of 3rd Period (9:05 PM EST),period,start,0,0
+225,238,PT11M41.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,5,187,19,Made,1,67,64,131,v,Mobley 19' Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+226,239,PT11M20.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman S.FOUL (P4.T1),Foul,Shooting,0,0
+227,240,PT11M20.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,68,64,132,h,Wade Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+228,241,PT11M20.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Kaman,Substitution,,0,0
+229,242,PT11M20.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,69,64,133,h,Wade Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+230,243,PT11M03.00S,3,1610612746,LAC,2624,Ross,Q. Ross,-191,77,21,Made,1,69,66,135,v,Ross 21' Jump Shot (2 PTS) (Mobley 8 AST),Made Shot,Jump Shot,0,0
+231,244,PT10M42.00S,3,1610612748,MIA,2548,Wade,D. Wade,6,63,6,Missed,1,0,0,0,h,MISS Wade 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+232,245,PT10M40.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+233,246,PT10M34.00S,3,1610612746,LAC,2624,Ross,Q. Ross,-186,17,19,Missed,1,0,0,0,v,MISS Ross 19' Jump Shot,Missed Shot,Jump Shot,0,0
+234,247,PT10M32.00S,3,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+235,248,PT10M16.00S,3,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0
+236,248,PT10M16.00S,3,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox STEAL (1 STL),,,0,0
+237,249,PT10M08.00S,3,1610612746,LAC,2404,Wilcox,C. Wilcox,-72,45,8,Missed,1,0,0,0,v,MISS Wilcox 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+238,250,PT10M06.00S,3,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+239,251,PT09M56.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal 3 Second Violation Turnover (P4.T11),Turnover,3 Second Violation,0,0
+240,252,PT09M34.00S,3,1610612746,LAC,1882,Brand,E. Brand,135,118,18,Made,1,69,68,137,v,Brand 18' Jump Shot (17 PTS) (Mobley 9 AST),Made Shot,Jump Shot,0,0
+241,253,PT09M18.00S,3,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Clippers T.Foul (Def. 3 Sec Wilcox ),Foul,Defense 3 Second,0,0
+242,255,PT09M18.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,MISS Haslem Free Throw Technical,Free Throw,Free Throw Technical,0,0
+243,256,PT09M18.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+244,257,PT09M12.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade Discontinue Dribble Turnover (P1.T12),Turnover,Discontinue Dribble,0,0
+245,258,PT09M00.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,5,49,5,Made,1,69,70,139,v,Mobley 5' Driving Finger Roll (16 PTS),Made Shot,Driving Finger Roll Shot,0,0
+246,259,PT08M50.00S,3,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey OFF.Foul (P2),Foul,Offensive,0,0
+247,260,PT08M50.00S,3,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey Foul Turnover (P1.T13),Turnover,Foul,0,0
+248,261,PT08M29.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley Traveling Turnover (P2.T7),Turnover,Traveling,0,0
+249,262,PT08M12.00S,3,1610612748,MIA,1899,Posey,J. Posey,0,0,0,Missed,1,0,0,0,h,MISS Posey  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+250,263,PT08M10.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+251,264,PT08M06.00S,3,1610612746,LAC,208,Cassell,S. Cassell,-75,135,15,Missed,1,0,0,0,v,MISS Cassell 15' Jump Shot,Missed Shot,Jump Shot,0,0
+252,265,PT08M05.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+253,266,PT07M56.00S,3,1610612746,LAC,1882,Brand,E. Brand,66,20,7,Made,1,69,72,141,v,Brand 7' Turnaround Jump Shot (19 PTS) (Mobley 10 AST),Made Shot,Turnaround Jump Shot,0,0
+254,267,PT07M48.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+255,270,PT07M36.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,54,5,Made,1,71,72,143,h,O'Neal 5' Hook Shot (18 PTS) (Wade 6 AST),Made Shot,Hook Shot,0,0
+256,271,PT07M21.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,-8,248,25,Made,1,71,75,146,v,Mobley 25' 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,0,0
+257,272,PT07M01.00S,3,1610612748,MIA,56,Payton,G. Payton,11,250,25,Made,1,74,75,149,h,Payton 25' 3PT Jump Shot (13 PTS) (Wade 7 AST),Made Shot,Jump Shot,0,0
+258,273,PT06M39.00S,3,1610612746,LAC,2404,Wilcox,C. Wilcox,69,89,11,Made,1,74,77,151,v,Wilcox 11' Jump Shot (9 PTS) (Brand 2 AST),Made Shot,Jump Shot,0,0
+259,274,PT06M29.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,46,194,20,Missed,1,0,0,0,h,MISS Haslem 20' Jump Shot,Missed Shot,Jump Shot,0,0
+260,275,PT06M27.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+261,276,PT06M21.00S,3,1610612746,LAC,208,Cassell,S. Cassell,-84,76,11,Made,1,74,79,153,v,Cassell 11' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+262,277,PT06M08.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand P.FOUL (P2.T2),Foul,Personal,0,0
+263,278,PT06M02.00S,3,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox S.FOUL (P4.T3),Foul,Shooting,0,0
+264,279,PT06M02.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,75,79,154,h,Haslem Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+265,280,PT06M02.00S,3,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Singleton FOR Wilcox,Substitution,,0,0
+266,281,PT06M02.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,76,79,155,h,Haslem Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+267,282,PT05M45.00S,3,1610612746,LAC,1882,Brand,E. Brand,-43,58,7,Missed,1,0,0,0,v,MISS Brand 7' Jump Shot,Missed Shot,Jump Shot,0,0
+268,282,PT05M45.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal BLOCK (2 BLK),,,0,0
+269,283,PT05M43.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+270,284,PT05M38.00S,3,1610612748,MIA,1899,Posey,J. Posey,-210,120,24,Missed,1,0,0,0,h,MISS Posey 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+271,285,PT05M37.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+272,286,PT05M37.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem L.B.FOUL (P2.T1),Foul,Loose Ball,0,0
+273,287,PT05M27.00S,3,1610612746,LAC,208,Cassell,S. Cassell,-97,155,18,Missed,1,0,0,0,v,MISS Cassell 18' Jump Shot,Missed Shot,Jump Shot,0,0
+274,289,PT05M25.00S,3,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+275,288,PT05M24.00S,3,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,Missed,1,0,0,0,v,MISS Singleton  Tip Shot,Missed Shot,Tip Shot,0,0
+276,290,PT05M21.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+277,291,PT05M13.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,61,107,12,Missed,1,0,0,0,h,MISS O'Neal 12' Jump Shot,Missed Shot,Jump Shot,0,0
+278,292,PT05M12.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+279,293,PT05M02.00S,3,1610612746,LAC,1882,Brand,E. Brand,71,148,16,Missed,1,0,0,0,v,MISS Brand 16' Jump Shot,Missed Shot,Jump Shot,0,0
+280,293,PT05M02.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal BLOCK (3 BLK),,,0,0
+281,294,PT05M00.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+282,295,PT04M52.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0
+283,295,PT04M52.00S,3,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton STEAL (1 STL),,,0,0
+284,296,PT04M44.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,Ross P.FOUL (P3.T4),Foul,Personal,0,0
+285,297,PT04M33.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,-11,79,8,Missed,1,0,0,0,h,MISS O'Neal 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+286,298,PT04M31.00S,3,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+287,299,PT04M28.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal S.FOUL (P3.T2),Foul,Shooting,0,0
+288,300,PT04M28.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,76,80,156,v,Brand Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+289,301,PT04M28.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,76,81,157,v,Brand Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+290,302,PT04M13.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,59,7,6,Missed,1,0,0,0,h,MISS O'Neal 6' Jump Shot,Missed Shot,Jump Shot,0,0
+291,302,PT04M13.00S,3,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton BLOCK (1 BLK),,,0,0
+292,303,PT04M12.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+293,304,PT04M12.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand P.FOUL (P3.PN),Foul,Personal,0,0
+294,305,PT04M12.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+295,306,PT04M12.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+296,307,PT04M12.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+297,308,PT04M10.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+298,309,PT03M54.00S,3,1610612746,LAC,208,Cassell,S. Cassell,-143,118,19,Missed,1,0,0,0,v,MISS Cassell 19' Jump Shot,Missed Shot,Jump Shot,0,0
+299,310,PT03M52.00S,3,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+300,311,PT03M37.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,189,15,19,Missed,1,0,0,0,h,MISS Haslem 19' Jump Shot,Missed Shot,Jump Shot,0,0
+301,312,PT03M35.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+302,313,PT03M33.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,Made,1,78,81,159,h,O'Neal  Layup (20 PTS),Made Shot,Layup Shot,0,0
+303,314,PT03M23.00S,3,1610612746,LAC,1882,Brand,E. Brand,-148,135,20,Missed,1,0,0,0,v,MISS Brand 20' Jump Shot,Missed Shot,Jump Shot,0,0
+304,315,PT03M21.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+305,316,PT03M16.00S,3,1610612748,MIA,1899,Posey,J. Posey,-181,158,24,Missed,1,0,0,0,h,MISS Posey 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+306,317,PT03M14.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+307,318,PT03M01.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,149,191,24,Made,1,78,84,162,v,Mobley 24' 3PT Jump Shot (22 PTS) (Brand 3 AST),Made Shot,Jump Shot,0,0
+308,319,PT02M49.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Short (Full 3 Short 2),Timeout,Short,0,0
+309,320,PT02M49.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+310,321,PT02M49.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,SUB: Kaman FOR Brand,Substitution,,0,0
+311,322,PT02M49.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,SUB: Walker FOR Haslem,Substitution,,0,0
+312,323,PT02M49.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,SUB: Mourning FOR O'Neal,Substitution,,0,0
+313,324,PT02M38.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,80,84,164,h,Wade  Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,0
+314,325,PT02M24.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning P.FOUL (P2.T3),Foul,Personal,0,0
+315,326,PT02M09.00S,3,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,Missed,1,0,0,0,v,MISS Singleton  Dunk,Missed Shot,Dunk Shot,0,0
+316,327,PT02M07.00S,3,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+317,328,PT01M59.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,82,84,166,h,Mourning  Layup (4 PTS) (Payton 6 AST),Made Shot,Layup Shot,0,0
+318,329,PT01M59.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman S.FOUL (P5.PN),Foul,Shooting,0,0
+319,330,PT01M59.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,SUB: N'Dong FOR Kaman,Substitution,,0,0
+320,331,PT01M59.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,83,84,167,h,Mourning Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+321,332,PT01M44.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0
+322,333,PT01M27.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,85,84,169,h,Wade  Driving Layup (22 PTS),Made Shot,Driving Layup Shot,0,0
+323,334,PT01M07.00S,3,1610612746,LAC,101238,Ndong,B. Ndong,-92,132,16,Missed,1,0,0,0,v,MISS N'Dong 16' Jump Shot,Missed Shot,Jump Shot,0,0
+324,335,PT01M06.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+325,336,PT01M06.00S,3,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton P.FOUL (P2.PN),Foul,Personal,0,0
+326,337,PT01M06.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,MISS Mourning Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+327,338,PT01M06.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+328,339,PT01M06.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,SUB: Livingston FOR Ross,Substitution,,0,0
+329,340,PT01M06.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,86,84,170,h,Mourning Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+330,341,PT00M43.90S,3,1610612746,LAC,1749,Mobley,C. Mobley,240,23,24,Missed,1,0,0,0,v,MISS Mobley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+331,342,PT00M41.70S,3,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,v,N'Dong REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+332,343,PT00M32.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning P.FOUL (P3.T4),Foul,Personal,0,0
+333,344,PT00M24.90S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+334,344,PT00M24.90S,3,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey STEAL (3 STL),,,0,0
+335,345,PT00M00.10S,3,1610612748,MIA,56,Payton,G. Payton,120,219,25,Missed,1,0,0,0,h,MISS Payton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+336,346,PT00M00.00S,3,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+337,347,PT00M00.00S,3,0,,0,,,0,0,0,,0,86,84,170,,End of 3rd Period (9:34 PM EST),period,end,0,0
+338,348,PT12M00.00S,4,0,,0,,,0,0,0,,0,86,84,170,,Start of 4th Period (9:37 PM EST),period,start,0,0
+339,349,PT11M46.00S,4,1610612748,MIA,2548,Wade,D. Wade,-84,150,17,Missed,1,0,0,0,h,MISS Wade 17' Jump Shot,Missed Shot,Jump Shot,0,0
+340,350,PT11M46.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+341,351,PT11M46.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning L.B.FOUL (P4.T1),Foul,Loose Ball,0,0
+342,352,PT11M30.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0
+343,352,PT11M30.00S,4,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker STEAL (1 STL),,,0,0
+344,353,PT11M26.00S,4,1610612748,MIA,952,Walker,A. Walker,0,0,0,Missed,1,0,0,0,h,MISS Walker  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+345,355,PT11M24.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+346,354,PT11M22.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,88,84,172,h,Mourning  Follow Up Dunk (8 PTS),Made Shot,Follow Up Dunk Shot,0,0
+347,356,PT11M04.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,-184,166,25,Made,1,88,87,175,v,Mobley 25' 3PT Jump Shot (25 PTS),Made Shot,Jump Shot,0,0
+348,357,PT10M43.00S,4,1610612748,MIA,2548,Wade,D. Wade,-172,186,25,Missed,1,0,0,0,h,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+349,358,PT10M41.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+350,359,PT10M35.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,47,23,5,Made,1,88,89,177,v,Livingston 5' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+351,360,PT10M14.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,90,89,179,h,Mourning  Dunk (10 PTS) (Wade 8 AST),Made Shot,Dunk Shot,0,0
+352,361,PT09M46.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,113,181,21,Missed,1,0,0,0,v,MISS Livingston 21' Jump Shot,Missed Shot,Jump Shot,0,0
+353,362,PT09M45.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+354,363,PT09M45.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0
+355,364,PT09M29.00S,4,1610612748,MIA,952,Walker,A. Walker,-25,68,7,Made,1,92,89,181,h,Walker 7' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,0
+356,365,PT09M13.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,v,MISS Mobley  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+357,365,PT09M13.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning BLOCK (1 BLK),,,0,0
+358,366,PT09M11.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+359,367,PT09M05.00S,4,1610612748,MIA,1899,Posey,J. Posey,-171,176,25,Missed,1,0,0,0,h,MISS Posey 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+360,368,PT09M03.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+361,369,PT08M58.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning P.FOUL (P5.T2),Foul,Personal,0,0
+362,370,PT08M58.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+363,371,PT08M58.00S,4,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,SUB: Fitch FOR Payton,Substitution,,0,0
+364,372,PT08M58.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,SUB: O'Neal FOR Mourning,Substitution,,0,0
+365,374,PT08M48.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,Missed,1,0,0,0,v,MISS Livingston  Driving Finger Roll,Missed Shot,Driving Finger Roll Shot,0,0
+366,375,PT08M46.00S,4,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,Walker REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+367,376,PT08M26.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,Made,1,94,89,183,h,O'Neal  Alley Oop Layup (22 PTS) (Wade 9 AST),Made Shot,Alley Oop Layup shot,0,0
+368,377,PT08M06.00S,4,1610612746,LAC,2404,Wilcox,C. Wilcox,24,56,6,Missed,1,0,0,0,v,MISS Wilcox 6' Hook Shot,Missed Shot,Hook Shot,0,0
+369,378,PT08M04.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0
+370,379,PT07M48.00S,4,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox S.FOUL (P5.T1),Foul,Shooting,0,0
+371,380,PT07M48.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,SUB: Cassell FOR Livingston,Substitution,,0,0
+372,381,PT07M48.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+373,382,PT07M48.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+374,383,PT07M48.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+375,384,PT07M46.00S,4,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+376,385,PT07M38.00S,4,1610612748,MIA,2809,Fitch,G. Fitch,0,0,0,,0,0,0,0,h,Fitch S.FOUL (P3.T3),Foul,Shooting,0,0
+377,386,PT07M38.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,94,90,184,v,Cassell Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+378,387,PT07M38.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,94,91,185,v,Cassell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+379,388,PT07M20.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,0,0,0,h,MISS Wade  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+380,388,PT07M20.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand BLOCK (1 BLK),,,0,0
+381,389,PT07M18.00S,4,1610612746,LAC,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+382,390,PT07M12.00S,4,1610612746,LAC,1882,Brand,E. Brand,3,56,6,Made,1,94,93,187,v,Brand 6' Jump Shot (23 PTS) (Cassell 5 AST),Made Shot,Jump Shot,0,0
+383,391,PT06M56.00S,4,1610612748,MIA,2548,Wade,D. Wade,-74,133,15,Made,1,96,93,189,h,Wade 15' Jump Shot (24 PTS) (Fitch 1 AST),Made Shot,Jump Shot,0,0
+384,392,PT06M47.00S,4,1610612746,LAC,208,Cassell,S. Cassell,-97,145,17,Made,1,96,95,191,v,Cassell 17' Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+385,393,PT06M30.00S,4,1610612748,MIA,2548,Wade,D. Wade,154,138,21,Made,1,98,95,193,h,Wade 21' Jump Shot (26 PTS) (Fitch 2 AST),Made Shot,Jump Shot,0,0
+386,394,PT06M19.00S,4,1610612746,LAC,208,Cassell,S. Cassell,-200,48,21,Missed,1,0,0,0,v,MISS Cassell 21' Jump Shot,Missed Shot,Jump Shot,0,0
+387,396,PT06M16.00S,4,1610612748,MIA,1899,Posey,J. Posey,0,0,0,,0,0,0,0,h,Posey REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+388,397,PT06M16.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley P.FOUL (P1.T2),Foul,Personal,0,0
+389,398,PT06M16.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,SUB: Payton FOR Wade,Substitution,,0,0
+390,399,PT06M01.00S,4,1610612748,MIA,2809,Fitch,G. Fitch,0,0,0,Missed,1,0,0,0,h,MISS Fitch  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+391,399,PT06M01.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand BLOCK (2 BLK),,,0,0
+392,400,PT05M58.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+393,401,PT05M56.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0
+394,403,PT05M56.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,0
+395,405,PT05M56.00S,4,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Kaman FOR Wilcox,Substitution,,0,0
+396,407,PT05M44.00S,4,1610612748,MIA,952,Walker,A. Walker,-140,201,24,Made,1,101,95,196,h,Walker 24' 3PT Jump Shot (5 PTS) (Payton 7 AST),Made Shot,Jump Shot,0,0
+397,408,PT05M25.00S,4,1610612746,LAC,1882,Brand,E. Brand,146,123,19,Made,1,101,97,198,v,Brand 19' Jump Shot (25 PTS) (Cassell 6 AST),Made Shot,Jump Shot,0,0
+398,409,PT05M02.00S,4,1610612748,MIA,2809,Fitch,G. Fitch,0,0,0,Missed,1,0,0,0,h,MISS Fitch  Layup,Missed Shot,Layup Shot,0,0
+399,409,PT05M02.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand BLOCK (3 BLK),,,0,0
+400,410,PT05M02.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0
+401,411,PT05M02.00S,4,1610612748,MIA,2809,Fitch,G. Fitch,0,0,0,,0,0,0,0,h,SUB: Wade FOR Fitch,Substitution,,0,0
+402,412,PT04M58.00S,4,1610612748,MIA,2548,Wade,D. Wade,-118,135,18,Missed,1,0,0,0,h,MISS Wade 18' Jump Shot,Missed Shot,Jump Shot,0,0
+403,413,PT04M56.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+404,414,PT04M47.00S,4,1610612746,LAC,1882,Brand,E. Brand,89,17,9,Made,1,101,99,200,v,Brand 9' Jump Shot (27 PTS),Made Shot,Jump Shot,0,0
+405,415,PT04M29.00S,4,1610612748,MIA,56,Payton,G. Payton,-235,72,25,Made,1,104,99,203,h,Payton 25' 3PT Jump Shot (16 PTS) (Wade 10 AST),Made Shot,Jump Shot,0,0
+406,416,PT04M11.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,-179,169,25,Made,1,104,102,206,v,Mobley 25' 3PT Jump Shot (28 PTS) (Cassell 7 AST),Made Shot,Jump Shot,0,0
+407,417,PT03M55.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,Kaman S.FOUL (P6.T3),Foul,Shooting,0,0
+408,418,PT03M55.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Kaman,Substitution,,0,0
+409,419,PT03M55.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+410,420,PT03M55.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+411,421,PT03M55.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,105,102,207,h,O'Neal Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+412,422,PT03M31.00S,4,1610612746,LAC,1882,Brand,E. Brand,21,117,12,Made,1,105,104,209,v,Brand 12' Jump Shot (29 PTS),Made Shot,Jump Shot,0,0
+413,423,PT03M15.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley P.FOUL (P2.T4),Foul,Personal,0,0
+414,424,PT03M01.00S,4,1610612748,MIA,56,Payton,G. Payton,-238,-3,24,Made,1,108,104,212,h,Payton 24' 3PT Jump Shot (19 PTS) (Wade 11 AST),Made Shot,Jump Shot,0,0
+415,425,PT02M52.00S,4,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton S.FOUL (P2.T4),Foul,Shooting,0,0
+416,426,PT02M52.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+417,427,PT02M52.00S,4,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Ross FOR Wilcox,Substitution,,0,0
+418,429,PT02M52.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,108,105,213,v,Cassell Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+419,430,PT02M52.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,108,106,214,v,Cassell Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+420,431,PT02M39.00S,4,1610612748,MIA,2548,Wade,D. Wade,62,204,21,Missed,1,0,0,0,h,MISS Wade 21' Jump Shot,Missed Shot,Jump Shot,0,0
+421,432,PT02M37.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+422,433,PT02M29.00S,4,1610612746,LAC,208,Cassell,S. Cassell,20,243,24,Made,1,108,109,217,v,Cassell 24' 3PT Jump Shot (18 PTS) (Brand 4 AST),Made Shot,Jump Shot,0,0
+423,434,PT02M15.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand S.FOUL (P4.PN),Foul,Shooting,0,0
+424,435,PT02M15.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,109,109,218,h,O'Neal Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0
+425,436,PT02M15.00S,4,1610612748,MIA,952,Walker,A. Walker,0,0,0,,0,0,0,0,h,SUB: Haslem FOR Walker,Substitution,,0,0
+426,437,PT02M15.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,110,109,219,h,O'Neal Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+427,438,PT01M55.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,36,183,19,Missed,1,0,0,0,v,MISS Mobley 19' Jump Shot,Missed Shot,Jump Shot,0,0
+428,439,PT01M53.00S,4,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+429,440,PT01M38.00S,4,1610612748,MIA,1899,Posey,J. Posey,-230,95,25,Made,1,113,109,222,h,Posey 25' 3PT Jump Shot (17 PTS) (Haslem 4 AST),Made Shot,Jump Shot,0,0
+430,441,PT01M32.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+431,444,PT01M32.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,SUB: Mourning FOR O'Neal,Substitution,,0,0
+432,445,PT01M19.00S,4,1610612746,LAC,1882,Brand,E. Brand,135,135,19,Missed,1,0,0,0,v,MISS Brand 19' Jump Shot,Missed Shot,Jump Shot,0,0
+433,446,PT01M18.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0
+434,447,PT01M18.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand P.FOUL (P5.PN),Foul,Personal,0,0
+435,448,PT01M18.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,114,109,223,h,Haslem Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+436,449,PT01M18.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,115,109,224,h,Haslem Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+437,450,PT01M06.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,-200,145,25,Missed,1,0,0,0,v,MISS Mobley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+438,450,PT01M06.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade BLOCK (4 BLK),,,0,0
+439,451,PT01M04.00S,4,1610612748,MIA,56,Payton,G. Payton,0,0,0,,0,0,0,0,h,Payton REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+440,452,PT00M50.90S,4,1610612748,MIA,2548,Wade,D. Wade,24,145,15,Missed,1,0,0,0,h,MISS Wade 15' Jump Shot,Missed Shot,Jump Shot,0,0
+441,453,PT00M47.90S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,Brand REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+442,454,PT00M45.10S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,Mourning S.FOUL (P6.PN),Foul,Shooting,0,0
+443,455,PT00M45.10S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0,0,0,h,SUB: O'Neal FOR Mourning,Substitution,,0,0
+444,456,PT00M45.10S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,115,110,225,v,Brand Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,0,0
+445,457,PT00M45.10S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,115,111,226,v,Brand Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,0,0
+446,458,PT00M19.90S,4,1610612748,MIA,2548,Wade,D. Wade,-186,148,24,Missed,1,0,0,0,h,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+447,459,PT00M17.90S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+448,460,PT00M08.90S,4,1610612746,LAC,101189,Singleton,J. Singleton,-149,186,24,Made,1,115,114,229,v,Singleton 24' 3PT Jump Shot (14 PTS) (Mobley 11 AST),Made Shot,Jump Shot,0,0
+449,461,PT00M08.90S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,v,Mobley AWAY.FROM.PLAY.FOUL (P3.PN),Foul,Away From Play,0,0
+450,462,PT00M08.90S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,116,114,230,h,Haslem Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0
+451,463,PT00M08.90S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,h,SUB: Fitch FOR O'Neal,Substitution,,0,0
+452,464,PT00M08.90S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,v,SUB: Livingston FOR Brand,Substitution,,0,0
+453,466,PT00M08.90S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Regular (Full 5 Short 2),Timeout,Regular,0,0
+454,469,PT00M07.80S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston P.FOUL (P2.PN),Foul,Personal,0,0
+455,470,PT00M07.80S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,117,114,231,h,Wade Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0
+456,471,PT00M07.80S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,SUB: Brand FOR Livingston,Substitution,,0,0
+457,472,PT00M07.80S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Cassell,Substitution,,0,0
+458,473,PT00M07.80S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,118,114,232,h,Wade Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0
+459,474,PT00M07.80S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+460,476,PT00M07.80S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,v,SUB: N'Dong FOR Ross,Substitution,,0,0
+461,477,PT00M07.80S,4,1610612746,LAC,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Cassell FOR Wilcox,Substitution,,0,0
+462,478,PT00M04.90S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell OFF.Foul (P3),Foul,Offensive,0,0
+463,479,PT00M04.90S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,v,Cassell Foul Turnover (P4.T14),Turnover,Foul,0,0
+464,480,PT00M00.00S,4,0,,0,,,0,0,0,,0,118,114,232,,End of 4th Period (10:17 PM EST),period,end,0,0

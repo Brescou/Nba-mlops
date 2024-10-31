@@ -1,0 +1,472 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:41 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Jump Ball Davis vs. Lively II: Tip to Russell,Jump Ball,,1,0
+3,7,PT11M53.00S,1,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P1.T1) (D.Richardson),Foul,Personal,1,0
+4,10,PT11M43.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Offensive Goaltending Turnover (P1.T1),Turnover,Offensive Goaltending,1,0
+5,11,PT11M21.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,25,31,4,Missed,1,,,0,v,MISS Doncic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+6,11,PT11M21.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis BLOCK (1 BLK),,,1,2
+7,13,PT11M17.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+8,14,PT11M14.00S,1,1610612747,LAL,2544,James,L. James,-4,20,2,Missed,1,,,0,h,MISS James 2' Running Layup,Missed Shot,Running Layup Shot,1,2
+9,15,PT11M11.00S,1,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+10,16,PT11M08.00S,1,1610612747,LAL,1631108,Christie,M. Christie,164,226,28,Missed,1,,,0,h,MISS Christie 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+11,17,PT11M06.00S,1,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+12,19,PT10M50.00S,1,1610612742,DAL,202681,Irving,K. Irving,-15,158,16,Made,1,0,2,2,v,Irving 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2
+13,21,PT10M23.00S,1,1610612747,LAL,1626156,Russell,D. Russell,125,232,26,Missed,1,,,0,h,MISS Russell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+14,22,PT10M21.00S,1,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+15,23,PT10M14.00S,1,1610612742,DAL,202681,Irving,K. Irving,54,183,19,Missed,1,,,0,v,MISS Irving 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+16,24,PT10M12.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+17,25,PT10M06.00S,1,1610612747,LAL,2544,James,L. James,9,40,4,Missed,1,,,0,h,MISS James 4' Running Layup,Missed Shot,Running Layup Shot,1,2
+18,26,PT10M02.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+19,27,PT09M57.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,-168,202,26,Missed,1,,,0,v,MISS Doncic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+20,28,PT09M54.00S,1,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,Russell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+21,29,PT09M44.00S,1,1610612747,LAL,1631108,Christie,M. Christie,-125,227,26,Made,1,3,2,5,h,Christie 26' 3PT Jump Shot (3 PTS) (Davis 1 AST),Made Shot,Jump Shot,1,3
+22,31,PT09M29.00S,1,1610612742,DAL,1641726,Lively II,D. Lively II,-13,6,1,Made,1,3,4,7,v,Lively II 1' Cutting Dunk Shot (2 PTS) (Doncic 1 AST),Made Shot,Cutting Dunk Shot,1,2
+23,33,PT09M02.00S,1,1610612747,LAL,1627752,Prince,T. Prince,224,41,0,Missed,1,,,0,h,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+24,34,PT09M00.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+25,35,PT08M49.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,227,21,0,Missed,1,,,0,v,MISS Doncic 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+26,36,PT08M45.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+27,37,PT08M39.00S,1,1610612747,LAL,2544,James,L. James,0,16,2,Made,1,5,4,9,h,James 2' Dunk (2 PTS) (Prince 1 AST),Made Shot,Dunk Shot,1,2
+28,39,PT08M22.00S,1,1610612742,DAL,1629684,Williams,G. Williams,235,34,24,Missed,1,,,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+29,40,PT08M20.00S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,h,Christie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+30,41,PT08M12.00S,1,1610612747,LAL,1626156,Russell,D. Russell,-7,42,4,Missed,1,,,0,h,MISS Russell 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2
+31,42,PT08M10.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+32,43,PT08M04.00S,1,1610612742,DAL,1629684,Williams,G. Williams,-230,43,0,Made,1,5,7,12,v,Williams 3PT Jump Shot (3 PTS) (Lively II 1 AST),Made Shot,Jump Shot,1,3
+33,45,PT07M50.00S,1,1610612747,LAL,203076,Davis,A. Davis,77,104,13,Missed,1,,,0,h,MISS Davis 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2
+34,46,PT07M48.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+35,47,PT07M45.00S,1,1610612742,DAL,202681,Irving,K. Irving,-178,205,27,Made,1,5,10,15,v,Irving 27' 3PT Running Pull-Up Jump Shot (5 PTS) (Doncic 2 AST),Made Shot,Running Pull-Up Jump Shot,1,3
+36,49,PT07M29.00S,1,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,0
+37,51,PT07M29.00S,1,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,6,10,16,h,Russell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+38,52,PT07M29.00S,1,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,7,10,17,h,Russell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+39,53,PT07M11.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,-153,42,16,Missed,1,,,0,v,MISS Doncic 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+40,54,PT07M10.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,1,0
+41,56,PT07M10.00S,1,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Irving,Substitution,,0,0
+42,58,PT06M47.00S,1,1610612747,LAL,1627752,Prince,T. Prince,196,172,26,Made,1,10,10,20,h,Prince 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3
+43,59,PT06M34.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0
+44,61,PT06M34.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+45,62,PT06M34.00S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,h,SUB: Hachimura FOR Christie,Substitution,,0,0
+46,63,PT06M34.00S,1,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Green FOR Jones Jr.,Substitution,,0,0
+47,66,PT06M34.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,10,11,21,v,Doncic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+48,67,PT06M34.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,MISS Doncic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+49,68,PT06M32.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+50,69,PT06M14.00S,1,1610612747,LAL,1626156,Russell,D. Russell,232,58,24,Missed,1,,,0,h,MISS Russell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+51,70,PT06M12.00S,1,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+52,71,PT06M09.00S,1,1610612742,DAL,1630182,Green,J. Green,-4,29,3,Made,1,10,13,23,v,Green 3' Running Dunk (2 PTS) (Doncic 3 AST),Made Shot,Running Dunk Shot,1,2
+53,73,PT05M59.00S,1,1610612747,LAL,1626156,Russell,D. Russell,25,43,5,Missed,1,,,0,h,MISS Russell 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2
+54,74,PT05M53.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+55,75,PT05M53.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,Made,1,12,13,25,h,Davis Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,2
+56,76,PT05M40.00S,1,1610612742,DAL,1641726,Lively II,D. Lively II,-7,52,5,Missed,1,,,0,v,MISS Lively II 5' Hook Shot,Missed Shot,Hook Shot,1,2
+57,77,PT05M38.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+58,78,PT05M33.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,4,5,1,Made,1,14,13,27,h,Hachimura 1' Running Dunk (2 PTS) (James 1 AST),Made Shot,Running Dunk Shot,1,2
+59,80,PT05M14.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-141,244,28,Made,1,14,16,30,v,Hardaway Jr. 28' 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,1,3
+60,82,PT04M54.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,-223,2,0,Made,1,17,16,33,h,Hachimura 3PT Jump Shot (5 PTS) (Russell 1 AST),Made Shot,Jump Shot,1,3
+61,84,PT04M42.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-147,222,27,Missed,1,,,0,v,MISS Hardaway Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+62,85,PT04M41.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,1,0
+63,86,PT04M41.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura L.B.FOUL (P1.T2) (Z.Zarba),Foul,Loose Ball,1,0
+64,88,PT04M41.00S,1,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,SUB: Reaves FOR Russell,Substitution,,0,0
+65,89,PT04M41.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Wood FOR James,Substitution,,0,0
+66,92,PT04M41.00S,1,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,SUB: Holmes FOR Lively II,Substitution,,0,0
+67,94,PT04M41.00S,1,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,SUB: Exum FOR Williams,Substitution,,0,0
+68,96,PT04M29.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,-9,123,12,Missed,1,,,0,v,MISS Doncic 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+69,97,PT04M25.00S,1,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+70,98,PT04M18.00S,1,1610612747,LAL,203076,Davis,A. Davis,1,24,2,Made,1,19,16,35,h,Davis 2' Cutting Dunk Shot (4 PTS) (Wood 1 AST),Made Shot,Cutting Dunk Shot,1,2
+71,100,PT04M06.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-48,157,16,Missed,1,,,0,v,MISS Hardaway Jr. 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+72,101,PT04M05.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+73,102,PT04M05.00S,1,1610612742,DAL,203957,Exum,D. Exum,0,0,0,,0,,,0,v,Exum P.FOUL (P1.T3) (M.Kogut),Foul,Personal,1,0
+74,104,PT03M55.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,-87,-2,9,Missed,1,,,0,h,MISS Hachimura 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+75,105,PT03M53.00S,1,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+76,106,PT03M46.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,1,7,1,Made,1,19,18,37,v,Doncic 1' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,2
+77,107,PT03M29.00S,1,1610612747,LAL,203076,Davis,A. Davis,28,138,14,Missed,1,,,0,h,MISS Davis 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2
+78,108,PT03M26.00S,1,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+79,109,PT03M21.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,66,260,27,Made,1,19,21,40,v,Doncic 27' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,1,3
+80,110,PT03M06.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,50,88,10,Made,1,21,21,42,h,Reaves 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2
+81,111,PT02M46.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-233,55,24,Missed,1,,,0,v,MISS Hardaway Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+82,112,PT02M42.00S,1,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+83,113,PT02M33.00S,1,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,,,0,v,Green S.FOUL (P1.T4) (D.Richardson),Foul,Shooting,1,0
+84,115,PT02M33.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+85,116,PT02M33.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,SUB: Hayes FOR Davis,Substitution,,0,0
+86,117,PT02M33.00S,1,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Christie FOR Prince,Substitution,,0,0
+87,120,PT02M33.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,22,21,43,h,Reaves Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+88,121,PT02M33.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,23,21,44,h,Reaves Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+89,122,PT02M26.00S,1,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood P.FOUL (P1.T3) (Z.Zarba),Foul,Personal,1,0
+90,124,PT02M26.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,SUB: Irving FOR Doncic,Substitution,,0,0
+91,126,PT02M11.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,17,70,7,Missed,1,,,0,v,MISS Hardaway Jr. 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2
+92,127,PT02M09.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+93,128,PT02M07.00S,1,1610612742,DAL,1630182,Green,J. Green,-230,10,0,Made,1,23,24,47,v,Green 3PT Jump Shot (5 PTS) (Hardaway Jr. 1 AST),Made Shot,Jump Shot,1,3
+94,130,PT01M40.00S,1,1610612747,LAL,1626174,Wood,C. Wood,-28,195,20,Missed,1,,,0,h,MISS Wood 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+95,131,PT01M37.00S,1,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+96,132,PT01M26.00S,1,1610612742,DAL,203957,Exum,D. Exum,207,155,26,Missed,1,,,0,v,MISS Exum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+97,133,PT01M24.00S,1,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+98,134,PT01M21.00S,1,1610612742,DAL,203957,Exum,D. Exum,6,21,2,Made,1,23,26,49,v,Exum 2' Driving Layup (2 PTS) (Holmes 1 AST),Made Shot,Driving Layup Shot,1,2
+99,136,PT01M00.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-123,237,27,Missed,1,,,0,h,MISS Reaves 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+100,137,PT00M58.50S,1,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+101,138,PT00M55.00S,1,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+102,139,PT00M37.30S,1,1610612747,LAL,1629637,Hayes,J. Hayes,-10,24,3,Made,1,25,26,51,h,Hayes 3' Reverse Layup (2 PTS) (Hachimura 1 AST),Made Shot,Reverse Layup Shot,1,2
+103,141,PT00M29.20S,1,1610612742,DAL,202681,Irving,K. Irving,12,36,4,Made,1,25,28,53,v,Irving 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2
+104,142,PT00M11.40S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,7,46,5,Missed,1,,,0,h,MISS Hachimura 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+105,142,PT00M11.40S,1,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes BLOCK (1 BLK),,,1,2
+106,144,PT00M10.80S,1,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+107,145,PT00M06.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves S.FOUL (P1.T4) (D.Richardson),Foul,Shooting,1,0
+108,147,PT00M06.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,MISS Hardaway Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+109,148,PT00M06.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+110,149,PT00M06.00S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,h,SUB: Russell FOR Christie,Substitution,,0,0
+111,150,PT00M06.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,SUB: James FOR Hayes,Substitution,,0,0
+112,153,PT00M06.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,25,29,54,v,Hardaway Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+113,154,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,29,54,,End of 1st Period (11:05 PM EST),period,end,1,0
+114,157,PT12M00.00S,2,0,,0,,,0,0,0,,0,25,29,54,,Start of 2nd Period (11:08 PM EST),period,start,0,0
+115,158,PT11M45.00S,2,1610612742,DAL,203957,Exum,D. Exum,-109,136,17,Missed,1,,,0,v,MISS Exum 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+116,159,PT11M41.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+117,160,PT11M24.00S,2,1610612747,LAL,1631108,Christie,M. Christie,188,208,28,Missed,1,,,0,h,MISS Christie 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+118,161,PT11M21.00S,2,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+119,162,PT11M08.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,1,0
+120,164,PT11M08.00S,2,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,25,30,55,v,Holmes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+121,165,PT11M08.00S,2,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,25,31,56,v,Holmes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+122,166,PT10M53.00S,2,1610612747,LAL,2544,James,L. James,-23,52,6,Missed,1,,,0,h,MISS James 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+123,167,PT10M52.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+124,168,PT10M52.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,Missed,1,,,0,h,MISS Hachimura Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2
+125,169,PT10M52.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+126,171,PT10M51.00S,2,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,1,0
+127,173,PT10M51.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,26,31,57,h,James Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+128,174,PT10M51.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+129,175,PT10M48.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+130,176,PT10M35.00S,2,1610612742,DAL,202681,Irving,K. Irving,51,112,12,Made,1,26,33,59,v,Irving 12' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2
+131,177,PT10M08.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-166,196,26,Missed,1,,,0,h,MISS Reaves 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+132,179,PT10M04.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+133,180,PT10M03.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-101,188,21,Missed,1,,,0,h,MISS Reaves 21' Jump Shot,Missed Shot,Jump Shot,1,2
+134,181,PT10M01.00S,2,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+135,182,PT09M58.00S,2,1610612742,DAL,1630182,Green,J. Green,244,86,26,Missed,1,,,0,v,MISS Green 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+136,183,PT09M58.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+137,184,PT09M53.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-11,-6,1,Made,1,28,33,61,h,Reaves 1' Running Layup (6 PTS) (James 2 AST),Made Shot,Running Layup Shot,1,2
+138,186,PT09M43.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-12,269,27,Missed,1,,,0,v,MISS Hardaway Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+139,187,PT09M43.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+140,188,PT09M40.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+141,188,PT09M40.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. STEAL (1 STL),,,1,0
+142,190,PT09M34.00S,2,1610612742,DAL,203957,Exum,D. Exum,-1,29,3,Made,1,28,35,63,v,Exum 3' Running Dunk (4 PTS) (Hardaway Jr. 2 AST),Made Shot,Running Dunk Shot,1,2
+143,192,PT09M18.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+144,192,PT09M18.00S,2,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving STEAL (1 STL),,,1,0
+145,194,PT09M14.00S,2,1610612742,DAL,1630182,Green,J. Green,-6,12,1,Made,1,28,37,65,v,Green 1' Running Layup (7 PTS) (Irving 1 AST),Made Shot,Running Layup Shot,1,2
+146,196,PT08M57.00S,2,1610612742,DAL,203957,Exum,D. Exum,0,0,0,,0,,,0,v,Exum S.FOUL (P2.T2) (D.Richardson),Foul,Shooting,1,0
+147,198,PT08M57.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,29,37,66,h,Wood Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+148,199,PT08M57.00S,2,1610612742,DAL,203957,Exum,D. Exum,0,0,0,,0,,,0,v,SUB: Doncic FOR Exum,Substitution,,0,0
+149,200,PT08M57.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Lively II FOR Hardaway Jr.,Substitution,,0,0
+150,201,PT08M57.00S,2,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Holmes,Substitution,,0,0
+151,205,PT08M57.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,MISS Wood Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+152,206,PT08M55.00S,2,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+153,207,PT08M36.00S,2,1610612742,DAL,1630182,Green,J. Green,224,39,0,Made,1,29,40,69,v,Green 3PT Jump Shot (10 PTS) (Doncic 4 AST),Made Shot,Jump Shot,1,3
+154,209,PT08M22.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,78,58,10,Missed,1,,,0,h,MISS Hachimura 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+155,210,PT08M20.00S,2,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+156,211,PT08M16.00S,2,1610612742,DAL,202681,Irving,K. Irving,-186,194,27,Missed,1,,,0,v,MISS Irving 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+157,212,PT08M10.00S,2,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+158,213,PT08M08.00S,2,1610612742,DAL,1630182,Green,J. Green,229,57,24,Missed,1,,,0,v,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+159,214,PT08M07.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,1,0
+160,216,PT07M57.00S,2,1610612742,DAL,202681,Irving,K. Irving,-20,120,12,Missed,1,,,0,v,MISS Irving 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+161,217,PT07M54.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+162,218,PT07M34.00S,2,1610612747,LAL,2544,James,L. James,23,34,4,Made,1,31,40,71,h,James 4' Dunk (5 PTS) (Reaves 1 AST),Made Shot,Dunk Shot,1,2
+163,220,PT07M19.00S,2,1610612742,DAL,1630182,Green,J. Green,-18,37,4,Made,1,31,42,73,v,Green 4' Fadeaway Jumper (12 PTS) (Doncic 5 AST),Made Shot,Fadeaway Jump Shot,1,2
+164,222,PT07M02.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,1,24,2,Made,1,33,42,75,h,Hachimura 2' Driving Layup (7 PTS) (Reaves 2 AST),Made Shot,Driving Layup Shot,1,2
+165,224,PT06M53.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,161,202,26,Made,1,33,45,78,v,Doncic 26' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3
+166,225,PT06M43.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+167,226,PT06M43.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,h,SUB: Davis FOR Christie,Substitution,,0,0
+168,227,PT06M43.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,SUB: Russell FOR Reaves,Substitution,,0,0
+169,228,PT06M43.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,SUB: Prince FOR Wood,Substitution,,0,0
+170,229,PT06M43.00S,2,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,,,0,v,SUB: Hardy FOR Green,Substitution,,0,0
+171,230,PT06M43.00S,2,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,SUB: Williams FOR Irving,Substitution,,0,0
+172,236,PT06M38.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+173,237,PT06M24.00S,2,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,226,20,0,Made,1,33,48,81,v,Jones Jr. 3PT Jump Shot (3 PTS) (Doncic 6 AST),Made Shot,Jump Shot,1,3
+174,239,PT06M13.00S,2,1610612747,LAL,1626156,Russell,D. Russell,10,26,3,Made,1,35,48,83,h,Russell 3' Driving Layup (4 PTS) (James 3 AST),Made Shot,Driving Layup Shot,1,2
+175,240,PT06M13.00S,2,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,1,0
+176,242,PT06M13.00S,2,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,36,48,84,h,Russell Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0
+177,243,PT05M52.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,-48,125,13,Missed,1,,,0,v,MISS Hardy 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+178,244,PT05M49.00S,2,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+179,245,PT05M38.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,-13,18,2,Missed,1,,,0,v,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+180,246,PT05M36.00S,2,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+181,247,PT05M36.00S,2,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+182,248,PT05M25.00S,2,1610612747,LAL,203076,Davis,A. Davis,32,48,6,Made,1,38,48,86,h,Davis 6' Hook Shot (6 PTS) (James 4 AST),Made Shot,Hook Shot,1,2
+183,250,PT05M09.00S,2,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,202,148,25,Made,1,38,51,89,v,Jones Jr. 25' 3PT Jump Shot (6 PTS) (Doncic 7 AST),Made Shot,Jump Shot,1,3
+184,252,PT04M57.00S,2,1610612747,LAL,203076,Davis,A. Davis,21,42,5,Made,1,40,51,91,h,Davis 5' Cutting Dunk Shot (8 PTS) (James 5 AST),Made Shot,Cutting Dunk Shot,1,2
+185,255,PT04M43.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Violation:Kicked Ball (Z.Zarba),Violation,Kicked Ball,0,0
+186,256,PT04M43.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Reaves FOR James,Substitution,,0,0
+187,259,PT04M34.00S,2,1610612742,DAL,1629684,Williams,G. Williams,-227,44,0,Missed,1,,,0,v,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+188,260,PT04M32.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+189,261,PT04M20.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,13,38,4,Missed,1,,,0,h,MISS Hachimura 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2
+190,261,PT04M20.00S,2,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. BLOCK (1 BLK),,,1,2
+191,263,PT04M16.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+192,264,PT04M14.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,207,194,28,Missed,1,,,0,h,MISS Hachimura 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+193,265,PT04M14.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+194,266,PT04M14.00S,2,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. P.FOUL (P3.T4) (D.Richardson),Foul,Personal,1,0
+195,268,PT04M14.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,,,0,v,SUB: Irving FOR Hardy,Substitution,,0,0
+196,270,PT04M14.00S,2,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Jones Jr.,Substitution,,0,0
+197,273,PT04M01.00S,2,1610612747,LAL,203076,Davis,A. Davis,37,115,12,Missed,1,,,0,h,MISS Davis 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+198,273,PT04M01.00S,2,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams BLOCK (1 BLK),,,1,2
+199,275,PT03M58.00S,2,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+200,276,PT03M55.00S,2,1610612742,DAL,1629684,Williams,G. Williams,-183,176,25,Missed,1,,,0,v,MISS Williams 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+201,277,PT03M53.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+202,278,PT03M40.00S,2,1610612747,LAL,1627752,Prince,T. Prince,-22,93,10,Made,1,42,51,93,h,Prince 10' Turnaround Fadeaway (5 PTS) (Russell 2 AST),Made Shot,Turnaround Fadeaway shot,1,2
+203,280,PT03M25.00S,2,1610612742,DAL,1629684,Williams,G. Williams,-227,41,0,Missed,1,,,0,v,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+204,281,PT03M21.00S,2,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+205,282,PT03M20.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-132,227,26,Made,1,42,54,96,v,Hardaway Jr. 26' 3PT Jump Shot (7 PTS) (Lively II 2 AST),Made Shot,Jump Shot,1,3
+206,284,PT03M03.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,16,41,4,Made,1,44,54,98,h,Hachimura 4' Layup (9 PTS) (Davis 2 AST),Made Shot,Layup Shot,1,2
+207,286,PT02M38.00S,2,1610612742,DAL,202681,Irving,K. Irving,72,196,21,Made,1,44,56,100,v,Irving 21' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2
+208,287,PT02M27.00S,2,1610612747,LAL,1626156,Russell,D. Russell,-21,26,3,Missed,1,,,0,h,MISS Russell 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+209,288,PT02M24.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+210,289,PT02M20.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,-10,57,6,Made,1,44,58,102,v,Doncic 6' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2
+211,290,PT02M03.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic Violation:Kicked Ball (Z.Zarba),Violation,Kicked Ball,0,0
+212,291,PT02M03.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+213,292,PT02M03.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,SUB: James FOR Hachimura,Substitution,,0,0
+214,293,PT02M03.00S,2,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,SUB: Holmes FOR Lively II,Substitution,,0,0
+215,296,PT01M50.00S,2,1610612747,LAL,1627752,Prince,T. Prince,237,75,25,Missed,1,,,0,h,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+216,297,PT01M48.00S,2,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+217,298,PT01M34.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,82,246,26,Missed,1,,,0,v,MISS Doncic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+218,299,PT01M30.00S,2,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,Russell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+219,300,PT01M27.00S,2,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P2.PN) (D.Richardson),Foul,Personal,1,0
+220,302,PT01M27.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,45,58,103,h,Davis Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0
+221,303,PT01M27.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,46,58,104,h,Davis Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0
+222,304,PT01M15.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,47,47,7,Missed,1,,,0,v,MISS Doncic 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+223,305,PT01M13.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+224,306,PT01M08.00S,2,1610612747,LAL,2544,James,L. James,-47,47,7,Missed,1,,,0,h,MISS James 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+225,307,PT01M05.00S,2,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+226,308,PT00M53.60S,2,1610612742,DAL,202681,Irving,K. Irving,-28,54,6,Made,1,46,60,106,v,Irving 6' Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,1,2
+227,309,PT00M41.50S,2,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,Russell Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+228,309,PT00M41.50S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic STEAL (1 STL),,,1,0
+229,312,PT00M31.30S,2,1610612742,DAL,1629029,Dončić,L. Dončić,107,32,11,Made,1,46,62,108,v,Doncic 11' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,2
+230,313,PT00M12.10S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves OFF.Foul (P2) (D.Richardson),Foul,Offensive,1,0
+231,315,PT00M12.10S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0
+232,316,PT00M12.10S,2,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,SUB: Christie FOR Russell,Substitution,,0,0
+233,318,PT00M04.50S,2,1610612742,DAL,1629029,Dončić,L. Dončić,162,199,26,Missed,1,,,0,v,MISS Doncic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+234,319,PT00M01.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+235,322,PT00M00.00S,2,0,,320,Watson,J. Watson,0,0,0,,0,46,62,108,,Instant Replay2nd Period (11:33 PM EST),Instant Replay,Support Ruling,0,0
+236,321,PT00M00.00S,2,0,,0,,,0,0,0,,0,46,62,108,,End of 2nd Period (11:33 PM EST),period,end,1,0
+237,329,PT12M00.00S,3,0,,0,,,0,0,0,,0,46,62,108,,Start of 3rd Period (11:48 PM EST),period,start,0,0
+238,330,PT11M46.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,1,0
+239,332,PT11M46.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,46,63,109,v,Doncic Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0
+240,333,PT11M46.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,46,64,110,v,Doncic Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0
+241,334,PT11M28.00S,3,1610612747,LAL,2544,James,L. James,-97,281,30,Made,1,49,64,113,h,James 30' 3PT Jump Shot (8 PTS) (Russell 3 AST),Made Shot,Jump Shot,1,3
+242,336,PT11M16.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,97,251,27,Made,1,49,67,116,v,Doncic 27' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3
+243,337,PT10M58.00S,3,1610612747,LAL,1631108,Christie,M. Christie,-2,18,2,Made,1,51,67,118,h,Christie 2' Driving Dunk (5 PTS) (James 6 AST),Made Shot,Driving Dunk Shot,1,2
+244,338,PT10M52.00S,3,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,238,50,24,Missed,1,,,0,v,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+245,339,PT10M49.00S,3,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+246,340,PT10M38.00S,3,1610612747,LAL,203076,Davis,A. Davis,-22,88,9,Missed,1,,,0,h,MISS Davis 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2
+247,341,PT10M36.00S,3,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+248,342,PT10M31.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,-110,236,26,Missed,1,,,0,v,MISS Doncic 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3
+249,343,PT10M28.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+250,344,PT10M21.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic P.FOUL (P1.T1) (M.Kogut),Foul,Personal,1,0
+251,346,PT10M10.00S,3,1610612747,LAL,1626156,Russell,D. Russell,-17,131,13,Made,1,53,67,120,h,Russell 13' Step Back Jump Shot (7 PTS) (Davis 3 AST),Made Shot,Step Back Jump shot,0,2
+252,347,PT10M01.00S,3,1610612742,DAL,202681,Irving,K. Irving,-31,36,5,Missed,1,,,0,v,MISS Irving 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+253,348,PT09M58.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+254,349,PT09M55.00S,3,1610612742,DAL,202681,Irving,K. Irving,-228,-4,0,Made,1,53,70,123,v,Irving 3PT Jump Shot (16 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3
+255,353,PT09M38.00S,3,1610612747,LAL,1626156,Russell,D. Russell,-172,221,28,Made,1,56,70,126,h,Russell 28' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3
+256,354,PT09M23.00S,3,1610612742,DAL,202681,Irving,K. Irving,146,16,15,Made,1,56,72,128,v,Irving 15' Jump Shot (18 PTS) (Lively II 3 AST),Made Shot,Jump Shot,1,2
+257,356,PT09M04.00S,3,1610612747,LAL,1627752,Prince,T. Prince,-1,31,3,Made,1,58,72,130,h,Prince 3' Driving Layup (7 PTS) (Russell 4 AST),Made Shot,Driving Layup Shot,1,2
+258,358,PT08M52.00S,3,1610612742,DAL,202681,Irving,K. Irving,74,263,27,Missed,1,,,0,v,MISS Irving 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+259,359,PT08M49.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+260,361,PT08M39.00S,3,1610612747,LAL,1627752,Prince,T. Prince,-188,204,28,Missed,1,,,0,h,MISS Prince 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+261,362,PT08M35.00S,3,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,Lively II REBOUND (Off:4 Def:6),Rebound,Unknown,1,0
+262,363,PT08M30.00S,3,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,229,79,24,Missed,1,,,0,v,MISS Jones Jr. 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+263,364,PT08M25.00S,3,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+264,365,PT08M23.00S,3,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0
+265,366,PT08M10.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+266,366,PT08M10.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis STEAL (1 STL),,,1,0
+267,368,PT08M02.00S,3,1610612747,LAL,1631108,Christie,M. Christie,-39,39,6,Missed,1,,,0,h,MISS Christie 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+268,368,PT08M02.00S,3,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. BLOCK (2 BLK),,,1,2
+269,370,PT07M59.00S,3,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+270,371,PT07M45.00S,3,1610612742,DAL,202681,Irving,K. Irving,175,215,28,Missed,1,,,0,v,MISS Irving 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+271,372,PT07M42.00S,3,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+272,373,PT07M39.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,25,257,26,Missed,1,,,0,v,MISS Doncic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+273,374,PT07M36.00S,3,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,h,Christie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+274,375,PT07M31.00S,3,1610612747,LAL,1626156,Russell,D. Russell,-4,11,1,Made,1,60,72,132,h,Russell 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2
+275,376,PT07M14.00S,3,1610612742,DAL,1641726,Lively II,D. Lively II,-6,24,2,Missed,1,,,0,v,MISS Lively II 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2
+276,377,PT07M11.00S,3,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,Russell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+277,378,PT07M07.00S,3,1610612747,LAL,1631108,Christie,M. Christie,225,43,0,Missed,1,,,0,h,MISS Christie 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+278,379,PT07M05.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+279,380,PT07M05.00S,3,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+280,381,PT07M05.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,SUB: Holmes FOR Irving,Substitution,,0,0
+281,382,PT07M05.00S,3,1610612742,DAL,1641726,Lively II,D. Lively II,0,0,0,,0,,,0,v,SUB: Green FOR Lively II,Substitution,,0,0
+282,383,PT07M05.00S,3,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Jones Jr.,Substitution,,0,0
+283,387,PT06M52.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,33,61,7,Made,1,60,74,134,v,Doncic 7' Floating Jump Shot (20 PTS),Made Shot,Floating Jump shot,1,2
+284,388,PT06M37.00S,3,1610612747,LAL,2544,James,L. James,-86,252,27,Missed,1,,,0,h,MISS James 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+285,389,PT06M34.00S,3,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+286,390,PT06M21.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,22,20,3,Made,1,60,76,136,v,Doncic 3' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,2
+287,391,PT06M06.00S,3,1610612747,LAL,1626156,Russell,D. Russell,65,254,26,Made,1,63,76,139,h,Russell 26' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3
+288,392,PT05M49.00S,3,1610612742,DAL,1629684,Williams,G. Williams,227,84,24,Made,1,63,79,142,v,Williams 24' 3PT Jump Shot (6 PTS) (Hardaway Jr. 3 AST),Made Shot,Jump Shot,1,3
+289,394,PT05M28.00S,3,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,1,0
+290,396,PT05M28.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,64,79,143,h,James Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0
+291,397,PT05M28.00S,3,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,h,SUB: Hachimura FOR Christie,Substitution,,0,0
+292,399,PT05M28.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,65,79,144,h,James Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0
+293,400,PT05M21.00S,3,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,Russell P.FOUL (P1.T2) (Z.Zarba),Foul,Personal,1,0
+294,402,PT05M12.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,6,25,3,Made,1,65,81,146,v,Doncic 3' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,1,2
+295,403,PT04M55.00S,3,1610612747,LAL,1626156,Russell,D. Russell,1,22,2,Missed,1,,,0,h,MISS Russell 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+296,404,PT04M52.00S,3,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+297,405,PT04M46.00S,3,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-123,226,26,Missed,1,,,0,v,MISS Hardaway Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+298,406,PT04M44.00S,3,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+299,407,PT04M44.00S,3,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,Made,1,65,83,148,v,Holmes Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2
+300,408,PT04M44.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+301,409,PT04M44.00S,3,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,SUB: Wood FOR Russell,Substitution,,0,0
+302,410,PT04M44.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Reaves FOR James,Substitution,,0,0
+303,413,PT04M20.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0
+304,414,PT04M06.00S,3,1610612742,DAL,1630182,Green,J. Green,2,58,6,Missed,1,,,0,v,MISS Green 6' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2
+305,415,PT04M01.00S,3,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+306,416,PT03M54.00S,3,1610612747,LAL,1627752,Prince,T. Prince,1,17,2,Made,1,67,83,150,h,Prince 2' Driving Layup (9 PTS) (Reaves 3 AST),Made Shot,Driving Layup Shot,1,2
+307,419,PT03M46.00S,3,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince P.FOUL (P1.T3) (M.Kogut),Foul,Personal,1,0
+308,421,PT03M46.00S,3,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,SUB: Exum FOR Williams,Substitution,,0,0
+309,422,PT03M46.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,SUB: Irving FOR Doncic,Substitution,,0,0
+310,425,PT03M36.00S,3,1610612742,DAL,202681,Irving,K. Irving,16,31,3,Missed,1,,,0,v,MISS Irving 3' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+311,426,PT03M34.00S,3,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+312,427,PT03M18.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura Offensive Charge Foul (P3) (M.Kogut),Foul,Offensive Charge,1,0
+313,429,PT03M18.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0
+314,430,PT03M18.00S,3,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Christie FOR Prince,Substitution,,0,0
+315,431,PT03M18.00S,3,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,SUB: Powell FOR Holmes,Substitution,,0,0
+316,434,PT03M05.00S,3,1610612742,DAL,203957,Exum,D. Exum,-168,200,26,Missed,1,,,0,v,MISS Exum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+317,435,PT03M00.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+318,436,PT02M53.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,-120,80,14,Made,1,69,83,152,h,Reaves 14' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2
+319,437,PT02M37.00S,3,1610612742,DAL,202681,Irving,K. Irving,29,110,11,Missed,1,,,0,v,MISS Irving 11' Jump Shot,Missed Shot,Jump Shot,1,2
+320,438,PT02M34.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+321,439,PT02M27.00S,3,1610612747,LAL,203076,Davis,A. Davis,-69,153,17,Missed,1,,,0,h,MISS Davis 17' Jump Shot,Missed Shot,Jump Shot,1,2
+322,440,PT02M25.00S,3,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,1,0
+323,441,PT02M25.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves L.B.FOUL (P3.T4) (Z.Zarba),Foul,Loose Ball,1,0
+324,443,PT02M25.00S,3,1610612742,DAL,203957,Exum,D. Exum,0,0,0,,0,,,0,v,SUB: Hardy FOR Exum,Substitution,,0,0
+325,445,PT02M10.00S,3,1610612742,DAL,1630702,Hardy,J. Hardy,70,88,11,Made,1,69,85,154,v,Hardy 11' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2
+326,446,PT01M58.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+327,446,PT01M58.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving STEAL (2 STL),,,1,0
+328,448,PT01M52.00S,3,1610612742,DAL,202681,Irving,K. Irving,-11,273,27,Made,1,69,88,157,v,Irving 27' 3PT Running Jump Shot (21 PTS) (Powell 1 AST),Made Shot,Running Jump Shot,1,3
+329,450,PT01M35.00S,3,1610612747,LAL,1631108,Christie,M. Christie,6,78,8,Made,1,71,88,159,h,Christie 8' Driving Floating Jump Shot (7 PTS) (Davis 4 AST),Made Shot,Driving Floating Jump Shot,1,2
+330,452,PT01M24.00S,3,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,112,253,28,Missed,1,,,0,v,MISS Hardaway Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+331,453,PT01M22.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+332,454,PT01M15.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis OFF.Foul (P3) (Z.Zarba),Foul,Offensive,1,0
+333,456,PT01M15.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1,0
+334,457,PT00M59.60S,3,1610612742,DAL,1630182,Green,J. Green,224,77,24,Made,1,71,91,162,v,Green 24' 3PT Jump Shot (15 PTS) (Irving 2 AST),Made Shot,Jump Shot,1,3
+335,459,PT00M45.50S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,103,36,11,Missed,1,,,0,h,MISS Hachimura 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+336,460,PT00M42.20S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+337,461,PT00M36.40S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell OFF.Foul (P1) (Z.Zarba),Foul,Offensive,1,0
+338,463,PT00M36.40S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0
+339,464,PT00M28.60S,3,1610612747,LAL,1630559,Reaves,A. Reaves,99,152,18,Missed,1,,,0,h,MISS Reaves 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+340,465,PT00M25.60S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+341,466,PT00M08.90S,3,1610612742,DAL,1630182,Green,J. Green,-239,-10,24,Missed,1,,,0,v,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+342,467,PT00M07.30S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+343,468,PT00M02.90S,3,1610612747,LAL,1630559,Reaves,A. Reaves,13,268,27,Missed,1,,,0,h,MISS Reaves 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3
+344,469,PT00M00.50S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,1,0
+345,470,PT00M00.00S,3,0,,0,,,0,0,0,,0,71,91,162,,End of 3rd Period (12:11 AM EST),period,end,1,0
+346,479,PT12M00.00S,4,0,,0,,,0,0,0,,0,71,91,162,,Start of 4th Period (12:14 AM EST),period,start,0,0
+347,480,PT11M38.00S,4,1610612747,LAL,2544,James,L. James,2,52,5,Missed,1,,,0,h,MISS James 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+348,481,PT11M38.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+349,482,PT11M38.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,Made,1,73,91,164,h,James Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2
+350,483,PT11M38.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,1,0
+351,485,PT11M38.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,74,91,165,h,James Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0
+352,486,PT11M23.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0
+353,488,PT11M23.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,74,92,166,v,Doncic Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0
+354,489,PT11M23.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,74,93,167,v,Doncic Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0
+355,490,PT11M07.00S,4,1610612747,LAL,2544,James,L. James,-158,199,25,Missed,1,,,0,h,MISS James 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+356,491,PT11M03.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+357,492,PT10M59.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,20,69,7,Missed,1,,,0,v,MISS Hardy 7' Running Layup,Missed Shot,Running Layup Shot,1,2
+358,493,PT10M59.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,1,0
+359,495,PT10M45.00S,4,1610612747,LAL,1627752,Prince,T. Prince,-141,157,21,Missed,1,,,0,h,MISS Prince 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2
+360,496,PT10M43.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+361,498,PT10M43.00S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Hardaway Jr.,Substitution,,0,0
+362,500,PT10M27.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,-140,210,25,Missed,1,,,0,v,MISS Doncic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+363,501,PT10M26.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,1,0
+364,503,PT10M14.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-62,265,27,Made,1,77,93,170,h,Reaves 27' 3PT Jump Shot (11 PTS) (James 7 AST),Made Shot,Jump Shot,1,3
+365,505,PT09M57.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,239,40,24,Missed,1,,,0,v,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+366,506,PT09M54.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+367,507,PT09M50.00S,4,1610612747,LAL,2544,James,L. James,-23,269,27,Made,1,80,93,173,h,James 27' 3PT Jump Shot (16 PTS) (Reaves 4 AST),Made Shot,Jump Shot,1,3
+368,509,PT09M49.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+369,510,PT09M49.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,,,0,v,SUB: Holmes FOR Hardy,Substitution,,0,0
+370,511,PT09M49.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Williams FOR Powell,Substitution,,0,0
+371,514,PT09M32.00S,4,1610612742,DAL,1629684,Williams,G. Williams,-237,62,24,Missed,1,,,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+372,515,PT09M30.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+373,516,PT09M26.00S,4,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P3.T2) (M.Kogut),Foul,Personal,1,0
+374,518,PT09M20.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,1,99,10,Made,1,82,93,175,h,Reaves 10' Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,1,2
+375,519,PT09M20.00S,4,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. S.FOUL (P4.T3) (Z.Zarba),Foul,Shooting,1,0
+376,521,PT09M20.00S,4,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,,,0,v,SUB: Irving FOR Green,Substitution,,0,0
+377,523,PT09M20.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,MISS Reaves Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+378,524,PT09M16.00S,4,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+379,525,PT08M59.00S,4,1610612742,DAL,1629684,Williams,G. Williams,-170,184,25,Missed,1,,,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+380,526,PT08M57.00S,4,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+381,527,PT08M54.00S,4,1610612742,DAL,1626158,Holmes,R. Holmes,21,71,7,Missed,1,,,0,v,MISS Holmes 7' Hook Shot,Missed Shot,Hook Shot,1,2
+382,528,PT08M51.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+383,529,PT08M50.00S,4,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes P.FOUL (P3.T4) (D.Richardson),Foul,Personal,1,0
+384,531,PT08M39.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-69,152,17,Made,1,84,93,177,h,Reaves 17' Pullup Jump Shot (15 PTS) (Prince 2 AST),Made Shot,Pullup Jump shot,1,2
+385,533,PT08M12.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,86,94,13,Missed,1,,,0,v,MISS Doncic 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2
+386,534,PT08M11.00S,4,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+387,535,PT08M11.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince S.FOUL (P2.T2) (D.Richardson),Foul,Shooting,1,0
+388,537,PT08M11.00S,4,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,MISS Holmes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+389,538,PT08M11.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+390,539,PT08M11.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,SUB: Davis FOR Hachimura,Substitution,,0,0
+391,541,PT08M11.00S,4,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,MISS Holmes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+392,542,PT08M07.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+393,543,PT07M58.00S,4,1610612747,LAL,2544,James,L. James,-107,254,28,Missed,1,,,0,h,MISS James 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+394,544,PT07M55.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+395,545,PT07M40.00S,4,1610612742,DAL,202681,Irving,K. Irving,15,96,10,Missed,1,,,0,v,MISS Irving 10' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2
+396,546,PT07M37.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+397,548,PT07M19.00S,4,1610612747,LAL,203076,Davis,A. Davis,-80,186,20,Missed,1,,,0,h,MISS Davis 20' Jump Shot,Missed Shot,Jump Shot,1,2
+398,549,PT07M17.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:9),Rebound,Unknown,1,0
+399,550,PT07M09.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince Violation:Kicked Ball (Z.Zarba),Violation,Kicked Ball,0,0
+400,551,PT07M09.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+401,552,PT07M09.00S,4,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Jones Jr.,Substitution,,0,0
+402,554,PT06M57.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,164,224,28,Missed,1,,,0,v,MISS Doncic 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+403,555,PT06M52.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+404,557,PT06M34.00S,4,1610612747,LAL,1627752,Prince,T. Prince,186,174,25,Made,1,87,93,180,h,Prince 25' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,3
+405,558,PT06M14.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince S.FOUL (P3.T3) (Z.Zarba),Foul,Shooting,1,0
+406,560,PT06M14.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,87,94,181,v,Doncic Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0
+407,561,PT06M14.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,87,95,182,v,Doncic Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0
+408,562,PT06M02.00S,4,1610612747,LAL,2544,James,L. James,66,263,27,Made,1,90,95,185,h,James 27' 3PT Jump Shot (19 PTS) (Reaves 5 AST),Made Shot,Jump Shot,1,3
+409,564,PT05M46.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,87,30,9,Missed,1,,,0,v,MISS Doncic 9' Hook Shot,Missed Shot,Hook Shot,1,2
+410,565,PT05M44.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:11),Rebound,Unknown,1,0
+411,566,PT05M25.00S,4,1610612747,LAL,2544,James,L. James,-22,21,3,Made,1,92,95,187,h,James 3' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2
+412,567,PT05M02.00S,4,1610612742,DAL,202681,Irving,K. Irving,89,26,9,Missed,1,,,0,v,MISS Irving 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+413,568,PT05M01.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+414,570,PT04M38.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-36,274,28,Missed,1,,,0,h,MISS Reaves 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+415,571,PT04M37.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+416,572,PT04M37.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,1,0
+417,574,PT04M37.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+418,575,PT04M37.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+419,576,PT04M37.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0
+420,577,PT04M37.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+421,578,PT04M35.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:10),Rebound,Unknown,1,0
+422,579,PT04M15.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,-33,37,5,Made,1,92,97,189,v,Doncic 5' Fadeaway Bank Shot (30 PTS) (Williams 2 AST),Made Shot,Fadeaway Bank shot,1,2
+423,586,PT04M09.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Turnover: 8 Second Violation (T#12),Turnover,8 Second Violation,0,0
+424,582,PT03M46.00S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-183,183,26,Missed,1,,,0,v,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+425,583,PT03M46.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+426,584,PT03M46.00S,4,1610612742,DAL,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P4.PN) (M.Kogut),Foul,Shooting,1,0
+427,587,PT03M46.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+428,588,PT03M46.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0
+429,589,PT03M46.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+430,590,PT03M44.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:11),Rebound,Unknown,1,0
+431,591,PT03M27.00S,4,1610612742,DAL,202681,Irving,K. Irving,21,16,3,Made,1,92,99,191,v,Irving 3' Layup (23 PTS),Made Shot,Layup Shot,1,2
+432,593,PT03M13.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,SUB: Russell FOR Hayes,Substitution,,0,0
+433,595,PT03M06.00S,4,1610612747,LAL,2544,James,L. James,-208,195,29,Made,1,95,99,194,h,James 29' 3PT Jump Shot (24 PTS) (Reaves 6 AST),Made Shot,Jump Shot,1,3
+434,597,PT02M44.00S,4,1610612742,DAL,202681,Irving,K. Irving,97,242,26,Missed,1,,,0,v,MISS Irving 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+435,598,PT02M40.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+436,599,PT02M21.00S,4,1610612747,LAL,1627752,Prince,T. Prince,31,54,6,Made,1,97,99,196,h,Prince 6' Floating Jump Shot (14 PTS) (Russell 5 AST),Made Shot,Floating Jump shot,1,2
+437,601,PT02M21.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+438,606,PT02M05.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,96,68,12,Missed,1,,,0,v,MISS Doncic 12' Jump Shot,Missed Shot,Jump Shot,1,2
+439,606,PT02M05.00S,4,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,Russell BLOCK (1 BLK),,,1,2
+440,608,PT02M04.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,1,0
+441,604,PT02M04.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Coach Challenge (Full 5 Short 0),Timeout,Coach Challenge,0,0
+442,605,PT02M04.00S,4,0,,602,,,0,0,0,,0,97,99,196,,Instant Replay4th Period (12:43 AM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0
+443,609,PT01M51.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-40,80,9,Made,1,99,99,198,h,Reaves 9' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2
+444,610,PT01M32.00S,4,1610612742,DAL,1629684,Williams,G. Williams,227,101,25,Missed,1,,,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+445,611,PT01M32.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+446,612,PT01M16.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,59,59,8,Missed,1,,,0,h,MISS Reaves 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+447,613,PT01M16.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+448,614,PT01M16.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,Made,1,101,99,200,h,James Tip Layup Shot (26 PTS),Made Shot,Tip Layup Shot,1,2
+449,615,PT00M56.80S,4,1610612742,DAL,1629029,Dončić,L. Dončić,-192,195,27,Missed,1,,,0,v,MISS Doncic 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+450,616,PT00M53.70S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+451,617,PT00M34.00S,4,1610612747,LAL,2544,James,L. James,86,239,25,Missed,1,,,0,h,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+452,618,PT00M31.90S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:12),Rebound,Unknown,1,0
+453,619,PT00M21.60S,4,1610612742,DAL,202681,Irving,K. Irving,-146,203,25,Made,1,101,102,203,v,Irving 25' 3PT Jump Shot (26 PTS) (Doncic 8 AST),Made Shot,Jump Shot,1,3
+454,621,PT00M03.50S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0
+455,621,PT00M03.50S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,,,0,v,Doncic STEAL (2 STL),,,1,0
+456,623,PT00M03.20S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves Personal Take Foul (P4.T4) (D.Richardson),Foul,Personal Take,1,0
+457,625,PT00M03.20S,4,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,,,0,h,SUB: Christie FOR Russell,Substitution,,0,0
+458,627,PT00M03.20S,4,1610612742,DAL,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,v,SUB: Curry FOR Holmes,Substitution,,0,0
+459,629,PT00M02.80S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves Personal Take Foul (P5.PN) (Z.Zarba),Foul,Personal Take,1,0
+460,631,PT00M02.80S,4,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,101,103,204,v,Irving Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0
+461,632,PT00M02.80S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,SUB: Hayes FOR Reaves,Substitution,,0,0
+462,634,PT00M02.80S,4,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,101,104,205,v,Irving Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0
+463,635,PT00M02.80S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+464,636,PT00M02.80S,4,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,h,SUB: Russell FOR Christie,Substitution,,0,0
+465,637,PT00M02.80S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,SUB: Reaves FOR Hayes,Substitution,,0,0
+466,638,PT00M02.80S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Hardaway Jr.,Substitution,,0,0
+467,639,PT00M02.80S,4,1610612742,DAL,203552,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Exum FOR Curry,Substitution,,0,0
+468,644,PT00M02.80S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0
+469,645,PT00M01.90S,4,1610612747,LAL,2544,James,L. James,-234,37,24,Missed,1,,,0,h,MISS James 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+470,646,PT00M00.10S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+471,647,PT00M00.00S,4,0,,0,,,0,0,0,,0,101,104,205,,End of 4th Period (12:53 AM EST),period,end,1,0

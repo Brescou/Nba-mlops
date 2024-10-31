@@ -1,0 +1,466 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (11:45 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Jump Ball Kaman vs. Ratliff: Tip to Van Exel,Jump Ball,,0,0
+3,2,PT11M46.00S,1,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+4,3,PT11M28.00S,1,1610612746,LAC,1882,Brand,E. Brand,-135,-13,14,Missed,1,0,0,0,h,MISS Brand 14' Jump Shot,Missed Shot,Jump Shot,0,0
+5,4,PT11M27.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+6,5,PT11M24.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,164,0,16,Made,1,2,0,2,h,Simmons 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+7,6,PT11M19.00S,1,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,0
+8,6,PT11M19.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,Brunson STEAL (1 STL),,,0,0
+9,7,PT11M00.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette Traveling Turnover (P1.T1),Turnover,Traveling,0,0
+10,8,PT10M45.00S,1,1610612757,POR,89,Van Exel,N. Van Exel,141,227,27,Missed,1,0,0,0,v,MISS Van Exel 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+11,9,PT10M44.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+12,10,PT10M26.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,164,0,16,Made,1,4,0,4,h,Simmons 16' Jump Shot (4 PTS) (Brunson 1 AST),Made Shot,Jump Shot,0,0
+13,11,PT10M08.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,-18,120,12,Made,1,4,2,6,v,Randolph 12' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+14,12,PT09M48.00S,1,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles S.FOUL (P1.T1),Foul,Shooting,0,0
+15,13,PT09M48.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,5,2,7,h,Kaman Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+16,14,PT09M48.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,MISS Kaman Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+17,16,PT09M47.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+18,17,PT09M30.00S,1,1610612757,POR,2032,Miles,D. Miles,120,150,19,Made,1,5,4,9,v,Miles 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+19,18,PT09M11.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0,0,0,h,MISS Kaman  Layup,Missed Shot,Layup Shot,0,0
+20,19,PT09M10.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+21,20,PT09M01.00S,1,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,Made,1,5,6,11,v,Ratliff  Layup (2 PTS) (Van Exel 1 AST),Made Shot,Layup Shot,0,0
+22,21,PT09M01.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette S.FOUL (P1.T1),Foul,Shooting,0,0
+23,22,PT09M01.00S,1,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,5,7,12,v,Ratliff Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+24,23,PT08M56.00S,1,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,Ratliff S.FOUL (P1.T2),Foul,Shooting,0,0
+25,24,PT08M56.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,6,7,13,h,Maggette Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+26,25,PT08M56.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,7,7,14,h,Maggette Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+27,26,PT08M40.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,105,164,19,Missed,1,0,0,0,v,MISS Randolph 19' Jump Shot,Missed Shot,Jump Shot,0,0
+28,27,PT08M38.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+29,28,PT08M29.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,144,150,21,Missed,1,0,0,0,h,MISS Maggette 21' Jump Shot,Missed Shot,Jump Shot,0,0
+30,29,PT08M27.00S,1,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+31,30,PT08M18.00S,1,1610612757,POR,89,Van Exel,N. Van Exel,72,248,26,Missed,1,0,0,0,v,MISS Van Exel 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+32,31,PT08M16.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+33,32,PT08M05.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,9,7,16,h,Kaman  Layup (3 PTS),Made Shot,Layup Shot,0,0
+34,33,PT07M51.00S,1,1610612757,POR,689,Ratliff,T. Ratliff,-85,97,13,Missed,1,0,0,0,v,MISS Ratliff 13' Jump Shot,Missed Shot,Jump Shot,0,0
+35,34,PT07M49.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+36,35,PT07M34.00S,1,1610612757,POR,1507,Anderson,D. Anderson,59,253,26,Missed,1,0,0,0,v,MISS Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+37,36,PT07M33.00S,1,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+38,37,PT07M30.00S,1,1610612757,POR,89,Van Exel,N. Van Exel,105,68,13,Missed,1,0,0,0,v,MISS Van Exel 13' Jump Shot,Missed Shot,Jump Shot,0,0
+39,38,PT07M29.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+40,39,PT07M23.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,11,7,18,h,Brand  Driving Layup (2 PTS) (Brunson 2 AST),Made Shot,Driving Layup Shot,0,0
+41,40,PT07M08.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,15,72,7,Missed,1,0,0,0,v,MISS Randolph 7' Jump Shot,Missed Shot,Jump Shot,0,0
+42,41,PT07M07.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+43,42,PT06M57.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,95,187,21,Missed,1,0,0,0,h,MISS Simmons 21' Jump Shot,Missed Shot,Jump Shot,0,0
+44,43,PT06M55.00S,1,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,Ratliff REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+45,44,PT06M51.00S,1,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles OFF.Foul (P2),Foul,Offensive,0,0
+46,45,PT06M51.00S,1,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles Foul Turnover (P1.T3),Turnover,Foul,0,0
+47,46,PT06M51.00S,1,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,SUB: Patterson FOR Miles,Substitution,,0,0
+48,47,PT06M38.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Made,1,13,7,20,h,Simmons  Layup (6 PTS) (Maggette 1 AST),Made Shot,Layup Shot,0,0
+49,48,PT06M22.00S,1,1610612757,POR,689,Ratliff,T. Ratliff,8,158,16,Missed,1,0,0,0,v,MISS Ratliff 16' Jump Shot,Missed Shot,Jump Shot,0,0
+50,49,PT06M21.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+51,50,PT06M11.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,15,7,22,h,Brand  Layup (4 PTS),Made Shot,Layup Shot,0,0
+52,51,PT06M05.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+53,54,PT05M52.00S,1,1610612757,POR,1507,Anderson,D. Anderson,0,0,0,Made,1,15,9,24,v,Anderson  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+54,55,PT05M30.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,164,33,17,Missed,1,0,0,0,h,MISS Simmons 17' Jump Shot,Missed Shot,Jump Shot,0,0
+55,56,PT05M29.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+56,57,PT05M27.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0,0,0,h,MISS Kaman  Layup,Missed Shot,Layup Shot,0,0
+57,58,PT05M26.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+58,59,PT05M24.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,-2,53,5,Made,1,17,9,26,h,Kaman 5' Jump Hook Shot (5 PTS),Made Shot,Jump Hook Shot,0,0
+59,60,PT05M12.00S,1,1610612757,POR,1507,Anderson,D. Anderson,0,0,0,Missed,1,0,0,0,v,MISS Anderson  Layup,Missed Shot,Layup Shot,0,0
+60,61,PT05M10.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+61,62,PT04M56.00S,1,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson P.FOUL (P1.T3),Foul,Personal,0,0
+62,63,PT04M56.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,SUB: Rebraca FOR Kaman,Substitution,,0,0
+63,64,PT04M56.00S,1,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,SUB: Stoudamire FOR Van Exel,Substitution,,0,0
+64,65,PT04M51.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,146,100,18,Missed,1,0,0,0,h,MISS Maggette 18' Jump Shot,Missed Shot,Jump Shot,0,0
+65,66,PT04M49.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+66,67,PT04M31.00S,1,1610612757,POR,1507,Anderson,D. Anderson,0,261,26,Made,1,17,12,29,v,Anderson 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,0,0
+67,68,PT04M14.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+68,71,PT04M14.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,SUB: Ross FOR Maggette,Substitution,,0,0
+69,72,PT04M05.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,192,18,19,Missed,1,0,0,0,h,MISS Simmons 19' Jump Shot,Missed Shot,Jump Shot,0,0
+70,73,PT04M03.00S,1,1610612757,POR,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+71,74,PT03M45.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,-112,168,20,Missed,1,0,0,0,v,MISS Randolph 20' Jump Shot,Missed Shot,Jump Shot,0,0
+72,75,PT03M43.00S,1,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,Rebraca REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+73,76,PT03M33.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,-166,-9,17,Made,1,19,12,31,h,Simmons 17' Jump Shot (8 PTS) (Brunson 3 AST),Made Shot,Jump Shot,0,0
+74,77,PT03M10.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,51,109,12,Made,1,19,14,33,v,Stoudamire 12' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+75,78,PT02M50.00S,1,1610612746,LAC,1442,Rebraca,Z. Rebraca,90,86,12,Missed,1,0,0,0,h,MISS Rebraca 12' Jump Shot,Missed Shot,Jump Shot,0,0
+76,80,PT02M47.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+77,79,PT02M47.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,21,14,35,h,Brand  Layup (6 PTS),Made Shot,Layup Shot,0,0
+78,81,PT02M35.00S,1,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,Made,1,21,16,37,v,Patterson  Slam Dunk (2 PTS) (Stoudamire 1 AST),Made Shot,Slam Dunk Shot,0,0
+79,82,PT02M18.00S,1,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,143,14,Made,1,23,16,39,h,Rebraca 14' Jump Shot (2 PTS) (Brunson 4 AST),Made Shot,Jump Shot,0,0
+80,83,PT02M05.00S,1,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,Ratliff Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0
+81,83,PT02M05.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons STEAL (1 STL),,,0,0
+82,84,PT01M59.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Missed,1,0,0,0,h,MISS Simmons  Layup,Missed Shot,Layup Shot,0,0
+83,84,PT01M59.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph BLOCK (1 BLK),,,0,0
+84,85,PT01M59.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+85,86,PT01M59.00S,1,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,SUB: Przybilla FOR Ratliff,Substitution,,0,0
+86,87,PT01M47.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,133,26,14,Missed,1,0,0,0,h,MISS Brunson 14' Jump Shot,Missed Shot,Jump Shot,0,0
+87,88,PT01M45.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+88,89,PT01M31.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,-123,247,28,Missed,1,0,0,0,v,MISS Stoudamire 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+89,90,PT01M29.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+90,91,PT01M28.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,Made,1,23,18,41,v,Przybilla  Layup (2 PTS),Made Shot,Layup Shot,0,0
+91,92,PT01M15.00S,1,1610612746,LAC,2624,Ross,Q. Ross,-13,104,10,Missed,1,0,0,0,h,MISS Ross 10' Jump Shot,Missed Shot,Jump Shot,0,0
+92,93,PT01M13.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+93,94,PT01M04.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Missed,1,0,0,0,h,MISS Ross  Layup,Missed Shot,Layup Shot,0,0
+94,95,PT01M02.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+95,96,PT00M44.40S,1,1610612757,POR,1507,Anderson,D. Anderson,-153,215,26,Made,1,23,21,44,v,Anderson 26' 3PT Jump Shot (8 PTS) (Stoudamire 2 AST),Made Shot,Jump Shot,0,0
+96,97,PT00M29.90S,1,1610612746,LAC,2250,Simmons,B. Simmons,163,15,16,Missed,1,0,0,0,h,MISS Simmons 16' Jump Shot,Missed Shot,Jump Shot,0,0
+97,98,PT00M27.90S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+98,99,PT00M23.50S,1,1610612757,POR,1739,Patterson,R. Patterson,-2,68,7,Made,1,23,23,46,v,Patterson 7' Jump Hook Shot (4 PTS) (Stoudamire 3 AST),Made Shot,Jump Hook Shot,0,0
+99,100,PT00M05.30S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire P.FOUL (P1.T4),Foul,Personal,0,0
+100,101,PT00M00.90S,1,1610612746,LAC,1882,Brand,E. Brand,115,51,13,Missed,1,0,0,0,h,MISS Brand 13' Jump Shot,Missed Shot,Jump Shot,0,0
+101,103,PT00M00.10S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+102,102,PT00M00.10S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Missed,1,0,0,0,h,MISS Simmons  Tip Shot,Missed Shot,Tip Shot,0,0
+103,104,PT00M00.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+104,105,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,23,46,,End of 1st Period (12:06 PM EST),period,end,0,0
+105,107,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,23,46,,Start of 2nd Period (12:09 PM EST),period,start,0,0
+106,108,PT11M40.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,Rebraca Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+107,108,PT11M40.00S,2,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson STEAL (1 STL),,,0,0
+108,109,PT11M16.00S,2,1610612757,POR,1739,Patterson,R. Patterson,-110,140,18,Missed,1,0,0,0,v,MISS Patterson 18' Jump Shot,Missed Shot,Jump Shot,0,0
+109,110,PT11M14.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,0,0,0,,0,0,0,0,h,Chalmers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+110,111,PT11M04.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Missed,1,0,0,0,h,MISS Maggette  Layup,Missed Shot,Layup Shot,0,0
+111,113,PT11M03.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+112,112,PT11M03.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,25,23,48,h,Brand  Follow Up Dunk (8 PTS),Made Shot,Follow Up Dunk Shot,0,0
+113,114,PT10M34.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+114,115,PT10M34.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,SUB: Moore FOR Brand,Substitution,,0,0
+115,116,PT10M22.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,0,0,0,Missed,1,0,0,0,h,MISS Chalmers  Layup,Missed Shot,Layup Shot,0,0
+116,116,PT10M22.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw BLOCK (1 BLK),,,0,0
+117,117,PT10M20.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+118,118,PT10M18.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Made,1,27,23,50,h,Ross  Layup (2 PTS),Made Shot,Layup Shot,0,0
+119,119,PT10M15.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,Rebraca S.FOUL (P1.T1),Foul,Shooting,0,0
+120,120,PT10M15.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,MISS Outlaw Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+121,121,PT10M15.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+122,122,PT10M15.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,27,24,51,v,Outlaw Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+123,123,PT10M07.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,Missed,1,0,0,0,h,MISS Rebraca  Layup,Missed Shot,Layup Shot,0,0
+124,123,PT10M07.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla BLOCK (1 BLK),,,0,0
+125,124,PT10M04.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,Rebraca REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+126,125,PT10M03.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,Rebraca Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0
+127,125,PT10M03.00S,2,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel STEAL (1 STL),,,0,0
+128,126,PT09M59.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,134,172,22,Missed,1,0,0,0,v,MISS Stoudamire 22' Jump Shot,Missed Shot,Jump Shot,0,0
+129,127,PT09M58.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+130,128,PT09M56.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,Made,1,27,26,53,v,Przybilla  Layup (4 PTS) (Stoudamire 4 AST),Made Shot,Layup Shot,0,0
+131,129,PT09M56.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,0,0,0,,0,0,0,0,h,Chalmers S.FOUL (P1.T2),Foul,Shooting,0,0
+132,130,PT09M56.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,MISS Przybilla Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+133,131,PT09M54.00S,2,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+134,132,PT09M53.00S,2,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,Missed,1,0,0,0,v,MISS Patterson  Layup,Missed Shot,Layup Shot,0,0
+135,132,PT09M53.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,Rebraca BLOCK (1 BLK),,,0,0
+136,133,PT09M53.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+137,134,PT09M31.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,-159,26,16,Missed,1,0,0,0,v,MISS Przybilla 16' Jump Shot,Missed Shot,Jump Shot,0,0
+138,135,PT09M31.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+139,136,PT09M31.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0
+140,137,PT09M11.00S,2,1610612746,LAC,2624,Ross,Q. Ross,-108,141,18,Made,1,29,26,55,h,Ross 18' Jump Shot (4 PTS) (Chalmers 1 AST),Made Shot,Jump Shot,0,0
+141,138,PT08M56.00S,2,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+142,138,PT08M56.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,Rebraca STEAL (1 STL),,,0,0
+143,139,PT08M38.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,0,0,0,,0,0,0,0,h,Chalmers Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+144,139,PT08M38.00S,2,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson STEAL (2 STL),,,0,0
+145,140,PT08M35.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,Made,1,29,28,57,v,Outlaw  Driving Dunk (3 PTS),Made Shot,Driving Dunk Shot,0,0
+146,141,PT08M15.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,-179,95,20,Made,1,31,28,59,h,Maggette 20' Jump Shot (4 PTS) (Chalmers 2 AST),Made Shot,Jump Shot,0,0
+147,142,PT07M57.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,141,227,27,Made,1,31,31,62,v,Stoudamire 27' 3PT Jump Shot (5 PTS) (Patterson 1 AST),Made Shot,Jump Shot,0,0
+148,143,PT07M44.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw P.FOUL (P1.T1),Foul,Personal,0,0
+149,144,PT07M44.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+150,146,PT07M44.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,SUB: Kaman FOR Rebraca,Substitution,,0,0
+151,147,PT07M44.00S,2,1610612746,LAC,2763,Chalmers,L. Chalmers,0,0,0,,0,0,0,0,h,SUB: Brunson FOR Chalmers,Substitution,,0,0
+152,149,PT07M34.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,15,105,11,Missed,1,0,0,0,h,MISS Kaman 11' Jump Shot,Missed Shot,Jump Shot,0,0
+153,149,PT07M34.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla BLOCK (2 BLK),,,0,0
+154,151,PT07M33.00S,2,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+155,150,PT07M33.00S,2,1610612746,LAC,1630,Moore,M. Moore,0,0,0,Missed,1,0,0,0,h,MISS Moore  Layup,Missed Shot,Layup Shot,0,0
+156,152,PT07M30.00S,2,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+157,153,PT07M29.00S,2,1610612746,LAC,1630,Moore,M. Moore,10,51,5,Made,1,33,31,64,h,Moore 5' Jump Hook Shot (2 PTS),Made Shot,Jump Hook Shot,0,0
+158,154,PT07M07.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,57,79,10,Made,1,33,33,66,v,Stoudamire 10' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+159,155,PT06M46.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Made,1,35,33,68,h,Maggette  Driving Layup (6 PTS) (Kaman 1 AST),Made Shot,Driving Layup Shot,0,0
+160,156,PT06M46.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla S.FOUL (P1.T2),Foul,Shooting,0,0
+161,157,PT06M46.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,36,33,69,h,Maggette Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+162,158,PT06M31.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman S.FOUL (P1.T3),Foul,Shooting,0,0
+163,159,PT06M31.00S,2,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,MISS Patterson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+164,160,PT06M31.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+165,161,PT06M31.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Outlaw,Substitution,,0,0
+166,162,PT06M31.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,SUB: Miles FOR Stoudamire,Substitution,,0,0
+167,163,PT06M31.00S,2,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,36,34,70,v,Patterson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+168,164,PT06M15.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman Traveling Turnover (P1.T5),Turnover,Traveling,0,0
+169,165,PT06M15.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Simmons FOR Ross,Substitution,,0,0
+170,166,PT06M03.00S,2,1610612757,POR,89,Van Exel,N. Van Exel,243,77,25,Missed,1,0,0,0,v,MISS Van Exel 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+171,167,PT06M01.00S,2,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+172,168,PT06M00.00S,2,1610612757,POR,89,Van Exel,N. Van Exel,10,87,9,Made,1,36,36,72,v,Van Exel 9' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,0
+173,169,PT05M46.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,112,189,22,Made,1,38,36,74,h,Maggette 22' Jump Shot (9 PTS) (Brunson 5 AST),Made Shot,Jump Shot,0,0
+174,170,PT05M31.00S,2,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles Discontinue Dribble Turnover (P2.T8),Turnover,Discontinue Dribble,0,0
+175,171,PT05M31.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+176,173,PT05M31.00S,2,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,SUB: Brand FOR Moore,Substitution,,0,0
+177,174,PT05M31.00S,2,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,SUB: Randolph FOR Patterson,Substitution,,0,0
+178,175,PT05M14.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0
+179,175,PT05M14.00S,2,1610612757,POR,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson STEAL (1 STL),,,0,0
+180,176,PT05M03.00S,2,1610612757,POR,89,Van Exel,N. Van Exel,-123,212,25,Made,1,38,39,77,v,Van Exel 25' 3PT Jump Shot (5 PTS) (Randolph 1 AST),Made Shot,Jump Shot,0,0
+181,177,PT04M43.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Missed,1,0,0,0,h,MISS Brand  Layup,Missed Shot,Layup Shot,0,0
+182,177,PT04M43.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla BLOCK (3 BLK),,,0,0
+183,178,PT04M41.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+184,179,PT04M21.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Made,1,38,41,79,v,Randolph  Layup (4 PTS) (Przybilla 1 AST),Made Shot,Layup Shot,0,0
+185,180,PT03M57.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,36,68,8,Missed,1,0,0,0,h,MISS Simmons 8' Jump Shot,Missed Shot,Jump Shot,0,0
+186,181,PT03M57.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+187,182,PT03M57.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla S.FOUL (P2.T3),Foul,Shooting,0,0
+188,183,PT03M57.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,39,41,80,h,Kaman Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+189,184,PT03M57.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,SUB: Ratliff FOR Przybilla,Substitution,,0,0
+190,185,PT03M57.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,40,41,81,h,Kaman Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+191,186,PT03M41.00S,2,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,Made,1,40,43,83,v,Ratliff  Slam Dunk (5 PTS) (Miles 1 AST),Made Shot,Slam Dunk Shot,0,0
+192,187,PT03M19.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,-192,13,19,Made,1,42,43,85,h,Simmons 19' Jump Shot (10 PTS) (Brand 1 AST),Made Shot,Jump Shot,0,0
+193,188,PT02M57.00S,2,1610612757,POR,689,Ratliff,T. Ratliff,34,140,14,Made,1,42,45,87,v,Ratliff 14' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,0,0
+194,189,PT02M41.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,-205,-8,21,Made,1,44,45,89,h,Simmons 21' Jump Shot (12 PTS) (Maggette 2 AST),Made Shot,Jump Shot,0,0
+195,190,PT02M15.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,166,30,17,Made,1,44,47,91,v,Randolph 17' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+196,191,PT01M57.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,46,47,93,h,Kaman  Reverse Layup (9 PTS) (Brunson 6 AST),Made Shot,Reverse Layup Shot,0,0
+197,192,PT01M49.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+198,196,PT01M34.00S,2,1610612757,POR,1507,Anderson,D. Anderson,0,0,0,Made,1,46,49,95,v,Anderson  Driving Layup (10 PTS) (Van Exel 2 AST),Made Shot,Driving Layup Shot,0,0
+199,197,PT01M10.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,112,104,15,Missed,1,0,0,0,h,MISS Simmons 15' Jump Shot,Missed Shot,Jump Shot,0,0
+200,198,PT01M09.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+201,199,PT01M06.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0,0,0,h,MISS Kaman  Layup,Missed Shot,Layup Shot,0,0
+202,199,PT01M06.00S,2,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,Ratliff BLOCK (1 BLK),,,0,0
+203,200,PT01M04.00S,2,1610612757,POR,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+204,201,PT00M59.90S,2,1610612757,POR,2032,Miles,D. Miles,148,-8,15,Missed,1,0,0,0,v,MISS Miles 15' Jump Shot,Missed Shot,Jump Shot,0,0
+205,202,PT00M58.60S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+206,203,PT00M42.90S,2,1610612746,LAC,1882,Brand,E. Brand,-48,64,8,Missed,1,0,0,0,h,MISS Brand 8' Jump Shot,Missed Shot,Jump Shot,0,0
+207,204,PT00M41.80S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:4 Def:1),Rebound,Unknown,0,0
+208,205,PT00M34.80S,2,1610612746,LAC,2549,Kaman,C. Kaman,3,49,5,Made,1,48,49,97,h,Kaman 5' Jump Hook Shot (11 PTS) (Brand 2 AST),Made Shot,Jump Hook Shot,0,0
+209,206,PT00M21.90S,2,1610612757,POR,1507,Anderson,D. Anderson,71,89,11,Made,1,48,51,99,v,Anderson 11' Jump Bank Shot (12 PTS),Made Shot,Jump Bank Shot,0,0
+210,207,PT00M05.80S,2,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,SUB: Patterson FOR Miles,Substitution,,0,0
+211,208,PT00M05.80S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+212,210,PT00M01.90S,2,1610612746,LAC,1894,Maggette,C. Maggette,-240,5,24,Missed,1,0,0,0,h,MISS Maggette 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+213,211,PT00M00.00S,2,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+214,212,PT00M00.00S,2,0,,0,,,0,0,0,,0,48,51,99,,End of 2nd Period (12:36 PM EST),period,end,0,0
+215,214,PT12M00.00S,3,0,,0,,,0,0,0,,0,48,51,99,,Start of 3rd Period (12:52 PM EST),period,start,0,0
+216,215,PT11M42.00S,3,1610612746,LAC,1882,Brand,E. Brand,-67,81,11,Made,1,50,51,101,h,Brand 11' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,0,0
+217,216,PT11M19.00S,3,1610612757,POR,89,Van Exel,N. Van Exel,-84,229,24,Missed,1,0,0,0,v,MISS Van Exel 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+218,217,PT11M17.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+219,218,PT11M08.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,177,0,18,Made,1,52,51,103,h,Simmons 18' Jump Shot (14 PTS) (Brunson 7 AST),Made Shot,Jump Shot,0,0
+220,219,PT10M50.00S,3,1610612757,POR,2032,Miles,D. Miles,0,0,0,Missed,1,0,0,0,v,MISS Miles  Layup,Missed Shot,Layup Shot,0,0
+221,219,PT10M50.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand BLOCK (1 BLK),,,0,0
+222,220,PT10M47.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+223,221,PT10M39.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,-115,-1,12,Missed,1,0,0,0,h,MISS Simmons 12' Jump Shot,Missed Shot,Jump Shot,0,0
+224,222,PT10M37.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+225,223,PT10M30.00S,3,1610612757,POR,1507,Anderson,D. Anderson,130,229,26,Missed,1,0,0,0,v,MISS Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+226,224,PT10M28.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+227,225,PT10M12.00S,3,1610612746,LAC,1882,Brand,E. Brand,8,115,12,Missed,1,0,0,0,h,MISS Brand 12' Jump Shot,Missed Shot,Jump Shot,0,0
+228,226,PT10M10.00S,3,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,Ratliff REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+229,227,PT09M47.00S,3,1610612757,POR,2032,Miles,D. Miles,8,48,5,Missed,1,0,0,0,v,MISS Miles 5' Jump Shot,Missed Shot,Jump Shot,0,0
+230,227,PT09M47.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons BLOCK (1 BLK),,,0,0
+231,228,PT09M45.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+232,229,PT09M41.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,54,51,105,h,Brand  Driving Layup (12 PTS) (Maggette 3 AST),Made Shot,Driving Layup Shot,0,0
+233,230,PT09M41.00S,3,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,Ratliff S.FOUL (P2.T1),Foul,Shooting,0,0
+234,231,PT09M41.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,MISS Brand Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+235,232,PT09M39.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+236,233,PT09M19.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,51,189,20,Missed,1,0,0,0,v,MISS Randolph 20' Jump Shot,Missed Shot,Jump Shot,0,0
+237,234,PT09M18.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+238,235,PT09M12.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Missed,1,0,0,0,h,MISS Simmons  Layup,Missed Shot,Layup Shot,0,0
+239,235,PT09M12.00S,3,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,Ratliff BLOCK (2 BLK),,,0,0
+240,236,PT09M10.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+241,237,PT09M10.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Made,1,56,51,107,h,Simmons  Layup (16 PTS),Made Shot,Layup Shot,0,0
+242,238,PT09M10.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+243,242,PT08M52.00S,3,1610612757,POR,2032,Miles,D. Miles,0,0,0,Made,1,56,53,109,v,Miles  Slam Dunk (4 PTS) (Randolph 2 AST),Made Shot,Slam Dunk Shot,0,0
+244,243,PT08M35.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,100,135,17,Made,1,58,53,111,h,Kaman 17' Jump Shot (13 PTS) (Maggette 4 AST),Made Shot,Jump Shot,0,0
+245,244,PT08M17.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0
+246,244,PT08M17.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,Brunson STEAL (2 STL),,,0,0
+247,245,PT08M10.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,-151,141,21,Made,1,60,53,113,h,Maggette 21' Jump Shot (11 PTS) (Brunson 8 AST),Made Shot,Jump Shot,0,0
+248,246,PT07M55.00S,3,1610612757,POR,2032,Miles,D. Miles,141,105,18,Missed,1,0,0,0,v,MISS Miles 18' Jump Shot,Missed Shot,Jump Shot,0,0
+249,247,PT07M54.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+250,248,PT07M42.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman Traveling Turnover (P2.T7),Turnover,Traveling,0,0
+251,249,PT07M42.00S,3,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,SUB: Outlaw FOR Miles,Substitution,,0,0
+252,250,PT07M42.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,SUB: Patterson FOR Randolph,Substitution,,0,0
+253,251,PT07M20.00S,3,1610612757,POR,2566,Outlaw,T. Outlaw,166,51,17,Missed,1,0,0,0,v,MISS Outlaw 17' Jump Shot,Missed Shot,Jump Shot,0,0
+254,252,PT07M18.00S,3,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+255,253,PT07M17.00S,3,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,Missed,1,0,0,0,v,MISS Van Exel  Layup,Missed Shot,Layup Shot,0,0
+256,254,PT07M16.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+257,255,PT07M07.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,-126,151,20,Made,1,62,53,115,h,Simmons 20' Jump Shot (18 PTS) (Brunson 9 AST),Made Shot,Jump Shot,0,0
+258,256,PT07M02.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Short (Reg.3 Short 1),Timeout,Short,0,0
+259,260,PT06M46.00S,3,1610612757,POR,1507,Anderson,D. Anderson,-135,229,27,Missed,1,0,0,0,v,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+260,261,PT06M44.00S,3,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+261,262,PT06M42.00S,3,1610612757,POR,2566,Outlaw,T. Outlaw,-44,68,8,Made,1,62,55,117,v,Outlaw 8' Jump Hook Shot (5 PTS),Made Shot,Jump Hook Shot,0,0
+262,263,PT06M33.00S,3,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,Outlaw P.FOUL (P2.T2),Foul,Personal,0,0
+263,264,PT06M22.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman 3 Second Violation Turnover (P3.T8),Turnover,3 Second Violation,0,0
+264,265,PT06M09.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+265,265,PT06M09.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette STEAL (1 STL),,,0,0
+266,266,PT06M03.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,-181,-11,18,Made,1,64,55,119,h,Simmons 18' Jump Shot (20 PTS) (Brunson 10 AST),Made Shot,Jump Shot,0,0
+267,267,PT05M37.00S,3,1610612757,POR,1507,Anderson,D. Anderson,115,183,22,Missed,1,0,0,0,v,MISS Anderson 22' Jump Shot,Missed Shot,Jump Shot,0,0
+268,268,PT05M35.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+269,269,PT05M24.00S,3,1610612746,LAC,1882,Brand,E. Brand,120,81,14,Made,1,66,55,121,h,Brand 14' Jump Shot (14 PTS) (Brunson 11 AST),Made Shot,Jump Shot,0,0
+270,270,PT05M01.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,Missed,1,0,0,0,v,MISS Patterson  Layup,Missed Shot,Layup Shot,0,0
+271,270,PT05M01.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman BLOCK (1 BLK),,,0,0
+272,271,PT05M01.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+273,272,PT05M01.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman S.FOUL (P2.T1),Foul,Shooting,0,0
+274,273,PT05M01.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,MISS Patterson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+275,274,PT05M01.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+276,275,PT05M01.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,66,56,122,v,Patterson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+277,276,PT04M54.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0
+278,276,PT04M54.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson STEAL (3 STL),,,0,0
+279,277,PT04M52.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,Made,1,66,58,124,v,Patterson  Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,0,0
+280,278,PT04M39.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0,0,0,h,MISS Kaman  Layup,Missed Shot,Layup Shot,0,0
+281,278,PT04M39.00S,3,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,Ratliff BLOCK (3 BLK),,,0,0
+282,279,PT04M37.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+283,280,PT04M33.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson Poss Lost Ball Turnover (P3.T11),Turnover,Poss Lost Ball Turnover,0,0
+284,281,PT04M19.00S,3,1610612746,LAC,1882,Brand,E. Brand,-169,0,17,Missed,1,0,0,0,h,MISS Brand 17' Jump Shot,Missed Shot,Jump Shot,0,0
+285,282,PT04M18.00S,3,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+286,283,PT03M56.00S,3,1610612757,POR,689,Ratliff,T. Ratliff,24,117,12,Made,1,66,60,126,v,Ratliff 12' Turnaround Jump Shot (9 PTS) (Van Exel 3 AST),Made Shot,Turnaround Jump Shot,0,0
+287,284,PT03M54.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+288,286,PT03M54.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,SUB: Martin FOR Kaman,Substitution,,0,0
+289,287,PT03M54.00S,3,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,SUB: Stoudamire FOR Van Exel,Substitution,,0,0
+290,289,PT03M36.00S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson S.FOUL (P2.T3),Foul,Shooting,0,0
+291,290,PT03M36.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,67,60,127,h,Maggette Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+292,291,PT03M36.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,68,60,128,h,Maggette Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+293,292,PT03M25.00S,3,1610612757,POR,1507,Anderson,D. Anderson,0,0,0,Made,1,68,62,130,v,Anderson  Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,0
+294,293,PT03M25.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0,0,0,h,Martin S.FOUL (P1.T2),Foul,Shooting,0,0
+295,294,PT03M25.00S,3,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,v,SUB: Van Exel FOR Outlaw,Substitution,,0,0
+296,295,PT03M25.00S,3,1610612757,POR,1507,Anderson,D. Anderson,0,0,0,,0,68,63,131,v,Anderson Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+297,296,PT03M01.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,-163,-13,16,Missed,1,0,0,0,h,MISS Simmons 16' Jump Shot,Missed Shot,Jump Shot,0,0
+298,297,PT02M59.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+299,298,PT02M45.00S,3,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,Van Exel P.FOUL (P1.T4),Foul,Personal,0,0
+300,299,PT02M35.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,232,46,24,Made,1,71,63,134,h,Maggette 24' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,0,0
+301,300,PT02M12.00S,3,1610612757,POR,89,Van Exel,N. Van Exel,184,181,26,Missed,1,0,0,0,v,MISS Van Exel 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+302,301,PT02M10.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+303,302,PT02M09.00S,3,1610612757,POR,1507,Anderson,D. Anderson,0,0,0,,0,0,0,0,v,SUB: Telfair FOR Anderson,Substitution,,0,0
+304,303,PT01M57.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,73,63,136,h,Brand  Driving Layup (16 PTS) (Martin 1 AST),Made Shot,Driving Layup Shot,0,0
+305,304,PT01M38.00S,3,1610612757,POR,757,Stoudamire,D. Stoudamire,-11,266,27,Made,1,73,66,139,v,Stoudamire 27' 3PT Jump Shot (10 PTS) (Telfair 1 AST),Made Shot,Jump Shot,0,0
+306,305,PT01M23.00S,3,1610612746,LAC,1882,Brand,E. Brand,156,77,17,Made,1,75,66,141,h,Brand 17' Jump Shot (18 PTS) (Brunson 12 AST),Made Shot,Jump Shot,0,0
+307,306,PT01M06.00S,3,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0
+308,306,PT01M06.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,Brunson STEAL (3 STL),,,0,0
+309,307,PT00M58.90S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,Brunson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0
+310,307,PT00M58.90S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson STEAL (4 STL),,,0,0
+311,308,PT00M58.30S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette P.FOUL (P2.T3),Foul,Personal,0,0
+312,309,PT00M58.30S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,SUB: Ross FOR Maggette,Substitution,,0,0
+313,319,PT00M58.30S,3,1610612757,POR,689,Ratliff,T. Ratliff,0,0,0,,0,0,0,0,v,SUB: Przybilla FOR Ratliff,Substitution,,0,0
+314,310,PT00M44.90S,3,1610612757,POR,2742,Telfair,S. Telfair,135,22,14,Missed,1,0,0,0,v,MISS Telfair 14' Jump Shot,Missed Shot,Jump Shot,0,0
+315,311,PT00M43.50S,3,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+316,312,PT00M41.00S,3,1610612757,POR,89,Van Exel,N. Van Exel,112,235,26,Made,1,75,69,144,v,Van Exel 26' 3PT Jump Shot (8 PTS) (Przybilla 2 AST),Made Shot,Jump Shot,0,0
+317,313,PT00M29.90S,3,1610612746,LAC,2250,Simmons,B. Simmons,1,95,10,Missed,1,0,0,0,h,MISS Simmons 10' Jump Shot,Missed Shot,Jump Shot,0,0
+318,314,PT00M27.50S,3,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+319,315,PT00M22.90S,3,1610612757,POR,89,Van Exel,N. Van Exel,190,178,26,Missed,1,0,0,0,v,MISS Van Exel 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+320,316,PT00M21.20S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+321,318,PT00M21.20S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,SUB: Rebraca FOR Brand,Substitution,,0,0
+322,320,PT00M21.20S,3,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Patterson,Substitution,,0,0
+323,323,PT00M01.00S,3,1610612757,POR,89,Van Exel,N. Van Exel,-164,194,25,Made,1,75,72,147,v,Van Exel 25' 3PT Jump Shot (11 PTS) (Stoudamire 5 AST),Made Shot,Jump Shot,0,0
+324,324,PT00M00.10S,3,1610612746,LAC,2250,Simmons,B. Simmons,-2,413,41,Missed,1,0,0,0,h,MISS Simmons 41' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+325,325,PT00M00.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+326,326,PT00M00.00S,3,0,,0,,,0,0,0,,0,75,72,147,,End of 3rd Period (13:18 PM EST),period,end,0,0
+327,328,PT12M00.00S,4,0,,0,,,0,0,0,,0,75,72,147,,Start of 4th Period (13:21 PM EST),period,start,0,0
+328,329,PT11M43.00S,4,1610612757,POR,89,Van Exel,N. Van Exel,177,191,26,Missed,1,0,0,0,v,MISS Van Exel 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+329,330,PT11M42.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+330,331,PT11M23.00S,4,1610612746,LAC,239,Martin,D. Martin,-230,95,25,Missed,1,0,0,0,h,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+331,332,PT11M21.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+332,333,PT11M19.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Made,1,77,72,149,h,Simmons  Layup (22 PTS),Made Shot,Layup Shot,0,0
+333,334,PT11M04.00S,4,1610612757,POR,89,Van Exel,N. Van Exel,0,0,0,,0,0,0,0,v,SUB: Miles FOR Van Exel,Substitution,,0,0
+334,335,PT11M04.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,SUB: Maggette FOR Brunson,Substitution,,0,0
+335,336,PT10M55.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,-5,194,19,Made,1,77,74,151,v,Stoudamire 19' Jump Shot (12 PTS),Made Shot,Jump Shot,0,0
+336,337,PT10M37.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,Made,1,79,74,153,h,Rebraca  Driving Layup (4 PTS) (Ross 1 AST),Made Shot,Driving Layup Shot,0,0
+337,338,PT10M30.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette S.FOUL (P3.T1),Foul,Shooting,0,0
+338,339,PT10M30.00S,4,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,79,75,154,v,Patterson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+339,340,PT10M30.00S,4,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,MISS Patterson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+340,341,PT10M28.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,Rebraca REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+341,342,PT10M21.00S,4,1610612757,POR,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,v,Telfair P.FOUL (P1.T1),Foul,Personal,0,0
+342,343,PT10M12.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,82,243,26,Made,1,82,75,157,h,Maggette 26' 3PT Jump Shot (19 PTS) (Simmons 1 AST),Made Shot,Jump Shot,0,0
+343,344,PT10M02.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,154,82,17,Made,1,82,77,159,v,Stoudamire 17' Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+344,345,PT09M47.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0,0,0,h,Martin Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0
+345,346,PT09M47.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,SUB: Moore FOR Simmons,Substitution,,0,0
+346,347,PT09M42.00S,4,1610612757,POR,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,v,Telfair Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0
+347,347,PT09M42.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0,0,0,h,Martin STEAL (1 STL),,,0,0
+348,349,PT09M37.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+349,348,PT09M37.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Made,1,84,77,161,h,Ross  Layup (6 PTS) (Martin 2 AST),Made Shot,Layup Shot,0,0
+350,350,PT09M22.00S,4,1610612757,POR,2032,Miles,D. Miles,-51,94,11,Missed,1,0,0,0,v,MISS Miles 11' Jump Shot,Missed Shot,Jump Shot,0,0
+351,351,PT09M22.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+352,352,PT09M17.00S,4,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore S.FOUL (P1.T2),Foul,Shooting,0,0
+353,353,PT09M17.00S,4,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,84,78,162,v,Patterson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+354,354,PT09M17.00S,4,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,84,79,163,v,Patterson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+355,355,PT08M58.00S,4,1610612757,POR,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,v,Telfair P.FOUL (P2.T2),Foul,Personal,0,0
+356,356,PT08M58.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+357,360,PT08M47.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,15,45,5,Missed,1,0,0,0,h,MISS Rebraca 5' Jump Shot,Missed Shot,Jump Shot,0,0
+358,361,PT08M46.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+359,362,PT08M44.00S,4,1610612757,POR,2742,Telfair,S. Telfair,0,0,0,Made,1,84,81,165,v,Telfair  Driving Layup (2 PTS) (Miles 2 AST),Made Shot,Driving Layup Shot,0,0
+360,363,PT08M44.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0,0,0,h,Martin S.FOUL (P2.T3),Foul,Shooting,0,0
+361,364,PT08M44.00S,4,1610612757,POR,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,v,MISS Telfair Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+362,365,PT08M43.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,Rebraca REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+363,366,PT08M19.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0
+364,367,PT08M07.00S,4,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,Patterson Traveling Turnover (P4.T14),Turnover,Traveling,0,0
+365,368,PT08M07.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0,0,0,h,SUB: Brand FOR Rebraca,Substitution,,0,0
+366,369,PT08M07.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Simmons FOR Ross,Substitution,,0,0
+367,370,PT08M00.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles S.FOUL (P3.T3),Foul,Shooting,0,0
+368,372,PT08M00.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0,0,0,h,SUB: Brunson FOR Martin,Substitution,,0,0
+369,373,PT08M00.00S,4,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,SUB: Randolph FOR Patterson,Substitution,,0,0
+370,374,PT08M00.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,85,81,166,h,Maggette Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+371,375,PT08M00.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,86,81,167,h,Maggette Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+372,376,PT07M42.00S,4,1610612757,POR,2742,Telfair,S. Telfair,238,7,24,Made,1,86,84,170,v,Telfair 24' 3PT Jump Shot (5 PTS) (Przybilla 3 AST),Made Shot,Jump Shot,0,0
+373,377,PT07M21.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,72,174,19,Made,1,88,84,172,h,Maggette 19' Jump Shot (23 PTS) (Brunson 13 AST),Made Shot,Jump Shot,0,0
+374,380,PT07M06.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,Made,1,88,86,174,v,Miles  Driving Layup (6 PTS) (Telfair 2 AST),Made Shot,Driving Layup Shot,0,0
+375,381,PT07M06.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette S.FOUL (P4.T4),Foul,Shooting,0,0
+376,382,PT07M06.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,88,87,175,v,Miles Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+377,383,PT06M50.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,Brunson OFF.Foul (P1),Foul,Offensive,0,0
+378,384,PT06M50.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,Brunson Foul Turnover (P2.T13),Turnover,Foul,0,0
+379,385,PT06M36.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0
+380,385,PT06M36.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0,0,0,h,Brunson STEAL (4 STL),,,0,0
+381,386,PT06M33.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles S.FOUL (P4.T4),Foul,Shooting,0,0
+382,387,PT06M33.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,89,87,176,h,Maggette Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0
+383,388,PT06M33.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,90,87,177,h,Maggette Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+384,389,PT06M18.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,77,141,16,Missed,1,0,0,0,v,MISS Randolph 16' Jump Shot,Missed Shot,Jump Shot,0,0
+385,390,PT06M18.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+386,391,PT06M18.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons L.B.FOUL (P1.PN),Foul,Loose Ball,0,0
+387,392,PT06M18.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,MISS Przybilla Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+388,393,PT06M18.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+389,394,PT06M18.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,90,88,178,v,Przybilla Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+390,395,PT06M02.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,161,30,16,Made,1,92,88,180,h,Brunson 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+391,396,PT05M49.00S,4,1610612757,POR,2742,Telfair,S. Telfair,128,174,22,Missed,1,0,0,0,v,MISS Telfair 22' Jump Shot,Missed Shot,Jump Shot,0,0
+392,397,PT05M49.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+393,398,PT05M49.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+394,402,PT05M48.00S,4,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,Moore S.FOUL (P2.PN),Foul,Shooting,0,0
+395,403,PT05M48.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,MISS Miles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+396,404,PT05M48.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+397,405,PT05M48.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,92,89,181,v,Miles Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+398,406,PT05M28.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,71,123,14,Missed,1,0,0,0,h,MISS Brunson 14' Jump Shot,Missed Shot,Jump Shot,0,0
+399,407,PT05M26.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+400,408,PT05M17.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons P.FOUL (P2.PN),Foul,Personal,0,0
+401,409,PT05M17.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,92,90,182,v,Miles Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+402,410,PT05M17.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,MISS Miles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+403,411,PT05M17.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+404,412,PT05M13.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Missed,1,0,0,0,v,MISS Randolph  Layup,Missed Shot,Layup Shot,0,0
+405,413,PT05M12.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+406,414,PT05M12.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand L.B.FOUL (P1.PN),Foul,Loose Ball,0,0
+407,415,PT05M12.00S,4,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0,0,0,h,SUB: Kaman FOR Moore,Substitution,,0,0
+408,416,PT05M12.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,92,91,183,v,Randolph Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+409,417,PT05M12.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,92,92,184,v,Randolph Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+410,418,PT04M47.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,161,10,16,Missed,1,0,0,0,h,MISS Kaman 16' Jump Shot,Missed Shot,Jump Shot,0,0
+411,419,PT04M42.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons REBOUND (Off:5 Def:3),Rebound,Unknown,0,0
+412,420,PT04M36.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla S.FOUL (P3.PN),Foul,Shooting,0,0
+413,421,PT04M36.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,93,92,185,h,Maggette Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0
+414,422,PT04M36.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,94,92,186,h,Maggette Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0
+415,423,PT04M36.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+416,425,PT04M36.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,SUB: Ross FOR Maggette,Substitution,,0,0
+417,426,PT04M16.00S,4,1610612757,POR,2742,Telfair,S. Telfair,10,64,6,Missed,1,0,0,0,v,MISS Telfair 6' Jump Shot,Missed Shot,Jump Shot,0,0
+418,427,PT04M14.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:4 Def:5),Rebound,Unknown,0,0
+419,428,PT03M56.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,Missed,1,0,0,0,h,MISS Brunson  Layup,Missed Shot,Layup Shot,0,0
+420,428,PT03M56.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles BLOCK (1 BLK),,,0,0
+421,429,PT03M54.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+422,430,PT03M52.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Missed,1,0,0,0,h,MISS Ross  Layup,Missed Shot,Layup Shot,0,0
+423,431,PT03M50.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+424,432,PT03M41.00S,4,1610612757,POR,2742,Telfair,S. Telfair,144,220,26,Missed,1,0,0,0,v,MISS Telfair 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+425,433,PT03M39.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons REBOUND (Off:5 Def:4),Rebound,Unknown,0,0
+426,434,PT03M16.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,-169,112,20,Missed,1,0,0,0,h,MISS Brunson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+427,435,PT03M15.00S,4,1610612757,POR,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,v,Telfair REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+428,436,PT03M09.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,110,248,27,Missed,1,0,0,0,v,MISS Stoudamire 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+429,437,PT03M08.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+430,438,PT03M08.00S,4,1610612757,POR,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,v,SUB: Van Exel FOR Telfair,Substitution,,0,0
+431,439,PT02M48.00S,4,1610612746,LAC,1882,Brand,E. Brand,-11,74,7,Missed,1,0,0,0,h,MISS Brand 7' Jump Shot,Missed Shot,Jump Shot,0,0
+432,440,PT02M43.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+433,441,PT02M43.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles OFF.Foul (P5),Foul,Offensive,0,0
+434,442,PT02M43.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,Miles Foul Turnover (P3.T16),Turnover,Foul,0,0
+435,443,PT02M43.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+436,444,PT02M43.00S,4,1610612757,POR,2032,Miles,D. Miles,0,0,0,,0,0,0,0,v,SUB: Patterson FOR Miles,Substitution,,0,0
+437,446,PT02M22.00S,4,1610612746,LAC,1882,Brand,E. Brand,-64,66,9,Missed,1,0,0,0,h,MISS Brand 9' Jump Shot,Missed Shot,Jump Shot,0,0
+438,447,PT02M20.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+439,448,PT02M19.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Made,1,96,92,188,h,Ross  Layup (8 PTS),Made Shot,Layup Shot,0,0
+440,449,PT02M00.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,151,12,15,Made,1,96,94,190,v,Randolph 15' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+441,450,PT01M38.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,h,Simmons Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0
+442,450,PT01M38.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0,0,0,v,Stoudamire STEAL (1 STL),,,0,0
+443,451,PT01M21.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,28,69,7,Missed,1,0,0,0,v,MISS Randolph 7' Jump Shot,Missed Shot,Jump Shot,0,0
+444,452,PT01M19.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+445,453,PT01M17.00S,4,1610612757,POR,89,Van Exel,N. Van Exel,21,71,7,Made,1,96,96,192,v,Van Exel 7' Running Jump Shot (13 PTS) (Przybilla 4 AST),Made Shot,Running Jump Shot,0,0
+446,454,PT01M10.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+447,455,PT01M10.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Maggette FOR Ross,Substitution,,0,0
+448,456,PT01M02.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph S.FOUL (P1.PN),Foul,Shooting,0,0
+449,457,PT01M02.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,97,96,193,h,Maggette Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,0
+450,458,PT01M02.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,98,96,194,h,Maggette Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,0
+451,459,PT00M41.90S,4,1610612757,POR,2216,Randolph,Z. Randolph,-16,64,7,Missed,1,0,0,0,v,MISS Randolph 7' Jump Shot,Missed Shot,Jump Shot,0,0
+452,460,PT00M40.50S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:4 Def:6),Rebound,Unknown,0,0
+453,461,PT00M19.60S,4,1610612746,LAC,1894,Maggette,C. Maggette,-166,122,21,Made,1,100,96,196,h,Maggette 21' Jump Shot (31 PTS) (Brunson 14 AST),Made Shot,Jump Shot,0,0
+454,462,PT00M19.60S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,0
+455,464,PT00M19.60S,4,1610612757,POR,1739,Patterson,R. Patterson,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Patterson,Substitution,,0,0
+456,465,PT00M19.60S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,SUB: Ross FOR Maggette,Substitution,,0,0
+457,466,PT00M13.90S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,156,123,20,Missed,1,0,0,0,v,MISS Stoudamire 20' Jump Shot,Missed Shot,Jump Shot,0,0
+458,467,PT00M12.30S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+459,468,PT00M10.90S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Missed,1,0,0,0,v,MISS Randolph  Layup,Missed Shot,Layup Shot,0,0
+460,469,PT00M09.90S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+461,470,PT00M06.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0,0,0,v,Przybilla P.FOUL (P4.PN),Foul,Personal,0,0
+462,471,PT00M06.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,101,96,197,h,Brunson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+463,472,PT00M06.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,102,96,198,h,Brunson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+464,473,PT00M00.10S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,Made,1,102,98,200,v,Przybilla  Slam Dunk (7 PTS) (Stoudamire 6 AST),Made Shot,Slam Dunk Shot,0,0
+465,474,PT00M00.00S,4,0,,0,,,0,0,0,,0,102,98,200,,End of 4th Period (13:59 PM EST),period,end,0,0

@@ -1,0 +1,535 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:15 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Jump Ball Gobert vs. Plumlee: Tip to Favors,Jump Ball,,1,0
+3,2,PT11M42.00S,1,1610612762,UTA,203918,Hood,R. Hood,4,52,5,Made,1,2,0,2,h,Hood 5' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,0
+4,3,PT11M21.00S,1,1610612757,POR,202329,Aminu,A. Aminu,20,41,5,Missed,1,0,0,0,v,MISS Aminu 5' Hook Shot,Missed Shot,Hook Shot,1,0
+5,4,PT11M19.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,5,PT11M05.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,-6,16,2,Missed,1,0,0,0,h,MISS Hayward 2' Layup,Missed Shot,Layup Shot,1,0
+7,6,PT11M04.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+8,7,PT10M59.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,9,2,1,Made,1,4,0,4,h,Gobert 1' Layup (2 PTS),Made Shot,Layup Shot,1,0
+9,8,PT10M42.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,1,0,Made,1,4,2,6,v,Plumlee  Dunk (2 PTS) (Aminu 1 AST),Made Shot,Dunk Shot,1,0
+10,9,PT10M19.00S,1,1610612762,UTA,203526,Neto,R. Neto,-168,174,24,Made,1,7,2,9,h,Neto 24' 3PT Jump Shot (3 PTS) (Hood 1 AST),Made Shot,Jump Shot,1,0
+11,10,PT10M00.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-115,219,25,Made,1,7,5,12,v,McCollum 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,0
+12,11,PT09M39.00S,1,1610612762,UTA,202324,Favors,D. Favors,-50,169,18,Made,1,9,5,14,h,Favors 18' Jump Shot (2 PTS) (Hood 2 AST),Made Shot,Jump Shot,1,0
+13,12,PT09M23.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-137,134,19,Made,1,9,7,16,v,Lillard 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+14,13,PT09M00.00S,1,1610612762,UTA,202324,Favors,D. Favors,-20,-11,2,Missed,1,0,0,0,h,MISS Favors 2' Layup,Missed Shot,Layup Shot,1,0
+15,13,PT09M00.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee BLOCK (1 BLK),,,1,0
+16,14,PT08M59.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+17,15,PT08M53.00S,1,1610612757,POR,202329,Aminu,A. Aminu,14,-1,1,Missed,1,0,0,0,v,MISS Aminu 1' Layup,Missed Shot,Layup Shot,1,0
+18,15,PT08M53.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors BLOCK (1 BLK),,,1,0
+19,16,PT08M53.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+20,18,PT08M46.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+21,18,PT08M46.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors STEAL (1 STL),,,1,0
+22,19,PT08M34.00S,1,1610612762,UTA,203918,Hood,R. Hood,30,-5,3,Made,1,11,7,18,h,Hood 3' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+23,20,PT08M18.00S,1,1610612757,POR,203468,McCollum,C. McCollum,20,-1,2,Made,1,11,9,20,v,McCollum 2' Layup (5 PTS),Made Shot,Layup Shot,1,0
+24,21,PT08M03.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,84,223,24,Missed,1,0,0,0,h,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+25,22,PT08M02.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+26,23,PT07M47.00S,1,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0
+27,24,PT07M47.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,MISS McCollum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+28,41,PT07M47.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+29,26,PT07M47.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,11,10,21,v,McCollum Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+30,28,PT07M28.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,9,11,1,Missed,1,0,0,0,h,MISS Hayward 1' Layup,Missed Shot,Layup Shot,1,0
+31,30,PT07M26.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+32,29,PT07M26.00S,1,1610612762,UTA,202324,Favors,D. Favors,-2,3,0,Missed,1,0,0,0,h,MISS Favors  Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+33,31,PT07M23.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+34,32,PT07M20.00S,1,1610612757,POR,202329,Aminu,A. Aminu,-22,-6,2,Made,1,11,12,23,v,Aminu 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+35,33,PT07M06.00S,1,1610612762,UTA,203526,Neto,R. Neto,-153,185,24,Missed,1,0,0,0,h,MISS Neto 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+36,34,PT07M05.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+37,35,PT06M55.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-1,149,15,Made,1,11,14,25,v,Lillard 15' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+38,36,PT06M34.00S,1,1610612762,UTA,202324,Favors,D. Favors,28,156,16,Missed,1,0,0,0,h,MISS Favors 16' Jump Shot,Missed Shot,Jump Shot,1,0
+39,37,PT06M33.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+40,38,PT06M27.00S,1,1610612757,POR,203081,Lillard,D. Lillard,158,185,24,Made,1,11,17,28,v,Lillard 24' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,0
+41,39,PT06M27.00S,1,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+42,42,PT06M07.00S,1,1610612762,UTA,203918,Hood,R. Hood,9,242,24,Missed,1,0,0,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+43,43,PT06M06.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+44,44,PT06M00.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+45,44,PT06M00.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors STEAL (2 STL),,,1,0
+46,45,PT05M51.00S,1,1610612762,UTA,202324,Favors,D. Favors,-30,-1,3,Missed,1,0,0,0,h,MISS Favors 3' Jump Shot,Missed Shot,Jump Shot,1,0
+47,45,PT05M51.00S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard BLOCK (1 BLK),,,1,0
+48,46,PT05M51.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+49,47,PT05M51.00S,1,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,SUB: Burke FOR Neto,Substitution,,0,0
+50,48,PT05M51.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,SUB: Crabbe FOR McCollum,Substitution,,0,0
+51,49,PT05M32.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors S.FOUL (P1.T2) (K.Mauer),Foul,Shooting,1,0
+52,50,PT05M32.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,11,18,29,v,Lillard Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+53,52,PT05M32.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,SUB: Booker FOR Gobert,Substitution,,0,0
+54,53,PT05M32.00S,1,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,SUB: Burks FOR Hood,Substitution,,0,0
+55,54,PT05M32.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,11,19,30,v,Lillard Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+56,56,PT05M17.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,16,2,Made,1,13,19,32,h,Hayward 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+57,57,PT05M02.00S,1,1610612757,POR,203081,Lillard,D. Lillard,174,164,24,Missed,1,0,0,0,v,MISS Lillard 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+58,58,PT05M01.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+59,59,PT04M53.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,205,21,Missed,1,0,0,0,h,MISS Hayward 21' Jump Shot,Missed Shot,Jump Shot,1,0
+60,60,PT04M53.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+61,61,PT04M48.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+62,61,PT04M48.00S,1,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker STEAL (1 STL),,,1,0
+63,62,PT04M34.00S,1,1610612762,UTA,202692,Burks,A. Burks,-16,-1,2,Made,1,15,19,34,h,Burks 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+64,63,PT04M26.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0
+65,63,PT04M26.00S,1,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,h,Burke STEAL (1 STL),,,1,0
+66,64,PT04M22.00S,1,1610612762,UTA,203504,Burke,T. Burke,-20,-11,2,Made,1,17,19,36,h,Burke 2' Layup (2 PTS),Made Shot,Layup Shot,1,0
+67,65,PT04M04.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,-11,8,1,Made,1,17,21,38,v,Plumlee 1' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,1,0
+68,66,PT03M39.00S,1,1610612762,UTA,203504,Burke,T. Burke,191,87,21,Made,1,19,21,40,h,Burke 21' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+69,67,PT03M19.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-117,214,24,Missed,1,0,0,0,v,MISS Lillard 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+70,68,PT03M19.00S,1,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+71,69,PT03M11.00S,1,1610612762,UTA,202692,Burks,A. Burks,-17,2,2,Missed,1,0,0,0,h,MISS Burks 2' Layup,Missed Shot,Layup Shot,1,0
+72,69,PT03M11.00S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard BLOCK (2 BLK),,,1,0
+73,70,PT03M11.00S,1,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+74,71,PT03M11.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,SUB: Davis FOR Aminu,Substitution,,0,0
+75,72,PT03M11.00S,1,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Harkless FOR Plumlee,Substitution,,0,0
+76,73,PT03M11.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Lyles FOR Favors,Substitution,,0,0
+77,74,PT03M11.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,SUB: Ingles FOR Hayward,Substitution,,0,0
+78,76,PT02M57.00S,1,1610612762,UTA,202344,Booker,T. Booker,-12,46,5,Missed,1,0,0,0,h,MISS Booker 5' Hook Shot,Missed Shot,Hook Shot,1,0
+79,77,PT02M57.00S,1,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+80,78,PT02M49.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-24,-5,2,Missed,1,0,0,0,v,MISS Lillard 2' Layup,Missed Shot,Layup Shot,1,0
+81,78,PT02M49.00S,1,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker BLOCK (1 BLK),,,1,0
+82,79,PT02M49.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+83,81,PT02M49.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+84,83,PT02M40.00S,1,1610612757,POR,203459,Crabbe,A. Crabbe,19,242,24,Missed,1,0,0,0,v,MISS Crabbe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+85,84,PT02M39.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+86,85,PT02M22.00S,1,1610612762,UTA,202692,Burks,A. Burks,96,90,13,Missed,1,0,0,0,h,MISS Burks 13' Jump Shot,Missed Shot,Jump Shot,1,0
+87,86,PT02M22.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+88,87,PT02M17.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+89,87,PT02M17.00S,1,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks STEAL (1 STL),,,1,0
+90,88,PT02M05.00S,1,1610612762,UTA,1626168,Lyles,T. Lyles,-132,205,24,Missed,1,0,0,0,h,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+91,89,PT02M04.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+92,90,PT01M53.00S,1,1610612757,POR,203086,Leonard,M. Leonard,233,0,0,Missed,1,0,0,0,v,MISS Leonard  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+93,91,PT01M52.00S,1,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+94,92,PT01M40.00S,1,1610612762,UTA,203504,Burke,T. Burke,-124,160,20,Made,1,21,21,42,h,Burke 20' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+95,93,PT01M18.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-150,131,20,Made,1,21,23,44,v,Lillard 20' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,0
+96,94,PT01M00.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,102,218,24,Made,1,24,23,47,h,Ingles 24' 3PT Jump Shot (3 PTS) (Lyles 1 AST),Made Shot,Jump Shot,1,0
+97,95,PT00M48.20S,1,1610612757,POR,203086,Leonard,M. Leonard,123,149,19,Made,1,24,25,49,v,Leonard 19' Jump Shot (2 PTS) (Lillard 1 AST),Made Shot,Jump Shot,1,0
+98,96,PT00M33.80S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0
+99,97,PT00M33.80S,1,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,25,25,50,h,Burke Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+100,99,PT00M33.80S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,SUB: Vonleh FOR Leonard,Substitution,,0,0
+101,100,PT00M33.80S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,SUB: McCollum FOR Lillard,Substitution,,0,0
+102,101,PT00M33.80S,1,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,26,25,51,h,Burke Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+103,103,PT00M17.00S,1,1610612757,POR,202334,Davis,E. Davis,0,1,0,Made,1,26,27,53,v,Davis  Dunk (2 PTS) (McCollum 1 AST),Made Shot,Dunk Shot,1,0
+104,104,PT00M01.90S,1,1610612762,UTA,1626168,Lyles,T. Lyles,101,160,19,Missed,1,0,0,0,h,MISS Lyles 19' Jump Shot,Missed Shot,Jump Shot,1,0
+105,105,PT00M01.80S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+106,106,PT00M01.80S,1,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks L.B.FOUL (P1.T3) (K.Mauer),Foul,Loose Ball,1,0
+107,108,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,27,53,,End of 1st Period (9:37 PM EST),period,end,0,0
+108,109,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,27,53,,Start of 2nd Period (9:40 PM EST),period,start,0,0
+109,111,PT11M34.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-73,47,9,Made,1,26,29,55,v,McCollum 9' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,0
+110,112,PT11M17.00S,2,1610612762,UTA,203504,Burke,T. Burke,227,7,0,Missed,1,0,0,0,h,MISS Burke  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+111,113,PT11M17.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+112,114,PT11M09.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-91,72,12,Made,1,26,31,57,v,McCollum 12' Running Jump Shot (10 PTS),Made Shot,Running Jump Shot,1,0
+113,115,PT10M50.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,17,2,2,Made,1,28,31,59,h,Gobert 2' Layup (4 PTS) (Burks 1 AST),Made Shot,Layup Shot,1,0
+114,116,PT10M36.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,-129,139,19,Missed,1,0,0,0,v,MISS Crabbe 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+115,117,PT10M35.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+116,118,PT10M23.00S,2,1610612762,UTA,202344,Booker,T. Booker,-7,16,2,Missed,1,0,0,0,h,MISS Booker 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+117,119,PT10M23.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+118,121,PT10M23.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,SUB: Hood FOR Ingles,Substitution,,0,0
+119,122,PT10M09.00S,2,1610612762,UTA,203504,Burke,T. Burke,73,178,19,Missed,1,0,0,0,h,MISS Burke 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+120,123,PT10M07.00S,2,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+121,124,PT10M06.00S,2,1610612762,UTA,202344,Booker,T. Booker,-19,2,2,Missed,1,0,0,0,h,MISS Booker 2' Layup,Missed Shot,Layup Shot,1,0
+122,124,PT10M06.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless BLOCK (1 BLK),,,1,0
+123,125,PT10M03.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+124,126,PT09M58.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+125,126,PT09M58.00S,2,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker STEAL (2 STL),,,1,0
+126,127,PT09M52.00S,2,1610612762,UTA,202344,Booker,T. Booker,-24,-5,2,Missed,1,0,0,0,h,MISS Booker 2' Layup,Missed Shot,Layup Shot,1,0
+127,128,PT09M50.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+128,129,PT09M36.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0
+129,130,PT09M36.00S,2,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,SUB: Favors FOR Booker,Substitution,,0,0
+130,131,PT09M20.00S,2,1610612762,UTA,203504,Burke,T. Burke,-29,3,3,Made,1,30,31,61,h,Burke 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+131,132,PT09M04.00S,2,1610612757,POR,203090,Harkless,M. Harkless,223,85,24,Made,1,30,34,64,v,Harkless 24' 3PT Jump Shot (3 PTS) (McCollum 2 AST),Made Shot,Jump Shot,1,0
+132,133,PT08M54.00S,2,1610612762,UTA,202692,Burks,A. Burks,-156,134,21,Missed,1,0,0,0,h,MISS Burks 21' Jump Shot,Missed Shot,Jump Shot,1,0
+133,134,PT08M54.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,Crabbe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+134,135,PT08M45.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors S.FOUL (P2.T1) (K.Mauer),Foul,Shooting,1,0
+135,136,PT08M45.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+136,138,PT08M45.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,30,35,65,v,McCollum Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+137,140,PT08M45.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,30,36,66,v,McCollum Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+138,142,PT08M36.00S,2,1610612757,POR,203943,Vonleh,N. Vonleh,0,0,0,,0,0,0,0,v,Vonleh S.FOUL (P1.T1) (K.Mauer),Foul,Shooting,1,0
+139,143,PT08M36.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,31,36,67,h,Burks Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+140,145,PT08M36.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,32,36,68,h,Burks Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+141,147,PT08M25.00S,2,1610612757,POR,203943,Vonleh,N. Vonleh,86,223,24,Missed,1,0,0,0,v,MISS Vonleh 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+142,148,PT08M23.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+143,149,PT08M10.00S,2,1610612762,UTA,203504,Burke,T. Burke,-102,129,16,Missed,1,0,0,0,h,MISS Burke 16' Jump Shot,Missed Shot,Jump Shot,1,0
+144,150,PT08M10.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+145,151,PT08M10.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless L.B.FOUL (P1.T2) (D.Guthrie),Foul,Loose Ball,1,0
+146,152,PT08M10.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,SUB: Aminu FOR Crabbe,Substitution,,0,0
+147,153,PT08M10.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,SUB: Hayward FOR Burks,Substitution,,0,0
+148,154,PT08M01.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,1,0,Made,1,34,36,70,h,Gobert  Dunk (6 PTS) (Hood 3 AST),Made Shot,Dunk Shot,1,0
+149,155,PT07M46.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,1,0
+150,156,PT07M37.00S,2,1610612757,POR,202334,Davis,E. Davis,-40,16,4,Missed,1,0,0,0,v,MISS Davis 4' Jump Shot,Missed Shot,Jump Shot,1,0
+151,156,PT07M37.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert BLOCK (1 BLK),,,1,0
+152,157,PT07M37.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+153,158,PT07M33.00S,2,1610612757,POR,202334,Davis,E. Davis,-16,13,2,Missed,1,0,0,0,v,MISS Davis 2' Layup,Missed Shot,Layup Shot,1,0
+154,158,PT07M33.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors BLOCK (2 BLK),,,1,0
+155,159,PT07M33.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+156,161,PT07M32.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors S.FOUL (P3.T3) (K.Mauer),Foul,Shooting,1,0
+157,162,PT07M32.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,34,37,71,v,Harkless Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+158,164,PT07M32.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Lyles FOR Favors,Substitution,,0,0
+159,165,PT07M32.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,34,38,72,v,Harkless Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+160,167,PT07M18.00S,2,1610612762,UTA,203918,Hood,R. Hood,-42,28,5,Missed,1,0,0,0,h,MISS Hood 5' Jump Shot,Missed Shot,Jump Shot,1,0
+161,168,PT07M17.00S,2,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+162,169,PT07M03.00S,2,1610612762,UTA,203918,Hood,R. Hood,235,2,24,Missed,1,0,0,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+163,171,PT07M02.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+164,170,PT07M02.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,-24,16,3,Missed,1,0,0,0,h,MISS Gobert 3' Layup,Missed Shot,Layup Shot,1,0
+165,172,PT07M01.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+166,173,PT07M01.00S,2,1610612757,POR,203943,Vonleh,N. Vonleh,0,0,0,,0,0,0,0,v,Vonleh S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,1,0
+167,174,PT07M01.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+168,175,PT07M01.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+169,176,PT07M01.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,h,SUB: Neto FOR Burke,Substitution,,0,0
+170,177,PT07M01.00S,2,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,SUB: Plumlee FOR Davis,Substitution,,0,0
+171,178,PT07M01.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,SUB: Lillard FOR McCollum,Substitution,,0,0
+172,179,PT07M01.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+173,181,PT06M59.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+174,182,PT06M47.00S,2,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,1,0
+175,183,PT06M47.00S,2,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,MISS Aminu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+176,184,PT06M47.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+177,185,PT06M47.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,SUB: Ingles FOR Gobert,Substitution,,0,0
+178,186,PT06M47.00S,2,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,MISS Aminu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+179,188,PT06M45.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+180,189,PT06M32.00S,2,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood Shooting Block Foul (P3.PN) (M.Kogut),Foul,Shooting Block,1,0
+181,190,PT06M32.00S,2,1610612757,POR,203943,Vonleh,N. Vonleh,0,0,0,,0,34,39,73,v,Vonleh Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+182,192,PT06M32.00S,2,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,SUB: Burks FOR Hood,Substitution,,0,0
+183,193,PT06M32.00S,2,1610612757,POR,203943,Vonleh,N. Vonleh,0,0,0,,0,0,0,0,v,MISS Vonleh Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+184,195,PT06M30.00S,2,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+185,196,PT06M16.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless P.FOUL (P2.T4) (D.Guthrie),Foul,Personal,1,0
+186,197,PT06M16.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,SUB: Booker FOR Lyles,Substitution,,0,0
+187,198,PT06M05.00S,2,1610612762,UTA,202692,Burks,A. Burks,143,193,24,Missed,1,0,0,0,h,MISS Burks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+188,199,PT06M04.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+189,200,PT06M01.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0
+190,201,PT05M50.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,148,67,16,Made,1,36,39,75,h,Hayward 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+191,202,PT05M33.00S,2,1610612757,POR,203943,Vonleh,N. Vonleh,-207,120,24,Missed,1,0,0,0,v,MISS Vonleh 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+192,203,PT05M32.00S,2,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+193,204,PT05M21.00S,2,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+194,204,PT05M21.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard STEAL (1 STL),,,1,0
+195,205,PT05M14.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,22,0,2,Missed,1,0,0,0,v,MISS Plumlee 2' Layup,Missed Shot,Layup Shot,1,0
+196,206,PT05M13.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+197,207,PT05M08.00S,2,1610612762,UTA,202344,Booker,T. Booker,-24,8,3,Missed,1,0,0,0,h,MISS Booker 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+198,209,PT05M08.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+199,208,PT05M08.00S,2,1610612762,UTA,202692,Burks,A. Burks,-1,8,1,Missed,1,0,0,0,h,MISS Burks 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+200,210,PT05M08.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+201,211,PT05M08.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+202,213,PT05M08.00S,2,1610612757,POR,203943,Vonleh,N. Vonleh,0,0,0,,0,0,0,0,v,SUB: Crabbe FOR Vonleh,Substitution,,0,0
+203,214,PT04M53.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,-7,70,7,Made,1,36,41,77,v,Plumlee 7' Hook Shot (6 PTS),Made Shot,Hook Shot,1,0
+204,215,PT04M53.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks S.FOUL (P2.PN) (K.Mauer),Foul,Shooting,1,0
+205,216,PT04M53.00S,2,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,SUB: Gobert FOR Booker,Substitution,,0,0
+206,217,PT04M53.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,MISS Plumlee Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+207,219,PT04M52.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+208,220,PT04M30.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,-27,36,5,Made,1,38,41,79,h,Hayward 5' Hook Shot (6 PTS),Made Shot,Hook Shot,1,0
+209,221,PT04M16.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-70,229,24,Made,1,38,44,82,v,Lillard 24' 3PT Jump Shot (14 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,1,0
+210,222,PT03M49.00S,2,1610612762,UTA,203526,Neto,R. Neto,232,72,24,Made,1,41,44,85,h,Neto 24' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,1,0
+211,223,PT03M36.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-65,121,14,Made,1,41,46,87,v,Lillard 14' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,1,0
+212,224,PT03M20.00S,2,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu P.FOUL (P1.PN) (M.Kogut),Foul,Personal,1,0
+213,225,PT03M20.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+214,227,PT03M20.00S,2,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,SUB: Burke FOR Neto,Substitution,,0,0
+215,228,PT03M20.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,SUB: McCollum FOR Harkless,Substitution,,0,0
+216,229,PT03M20.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+217,230,PT03M20.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+218,231,PT03M20.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,42,46,88,h,Hayward Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+219,233,PT03M03.00S,2,1610612757,POR,203468,McCollum,C. McCollum,9,72,7,Made,1,42,48,90,v,McCollum 7' Floating Jump Shot (14 PTS),Made Shot,Floating Jump shot,1,0
+220,234,PT02M53.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+221,234,PT02M53.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee STEAL (1 STL),,,1,0
+222,235,PT02M49.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,h,Burke S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,1,0
+223,236,PT02M49.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,MISS McCollum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+224,237,PT02M49.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+225,238,PT02M49.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,42,49,91,v,McCollum Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+226,240,PT02M35.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,-150,193,24,Made,1,45,49,94,h,Hayward 24' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,0
+227,241,PT02M23.00S,2,1610612757,POR,203081,Lillard,D. Lillard,97,239,26,Made,1,45,52,97,v,Lillard 26' 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,1,0
+228,242,PT02M11.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,h,Burke Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+229,242,PT02M11.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee STEAL (2 STL),,,1,0
+230,243,PT02M08.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,1,0
+231,245,PT02M08.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,MISS Plumlee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+232,246,PT02M08.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+233,247,PT02M08.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,SUB: Millsap FOR Burks,Substitution,,0,0
+234,248,PT02M08.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,45,53,98,v,Plumlee Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+235,250,PT01M56.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,-150,105,18,Made,1,47,53,100,h,Ingles 18' Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+236,251,PT01M46.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,1,0
+237,252,PT01M46.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,MISS Plumlee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+238,253,PT01M46.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+239,254,PT01M46.00S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,MISS Plumlee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+240,256,PT01M45.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,Crabbe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+241,257,PT01M39.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0
+242,257,PT01M39.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles STEAL (1 STL),,,1,0
+243,258,PT01M31.00S,2,1610612762,UTA,203504,Burke,T. Burke,17,2,2,Made,1,49,53,102,h,Burke 2' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,0
+244,259,PT01M24.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-1,23,2,Missed,1,0,0,0,v,MISS Lillard 2' Layup,Missed Shot,Layup Shot,1,0
+245,259,PT01M24.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert BLOCK (2 BLK),,,1,0
+246,260,PT01M23.00S,2,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,Crabbe REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+247,261,PT01M18.00S,2,1610612757,POR,202329,Aminu,A. Aminu,0,1,0,Made,1,49,55,104,v,Aminu  Dunk (4 PTS) (Lillard 2 AST),Made Shot,Dunk Shot,1,0
+248,262,PT00M58.90S,2,1610612762,UTA,202330,Hayward,G. Hayward,58,144,16,Missed,1,0,0,0,h,MISS Hayward 16' Jump Shot,Missed Shot,Jump Shot,1,0
+249,263,PT00M56.90S,2,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+250,264,PT00M35.80S,2,1610612757,POR,203081,Lillard,D. Lillard,-150,203,25,Missed,1,0,0,0,v,MISS Lillard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+251,265,PT00M34.80S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+252,266,PT00M20.90S,2,1610612762,UTA,202330,Hayward,G. Hayward,-106,80,13,Missed,1,0,0,0,h,MISS Hayward 13' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+253,267,PT00M19.90S,2,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+254,268,PT00M00.40S,2,1610612757,POR,203468,McCollum,C. McCollum,89,203,22,Made,1,49,57,106,v,McCollum 22' Jump Shot (17 PTS),Made Shot,Jump Shot,1,0
+255,271,PT00M00.40S,2,0,,268,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+256,269,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,57,106,,End of 2nd Period (10:10 PM EST),period,end,0,0
+257,272,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,57,106,,Start of 3rd Period (10:26 PM EST),period,start,0,0
+258,273,PT11M43.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+259,273,PT11M43.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors STEAL (3 STL),,,1,0
+260,274,PT11M28.00S,3,1610612762,UTA,203526,Neto,R. Neto,184,156,24,Missed,1,0,0,0,h,MISS Neto 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+261,275,PT11M26.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+262,276,PT11M22.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,1,0,Made,1,51,57,108,h,Favors  Dunk (4 PTS) (Hood 4 AST),Made Shot,Dunk Shot,1,0
+263,277,PT11M01.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,25,2,3,Missed,1,0,0,0,v,MISS Plumlee 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+264,278,PT11M01.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+265,280,PT10M47.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,-37,51,6,Missed,1,0,0,0,v,MISS Plumlee 6' Jump Shot,Missed Shot,Jump Shot,1,0
+266,281,PT10M46.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+267,282,PT10M44.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,1,0
+268,283,PT10M44.00S,3,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,52,57,109,h,Hood Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+269,285,PT10M44.00S,3,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,53,57,110,h,Hood Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+270,287,PT10M31.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Bad Pass Turnover (P5.T11),Turnover,Bad Pass,1,0
+271,288,PT10M18.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,1,0
+272,289,PT10M11.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Personal Block Foul (P2.T3) (D.Guthrie),Foul,Personal Block,1,0
+273,290,PT10M03.00S,3,1610612762,UTA,202324,Favors,D. Favors,20,159,16,Missed,1,0,0,0,h,MISS Favors 16' Jump Shot,Missed Shot,Jump Shot,1,0
+274,291,PT10M03.00S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+275,292,PT09M53.00S,3,1610612757,POR,203468,McCollum,C. McCollum,30,90,9,Made,1,53,59,112,v,McCollum 9' Floating Jump Shot (19 PTS),Made Shot,Floating Jump shot,1,0
+276,293,PT09M37.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,51,23,6,Missed,1,0,0,0,h,MISS Hayward 6' Jump Shot,Missed Shot,Jump Shot,1,0
+277,294,PT09M36.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+278,295,PT09M30.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,1,0,Made,1,53,61,114,v,Aminu  Dunk (6 PTS) (Davis 1 AST),Made Shot,Dunk Shot,1,0
+279,296,PT09M09.00S,3,1610612762,UTA,203918,Hood,R. Hood,-76,111,13,Missed,1,0,0,0,h,MISS Hood 13' Jump Shot,Missed Shot,Jump Shot,1,0
+280,297,PT09M08.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+281,298,PT08M57.00S,3,1610612757,POR,203081,Lillard,D. Lillard,32,7,3,Missed,1,0,0,0,v,MISS Lillard 3' Jump Shot,Missed Shot,Jump Shot,1,0
+282,299,PT08M56.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+283,300,PT08M45.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-24,7,3,Missed,1,0,0,0,v,MISS Lillard 3' Layup,Missed Shot,Layup Shot,1,0
+284,300,PT08M45.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert BLOCK (3 BLK),,,1,0
+285,301,PT08M43.00S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+286,302,PT08M42.00S,3,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood S.FOUL (P4.T1) (K.Mauer),Foul,Shooting,1,0
+287,303,PT08M42.00S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+288,304,PT08M42.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+289,305,PT08M42.00S,3,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,SUB: Burks FOR Hood,Substitution,,0,0
+290,306,PT08M42.00S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+291,308,PT08M41.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+292,309,PT08M33.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard P.FOUL (P3.T4) (D.Guthrie),Foul,Personal,1,0
+293,310,PT08M22.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,-68,110,13,Missed,1,0,0,0,h,MISS Hayward 13' Jump Shot,Missed Shot,Jump Shot,1,0
+294,311,PT08M21.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:5 Def:2),Rebound,Unknown,1,0
+295,312,PT08M18.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,10,13,2,Made,1,55,61,116,h,Gobert 2' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,0
+296,313,PT07M54.00S,3,1610612757,POR,202329,Aminu,A. Aminu,-9,244,24,Made,1,55,64,119,v,Aminu 24' 3PT Jump Shot (9 PTS) (McCollum 3 AST),Made Shot,Jump Shot,1,0
+297,314,PT07M36.00S,3,1610612762,UTA,203526,Neto,R. Neto,-235,-6,24,Missed,1,0,0,0,h,MISS Neto 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+298,315,PT07M34.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+299,316,PT07M30.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,158,183,24,Missed,1,0,0,0,h,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+300,317,PT07M30.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+301,318,PT07M18.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum Poss Lost Ball Turnover (P2.T12),Turnover,Poss Lost Ball Turnover,1,0
+302,319,PT07M18.00S,3,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,SUB: Burke FOR Neto,Substitution,,0,0
+303,320,PT07M18.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Lyles FOR Favors,Substitution,,0,0
+304,321,PT07M04.00S,3,1610612762,UTA,202692,Burks,A. Burks,10,0,1,Made,1,57,64,121,h,Burks 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+305,322,PT06M47.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-7,16,2,Made,1,57,66,123,v,Lillard 2' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,0
+306,323,PT06M30.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,97,151,18,Made,1,59,66,125,h,Hayward 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+307,324,PT06M14.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-222,-1,0,Missed,1,0,0,0,v,MISS Lillard  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+308,325,PT06M12.00S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+309,326,PT06M12.00S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,SUB: Vonleh FOR Davis,Substitution,,0,0
+310,327,PT06M12.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,SUB: Booker FOR Gobert,Substitution,,0,0
+311,328,PT05M56.00S,3,1610612762,UTA,202692,Burks,A. Burks,107,131,17,Missed,1,0,0,0,h,MISS Burks 17' Jump Shot,Missed Shot,Jump Shot,1,0
+312,329,PT05M56.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+313,330,PT05M40.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0
+314,331,PT05M40.00S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+315,333,PT05M40.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,SUB: Gobert FOR Booker,Substitution,,0,0
+316,334,PT05M40.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,SUB: Crabbe FOR McCollum,Substitution,,0,0
+317,335,PT05M29.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,159,188,25,Missed,1,0,0,0,h,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+318,336,PT05M28.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+319,337,PT05M12.00S,3,1610612757,POR,203943,Vonleh,N. Vonleh,30,11,3,Missed,1,0,0,0,v,MISS Vonleh 3' Hook Shot,Missed Shot,Hook Shot,1,0
+320,338,PT05M12.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:5 Def:3),Rebound,Unknown,1,0
+321,339,PT05M00.00S,3,1610612762,UTA,203504,Burke,T. Burke,14,75,8,Missed,1,0,0,0,h,MISS Burke 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+322,340,PT05M00.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+323,341,PT05M00.00S,3,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,Lyles L.B.FOUL (P1.T2) (K.Mauer),Foul,Loose Ball,1,0
+324,342,PT05M00.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,SUB: Harkless FOR Aminu,Substitution,,0,0
+325,343,PT04M47.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-43,237,24,Made,1,59,69,128,v,Lillard 24' 3PT Jump Shot (24 PTS),Made Shot,Jump Shot,1,0
+326,344,PT04M28.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee S.FOUL (P1.PN) (K.Mauer),Foul,Shooting,1,0
+327,345,PT04M28.00S,3,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,MISS Burks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+328,346,PT04M28.00S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+329,347,PT04M28.00S,3,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,60,69,129,h,Burks Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+330,349,PT04M13.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-9,134,13,Made,1,60,71,131,v,Lillard 13' Step Back Jump Shot (26 PTS),Made Shot,Step Back Jump shot,1,0
+331,350,PT03M59.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,24,26,4,Missed,1,0,0,0,h,MISS Gobert 4' Jump Shot,Missed Shot,Jump Shot,1,0
+332,351,PT03M59.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+333,352,PT03M50.00S,3,1610612757,POR,203090,Harkless,M. Harkless,-22,-1,2,Made,1,60,73,133,v,Harkless 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0
+334,353,PT03M35.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,-25,2,3,Missed,1,0,0,0,h,MISS Hayward 3' Layup,Missed Shot,Layup Shot,1,0
+335,354,PT03M34.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+336,355,PT03M32.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,1,0
+337,356,PT03M32.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,60,74,134,v,Plumlee Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+338,358,PT03M32.00S,3,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,SUB: Booker FOR Lyles,Substitution,,0,0
+339,359,PT03M32.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,SUB: Millsap FOR Hayward,Substitution,,0,0
+340,360,PT03M32.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,SUB: Favors FOR Gobert,Substitution,,0,0
+341,361,PT03M32.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,MISS Plumlee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+342,362,PT03M31.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+343,364,PT03M12.00S,3,1610612762,UTA,202407,Millsap,E. Millsap,27,2,3,Missed,1,0,0,0,h,MISS Millsap 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+344,364,PT03M12.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless BLOCK (2 BLK),,,1,0
+345,365,PT03M12.00S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+346,367,PT03M09.00S,3,1610612757,POR,203943,Vonleh,N. Vonleh,0,0,0,,0,0,0,0,v,Vonleh S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,1,0
+347,368,PT03M09.00S,3,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,61,74,135,h,Burks Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+348,371,PT03M09.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+349,373,PT03M09.00S,3,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Davis FOR Plumlee,Substitution,,0,0
+350,374,PT03M09.00S,3,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,MISS Burks Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+351,376,PT03M08.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+352,377,PT02M48.00S,3,1610612762,UTA,202692,Burks,A. Burks,225,21,0,Missed,1,0,0,0,h,MISS Burks  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+353,378,PT02M47.00S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,h,Burke REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+354,379,PT02M42.00S,3,1610612762,UTA,203504,Burke,T. Burke,-227,95,25,Made,1,64,74,138,h,Burke 25' 3PT Step Back Jump Shot (15 PTS) (Favors 1 AST),Made Shot,Step Back Jump shot,1,0
+355,380,PT02M29.00S,3,1610612757,POR,203943,Vonleh,N. Vonleh,0,0,0,,0,0,0,0,v,Vonleh Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0
+356,380,PT02M29.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors STEAL (4 STL),,,1,0
+357,381,PT02M21.00S,3,1610612762,UTA,202692,Burks,A. Burks,1,28,3,Missed,1,0,0,0,h,MISS Burks 3' Layup,Missed Shot,Layup Shot,1,0
+358,381,PT02M21.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless BLOCK (3 BLK),,,1,0
+359,382,PT02M19.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+360,383,PT02M18.00S,3,1610612762,UTA,202344,Booker,T. Booker,-27,13,3,Missed,1,0,0,0,h,MISS Booker 3' Hook Shot,Missed Shot,Hook Shot,1,0
+361,384,PT02M16.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+362,385,PT02M15.00S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,1,0
+363,386,PT02M15.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,65,74,139,h,Favors Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+364,388,PT02M15.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,MISS Favors Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+365,389,PT02M15.00S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+366,390,PT02M04.00S,3,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,h,Millsap P.FOUL (P1.T4) (D.Guthrie),Foul,Personal,1,0
+367,391,PT02M04.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,SUB: McCollum FOR Lillard,Substitution,,0,0
+368,392,PT01M54.00S,3,1610612757,POR,203459,Crabbe,A. Crabbe,163,180,24,Missed,1,0,0,0,v,MISS Crabbe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+369,393,PT01M52.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+370,394,PT01M49.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,1,0,Missed,1,0,0,0,v,MISS Harkless  Dunk,Missed Shot,Dunk Shot,1,0
+371,395,PT01M48.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+372,396,PT01M48.00S,3,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,h,Millsap P.FOUL (P2.PN) (D.Guthrie),Foul,Personal,1,0
+373,397,PT01M48.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,65,75,140,v,Harkless Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+374,399,PT01M48.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,MISS Harkless Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+375,401,PT01M47.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+376,402,PT01M41.00S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,h,Burke Poss Lost Ball Turnover (P2.T4),Turnover,Poss Lost Ball Turnover,1,0
+377,403,PT01M41.00S,3,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,SUB: Ingles FOR Burks,Substitution,,0,0
+378,404,PT01M27.00S,3,1610612757,POR,203468,McCollum,C. McCollum,159,178,24,Missed,1,0,0,0,v,MISS McCollum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+379,405,PT01M27.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:4 Def:6),Rebound,Unknown,1,0
+380,406,PT01M07.00S,3,1610612762,UTA,203504,Burke,T. Burke,-138,159,21,Made,1,67,75,142,h,Burke 21' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,0
+381,407,PT00M54.40S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum OFF.Foul (P2) (D.Guthrie),Foul,Offensive,1,0
+382,408,PT00M54.40S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,v,McCollum Foul Turnover (P3.T15),Turnover,Foul,1,0
+383,409,PT00M39.90S,3,1610612762,UTA,203504,Burke,T. Burke,9,244,24,Missed,1,0,0,0,h,MISS Burke 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+384,410,PT00M38.90S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+385,412,PT00M23.80S,3,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,1,0
+386,413,PT00M23.80S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,MISS Favors Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+387,414,PT00M23.80S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+388,416,PT00M23.80S,3,1610612757,POR,203943,Vonleh,N. Vonleh,0,0,0,,0,0,0,0,v,SUB: Lillard FOR Vonleh,Substitution,,0,0
+389,417,PT00M23.80S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,MISS Favors Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+390,419,PT00M23.30S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+391,420,PT00M23.30S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker L.B.FOUL (P1.PN) (D.Guthrie),Foul,Loose Ball,1,0
+392,421,PT00M23.30S,3,0,,420,Williams,J. Williams,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+393,422,PT00M23.30S,3,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,MISS Crabbe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+394,423,PT00M23.30S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+395,424,PT00M23.30S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,SUB: Vonleh FOR Lillard,Substitution,,0,0
+396,425,PT00M23.30S,3,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,h,SUB: Burks FOR Millsap,Substitution,,0,0
+397,426,PT00M23.30S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,SUB: Hayward FOR Booker,Substitution,,0,0
+398,427,PT00M23.30S,3,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,67,76,143,v,Crabbe Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+399,429,PT00M19.80S,3,1610612757,POR,203459,Crabbe,A. Crabbe,0,0,0,,0,0,0,0,v,Crabbe S.FOUL (P1.PN) (K.Mauer),Foul,Shooting,1,0
+400,430,PT00M19.80S,3,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,MISS Burks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+401,431,PT00M19.80S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+402,432,PT00M19.80S,3,1610612757,POR,203943,Vonleh,N. Vonleh,0,0,0,,0,0,0,0,v,SUB: Lillard FOR Vonleh,Substitution,,0,0
+403,433,PT00M19.80S,3,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,68,76,144,h,Burks Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+404,435,PT00M00.90S,3,1610612757,POR,203081,Lillard,D. Lillard,91,57,11,Missed,1,0,0,0,v,MISS Lillard 11' Jump Shot,Missed Shot,Jump Shot,1,0
+405,436,PT00M00.40S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,h,Burke REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+406,437,PT00M00.10S,3,1610612762,UTA,203504,Burke,T. Burke,14,511,51,Missed,1,0,0,0,h,MISS Burke 51' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+407,438,PT00M00.00S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+408,440,PT00M00.00S,3,0,,0,,,0,0,0,,0,68,76,144,,End of 3rd Period (10:57 PM EST),period,end,0,0
+409,442,PT12M00.00S,4,0,,0,,,0,0,0,,0,68,76,144,,Start of 4th Period (10:59 PM EST),period,start,0,0
+410,443,PT11M35.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,20,-6,2,Made,1,70,76,146,h,Hayward 2' Driving Layup (14 PTS) (Ingles 1 AST),Made Shot,Driving Layup Shot,1,0
+411,444,PT11M10.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-166,182,25,Made,1,70,79,149,v,Lillard 25' 3PT Jump Shot (29 PTS) (McCollum 4 AST),Made Shot,Jump Shot,1,0
+412,445,PT11M00.00S,4,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis S.FOUL (P3.T1) (M.Kogut),Foul,Shooting,1,0
+413,446,PT11M00.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,71,79,150,h,Hayward Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+414,448,PT11M00.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,72,79,151,h,Hayward Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+415,450,PT10M38.00S,4,1610612757,POR,203090,Harkless,M. Harkless,19,13,2,Made,1,72,81,153,v,Harkless 2' Layup (10 PTS),Made Shot,Layup Shot,1,0
+416,451,PT10M26.00S,4,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis S.FOUL (P4.T2) (D.Guthrie),Foul,Shooting,1,0
+417,452,PT10M26.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,73,81,154,h,Burks Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+418,454,PT10M26.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,h,SUB: Hood FOR Burke,Substitution,,0,0
+419,455,PT10M26.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,74,81,155,h,Burks Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+420,457,PT10M11.00S,4,1610612757,POR,203090,Harkless,M. Harkless,-230,-11,0,Made,1,74,84,158,v,Harkless  3PT Jump Shot (13 PTS) (Lillard 3 AST),Made Shot,Jump Shot,1,0
+421,458,PT09M59.00S,4,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless P.FOUL (P3.T3) (D.Guthrie),Foul,Personal,1,0
+422,459,PT09M51.00S,4,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,Davis S.FOUL (P5.T4) (M.Kogut),Foul,Shooting,1,0
+423,460,PT09M51.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,MISS Burks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+424,461,PT09M51.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+425,462,PT09M51.00S,4,1610612757,POR,202334,Davis,E. Davis,0,0,0,,0,0,0,0,v,SUB: Plumlee FOR Davis,Substitution,,0,0
+426,464,PT09M51.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Gobert FOR Favors,Substitution,,0,0
+427,465,PT09M51.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,75,84,159,h,Burks Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+428,467,PT09M36.00S,4,1610612757,POR,203468,McCollum,C. McCollum,171,188,25,Missed,1,0,0,0,v,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+429,468,PT09M36.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+430,469,PT09M32.00S,4,1610612757,POR,202329,Aminu,A. Aminu,32,3,3,Made,1,75,86,161,v,Aminu 3' Layup (11 PTS),Made Shot,Layup Shot,1,0
+431,470,PT09M32.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert S.FOUL (P3.T1) (D.Guthrie),Foul,Shooting,1,0
+432,471,PT09M32.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,75,87,162,v,Aminu Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0
+433,473,PT09M18.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward Traveling Turnover (P1.T5),Turnover,Traveling,1,0
+434,474,PT08M59.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-11,254,25,Missed,1,0,0,0,v,MISS Lillard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+435,475,PT08M59.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+436,476,PT08M54.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert Traveling Turnover (P2.T6),Turnover,Traveling,1,0
+437,477,PT08M54.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+438,479,PT08M40.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-24,2,2,Missed,1,0,0,0,v,MISS Lillard 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+439,481,PT08M38.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+440,480,PT08M38.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,1,0,Made,1,75,89,164,v,Plumlee  Putback Dunk (10 PTS),Made Shot,Putback Dunk Shot,1,0
+441,482,PT08M25.00S,4,1610612762,UTA,203918,Hood,R. Hood,-91,223,24,Missed,1,0,0,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+442,483,PT08M24.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+443,484,PT08M08.00S,4,1610612757,POR,202329,Aminu,A. Aminu,-48,7,5,Missed,1,0,0,0,v,MISS Aminu 5' Jump Shot,Missed Shot,Jump Shot,1,0
+444,485,PT08M08.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+445,486,PT07M56.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,27,237,24,Missed,1,0,0,0,h,MISS Ingles 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+446,487,PT07M55.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+447,488,PT07M41.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee OFF.Foul (P2) (D.Guthrie),Foul,Offensive,1,0
+448,489,PT07M41.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Foul Turnover (P3.T16),Turnover,Foul,1,0
+449,490,PT07M29.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,128,72,15,Made,1,77,89,166,h,Hayward 15' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,0
+450,491,PT07M07.00S,4,1610612757,POR,203090,Harkless,M. Harkless,-94,23,10,Missed,1,0,0,0,v,MISS Harkless 10' Jump Shot,Missed Shot,Jump Shot,1,0
+451,491,PT07M07.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert BLOCK (4 BLK),,,1,0
+452,492,PT07M05.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+453,493,PT07M01.00S,4,1610612762,UTA,202692,Burks,A. Burks,35,0,4,Made,1,79,89,168,h,Burks 4' Floating Jump Shot (14 PTS) (Ingles 2 AST),Made Shot,Floating Jump shot,1,0
+454,494,PT07M01.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,1,0
+455,495,PT07M01.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,80,89,169,h,Burks Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+456,497,PT06M39.00S,4,1610612757,POR,202329,Aminu,A. Aminu,233,21,0,Missed,1,0,0,0,v,MISS Aminu  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+457,498,PT06M39.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:3 Def:10),Rebound,Unknown,1,0
+458,499,PT06M39.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks S.FOUL (P3.T2) (K.Mauer),Foul,Shooting,1,0
+459,500,PT06M39.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,MISS Plumlee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+460,502,PT06M39.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+461,501,PT06M39.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,MISS Plumlee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+462,504,PT06M37.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:5 Def:4),Rebound,Unknown,1,0
+463,505,PT06M23.00S,4,1610612762,UTA,203918,Hood,R. Hood,45,61,8,Made,1,82,89,171,h,Hood 8' Floating Jump Shot (8 PTS),Made Shot,Floating Jump shot,1,0
+464,506,PT06M23.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+465,508,PT06M09.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-115,134,18,Made,1,82,91,173,v,Lillard 18' Jump Shot (31 PTS),Made Shot,Jump Shot,1,0
+466,509,PT05M53.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0
+467,509,PT05M53.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu STEAL (1 STL),,,1,0
+468,510,PT05M53.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward C.P.FOUL (P2.T3) (D.Guthrie),Foul,Clear Path,1,0
+469,511,PT05M53.00S,4,0,,510,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+470,512,PT05M53.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,MISS Aminu Free Throw Clear Path 1 of 2,Free Throw,Free Throw Clear Path 1 of 2,0,0
+471,513,PT05M53.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+472,514,PT05M53.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,82,92,174,v,Aminu Free Throw Clear Path 2 of 2 (13 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,0
+473,516,PT05M37.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Lost Ball Turnover (P6.T17),Turnover,Lost Ball,1,0
+474,516,PT05M37.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert STEAL (1 STL),,,1,0
+475,517,PT05M25.00S,4,1610612762,UTA,203918,Hood,R. Hood,-22,0,2,Made,1,84,92,176,h,Hood 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+476,518,PT05M04.00S,4,1610612757,POR,203468,McCollum,C. McCollum,115,141,18,Made,1,84,94,178,v,McCollum 18' Jump Shot (21 PTS),Made Shot,Jump Shot,1,0
+477,519,PT04M47.00S,4,1610612762,UTA,202692,Burks,A. Burks,63,101,12,Made,1,86,94,180,h,Burks 12' Floating Jump Shot (17 PTS),Made Shot,Floating Jump shot,1,0
+478,520,PT04M29.00S,4,1610612757,POR,203468,McCollum,C. McCollum,140,193,24,Made,1,86,97,183,v,McCollum 24' 3PT Jump Shot (24 PTS),Made Shot,Jump Shot,1,0
+479,521,PT04M14.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,1,0
+480,522,PT04M14.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,87,97,184,h,Burks Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+481,524,PT04M14.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,SUB: Burke FOR Ingles,Substitution,,0,0
+482,525,PT04M14.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,SUB: Favors FOR Gobert,Substitution,,0,0
+483,526,PT04M14.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,88,97,185,h,Burks Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+484,528,PT04M02.00S,4,1610612757,POR,203081,Lillard,D. Lillard,101,228,25,Missed,1,0,0,0,v,MISS Lillard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+485,529,PT04M01.00S,4,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+486,530,PT03M48.00S,4,1610612757,POR,203090,Harkless,M. Harkless,-24,-1,2,Made,1,88,99,187,v,Harkless 2' Layup (15 PTS),Made Shot,Layup Shot,1,0
+487,531,PT03M32.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,45,239,24,Missed,1,0,0,0,h,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+488,532,PT03M31.00S,4,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+489,533,PT03M17.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-20,-1,2,Made,1,88,101,189,v,Lillard 2' Cutting Layup Shot (33 PTS) (Plumlee 2 AST),Made Shot,Cutting Layup Shot,1,0
+490,534,PT03M17.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+491,536,PT03M10.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors OFF.Foul (P4) (D.Guthrie),Foul,Offensive,1,0
+492,537,PT03M10.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors Foul Turnover (P1.T8),Turnover,Foul,1,0
+493,538,PT02M57.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,-25,-6,3,Missed,1,0,0,0,v,MISS Plumlee 3' Layup,Missed Shot,Layup Shot,1,0
+494,539,PT02M56.00S,4,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:5 Def:5),Rebound,Unknown,1,0
+495,540,PT02M54.00S,4,1610612757,POR,203090,Harkless,M. Harkless,22,2,2,Missed,1,0,0,0,v,MISS Harkless 2' Layup,Missed Shot,Layup Shot,1,0
+496,541,PT02M52.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+497,542,PT02M41.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee S.FOUL (P4.PN) (K.Mauer),Foul,Shooting,1,0
+498,543,PT02M41.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,89,101,190,h,Favors Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+499,545,PT02M41.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,MISS Favors Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+500,547,PT02M41.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:3 Def:11),Rebound,Unknown,1,0
+501,548,PT02M23.00S,4,1610612757,POR,203081,Lillard,D. Lillard,25,-1,3,Made,1,89,103,192,v,Lillard 3' Driving Layup (35 PTS),Made Shot,Driving Layup Shot,1,0
+502,549,PT02M14.00S,4,1610612762,UTA,202692,Burks,A. Burks,-29,7,3,Made,1,91,103,194,h,Burks 3' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,0
+503,550,PT01M50.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-34,11,4,Missed,1,0,0,0,v,MISS McCollum 4' Jump Shot,Missed Shot,Jump Shot,1,0
+504,551,PT01M49.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+505,552,PT01M43.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,25,7,3,Missed,1,0,0,0,h,MISS Hayward 3' Layup,Missed Shot,Layup Shot,1,0
+506,553,PT01M42.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:3 Def:12),Rebound,Unknown,1,0
+507,554,PT01M34.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Bad Pass Turnover (P4.T18),Turnover,Bad Pass,1,0
+508,554,PT01M34.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood STEAL (1 STL),,,1,0
+509,555,PT01M28.00S,4,1610612762,UTA,203918,Hood,R. Hood,-22,11,2,Missed,1,0,0,0,h,MISS Hood 2' Layup,Missed Shot,Layup Shot,1,0
+510,555,PT01M28.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee BLOCK (2 BLK),,,1,0
+511,556,PT01M26.00S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+512,557,PT01M05.00S,4,1610612757,POR,203486,Plumlee,M. Plumlee,-2,13,1,Made,1,91,105,196,v,Plumlee 1' Finger Roll Layup (12 PTS),Made Shot,Finger Roll Layup Shot,1,0
+513,558,PT00M53.90S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu S.FOUL (P3.PN) (M.Kogut),Foul,Shooting,1,0
+514,559,PT00M53.90S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,92,105,197,h,Hayward Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0
+515,561,PT00M53.90S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Lyles FOR Favors,Substitution,,0,0
+516,562,PT00M53.90S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,SUB: Millsap FOR Hood,Substitution,,0,0
+517,563,PT00M53.90S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,h,SUB: Neto FOR Burke,Substitution,,0,0
+518,564,PT00M53.90S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,SUB: Johnson FOR Burks,Substitution,,0,0
+519,566,PT00M53.90S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+520,568,PT00M53.60S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee REBOUND (Off:3 Def:13),Rebound,Unknown,1,0
+521,569,PT00M36.90S,4,1610612757,POR,203081,Lillard,D. Lillard,-35,85,9,Missed,1,0,0,0,v,MISS Lillard 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+522,569,PT00M36.90S,4,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,h,Millsap BLOCK (1 BLK),,,1,0
+523,570,PT00M36.60S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0
+524,572,PT00M36.60S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,SUB: Crabbe FOR Lillard,Substitution,,0,0
+525,573,PT00M32.90S,4,1610612757,POR,203468,McCollum,C. McCollum,-107,214,24,Made,1,92,108,200,v,McCollum 24' 3PT Jump Shot (27 PTS),Made Shot,Jump Shot,1,0
+526,574,PT00M18.90S,4,1610612762,UTA,203187,Johnson,C. Johnson,233,2,0,Missed,1,0,0,0,h,MISS Johnson  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+527,575,PT00M17.90S,4,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+528,576,PT00M14.90S,4,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,h,Millsap Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0
+529,576,PT00M14.90S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu STEAL (2 STL),,,1,0
+530,577,PT00M09.90S,4,1610612757,POR,203486,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Bad Pass Turnover (P5.T19),Turnover,Bad Pass,1,0
+531,577,PT00M09.90S,4,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto STEAL (1 STL),,,1,0
+532,578,PT00M02.90S,4,1610612762,UTA,202407,Millsap,E. Millsap,166,180,24,Missed,1,0,0,0,h,MISS Millsap 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+533,579,PT00M00.90S,4,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,0,0,0,v,Aminu REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+534,580,PT00M00.00S,4,0,,0,,,0,0,0,,0,92,108,200,,End of 4th Period (11:31 PM EST),period,end,0,0

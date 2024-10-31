@@ -1,0 +1,513 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:41 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jump Ball Jordan vs. McGee: Tip to Griffin,Jump Ball,,1,0
+3,2,PT11M39.00S,1,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+4,2,PT11M39.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry STEAL (1 STL),,,1,0
+5,3,PT11M33.00S,1,1610612744,GSW,201142,Durant,K. Durant,0,1,0,Made,1,0,2,2,v,Durant  Dunk (2 PTS) (Curry 1 AST),Made Shot,Dunk Shot,1,0
+6,4,PT11M18.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+7,4,PT11M18.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry STEAL (2 STL),,,1,0
+8,5,PT11M13.00S,1,1610612744,GSW,201939,Curry,S. Curry,-9,282,28,Missed,1,0,0,0,v,MISS Curry 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+9,7,PT11M12.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+10,6,PT11M12.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,1,0,Made,1,0,4,4,v,McGee  Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,0
+11,8,PT10M51.00S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+12,8,PT10M51.00S,1,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,McCaw STEAL (1 STL),,,1,0
+13,9,PT10M47.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin S.FOUL (P1.T1) (K.Mauer),Foul,Shooting,1,0
+14,10,PT10M47.00S,1,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,5,5,v,Durant Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+15,12,PT10M47.00S,1,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,6,6,v,Durant Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+16,14,PT10M38.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee Personal Block Foul (P1.T1) (K.Mauer),Foul,Personal Block,1,0
+17,15,PT10M31.00S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0
+18,15,PT10M31.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee STEAL (1 STL),,,1,0
+19,16,PT10M27.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+20,16,PT10M27.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin STEAL (1 STL),,,1,0
+21,17,PT10M24.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,6,2,1,Made,1,2,6,8,h,Griffin 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+22,18,PT10M08.00S,1,1610612744,GSW,201142,Durant,K. Durant,0,1,0,Made,1,2,8,10,v,Durant  Driving Dunk (6 PTS) (Curry 2 AST),Made Shot,Driving Dunk Shot,1,0
+23,19,PT09M45.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,1,0
+24,20,PT09M45.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,3,8,11,h,Griffin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+25,22,PT09M45.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,4,8,12,h,Griffin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+26,24,PT09M28.00S,1,1610612744,GSW,201142,Durant,K. Durant,20,252,25,Missed,1,0,0,0,v,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+27,25,PT09M27.00S,1,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+28,26,PT09M18.00S,1,1610612746,LAC,101109,Felton,R. Felton,-76,244,26,Missed,1,0,0,0,h,MISS Felton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+29,27,PT09M16.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+30,28,PT09M10.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-30,134,14,Missed,1,0,0,0,v,MISS Thompson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+31,29,PT09M08.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+32,30,PT08M57.00S,1,1610612744,GSW,1627775,McCaw,P. McCaw,182,205,27,Made,1,4,11,15,v,McCaw 27' 3PT Jump Shot (3 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,0
+33,31,PT08M45.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson P.FOUL (P2.T3) (M.Smith),Foul,Personal,1,0
+34,32,PT08M45.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: Clark FOR Thompson,Substitution,,0,0
+35,33,PT08M38.00S,1,1610612746,LAC,101109,Felton,R. Felton,-7,7,1,Made,1,6,11,17,h,Felton 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+36,34,PT08M23.00S,1,1610612744,GSW,1627775,McCaw,P. McCaw,-222,-16,0,Made,1,6,14,20,v,McCaw  3PT Jump Shot (6 PTS) (Durant 1 AST),Made Shot,Jump Shot,1,0
+37,35,PT08M14.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,1,0,Made,1,8,14,22,h,Jordan  Alley Oop Dunk (2 PTS) (Rivers 1 AST),Made Shot,Alley Oop Dunk Shot,1,0
+38,36,PT07M53.00S,1,1610612744,GSW,203546,Clark,I. Clark,-237,8,24,Missed,1,0,0,0,v,MISS Clark 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+39,37,PT07M53.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+40,38,PT07M41.00S,1,1610612746,LAC,200755,Redick,J. Redick,164,223,28,Made,1,11,14,25,h,Redick 28' 3PT Jump Shot (3 PTS) (Felton 1 AST),Made Shot,Jump Shot,1,0
+41,39,PT07M19.00S,1,1610612744,GSW,201939,Curry,S. Curry,6,18,2,Made,1,11,16,27,v,Curry 2' Reverse Layup (2 PTS) (Durant 2 AST),Made Shot,Reverse Layup Shot,1,0
+42,40,PT07M05.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee S.FOUL (P2.T4) (M.Smith),Foul,Shooting,1,0
+43,41,PT07M05.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,12,16,28,h,Griffin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+44,43,PT07M05.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,13,16,29,h,Griffin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+45,45,PT06M45.00S,1,1610612744,GSW,201142,Durant,K. Durant,-68,160,17,Made,1,13,18,31,v,Durant 17' Pullup Jump Shot (8 PTS) (Curry 3 AST),Made Shot,Pullup Jump shot,1,0
+46,46,PT06M33.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,19,38,4,Made,1,15,18,33,h,Griffin 4' Driving Hook Shot (8 PTS),Made Shot,Driving Hook Shot,1,0
+47,47,PT06M23.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,1,0,Made,1,15,20,35,v,McGee  Dunk (4 PTS),Made Shot,Dunk Shot,1,0
+48,48,PT06M12.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-142,116,18,Missed,1,0,0,0,h,MISS Griffin 18' Jump Shot,Missed Shot,Jump Shot,1,0
+49,49,PT06M11.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+50,50,PT06M01.00S,1,1610612744,GSW,1627775,McCaw,P. McCaw,-58,249,26,Missed,1,0,0,0,v,MISS McCaw 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+51,51,PT05M59.00S,1,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+52,52,PT05M50.00S,1,1610612746,LAC,200755,Redick,J. Redick,35,247,25,Missed,1,0,0,0,h,MISS Redick 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+53,53,PT05M48.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+54,54,PT05M40.00S,1,1610612744,GSW,201939,Curry,S. Curry,-147,208,25,Missed,1,0,0,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+55,55,PT05M38.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+56,56,PT05M37.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+57,58,PT05M18.00S,1,1610612744,GSW,201142,Durant,K. Durant,-6,72,7,Missed,1,0,0,0,v,MISS Durant 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+58,60,PT05M14.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+59,59,PT05M14.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,1,0,Made,1,15,22,37,v,McGee  Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,0
+60,61,PT04M58.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan OFF.Foul (P1) (M.Smith),Foul,Offensive,1,0
+61,62,PT04M58.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan Foul Turnover (P1.T5),Turnover,Foul,1,0
+62,63,PT04M45.00S,1,1610612744,GSW,1627775,McCaw,P. McCaw,1,36,4,Missed,1,0,0,0,v,MISS McCaw 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+63,63,PT04M45.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan BLOCK (1 BLK),,,1,0
+64,64,PT04M45.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+65,65,PT04M45.00S,1,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,SUB: Crawford FOR Redick,Substitution,,0,0
+66,66,PT04M41.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0
+67,67,PT04M28.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,1,0,Made,1,17,22,39,h,Griffin  Driving Dunk (10 PTS) (Felton 2 AST),Made Shot,Driving Dunk Shot,1,0
+68,68,PT04M07.00S,1,1610612744,GSW,201939,Curry,S. Curry,-52,18,6,Made,1,17,24,41,v,Curry 6' Driving Bank Shot (4 PTS) (Durant 3 AST),Made Shot,Driving Bank shot,1,0
+69,69,PT03M52.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+70,69,PT03M52.00S,1,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,McCaw STEAL (2 STL),,,1,0
+71,70,PT03M46.00S,1,1610612744,GSW,203546,Clark,I. Clark,37,75,8,Made,1,17,26,43,v,Clark 8' Floating Jump Shot (2 PTS) (McCaw 1 AST),Made Shot,Floating Jump shot,1,0
+72,71,PT03M27.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,Warriors T.Foul (Def. 3 Sec McGee ) (K.Mauer),Foul,Defense 3 Second,1,0
+73,72,PT03M27.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,MISS Crawford Free Throw Technical,Free Throw,Free Throw Technical,0,0
+74,73,PT03M27.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+75,74,PT03M27.00S,1,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,SUB: Varejao FOR McGee,Substitution,,0,0
+76,76,PT03M27.00S,1,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,SUB: Iguodala FOR McCaw,Substitution,,0,0
+77,77,PT03M14.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-73,164,18,Missed,1,0,0,0,h,MISS Griffin 18' Jump Shot,Missed Shot,Jump Shot,1,0
+78,78,PT03M13.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+79,79,PT03M07.00S,1,1610612744,GSW,201142,Durant,K. Durant,176,198,26,Missed,1,0,0,0,v,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+80,80,PT03M04.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+81,81,PT02M48.00S,1,1610612746,LAC,203085,Rivers,A. Rivers,68,16,7,Missed,1,0,0,0,h,MISS Rivers 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+82,82,PT02M46.00S,1,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,v,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+83,83,PT02M40.00S,1,1610612744,GSW,203546,Clark,I. Clark,-20,80,8,Missed,1,0,0,0,v,MISS Clark 8' Jump Shot,Missed Shot,Jump Shot,1,0
+84,83,PT02M40.00S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers BLOCK (1 BLK),,,1,0
+85,84,PT02M37.00S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+86,86,PT02M37.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+87,88,PT02M37.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan T.FOUL (P1.T1) (K.Cutler),Foul,Technical,0,0
+88,89,PT02M37.00S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,SUB: Redick FOR Rivers,Substitution,,0,0
+89,90,PT02M37.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,SUB: Speights FOR Jordan,Substitution,,0,0
+90,91,PT02M37.00S,1,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Durant,Substitution,,0,0
+91,92,PT02M37.00S,1,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,v,SUB: Looney FOR Clark,Substitution,,0,0
+92,93,PT02M37.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,17,27,44,v,Curry Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+93,95,PT02M25.00S,1,1610612746,LAC,101109,Felton,R. Felton,-19,21,3,Missed,1,0,0,0,h,MISS Felton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+94,96,PT02M21.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+95,97,PT02M02.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,1,0,Made,1,17,29,46,v,Looney  Dunk (2 PTS) (Iguodala 1 AST),Made Shot,Dunk Shot,1,0
+96,98,PT01M39.00S,1,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0
+97,99,PT01M39.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,SUB: Bass FOR Griffin,Substitution,,0,0
+98,101,PT01M25.00S,1,1610612744,GSW,201939,Curry,S. Curry,-230,-16,0,Missed,1,0,0,0,v,MISS Curry  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+99,102,PT01M23.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,0,0,0,v,Looney REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+100,103,PT01M18.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,27,11,3,Missed,1,0,0,0,v,MISS Thompson 3' Layup,Missed Shot,Layup Shot,1,0
+101,105,PT01M16.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+102,104,PT01M16.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,19,11,2,Missed,1,0,0,0,v,MISS Thompson 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+103,106,PT01M14.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+104,107,PT01M13.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,24,11,3,Made,1,17,31,48,v,Thompson 3' Layup (2 PTS),Made Shot,Layup Shot,1,0
+105,108,PT00M53.70S,1,1610612746,LAC,200755,Redick,J. Redick,146,208,25,Made,1,20,31,51,h,Redick 25' 3PT Jump Shot (6 PTS) (Crawford 1 AST),Made Shot,Jump Shot,1,0
+106,109,PT00M43.50S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford P.FOUL (P1.T2) (K.Cutler),Foul,Personal,1,0
+107,110,PT00M43.50S,1,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,SUB: Rivers FOR Felton,Substitution,,0,0
+108,112,PT00M29.20S,1,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0
+109,113,PT00M20.30S,1,1610612746,LAC,101138,Bass,B. Bass,0,1,0,Made,1,22,31,53,h,Bass  Cutting Dunk Shot (2 PTS) (Crawford 2 AST),Made Shot,Cutting Dunk Shot,1,0
+110,114,PT00M03.90S,1,1610612744,GSW,201939,Curry,S. Curry,-60,262,27,Missed,1,0,0,0,v,MISS Curry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+111,115,PT00M02.10S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,0,0,0,v,Looney REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+112,116,PT00M02.10S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,1,0
+113,117,PT00M02.10S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,22,32,54,v,Looney Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+114,119,PT00M02.10S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: McAdoo FOR Thompson,Substitution,,0,0
+115,120,PT00M02.10S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,SUB: Clark FOR Curry,Substitution,,0,0
+116,121,PT00M02.10S,1,1610612744,GSW,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,SUB: McCaw FOR Varejao,Substitution,,0,0
+117,122,PT00M02.10S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,22,33,55,v,Looney Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+118,124,PT00M01.10S,1,1610612746,LAC,203085,Rivers,A. Rivers,207,262,33,Missed,1,0,0,0,h,MISS Rivers 33' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+119,125,PT00M00.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+120,126,PT00M00.00S,1,0,,0,,,0,0,0,,0,22,33,55,,End of 1st Period (11:08 PM EST),period,end,0,0
+121,128,PT12M00.00S,2,0,,0,,,0,0,0,,0,22,33,55,,Start of 2nd Period (11:11 PM EST),period,start,0,0
+122,129,PT11M40.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,-38,95,10,Missed,1,0,0,0,v,MISS Iguodala 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+123,130,PT11M37.00S,2,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+124,131,PT11M24.00S,2,1610612746,LAC,201578,Speights,M. Speights,38,80,9,Missed,1,0,0,0,h,MISS Speights 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+125,132,PT11M23.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+126,133,PT11M23.00S,2,1610612746,LAC,101138,Bass,B. Bass,0,0,0,,0,0,0,0,h,Bass L.B.FOUL (P1.T1) (K.Cutler),Foul,Loose Ball,0,0
+127,134,PT11M08.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,55,175,18,Missed,1,0,0,0,v,MISS Thompson 18' Jump Shot,Missed Shot,Jump Shot,1,0
+128,135,PT11M07.00S,2,1610612746,LAC,101138,Bass,B. Bass,0,0,0,,0,0,0,0,h,Bass REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+129,136,PT10M55.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,230,134,27,Made,1,25,33,58,h,Crawford 27' 3PT Jump Shot (3 PTS) (Speights 1 AST),Made Shot,Jump Shot,1,0
+130,137,PT10M50.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+131,138,PT10M32.00S,2,1610612744,GSW,201142,Durant,K. Durant,91,173,20,Made,1,25,35,60,v,Durant 20' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,0
+132,139,PT10M07.00S,2,1610612746,LAC,203085,Rivers,A. Rivers,-117,239,27,Missed,1,0,0,0,h,MISS Rivers 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+133,140,PT10M07.00S,2,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+134,141,PT10M07.00S,2,1610612746,LAC,201578,Speights,M. Speights,14,11,2,Made,1,27,35,62,h,Speights 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,0
+135,142,PT10M07.00S,2,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0
+136,143,PT10M07.00S,2,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,28,35,63,h,Speights Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+137,145,PT09M50.00S,2,1610612744,GSW,203546,Clark,I. Clark,28,16,3,Missed,1,0,0,0,v,MISS Clark 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+138,146,PT09M44.00S,2,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+139,147,PT09M38.00S,2,1610612746,LAC,200755,Redick,J. Redick,-133,219,26,Made,1,31,35,66,h,Redick 26' 3PT Jump Shot (9 PTS) (Rivers 2 AST),Made Shot,Jump Shot,1,0
+140,148,PT09M25.00S,2,1610612744,GSW,203949,McAdoo,J. McAdoo,0,1,0,Made,1,31,37,68,v,McAdoo  Dunk (2 PTS) (Clark 1 AST),Made Shot,Dunk Shot,1,0
+141,149,PT09M07.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,133,228,26,Missed,1,0,0,0,h,MISS Crawford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+142,150,PT09M06.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+143,151,PT08M59.00S,2,1610612744,GSW,201142,Durant,K. Durant,-65,61,9,Missed,1,0,0,0,v,MISS Durant 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+144,152,PT08M56.00S,2,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+145,153,PT08M49.00S,2,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights S.FOUL (P1.T2) (K.Mauer),Foul,Shooting,1,0
+146,154,PT08M49.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,31,38,69,v,Durant Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+147,156,PT08M49.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,31,39,70,v,Durant Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+148,158,PT08M24.00S,2,1610612746,LAC,101138,Bass,B. Bass,158,7,16,Missed,1,0,0,0,h,MISS Bass 16' Jump Shot,Missed Shot,Jump Shot,1,0
+149,159,PT08M23.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+150,160,PT08M20.00S,2,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights Personal Block Foul (P2.T3) (K.Mauer),Foul,Personal Block,1,0
+151,161,PT08M20.00S,2,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,v,SUB: McCaw FOR Clark,Substitution,,0,0
+152,162,PT08M08.00S,2,1610612744,GSW,203949,McAdoo,J. McAdoo,28,26,4,Made,1,31,41,72,v,McAdoo 4' Cutting Layup Shot (4 PTS) (Thompson 2 AST),Made Shot,Cutting Layup Shot,1,0
+153,163,PT07M55.00S,2,1610612746,LAC,201578,Speights,M. Speights,-166,237,29,Missed,1,0,0,0,h,MISS Speights 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+154,164,PT07M54.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+155,165,PT07M54.00S,2,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,SUB: Jordan FOR Speights,Substitution,,0,0
+156,166,PT07M54.00S,2,1610612746,LAC,101138,Bass,B. Bass,0,0,0,,0,0,0,0,h,SUB: Griffin FOR Bass,Substitution,,0,0
+157,167,PT07M33.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-86,154,18,Missed,1,0,0,0,v,MISS Thompson 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+158,168,PT07M30.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+159,169,PT07M28.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford Offensive Charge Foul (P2.T4) (M.Smith),Foul,Offensive Charge,1,0
+160,170,PT07M28.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford Foul Turnover (P1.T8),Turnover,Foul,1,0
+161,171,PT07M11.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,92,146,17,Missed,1,0,0,0,v,MISS Thompson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+162,172,PT07M08.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+163,175,PT06M52.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,-129,62,14,Missed,1,0,0,0,h,MISS Griffin 14' Jump Shot,Missed Shot,Jump Shot,1,0
+164,176,PT06M51.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+165,177,PT06M45.00S,2,1610612744,GSW,201142,Durant,K. Durant,99,247,27,Missed,1,0,0,0,v,MISS Durant 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+166,178,PT06M43.00S,2,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+167,179,PT06M36.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,164,-5,16,Made,1,31,43,74,v,Thompson 16' Jump Shot (4 PTS) (Durant 4 AST),Made Shot,Jump Shot,1,0
+168,180,PT06M27.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,-20,41,5,Missed,1,0,0,0,h,MISS Griffin 5' Hook Shot,Missed Shot,Hook Shot,1,0
+169,181,PT06M26.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+170,182,PT06M26.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant S.FOUL (P1.T2) (K.Mauer),Foul,Shooting,1,0
+171,183,PT06M26.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,MISS Griffin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+172,184,PT06M26.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+173,186,PT06M26.00S,2,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,SUB: Felton FOR Rivers,Substitution,,0,0
+174,187,PT06M26.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: Curry FOR Thompson,Substitution,,0,0
+175,188,PT06M26.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,32,43,75,h,Griffin Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+176,191,PT06M07.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+177,191,PT06M07.00S,2,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton STEAL (1 STL),,,1,0
+178,192,PT06M01.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,1,0,Made,1,34,43,77,h,Jordan  Running Alley Oop Dunk Shot (4 PTS) (Redick 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,0
+179,193,PT05M40.00S,2,1610612744,GSW,203949,McAdoo,J. McAdoo,0,1,0,Made,1,34,45,79,v,McAdoo  Cutting Dunk Shot (6 PTS) (Durant 5 AST),Made Shot,Cutting Dunk Shot,1,0
+180,195,PT05M21.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+181,198,PT05M21.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,SUB: Looney FOR Durant,Substitution,,0,0
+182,199,PT05M21.00S,2,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,SUB: McGee FOR McAdoo,Substitution,,0,0
+183,200,PT05M12.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,48,101,11,Made,1,36,45,81,h,Crawford 11' Jump Shot (5 PTS) (Felton 3 AST),Made Shot,Jump Shot,1,0
+184,201,PT04M54.00S,2,1610612744,GSW,1627775,McCaw,P. McCaw,-112,33,12,Made,1,36,47,83,v,McCaw 12' Pullup Bank Shot (8 PTS) (Looney 1 AST),Made Shot,Pullup Bank shot,1,0
+185,202,PT04M44.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-45,264,27,Made,1,39,47,86,h,Crawford 27' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,0
+186,203,PT04M34.00S,2,1610612744,GSW,201939,Curry,S. Curry,84,198,22,Missed,1,0,0,0,v,MISS Curry 22' Jump Shot,Missed Shot,Jump Shot,1,0
+187,204,PT04M33.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+188,205,PT04M28.00S,2,1610612746,LAC,200755,Redick,J. Redick,137,224,26,Made,1,42,47,89,h,Redick 26' 3PT Jump Shot (12 PTS) (Griffin 1 AST),Made Shot,Jump Shot,1,0
+189,206,PT04M08.00S,2,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton P.FOUL (P1.PN) (K.Mauer),Foul,Personal,1,0
+190,207,PT03M52.00S,2,1610612744,GSW,1627775,McCaw,P. McCaw,-237,38,24,Missed,1,0,0,0,v,MISS McCaw 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+191,208,PT03M49.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+192,209,PT03M44.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,159,203,26,Missed,1,0,0,0,h,MISS Crawford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+193,210,PT03M41.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+194,211,PT03M37.00S,2,1610612746,LAC,200755,Redick,J. Redick,84,237,25,Missed,1,0,0,0,h,MISS Redick 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+195,212,PT03M36.00S,2,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+196,213,PT03M36.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry P.FOUL (P1.T3) (M.Smith),Foul,Personal,1,0
+197,214,PT03M36.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Iguodala,Substitution,,0,0
+198,216,PT03M32.00S,2,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee P.FOUL (P3.T4) (K.Mauer),Foul,Personal,1,0
+199,217,PT03M32.00S,2,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,SUB: Varejao FOR McGee,Substitution,,0,0
+200,218,PT03M31.00S,2,1610612744,GSW,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao Personal Take Foul (P1.PN) (K.Cutler),Foul,Personal Take,1,0
+201,219,PT03M31.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,43,47,90,h,Jordan Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+202,221,PT03M31.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+203,223,PT03M28.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+204,224,PT03M10.00S,2,1610612744,GSW,2760,Varejao,A. Varejao,-120,92,15,Missed,1,0,0,0,v,MISS Varejao 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+205,225,PT03M08.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+206,226,PT02M57.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-237,11,24,Made,1,43,50,93,v,Thompson 24' 3PT Jump Shot (7 PTS) (McCaw 2 AST),Made Shot,Jump Shot,1,0
+207,227,PT02M52.00S,2,1610612744,GSW,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao Personal Take Foul (P2.PN) (K.Mauer),Foul,Personal Take,1,0
+208,228,PT02M52.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+209,231,PT02M52.00S,2,1610612744,GSW,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,SUB: Durant FOR Varejao,Substitution,,0,0
+210,232,PT02M52.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,44,50,94,h,Jordan Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+211,234,PT02M52.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+212,236,PT02M49.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+213,237,PT02M37.00S,2,1610612744,GSW,201939,Curry,S. Curry,128,214,25,Made,1,44,53,97,v,Curry 25' 3PT Step Back Jump Shot (8 PTS) (Durant 6 AST),Made Shot,Step Back Jump shot,1,0
+214,238,PT02M33.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,0,0,0,v,Looney Personal Take Foul (P1.PN) (K.Mauer),Foul,Personal Take,0,0
+215,239,PT02M33.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry T.FOUL (P1.PN) (M.Smith),Foul,Technical,0,0
+216,240,PT02M33.00S,2,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,45,53,98,h,Redick Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,0,0
+217,242,PT02M33.00S,2,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,SUB: Iguodala FOR McCaw,Substitution,,0,0
+218,243,PT02M33.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,46,53,99,h,Jordan Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+219,245,PT02M33.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,47,53,100,h,Jordan Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+220,247,PT02M17.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-237,120,27,Made,1,47,56,103,v,Thompson 27' 3PT Jump Shot (10 PTS) (Durant 7 AST),Made Shot,Jump Shot,1,0
+221,248,PT02M11.00S,2,1610612746,LAC,101109,Felton,R. Felton,3,14,1,Made,1,49,56,105,h,Felton 1' Running Layup (4 PTS) (Crawford 3 AST),Made Shot,Running Layup Shot,1,0
+222,249,PT01M57.00S,2,1610612744,GSW,201142,Durant,K. Durant,122,232,26,Made,1,49,59,108,v,Durant 26' 3PT Jump Shot (15 PTS) (Iguodala 2 AST),Made Shot,Jump Shot,1,0
+223,250,PT01M37.00S,2,1610612746,LAC,200755,Redick,J. Redick,-238,23,24,Missed,1,0,0,0,h,MISS Redick 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+224,251,PT01M35.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+225,252,PT01M30.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+226,252,PT01M30.00S,2,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick STEAL (1 STL),,,1,0
+227,253,PT01M26.00S,2,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+228,253,PT01M26.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala STEAL (1 STL),,,1,0
+229,254,PT01M20.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-119,228,26,Missed,1,0,0,0,v,MISS Thompson 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+230,255,PT01M19.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+231,256,PT01M19.00S,2,1610612744,GSW,201939,Curry,S. Curry,1,18,2,Made,1,49,61,110,v,Curry 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,0
+232,257,PT01M05.00S,2,1610612746,LAC,200755,Redick,J. Redick,143,219,26,Missed,1,0,0,0,h,MISS Redick 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+233,258,PT01M02.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+234,259,PT01M02.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,0,0,0,v,Looney L.B.FOUL (P2.PN) (K.Cutler),Foul,Loose Ball,1,0
+235,260,PT01M02.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,50,61,111,h,Jordan Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+236,262,PT01M02.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+237,264,PT01M00.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+238,265,PT00M44.60S,2,1610612744,GSW,201939,Curry,S. Curry,14,92,9,Missed,1,0,0,0,v,MISS Curry 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+239,266,PT00M42.90S,2,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+240,268,PT00M39.10S,2,1610612746,LAC,201933,Griffin,B. Griffin,4,8,1,Made,1,52,61,113,h,Griffin 1' Running Dunk (13 PTS) (Redick 2 AST),Made Shot,Running Dunk Shot,1,0
+241,271,PT00M33.20S,2,1610612744,GSW,201142,Durant,K. Durant,17,26,3,Made,1,52,63,115,v,Durant 3' Layup (17 PTS) (Curry 4 AST),Made Shot,Layup Shot,0,0
+242,272,PT00M28.50S,2,1610612746,LAC,201933,Griffin,B. Griffin,22,16,3,Made,1,54,63,117,h,Griffin 3' Running Layup (15 PTS),Made Shot,Running Layup Shot,1,0
+243,274,PT00M28.50S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant S.FOUL (P2.PN) (K.Mauer),Foul,Shooting,1,0
+244,275,PT00M28.50S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+245,277,PT00M28.50S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Crawford,Substitution,,0,0
+246,278,PT00M28.50S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,0,0,0,v,SUB: McCaw FOR Looney,Substitution,,0,0
+247,279,PT00M28.50S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,55,63,118,h,Griffin Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0
+248,281,PT00M10.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin S.FOUL (P2.PN) (K.Mauer),Foul,Shooting,1,0
+249,282,PT00M10.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,55,64,119,v,Curry Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+250,284,PT00M10.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: Clark FOR Thompson,Substitution,,0,0
+251,285,PT00M10.00S,2,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,SUB: McAdoo FOR Durant,Substitution,,0,0
+252,286,PT00M10.00S,2,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Crawford FOR Mbah a Moute,Substitution,,0,0
+253,287,PT00M10.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,SUB: Rivers FOR Jordan,Substitution,,0,0
+254,288,PT00M10.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,55,65,120,v,Curry Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+255,290,PT00M01.50S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0
+256,290,PT00M01.50S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala STEAL (2 STL),,,1,0
+257,291,PT00M00.00S,2,0,,0,,,0,0,0,,0,55,65,120,,End of 2nd Period (11:47 PM EST),period,end,0,0
+258,293,PT12M00.00S,3,0,,0,,,0,0,0,,0,55,65,120,,Start of 3rd Period (12:04 AM EST),period,start,0,0
+259,294,PT11M37.00S,3,1610612744,GSW,201142,Durant,K. Durant,20,11,2,Missed,1,0,0,0,v,MISS Durant 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,0
+260,295,PT11M33.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+261,297,PT11M15.00S,3,1610612746,LAC,101109,Felton,R. Felton,28,18,3,Made,1,57,65,122,h,Felton 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+262,298,PT11M06.00S,3,1610612744,GSW,201939,Curry,S. Curry,76,44,9,Made,1,57,67,124,v,Curry 9' Driving Floating Bank Jump Shot (14 PTS),Made Shot,Driving Floating Bank Jump Shot,1,0
+263,299,PT11M00.00S,3,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0
+264,299,PT11M00.00S,3,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant STEAL (1 STL),,,1,0
+265,300,PT10M54.00S,3,1610612744,GSW,201939,Curry,S. Curry,171,210,27,Made,1,57,70,127,v,Curry 27' 3PT Step Back Jump Shot (17 PTS) (Durant 8 AST),Made Shot,Step Back Jump shot,1,0
+266,301,PT10M37.00S,3,1610612746,LAC,200755,Redick,J. Redick,115,174,21,Made,1,59,70,129,h,Redick 21' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,0
+267,302,PT10M17.00S,3,1610612744,GSW,201580,McGee,J. McGee,25,18,3,Missed,1,0,0,0,v,MISS McGee 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+268,303,PT10M13.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+269,304,PT10M04.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,-20,252,25,Missed,1,0,0,0,h,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+270,305,PT10M02.00S,3,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,McCaw REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+271,306,PT09M59.00S,3,1610612744,GSW,201939,Curry,S. Curry,25,7,3,Missed,1,0,0,0,v,MISS Curry 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+272,306,PT09M59.00S,3,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton BLOCK (1 BLK),,,1,0
+273,307,PT09M59.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+274,308,PT09M56.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-156,7,16,Made,1,59,72,131,v,Thompson 16' Jump Shot (12 PTS) (Curry 5 AST),Made Shot,Jump Shot,1,0
+275,309,PT09M38.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,30,31,4,Missed,1,0,0,0,h,MISS Griffin 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+276,310,PT09M35.00S,3,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+277,311,PT09M34.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan S.FOUL (P2.T1) (K.Cutler),Foul,Shooting,1,0
+278,312,PT09M34.00S,3,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,59,73,132,v,Durant Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+279,314,PT09M34.00S,3,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,59,74,133,v,Durant Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+280,316,PT09M26.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,16,5,2,Made,1,61,74,135,h,Rivers 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+281,317,PT09M16.00S,3,1610612744,GSW,1627775,McCaw,P. McCaw,245,-6,25,Missed,1,0,0,0,v,MISS McCaw 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+282,318,PT09M15.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+283,319,PT09M10.00S,3,1610612746,LAC,200755,Redick,J. Redick,91,247,26,Missed,1,0,0,0,h,MISS Redick 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+284,320,PT09M10.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+285,321,PT09M10.00S,3,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,McCaw L.B.FOUL (P1.T1) (K.Cutler),Foul,Loose Ball,1,0
+286,322,PT09M01.00S,3,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,McCaw S.FOUL (P2.T2) (M.Smith),Foul,Shooting,1,0
+287,323,PT09M01.00S,3,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,62,74,136,h,Felton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+288,325,PT09M01.00S,3,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,63,74,137,h,Felton Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+289,327,PT08M42.00S,3,1610612744,GSW,201580,McGee,J. McGee,0,1,0,Made,1,63,76,139,v,McGee  Alley Oop Dunk (8 PTS) (McCaw 3 AST),Made Shot,Alley Oop Dunk Shot,1,0
+290,328,PT08M42.00S,3,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+291,330,PT08M42.00S,3,0,,0,,,0,0,0,,0,63,76,139,,Instant Replay3rd Period (12:11 AM EST),Instant Replay,Altercation Ruling,0,0
+292,332,PT08M32.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0
+293,332,PT08M32.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry STEAL (3 STL),,,1,0
+294,333,PT08M24.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,164,232,28,Missed,1,0,0,0,v,MISS Thompson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+295,334,PT08M23.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+296,336,PT08M13.00S,3,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee S.FOUL (P4.T3) (K.Cutler),Foul,Shooting,1,0
+297,337,PT08M13.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,MISS Griffin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+298,338,PT08M13.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+299,339,PT08M13.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,64,76,140,h,Griffin Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+300,341,PT07M57.00S,3,1610612744,GSW,201580,McGee,J. McGee,10,18,2,Made,1,64,78,142,v,McGee 2' Layup (10 PTS) (McCaw 4 AST),Made Shot,Layup Shot,1,0
+301,342,PT07M49.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-2,16,2,Missed,1,0,0,0,h,MISS Griffin 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+302,343,PT07M46.00S,3,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+303,344,PT07M43.00S,3,1610612744,GSW,201939,Curry,S. Curry,133,223,26,Missed,1,0,0,0,v,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+304,345,PT07M41.00S,3,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+305,346,PT07M41.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers S.FOUL (P2.T2) (K.Mauer),Foul,Shooting,1,0
+306,347,PT07M41.00S,3,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,64,79,143,v,McGee Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+307,349,PT07M41.00S,3,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+308,351,PT07M40.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+309,352,PT07M21.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,17,13,2,Missed,1,0,0,0,h,MISS Rivers 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+310,352,PT07M21.00S,3,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee BLOCK (1 BLK),,,1,0
+311,353,PT07M20.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+312,354,PT07M15.00S,3,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,1,0
+313,355,PT07M15.00S,3,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,MISS McCaw Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+314,356,PT07M15.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Normal Rebound,0,0
+315,357,PT07M15.00S,3,1610612744,GSW,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,SUB: Varejao FOR McGee,Substitution,,0,0
+316,358,PT07M15.00S,3,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,MISS McCaw Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+317,360,PT07M13.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+318,361,PT06M56.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,1,21,2,Made,1,66,79,145,h,Griffin 2' Cutting Layup Shot (19 PTS) (Rivers 3 AST),Made Shot,Cutting Layup Shot,1,0
+319,362,PT06M56.00S,3,1610612744,GSW,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao S.FOUL (P3.T4) (M.Smith),Foul,Shooting,1,0
+320,363,PT06M56.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,67,79,146,h,Griffin Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0
+321,364,PT06M43.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+322,364,PT06M43.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin STEAL (2 STL),,,1,0
+323,365,PT06M38.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,17,18,2,Made,1,69,79,148,h,Rivers 2' Running Layup (4 PTS) (Felton 4 AST),Made Shot,Running Layup Shot,1,0
+324,366,PT06M29.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers P.FOUL (P3.T4) (K.Mauer),Foul,Personal,1,0
+325,367,PT06M26.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,173,77,19,Made,1,69,81,150,v,Thompson 19' Turnaround Fadeaway (14 PTS) (McCaw 5 AST),Made Shot,Turnaround Fadeaway shot,1,0
+326,368,PT06M13.00S,3,1610612746,LAC,101109,Felton,R. Felton,127,149,20,Missed,1,0,0,0,h,MISS Felton 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+327,369,PT06M10.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+328,370,PT06M07.00S,3,1610612744,GSW,201939,Curry,S. Curry,-1,28,3,Made,1,69,83,152,v,Curry 3' Running Layup (19 PTS),Made Shot,Running Layup Shot,1,0
+329,371,PT06M07.00S,3,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,1,0
+330,372,PT06M07.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,69,84,153,v,Curry Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0
+331,374,PT05M58.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-8,194,19,Made,1,71,84,155,h,Griffin 19' Jump Shot (22 PTS) (Jordan 1 AST),Made Shot,Jump Shot,1,0
+332,375,PT05M43.00S,3,1610612744,GSW,201142,Durant,K. Durant,-137,228,27,Missed,1,0,0,0,v,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+333,376,PT05M42.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+334,382,PT05M39.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,13,14,2,Missed,1,0,0,0,h,MISS Griffin 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+335,378,PT05M37.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+336,379,PT05M37.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,17,2,2,Made,1,73,84,157,h,Griffin 2' Putback Layup (24 PTS),Made Shot,Putback Layup Shot,1,0
+337,380,PT05M37.00S,3,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,McCaw S.FOUL (P3.PN) (K.Cutler),Foul,Shooting,1,0
+338,381,PT05M37.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+339,384,PT05M37.00S,3,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,SUB: Crawford FOR Felton,Substitution,,0,0
+340,385,PT05M37.00S,3,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,SUB: Iguodala FOR McCaw,Substitution,,0,0
+341,386,PT05M37.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,74,84,158,h,Griffin Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,0,0
+342,388,PT05M26.00S,3,1610612744,GSW,201142,Durant,K. Durant,24,23,3,Missed,1,0,0,0,v,MISS Durant 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,0
+343,388,PT05M26.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan BLOCK (2 BLK),,,1,0
+344,389,PT05M24.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+345,390,PT05M19.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,6,28,3,Made,1,76,84,160,h,Rivers 3' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,1,0
+346,391,PT05M05.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,-233,3,0,Made,1,76,87,163,v,Iguodala  3PT Jump Shot (3 PTS) (Curry 6 AST),Made Shot,Jump Shot,1,0
+347,393,PT04M45.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,20,80,8,Missed,1,0,0,0,h,MISS Rivers 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+348,394,PT04M42.00S,3,1610612744,GSW,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+349,395,PT04M41.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers S.FOUL (P4.PN) (M.Smith),Foul,Shooting,1,0
+350,396,PT04M41.00S,3,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,76,88,164,v,Durant Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+351,398,PT04M41.00S,3,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,76,89,165,v,Durant Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+352,400,PT04M27.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,30,21,4,Made,1,78,89,167,h,Griffin 4' Driving Bank Shot (27 PTS) (Rivers 4 AST),Made Shot,Driving Bank shot,1,0
+353,401,PT04M11.00S,3,1610612744,GSW,201142,Durant,K. Durant,81,120,14,Made,1,78,91,169,v,Durant 14' Pullup Jump Shot (23 PTS) (Curry 7 AST),Made Shot,Pullup Jump shot,1,0
+354,402,PT03M58.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-29,36,5,Missed,1,0,0,0,h,MISS Griffin 5' Hook Shot,Missed Shot,Hook Shot,1,0
+355,403,PT03M56.00S,3,1610612744,GSW,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+356,404,PT03M50.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry Traveling Turnover (P3.T7),Turnover,Traveling,1,0
+357,405,PT03M50.00S,3,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,SUB: Speights FOR Rivers,Substitution,,0,0
+358,406,PT03M50.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,SUB: Felton FOR Jordan,Substitution,,0,0
+359,407,PT03M50.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: Clark FOR Thompson,Substitution,,0,0
+360,408,PT03M29.00S,3,1610612746,LAC,201578,Speights,M. Speights,0,1,0,Missed,1,0,0,0,h,MISS Speights  Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,0
+361,409,PT03M25.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+362,410,PT03M21.00S,3,1610612744,GSW,203546,Clark,I. Clark,246,7,25,Made,1,78,94,172,v,Clark 25' 3PT Jump Shot (5 PTS) (Durant 9 AST),Made Shot,Jump Shot,1,0
+363,411,PT03M04.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,-53,159,17,Made,1,80,94,174,h,Crawford 17' Jump Shot (10 PTS) (Griffin 2 AST),Made Shot,Jump Shot,1,0
+364,412,PT03M03.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Short (Reg.3 Short 1),Timeout,Short,0,0
+365,415,PT03M03.00S,3,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,SUB: Looney FOR Durant,Substitution,,0,0
+366,416,PT03M03.00S,3,1610612744,GSW,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,SUB: McAdoo FOR Varejao,Substitution,,0,0
+367,417,PT03M03.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Griffin,Substitution,,0,0
+368,418,PT02M48.00S,3,1610612744,GSW,201939,Curry,S. Curry,94,120,15,Made,1,80,96,176,v,Curry 15' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,0
+369,419,PT02M30.00S,3,1610612746,LAC,200755,Redick,J. Redick,-43,198,20,Made,1,82,96,178,h,Redick 20' Jump Shot (17 PTS) (Felton 5 AST),Made Shot,Jump Shot,1,0
+370,420,PT02M18.00S,3,1610612744,GSW,201939,Curry,S. Curry,-38,267,27,Missed,1,0,0,0,v,MISS Curry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+371,421,PT02M17.00S,3,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+372,422,PT02M07.00S,3,1610612746,LAC,201578,Speights,M. Speights,-16,36,4,Missed,1,0,0,0,h,MISS Speights 4' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+373,423,PT02M04.00S,3,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+374,424,PT02M01.00S,3,1610612744,GSW,201939,Curry,S. Curry,10,21,2,Missed,1,0,0,0,v,MISS Curry 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+375,425,PT01M59.00S,3,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+376,426,PT01M59.00S,3,1610612744,GSW,203949,McAdoo,J. McAdoo,2,16,2,Made,1,82,98,180,v,McAdoo 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,0
+377,427,PT01M40.00S,3,1610612746,LAC,200755,Redick,J. Redick,-60,116,13,Missed,1,0,0,0,h,MISS Redick 13' Jump Shot,Missed Shot,Jump Shot,1,0
+378,428,PT01M37.00S,3,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+379,430,PT01M29.00S,3,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,SUB: Bass FOR Redick,Substitution,,0,0
+380,431,PT01M26.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,4,8,1,Missed,1,0,0,0,v,MISS Iguodala 1' Layup,Missed Shot,Layup Shot,1,0
+381,433,PT01M24.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+382,432,PT01M24.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,1,0,Missed,1,0,0,0,v,MISS Iguodala  Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,0
+383,434,PT01M20.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+384,435,PT01M16.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,0,0,0,v,Looney P.FOUL (P3.PN) (K.Cutler),Foul,Personal,1,0
+385,437,PT01M16.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,83,98,181,h,Crawford Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+386,439,PT01M16.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,84,98,182,h,Crawford Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+387,441,PT01M05.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute Violation:Kicked Ball (K.Mauer),Violation,Kicked Ball,0,0
+388,442,PT00M56.60S,3,1610612744,GSW,201939,Curry,S. Curry,60,110,13,Made,1,84,100,184,v,Curry 13' Pullup Jump Shot (24 PTS) (Iguodala 3 AST),Made Shot,Pullup Jump shot,1,0
+389,444,PT00M42.50S,3,1610612746,LAC,101138,Bass,B. Bass,0,0,0,,0,0,0,0,h,Bass Double Dribble Turnover (P1.T13),Turnover,Double Dribble,1,0
+390,445,PT00M25.10S,3,1610612744,GSW,203546,Clark,I. Clark,153,87,18,Made,1,84,102,186,v,Clark 18' Pullup Jump Shot (7 PTS) (Iguodala 4 AST),Made Shot,Pullup Jump shot,1,0
+391,446,PT00M06.40S,3,1610612746,LAC,201578,Speights,M. Speights,228,164,28,Made,1,87,102,189,h,Speights 28' 3PT Jump Shot (6 PTS) (Crawford 4 AST),Made Shot,Jump Shot,1,0
+392,447,PT00M00.90S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,46,62,8,Made,1,87,104,191,v,Iguodala 8' Driving Floating Bank Jump Shot (5 PTS) (Curry 8 AST),Made Shot,Driving Floating Bank Jump Shot,1,0
+393,448,PT00M00.00S,3,0,,447,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+394,449,PT00M00.00S,3,0,,0,,,0,0,0,,0,87,104,191,,End of 3rd Period (12:36 AM EST),period,end,0,0
+395,451,PT12M00.00S,4,0,,0,,,0,0,0,,0,87,104,191,,Start of 4th Period (12:39 AM EST),period,start,0,0
+396,452,PT11M45.00S,4,1610612746,LAC,101138,Bass,B. Bass,14,26,3,Missed,1,0,0,0,h,MISS Bass 3' Layup,Missed Shot,Layup Shot,0,0
+397,452,PT11M45.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo BLOCK (1 BLK),,,0,0
+398,453,PT11M43.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+399,454,PT11M37.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,-12,72,7,Made,1,87,106,193,v,Thompson 7' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,0,0
+400,455,PT11M15.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-25,267,27,Made,1,90,106,196,h,Crawford 27' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,0
+401,457,PT10M44.00S,4,1610612744,GSW,203546,Clark,I. Clark,9,21,2,Made,1,90,108,198,v,Clark 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+402,458,PT10M25.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,12,23,3,Missed,1,0,0,0,h,MISS Crawford 3' Layup,Missed Shot,Layup Shot,1,0
+403,459,PT10M24.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+404,460,PT10M24.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo S.FOUL (P2.T1) (K.Mauer),Foul,Shooting,1,0
+405,461,PT10M24.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,91,108,199,h,Speights Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+406,463,PT10M24.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,92,108,200,h,Speights Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+407,465,PT10M03.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,-63,249,26,Made,1,92,111,203,v,Iguodala 26' 3PT Jump Shot (8 PTS) (Durant 10 AST),Made Shot,Jump Shot,1,0
+408,466,PT09M51.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0
+409,466,PT09M51.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala STEAL (3 STL),,,1,0
+410,467,PT09M48.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,9,13,2,Made,1,92,113,205,v,Iguodala 2' Running Reverse Layup (10 PTS) (Clark 2 AST),Made Shot,Running Reverse Layup Shot,1,0
+411,468,PT09M33.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,1,0
+412,469,PT09M33.00S,4,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,93,113,206,h,Felton Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+413,471,PT09M33.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,SUB: Griffin FOR Speights,Substitution,,0,0
+414,472,PT09M33.00S,4,1610612746,LAC,101138,Bass,B. Bass,0,0,0,,0,0,0,0,h,SUB: Redick FOR Bass,Substitution,,0,0
+415,473,PT09M33.00S,4,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,MISS Felton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+416,475,PT09M30.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+417,476,PT09M10.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+418,477,PT08M51.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,1,0,Made,1,95,113,208,h,Griffin  Driving Dunk (29 PTS),Made Shot,Driving Dunk Shot,1,0
+419,478,PT08M43.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+420,480,PT08M28.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+421,480,PT08M28.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin STEAL (3 STL),,,1,0
+422,481,PT08M24.00S,4,1610612746,LAC,200755,Redick,J. Redick,-137,214,25,Missed,1,0,0,0,h,MISS Redick 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+423,483,PT08M22.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+424,482,PT08M22.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,4,-1,0,Missed,1,0,0,0,h,MISS Griffin  Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+425,484,PT08M16.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+426,485,PT08M06.00S,4,1610612744,GSW,201142,Durant,K. Durant,102,11,10,Missed,1,0,0,0,v,MISS Durant 10' Jump Shot,Missed Shot,Jump Shot,1,0
+427,485,PT08M06.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick BLOCK (1 BLK),,,1,0
+428,486,PT08M06.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+429,487,PT07M57.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,1,0,Made,1,95,115,210,v,McAdoo  Dunk (10 PTS) (Clark 3 AST),Made Shot,Dunk Shot,1,0
+430,488,PT07M40.00S,4,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,v,Clark S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,1,0
+431,489,PT07M40.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,96,115,211,h,Rivers Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+432,491,PT07M40.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,MISS Rivers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+433,493,PT07M39.00S,4,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+434,494,PT07M18.00S,4,1610612744,GSW,203546,Clark,I. Clark,10,85,9,Missed,1,0,0,0,v,MISS Clark 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+435,495,PT07M18.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+436,496,PT07M12.00S,4,1610612744,GSW,201142,Durant,K. Durant,114,239,26,Missed,1,0,0,0,v,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+437,497,PT07M10.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+438,498,PT07M06.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+439,499,PT07M02.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo S.FOUL (P4.T4) (K.Mauer),Foul,Shooting,1,0
+440,500,PT07M02.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,97,115,212,h,Griffin Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,0,0
+441,502,PT07M02.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: Curry FOR Thompson,Substitution,,0,0
+442,503,PT07M02.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,SUB: McCaw FOR Iguodala,Substitution,,0,0
+443,504,PT07M02.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,98,115,213,h,Griffin Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,0,0
+444,506,PT06M46.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,28,31,4,Missed,1,0,0,0,v,MISS McAdoo 4' Jump Shot,Missed Shot,Jump Shot,1,0
+445,506,PT06M46.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin BLOCK (1 BLK),,,1,0
+446,507,PT06M43.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+447,508,PT06M39.00S,4,1610612746,LAC,200755,Redick,J. Redick,1,16,2,Missed,1,0,0,0,h,MISS Redick 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+448,509,PT06M34.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:5 Def:3),Rebound,Unknown,1,0
+449,510,PT06M34.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,9,7,1,Missed,1,0,0,0,h,MISS Rivers 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+450,511,PT06M34.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+451,512,PT06M34.00S,4,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,v,Clark S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,1,0
+452,513,PT06M34.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,99,115,214,h,Rivers Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+453,515,PT06M34.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,SUB: Bass FOR Griffin,Substitution,,0,0
+454,516,PT06M34.00S,4,1610612746,LAC,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,SUB: W. Johnson FOR Felton,Substitution,,0,0
+455,518,PT06M34.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,100,115,215,h,Rivers Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+456,521,PT06M16.00S,4,1610612744,GSW,201939,Curry,S. Curry,22,16,3,Made,1,100,117,217,v,Curry 3' Cutting Layup Shot (26 PTS) (Clark 4 AST),Made Shot,Cutting Layup Shot,1,0
+457,522,PT05M58.00S,4,1610612746,LAC,202325,Johnson,W. Johnson,-89,-5,9,Missed,1,0,0,0,h,MISS W. Johnson 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+458,523,PT05M56.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,McAdoo REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+459,524,PT05M39.00S,4,1610612744,GSW,203546,Clark,I. Clark,22,16,3,Made,1,100,119,219,v,Clark 3' Cutting Layup Shot (11 PTS) (Curry 9 AST),Made Shot,Cutting Layup Shot,1,0
+460,525,PT05M28.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,2,277,28,Made,1,103,119,222,h,Crawford 28' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,0
+461,526,PT05M14.00S,4,1610612744,GSW,201939,Curry,S. Curry,212,164,27,Made,1,103,122,225,v,Curry 27' 3PT Pullup Jump Shot (29 PTS),Made Shot,Pullup Jump shot,1,0
+462,527,PT05M02.00S,4,1610612746,LAC,101138,Bass,B. Bass,-135,134,19,Made,1,105,122,227,h,Bass 19' Jump Shot (4 PTS) (Rivers 5 AST),Made Shot,Jump Shot,1,0
+463,528,PT04M46.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,0
+464,528,PT04M46.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick STEAL (2 STL),,,1,0
+465,529,PT04M40.00S,4,1610612746,LAC,101138,Bass,B. Bass,-6,26,3,Made,1,107,122,229,h,Bass 3' Floating Jump Shot (6 PTS) (Redick 3 AST),Made Shot,Floating Jump shot,1,0
+466,530,PT04M40.00S,4,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant S.FOUL (P3.PN) (M.Smith),Foul,Shooting,1,0
+467,531,PT04M40.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+468,533,PT04M40.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,SUB: Speights FOR Redick,Substitution,,0,0
+469,534,PT04M40.00S,4,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Durant,Substitution,,0,0
+470,535,PT04M40.00S,4,1610612744,GSW,203546,Clark,I. Clark,0,0,0,,0,0,0,0,v,SUB: Looney FOR Clark,Substitution,,0,0
+471,536,PT04M40.00S,4,1610612744,GSW,203949,McAdoo,J. McAdoo,0,0,0,,0,0,0,0,v,SUB: Iguodala FOR McAdoo,Substitution,,0,0
+472,537,PT04M40.00S,4,1610612746,LAC,101138,Bass,B. Bass,0,0,0,,0,108,122,230,h,Bass Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+473,539,PT04M27.00S,4,1610612746,LAC,101138,Bass,B. Bass,0,0,0,,0,0,0,0,h,Bass P.FOUL (P2.T1) (M.Smith),Foul,Personal,1,0
+474,540,PT04M16.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,-165,205,26,Missed,1,0,0,0,v,MISS Iguodala 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+475,541,PT04M15.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+476,542,PT04M11.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford Out of Bounds - Bad Pass Turnover Turnover (P4.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+477,543,PT03M56.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,-14,7,2,Made,1,108,124,232,v,Thompson 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,0
+478,544,PT03M42.00S,4,1610612746,LAC,201578,Speights,M. Speights,-30,254,26,Missed,1,0,0,0,h,MISS Speights 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+479,545,PT03M41.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,0,0,0,v,Looney REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+480,546,PT03M27.00S,4,1610612744,GSW,201939,Curry,S. Curry,-202,164,26,Missed,1,0,0,0,v,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+481,547,PT03M26.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+482,548,PT03M22.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,4,16,2,Made,1,110,124,234,h,Rivers 2' Running Layup (11 PTS) (Speights 2 AST),Made Shot,Running Layup Shot,1,0
+483,549,PT03M08.00S,4,1610612744,GSW,201939,Curry,S. Curry,-191,7,19,Missed,1,0,0,0,v,MISS Curry 19' Jump Shot,Missed Shot,Jump Shot,1,0
+484,550,PT03M06.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,Speights REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+485,551,PT02M58.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,-11,26,3,Made,1,112,124,236,h,Rivers 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,0
+486,553,PT02M37.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+487,555,PT02M37.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,0,0,0,v,SUB: Durant FOR Looney,Substitution,,0,0
+488,557,PT02M35.00S,4,1610612744,GSW,1627775,McCaw,P. McCaw,0,0,0,,0,0,0,0,v,McCaw Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0
+489,557,PT02M35.00S,4,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,h,W. Johnson STEAL (1 STL),,,1,0
+490,558,PT02M31.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,1,0,Made,1,114,124,238,h,Rivers  Running Dunk (15 PTS) (Speights 3 AST),Made Shot,Running Dunk Shot,1,0
+491,559,PT02M13.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,-20,38,4,Missed,1,0,0,0,v,MISS Thompson 4' Jump Shot,Missed Shot,Jump Shot,1,0
+492,559,PT02M13.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford BLOCK (1 BLK),,,1,0
+493,560,PT02M12.00S,4,1610612746,LAC,101138,Bass,B. Bass,0,0,0,,0,0,0,0,h,Bass REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+494,562,PT01M55.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,14,262,26,Made,1,117,124,241,h,Crawford 26' 3PT Jump Shot (21 PTS) (Rivers 6 AST),Made Shot,Jump Shot,1,0
+495,563,PT01M35.00S,4,1610612744,GSW,201142,Durant,K. Durant,-81,242,26,Made,1,117,127,244,v,Durant 26' 3PT Jump Shot (26 PTS) (McCaw 6 AST),Made Shot,Jump Shot,1,0
+496,564,PT01M27.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,-14,16,2,Made,1,119,127,246,h,Rivers 2' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+497,565,PT01M07.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,246,-19,25,Made,1,119,130,249,v,Thompson 25' 3PT Jump Shot (21 PTS) (Curry 10 AST),Made Shot,Jump Shot,1,0
+498,566,PT01M02.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Personal Block Foul (P1.PN) (M.Smith),Foul,Personal Block,1,0
+499,567,PT01M02.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,MISS Rivers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+500,568,PT01M02.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+501,570,PT01M02.00S,4,1610612746,LAC,201578,Speights,M. Speights,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Speights,Substitution,,0,0
+502,571,PT01M02.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,120,130,250,h,Rivers Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+503,575,PT00M40.90S,4,1610612744,GSW,202691,Thompson,K. Thompson,245,-1,25,Missed,1,0,0,0,v,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+504,576,PT00M39.60S,4,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+505,577,PT00M32.90S,4,1610612746,LAC,2037,Crawford,J. Crawford,-150,229,27,Missed,1,0,0,0,h,MISS Crawford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+506,578,PT00M30.90S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+507,579,PT00M26.50S,4,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute Personal Take Foul (P1.T2) (K.Cutler),Foul,Personal Take,1,0
+508,580,PT00M26.50S,4,1610612744,GSW,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,SUB: Looney FOR Durant,Substitution,,0,0
+509,581,PT00M11.50S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,-174,193,26,Made,1,120,133,253,v,Iguodala 26' 3PT Jump Shot (13 PTS) (Curry 11 AST),Made Shot,Jump Shot,1,0
+510,582,PT00M04.90S,4,1610612746,LAC,203085,Rivers,A. Rivers,-150,139,20,Missed,1,0,0,0,h,MISS Rivers 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+511,583,PT00M00.90S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+512,584,PT00M00.00S,4,0,,0,,,0,0,0,,0,120,133,253,,End of 4th Period (1:08 AM EST),period,end,1,0

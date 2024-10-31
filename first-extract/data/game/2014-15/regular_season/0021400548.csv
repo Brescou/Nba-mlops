@@ -1,0 +1,510 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:42 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Jump Ball Hill vs. Vucevic: Tip to Kelly,Jump Ball,,1,0
+3,2,PT11M40.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,47,99,11,Missed,1,0,0,0,h,MISS Kelly 11' Jump Shot,Missed Shot,Jump Shot,1,0
+4,2,PT11M40.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris BLOCK (1 BLK),,,1,0
+5,3,PT11M38.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,4,PT11M22.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,22,2,Missed,1,0,0,0,v,MISS Payton 2' Layup,Missed Shot,Layup Shot,1,0
+7,4,PT11M22.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (1 BLK),,,1,0
+8,5,PT11M20.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+9,6,PT11M13.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly S.FOUL (P1.T1),Foul,Shooting,1,0
+10,7,PT11M13.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,1,1,v,Harris Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+11,9,PT11M13.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,2,2,v,Harris Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+12,11,PT10M59.00S,1,1610612747,LAL,201961,Ellington,W. Ellington,-13,209,21,Missed,1,0,0,0,h,MISS Ellington 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+13,12,PT10M57.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+14,13,PT10M49.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,-11,22,2,Made,1,0,4,4,v,Vucevic 2' Layup (2 PTS) (Payton 1 AST),Made Shot,Layup Shot,1,0
+15,14,PT10M26.00S,1,1610612747,LAL,201941,Hill,J. Hill,6,11,1,Made,1,2,4,6,h,Hill 1' Layup (2 PTS) (Price 1 AST),Made Shot,Layup Shot,1,0
+16,15,PT10M08.00S,1,1610612753,ORL,202699,Harris,T. Harris,-26,9,3,Missed,1,0,0,0,v,MISS Harris 3' Layup,Missed Shot,Layup Shot,1,0
+17,15,PT10M08.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (2 BLK),,,1,0
+18,16,PT10M06.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+19,17,PT09M56.00S,1,1610612747,LAL,201941,Hill,J. Hill,-112,145,18,Made,1,4,4,8,h,Hill 18' Jump Shot (4 PTS) (Price 2 AST),Made Shot,Jump Shot,1,0
+20,18,PT09M39.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+21,18,PT09M39.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis STEAL (1 STL),,,1,0
+22,19,PT09M31.00S,1,1610612747,LAL,201961,Ellington,W. Ellington,-213,31,22,Missed,1,0,0,0,h,MISS Ellington 22' Jump Shot,Missed Shot,Jump Shot,1,0
+23,20,PT09M29.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+24,22,PT09M08.00S,1,1610612747,LAL,101179,Price,R. Price,89,233,25,Made,1,7,4,11,h,Price 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,0
+25,23,PT09M01.00S,1,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price P.FOUL (P1.T2),Foul,Personal,1,0
+26,24,PT08M55.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0
+27,25,PT08M38.00S,1,1610612747,LAL,101179,Price,R. Price,-201,149,25,Missed,1,0,0,0,h,MISS Price 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+28,26,PT08M37.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+29,27,PT08M28.00S,1,1610612753,ORL,202699,Harris,T. Harris,-108,0,11,Missed,1,0,0,0,v,MISS Harris 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+30,28,PT08M27.00S,1,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+31,29,PT08M13.00S,1,1610612747,LAL,201941,Hill,J. Hill,-144,118,19,Missed,1,0,0,0,h,MISS Hill 19' Jump Shot,Missed Shot,Jump Shot,1,0
+32,30,PT08M12.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+33,31,PT08M00.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,12,9,2,Made,1,7,6,13,v,Oladipo 2' Driving Reverse Layup (2 PTS) (O'Quinn 1 AST),Made Shot,Driving Reverse Layup Shot,1,0
+34,32,PT07M41.00S,1,1610612747,LAL,201961,Ellington,W. Ellington,6,20,2,Missed,1,0,0,0,h,MISS Ellington 2' Layup,Missed Shot,Layup Shot,1,0
+35,32,PT07M41.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn BLOCK (1 BLK),,,1,0
+36,33,PT07M39.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+37,34,PT07M30.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,-67,104,12,Missed,1,0,0,0,v,MISS O'Quinn 12' Jump Shot,Missed Shot,Jump Shot,1,0
+38,35,PT07M28.00S,1,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+39,36,PT07M21.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn P.FOUL (P1.T1),Foul,Personal,1,0
+40,37,PT07M17.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,-16,11,2,Missed,1,0,0,0,h,MISS Kelly 2' Layup,Missed Shot,Layup Shot,1,0
+41,38,PT07M14.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+42,39,PT07M12.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,1,0,Made,1,9,6,15,h,Davis  Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,1,0
+43,40,PT07M02.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,-16,246,25,Missed,1,0,0,0,v,MISS O'Quinn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+44,41,PT07M01.00S,1,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+45,42,PT06M51.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,223,14,0,Made,1,12,6,18,h,Kelly  3PT Jump Shot (3 PTS) (Ellington 1 AST),Made Shot,Jump Shot,1,0
+46,43,PT06M35.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,19,2,Missed,1,0,0,0,v,MISS Oladipo 2' Layup,Missed Shot,Layup Shot,1,0
+47,43,PT06M35.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (3 BLK),,,1,0
+48,44,PT06M34.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+49,45,PT06M31.00S,1,1610612747,LAL,101179,Price,R. Price,9,12,2,Made,1,14,6,20,h,Price 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+50,46,PT06M31.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton S.FOUL (P1.T2),Foul,Shooting,1,0
+51,47,PT06M31.00S,1,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,MISS Price Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+52,49,PT06M29.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+53,50,PT06M17.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,-70,50,9,Made,1,14,8,22,v,Vucevic 9' Turnaround Hook Shot (4 PTS) (O'Quinn 2 AST),Made Shot,Turnaround Hook Shot,1,0
+54,51,PT06M04.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,129,209,25,Made,1,17,8,25,h,Kelly 25' 3PT Jump Shot (6 PTS) (Price 3 AST),Made Shot,Jump Shot,1,0
+55,52,PT05M46.00S,1,1610612753,ORL,202699,Harris,T. Harris,122,63,14,Missed,1,0,0,0,v,MISS Harris 14' Jump Shot,Missed Shot,Jump Shot,1,0
+56,53,PT05M45.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+57,54,PT05M29.00S,1,1610612747,LAL,202334,Davis,E. Davis,-51,20,5,Missed,1,0,0,0,h,MISS Davis 5' Jump Shot,Missed Shot,Jump Shot,1,0
+58,54,PT05M29.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn BLOCK (2 BLK),,,1,0
+59,55,PT05M28.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+60,56,PT05M11.00S,1,1610612753,ORL,202699,Harris,T. Harris,-10,52,5,Missed,1,0,0,0,v,MISS Harris 5' Jump Shot,Missed Shot,Jump Shot,1,0
+61,57,PT05M10.00S,1,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+62,58,PT05M03.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,-183,165,25,Missed,1,0,0,0,h,MISS Kelly 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+63,59,PT05M02.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+64,60,PT05M02.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis L.B.FOUL (P1.T3),Foul,Loose Ball,1,0
+65,61,PT05M02.00S,1,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+66,63,PT05M02.00S,1,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,SUB: Boozer FOR Davis,Substitution,,0,0
+67,64,PT05M02.00S,1,1610612747,LAL,201961,Ellington,W. Ellington,0,0,0,,0,0,0,0,h,SUB: Young FOR Ellington,Substitution,,0,0
+68,65,PT05M02.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,SUB: Ridnour FOR O'Quinn,Substitution,,0,0
+69,66,PT05M02.00S,1,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,SUB: Frye FOR Payton,Substitution,,0,0
+70,67,PT04M46.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,26,3,Missed,1,0,0,0,v,MISS Oladipo 3' Layup,Missed Shot,Layup Shot,1,0
+71,68,PT04M45.00S,1,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+72,69,PT04M35.00S,1,1610612747,LAL,2430,Boozer,C. Boozer,-19,6,2,Made,1,19,8,27,h,Boozer 2' Driving Layup (2 PTS) (Hill 1 AST),Made Shot,Driving Layup Shot,1,0
+73,70,PT04M20.00S,1,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price P.FOUL (P2.T4),Foul,Personal,1,0
+74,71,PT04M20.00S,1,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,SUB: Lin FOR Price,Substitution,,0,0
+75,72,PT04M20.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,SUB: Fournier FOR Harris,Substitution,,0,0
+76,73,PT04M13.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,1,0,Made,1,19,10,29,v,Oladipo  Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,0
+77,75,PT03M58.00S,1,1610612747,LAL,201941,Hill,J. Hill,-18,183,18,Made,1,21,10,31,h,Hill 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+78,76,PT03M41.00S,1,1610612753,ORL,2557,Ridnour,L. Ridnour,226,3,0,Made,1,21,13,34,v,Ridnour  3PT Jump Shot (3 PTS) (Fournier 1 AST),Made Shot,Jump Shot,1,0
+79,77,PT03M26.00S,1,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+80,77,PT03M26.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic STEAL (1 STL),,,1,0
+81,78,PT03M19.00S,1,1610612753,ORL,2557,Ridnour,L. Ridnour,2,25,3,Missed,1,0,0,0,v,MISS Ridnour 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+82,79,PT03M15.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+83,80,PT03M13.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,1,0,Made,1,21,15,36,v,Vucevic  Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,1,0
+84,81,PT02M58.00S,1,1610612747,LAL,201941,Hill,J. Hill,-18,53,6,Missed,1,0,0,0,h,MISS Hill 6' Jump Shot,Missed Shot,Jump Shot,1,0
+85,82,PT02M55.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+86,83,PT02M54.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo OFF.Foul (P1),Foul,Offensive,1,0
+87,84,PT02M54.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo Foul Turnover (P2.T3),Turnover,Foul,1,0
+88,85,PT02M54.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+89,87,PT02M54.00S,1,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,SUB: Sacre FOR Hill,Substitution,,0,0
+90,88,PT02M54.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,SUB: Dedmon FOR Vucevic,Substitution,,0,0
+91,89,PT02M38.00S,1,1610612747,LAL,202391,Lin,J. Lin,56,241,25,Made,1,24,15,39,h,Lin 25' 3PT Jump Shot (3 PTS) (Sacre 1 AST),Made Shot,Jump Shot,1,0
+92,90,PT02M20.00S,1,1610612753,ORL,203095,Fournier,E. Fournier,124,220,25,Missed,1,0,0,0,v,MISS Fournier 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+93,91,PT02M18.00S,1,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+94,92,PT02M12.00S,1,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+95,92,PT02M12.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo STEAL (1 STL),,,1,0
+96,93,PT02M12.00S,1,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young L.B.FOUL (P1.PN),Foul,Loose Ball,1,0
+97,94,PT02M12.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,24,16,40,v,Oladipo Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+98,96,PT02M12.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,24,17,41,v,Oladipo Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+99,98,PT01M57.00S,1,1610612753,ORL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour S.FOUL (P1.T3),Foul,Shooting,1,0
+100,99,PT01M57.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,25,17,42,h,Kelly Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+101,101,PT01M57.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,SUB: Gordon FOR Oladipo,Substitution,,0,0
+102,102,PT01M57.00S,1,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,26,17,43,h,Kelly Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+103,104,PT01M43.00S,1,1610612753,ORL,203095,Fournier,E. Fournier,-11,7,1,Missed,1,0,0,0,v,MISS Fournier 1' Layup,Missed Shot,Layup Shot,1,0
+104,105,PT01M40.00S,1,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+105,106,PT01M29.00S,1,1610612747,LAL,201156,Young,N. Young,226,1,0,Missed,1,0,0,0,h,MISS Young  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+106,107,PT01M28.00S,1,1610612753,ORL,203473,Dedmon,D. Dedmon,0,0,0,,0,0,0,0,v,Dedmon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+107,108,PT01M18.00S,1,1610612753,ORL,203473,Dedmon,D. Dedmon,-38,23,4,Missed,1,0,0,0,v,MISS Dedmon 4' Jump Shot,Missed Shot,Jump Shot,1,0
+108,108,PT01M18.00S,1,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin BLOCK (1 BLK),,,1,0
+109,109,PT01M16.00S,1,1610612753,ORL,203473,Dedmon,D. Dedmon,0,0,0,,0,0,0,0,v,Dedmon REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+110,110,PT01M10.00S,1,1610612753,ORL,2557,Ridnour,L. Ridnour,206,138,25,Made,1,26,20,46,v,Ridnour 25' 3PT Jump Shot (6 PTS) (Frye 1 AST),Made Shot,Jump Shot,1,0
+111,111,PT00M56.90S,1,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+112,111,PT00M56.90S,1,1610612753,ORL,203473,Dedmon,D. Dedmon,0,0,0,,0,0,0,0,v,Dedmon STEAL (1 STL),,,1,0
+113,112,PT00M50.30S,1,1610612753,ORL,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,v,Gordon Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+114,114,PT00M41.50S,1,1610612747,LAL,201156,Young,N. Young,-209,34,21,Made,1,28,20,48,h,Young 21' Jump Shot (2 PTS) (Lin 1 AST),Made Shot,Jump Shot,1,0
+115,115,PT00M26.80S,1,1610612753,ORL,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,v,Gordon Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0
+116,115,PT00M26.80S,1,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin STEAL (1 STL),,,1,0
+117,116,PT00M25.00S,1,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye Personal Take Foul (P1.PN),Foul,Personal Take,1,0
+118,117,PT00M25.00S,1,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,MISS Lin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+119,118,PT00M25.00S,1,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0
+120,119,PT00M25.00S,1,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,29,20,49,h,Lin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+121,121,PT00M02.90S,1,1610612753,ORL,2557,Ridnour,L. Ridnour,-92,233,25,Missed,1,0,0,0,v,MISS Ridnour 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+122,122,PT00M00.90S,1,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+123,123,PT00M00.60S,1,1610612747,LAL,203527,Kelly,R. Kelly,-142,254,29,Missed,1,0,0,0,h,MISS Kelly 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+124,124,PT00M00.00S,1,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+125,128,PT00M00.00S,1,0,,114,Miner,H. Miner,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+126,125,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,20,49,,End of 1st Period (11:05 PM EST),period,end,0,0
+127,127,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,20,49,,Start of 2nd Period (11:08 PM EST),period,start,0,0
+128,129,PT11M47.00S,2,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+129,129,PT11M47.00S,2,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young STEAL (1 STL),,,1,0
+130,130,PT11M46.00S,2,1610612753,ORL,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,v,Gordon Personal Take Foul (P1.T1),Foul,Personal Take,1,0
+131,131,PT11M46.00S,2,0,,130,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+132,135,PT11M34.00S,2,1610612747,LAL,201156,Young,N. Young,94,235,25,Missed,1,0,0,0,h,MISS Young 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+133,136,PT11M33.00S,2,1610612753,ORL,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,v,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+134,137,PT11M26.00S,2,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+135,137,PT11M26.00S,2,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin STEAL (2 STL),,,1,0
+136,138,PT11M12.00S,2,1610612747,LAL,201156,Young,N. Young,-10,7,1,Made,1,31,20,51,h,Young 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+137,139,PT10M52.00S,2,1610612753,ORL,101112,Frye,C. Frye,127,224,26,Made,1,31,23,54,v,Frye 26' 3PT Jump Shot (3 PTS) (Fournier 2 AST),Made Shot,Jump Shot,1,0
+138,141,PT10M31.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,-79,41,9,Made,1,33,23,56,h,Boozer 9' Jump Bank Shot (4 PTS),Made Shot,Jump Bank Shot,1,0
+139,142,PT10M22.00S,2,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin S.FOUL (P1.T1),Foul,Shooting,1,0
+140,143,PT10M22.00S,2,1610612753,ORL,2732,Gordon,B. Gordon,0,0,0,,0,33,24,57,v,Gordon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+141,145,PT10M22.00S,2,1610612753,ORL,2732,Gordon,B. Gordon,0,0,0,,0,33,25,58,v,Gordon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+142,147,PT10M09.00S,2,1610612747,LAL,201156,Young,N. Young,-23,138,14,Missed,1,0,0,0,h,MISS Young 14' Jump Shot,Missed Shot,Jump Shot,1,0
+143,148,PT10M07.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+144,149,PT10M03.00S,2,1610612747,LAL,202391,Lin,J. Lin,9,17,2,Missed,1,0,0,0,h,MISS Lin 2' Layup,Missed Shot,Layup Shot,1,0
+145,149,PT10M03.00S,2,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton BLOCK (1 BLK),,,1,0
+146,150,PT10M01.00S,2,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+147,151,PT09M54.00S,2,1610612753,ORL,2732,Gordon,B. Gordon,50,19,5,Missed,1,0,0,0,v,MISS Gordon 5' Jump Shot,Missed Shot,Jump Shot,1,0
+148,152,PT09M53.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+149,153,PT09M46.00S,2,1610612747,LAL,201156,Young,N. Young,218,107,24,Missed,1,0,0,0,h,MISS Young 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+150,154,PT09M45.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,0,0,0,,0,0,0,0,h,Sacre REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+151,155,PT09M41.00S,2,1610612747,LAL,202391,Lin,J. Lin,45,242,25,Missed,1,0,0,0,h,MISS Lin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+152,156,PT09M40.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,0,0,0,,0,0,0,0,h,Sacre REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+153,157,PT09M36.00S,2,1610612747,LAL,201156,Young,N. Young,-239,71,25,Missed,1,0,0,0,h,MISS Young 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+154,158,PT09M34.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+155,159,PT09M31.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,15,112,11,Made,1,35,25,60,h,Boozer 11' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+156,160,PT09M31.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+157,162,PT09M31.00S,2,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,SUB: O'Quinn FOR Vucevic,Substitution,,0,0
+158,163,PT09M31.00S,2,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,SUB: Ridnour FOR Payton,Substitution,,0,0
+159,164,PT09M31.00S,2,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,SUB: Harris FOR Frye,Substitution,,0,0
+160,165,PT09M31.00S,2,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,v,SUB: Nicholson FOR Fournier,Substitution,,0,0
+161,166,PT09M31.00S,2,1610612753,ORL,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,v,SUB: Oladipo FOR Gordon,Substitution,,0,0
+162,168,PT09M14.00S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,147,195,24,Made,1,35,28,63,v,Nicholson 24' 3PT Jump Shot (3 PTS) (Oladipo 1 AST),Made Shot,Jump Shot,1,0
+163,169,PT08M51.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,-45,44,6,Missed,1,0,0,0,h,MISS Sacre 6' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,0
+164,170,PT08M49.00S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+165,171,PT08M37.00S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,20,6,2,Missed,1,0,0,0,v,MISS Nicholson 2' Layup,Missed Shot,Layup Shot,1,0
+166,172,PT08M36.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+167,173,PT08M23.00S,2,1610612747,LAL,203903,Clarkson,J. Clarkson,83,97,13,Made,1,37,28,65,h,Clarkson 13' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+168,174,PT08M10.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,15,11,2,Missed,1,0,0,0,v,MISS Oladipo 2' Layup,Missed Shot,Layup Shot,1,0
+169,175,PT08M09.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,0,0,0,,0,0,0,0,h,Sacre REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+170,176,PT08M05.00S,2,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,0,0,0,h,Clarkson Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0
+171,176,PT08M05.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo STEAL (2 STL),,,1,0
+172,177,PT08M02.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,0,0,0,,0,0,0,0,h,Sacre S.FOUL (P1.T2),Foul,Shooting,1,0
+173,178,PT08M02.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,37,29,66,v,Oladipo Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+174,180,PT08M02.00S,2,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Davis FOR Boozer,Substitution,,0,0
+175,181,PT08M02.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,37,30,67,v,Oladipo Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+176,183,PT07M45.00S,2,1610612747,LAL,202334,Davis,E. Davis,-27,12,3,Missed,1,0,0,0,h,MISS Davis 3' Layup,Missed Shot,Layup Shot,1,0
+177,184,PT07M43.00S,2,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,0,0,0,h,Clarkson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+178,185,PT07M42.00S,2,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn S.FOUL (P2.T2),Foul,Shooting,1,0
+179,186,PT07M42.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,0,0,0,,0,0,0,0,h,MISS Sacre Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+180,187,PT07M42.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0
+181,188,PT07M42.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,0,0,0,,0,38,30,68,h,Sacre Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+182,190,PT07M26.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,18,22,3,Missed,1,0,0,0,v,MISS Oladipo 3' Layup,Missed Shot,Layup Shot,1,0
+183,192,PT07M23.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+184,191,PT07M23.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,4,7,1,Made,1,38,32,70,v,Oladipo 1' Tip Shot (10 PTS),Made Shot,Tip Shot,1,0
+185,193,PT07M03.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,17,17,2,Missed,1,0,0,0,h,MISS Sacre 2' Layup,Missed Shot,Layup Shot,1,0
+186,194,PT07M02.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+187,195,PT06M49.00S,2,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn OFF.Foul (P3),Foul,Offensive,1,0
+188,196,PT06M49.00S,2,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn Foul Turnover (P1.T8),Turnover,Foul,1,0
+189,197,PT06M49.00S,2,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,0,0,0,h,SUB: Ellington FOR Clarkson,Substitution,,0,0
+190,198,PT06M49.00S,2,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,SUB: Price FOR Lin,Substitution,,0,0
+191,215,PT06M49.00S,2,1610612747,LAL,203135,Sacre,R. Sacre,0,0,0,,0,0,0,0,h,SUB: Hill FOR Sacre,Substitution,,0,0
+192,200,PT06M37.00S,2,1610612747,LAL,201156,Young,N. Young,-2,153,15,Missed,1,0,0,0,h,MISS Young 15' Jump Shot,Missed Shot,Jump Shot,1,0
+193,201,PT06M33.00S,2,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+194,202,PT06M27.00S,2,1610612753,ORL,203124,O'Quinn,K. O'Quinn,110,26,11,Missed,1,0,0,0,v,MISS O'Quinn 11' Jump Shot,Missed Shot,Jump Shot,1,0
+195,203,PT06M25.00S,2,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+196,204,PT06M05.00S,2,1610612747,LAL,201156,Young,N. Young,-108,241,26,Missed,1,0,0,0,h,MISS Young 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+197,205,PT06M04.00S,2,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+198,206,PT06M02.00S,2,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young OFF.Foul (P2),Foul,Offensive,1,0
+199,207,PT06M02.00S,2,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young Foul Turnover (P2.T5),Turnover,Foul,1,0
+200,208,PT06M02.00S,2,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,0,0,0,h,SUB: Kelly FOR Young,Substitution,,0,0
+201,209,PT05M47.00S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,225,22,0,Missed,1,0,0,0,v,MISS Nicholson  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+202,210,PT05M46.00S,2,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+203,211,PT05M27.00S,2,1610612747,LAL,201941,Hill,J. Hill,-13,37,4,Missed,1,0,0,0,h,MISS Hill 4' Jump Shot,Missed Shot,Jump Shot,1,0
+204,211,PT05M27.00S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson BLOCK (1 BLK),,,1,0
+205,212,PT05M19.00S,2,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+206,213,PT05M19.00S,2,1610612747,LAL,202334,Davis,E. Davis,0,7,1,Made,1,40,32,72,h,Davis 1' Layup (4 PTS),Made Shot,Layup Shot,1,0
+207,237,PT05M19.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+208,214,PT05M19.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+209,219,PT05M07.00S,2,1610612753,ORL,202699,Harris,T. Harris,6,30,3,Made,1,40,34,74,v,Harris 3' Jump Bank Shot (4 PTS),Made Shot,Jump Bank Shot,1,0
+210,220,PT04M51.00S,2,1610612747,LAL,203527,Kelly,R. Kelly,-100,198,22,Missed,1,0,0,0,h,MISS Kelly 22' Jump Shot,Missed Shot,Jump Shot,1,0
+211,221,PT04M51.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+212,222,PT04M44.00S,2,1610612753,ORL,2557,Ridnour,L. Ridnour,-24,9,3,Made,1,40,36,76,v,Ridnour 3' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+213,223,PT04M29.00S,2,1610612747,LAL,201941,Hill,J. Hill,-51,153,16,Made,1,42,36,78,h,Hill 16' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,0
+214,224,PT04M16.00S,2,1610612753,ORL,202699,Harris,T. Harris,127,78,15,Made,1,42,38,80,v,Harris 15' Jump Shot (6 PTS),Made Shot,Jump Shot,1,0
+215,225,PT03M58.00S,2,1610612747,LAL,201961,Ellington,W. Ellington,-130,138,19,Missed,1,0,0,0,h,MISS Ellington 19' Jump Shot,Missed Shot,Jump Shot,1,0
+216,226,PT03M56.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+217,227,PT03M41.00S,2,1610612753,ORL,202699,Harris,T. Harris,-70,239,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+218,228,PT03M40.00S,2,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+219,229,PT03M27.00S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson S.FOUL (P1.T3),Foul,Shooting,1,0
+220,230,PT03M27.00S,2,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+221,231,PT03M27.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0
+222,232,PT03M27.00S,2,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,43,38,81,h,Hill Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+223,234,PT03M15.00S,2,1610612753,ORL,2557,Ridnour,L. Ridnour,130,60,14,Made,1,43,40,83,v,Ridnour 14' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,0
+224,235,PT03M05.00S,2,1610612747,LAL,101179,Price,R. Price,-65,175,19,Made,1,45,40,85,h,Price 19' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,0
+225,236,PT02M55.00S,2,1610612753,ORL,202699,Harris,T. Harris,-231,22,0,Missed,1,0,0,0,v,MISS Harris  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+226,238,PT02M53.00S,2,1610612747,LAL,201961,Ellington,W. Ellington,0,0,0,,0,0,0,0,h,Ellington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+227,239,PT02M44.00S,2,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price OFF.Foul (P3),Foul,Offensive,1,0
+228,240,PT02M44.00S,2,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price Foul Turnover (P1.T6),Turnover,Foul,1,0
+229,241,PT02M44.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+230,244,PT02M44.00S,2,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,SUB: Lin FOR Price,Substitution,,0,0
+231,245,PT02M30.00S,2,1610612753,ORL,202699,Harris,T. Harris,37,56,7,Missed,1,0,0,0,v,MISS Harris 7' Jump Shot,Missed Shot,Jump Shot,1,0
+232,246,PT02M29.00S,2,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+233,247,PT02M16.00S,2,1610612747,LAL,202391,Lin,J. Lin,-23,4,2,Missed,1,0,0,0,h,MISS Lin 2' Layup,Missed Shot,Layup Shot,1,0
+234,247,PT02M16.00S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson BLOCK (2 BLK),,,1,0
+235,248,PT02M14.00S,2,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:5 Def:2),Rebound,Unknown,1,0
+236,249,PT02M10.00S,2,1610612747,LAL,202334,Davis,E. Davis,23,34,4,Made,1,47,40,87,h,Davis 4' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,1,0
+237,250,PT02M02.00S,2,1610612753,ORL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+238,250,PT02M02.00S,2,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin STEAL (3 STL),,,1,0
+239,251,PT02M02.00S,2,1610612753,ORL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour P.FOUL (P2.T4),Foul,Personal,1,0
+240,252,PT01M48.00S,2,1610612747,LAL,201961,Ellington,W. Ellington,73,167,18,Missed,1,0,0,0,h,MISS Ellington 18' Jump Shot,Missed Shot,Jump Shot,1,0
+241,253,PT01M46.00S,2,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+242,254,PT01M38.00S,2,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill S.FOUL (P1.T3),Foul,Shooting,1,0
+243,255,PT01M38.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,47,41,88,v,Oladipo Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+244,257,PT01M38.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,47,42,89,v,Oladipo Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+245,259,PT01M19.00S,2,1610612747,LAL,202391,Lin,J. Lin,-172,190,26,Made,1,50,42,92,h,Lin 26' 3PT Jump Shot (7 PTS) (Davis 1 AST),Made Shot,Jump Shot,1,0
+246,260,PT00M56.90S,2,1610612753,ORL,2557,Ridnour,L. Ridnour,24,164,17,Missed,1,0,0,0,v,MISS Ridnour 17' Jump Shot,Missed Shot,Jump Shot,1,0
+247,261,PT00M55.90S,2,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:5 Def:3),Rebound,Unknown,1,0
+248,262,PT00M48.80S,2,1610612747,LAL,203527,Kelly,R. Kelly,230,20,0,Made,1,53,42,95,h,Kelly  3PT Jump Shot (11 PTS) (Lin 2 AST),Made Shot,Jump Shot,1,0
+249,263,PT00M40.80S,2,1610612753,ORL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0
+250,263,PT00M40.80S,2,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin STEAL (4 STL),,,1,0
+251,264,PT00M39.80S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson Personal Take Foul (P2.PN),Foul,Personal Take,1,0
+252,265,PT00M39.80S,2,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,MISS Lin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+253,278,PT00M39.80S,2,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+254,266,PT00M39.80S,2,0,,264,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+255,269,PT00M39.80S,2,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,54,42,96,h,Lin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+256,270,PT00M30.30S,2,1610612753,ORL,202699,Harris,T. Harris,-239,19,24,Made,1,54,45,99,v,Harris 24' 3PT Jump Shot (9 PTS) (Oladipo 2 AST),Made Shot,Jump Shot,1,0
+257,272,PT00M09.90S,2,1610612747,LAL,201941,Hill,J. Hill,69,201,21,Missed,1,0,0,0,h,MISS Hill 21' Jump Shot,Missed Shot,Jump Shot,1,0
+258,273,PT00M07.90S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+259,274,PT00M00.90S,2,1610612753,ORL,203094,Nicholson,A. Nicholson,1,247,25,Missed,1,0,0,0,v,MISS Nicholson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+260,275,PT00M00.00S,2,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+261,276,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,45,99,,End of 2nd Period (11:39 PM EST),period,end,0,0
+262,279,PT12M00.00S,3,0,,0,,,0,0,0,,0,54,45,99,,Start of 3rd Period (11:55 PM EST),period,start,0,0
+263,280,PT11M48.00S,3,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly P.FOUL (P2.T1),Foul,Personal,1,0
+264,281,PT11M37.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0
+265,281,PT11M37.00S,3,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly STEAL (1 STL),,,1,0
+266,282,PT11M18.00S,3,1610612747,LAL,201961,Ellington,W. Ellington,114,7,11,Made,1,56,45,101,h,Ellington 11' Jump Shot (2 PTS) (Hill 2 AST),Made Shot,Jump Shot,1,0
+267,283,PT11M09.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-153,25,16,Made,1,56,47,103,v,Vucevic 16' Jump Shot (8 PTS) (Payton 2 AST),Made Shot,Jump Shot,1,0
+268,284,PT10M51.00S,3,1610612747,LAL,201961,Ellington,W. Ellington,168,22,17,Made,1,58,47,105,h,Ellington 17' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+269,285,PT10M37.00S,3,1610612753,ORL,202699,Harris,T. Harris,62,153,17,Made,1,58,49,107,v,Harris 17' Jump Shot (11 PTS) (O'Quinn 3 AST),Made Shot,Jump Shot,1,0
+270,286,PT10M16.00S,3,1610612747,LAL,201941,Hill,J. Hill,-4,121,12,Missed,1,0,0,0,h,MISS Hill 12' Jump Shot,Missed Shot,Jump Shot,1,0
+271,287,PT10M15.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+272,288,PT10M07.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0
+273,288,PT10M07.00S,3,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price STEAL (1 STL),,,1,0
+274,289,PT10M02.00S,3,1610612747,LAL,101179,Price,R. Price,-2,154,15,Missed,1,0,0,0,h,MISS Price 15' Jump Shot,Missed Shot,Jump Shot,1,0
+275,290,PT10M00.00S,3,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+276,292,PT09M40.00S,3,1610612747,LAL,203527,Kelly,R. Kelly,89,78,12,Missed,1,0,0,0,h,MISS Kelly 12' Jump Shot,Missed Shot,Jump Shot,1,0
+277,293,PT09M39.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+278,294,PT09M24.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-138,83,16,Missed,1,0,0,0,v,MISS Vucevic 16' Jump Shot,Missed Shot,Jump Shot,1,0
+279,295,PT09M23.00S,3,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+280,296,PT09M08.00S,3,1610612747,LAL,202334,Davis,E. Davis,-98,58,11,Missed,1,0,0,0,h,MISS Davis 11' Jump Shot,Missed Shot,Jump Shot,1,0
+281,297,PT09M07.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+282,298,PT08M59.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,82,8,Missed,1,0,0,0,v,MISS Payton 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+283,299,PT08M56.00S,3,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:5 Def:4),Rebound,Unknown,1,0
+284,300,PT08M51.00S,3,1610612747,LAL,202334,Davis,E. Davis,0,1,0,Made,1,60,49,109,h,Davis  Slam Dunk (8 PTS) (Kelly 1 AST),Made Shot,Slam Dunk Shot,1,0
+285,301,PT08M37.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,1,0,Made,1,60,51,111,v,Oladipo  Slam Dunk (14 PTS) (Vucevic 1 AST),Made Shot,Slam Dunk Shot,1,0
+286,303,PT08M14.00S,3,1610612747,LAL,201941,Hill,J. Hill,-5,45,5,Missed,1,0,0,0,h,MISS Hill 5' Jump Shot,Missed Shot,Jump Shot,1,0
+287,304,PT08M13.00S,3,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:6 Def:4),Rebound,Unknown,1,0
+288,305,PT08M10.00S,3,1610612747,LAL,202334,Davis,E. Davis,6,11,1,Made,1,62,51,113,h,Davis 1' Tip Shot (10 PTS),Made Shot,Tip Shot,1,0
+289,306,PT08M01.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-2,34,3,Missed,1,0,0,0,v,MISS Vucevic 3' Running Hook Shot,Missed Shot,Running Hook Shot,1,0
+290,307,PT08M00.00S,3,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+291,308,PT07M43.00S,3,1610612747,LAL,101179,Price,R. Price,-122,211,24,Missed,1,0,0,0,h,MISS Price 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+292,309,PT07M42.00S,3,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+293,310,PT07M32.00S,3,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price S.FOUL (P4.T2),Foul,Shooting,1,0
+294,311,PT07M32.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,MISS Oladipo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+295,312,PT07M32.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Normal Rebound,0,0
+296,313,PT07M32.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,MISS Oladipo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+297,315,PT07M32.00S,3,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+298,316,PT07M09.00S,3,1610612747,LAL,201941,Hill,J. Hill,-76,80,11,Missed,1,0,0,0,h,MISS Hill 11' Jump Shot,Missed Shot,Jump Shot,1,0
+299,317,PT07M08.00S,3,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+300,319,PT06M43.00S,3,1610612753,ORL,202699,Harris,T. Harris,-4,28,3,Missed,1,0,0,0,v,MISS Harris 3' Layup,Missed Shot,Layup Shot,1,0
+301,320,PT06M41.00S,3,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+302,321,PT06M30.00S,3,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,Hill Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+303,321,PT06M30.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton STEAL (1 STL),,,1,0
+304,322,PT06M26.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,11,1,Made,1,62,53,115,v,Payton 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+305,323,PT06M11.00S,3,1610612747,LAL,201941,Hill,J. Hill,9,19,2,Made,1,64,53,117,h,Hill 2' Reverse Layup (11 PTS) (Price 4 AST),Made Shot,Reverse Layup Shot,1,0
+306,325,PT06M05.00S,3,1610612753,ORL,203901,Payton,E. Payton,-2,20,2,Missed,1,0,0,0,v,MISS Payton 2' Layup,Missed Shot,Layup Shot,1,0
+307,326,PT06M05.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+308,327,PT06M05.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic L.B.FOUL (P1.T1),Foul,Loose Ball,1,0
+309,328,PT05M55.00S,3,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0
+310,328,PT05M55.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris STEAL (1 STL),,,1,0
+311,329,PT05M51.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,1,0,Made,1,64,55,119,v,Vucevic  Slam Dunk (10 PTS) (Harris 1 AST),Made Shot,Slam Dunk Shot,1,0
+312,330,PT05M25.00S,3,1610612747,LAL,101179,Price,R. Price,0,140,14,Missed,1,0,0,0,h,MISS Price 14' Jump Shot,Missed Shot,Jump Shot,1,0
+313,330,PT05M25.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton BLOCK (2 BLK),,,1,0
+314,331,PT05M24.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+315,332,PT05M20.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,1,0,Made,1,64,57,121,v,Oladipo  Alley Oop Dunk (16 PTS) (Harris 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+316,333,PT05M12.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+317,335,PT05M12.00S,3,1610612747,LAL,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,SUB: Boozer FOR Davis,Substitution,,0,0
+318,336,PT05M12.00S,3,1610612747,LAL,201941,Hill,J. Hill,0,0,0,,0,0,0,0,h,SUB: Black FOR Hill,Substitution,,0,0
+319,337,PT05M12.00S,3,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,SUB: Lin FOR Price,Substitution,,0,0
+320,339,PT05M05.00S,3,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0
+321,340,PT04M52.00S,3,1610612753,ORL,202699,Harris,T. Harris,-141,108,18,Missed,1,0,0,0,v,MISS Harris 18' Jump Shot,Missed Shot,Jump Shot,1,0
+322,341,PT04M51.00S,3,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+323,342,PT04M27.00S,3,1610612747,LAL,201961,Ellington,W. Ellington,228,58,24,Missed,1,0,0,0,h,MISS Ellington 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+324,343,PT04M26.00S,3,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+325,344,PT04M14.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,-177,50,18,Missed,1,0,0,0,v,MISS Oladipo 18' Jump Shot,Missed Shot,Jump Shot,1,0
+326,345,PT04M12.00S,3,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+327,346,PT03M51.00S,3,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0
+328,349,PT03M51.00S,3,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,SUB: Fournier FOR Payton,Substitution,,0,0
+329,350,PT03M41.00S,3,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer S.FOUL (P1.T3),Foul,Shooting,1,0
+330,351,PT03M41.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,64,58,122,v,Oladipo Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+331,353,PT03M41.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,SUB: Ridnour FOR Harris,Substitution,,0,0
+332,354,PT03M41.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,MISS Oladipo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+333,356,PT03M40.00S,3,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+334,357,PT03M19.00S,3,1610612747,LAL,203527,Kelly,R. Kelly,124,58,14,Missed,1,0,0,0,h,MISS Kelly 14' Jump Shot,Missed Shot,Jump Shot,1,0
+335,358,PT03M18.00S,3,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+336,359,PT03M14.00S,3,1610612747,LAL,202391,Lin,J. Lin,-86,233,25,Missed,1,0,0,0,h,MISS Lin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+337,360,PT03M14.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+338,361,PT03M14.00S,3,1610612747,LAL,201961,Ellington,W. Ellington,0,0,0,,0,0,0,0,h,SUB: Young FOR Ellington,Substitution,,0,0
+339,362,PT02M52.00S,3,1610612753,ORL,203124,O'Quinn,K. O'Quinn,-38,167,17,Missed,1,0,0,0,v,MISS O'Quinn 17' Jump Shot,Missed Shot,Jump Shot,1,0
+340,363,PT02M51.00S,3,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+341,364,PT02M44.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo S.FOUL (P2.T2),Foul,Shooting,1,0
+342,365,PT02M44.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+343,368,PT02M44.00S,3,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,SUB: Frye FOR O'Quinn,Substitution,,0,0
+344,369,PT02M44.00S,3,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,65,58,123,h,Young Free Throw 1 of 3 (5 PTS),Free Throw,Free Throw 1 of 3,0,0
+345,371,PT02M44.00S,3,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,66,58,124,h,Young Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,0,0
+346,373,PT02M44.00S,3,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,67,58,125,h,Young Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,0,0
+347,375,PT02M22.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-71,39,8,Missed,1,0,0,0,v,MISS Vucevic 8' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,0
+348,376,PT02M20.00S,3,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+349,377,PT02M01.00S,3,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye S.FOUL (P2.T3),Foul,Shooting,1,0
+350,378,PT02M01.00S,3,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,68,58,126,h,Lin Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+351,380,PT02M01.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,SUB: Nicholson FOR Vucevic,Substitution,,0,0
+352,381,PT02M01.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,SUB: Harris FOR Oladipo,Substitution,,0,0
+353,382,PT02M01.00S,3,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,69,58,127,h,Lin Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+354,384,PT01M49.00S,3,1610612753,ORL,203095,Fournier,E. Fournier,28,12,3,Made,1,69,60,129,v,Fournier 3' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,0
+355,385,PT01M32.00S,3,1610612747,LAL,201156,Young,N. Young,-34,249,25,Missed,1,0,0,0,h,MISS Young 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+356,386,PT01M31.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+357,387,PT01M24.00S,3,1610612753,ORL,203095,Fournier,E. Fournier,9,4,1,Made,1,69,62,131,v,Fournier 1' Layup (4 PTS) (Harris 3 AST),Made Shot,Layup Shot,1,0
+358,388,PT01M03.00S,3,1610612747,LAL,204028,Black,T. Black,0,50,5,Made,1,71,62,133,h,Black 5' Running Hook Shot (2 PTS) (Lin 3 AST),Made Shot,Running Hook Shot,1,0
+359,389,PT00M46.80S,3,1610612753,ORL,203094,Nicholson,A. Nicholson,-4,23,2,Made,1,71,64,135,v,Nicholson 2' Layup (5 PTS) (Frye 2 AST),Made Shot,Layup Shot,1,0
+360,390,PT00M34.20S,3,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye P.FOUL (P3.T4),Foul,Personal,1,0
+361,391,PT00M28.00S,3,1610612747,LAL,202391,Lin,J. Lin,-16,19,2,Missed,1,0,0,0,h,MISS Lin 2' Layup,Missed Shot,Layup Shot,1,0
+362,393,PT00M26.80S,3,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+363,392,PT00M26.80S,3,1610612747,LAL,204028,Black,T. Black,-5,9,1,Made,1,73,64,137,h,Black 1' Tip Shot (4 PTS),Made Shot,Tip Shot,1,0
+364,394,PT00M07.70S,3,1610612753,ORL,101112,Frye,C. Frye,-128,220,25,Made,1,73,67,140,v,Frye 25' 3PT Jump Shot (6 PTS) (Ridnour 1 AST),Made Shot,Jump Shot,1,0
+365,395,PT00M00.00S,3,0,,0,,,0,0,0,,0,73,67,140,,End of 3rd Period (12:18 AM EST),period,end,0,0
+366,397,PT12M00.00S,4,0,,0,,,0,0,0,,0,73,67,140,,Start of 4th Period (12:21 AM EST),period,start,0,0
+367,398,PT11M50.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson P.FOUL (P3.T1),Foul,Personal,1,0
+368,399,PT11M50.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Turnover: 5 Second Inbound (T#11),Turnover,5 Second Inbound Turnover,1,0
+369,400,PT11M50.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+370,401,PT11M41.00S,4,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young P.FOUL (P3.T1),Foul,Personal,1,0
+371,403,PT11M41.00S,4,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye OFF.Foul (P4),Foul,Offensive,1,0
+372,404,PT11M41.00S,4,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye Foul Turnover (P2.T13),Turnover,Foul,1,0
+373,405,PT11M41.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+374,409,PT11M32.00S,4,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0
+375,409,PT11M32.00S,4,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye STEAL (1 STL),,,1,0
+376,410,PT11M26.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black P.FOUL (P1.T2),Foul,Personal,1,0
+377,411,PT11M21.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,-10,11,1,Made,1,73,69,142,v,Fournier 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+378,412,PT11M21.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,0,0,0,h,Clarkson S.FOUL (P1.T3),Foul,Shooting,1,0
+379,413,PT11M21.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,73,70,143,v,Fournier Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+380,416,PT10M57.00S,4,1610612747,LAL,202391,Lin,J. Lin,65,154,17,Made,1,75,70,145,h,Lin 17' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+381,417,PT10M41.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,64,178,19,Missed,1,0,0,0,v,MISS Fournier 19' Jump Shot,Missed Shot,Jump Shot,1,0
+382,418,PT10M40.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+383,419,PT10M28.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,1,61,6,Missed,1,0,0,0,h,MISS Boozer 6' Jump Shot,Missed Shot,Jump Shot,1,0
+384,420,PT10M27.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+385,421,PT10M26.00S,4,1610612747,LAL,204028,Black,T. Black,-16,12,2,Made,1,77,70,147,h,Black 2' Layup (6 PTS),Made Shot,Layup Shot,1,0
+386,422,PT10M26.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson S.FOUL (P4.T2),Foul,Shooting,1,0
+387,423,PT10M26.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,0,0,0,h,SUB: Ellington FOR Clarkson,Substitution,,0,0
+388,424,PT10M26.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,78,70,148,h,Black Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+389,426,PT10M18.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson OFF.Foul (P5),Foul,Offensive,1,0
+390,427,PT10M18.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson Foul Turnover (P1.T14),Turnover,Foul,1,0
+391,428,PT10M18.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,SUB: Vucevic FOR Nicholson,Substitution,,0,0
+392,429,PT10M02.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,1,23,2,Missed,1,0,0,0,h,MISS Boozer 2' Layup,Missed Shot,Layup Shot,1,0
+393,430,PT10M01.00S,4,1610612753,ORL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+394,432,PT09M51.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black P.FOUL (P2.T4),Foul,Personal,0,0
+395,433,PT09M41.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,6,3,1,Missed,1,0,0,0,v,MISS Fournier 1' Layup,Missed Shot,Layup Shot,1,0
+396,433,PT09M41.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer BLOCK (1 BLK),,,1,0
+397,434,PT09M39.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+398,435,PT09M39.00S,4,1610612753,ORL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour S.FOUL (P3.T3),Foul,Shooting,1,0
+399,436,PT09M39.00S,4,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,79,70,149,h,Young Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+400,438,PT09M39.00S,4,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,80,70,150,h,Young Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+401,440,PT09M28.00S,4,1610612753,ORL,2557,Ridnour,L. Ridnour,-92,164,19,Missed,1,0,0,0,v,MISS Ridnour 19' Jump Shot,Missed Shot,Jump Shot,1,0
+402,441,PT09M27.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+403,442,PT09M17.00S,4,1610612747,LAL,202391,Lin,J. Lin,13,11,2,Made,1,82,70,152,h,Lin 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,0
+404,443,PT09M07.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic OFF.Foul (P2),Foul,Offensive,1,0
+405,444,PT09M07.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic Foul Turnover (P1.T15),Turnover,Foul,1,0
+406,445,PT09M07.00S,4,1610612753,ORL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,SUB: Oladipo FOR Ridnour,Substitution,,0,0
+407,446,PT08M54.00S,4,1610612747,LAL,201156,Young,N. Young,91,167,19,Missed,1,0,0,0,h,MISS Young 19' Jump Shot,Missed Shot,Jump Shot,1,0
+408,447,PT08M53.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+409,448,PT08M42.00S,4,1610612753,ORL,202699,Harris,T. Harris,17,9,2,Made,1,82,72,154,v,Harris 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,0
+410,449,PT08M24.00S,4,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,Oladipo S.FOUL (P3.T4),Foul,Shooting,1,0
+411,450,PT08M24.00S,4,0,,449,,,0,0,0,,0,0,0,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0
+412,451,PT08M24.00S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,MISS Lin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+413,452,PT08M24.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0
+414,453,PT08M24.00S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,MISS Lin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+415,455,PT08M23.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+416,457,PT08M07.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,-13,19,2,Missed,1,0,0,0,v,MISS Vucevic 2' Layup,Missed Shot,Layup Shot,1,0
+417,458,PT08M06.00S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+418,459,PT07M59.00S,4,1610612747,LAL,201156,Young,N. Young,-106,101,15,Missed,1,0,0,0,h,MISS Young 15' Jump Shot,Missed Shot,Jump Shot,1,0
+419,460,PT07M57.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+420,461,PT07M57.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,v,SUB: Payton FOR Fournier,Substitution,,0,0
+421,462,PT07M52.00S,4,1610612747,LAL,201961,Ellington,W. Ellington,-111,222,25,Missed,1,0,0,0,h,MISS Ellington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+422,463,PT07M51.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+423,464,PT07M37.00S,4,1610612747,LAL,201156,Young,N. Young,-62,75,10,Missed,1,0,0,0,h,MISS Young 10' Jump Shot,Missed Shot,Jump Shot,1,0
+424,465,PT07M36.00S,4,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+425,466,PT07M23.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,10,7,1,Missed,1,0,0,0,v,MISS Vucevic 1' Layup,Missed Shot,Layup Shot,1,0
+426,466,PT07M23.00S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin BLOCK (2 BLK),,,1,0
+427,467,PT07M22.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+428,468,PT07M22.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer S.FOUL (P2.PN),Foul,Shooting,1,0
+429,469,PT07M22.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,82,73,155,v,Vucevic Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+430,471,PT07M22.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,82,74,156,v,Vucevic Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+431,473,PT07M09.00S,4,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris P.FOUL (P1.PN),Foul,Personal,1,0
+432,475,PT07M09.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,83,74,157,h,Black Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+433,477,PT07M09.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,84,74,158,h,Black Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+434,479,PT06M51.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,32,67,7,Made,1,84,76,160,v,Vucevic 7' Hook Shot (14 PTS) (Oladipo 3 AST),Made Shot,Hook Shot,1,0
+435,480,PT06M33.00S,4,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton S.FOUL (P2.PN),Foul,Shooting,1,0
+436,481,PT06M33.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,85,76,161,h,Black Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+437,483,PT06M33.00S,4,1610612747,LAL,201156,Young,N. Young,0,0,0,,0,0,0,0,h,SUB: Kelly FOR Young,Substitution,,0,0
+438,484,PT06M33.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,86,76,162,h,Black Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+439,487,PT06M21.00S,4,1610612753,ORL,202699,Harris,T. Harris,0,1,0,Made,1,86,78,164,v,Harris  Slam Dunk (15 PTS) (Frye 3 AST),Made Shot,Slam Dunk Shot,1,0
+440,488,PT06M03.00S,4,1610612747,LAL,202391,Lin,J. Lin,125,119,17,Missed,1,0,0,0,h,MISS Lin 17' Jump Shot,Missed Shot,Jump Shot,1,0
+441,489,PT06M01.00S,4,1610612747,LAL,201961,Ellington,W. Ellington,0,0,0,,0,0,0,0,h,Ellington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+442,490,PT05M54.00S,4,1610612747,LAL,204028,Black,T. Black,0,1,0,Made,1,88,78,166,h,Black  Slam Dunk (13 PTS) (Lin 4 AST),Made Shot,Slam Dunk Shot,1,0
+443,491,PT05M45.00S,4,1610612753,ORL,202699,Harris,T. Harris,-15,14,2,Missed,1,0,0,0,v,MISS Harris 2' Layup,Missed Shot,Layup Shot,1,0
+444,492,PT05M45.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+445,493,PT05M45.00S,4,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,Payton P.FOUL (P3.PN),Foul,Personal,1,0
+446,494,PT05M45.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+447,496,PT05M45.00S,4,1610612747,LAL,201961,Ellington,W. Ellington,0,0,0,,0,0,0,0,h,SUB: Price FOR Ellington,Substitution,,0,0
+448,498,PT05M45.00S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,89,78,167,h,Lin Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+449,500,PT05M45.00S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,MISS Lin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+450,502,PT05M44.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+451,503,PT05M35.00S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin Violation:Kicked Ball,Violation,Kicked Ball,0,0
+452,504,PT05M27.00S,4,1610612753,ORL,101112,Frye,C. Frye,-149,197,25,Missed,1,0,0,0,v,MISS Frye 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+453,505,PT05M26.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:10),Rebound,Unknown,1,0
+454,506,PT05M15.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,-30,156,16,Made,1,91,78,169,h,Boozer 16' Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+455,507,PT05M02.00S,4,1610612753,ORL,101112,Frye,C. Frye,129,105,17,Missed,1,0,0,0,v,MISS Frye 17' Jump Shot,Missed Shot,Jump Shot,1,0
+456,508,PT05M00.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:11),Rebound,Unknown,1,0
+457,509,PT04M45.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,-2,7,1,Made,1,93,78,171,h,Boozer 1' Layup (10 PTS) (Lin 5 AST),Made Shot,Layup Shot,1,0
+458,510,PT04M22.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,-89,36,10,Missed,1,0,0,0,v,MISS Vucevic 10' Jump Shot,Missed Shot,Jump Shot,1,0
+459,511,PT04M21.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:12),Rebound,Unknown,1,0
+460,512,PT04M13.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,17,142,14,Made,1,95,78,173,h,Boozer 14' Jump Shot (12 PTS) (Lin 6 AST),Made Shot,Jump Shot,1,0
+461,513,PT04M07.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+462,515,PT04M07.00S,4,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,SUB: O'Quinn FOR Harris,Substitution,,0,0
+463,516,PT04M07.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,v,SUB: Marble FOR Vucevic,Substitution,,0,0
+464,517,PT04M07.00S,4,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,v,SUB: Ridnour FOR Oladipo,Substitution,,0,0
+465,518,PT04M07.00S,4,1610612753,ORL,203901,Payton,E. Payton,0,0,0,,0,0,0,0,v,SUB: Fournier FOR Payton,Substitution,,0,0
+466,519,PT04M07.00S,4,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,SUB: Nicholson FOR Frye,Substitution,,0,0
+467,521,PT03M46.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,0,0
+468,522,PT03M34.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,-7,17,2,Missed,1,0,0,0,h,MISS Boozer 2' Layup,Missed Shot,Layup Shot,1,0
+469,523,PT03M33.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:2 Def:12),Rebound,Unknown,1,0
+470,524,PT03M32.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,-4,14,1,Missed,1,0,0,0,h,MISS Boozer 1' Layup,Missed Shot,Layup Shot,1,0
+471,525,PT03M32.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black REBOUND (Off:5 Def:3),Rebound,Unknown,1,0
+472,526,PT03M32.00S,4,1610612753,ORL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour S.FOUL (P4.PN),Foul,Shooting,1,0
+473,527,PT03M32.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,96,78,174,h,Black Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+474,529,PT03M32.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+475,531,PT03M32.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0
+476,532,PT03M32.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer L.B.FOUL (P3.PN),Foul,Loose Ball,1,0
+477,533,PT03M32.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,MISS Nicholson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+478,534,PT03M32.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Normal Rebound,0,0
+479,535,PT03M32.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,MISS Nicholson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+480,537,PT03M31.00S,4,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+481,538,PT03M19.00S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin Bad Pass Turnover (P5.T13),Turnover,Bad Pass,1,0
+482,538,PT03M19.00S,4,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn STEAL (1 STL),,,1,0
+483,539,PT03M04.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,-21,23,3,Missed,1,0,0,0,v,MISS Nicholson 3' Jump Shot,Missed Shot,Jump Shot,1,0
+484,539,PT03M04.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black BLOCK (1 BLK),,,1,0
+485,540,PT03M02.00S,4,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,0,0,0,h,Kelly REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+486,541,PT02M42.00S,4,1610612747,LAL,2430,Boozer,C. Boozer,-105,78,13,Missed,1,0,0,0,h,MISS Boozer 13' Jump Shot,Missed Shot,Jump Shot,1,0
+487,542,PT02M39.00S,4,1610612753,ORL,203906,Marble,D. Marble,0,0,0,,0,0,0,0,v,Marble REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+488,543,PT02M31.00S,4,1610612753,ORL,2557,Ridnour,L. Ridnour,65,129,14,Missed,1,0,0,0,v,MISS Ridnour 14' Jump Shot,Missed Shot,Jump Shot,1,0
+489,544,PT02M30.00S,4,1610612747,LAL,204028,Black,T. Black,0,0,0,,0,0,0,0,h,Black REBOUND (Off:5 Def:4),Rebound,Unknown,1,0
+490,545,PT02M07.00S,4,1610612747,LAL,202391,Lin,J. Lin,-127,102,16,Missed,1,0,0,0,h,MISS Lin 16' Jump Shot,Missed Shot,Jump Shot,1,0
+491,546,PT02M07.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0
+492,547,PT02M07.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,0
+493,548,PT02M07.00S,4,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,SUB: Dedmon FOR O'Quinn,Substitution,,0,0
+494,549,PT01M58.00S,4,1610612747,LAL,101179,Price,R. Price,0,0,0,,0,0,0,0,h,Price S.FOUL (P5.PN),Foul,Shooting,1,0
+495,550,PT01M58.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,96,79,175,v,Fournier Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+496,552,PT01M58.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,96,80,176,v,Fournier Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+497,554,PT01M40.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,v,Fournier S.FOUL (P1.PN),Foul,Shooting,1,0
+498,555,PT01M40.00S,4,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,97,80,177,h,Kelly Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+499,557,PT01M40.00S,4,1610612747,LAL,203527,Kelly,R. Kelly,0,0,0,,0,98,80,178,h,Kelly Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+500,559,PT01M17.00S,4,1610612753,ORL,2557,Ridnour,L. Ridnour,36,206,21,Made,1,98,82,180,v,Ridnour 21' Jump Shot (12 PTS) (Marble 1 AST),Made Shot,Jump Shot,1,0
+501,560,PT00M56.90S,4,1610612747,LAL,2430,Boozer,C. Boozer,-7,30,3,Missed,1,0,0,0,h,MISS Boozer 3' Jump Shot,Missed Shot,Jump Shot,1,0
+502,561,PT00M54.80S,4,1610612753,ORL,203906,Marble,D. Marble,0,0,0,,0,0,0,0,v,Marble REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+503,562,PT00M46.90S,4,1610612753,ORL,203906,Marble,D. Marble,94,138,17,Missed,1,0,0,0,v,MISS Marble 17' Jump Shot,Missed Shot,Jump Shot,1,0
+504,563,PT00M45.90S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+505,564,PT00M24.40S,4,1610612747,LAL,202391,Lin,J. Lin,163,195,25,Made,1,101,82,183,h,Lin 25' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,0
+506,565,PT00M16.20S,4,1610612747,LAL,202391,Lin,J. Lin,0,0,0,,0,0,0,0,h,Lin P.FOUL (P2.PN),Foul,Personal,1,0
+507,566,PT00M16.20S,4,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,101,83,184,v,Fournier Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+508,568,PT00M16.20S,4,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,101,84,185,v,Fournier Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+509,570,PT00M00.00S,4,0,,0,,,0,0,0,,0,101,84,185,,End of 4th Period (12:56 AM EST),period,end,0,0

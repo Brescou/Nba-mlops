@@ -1,0 +1,491 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Jump Ball Gasol vs. Gortat: Tip to Dudley,Jump Ball,,1,0
+3,2,PT11M37.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+4,2,PT11M37.00S,1,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore STEAL (1 STL),,,1,0
+5,3,PT11M26.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,-20,-11,2,Made,1,2,0,2,h,Gibson 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+6,4,PT11M13.00S,1,1610612764,WAS,202066,Temple,G. Temple,115,213,24,Made,1,2,3,5,v,Temple 24' 3PT Jump Shot (3 PTS) (Wall 1 AST),Made Shot,Jump Shot,1,0
+7,5,PT10M50.00S,1,1610612741,CHI,203503,Snell,T. Snell,-58,208,22,Made,1,4,3,7,h,Snell 22' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+8,6,PT10M37.00S,1,1610612764,WAS,202322,Wall,J. Wall,-169,-6,17,Made,1,4,5,9,v,Wall 17' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+9,7,PT10M23.00S,1,1610612741,CHI,202734,Moore,E. Moore,-240,-24,24,Missed,1,0,0,0,h,MISS Moore 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+10,8,PT10M22.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+11,9,PT10M18.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,174,-10,17,Made,1,4,7,11,v,Porter Jr. 17' Jump Shot (2 PTS) (Wall 2 AST),Made Shot,Jump Shot,1,0
+12,10,PT10M02.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,-2,13,1,Made,1,6,7,13,h,Gibson 1' Driving Layup (4 PTS) (Snell 1 AST),Made Shot,Driving Layup Shot,1,0
+13,11,PT10M02.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,0
+14,12,PT10M02.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,MISS Gibson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+15,14,PT10M00.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+16,15,PT09M47.00S,1,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+17,15,PT09M47.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol STEAL (1 STL),,,1,0
+18,16,PT09M38.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,228,-11,0,Made,1,9,7,16,h,Dunleavy  3PT Jump Shot (3 PTS) (Snell 2 AST),Made Shot,Jump Shot,1,0
+19,17,PT09M20.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,-124,183,22,Made,1,9,9,18,v,Dudley 22' Jump Shot (2 PTS) (Temple 1 AST),Made Shot,Jump Shot,1,0
+20,18,PT09M03.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,6,244,24,Missed,1,0,0,0,h,MISS Gasol 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+21,19,PT09M01.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+22,21,PT08M58.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley Offensive Charge Foul (P1.T2) (J.Capers),Foul,Offensive Charge,1,0
+23,22,PT08M58.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley Foul Turnover (P2.T3),Turnover,Foul,1,0
+24,23,PT08M42.00S,1,1610612741,CHI,203503,Snell,T. Snell,-37,244,25,Made,1,12,9,21,h,Snell 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+25,24,PT08M30.00S,1,1610612764,WAS,202066,Temple,G. Temple,-189,169,25,Missed,1,0,0,0,v,MISS Temple 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+26,25,PT08M29.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+27,27,PT08M17.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-11,-1,1,Made,1,14,9,23,h,Dunleavy 1' Driving Layup (5 PTS) (Gasol 1 AST),Made Shot,Driving Layup Shot,1,0
+28,28,PT08M04.00S,1,1610612764,WAS,202066,Temple,G. Temple,78,174,19,Made,1,14,11,25,v,Temple 19' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,0
+29,29,PT07M57.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. P.FOUL (P1.T3) (L.Richardson),Foul,Personal,1,0
+30,30,PT07M50.00S,1,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell Offensive Charge Foul (P1.T1) (S.Twardoski),Foul,Offensive Charge,1,0
+31,31,PT07M50.00S,1,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell Foul Turnover (P1.T1),Turnover,Foul,1,0
+32,32,PT07M35.00S,1,1610612764,WAS,202322,Wall,J. Wall,-171,175,24,Missed,1,0,0,0,v,MISS Wall 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+33,33,PT07M34.00S,1,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+34,34,PT07M29.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,228,0,0,Missed,1,0,0,0,h,MISS Dunleavy  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+35,35,PT07M27.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+36,36,PT07M18.00S,1,1610612764,WAS,202066,Temple,G. Temple,-238,-5,24,Made,1,14,14,28,v,Temple 24' 3PT Jump Shot (8 PTS) (Dudley 1 AST),Made Shot,Jump Shot,1,0
+37,37,PT07M04.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,19,46,5,Missed,1,0,0,0,h,MISS Gibson 5' Jump Shot,Missed Shot,Jump Shot,1,0
+38,37,PT07M04.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat BLOCK (1 BLK),,,1,0
+39,38,PT07M02.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+40,39,PT06M57.00S,1,1610612764,WAS,202066,Temple,G. Temple,184,169,25,Missed,1,0,0,0,v,MISS Temple 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+41,40,PT06M57.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+42,41,PT06M57.00S,1,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore L.B.FOUL (P1.T2) (S.Twardoski),Foul,Loose Ball,1,0
+43,43,PT06M47.00S,1,1610612764,WAS,202322,Wall,J. Wall,48,159,17,Made,1,14,16,30,v,Wall 17' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+44,44,PT06M33.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-16,247,25,Missed,1,0,0,0,h,MISS Dunleavy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+45,45,PT06M32.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+46,46,PT06M23.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,114,223,25,Missed,1,0,0,0,v,MISS Dudley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+47,47,PT06M21.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+48,48,PT06M03.00S,1,1610612741,CHI,203503,Snell,T. Snell,-11,52,5,Missed,1,0,0,0,h,MISS Snell 5' Jump Shot,Missed Shot,Jump Shot,1,0
+49,49,PT06M02.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+50,50,PT05M58.00S,1,1610612764,WAS,202066,Temple,G. Temple,30,-1,3,Missed,1,0,0,0,v,MISS Temple 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+51,50,PT05M58.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy BLOCK (1 BLK),,,1,0
+52,52,PT05M56.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+53,51,PT05M56.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,1,0,Missed,1,0,0,0,v,MISS Porter Jr.  Putback Dunk,Missed Shot,Putback Dunk Shot,1,0
+54,53,PT05M49.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+55,54,PT05M47.00S,1,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+56,54,PT05M47.00S,1,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple STEAL (1 STL),,,1,0
+57,55,PT05M47.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy P.FOUL (P1.T3) (J.Capers),Foul,Personal,1,0
+58,56,PT05M47.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+59,57,PT05M47.00S,1,0,,23,Rodman,D. Rodman,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+60,59,PT05M47.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: McDermott FOR Dunleavy,Substitution,,0,0
+61,60,PT05M47.00S,1,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,SUB: Brooks FOR Moore,Substitution,,0,0
+62,61,PT05M47.00S,1,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,SUB: Beal FOR Temple,Substitution,,0,0
+63,62,PT05M35.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley Bad Pass Turnover (P3.T4),Turnover,Bad Pass,1,0
+64,62,PT05M35.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson STEAL (1 STL),,,1,0
+65,63,PT05M33.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall S.FOUL (P2.T4) (L.Richardson),Foul,Shooting,1,0
+66,64,PT05M33.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,15,16,31,h,Gasol Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+67,66,PT05M33.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,SUB: Sessions FOR Wall,Substitution,,0,0
+68,67,PT05M33.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,16,16,32,h,Gasol Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+69,70,PT05M12.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-109,190,22,Missed,1,0,0,0,v,MISS Porter Jr. 22' Jump Shot,Missed Shot,Jump Shot,1,0
+70,71,PT05M10.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+71,72,PT05M02.00S,1,1610612741,CHI,203503,Snell,T. Snell,-115,218,25,Made,1,19,16,35,h,Snell 25' 3PT Jump Shot (8 PTS) (Gasol 2 AST),Made Shot,Jump Shot,1,0
+72,73,PT04M52.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,v,Beal Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0
+73,74,PT04M32.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,-70,18,7,Missed,1,0,0,0,h,MISS Gibson 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+74,75,PT04M31.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+75,76,PT04M23.00S,1,1610612764,WAS,201196,Sessions,R. Sessions,-138,43,14,Made,1,19,18,37,v,Sessions 14' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+76,77,PT04M10.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,-12,2,1,Made,1,21,18,39,h,Gibson 1' Alley Oop Layup (6 PTS) (Gasol 3 AST),Made Shot,Alley Oop Layup shot,1,0
+77,78,PT03M56.00S,1,1610612764,WAS,201196,Sessions,R. Sessions,-156,195,25,Missed,1,0,0,0,v,MISS Sessions 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+78,79,PT03M55.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+79,80,PT03M42.00S,1,1610612764,WAS,203078,Beal,B. Beal,94,180,20,Missed,1,0,0,0,v,MISS Beal 20' Jump Shot,Missed Shot,Jump Shot,1,0
+80,81,PT03M41.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+81,82,PT03M38.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,30,-1,3,Made,1,23,18,41,h,Gasol 3' Cutting Layup Shot (4 PTS) (Brooks 1 AST),Made Shot,Cutting Layup Shot,1,0
+82,83,PT03M32.00S,1,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell S.FOUL (P2.T4) (L.Richardson),Foul,Shooting,1,0
+83,84,PT03M32.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,23,19,42,v,Beal Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+84,86,PT03M32.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Portis FOR Gibson,Substitution,,0,0
+85,87,PT03M32.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,SUB: Mark Morris FOR Gortat,Substitution,,0,0
+86,88,PT03M32.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,SUB: Nene FOR Dudley,Substitution,,0,0
+87,95,PT03M32.00S,1,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,SUB: Holiday FOR Snell,Substitution,,0,0
+88,89,PT03M32.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,23,20,43,v,Beal Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+89,92,PT03M18.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,143,198,24,Made,1,26,20,46,h,Holiday 24' 3PT Jump Shot (3 PTS) (Gasol 4 AST),Made Shot,Jump Shot,1,0
+90,94,PT03M02.00S,1,1610612764,WAS,2403,Hilario,Nene,101,151,18,Made,1,26,22,48,v,Nene 18' Jump Shot (2 PTS) (Sessions 1 AST),Made Shot,Jump Shot,1,0
+91,96,PT02M55.00S,1,1610612741,CHI,201166,Brooks,A. Brooks,-18,5,2,Missed,1,0,0,0,h,MISS Brooks 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+92,97,PT02M53.00S,1,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+93,98,PT02M49.00S,1,1610612764,WAS,203078,Beal,B. Beal,-22,252,25,Missed,1,0,0,0,v,MISS Beal 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+94,99,PT02M48.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+95,100,PT02M44.00S,1,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis Out Of Bounds Turnover (P1.T3),Turnover,Out Of Bounds,1,0
+96,102,PT02M44.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+97,106,PT02M27.00S,1,1610612764,WAS,2403,Hilario,Nene,-12,51,5,Missed,1,0,0,0,v,MISS Nene 5' Jump Shot,Missed Shot,Jump Shot,1,0
+98,107,PT02M27.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+99,108,PT02M27.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Porter Jr.,Substitution,,0,0
+100,109,PT02M14.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,-230,61,24,Missed,1,0,0,0,h,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+101,110,PT02M12.00S,1,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+102,111,PT02M03.00S,1,1610612764,WAS,201196,Sessions,R. Sessions,-3,44,4,Missed,1,0,0,0,v,MISS Sessions 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+103,112,PT02M02.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+104,113,PT01M50.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+105,113,PT01M50.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,v,Beal STEAL (1 STL),,,1,0
+106,114,PT01M40.00S,1,1610612764,WAS,202693,Morris,M. Morris,46,213,22,Missed,1,0,0,0,v,MISS Mark Morris 22' Jump Shot,Missed Shot,Jump Shot,1,0
+107,115,PT01M39.00S,1,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+108,116,PT01M37.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,Holiday S.FOUL (P1.PN) (J.Capers),Foul,Shooting,1,0
+109,117,PT01M37.00S,1,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,26,23,49,v,Sessions Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+110,121,PT01M37.00S,1,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,26,24,50,v,Sessions Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+111,119,PT01M20.00S,1,1610612741,CHI,201166,Brooks,A. Brooks,6,13,1,Made,1,28,24,52,h,Brooks 1' Layup (2 PTS) (Gasol 5 AST),Made Shot,Layup Shot,1,0
+112,120,PT01M13.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol S.FOUL (P1.PN) (L.Richardson),Foul,Shooting,1,0
+113,122,PT01M13.00S,1,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,28,25,53,v,Nene Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+114,124,PT01M13.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,SUB: Felicio FOR Gasol,Substitution,,0,0
+115,125,PT01M13.00S,1,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,28,26,54,v,Nene Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+116,127,PT01M01.00S,1,1610612741,CHI,203926,McDermott,D. McDermott,-227,21,0,Missed,1,0,0,0,h,MISS McDermott  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+117,128,PT00M59.40S,1,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,Sessions REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+118,129,PT00M56.90S,1,1610612764,WAS,203078,Beal,B. Beal,-9,7,1,Made,1,28,28,56,v,Beal 1' Layup (4 PTS) (Sessions 2 AST),Made Shot,Layup Shot,1,0
+119,131,PT00M47.80S,1,1610612741,CHI,201166,Brooks,A. Brooks,163,7,16,Missed,1,0,0,0,h,MISS Brooks 16' Jump Shot,Missed Shot,Jump Shot,1,0
+120,132,PT00M45.90S,1,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+121,133,PT00M29.90S,1,1610612764,WAS,202693,Morris,M. Morris,151,21,15,Missed,1,0,0,0,v,MISS Mark Morris 15' Jump Shot,Missed Shot,Jump Shot,1,0
+122,134,PT00M29.80S,1,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,McDermott REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+123,135,PT00M29.80S,1,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson P.FOUL (P1.PN) (J.Capers),Foul,Personal,1,0
+124,137,PT00M05.90S,1,1610612741,CHI,201166,Brooks,A. Brooks,64,242,25,Missed,1,0,0,0,h,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+125,138,PT00M05.80S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,1,0
+126,139,PT00M05.80S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+127,140,PT00M05.80S,1,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,SUB: Wall FOR Anderson,Substitution,,0,0
+128,141,PT00M01.90S,1,1610612764,WAS,201196,Sessions,R. Sessions,-243,-16,24,Made,1,28,31,59,v,Sessions 24' 3PT Jump Shot (7 PTS) (Wall 3 AST),Made Shot,Jump Shot,1,0
+129,142,PT00M00.10S,1,1610612741,CHI,201166,Brooks,A. Brooks,187,581,61,Missed,1,0,0,0,h,MISS Brooks 61' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+130,144,PT00M00.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+131,143,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,31,59,,End of 1st Period (8:35 PM EST),period,end,0,0
+132,146,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,31,59,,Start of 2nd Period (8:38 PM EST),period,start,0,0
+133,147,PT11M49.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,24,2,2,Missed,1,0,0,0,h,MISS McDermott 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+134,148,PT11M45.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+135,149,PT11M45.00S,2,1610612764,WAS,201196,Sessions,R. Sessions,-17,13,2,Made,1,28,33,61,v,Sessions 2' Layup (9 PTS) (Mark Morris 1 AST),Made Shot,Layup Shot,1,0
+136,150,PT11M45.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,h,Brooks S.FOUL (P1.T1) (J.Capers),Foul,Shooting,1,0
+137,151,PT11M45.00S,2,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,28,34,62,v,Sessions Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0
+138,153,PT11M35.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,-45,51,7,Made,1,30,34,64,h,Brooks 7' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,0
+139,154,PT11M10.00S,2,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+140,154,PT11M10.00S,2,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,Felicio STEAL (1 STL),,,1,0
+141,155,PT11M01.00S,2,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson S.FOUL (P2.T1) (L.Richardson),Foul,Shooting,1,0
+142,156,PT11M01.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,MISS Portis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+143,157,PT11M01.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+144,158,PT11M01.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,31,34,65,h,Portis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+145,162,PT10M39.00S,2,1610612764,WAS,203078,Beal,B. Beal,-233,51,24,Missed,1,0,0,0,v,MISS Beal 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+146,163,PT10M37.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+147,164,PT10M30.00S,2,1610612741,CHI,1626171,Portis,B. Portis,25,26,4,Missed,1,0,0,0,h,MISS Portis 4' Jump Shot,Missed Shot,Jump Shot,1,0
+148,164,PT10M30.00S,2,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene BLOCK (1 BLK),,,1,0
+149,165,PT10M30.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+150,170,PT10M15.00S,2,1610612741,CHI,1626171,Portis,B. Portis,181,-16,18,Missed,1,0,0,0,h,MISS Portis 18' Jump Shot,Missed Shot,Jump Shot,1,0
+151,166,PT10M14.00S,2,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+152,167,PT10M01.00S,2,1610612764,WAS,202693,Morris,M. Morris,168,-5,17,Missed,1,0,0,0,v,MISS Mark Morris 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+153,168,PT09M58.00S,2,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,Felicio REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+154,169,PT09M54.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,h,SUB: Moore FOR Brooks,Substitution,,0,0
+155,171,PT09M54.00S,2,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene L.B.FOUL (P1.T2) (J.Capers),Foul,Loose Ball,1,0
+156,172,PT09M47.00S,2,1610612741,CHI,1626171,Portis,B. Portis,9,16,2,Made,1,33,34,67,h,Portis 2' Layup (3 PTS) (McDermott 1 AST),Made Shot,Layup Shot,1,0
+157,174,PT09M39.00S,2,1610612764,WAS,203078,Beal,B. Beal,-22,252,25,Missed,1,0,0,0,v,MISS Beal 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+158,176,PT09M38.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,McDermott REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+159,179,PT09M24.00S,2,1610612741,CHI,1626245,Felicio,C. Felicio,0,1,0,Made,1,35,34,69,h,Felicio  Cutting Dunk Shot (2 PTS) (Holiday 1 AST),Made Shot,Cutting Dunk Shot,1,0
+160,180,PT09M00.00S,2,1610612764,WAS,101187,Anderson,A. Anderson,-32,-1,3,Made,1,35,36,71,v,Anderson 3' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,1,0
+161,181,PT09M00.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,McDermott S.FOUL (P1.T2) (L.Richardson),Foul,Shooting,1,0
+162,182,PT09M00.00S,2,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,SUB: Wall FOR Sessions,Substitution,,0,0
+163,183,PT09M00.00S,2,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,35,37,72,v,Anderson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+164,186,PT08M46.00S,2,1610612741,CHI,202734,Moore,E. Moore,-53,51,7,Made,1,37,37,74,h,Moore 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,0
+165,187,PT08M38.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis S.FOUL (P1.T3) (L.Richardson),Foul,Shooting,1,0
+166,188,PT08M38.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+167,191,PT08M38.00S,2,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,0,0,0,h,SUB: Dunleavy FOR Holiday,Substitution,,0,0
+168,193,PT08M38.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,37,38,75,v,Mark Morris Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+169,195,PT08M38.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,37,39,76,v,Mark Morris Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+170,197,PT08M25.00S,2,1610612741,CHI,202734,Moore,E. Moore,-133,169,22,Missed,1,0,0,0,h,MISS Moore 22' Jump Shot,Missed Shot,Jump Shot,1,0
+171,198,PT08M24.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+172,199,PT08M23.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,McDermott P.FOUL (P2.T4) (L.Richardson),Foul,Personal,1,0
+173,201,PT08M08.00S,2,1610612764,WAS,202693,Morris,M. Morris,40,110,12,Made,1,37,41,78,v,Mark Morris 12' Jump Shot (4 PTS) (Wall 4 AST),Made Shot,Jump Shot,1,0
+174,202,PT07M47.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+175,202,PT07M47.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall STEAL (1 STL),,,1,0
+176,203,PT07M36.00S,2,1610612764,WAS,202322,Wall,J. Wall,-183,61,19,Missed,1,0,0,0,v,MISS Wall 19' Jump Shot,Missed Shot,Jump Shot,1,0
+177,204,PT07M36.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+178,205,PT07M36.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy L.B.FOUL (P2.PN) (L.Richardson),Foul,Loose Ball,1,0
+179,206,PT07M36.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,37,42,79,v,Mark Morris Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+180,208,PT07M36.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,SUB: Snell FOR McDermott,Substitution,,0,0
+181,209,PT07M36.00S,2,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,SUB: Temple FOR Anderson,Substitution,,0,0
+182,210,PT07M36.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,MISS Mark Morris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+183,211,PT07M34.00S,2,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,Felicio REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+184,212,PT07M17.00S,2,1610612741,CHI,202734,Moore,E. Moore,119,174,21,Missed,1,0,0,0,h,MISS Moore 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+185,213,PT07M16.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,v,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+186,214,PT07M05.00S,2,1610612764,WAS,202693,Morris,M. Morris,-20,178,18,Missed,1,0,0,0,v,MISS Mark Morris 18' Jump Shot,Missed Shot,Jump Shot,1,0
+187,215,PT07M04.00S,2,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+188,216,PT06M51.00S,2,1610612741,CHI,1626171,Portis,B. Portis,14,46,5,Missed,1,0,0,0,h,MISS Portis 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,0
+189,217,PT06M50.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+190,218,PT06M43.00S,2,1610612764,WAS,203078,Beal,B. Beal,-179,164,24,Missed,1,0,0,0,v,MISS Beal 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+191,219,PT06M42.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+192,220,PT06M34.00S,2,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,BULLS T.Foul (Def. 3 Sec Felicio ) (J.Capers),Foul,Defense 3 Second,1,0
+193,221,PT06M34.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,37,43,80,v,Wall Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+194,223,PT06M34.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,v,SUB: Dudley FOR Beal,Substitution,,0,0
+195,224,PT06M34.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,SUB: Porter Jr. FOR Mark Morris,Substitution,,0,0
+196,225,PT06M34.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Portis,Substitution,,0,0
+197,226,PT06M34.00S,2,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,SUB: Gasol FOR Felicio,Substitution,,0,0
+198,227,PT06M28.00S,2,1610612764,WAS,202066,Temple,G. Temple,-176,174,25,Missed,1,0,0,0,v,MISS Temple 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+199,228,PT06M27.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+200,229,PT06M18.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,10,52,5,Missed,1,0,0,0,h,MISS Gibson 5' Jump Shot,Missed Shot,Jump Shot,1,0
+201,230,PT06M17.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+202,231,PT06M16.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-27,11,3,Made,1,39,43,82,h,Gibson 3' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,0
+203,232,PT06M16.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1,0
+204,233,PT06M16.00S,2,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,SUB: Gortat FOR Nene,Substitution,,0,0
+205,234,PT06M16.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,40,43,83,h,Gibson Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+206,237,PT06M03.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,161,188,25,Missed,1,0,0,0,v,MISS Dudley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+207,238,PT06M01.00S,2,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+208,240,PT05M54.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+209,242,PT05M47.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley S.FOUL (P2.T4) (J.Capers),Foul,Shooting,1,0
+210,243,PT05M47.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,41,43,84,h,Gibson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+211,245,PT05M47.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,42,43,85,h,Gibson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+212,247,PT05M33.00S,2,1610612764,WAS,202322,Wall,J. Wall,20,-1,2,Made,1,42,45,87,v,Wall 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0
+213,248,PT05M10.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,-115,21,12,Made,1,44,45,89,h,Gasol 12' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+214,249,PT04M48.00S,2,1610612764,WAS,202066,Temple,G. Temple,-40,110,12,Made,1,44,47,91,v,Temple 12' Jump Shot (10 PTS),Made Shot,Jump Shot,1,0
+215,250,PT04M27.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,210,21,Missed,1,0,0,0,h,MISS Gasol 21' Jump Shot,Missed Shot,Jump Shot,1,0
+216,251,PT04M25.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+217,252,PT04M16.00S,2,1610612764,WAS,202322,Wall,J. Wall,-117,151,19,Missed,1,0,0,0,v,MISS Wall 19' Jump Shot,Missed Shot,Jump Shot,1,0
+218,253,PT04M16.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+219,255,PT04M00.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,25,16,3,Missed,1,0,0,0,h,MISS Dunleavy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+220,256,PT03M59.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+221,257,PT03M51.00S,2,1610612764,WAS,101162,Gortat,M. Gortat,4,11,1,Missed,1,0,0,0,v,MISS Gortat 1' Layup,Missed Shot,Layup Shot,1,0
+222,259,PT03M50.00S,2,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+223,258,PT03M50.00S,2,1610612764,WAS,101162,Gortat,M. Gortat,24,-1,2,Made,1,44,49,93,v,Gortat 2' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,0
+224,260,PT03M36.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,1,0,Made,1,46,49,95,h,Gibson  Driving Dunk (13 PTS) (Snell 3 AST),Made Shot,Driving Dunk Shot,1,0
+225,261,PT03M36.00S,2,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat S.FOUL (P1.PN) (L.Richardson),Foul,Shooting,1,0
+226,262,PT03M36.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,SUB: Beal FOR Porter Jr.,Substitution,,0,0
+227,263,PT03M36.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,47,49,96,h,Gibson Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0
+228,265,PT03M26.00S,2,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,1,0
+229,266,PT03M26.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,47,50,97,v,Wall Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+230,268,PT03M26.00S,2,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,SUB: Brooks FOR Moore,Substitution,,0,0
+231,269,PT03M26.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,MISS Wall Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+232,271,PT03M24.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+233,272,PT03M05.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol Offensive Charge Foul (P2.PN) (S.Twardoski),Foul,Offensive Charge,1,0
+234,273,PT03M05.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol Foul Turnover (P1.T7),Turnover,Foul,1,0
+235,275,PT02M45.00S,2,1610612764,WAS,202322,Wall,J. Wall,-9,244,24,Missed,1,0,0,0,v,MISS Wall 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+236,277,PT02M44.00S,2,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+237,276,PT02M44.00S,2,1610612764,WAS,101162,Gortat,M. Gortat,-1,13,1,Made,1,47,52,99,v,Gortat 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,0
+238,278,PT02M27.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-27,2,3,Made,1,49,52,101,h,Gibson 3' Reverse Layup (16 PTS) (Gasol 6 AST),Made Shot,Reverse Layup Shot,1,0
+239,279,PT02M27.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,1,0
+240,280,PT02M27.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+241,292,PT02M27.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,SUB: Mark Morris FOR Dudley,Substitution,,0,0
+242,281,PT02M27.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,50,52,102,h,Gibson Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0
+243,284,PT02M09.00S,2,1610612764,WAS,203078,Beal,B. Beal,20,-5,2,Made,1,50,54,104,v,Beal 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+244,285,PT01M49.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,15,11,2,Made,1,52,54,106,h,Gasol 2' Cutting Layup Shot (8 PTS) (Gibson 1 AST),Made Shot,Cutting Layup Shot,1,0
+245,286,PT01M33.00S,2,1610612764,WAS,202693,Morris,M. Morris,58,178,19,Missed,1,0,0,0,v,MISS Mark Morris 19' Jump Shot,Missed Shot,Jump Shot,1,0
+246,287,PT01M33.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+247,288,PT01M33.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy L.B.FOUL (P3.PN) (J.Capers),Foul,Loose Ball,1,0
+248,289,PT01M33.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,MISS Temple Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+249,290,PT01M33.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+250,291,PT01M33.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,SUB: McDermott FOR Gasol,Substitution,,0,0
+251,293,PT01M33.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Portis FOR Dunleavy,Substitution,,0,0
+252,294,PT01M33.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,52,55,107,v,Temple Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+253,297,PT01M22.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple S.FOUL (P2.PN) (J.Capers),Foul,Shooting,1,0
+254,298,PT01M22.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,h,MISS Brooks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+255,299,PT01M22.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+256,300,PT01M22.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,53,55,108,h,Brooks Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+257,302,PT01M00.00S,2,1610612764,WAS,202322,Wall,J. Wall,-124,111,17,Missed,1,0,0,0,v,MISS Wall 17' Jump Shot,Missed Shot,Jump Shot,1,0
+258,303,PT00M58.90S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+259,304,PT00M50.90S,2,1610612741,CHI,201166,Brooks,A. Brooks,123,159,20,Made,1,55,55,110,h,Brooks 20' Jump Shot (7 PTS),Made Shot,Jump Shot,1,0
+260,305,PT00M45.90S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+261,305,PT00M45.90S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson STEAL (2 STL),,,1,0
+262,306,PT00M33.90S,2,1610612741,CHI,203503,Snell,T. Snell,-204,139,25,Missed,1,0,0,0,h,MISS Snell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+263,307,PT00M32.90S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+264,308,PT00M20.90S,2,1610612764,WAS,203078,Beal,B. Beal,-156,8,16,Missed,1,0,0,0,v,MISS Beal 16' Jump Shot,Missed Shot,Jump Shot,1,0
+265,309,PT00M19.40S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+266,310,PT00M00.80S,2,1610612741,CHI,201166,Brooks,A. Brooks,32,-5,3,Made,1,57,55,112,h,Brooks 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+267,311,PT00M00.00S,2,0,,0,,,0,0,0,,0,57,55,112,,End of 2nd Period (9:10 PM EST),period,end,0,0
+268,313,PT12M00.00S,3,0,,0,,,0,0,0,,0,57,55,112,,Start of 3rd Period (9:27 PM EST),period,start,0,0
+269,314,PT11M45.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,7,16,2,Made,1,59,55,114,h,Dunleavy 2' Cutting Layup Shot (7 PTS) (Gasol 7 AST),Made Shot,Cutting Layup Shot,1,0
+270,315,PT11M21.00S,3,1610612764,WAS,201162,Dudley,J. Dudley,61,180,19,Missed,1,0,0,0,v,MISS Dudley 19' Jump Shot,Missed Shot,Jump Shot,1,0
+271,316,PT11M20.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+272,318,PT10M59.00S,3,1610612741,CHI,203503,Snell,T. Snell,1,16,2,Made,1,61,55,116,h,Snell 2' Cutting Layup Shot (10 PTS) (Gibson 2 AST),Made Shot,Cutting Layup Shot,1,0
+273,319,PT10M44.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,4,7,1,Made,1,61,57,118,v,Gortat 1' Layup (6 PTS) (Dudley 2 AST),Made Shot,Layup Shot,1,0
+274,320,PT10M29.00S,3,1610612741,CHI,202734,Moore,E. Moore,10,13,2,Made,1,63,57,120,h,Moore 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+275,322,PT10M28.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+276,324,PT10M03.00S,3,1610612764,WAS,201162,Dudley,J. Dudley,56,247,25,Made,1,63,60,123,v,Dudley 25' 3PT Jump Shot (5 PTS) (Wall 5 AST),Made Shot,Jump Shot,1,0
+277,325,PT09M46.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0
+278,325,PT09M46.00S,3,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley STEAL (1 STL),,,1,0
+279,326,PT09M42.00S,3,1610612764,WAS,202066,Temple,G. Temple,-4,7,1,Missed,1,0,0,0,v,MISS Temple 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+280,327,PT09M41.00S,3,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+281,328,PT09M35.00S,3,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley P.FOUL (P4.T1) (S.Twardoski),Foul,Personal,1,0
+282,329,PT09M35.00S,3,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,SUB: Mark Morris FOR Dudley,Substitution,,0,0
+283,330,PT09M21.00S,3,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0
+284,330,PT09M21.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall STEAL (2 STL),,,1,0
+285,331,PT09M15.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,1,0,Made,1,63,62,125,v,Wall  Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,0
+286,332,PT08M57.00S,3,1610612741,CHI,203503,Snell,T. Snell,87,232,25,Made,1,66,62,128,h,Snell 25' 3PT Jump Shot (13 PTS) (Gibson 3 AST),Made Shot,Jump Shot,1,0
+287,333,PT08M40.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,101,56,12,Missed,1,0,0,0,v,MISS Gortat 12' Jump Shot,Missed Shot,Jump Shot,1,0
+288,334,PT08M39.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+289,335,PT08M26.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-16,0,2,Made,1,68,62,130,h,Dunleavy 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+290,336,PT08M14.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+291,337,PT07M58.00S,3,1610612741,CHI,202734,Moore,E. Moore,-240,-16,24,Made,1,71,62,133,h,Moore 24' 3PT Jump Shot (7 PTS) (Gibson 4 AST),Made Shot,Jump Shot,1,0
+292,338,PT07M43.00S,3,1610612764,WAS,202322,Wall,J. Wall,-138,149,20,Missed,1,0,0,0,v,MISS Wall 20' Jump Shot,Missed Shot,Jump Shot,1,0
+293,339,PT07M42.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+294,340,PT07M36.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,233,-21,0,Made,1,74,62,136,h,Dunleavy  3PT Jump Shot (12 PTS) (Moore 1 AST),Made Shot,Jump Shot,1,0
+295,341,PT07M34.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+296,343,PT07M34.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,SUB: Beal FOR Porter Jr.,Substitution,,0,0
+297,344,PT07M16.00S,3,1610612764,WAS,203078,Beal,B. Beal,102,146,18,Missed,1,0,0,0,v,MISS Beal 18' Jump Shot,Missed Shot,Jump Shot,1,0
+298,345,PT07M16.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+299,346,PT07M03.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple P.FOUL (P3.T2) (J.Capers),Foul,Personal,1,0
+300,347,PT06M58.00S,3,1610612741,CHI,202734,Moore,E. Moore,-20,2,2,Made,1,76,62,138,h,Moore 2' Cutting Layup Shot (9 PTS) (Gasol 8 AST),Made Shot,Cutting Layup Shot,1,0
+301,348,PT06M40.00S,3,1610612764,WAS,202066,Temple,G. Temple,227,7,0,Made,1,76,65,141,v,Temple  3PT Jump Shot (14 PTS) (Beal 1 AST),Made Shot,Jump Shot,1,0
+302,349,PT06M24.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson 3 Second Violation Turnover (P1.T10),Turnover,3 Second Violation,1,0
+303,350,PT06M12.00S,3,1610612764,WAS,202066,Temple,G. Temple,232,-10,0,Missed,1,0,0,0,v,MISS Temple  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+304,351,PT06M10.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+305,352,PT06M03.00S,3,1610612741,CHI,202734,Moore,E. Moore,-173,156,23,Missed,1,0,0,0,h,MISS Moore 23' Jump Shot,Missed Shot,Jump Shot,1,0
+306,353,PT06M02.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+307,354,PT05M58.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall P.FOUL (P3.T3) (J.Capers),Foul,Personal,1,0
+308,355,PT05M49.00S,3,1610612741,CHI,203503,Snell,T. Snell,-137,90,16,Missed,1,0,0,0,h,MISS Snell 16' Jump Shot,Missed Shot,Jump Shot,1,0
+309,356,PT05M49.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+310,357,PT05M49.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson L.B.FOUL (P1.T1) (J.Capers),Foul,Loose Ball,1,0
+311,358,PT05M49.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: McDermott FOR Dunleavy,Substitution,,0,0
+312,359,PT05M49.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Portis FOR Gibson,Substitution,,0,0
+313,360,PT05M42.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,30,7,3,Made,1,76,67,143,v,Gortat 3' Cutting Layup Shot (8 PTS) (Wall 6 AST),Made Shot,Cutting Layup Shot,1,0
+314,362,PT05M22.00S,3,1610612741,CHI,202734,Moore,E. Moore,1,56,6,Missed,1,0,0,0,h,MISS Moore 6' Jump Shot,Missed Shot,Jump Shot,1,0
+315,363,PT05M22.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+316,364,PT05M13.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,1,0
+317,365,PT05M13.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,77,67,144,h,Gasol Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+318,367,PT05M13.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,78,67,145,h,Gasol Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+319,369,PT05M01.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,v,Beal Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+320,369,PT05M01.00S,3,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore STEAL (2 STL),,,1,0
+321,370,PT04M47.00S,3,1610612741,CHI,203503,Snell,T. Snell,37,7,4,Missed,1,0,0,0,h,MISS Snell 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+322,371,PT04M46.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,v,Beal REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+323,372,PT04M31.00S,3,1610612764,WAS,202693,Morris,M. Morris,4,170,17,Missed,1,0,0,0,v,MISS Mark Morris 17' Jump Shot,Missed Shot,Jump Shot,1,0
+324,373,PT04M30.00S,3,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+325,374,PT04M18.00S,3,1610612741,CHI,203926,McDermott,D. McDermott,-160,198,25,Missed,1,0,0,0,h,MISS McDermott 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+326,375,PT04M17.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+327,376,PT04M14.00S,3,1610612741,CHI,1626171,Portis,B. Portis,9,208,21,Missed,1,0,0,0,h,MISS Portis 21' Jump Shot,Missed Shot,Jump Shot,1,0
+328,377,PT04M13.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+329,378,PT04M09.00S,3,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell S.FOUL (P3.T2) (L.Richardson),Foul,Shooting,1,0
+330,379,PT04M09.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,78,68,146,v,Wall Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+331,381,PT04M09.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Temple,Substitution,,0,0
+332,382,PT04M09.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,SUB: Nene FOR Gortat,Substitution,,0,0
+333,383,PT04M09.00S,3,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,SUB: Brooks FOR Moore,Substitution,,0,0
+334,384,PT04M09.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,MISS Wall Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+335,386,PT04M07.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+336,387,PT03M51.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,102,100,14,Missed,1,0,0,0,h,MISS Brooks 14' Jump Shot,Missed Shot,Jump Shot,1,0
+337,387,PT03M51.00S,3,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene BLOCK (2 BLK),,,1,0
+338,388,PT03M50.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+339,389,PT03M47.00S,3,1610612764,WAS,202322,Wall,J. Wall,-9,0,1,Missed,1,0,0,0,v,MISS Wall 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+340,390,PT03M46.00S,3,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,McDermott REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+341,391,PT03M40.00S,3,1610612741,CHI,203503,Snell,T. Snell,-130,223,26,Made,1,81,68,149,h,Snell 26' 3PT Jump Shot (16 PTS) (McDermott 2 AST),Made Shot,Jump Shot,1,0
+342,392,PT03M19.00S,3,1610612764,WAS,202322,Wall,J. Wall,156,193,25,Missed,1,0,0,0,v,MISS Wall 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+343,393,PT03M18.00S,3,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+344,394,PT03M06.00S,3,1610612741,CHI,203926,McDermott,D. McDermott,0,1,0,Made,1,83,68,151,h,McDermott  Driving Dunk (2 PTS) (Brooks 2 AST),Made Shot,Driving Dunk Shot,1,0
+345,395,PT02M47.00S,3,1610612764,WAS,101187,Anderson,A. Anderson,-235,-5,24,Made,1,83,71,154,v,Anderson 24' 3PT Jump Shot (6 PTS) (Wall 7 AST),Made Shot,Jump Shot,1,0
+346,396,PT02M25.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,25,2,3,Made,1,85,71,156,h,Brooks 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,0
+347,398,PT02M19.00S,3,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis Violation:Defensive Goaltending (J.Capers),Violation,Defensive Goaltending,0,0
+348,397,PT02M19.00S,3,1610612764,WAS,203078,Beal,B. Beal,12,7,1,Made,1,85,73,158,v,Beal 1' Layup (8 PTS),Made Shot,Layup Shot,1,0
+349,400,PT02M19.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+350,401,PT02M19.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,SUB: Felicio FOR Gasol,Substitution,,0,0
+351,402,PT02M19.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,SUB: Sessions FOR Wall,Substitution,,0,0
+352,403,PT02M03.00S,3,1610612741,CHI,203926,McDermott,D. McDermott,92,21,9,Missed,1,0,0,0,h,MISS McDermott 9' Jump Shot,Missed Shot,Jump Shot,1,0
+353,404,PT02M02.00S,3,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+354,405,PT01M50.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris OFF.Foul (P1) (S.Twardoski),Foul,Offensive,1,0
+355,406,PT01M50.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris Foul Turnover (P1.T10),Turnover,Foul,1,0
+356,407,PT01M36.00S,3,1610612741,CHI,203926,McDermott,D. McDermott,-6,3,1,Made,1,87,73,160,h,McDermott 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+357,408,PT01M23.00S,3,1610612764,WAS,2403,Hilario,Nene,176,11,18,Made,1,87,75,162,v,Nene 18' Jump Shot (6 PTS),Made Shot,Jump Shot,1,0
+358,409,PT01M03.00S,3,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,McDermott Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0
+359,409,PT01M03.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris STEAL (1 STL),,,1,0
+360,410,PT00M58.90S,3,1610612764,WAS,201196,Sessions,R. Sessions,19,16,2,Missed,1,0,0,0,v,MISS Sessions 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+361,411,PT00M55.40S,3,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+362,412,PT00M51.70S,3,1610612741,CHI,201166,Brooks,A. Brooks,-120,213,24,Missed,1,0,0,0,h,MISS Brooks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+363,413,PT00M50.90S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+364,414,PT00M41.90S,3,1610612764,WAS,203078,Beal,B. Beal,-14,2,1,Made,1,87,77,164,v,Beal 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+365,416,PT00M28.90S,3,1610612741,CHI,1626171,Portis,B. Portis,173,183,25,Missed,1,0,0,0,h,MISS Portis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+366,417,PT00M27.40S,3,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+367,418,PT00M08.90S,3,1610612764,WAS,203078,Beal,B. Beal,19,-6,2,Made,1,87,79,166,v,Beal 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,0
+368,419,PT00M01.60S,3,1610612741,CHI,201166,Brooks,A. Brooks,-65,72,10,Missed,1,0,0,0,h,MISS Brooks 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+369,421,PT00M00.60S,3,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+370,420,PT00M00.20S,3,1610612741,CHI,1626171,Portis,B. Portis,19,2,2,Made,1,89,79,168,h,Portis 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,0
+371,424,PT00M00.00S,3,0,,420,Williams,J. Williams,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+372,422,PT00M00.00S,3,0,,0,,,0,0,0,,0,89,79,168,,End of 3rd Period (9:51 PM EST),period,end,0,0
+373,425,PT12M00.00S,4,0,,0,,,0,0,0,,0,89,79,168,,Start of 4th Period (9:55 PM EST),period,start,0,0
+374,426,PT11M42.00S,4,1610612764,WAS,203078,Beal,B. Beal,12,111,11,Missed,1,0,0,0,v,MISS Beal 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+375,427,PT11M41.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+376,428,PT11M36.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,-17,11,2,Missed,1,0,0,0,v,MISS Sessions 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+377,428,PT11M36.00S,4,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,Felicio BLOCK (1 BLK),,,1,0
+378,429,PT11M35.00S,4,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,Felicio REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+379,430,PT11M20.00S,4,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,h,Brooks Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0
+380,430,PT11M20.00S,4,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene STEAL (1 STL),,,1,0
+381,431,PT11M16.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,-4,13,1,Made,1,89,81,170,v,Sessions 1' Layup (12 PTS) (Nene 1 AST),Made Shot,Layup Shot,1,0
+382,432,PT11M16.00S,4,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,h,Brooks S.FOUL (P2.T1) (S.Twardoski),Foul,Shooting,1,0
+383,433,PT11M16.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,MISS Sessions Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+384,435,PT11M14.00S,4,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+385,436,PT10M59.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris S.FOUL (P2.T1) (S.Twardoski),Foul,Shooting,1,0
+386,437,PT10M59.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,90,81,171,h,McDermott Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+387,440,PT10M59.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,91,81,172,h,McDermott Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+388,442,PT10M37.00S,4,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,Felicio S.FOUL (P1.T2) (J.Capers),Foul,Shooting,1,0
+389,443,PT10M37.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,91,82,173,v,Beal Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+390,445,PT10M37.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,91,83,174,v,Beal Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+391,447,PT10M23.00S,4,1610612741,CHI,203503,Snell,T. Snell,-4,56,6,Missed,1,0,0,0,h,MISS Snell 6' Jump Shot,Missed Shot,Jump Shot,1,0
+392,447,PT10M23.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris BLOCK (1 BLK),,,1,0
+393,448,PT10M21.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,Sessions REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+394,449,PT10M14.00S,4,1610612764,WAS,101187,Anderson,A. Anderson,-227,-10,0,Missed,1,0,0,0,v,MISS Anderson  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+395,450,PT10M13.00S,4,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+396,451,PT10M01.00S,4,1610612741,CHI,1626171,Portis,B. Portis,50,115,13,Missed,1,0,0,0,h,MISS Portis 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+397,452,PT10M00.00S,4,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+398,453,PT09M46.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,15,47,5,Made,1,91,85,176,v,Sessions 5' Jump Shot (14 PTS) (Anderson 1 AST),Made Shot,Jump Shot,1,0
+399,454,PT09M25.00S,4,1610612741,CHI,201166,Brooks,A. Brooks,4,272,27,Missed,1,0,0,0,h,MISS Brooks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+400,455,PT09M24.00S,4,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,Felicio REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+401,456,PT09M24.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,Sessions P.FOUL (P1.T2) (J.Capers),Foul,Personal,1,0
+402,457,PT09M24.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,SUB: Dudley FOR Mark Morris,Substitution,,0,0
+403,458,PT09M06.00S,4,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0
+404,458,PT09M06.00S,4,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene STEAL (2 STL),,,1,0
+405,459,PT08M54.00S,4,1610612764,WAS,2403,Hilario,Nene,4,178,18,Missed,1,0,0,0,v,MISS Nene 18' Jump Shot,Missed Shot,Jump Shot,1,0
+406,460,PT08M53.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,McDermott REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+407,461,PT08M44.00S,4,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,Portis Bad Pass Turnover (P4.T14),Turnover,Bad Pass,1,0
+408,461,PT08M44.00S,4,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene STEAL (3 STL),,,1,0
+409,462,PT08M37.00S,4,1610612764,WAS,101187,Anderson,A. Anderson,-48,252,26,Made,1,91,88,179,v,Anderson 26' 3PT Jump Shot (9 PTS) (Sessions 3 AST),Made Shot,Jump Shot,1,0
+410,463,PT08M37.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+411,465,PT08M37.00S,4,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Brooks,Substitution,,0,0
+412,466,PT08M37.00S,4,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,0,0,0,h,SUB: Moore FOR Portis,Substitution,,0,0
+413,467,PT08M37.00S,4,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,0,0,0,h,SUB: Dunleavy FOR Felicio,Substitution,,0,0
+414,468,PT08M23.00S,4,1610612741,CHI,202734,Moore,E. Moore,84,21,9,Made,1,93,88,181,h,Moore 9' Driving Bank Shot (11 PTS),Made Shot,Driving Bank shot,1,0
+415,469,PT08M05.00S,4,1610612764,WAS,203078,Beal,B. Beal,17,90,9,Made,1,93,90,183,v,Beal 9' Jump Shot (16 PTS),Made Shot,Jump Shot,1,0
+416,470,PT07M46.00S,4,1610612741,CHI,202734,Moore,E. Moore,-17,-6,2,Missed,1,0,0,0,h,MISS Moore 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+417,472,PT07M45.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+418,471,PT07M45.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,15,-1,2,Made,1,95,90,185,h,Dunleavy 2' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,1,0
+419,473,PT07M29.00S,4,1610612764,WAS,203078,Beal,B. Beal,-43,134,14,Missed,1,0,0,0,v,MISS Beal 14' Jump Shot,Missed Shot,Jump Shot,1,0
+420,474,PT07M28.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+421,475,PT07M06.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,-156,11,16,Made,1,97,90,187,h,McDermott 16' Turnaround Fadeaway (8 PTS) (Dunleavy 1 AST),Made Shot,Turnaround Fadeaway shot,1,0
+422,476,PT06M52.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,-19,-6,2,Made,1,97,92,189,v,Sessions 2' Reverse Layup (16 PTS) (Nene 2 AST),Made Shot,Reverse Layup Shot,1,0
+423,477,PT06M32.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-73,134,15,Missed,1,0,0,0,h,MISS Gibson 15' Jump Shot,Missed Shot,Jump Shot,1,0
+424,478,PT06M31.00S,4,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+425,479,PT06M26.00S,4,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,Snell P.FOUL (P4.T3) (L.Richardson),Foul,Personal,1,0
+426,480,PT06M26.00S,4,1610612764,WAS,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,v,SUB: Wall FOR Anderson,Substitution,,0,0
+427,481,PT06M26.00S,4,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,h,SUB: Gasol FOR Snell,Substitution,,0,0
+428,482,PT06M08.00S,4,1610612764,WAS,201162,Dudley,J. Dudley,225,-24,0,Missed,1,0,0,0,v,MISS Dudley  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+429,483,PT06M07.00S,4,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+430,484,PT06M02.00S,4,1610612764,WAS,2403,Hilario,Nene,109,134,17,Missed,1,0,0,0,v,MISS Nene 17' Jump Shot,Missed Shot,Jump Shot,1,0
+431,485,PT06M01.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+432,486,PT05M50.00S,4,1610612741,CHI,202734,Moore,E. Moore,-58,249,26,Missed,1,0,0,0,h,MISS Moore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+433,487,PT05M47.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+434,488,PT05M42.00S,4,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,Nene P.FOUL (P2.T3) (J.Capers),Foul,Personal,1,0
+435,489,PT05M42.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+436,492,PT05M37.00S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0
+437,492,PT05M37.00S,4,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley STEAL (2 STL),,,1,0
+438,493,PT05M37.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy P.FOUL (P4.T4) (S.Twardoski),Foul,Personal,1,0
+439,494,PT05M20.00S,4,1610612764,WAS,201162,Dudley,J. Dudley,140,208,25,Missed,1,0,0,0,v,MISS Dudley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+440,495,PT05M19.00S,4,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+441,497,PT05M04.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,122,87,15,Made,1,99,92,191,h,McDermott 15' Floating Jump Shot (10 PTS) (Gibson 5 AST),Made Shot,Floating Jump shot,1,0
+442,498,PT04M56.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,-1,65,7,Missed,1,0,0,0,v,MISS Sessions 7' Jump Shot,Missed Shot,Jump Shot,1,0
+443,499,PT04M55.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,McDermott REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+444,500,PT04M46.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,0,1,0,Made,1,101,92,193,h,McDermott  Cutting Dunk Shot (12 PTS) (Gibson 6 AST),Made Shot,Cutting Dunk Shot,1,0
+445,501,PT04M46.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+446,503,PT04M46.00S,4,1610612764,WAS,2403,Hilario,Nene,0,0,0,,0,0,0,0,v,SUB: Gortat FOR Nene,Substitution,,0,0
+447,539,PT04M46.00S,4,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,SUB: Mark Morris FOR Dudley,Substitution,,0,0
+448,504,PT04M33.00S,4,1610612764,WAS,203078,Beal,B. Beal,156,205,26,Missed,1,0,0,0,v,MISS Beal 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+449,505,PT04M32.00S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:1 Def:10),Rebound,Unknown,1,0
+450,506,PT04M19.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat P.FOUL (P3.T4) (J.Capers),Foul,Personal,1,0
+451,507,PT04M19.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,SUB: Temple FOR Sessions,Substitution,,0,0
+452,508,PT04M14.00S,4,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,0,0,0,h,Moore Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0
+453,508,PT04M14.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall STEAL (3 STL),,,1,0
+454,509,PT04M10.00S,4,1610612764,WAS,202322,Wall,J. Wall,-12,2,1,Made,1,101,94,195,v,Wall 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,0
+455,510,PT03M51.00S,4,1610612741,CHI,202734,Moore,E. Moore,-24,41,5,Made,1,103,94,197,h,Moore 5' Jump Shot (13 PTS) (Gasol 9 AST),Made Shot,Jump Shot,1,0
+456,511,PT03M32.00S,4,1610612764,WAS,203078,Beal,B. Beal,24,-6,2,Made,1,103,96,199,v,Beal 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,0
+457,512,PT03M14.00S,4,1610612741,CHI,202734,Moore,E. Moore,-117,26,12,Made,1,105,96,201,h,Moore 12' Driving Bank Shot (15 PTS),Made Shot,Driving Bank shot,1,0
+458,513,PT02M55.00S,4,1610612764,WAS,202322,Wall,J. Wall,27,110,11,Missed,1,0,0,0,v,MISS Wall 11' Jump Shot,Missed Shot,Jump Shot,1,0
+459,514,PT02M52.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+460,515,PT02M49.00S,4,1610612764,WAS,203078,Beal,B. Beal,25,0,3,Missed,1,0,0,0,v,MISS Beal 3' Layup,Missed Shot,Layup Shot,1,0
+461,516,PT02M48.00S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:1 Def:11),Rebound,Unknown,1,0
+462,517,PT02M30.00S,4,1610612741,CHI,202734,Moore,E. Moore,-65,72,10,Missed,1,0,0,0,h,MISS Moore 10' Jump Shot,Missed Shot,Jump Shot,1,0
+463,518,PT02M29.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+464,519,PT02M23.00S,4,1610612764,WAS,203078,Beal,B. Beal,-125,213,25,Missed,1,0,0,0,v,MISS Beal 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+465,520,PT02M22.00S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:1 Def:12),Rebound,Unknown,1,0
+466,521,PT02M01.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,166,2,17,Made,1,107,96,203,h,McDermott 17' Jump Shot (14 PTS) (Gibson 7 AST),Made Shot,Jump Shot,1,0
+467,522,PT01M43.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,-22,116,12,Missed,1,0,0,0,v,MISS Gortat 12' Jump Shot,Missed Shot,Jump Shot,1,0
+468,523,PT01M42.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+469,524,PT01M30.00S,4,1610612764,WAS,202066,Temple,G. Temple,228,-11,0,Made,1,107,99,206,v,Temple  3PT Jump Shot (17 PTS) (Beal 2 AST),Made Shot,Jump Shot,1,0
+470,525,PT01M30.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+471,526,PT01M15.00S,4,1610612741,CHI,202734,Moore,E. Moore,146,52,15,Made,1,109,99,208,h,Moore 15' Jump Shot (17 PTS),Made Shot,Jump Shot,1,0
+472,527,PT01M12.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,v,Beal Offensive Charge Foul (P1.PN) (J.Capers),Foul,Offensive Charge,1,0
+473,528,PT01M12.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,v,Beal Foul Turnover (P3.T11),Turnover,Foul,1,0
+474,530,PT00M58.90S,4,1610612741,CHI,203926,McDermott,D. McDermott,9,174,17,Missed,1,0,0,0,h,MISS McDermott 17' Jump Shot,Missed Shot,Jump Shot,1,0
+475,531,PT00M57.90S,4,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+476,532,PT00M54.70S,4,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,McDermott P.FOUL (P3.PN) (S.Twardoski),Foul,Personal,1,0
+477,533,PT00M54.70S,4,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,109,100,209,v,Temple Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0
+478,535,PT00M54.70S,4,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,h,SUB: Brooks FOR McDermott,Substitution,,0,0
+479,536,PT00M54.70S,4,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,MISS Temple Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+480,538,PT00M53.70S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:1 Def:13),Rebound,Unknown,1,0
+481,540,PT00M33.80S,4,1610612741,CHI,201166,Brooks,A. Brooks,227,-1,0,Missed,1,0,0,0,h,MISS Brooks  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+482,541,PT00M32.90S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,v,Mark Morris REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+483,542,PT00M30.90S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy S.FOUL (P5.PN) (L.Richardson),Foul,Shooting,1,0
+484,544,PT00M30.90S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,109,101,210,v,Beal Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0
+485,547,PT00M30.90S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,v,MISS Beal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+486,549,PT00M29.90S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:1 Def:14),Rebound,Unknown,1,0
+487,551,PT00M08.90S,4,1610612741,CHI,201166,Brooks,A. Brooks,-73,203,22,Missed,1,0,0,0,h,MISS Brooks 22' Jump Shot,Missed Shot,Jump Shot,1,0
+488,552,PT00M07.90S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+489,553,PT00M02.80S,4,1610612764,WAS,202322,Wall,J. Wall,-81,234,25,Made,1,109,104,213,v,Wall 25' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,1,0
+490,554,PT00M00.00S,4,0,,0,,,0,0,0,,0,109,104,213,,End of 4th Period (10:22 PM EST),period,end,0,0
