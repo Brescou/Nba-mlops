@@ -30,8 +30,8 @@ def main():
     #     initialize_dataframe(playoffs_path)
     #     initialize_dataframe(regular_season_path)
 
-    extractor.update_processed_status("Regular Season")
-    extractor.update_processed_status("Playoffs")
+    # extractor.update_processed_status("Regular Season")
+    # extractor.update_processed_status("Playoffs")
 
     # extractor.extract_all_play_by_play()
 
@@ -40,14 +40,12 @@ def main():
     #     output_dir="./data/"
     # )
     # extractor.fetch_player_bios()
-    # extractor = NBADataExtractor(nba_endpoints_player, season_start=2024)
-    # extractor.fetch_stats_for_multiple_seasons(
-    #     endpoint="general",
-    #     sub_endpoint="traditional",
-    #     start_season=2019,
-    #     end_season=2024,
-    #     season_types=["Regular Season", "Playoffs"]
-    # )
+    extractor = NBADataExtractor(nba_endpoints_player, season_start=2010, season_end=2019)
+    extractor.fetch_stats_for_multiple_seasons(
+        endpoint="general",
+        sub_endpoint="traditional",
+        season_types=["Regular Season", "Playoffs"]
+    )
 
     extractor.close_session()
 
