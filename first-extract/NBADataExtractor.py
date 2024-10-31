@@ -6,6 +6,7 @@ import time
 
 import pandas as pd
 import requests
+from fake_useragent import UserAgent
 from numpy.distutils.conv_template import header
 from tqdm import tqdm
 
@@ -229,6 +230,8 @@ class NBADataExtractor:
             logging.error(f"Endpoint {endpoint}/{sub_endpoint} not found in endpoints.")
             return None
         url = NBAParams.build_url(self.endpoints[endpoint][sub_endpoint])
+        ua = UserAgent()
+        self.session.headers.update({'User-Agent': ua.random})
         response = None
         try:
             response = self.session.get(url, params=params, timeout=self.timeout)
@@ -264,17 +267,26 @@ class NBADataExtractor:
                 player_id = row[0]
                 player_file_path = os.path.join(season_folder, f"{player_id}.csv")
                 player_data = pd.DataFrame([row], columns=headers)
-                player_data.to_csv(player_file_path, index=False)
-                logging.info(f"Saved stats for player {player_id} in {player_file_path}")
+                if os.path.exists(player_file_path):
+                    existing_player_data = pd.read_csv(player_file_path)
+                    if (player_data.shape[1] > existing_player_data.shape[1] or
+                            player_data.shape[0] > existing_player_data.shape[0] or
+                            not existing_player_data.equals(player_data)):
+                        player_data.to_csv(player_file_path, index=False)
+                else:
+                    player_data.to_csv(player_file_path, index=False)
         else:
             logging.error(f"No player stats found for {season}.")
 
-    def fetch_stats_for_multiple_seasons(self, endpoint, sub_endpoint, start_season, end_season, season_types,
-                                         **kwargs):
-        for season_year in tqdm(range(start_season, end_season + 1), desc="Processing Seasons"):
-            season = f"{season_year}-{str(season_year + 1)[-2:]}"
-            for season_type in season_types:
-                self.fetch_player_stats(endpoint, sub_endpoint, season, season_type, **kwargs)
+    def fetch_stats_for_multiple_seasons(self, endpoint, sub_endpoint, season_types, **kwargs):
+        with tqdm(total=(self.season_end - self.season_start + 1) * len(season_types),
+                  desc="Processing Seasons") as pbar:
+            for season_year in range(self.season_start, self.season_end + 1):
+                season = f"{season_year}-{str(season_year + 1)[-2:]}"
+                for season_type in season_types:
+                    pbar.set_description(f"Processing Season {season}, Type: {season_type}")
+                    self.fetch_player_stats(endpoint, sub_endpoint, season, season_type, **kwargs)
+                    pbar.update(1)
 
     def close_session(self):
         self.session.close()
