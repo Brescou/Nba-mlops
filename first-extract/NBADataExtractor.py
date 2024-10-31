@@ -232,20 +232,25 @@ class NBADataExtractor:
         log_file = f"data/game/{season_type.lower().replace(' ', '_')}_game_logs.csv"
         if os.path.exists(log_file):
             df = pd.read_csv(log_file, dtype={'GAME_ID': str})
-            for index, row in df.iterrows():
-                game_id = row['GAME_ID']
-                season_year = row['SEASON_YEAR']
-                season_folder = f"data/game/{season_year}/{season_type.lower().replace(' ', '_')}"
-                expected_file_path = os.path.join(season_folder, f"{game_id}.csv")
-                if os.path.exists(expected_file_path):
-                    df.at[index, 'processed'] = True
-                else:
-                    df.at[index, 'processed'] = False
+            total_games = len(df)
+            logging.info(f"Starting to update 'processed' status for {total_games} games in {season_type}.")
+            with tqdm(total=total_games, desc="Updating processed status") as pbar:
+                for index, row in df.iterrows():
+                    game_id = row['GAME_ID']
+                    season_year = row['SEASON_YEAR']
+                    season_folder = f"data/game/{season_year}/{season_type.lower().replace(' ', '_')}"
+                    expected_file_path = os.path.join(season_folder, f"{game_id}.csv")
+                    if os.path.exists(expected_file_path):
+                        df.at[index, 'processed'] = True
+                        logging.debug(f"Game {game_id} marked as processed.")
+                    else:
+                        df.at[index, 'processed'] = False
+                        logging.debug(f"Game {game_id} marked as not processed (file missing).")
+                    pbar.update(1)
             df.to_csv(log_file, index=False)
-            logging.info(f"Updated processed status in {log_file}")
+            logging.info(f"Updated processed status for all games in {log_file}")
         else:
             logging.error(f"File {log_file} not found.")
-            return
 
 
 class ForbiddenError(Exception):

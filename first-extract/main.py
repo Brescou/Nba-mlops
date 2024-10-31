@@ -13,12 +13,12 @@ def initialize_dataframe(file_path):
 
 
 def main():
-    # extractor = NBADataExtractor(
-    #     nba_endpoints_games,
-    #     season_start=1996,
-    #     season_end=2023,
-    #     output_dir="./data/game/"
-    # )
+    extractor = NBADataExtractor(
+        nba_endpoints_games,
+        season_start=1996,
+        season_end=2023,
+        output_dir="./data/game/"
+    )
 
     regular_season_path = "./data/game/regular_season_game_logs.csv"
     playoffs_path = "./data/game/playoffs_game_logs.csv"
@@ -30,12 +30,16 @@ def main():
     #     initialize_dataframe(playoffs_path)
     #     initialize_dataframe(regular_season_path)
 
+    extractor.update_processed_status("Regular Season")
+    extractor.update_processed_status("Playoffs")
+
     # extractor.extract_all_play_by_play()
-    extractor = NBADataExtractor(
-        nba_endpoints_player,
-        output_dir="./data/"
-    )
-    extractor.fetch_player_bios()
+
+    # extractor = NBADataExtractor(
+    #     nba_endpoints_player,
+    #     output_dir="./data/"
+    # )
+    # extractor.fetch_player_bios()
     extractor.close_session()
 
 
