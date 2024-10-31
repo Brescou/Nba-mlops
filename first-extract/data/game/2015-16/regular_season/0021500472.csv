@@ -1,0 +1,528 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Jump Ball Adams vs. Monroe: Tip to Ibaka,Jump Ball,,1,0
+3,2,PT11M38.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,1,0,Missed,1,0,0,0,h,MISS Ibaka  Dunk,Missed Shot,Dunk Shot,1,0
+4,3,PT11M38.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+5,4,PT11M24.00S,1,1610612749,MIL,203953,Parker,J. Parker,6,3,1,Missed,1,0,0,0,v,MISS Parker 1' Layup,Missed Shot,Layup Shot,1,0
+6,4,PT11M24.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams BLOCK (1 BLK),,,1,0
+7,5,PT11M23.00S,1,1610612749,MIL,203953,Parker,J. Parker,0,0,0,,0,0,0,0,v,Parker REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+8,6,PT11M20.00S,1,1610612749,MIL,203953,Parker,J. Parker,30,23,4,Missed,1,0,0,0,v,MISS Parker 4' Jump Shot,Missed Shot,Jump Shot,1,0
+9,7,PT11M20.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+10,8,PT11M13.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,84,41,9,Made,1,2,0,2,h,Westbrook 9' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,0
+11,9,PT11M03.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-6,2,1,Made,1,2,2,4,v,Antetokounmpo 1' Layup (2 PTS) (Carter-Williams 1 AST),Made Shot,Layup Shot,1,0
+12,10,PT10M45.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,148,65,16,Missed,1,0,0,0,h,MISS Ibaka 16' Jump Shot,Missed Shot,Jump Shot,1,0
+13,11,PT10M44.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+14,12,PT10M29.00S,1,1610612749,MIL,203953,Parker,J. Parker,143,67,16,Made,1,2,4,6,v,Parker 16' Step Back Jump Shot (2 PTS) (Middleton 1 AST),Made Shot,Step Back Jump shot,1,0
+15,13,PT10M11.00S,1,1610612760,OKC,201142,Durant,K. Durant,42,174,18,Missed,1,0,0,0,h,MISS Durant 18' Jump Shot,Missed Shot,Jump Shot,1,0
+16,14,PT10M10.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+17,15,PT10M04.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,2,6,8,v,Antetokounmpo  Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,0
+18,16,PT09M49.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+19,16,PT09M49.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe STEAL (1 STL),,,1,0
+20,17,PT09M46.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,9,2,1,Made,1,2,8,10,v,Antetokounmpo 1' Layup (6 PTS) (Carter-Williams 2 AST),Made Shot,Layup Shot,1,0
+21,18,PT09M35.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,19,2,2,Missed,1,0,0,0,h,MISS Westbrook 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+22,19,PT09M34.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+23,20,PT09M28.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,78,237,25,Missed,1,0,0,0,v,MISS Middleton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+24,21,PT09M27.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+25,22,PT09M22.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,81,87,12,Made,1,4,8,12,h,Westbrook 12' Pullup Jump Shot (4 PTS) (Durant 1 AST),Made Shot,Pullup Jump shot,1,0
+26,23,PT09M07.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-166,70,18,Missed,1,0,0,0,v,MISS Antetokounmpo 18' Jump Shot,Missed Shot,Jump Shot,1,0
+27,24,PT09M06.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+28,25,PT09M01.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0
+29,26,PT08M45.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+30,26,PT08M45.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook STEAL (1 STL),,,1,0
+31,27,PT08M40.00S,1,1610612760,OKC,201142,Durant,K. Durant,9,-5,1,Made,1,6,8,14,h,Durant 1' Layup (2 PTS) (Westbrook 1 AST),Made Shot,Layup Shot,1,0
+32,28,PT08M28.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,-12,33,4,Missed,1,0,0,0,v,MISS Carter-Williams 4' Jump Shot,Missed Shot,Jump Shot,1,0
+33,29,PT08M27.00S,1,1610612749,MIL,203953,Parker,J. Parker,0,0,0,,0,0,0,0,v,Parker REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+34,30,PT08M24.00S,1,1610612749,MIL,203953,Parker,J. Parker,19,3,2,Missed,1,0,0,0,v,MISS Parker 2' Layup,Missed Shot,Layup Shot,1,0
+35,30,PT08M24.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams BLOCK (2 BLK),,,1,0
+36,31,PT08M23.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+37,32,PT08M20.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-14,7,2,Missed,1,0,0,0,h,MISS Westbrook 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+38,33,PT08M19.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+39,34,PT08M08.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,19,3,2,Made,1,6,10,16,v,Monroe 2' Layup (2 PTS),Made Shot,Layup Shot,1,0
+40,36,PT07M50.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,10,-1,1,Missed,1,0,0,0,h,MISS Roberson 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,0
+41,38,PT07M49.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+42,37,PT07M49.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,1,0,Made,1,8,10,18,h,Adams  Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,0
+43,39,PT07M31.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+44,39,PT07M31.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams STEAL (1 STL),,,1,0
+45,40,PT07M22.00S,1,1610612760,OKC,201142,Durant,K. Durant,73,237,25,Missed,1,0,0,0,h,MISS Durant 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+46,41,PT07M21.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+47,42,PT07M07.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,-12,169,17,Made,1,8,12,20,v,Carter-Williams 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+48,44,PT06M48.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,15,188,19,Made,1,10,12,22,h,Ibaka 19' Jump Shot (2 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,1,0
+49,45,PT06M35.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,228,56,0,Made,1,10,15,25,v,Middleton  3PT Jump Shot (3 PTS) (Carter-Williams 3 AST),Made Shot,Jump Shot,1,0
+50,46,PT06M27.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams S.FOUL (P1.T1) (G.Zielinski),Foul,Shooting,1,0
+51,47,PT06M27.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,11,15,26,h,Westbrook Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+52,49,PT06M27.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,MISS Westbrook Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+53,50,PT06M26.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+54,51,PT06M26.00S,1,1610612760,OKC,203500,Adams,S. Adams,9,16,2,Made,1,13,15,28,h,Adams 2' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,0
+55,52,PT06M10.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0
+56,53,PT06M10.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,13,16,29,v,Middleton Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+57,55,PT06M10.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,13,17,30,v,Middleton Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+58,57,PT05M56.00S,1,1610612760,OKC,201142,Durant,K. Durant,64,237,25,Missed,1,0,0,0,h,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+59,58,PT05M56.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+60,60,PT05M42.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,-1,16,2,Missed,1,0,0,0,v,MISS Monroe 2' Hook Shot,Missed Shot,Hook Shot,1,0
+61,60,PT05M42.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka BLOCK (1 BLK),,,1,0
+62,61,PT05M41.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+63,62,PT05M32.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-122,57,13,Missed,1,0,0,0,h,MISS Westbrook 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+64,63,PT05M31.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+65,64,PT05M24.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,1,0
+66,65,PT05M24.00S,1,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+67,68,PT05M24.00S,1,1610612749,MIL,203953,Parker,J. Parker,0,0,0,,0,0,0,0,v,MISS Parker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+68,69,PT05M24.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+69,70,PT05M24.00S,1,1610612749,MIL,203953,Parker,J. Parker,0,0,0,,0,13,18,31,v,Parker Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+70,72,PT05M12.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,-223,21,0,Made,1,16,18,34,h,Roberson  3PT Jump Shot (3 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,1,0
+71,73,PT04M46.00S,1,1610612749,MIL,203953,Parker,J. Parker,145,16,15,Missed,1,0,0,0,v,MISS Parker 15' Jump Shot,Missed Shot,Jump Shot,1,0
+72,74,PT04M46.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+73,75,PT04M39.00S,1,1610612749,MIL,203953,Parker,J. Parker,0,0,0,,0,0,0,0,v,Parker S.FOUL (P1.T2) (M.Smith),Foul,Shooting,1,0
+74,76,PT04M39.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,17,18,35,h,Durant Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+75,78,PT04M39.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,SUB: Waiters FOR Roberson,Substitution,,0,0
+76,79,PT04M39.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,SUB: Mayo FOR Antetokounmpo,Substitution,,0,0
+77,80,PT04M39.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,18,18,36,h,Durant Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+78,82,PT04M31.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-225,106,25,Made,1,18,21,39,v,Middleton 25' 3PT Jump Shot (8 PTS) (Carter-Williams 4 AST),Made Shot,Jump Shot,1,0
+79,83,PT04M11.00S,1,1610612760,OKC,201142,Durant,K. Durant,37,46,6,Made,1,20,21,41,h,Durant 6' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,0
+80,84,PT03M52.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,45,16,5,Missed,1,0,0,0,v,MISS Monroe 5' Jump Shot,Missed Shot,Jump Shot,1,0
+81,86,PT03M51.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+82,85,PT03M51.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,1,0,Made,1,20,23,43,v,Carter-Williams  Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,0
+83,87,PT03M34.00S,1,1610612760,OKC,201142,Durant,K. Durant,56,242,25,Missed,1,0,0,0,h,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+84,88,PT03M34.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+85,89,PT03M20.00S,1,1610612749,MIL,203953,Parker,J. Parker,-24,41,5,Missed,1,0,0,0,v,MISS Parker 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+86,90,PT03M19.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+87,91,PT03M09.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-124,47,13,Missed,1,0,0,0,h,MISS Westbrook 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+88,92,PT03M09.00S,1,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+89,93,PT02M57.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,-78,21,8,Made,1,20,25,45,v,Monroe 8' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,1,0
+90,94,PT02M42.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-11,3,1,Made,1,22,25,47,h,Westbrook 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0
+91,97,PT02M36.00S,1,1610612760,OKC,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,h,Waiters P.FOUL (P1.T3) (M.Kogut),Foul,Personal,1,0
+92,98,PT02M36.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+93,100,PT02M36.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,SUB: Payne FOR Westbrook,Substitution,,0,0
+94,101,PT02M36.00S,1,1610612749,MIL,203953,Parker,J. Parker,0,0,0,,0,0,0,0,v,SUB: O'Bryant III FOR Parker,Substitution,,0,0
+95,102,PT02M36.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,SUB: Henson FOR Monroe,Substitution,,0,0
+96,105,PT02M31.00S,1,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,Payne S.FOUL (P1.T4) (M.Smith),Foul,Shooting,1,0
+97,106,PT02M31.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,22,26,48,v,Carter-Williams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+98,108,PT02M31.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,SUB: Collison FOR Ibaka,Substitution,,0,0
+99,109,PT02M31.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,SUB: Kanter FOR Adams,Substitution,,0,0
+100,110,PT02M31.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,22,27,49,v,Carter-Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+101,112,PT02M18.00S,1,1610612760,OKC,201142,Durant,K. Durant,50,183,19,Missed,1,0,0,0,h,MISS Durant 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+102,113,PT02M17.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+103,114,PT02M05.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,10,3,1,Made,1,22,29,51,v,Carter-Williams 1' Layup (8 PTS) (Middleton 2 AST),Made Shot,Layup Shot,1,0
+104,115,PT01M53.00S,1,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter OFF.Foul (P1) (G.Zielinski),Foul,Offensive,1,0
+105,116,PT01M53.00S,1,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter Foul Turnover (P1.T3),Turnover,Foul,1,0
+106,117,PT01M43.00S,1,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,Payne S.FOUL (P2.PN) (G.Zielinski),Foul,Shooting,1,0
+107,118,PT01M43.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,MISS Carter-Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+108,119,PT01M43.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+109,120,PT01M43.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,MISS Carter-Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+110,122,PT01M42.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+111,123,PT01M25.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson S.FOUL (P1.T3) (G.Zielinski),Foul,Shooting,1,0
+112,124,PT01M25.00S,1,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,MISS Kanter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+113,125,PT01M25.00S,1,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Normal Rebound,0,0
+114,126,PT01M25.00S,1,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,SUB: Bayless FOR Carter-Williams,Substitution,,0,0
+115,127,PT01M25.00S,1,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,23,29,52,h,Kanter Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+116,129,PT01M09.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-135,0,14,Missed,1,0,0,0,v,MISS Middleton 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+117,131,PT01M07.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+118,130,PT01M07.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,1,0,Made,1,23,31,54,v,Henson  Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,0
+119,132,PT01M00.00S,1,1610612749,MIL,203948,O'Bryant III,J. O'Bryant III,0,0,0,,0,0,0,0,v,O'Bryant III P.FOUL (P1.PN) (G.Zielinski),Foul,Personal,1,0
+120,133,PT01M00.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,24,31,55,h,Durant Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+121,135,PT01M00.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,25,31,56,h,Durant Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+122,137,PT00M49.90S,1,1610612749,MIL,203114,Middleton,K. Middleton,-148,41,15,Missed,1,0,0,0,v,MISS Middleton 15' Jump Shot,Missed Shot,Jump Shot,1,0
+123,138,PT00M48.90S,1,1610612760,OKC,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,h,Waiters REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+124,139,PT00M38.60S,1,1610612760,OKC,2555,Collison,N. Collison,27,0,3,Made,1,27,31,58,h,Collison 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+125,140,PT00M23.90S,1,1610612749,MIL,201564,Mayo,O. Mayo,-4,75,8,Missed,1,0,0,0,v,MISS Mayo 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+126,141,PT00M23.60S,1,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+127,142,PT00M00.00S,1,1610612760,OKC,1626166,Payne,C. Payne,-222,36,0,Made,1,30,31,61,h,Payne  3PT Jump Shot (3 PTS) (Durant 2 AST),Made Shot,Jump Shot,1,0
+128,143,PT00M00.00S,1,0,,142,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+129,144,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,31,61,,End of 1st Period (8:35 PM EST),period,end,0,0
+130,145,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,31,61,,Start of 2nd Period (8:37 PM EST),period,start,0,0
+131,146,PT11M45.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,-63,151,16,Missed,1,0,0,0,v,MISS Mayo 16' Jump Shot,Missed Shot,Jump Shot,1,0
+132,147,PT11M45.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+133,148,PT11M45.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,Collison L.B.FOUL (P1.T1) (M.Kogut),Foul,Loose Ball,1,0
+134,149,PT11M40.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,-7,3,1,Made,1,30,33,63,v,Mayo 1' Reverse Layup (2 PTS) (Henson 1 AST),Made Shot,Reverse Layup Shot,1,0
+135,150,PT11M26.00S,2,1610612760,OKC,203079,Waiters,D. Waiters,-11,7,1,Missed,1,0,0,0,h,MISS Waiters 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+136,152,PT11M23.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+137,151,PT11M23.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,10,11,1,Made,1,32,33,65,h,Kanter 1' Layup (3 PTS),Made Shot,Layup Shot,1,0
+138,153,PT11M06.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+139,153,PT11M06.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter STEAL (1 STL),,,1,0
+140,154,PT10M58.00S,2,1610612760,OKC,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,h,Waiters Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+141,154,PT10M58.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo STEAL (1 STL),,,1,0
+142,155,PT10M55.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-9,8,1,Made,1,32,35,67,v,Antetokounmpo 1' Layup (8 PTS) (Mayo 1 AST),Made Shot,Layup Shot,1,0
+143,156,PT10M55.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow S.FOUL (P1.T2) (M.Smith),Foul,Shooting,1,0
+144,157,PT10M55.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,32,36,68,v,Antetokounmpo Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+145,160,PT10M39.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,20,-1,2,Missed,1,0,0,0,h,MISS Kanter 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+146,161,PT10M38.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+147,162,PT10M24.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-25,36,4,Missed,1,0,0,0,v,MISS Antetokounmpo 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+148,163,PT10M24.00S,2,1610612749,MIL,203948,O'Bryant III,J. O'Bryant III,0,0,0,,0,0,0,0,v,O'Bryant III REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+149,164,PT10M09.00S,2,1610612749,MIL,203089,Henson,J. Henson,1,41,4,Missed,1,0,0,0,v,MISS Henson 4' Hook Shot,Missed Shot,Hook Shot,1,0
+150,165,PT10M09.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+151,166,PT10M00.00S,2,1610612760,OKC,1626166,Payne,C. Payne,-102,7,10,Made,1,34,36,70,h,Payne 10' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,1,0
+152,167,PT09M44.00S,2,1610612749,MIL,201573,Bayless,J. Bayless,-84,178,20,Missed,1,0,0,0,v,MISS Bayless 20' Jump Shot,Missed Shot,Jump Shot,1,0
+153,168,PT09M43.00S,2,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+154,169,PT09M37.00S,2,1610612749,MIL,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,v,Bayless P.FOUL (P1.T1) (M.Smith),Foul,Personal,1,0
+155,170,PT09M28.00S,2,1610612760,OKC,203079,Waiters,D. Waiters,-16,16,2,Missed,1,0,0,0,h,MISS Waiters 2' Layup,Missed Shot,Layup Shot,1,0
+156,170,PT09M28.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson BLOCK (1 BLK),,,1,0
+157,171,PT09M27.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+158,172,PT09M27.00S,2,1610612760,OKC,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,h,Waiters P.FOUL (P2.T3) (G.Zielinski),Foul,Personal,1,0
+159,173,PT09M12.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,34,38,72,v,Antetokounmpo  Dunk (11 PTS) (Henson 2 AST),Made Shot,Dunk Shot,1,0
+160,174,PT09M04.00S,2,1610612749,MIL,203948,O'Bryant III,J. O'Bryant III,0,0,0,,0,0,0,0,v,O'Bryant III S.FOUL (P2.T2) (M.Smith),Foul,Shooting,1,0
+161,175,PT09M04.00S,2,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,35,38,73,h,Payne Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+162,177,PT09M04.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,SUB: Ibaka FOR Collison,Substitution,,0,0
+163,178,PT09M04.00S,2,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,36,38,74,h,Payne Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+164,180,PT08M50.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,-169,13,17,Made,1,36,40,76,v,Mayo 17' Jump Shot (4 PTS) (Bayless 1 AST),Made Shot,Jump Shot,1,0
+165,181,PT08M31.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Bucks T.Foul (Def. 3 Sec Henson ) (M.Smith),Foul,Defense 3 Second,1,0
+166,182,PT08M31.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+167,183,PT08M31.00S,2,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,SUB: Westbrook FOR Payne,Substitution,,0,0
+168,185,PT08M31.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,37,40,77,h,Morrow Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+169,187,PT08M27.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka OFF.Foul (P1) (G.Zielinski),Foul,Offensive,1,0
+170,188,PT08M27.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka Foul Turnover (P1.T5),Turnover,Foul,1,0
+171,189,PT08M12.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,78,229,24,Missed,1,0,0,0,v,MISS Mayo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+172,190,PT08M11.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+173,191,PT08M04.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,228,105,25,Missed,1,0,0,0,v,MISS Mayo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+174,192,PT08M03.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+175,193,PT07M53.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,217,120,25,Made,1,40,40,80,h,Morrow 25' 3PT Jump Shot (4 PTS) (Kanter 1 AST),Made Shot,Jump Shot,1,0
+176,194,PT07M41.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-17,41,4,Missed,1,0,0,0,v,MISS Antetokounmpo 4' Jump Shot,Missed Shot,Jump Shot,1,0
+177,195,PT07M40.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+178,196,PT07M33.00S,2,1610612749,MIL,201573,Bayless,J. Bayless,138,208,25,Made,1,40,43,83,v,Bayless 25' 3PT Jump Shot (3 PTS) (O'Bryant III 1 AST),Made Shot,Jump Shot,1,0
+179,197,PT07M23.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+180,198,PT07M23.00S,2,0,,196,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+181,199,PT07M23.00S,2,1610612760,OKC,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,h,SUB: Durant FOR Waiters,Substitution,,0,0
+182,200,PT07M16.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,2,41,4,Made,1,42,43,85,h,Kanter 4' Turnaround Bank Hook Shot (5 PTS),Made Shot,Turnaround Bank Hook Shot,1,0
+183,201,PT06M54.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,20,-1,2,Missed,1,0,0,0,v,MISS Antetokounmpo 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+184,202,PT06M53.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+185,203,PT06M47.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,12,16,2,Missed,1,0,0,0,h,MISS Westbrook 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+186,205,PT06M46.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+187,204,PT06M46.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,2,18,2,Made,1,44,43,87,h,Kanter 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,0
+188,206,PT06M25.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0
+189,206,PT06M25.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook STEAL (2 STL),,,1,0
+190,208,PT06M15.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,12,11,2,Missed,1,0,0,0,h,MISS Kanter 2' Layup,Missed Shot,Layup Shot,1,0
+191,210,PT06M15.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+192,209,PT06M15.00S,2,1610612760,OKC,201142,Durant,K. Durant,9,11,1,Missed,1,0,0,0,h,MISS Durant 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+193,211,PT06M15.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0
+194,212,PT06M15.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo L.B.FOUL (P1.T3) (G.Zielinski),Foul,Loose Ball,1,0
+195,213,PT06M15.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,SUB: Monroe FOR Henson,Substitution,,0,0
+196,214,PT06M10.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,1,0,Made,1,46,43,89,h,Kanter  Dunk (9 PTS) (Ibaka 1 AST),Made Shot,Dunk Shot,1,0
+197,216,PT05M42.00S,2,1610612749,MIL,201573,Bayless,J. Bayless,-12,213,21,Made,1,46,45,91,v,Bayless 21' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,0
+198,217,PT05M24.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,227,18,0,Made,1,49,45,94,h,Ibaka  3PT Jump Shot (5 PTS) (Durant 3 AST),Made Shot,Jump Shot,1,0
+199,218,PT05M12.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,68,159,17,Missed,1,0,0,0,v,MISS Monroe 17' Jump Shot,Missed Shot,Jump Shot,1,0
+200,219,PT05M12.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+201,220,PT05M07.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,56,41,7,Missed,1,0,0,0,v,MISS Antetokounmpo 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+202,221,PT05M07.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+203,222,PT05M02.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo S.FOUL (P1.T4) (M.Kogut),Foul,Shooting,1,0
+204,223,PT05M02.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,50,45,95,h,Westbrook Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+205,225,PT05M02.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,SUB: Adams FOR Kanter,Substitution,,0,0
+206,226,PT05M02.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,51,45,96,h,Westbrook Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+207,228,PT04M35.00S,2,1610612749,MIL,201573,Bayless,J. Bayless,0,259,26,Missed,1,0,0,0,v,MISS Bayless 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+208,229,PT04M35.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+209,230,PT04M19.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,225,16,0,Missed,1,0,0,0,h,MISS Morrow  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+210,231,PT04M18.00S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+211,232,PT04M14.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo S.FOUL (P2.PN) (G.Zielinski),Foul,Shooting,1,0
+212,233,PT04M14.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,52,45,97,h,Durant Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+213,235,PT04M14.00S,2,1610612749,MIL,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,v,SUB: Middleton FOR Bayless,Substitution,,0,0
+214,255,PT04M14.00S,2,1610612749,MIL,203948,O'Bryant III,J. O'Bryant III,0,0,0,,0,0,0,0,v,SUB: Parker FOR O'Bryant III,Substitution,,0,0
+215,236,PT04M14.00S,2,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,SUB: Carter-Williams FOR Mayo,Substitution,,0,0
+216,237,PT04M14.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,53,45,98,h,Durant Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+217,239,PT04M04.00S,2,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,-52,156,16,Made,1,53,47,100,v,Carter-Williams 16' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,0
+218,242,PT03M47.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0
+219,243,PT03M47.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+220,244,PT03M38.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,Morrow P.FOUL (P2.T4) (M.Smith),Foul,Personal,1,0
+221,245,PT03M38.00S,2,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,SUB: Roberson FOR Morrow,Substitution,,0,0
+222,247,PT03M25.00S,2,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,163,26,17,Missed,1,0,0,0,v,MISS Carter-Williams 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+223,248,PT03M25.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+224,249,PT03M15.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe S.FOUL (P1.PN) (G.Zielinski),Foul,Shooting,1,0
+225,250,PT03M15.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,54,47,101,h,Durant Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+226,252,PT03M15.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,55,47,102,h,Durant Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+227,254,PT03M11.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+228,257,PT03M02.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,64,3,6,Missed,1,0,0,0,v,MISS Monroe 6' Jump Shot,Missed Shot,Jump Shot,1,0
+229,258,PT03M01.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+230,259,PT02M45.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-12,0,1,Made,1,57,47,104,h,Westbrook 1' Driving Layup (11 PTS) (Durant 4 AST),Made Shot,Driving Layup Shot,1,0
+231,260,PT02M33.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,4,43,4,Missed,1,0,0,0,v,MISS Monroe 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+232,261,PT02M33.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+233,263,PT02M22.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-22,170,17,Missed,1,0,0,0,v,MISS Antetokounmpo 17' Jump Shot,Missed Shot,Jump Shot,1,0
+234,264,PT02M21.00S,2,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+235,265,PT02M12.00S,2,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams S.FOUL (P2.PN) (G.Zielinski),Foul,Shooting,1,0
+236,266,PT02M12.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,58,47,105,h,Westbrook Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+237,268,PT02M12.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,59,47,106,h,Westbrook Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+238,270,PT02M02.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,48,247,25,Made,1,59,50,109,v,Middleton 25' 3PT Jump Shot (11 PTS) (Carter-Williams 5 AST),Made Shot,Jump Shot,1,0
+239,271,PT01M44.00S,2,1610612760,OKC,201142,Durant,K. Durant,-70,105,13,Made,1,61,50,111,h,Durant 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,0
+240,273,PT01M27.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,138,51,15,Made,1,61,52,113,v,Middleton 15' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,0
+241,274,PT01M09.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,4,7,1,Made,1,63,52,115,h,Westbrook 1' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+242,275,PT00M54.00S,2,1610612749,MIL,203953,Parker,J. Parker,-32,7,3,Missed,1,0,0,0,v,MISS Parker 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+243,275,PT00M54.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka BLOCK (2 BLK),,,1,0
+244,276,PT00M54.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+245,278,PT00M44.40S,2,1610612749,MIL,203114,Middleton,K. Middleton,94,36,10,Missed,1,0,0,0,v,MISS Middleton 10' Jump Shot,Missed Shot,Jump Shot,1,0
+246,279,PT00M44.40S,2,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+247,280,PT00M44.40S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,1,0
+248,281,PT00M44.40S,2,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,MISS Carter-Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+249,282,PT00M44.40S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+250,284,PT00M44.40S,2,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,MISS Carter-Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+251,286,PT00M42.90S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+252,287,PT00M40.20S,2,1610612749,MIL,203114,Middleton,K. Middleton,166,61,18,Made,1,63,54,117,v,Middleton 18' Jump Shot (15 PTS) (Antetokounmpo 1 AST),Made Shot,Jump Shot,1,0
+253,288,PT00M31.90S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0
+254,288,PT00M31.90S,2,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams STEAL (1 STL),,,1,0
+255,290,PT00M29.80S,2,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+256,290,PT00M29.80S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook STEAL (3 STL),,,1,0
+257,291,PT00M22.70S,2,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,1,0
+258,292,PT00M22.70S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,64,54,118,h,Westbrook Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+259,295,PT00M22.70S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,SUB: Collison FOR Ibaka,Substitution,,0,0
+260,296,PT00M22.70S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,65,54,119,h,Westbrook Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+261,299,PT00M03.80S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+262,299,PT00M03.80S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant STEAL (1 STL),,,1,0
+263,300,PT00M00.00S,2,1610612760,OKC,201142,Durant,K. Durant,151,214,26,Missed,1,0,0,0,h,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+264,301,PT00M00.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0
+265,302,PT00M00.00S,2,0,,0,,,0,0,0,,0,65,54,119,,End of 2nd Period (9:08 PM EST),period,end,0,0
+266,304,PT12M00.00S,3,0,,0,,,0,0,0,,0,65,54,119,,Start of 3rd Period (9:23 PM EST),period,start,0,0
+267,305,PT11M43.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,-17,-1,2,Made,1,65,56,121,v,Carter-Williams 2' Reverse Layup (12 PTS) (Monroe 1 AST),Made Shot,Reverse Layup Shot,1,0
+268,306,PT11M27.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,31,3,Missed,1,0,0,0,h,MISS Westbrook 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+269,307,PT11M26.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+270,308,PT11M24.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0
+271,308,PT11M24.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook STEAL (4 STL),,,1,0
+272,309,PT11M17.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-22,-1,2,Missed,1,0,0,0,h,MISS Westbrook 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+273,311,PT11M16.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:4 Def:0),Rebound,Unknown,1,0
+274,310,PT11M16.00S,3,1610612760,OKC,203500,Adams,S. Adams,-11,16,2,Made,1,67,56,123,h,Adams 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,0
+275,312,PT10M59.00S,3,1610612749,MIL,203953,Parker,J. Parker,-155,149,22,Missed,1,0,0,0,v,MISS Parker 22' Jump Shot,Missed Shot,Jump Shot,1,0
+276,313,PT10M58.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+277,314,PT10M48.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,-14,38,4,Missed,1,0,0,0,v,MISS Carter-Williams 4' Jump Shot,Missed Shot,Jump Shot,1,0
+278,315,PT10M48.00S,3,1610612749,MIL,203953,Parker,J. Parker,0,0,0,,0,0,0,0,v,Parker REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+279,316,PT10M43.00S,3,1610612749,MIL,203953,Parker,J. Parker,-6,2,1,Made,1,67,58,125,v,Parker 1' Reverse Layup (5 PTS),Made Shot,Reverse Layup Shot,1,0
+280,317,PT10M34.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton P.FOUL (P1.T1) (M.Smith),Foul,Personal,1,0
+281,318,PT10M24.00S,3,1610612760,OKC,201142,Durant,K. Durant,97,219,24,Made,1,70,58,128,h,Durant 24' 3PT Jump Shot (17 PTS) (Westbrook 4 AST),Made Shot,Jump Shot,1,0
+282,319,PT10M10.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,10,13,2,Missed,1,0,0,0,v,MISS Carter-Williams 2' Layup,Missed Shot,Layup Shot,1,0
+283,319,PT10M10.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka BLOCK (3 BLK),,,1,0
+284,321,PT10M08.00S,3,1610612749,MIL,203953,Parker,J. Parker,0,0,0,,0,0,0,0,v,Parker REBOUND (Off:4 Def:0),Rebound,Unknown,1,0
+285,320,PT10M08.00S,3,1610612749,MIL,203953,Parker,J. Parker,-2,16,2,Missed,1,0,0,0,v,MISS Parker 2' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+286,322,PT10M07.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:4 Def:1),Rebound,Unknown,1,0
+287,323,PT09M51.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,-4,51,5,Missed,1,0,0,0,h,MISS Roberson 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+288,324,PT09M51.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+289,325,PT09M39.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-9,0,1,Made,1,70,60,130,v,Antetokounmpo 1' Layup (13 PTS) (Carter-Williams 6 AST),Made Shot,Layup Shot,1,0
+290,326,PT09M23.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,-230,7,0,Missed,1,0,0,0,h,MISS Roberson  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+291,327,PT09M22.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+292,328,PT09M19.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams S.FOUL (P3.T2) (M.Smith),Foul,Shooting,1,0
+293,329,PT09M19.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,71,60,131,h,Roberson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+294,331,PT09M19.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,MISS Roberson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+295,333,PT09M18.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+296,334,PT09M01.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,14,41,4,Missed,1,0,0,0,v,MISS Antetokounmpo 4' Jump Shot,Missed Shot,Jump Shot,1,0
+297,334,PT09M01.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant BLOCK (1 BLK),,,1,0
+298,335,PT09M00.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+299,336,PT08M58.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0
+300,336,PT08M58.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson STEAL (1 STL),,,1,0
+301,337,PT08M54.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-12,-1,1,Made,1,73,60,133,h,Westbrook 1' Layup (19 PTS) (Durant 5 AST),Made Shot,Layup Shot,1,0
+302,338,PT08M30.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,58,2,6,Missed,1,0,0,0,v,MISS Monroe 6' Jump Shot,Missed Shot,Jump Shot,1,0
+303,340,PT08M28.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:4 Def:1),Rebound,Unknown,1,0
+304,339,PT08M28.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,22,3,2,Missed,1,0,0,0,v,MISS Antetokounmpo 2' Layup,Missed Shot,Layup Shot,1,0
+305,341,PT08M28.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+306,342,PT08M27.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,-7,7,1,Missed,1,0,0,0,v,MISS Monroe 1' Layup,Missed Shot,Layup Shot,1,0
+307,342,PT08M27.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka BLOCK (4 BLK),,,1,0
+308,343,PT08M25.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+309,344,PT08M23.00S,3,1610612760,OKC,201142,Durant,K. Durant,17,3,2,Made,1,75,60,135,h,Durant 2' Layup (19 PTS) (Westbrook 5 AST),Made Shot,Layup Shot,1,0
+310,345,PT08M23.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+311,348,PT08M02.00S,3,1610612749,MIL,203953,Parker,J. Parker,114,115,16,Missed,1,0,0,0,v,MISS Parker 16' Jump Shot,Missed Shot,Jump Shot,1,0
+312,349,PT08M02.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+313,351,PT07M46.00S,3,1610612749,MIL,203953,Parker,J. Parker,0,0,0,,0,0,0,0,v,SUB: Mayo FOR Parker,Substitution,,0,0
+314,352,PT07M46.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,SUB: Henson FOR Monroe,Substitution,,0,0
+315,353,PT07M37.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0
+316,354,PT07M29.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-140,95,17,Missed,1,0,0,0,v,MISS Middleton 17' Jump Shot,Missed Shot,Jump Shot,1,0
+317,355,PT07M29.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+318,356,PT07M20.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,-6,90,9,Made,1,77,60,137,h,Ibaka 9' Floating Jump Shot (7 PTS) (Westbrook 6 AST),Made Shot,Floating Jump shot,1,0
+319,357,PT07M01.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,-227,8,0,Made,1,77,63,140,v,Carter-Williams  3PT Jump Shot (15 PTS) (Antetokounmpo 2 AST),Made Shot,Jump Shot,1,0
+320,358,PT06M46.00S,3,1610612760,OKC,203500,Adams,S. Adams,27,3,3,Missed,1,0,0,0,h,MISS Adams 3' Layup,Missed Shot,Layup Shot,1,0
+321,359,PT06M45.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+322,360,PT06M34.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-9,38,4,Missed,1,0,0,0,v,MISS Middleton 4' Jump Shot,Missed Shot,Jump Shot,1,0
+323,361,PT06M33.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+324,362,PT06M25.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-166,120,20,Made,1,77,65,142,v,Middleton 20' Jump Shot (17 PTS),Made Shot,Jump Shot,1,0
+325,363,PT06M10.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,19,131,13,Missed,1,0,0,0,h,MISS Ibaka 13' Jump Shot,Missed Shot,Jump Shot,1,0
+326,364,PT06M09.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+327,365,PT06M06.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-29,8,3,Missed,1,0,0,0,h,MISS Westbrook 3' Jump Shot,Missed Shot,Jump Shot,1,0
+328,365,PT06M06.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson BLOCK (2 BLK),,,1,0
+329,366,PT05M59.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,Adams REBOUND (Off:5 Def:1),Rebound,Unknown,1,0
+330,367,PT05M59.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+331,367,PT05M59.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton STEAL (1 STL),,,1,0
+332,368,PT05M55.00S,3,1610612749,MIL,201564,Mayo,O. Mayo,182,180,26,Made,1,77,68,145,v,Mayo 26' 3PT Jump Shot (7 PTS) (Middleton 3 AST),Made Shot,Jump Shot,1,0
+333,369,PT05M55.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+334,373,PT05M32.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,123,234,26,Missed,1,0,0,0,h,MISS Westbrook 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+335,374,PT05M32.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+336,375,PT05M13.00S,3,1610612749,MIL,201564,Mayo,O. Mayo,-7,2,1,Missed,1,0,0,0,v,MISS Mayo 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+337,377,PT05M11.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:5 Def:2),Rebound,Unknown,1,0
+338,376,PT05M11.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,6,16,2,Made,1,77,70,147,v,Antetokounmpo 2' Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,1,0
+339,378,PT04M54.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson S.FOUL (P2.T3) (M.Smith),Foul,Shooting,1,0
+340,379,PT04M54.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,78,70,148,h,Durant Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+341,381,PT04M54.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,SUB: Waiters FOR Roberson,Substitution,,0,0
+342,382,PT04M54.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,79,70,149,h,Durant Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+343,384,PT04M47.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,66,159,17,Made,1,79,72,151,v,Carter-Williams 17' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,0
+344,386,PT04M29.00S,3,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Bucks T.Foul (Def. 3 Sec Mayo ) (G.Zielinski),Foul,Defense 3 Second,1,0
+345,387,PT04M29.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,80,72,152,h,Durant Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,0,0
+346,389,PT04M25.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-17,0,2,Made,1,82,72,154,h,Westbrook 2' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,0
+347,390,PT04M15.00S,3,1610612749,MIL,201564,Mayo,O. Mayo,-7,0,1,Made,1,82,74,156,v,Mayo 1' Reverse Layup (9 PTS) (Carter-Williams 7 AST),Made Shot,Reverse Layup Shot,1,0
+348,391,PT04M06.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton P.FOUL (P2.T4) (M.Smith),Foul,Personal,1,0
+349,392,PT03M55.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+350,393,PT03M48.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-205,146,25,Made,1,82,77,159,v,Middleton 25' 3PT Jump Shot (20 PTS) (Carter-Williams 8 AST),Made Shot,Jump Shot,1,0
+351,394,PT03M29.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,236,21,24,Missed,1,0,0,0,h,MISS Westbrook 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+352,395,PT03M28.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,1,0
+353,396,PT03M28.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams L.B.FOUL (P4.PN) (M.Smith),Foul,Loose Ball,1,0
+354,397,PT03M28.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,83,77,160,h,Ibaka Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+355,399,PT03M28.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,SUB: Payne FOR Westbrook,Substitution,,0,0
+356,400,PT03M28.00S,3,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,SUB: Bayless FOR Carter-Williams,Substitution,,0,0
+357,401,PT03M28.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,84,77,161,h,Ibaka Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+358,403,PT03M20.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-50,174,18,Made,1,84,79,163,v,Middleton 18' Jump Shot (22 PTS) (Bayless 2 AST),Made Shot,Jump Shot,1,0
+359,404,PT03M07.00S,3,1610612760,OKC,201142,Durant,K. Durant,-6,252,25,Missed,1,0,0,0,h,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+360,405,PT03M06.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0
+361,406,PT03M06.00S,3,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo L.B.FOUL (P3.PN) (M.Kogut),Foul,Loose Ball,1,0
+362,407,PT03M06.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,85,79,164,h,Ibaka Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+363,409,PT03M06.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,SUB: O'Bryant III FOR Antetokounmpo,Substitution,,0,0
+364,410,PT03M06.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,SUB: Kanter FOR Adams,Substitution,,0,0
+365,411,PT03M06.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,86,79,165,h,Ibaka Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+366,413,PT02M57.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-138,203,25,Made,1,86,82,168,v,Middleton 25' 3PT Jump Shot (25 PTS) (Bayless 3 AST),Made Shot,Jump Shot,1,0
+367,417,PT02M33.00S,3,1610612760,OKC,203079,Waiters,D. Waiters,10,10,1,Missed,1,0,0,0,h,MISS Waiters 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+368,417,PT02M33.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson BLOCK (3 BLK),,,1,0
+369,418,PT02M31.00S,3,1610612749,MIL,203948,O'Bryant III,J. O'Bryant III,0,0,0,,0,0,0,0,v,O'Bryant III REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+370,415,PT02M25.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,24,2,2,Made,1,86,84,170,v,Middleton 2' Layup (27 PTS),Made Shot,Layup Shot,1,0
+371,416,PT02M25.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Short (Full 3 Short 1),Timeout,Short,0,0
+372,421,PT02M25.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,SUB: Collison FOR Ibaka,Substitution,,0,0
+373,420,PT02M12.00S,3,1610612760,OKC,1626166,Payne,C. Payne,91,7,9,Made,1,88,84,172,h,Payne 9' Floating Jump Shot (9 PTS) (Durant 6 AST),Made Shot,Floating Jump shot,1,0
+374,423,PT01M55.00S,3,1610612749,MIL,203948,O'Bryant III,J. O'Bryant III,10,18,2,Made,1,88,86,174,v,O'Bryant III 2' Layup (2 PTS) (Middleton 4 AST),Made Shot,Layup Shot,1,0
+375,424,PT01M39.00S,3,1610612760,OKC,203079,Waiters,D. Waiters,-45,16,5,Missed,1,0,0,0,h,MISS Waiters 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+376,425,PT01M39.00S,3,1610612749,MIL,203948,O'Bryant III,J. O'Bryant III,0,0,0,,0,0,0,0,v,O'Bryant III REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+377,426,PT01M37.00S,3,1610612749,MIL,203948,O'Bryant III,J. O'Bryant III,0,0,0,,0,0,0,0,v,O'Bryant III Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+378,426,PT01M37.00S,3,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,Payne STEAL (1 STL),,,1,0
+379,427,PT01M37.00S,3,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo P.FOUL (P4.PN) (M.Smith),Foul,Personal,1,0
+380,428,PT01M37.00S,3,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,89,86,175,h,Payne Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+381,433,PT01M37.00S,3,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,SUB: Vaughn FOR Mayo,Substitution,,0,0
+382,435,PT01M37.00S,3,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,90,86,176,h,Payne Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+383,437,PT01M22.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,143,13,14,Missed,1,0,0,0,v,MISS Middleton 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+384,438,PT01M22.00S,3,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,Payne REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+385,439,PT01M16.00S,3,1610612760,OKC,202683,Freedom,E. Freedom,12,-5,1,Made,1,92,86,178,h,Kanter 1' Layup (11 PTS) (Payne 1 AST),Made Shot,Layup Shot,1,0
+386,441,PT00M51.30S,3,1610612749,MIL,203089,Henson,J. Henson,-6,26,3,Made,1,92,88,180,v,Henson 3' Hook Shot (4 PTS) (Middleton 5 AST),Made Shot,Hook Shot,1,0
+387,442,PT00M34.90S,3,1610612760,OKC,201142,Durant,K. Durant,20,18,3,Missed,1,0,0,0,h,MISS Durant 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+388,443,PT00M33.50S,3,1610612749,MIL,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,v,Bayless REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+389,445,PT00M11.80S,3,1610612749,MIL,203114,Middleton,K. Middleton,-96,257,27,Missed,1,0,0,0,v,MISS Middleton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+390,446,PT00M09.90S,3,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+391,447,PT00M02.90S,3,1610612760,OKC,1626166,Payne,C. Payne,-124,247,28,Missed,1,0,0,0,h,MISS Payne 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+392,448,PT00M01.90S,3,1610612749,MIL,1626173,Vaughn,R. Vaughn,0,0,0,,0,0,0,0,v,Vaughn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+393,450,PT00M00.00S,3,0,,0,,,0,0,0,,0,92,88,180,,End of 3rd Period (9:49 PM EST),period,end,0,0
+394,451,PT12M00.00S,4,0,,0,,,0,0,0,,0,92,88,180,,Start of 4th Period (9:51 PM EST),period,start,0,0
+395,452,PT11M43.00S,4,1610612760,OKC,203079,Waiters,D. Waiters,15,7,2,Made,1,94,88,182,h,Waiters 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+396,453,PT11M19.00S,4,1610612749,MIL,201573,Bayless,J. Bayless,-20,188,19,Missed,1,0,0,0,v,MISS Bayless 19' Jump Shot,Missed Shot,Jump Shot,1,0
+397,454,PT11M19.00S,4,1610612760,OKC,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,h,Waiters REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+398,455,PT11M01.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,8,1,Missed,1,0,0,0,h,MISS Kanter 1' Layup,Missed Shot,Layup Shot,1,0
+399,455,PT11M01.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson BLOCK (4 BLK),,,1,0
+400,456,PT11M00.00S,4,1610612749,MIL,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,v,Bayless REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+401,457,PT10M57.00S,4,1610612749,MIL,201573,Bayless,J. Bayless,2,21,2,Made,1,94,90,184,v,Bayless 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,0
+402,458,PT10M57.00S,4,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,Payne S.FOUL (P3.T1) (M.Kogut),Foul,Shooting,1,0
+403,525,PT10M57.00S,4,1610612760,OKC,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,h,Waiters Violation:Lane (M.Kogut),Violation,Lane,0,0
+404,526,PT10M57.00S,4,1610612749,MIL,201573,Bayless,J. Bayless,0,0,0,,0,94,91,185,v,Bayless Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0
+405,465,PT10M37.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,-143,205,25,Made,1,97,91,188,h,Morrow 25' 3PT Jump Shot (7 PTS) (Waiters 1 AST),Made Shot,Jump Shot,1,0
+406,466,PT10M21.00S,4,1610612749,MIL,1626173,Vaughn,R. Vaughn,0,0,0,,0,0,0,0,v,Vaughn Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0
+407,466,PT10M21.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter STEAL (2 STL),,,1,0
+408,467,PT10M15.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,-151,195,25,Made,1,100,91,191,h,Morrow 25' 3PT Jump Shot (10 PTS) (Payne 2 AST),Made Shot,Jump Shot,1,0
+409,468,PT10M14.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+410,473,PT10M14.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,SUB: Mayo FOR Henson,Substitution,,0,0
+411,475,PT10M14.00S,4,1610612749,MIL,1626173,Vaughn,R. Vaughn,0,0,0,,0,0,0,0,v,SUB: Plumlee FOR Vaughn,Substitution,,0,0
+412,478,PT09M54.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0
+413,478,PT09M54.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,Collison STEAL (1 STL),,,1,0
+414,479,PT09M54.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo P.FOUL (P2.T1) (M.Smith),Foul,Personal,1,0
+415,480,PT09M42.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,176,175,25,Missed,1,0,0,0,h,MISS Morrow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+416,481,PT09M41.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:5 Def:3),Rebound,Unknown,1,0
+417,482,PT09M29.00S,4,1610612749,MIL,201564,Mayo,O. Mayo,-235,26,24,Made,1,100,94,194,v,Mayo 24' 3PT Jump Shot (12 PTS) (Bayless 4 AST),Made Shot,Jump Shot,1,0
+418,483,PT09M00.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,12,7,1,Made,1,102,94,196,h,Kanter 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,0
+419,484,PT08M40.00S,4,1610612760,OKC,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,h,Waiters S.FOUL (P3.T2) (M.Smith),Foul,Shooting,1,0
+420,485,PT08M40.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,MISS Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+421,486,PT08M40.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+422,487,PT08M40.00S,4,1610612749,MIL,203948,O'Bryant III,J. O'Bryant III,0,0,0,,0,0,0,0,v,SUB: Middleton FOR O'Bryant III,Substitution,,0,0
+423,488,PT08M40.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,102,95,197,v,Antetokounmpo Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+424,490,PT08M29.00S,4,1610612760,OKC,1626166,Payne,C. Payne,-155,198,25,Made,1,105,95,200,h,Payne 25' 3PT Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,0
+425,491,PT08M20.00S,4,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,Payne P.FOUL (P4.T3) (M.Kogut),Foul,Personal,1,0
+426,492,PT08M20.00S,4,1610612760,OKC,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,h,SUB: Westbrook FOR Waiters,Substitution,,0,0
+427,493,PT08M20.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0,0,0,h,SUB: Ibaka FOR Collison,Substitution,,0,0
+428,494,PT08M20.00S,4,1610612749,MIL,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,v,SUB: Carter-Williams FOR Bayless,Substitution,,0,0
+429,495,PT08M10.00S,4,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo OFF.Foul (P5) (G.Zielinski),Foul,Offensive,1,0
+430,496,PT08M10.00S,4,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo Foul Turnover (P1.T12),Turnover,Foul,1,0
+431,497,PT08M10.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+432,499,PT07M54.00S,4,1610612749,MIL,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,Plumlee Violation:Defensive Goaltending (M.Kogut),Violation,Defensive Goaltending,0,0
+433,498,PT07M54.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,21,2,Made,1,107,95,202,h,Westbrook 2' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+434,500,PT07M38.00S,4,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,33,164,17,Missed,1,0,0,0,v,MISS Carter-Williams 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+435,501,PT07M37.00S,4,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,Payne REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+436,502,PT07M29.00S,4,1610612760,OKC,1626166,Payne,C. Payne,87,200,22,Made,1,109,95,204,h,Payne 22' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,0
+437,503,PT07M15.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook S.FOUL (P1.T4) (M.Kogut),Foul,Shooting,1,0
+438,504,PT07M15.00S,4,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,109,96,205,v,Mayo Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+439,506,PT07M15.00S,4,1610612749,MIL,203101,Plumlee,M. Plumlee,0,0,0,,0,0,0,0,v,SUB: Henson FOR Plumlee,Substitution,,0,0
+440,507,PT07M15.00S,4,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,SUB: Durant FOR Morrow,Substitution,,0,0
+441,508,PT07M15.00S,4,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,109,97,206,v,Mayo Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+442,510,PT07M03.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,9,2,1,Made,1,111,97,208,h,Kanter 1' Layup (15 PTS) (Payne 3 AST),Made Shot,Layup Shot,1,0
+443,511,PT06M54.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-176,188,26,Made,1,111,100,211,v,Middleton 26' 3PT Jump Shot (30 PTS) (Mayo 2 AST),Made Shot,Jump Shot,1,0
+444,512,PT06M38.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,1,2,0,Missed,1,0,0,0,h,MISS Westbrook  Layup,Missed Shot,Layup Shot,1,0
+445,512,PT06M38.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson BLOCK (5 BLK),,,1,0
+446,513,PT06M37.00S,4,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+447,514,PT06M34.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,111,102,213,v,Antetokounmpo  Dunk (18 PTS) (Carter-Williams 9 AST),Made Shot,Dunk Shot,1,0
+448,515,PT06M13.00S,4,1610612760,OKC,201142,Durant,K. Durant,19,247,25,Missed,1,0,0,0,h,MISS Durant 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+449,516,PT06M12.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+450,517,PT06M06.00S,4,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,-14,7,2,Missed,1,0,0,0,v,MISS Carter-Williams 2' Layup,Missed Shot,Layup Shot,1,0
+451,518,PT06M05.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+452,519,PT06M01.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,74,156,17,Missed,1,0,0,0,h,MISS Westbrook 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+453,520,PT06M00.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:5 Def:4),Rebound,Unknown,1,0
+454,527,PT05M49.00S,4,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,SUB: Bayless FOR Mayo,Substitution,,0,0
+455,528,PT05M49.00S,4,1610612760,OKC,1626166,Payne,C. Payne,0,0,0,,0,0,0,0,h,SUB: Waiters FOR Payne,Substitution,,0,0
+456,529,PT05M38.00S,4,1610612749,MIL,203089,Henson,J. Henson,9,11,1,Made,1,111,104,215,v,Henson 1' Layup (6 PTS) (Middleton 6 AST),Made Shot,Layup Shot,1,0
+457,530,PT05M28.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,1,0,Made,1,113,104,217,h,Kanter  Dunk (17 PTS) (Durant 7 AST),Made Shot,Dunk Shot,1,0
+458,531,PT05M06.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,24,7,3,Made,1,113,106,219,v,Antetokounmpo 3' Finger Roll Layup (20 PTS),Made Shot,Finger Roll Layup Shot,1,0
+459,532,PT04M52.00S,4,1610612760,OKC,203079,Waiters,D. Waiters,-228,7,0,Missed,1,0,0,0,h,MISS Waiters  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+460,533,PT04M51.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+461,534,PT04M47.00S,4,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+462,535,PT04M24.00S,4,1610612760,OKC,201142,Durant,K. Durant,43,200,20,Missed,1,0,0,0,h,MISS Durant 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+463,536,PT04M24.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+464,537,PT04M23.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo S.FOUL (P3.T2) (M.Kogut),Foul,Shooting,1,0
+465,538,PT04M23.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,114,106,220,h,Kanter Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+466,540,PT04M23.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,115,106,221,h,Kanter Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+467,542,PT04M14.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,1,0,Made,1,115,108,223,v,Henson  Alley Oop Dunk (8 PTS) (Middleton 7 AST),Made Shot,Alley Oop Dunk Shot,1,0
+468,543,PT03M59.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,9,2,1,Made,1,117,108,225,h,Kanter 1' Layup (21 PTS) (Durant 8 AST),Made Shot,Layup Shot,1,0
+469,544,PT03M42.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,17,2,2,Made,1,117,110,227,v,Middleton 2' Driving Layup (32 PTS),Made Shot,Driving Layup Shot,1,0
+470,545,PT03M29.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson S.FOUL (P3.T3) (M.Smith),Foul,Shooting,1,0
+471,546,PT03M29.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,118,110,228,h,Kanter Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0
+472,548,PT03M29.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,119,110,229,h,Kanter Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+473,550,PT03M16.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,119,112,231,v,Antetokounmpo  Dunk (22 PTS) (Henson 3 AST),Made Shot,Dunk Shot,1,0
+474,551,PT02M57.00S,4,1610612760,OKC,201142,Durant,K. Durant,101,3,10,Made,1,121,112,233,h,Durant 10' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,0
+475,552,PT02M44.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,Kanter Personal Block Foul (P2.PN) (M.Smith),Foul,Personal Block,1,0
+476,553,PT02M44.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+477,554,PT02M44.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,h,SUB: Adams FOR Kanter,Substitution,,0,0
+478,555,PT02M44.00S,4,1610612749,MIL,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,v,SUB: Mayo FOR Bayless,Substitution,,0,0
+479,556,PT02M44.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,121,113,234,v,Middleton Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,0,0
+480,558,PT02M44.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,121,114,235,v,Middleton Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,0,0
+481,560,PT02M30.00S,4,1610612760,OKC,203500,Adams,S. Adams,0,43,4,Made,1,123,114,237,h,Adams 4' Floating Jump Shot (8 PTS) (Westbrook 7 AST),Made Shot,Floating Jump shot,1,0
+482,561,PT02M12.00S,4,1610612749,MIL,203089,Henson,J. Henson,4,36,4,Missed,1,0,0,0,v,MISS Henson 4' Hook Shot,Missed Shot,Hook Shot,1,0
+483,563,PT02M11.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo REBOUND (Off:6 Def:4),Rebound,Unknown,1,0
+484,562,PT02M11.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,123,116,239,v,Antetokounmpo  Putback Dunk (24 PTS),Made Shot,Putback Dunk Shot,1,0
+485,564,PT02M03.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+486,565,PT02M03.00S,4,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0,0,0,h,SUB: Roberson FOR Adams,Substitution,,0,0
+487,567,PT01M52.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,6,13,1,Made,1,125,116,241,h,Westbrook 1' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,0
+488,568,PT01M48.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant P.FOUL (P2.PN) (G.Zielinski),Foul,Personal,1,0
+489,569,PT01M48.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,MISS Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+490,570,PT01M48.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+491,571,PT01M48.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,125,117,242,v,Antetokounmpo Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+492,573,PT01M30.00S,4,1610612760,OKC,201142,Durant,K. Durant,-137,131,19,Missed,1,0,0,0,h,MISS Durant 19' Jump Shot,Missed Shot,Jump Shot,1,0
+493,574,PT01M30.00S,4,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+494,575,PT01M24.00S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson P.FOUL (P2.PN) (M.Kogut),Foul,Personal,1,0
+495,576,PT01M24.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,125,118,243,v,Antetokounmpo Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0
+496,578,PT01M24.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,125,119,244,v,Antetokounmpo Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0
+497,580,PT01M15.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,-1,-1,0,Made,1,127,119,246,h,Westbrook  Driving Layup (27 PTS),Made Shot,Driving Layup Shot,1,0
+498,581,PT01M06.00S,4,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0
+499,581,PT01M06.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook STEAL (5 STL),,,1,0
+500,583,PT00M55.90S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0
+501,583,PT00M55.90S,4,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams STEAL (2 STL),,,1,0
+502,584,PT00M51.30S,4,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,-3,-1,0,Made,1,127,121,248,v,Carter-Williams  Running Dunk (19 PTS),Made Shot,Running Dunk Shot,1,0
+503,585,PT00M33.90S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,225,16,0,Missed,1,0,0,0,h,MISS Ibaka  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+504,586,PT00M32.90S,4,1610612749,MIL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,v,Carter-Williams REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+505,587,PT00M22.90S,4,1610612749,MIL,203114,Middleton,K. Middleton,-156,193,25,Missed,1,0,0,0,v,MISS Middleton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+506,588,PT00M21.90S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,Westbrook REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+507,589,PT00M18.70S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo Personal Take Foul (P4.T4) (M.Smith),Foul,Personal Take,1,0
+508,590,PT00M18.70S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,SUB: Morrow FOR Roberson,Substitution,,0,0
+509,591,PT00M18.70S,4,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,SUB: Bayless FOR Mayo,Substitution,,0,0
+510,592,PT00M17.20S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo Personal Take Foul (P5.PN) (M.Smith),Foul,Personal Take,1,0
+511,593,PT00M17.20S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,128,121,249,h,Durant Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0
+512,595,PT00M17.20S,4,1610612760,OKC,201627,Morrow,A. Morrow,0,0,0,,0,0,0,0,h,SUB: Roberson FOR Morrow,Substitution,,0,0
+513,596,PT00M17.20S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,129,121,250,h,Durant Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0
+514,598,PT00M17.20S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0
+515,600,PT00M17.20S,4,1610612749,MIL,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,v,SUB: Mayo FOR Bayless,Substitution,,0,0
+516,602,PT00M11.90S,4,1610612749,MIL,201564,Mayo,O. Mayo,-117,7,12,Missed,1,0,0,0,v,MISS Mayo 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+517,603,PT00M10.90S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0,0,0,h,Roberson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+518,604,PT00M07.80S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,Antetokounmpo P.FOUL (P6.PN) (M.Smith),Foul,Personal,1,0
+519,605,PT00M07.80S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,SUB: Bayless FOR Antetokounmpo,Substitution,,0,0
+520,606,PT00M07.80S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,130,121,251,h,Roberson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0
+521,608,PT00M07.80S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,131,121,252,h,Roberson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0
+522,610,PT00M01.20S,4,1610612749,MIL,203114,Middleton,K. Middleton,-7,7,1,Made,1,131,123,254,v,Middleton 1' Running Layup (36 PTS),Made Shot,Running Layup Shot,1,0
+523,611,PT00M01.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0,0,0,h,Durant Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0
+524,611,PT00M01.00S,4,1610612749,MIL,201564,Mayo,O. Mayo,0,0,0,,0,0,0,0,v,Mayo STEAL (2 STL),,,1,0
+525,612,PT00M00.00S,4,1610612749,MIL,201564,Mayo,O. Mayo,-99,7,10,Missed,1,0,0,0,v,MISS Mayo 10' Jump Shot,Missed Shot,Jump Shot,1,0
+526,613,PT00M00.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+527,614,PT00M00.00S,4,0,,0,,,0,0,0,,0,131,123,254,,End of 4th Period (10:26 PM EST),period,end,0,0

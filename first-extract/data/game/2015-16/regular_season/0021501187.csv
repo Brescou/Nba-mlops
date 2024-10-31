@@ -1,0 +1,499 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Jump Ball Gobert vs. Aldrich: Tip to Hayward,Jump Ball,,1,0
+3,2,PT11M38.00S,1,1610612762,UTA,203918,Hood,R. Hood,-163,188,25,Missed,1,0,0,0,h,MISS Hood 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+4,3,PT11M37.00S,1,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,Mack REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+5,4,PT11M17.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,-35,75,8,Missed,1,0,0,0,h,MISS Hayward 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+6,5,PT11M17.00S,1,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+7,6,PT10M53.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,153,169,23,Missed,1,0,0,0,v,MISS Mbah a Moute 23' Jump Shot,Missed Shot,Jump Shot,1,0
+8,7,PT10M53.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+9,8,PT10M28.00S,1,1610612746,LAC,203143,Prigioni,P. Prigioni,220,164,27,Made,1,0,3,3,v,Prigioni 27' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,0
+10,9,PT10M12.00S,1,1610612762,UTA,202324,Favors,D. Favors,33,38,5,Made,1,2,3,5,h,Favors 5' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+11,10,PT09M49.00S,1,1610612746,LAC,202332,Aldrich,C. Aldrich,10,13,2,Made,1,2,5,7,v,Aldrich 2' Layup (2 PTS) (Crawford 1 AST),Made Shot,Layup Shot,1,0
+12,11,PT09M33.00S,1,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,Mack Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+13,11,PT09M33.00S,1,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce STEAL (1 STL),,,1,0
+14,12,PT09M22.00S,1,1610612746,LAC,1718,Pierce,P. Pierce,-19,0,2,Made,1,2,7,9,v,Pierce 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+15,13,PT09M01.00S,1,1610612762,UTA,202714,Mack,S. Mack,22,7,2,Made,1,4,7,11,h,Mack 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+16,14,PT08M41.00S,1,1610612746,LAC,1718,Pierce,P. Pierce,-61,87,11,Made,1,4,9,13,v,Pierce 11' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,0
+17,15,PT08M29.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+18,15,PT08M29.00S,1,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich STEAL (1 STL),,,1,0
+19,16,PT08M25.00S,1,1610612746,LAC,203143,Prigioni,P. Prigioni,20,0,2,Made,1,4,11,15,v,Prigioni 2' Running Layup (5 PTS) (Pierce 1 AST),Made Shot,Running Layup Shot,1,0
+20,17,PT08M25.00S,1,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+21,19,PT08M09.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+22,19,PT08M09.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute STEAL (1 STL),,,1,0
+23,20,PT08M02.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,-120,213,24,Made,1,4,14,18,v,Crawford 24' 3PT Pullup Jump Shot (3 PTS) (Mbah a Moute 1 AST),Made Shot,Pullup Jump shot,1,0
+24,22,PT07M51.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford P.FOUL (P1.T1) (T.Washington),Foul,Personal,1,0
+25,23,PT07M45.00S,1,1610612762,UTA,202714,Mack,S. Mack,-120,210,24,Missed,1,0,0,0,h,MISS Mack 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+26,24,PT07M44.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+27,25,PT07M40.00S,1,1610612762,UTA,203918,Hood,R. Hood,50,242,25,Missed,1,0,0,0,h,MISS Hood 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+28,26,PT07M37.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+29,27,PT07M36.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,-2,18,2,Made,1,6,14,20,h,Gobert 2' Layup (2 PTS),Made Shot,Layup Shot,1,0
+30,28,PT07M18.00S,1,1610612746,LAC,202332,Aldrich,C. Aldrich,69,46,8,Made,1,6,16,22,v,Aldrich 8' Hook Shot (4 PTS) (Prigioni 1 AST),Made Shot,Hook Shot,1,0
+31,29,PT06M58.00S,1,1610612762,UTA,202324,Favors,D. Favors,71,200,21,Missed,1,0,0,0,h,MISS Favors 21' Jump Shot,Missed Shot,Jump Shot,1,0
+32,30,PT06M56.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+33,31,PT06M56.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,1,0,Made,1,8,16,24,h,Gobert  Dunk (4 PTS),Made Shot,Dunk Shot,1,0
+34,32,PT06M25.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0
+35,33,PT06M25.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Booker FOR Favors,Substitution,,0,0
+36,34,PT06M25.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,SUB: Ingles FOR Hayward,Substitution,,0,0
+37,35,PT06M06.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,-174,169,24,Missed,1,0,0,0,h,MISS Ingles 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+38,36,PT06M05.00S,1,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+39,37,PT05M56.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0
+40,38,PT05M56.00S,1,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,8,17,25,v,Aldrich Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+41,40,PT05M56.00S,1,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Green FOR Pierce,Substitution,,0,0
+42,41,PT05M56.00S,1,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,MISS Aldrich Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+43,43,PT05M54.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+44,44,PT05M46.00S,1,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Clippers T.Foul (Def. 3 Sec Green ) (L.Richardson),Foul,Defense 3 Second,1,0
+45,45,PT05M46.00S,1,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,9,17,26,h,Hood Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+46,47,PT05M30.00S,1,1610612762,UTA,202344,Booker,T. Booker,-140,174,22,Made,1,11,17,28,h,Booker 22' Jump Shot (2 PTS) (Gobert 1 AST),Made Shot,Jump Shot,1,0
+47,48,PT05M17.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,96,223,24,Missed,1,0,0,0,v,MISS Crawford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+48,49,PT05M17.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+49,50,PT05M10.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute Violation:Kicked Ball (.),Violation,Kicked Ball,0,0
+50,51,PT05M01.00S,1,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Clippers T.Foul (Def. 3 Sec Green ) (L.Richardson),Foul,Defense 3 Second,1,0
+51,52,PT05M01.00S,1,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,MISS Hood Free Throw Technical,Free Throw,Free Throw Technical,0,0
+52,53,PT05M01.00S,1,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+53,54,PT04M51.00S,1,1610612762,UTA,203918,Hood,R. Hood,-9,239,24,Made,1,14,17,31,h,Hood 24' 3PT Jump Shot (4 PTS) (Mack 1 AST),Made Shot,Jump Shot,1,0
+54,55,PT04M49.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+55,57,PT04M26.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,-53,141,15,Missed,1,0,0,0,v,MISS Crawford 15' Jump Shot,Missed Shot,Jump Shot,1,0
+56,58,PT04M25.00S,1,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+57,59,PT04M24.00S,1,1610612746,LAC,202332,Aldrich,C. Aldrich,61,0,6,Made,1,14,19,33,v,Aldrich 6' Hook Shot (7 PTS),Made Shot,Hook Shot,1,0
+58,60,PT04M01.00S,1,1610612762,UTA,203918,Hood,R. Hood,-214,116,24,Missed,1,0,0,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+59,61,PT04M00.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+60,62,PT03M43.00S,1,1610612746,LAC,203143,Prigioni,P. Prigioni,119,52,13,Missed,1,0,0,0,v,MISS Prigioni 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+61,63,PT03M43.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+62,64,PT03M23.00S,1,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0
+63,65,PT03M23.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Crawford,Substitution,,0,0
+64,66,PT03M23.00S,1,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,SUB: Ayres FOR Aldrich,Substitution,,0,0
+65,67,PT03M09.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,105,218,24,Made,1,17,19,36,h,Ingles 24' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,0
+66,68,PT02M46.00S,1,1610612746,LAC,201145,Green,J. Green,127,-5,13,Made,1,17,21,38,v,Green 13' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+67,69,PT02M26.00S,1,1610612762,UTA,202714,Mack,S. Mack,-22,47,5,Made,1,19,21,40,h,Mack 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,0
+68,71,PT02M13.00S,1,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,SUB: Neto FOR Mack,Substitution,,0,0
+69,72,PT02M13.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,SUB: Favors FOR Gobert,Substitution,,0,0
+70,73,PT02M13.00S,1,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,SUB: Hayward FOR Hood,Substitution,,0,0
+71,74,PT02M13.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Dawson FOR Mbah a Moute,Substitution,,0,0
+72,75,PT02M02.00S,1,1610612746,LAC,203143,Prigioni,P. Prigioni,-219,151,27,Missed,1,0,0,0,v,MISS Prigioni 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+73,76,PT02M01.00S,1,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+74,78,PT01M53.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles P.FOUL (P2.T2) (T.Washington),Foul,Personal,1,0
+75,79,PT01M53.00S,1,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,19,22,41,v,Wilcox Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+76,81,PT01M53.00S,1,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Prigioni,Substitution,,0,0
+77,82,PT01M53.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,SUB: Burks FOR Ingles,Substitution,,0,0
+78,83,PT01M53.00S,1,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,19,23,42,v,Wilcox Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+79,85,PT01M30.00S,1,1610612762,UTA,203526,Neto,R. Neto,-189,169,25,Missed,1,0,0,0,h,MISS Neto 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+80,85,PT01M30.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford BLOCK (1 BLK),,,1,0
+81,86,PT01M29.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+82,87,PT01M27.00S,1,1610612762,UTA,202324,Favors,D. Favors,32,2,3,Made,1,21,23,44,h,Favors 3' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,1,0
+83,88,PT01M00.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0
+84,89,PT00M44.80S,1,1610612762,UTA,202324,Favors,D. Favors,-135,3,14,Missed,1,0,0,0,h,MISS Favors 14' Jump Shot,Missed Shot,Jump Shot,1,0
+85,90,PT00M42.90S,1,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+86,91,PT00M34.90S,1,1610612746,LAC,201145,Green,J. Green,20,2,2,Missed,1,0,0,0,v,MISS Green 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+87,92,PT00M34.60S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+88,93,PT00M29.20S,1,1610612762,UTA,202344,Booker,T. Booker,-22,2,2,Missed,1,0,0,0,h,MISS Booker 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+89,94,PT00M29.20S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+90,95,PT00M28.70S,1,1610612762,UTA,202330,Hayward,G. Hayward,17,2,2,Made,1,23,23,46,h,Hayward 2' Layup (2 PTS),Made Shot,Layup Shot,1,0
+91,96,PT00M07.50S,1,1610612746,LAC,2037,Crawford,J. Crawford,19,149,15,Made,1,23,25,48,v,Crawford 15' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,0
+92,97,PT00M00.40S,1,1610612762,UTA,202344,Booker,T. Booker,-227,-1,0,Made,1,26,25,51,h,Booker  3PT Jump Shot (5 PTS) (Hayward 1 AST),Made Shot,Jump Shot,1,0
+93,98,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,25,51,,End of 1st Period (9:34 PM EST),period,end,0,0
+94,100,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,25,51,,Start of 2nd Period (9:37 PM EST),period,start,0,0
+95,101,PT11M39.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-232,70,24,Missed,1,0,0,0,v,MISS Crawford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+96,102,PT11M39.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+97,103,PT11M31.00S,2,1610612762,UTA,202692,Burks,A. Burks,235,-11,24,Made,1,29,25,54,h,Burks 24' 3PT Jump Shot (3 PTS) (Hayward 2 AST),Made Shot,Jump Shot,1,0
+98,104,PT11M05.00S,2,1610612746,LAC,1718,Pierce,P. Pierce,-25,252,25,Made,1,29,28,57,v,Pierce 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,0
+99,105,PT10M43.00S,2,1610612746,LAC,201965,Ayres,J. Ayres,0,0,0,,0,0,0,0,v,Ayres S.FOUL (P1.T1) (T.Washington),Foul,Shooting,1,0
+100,106,PT10M43.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,30,28,58,h,Favors Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+101,108,PT10M43.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,MISS Favors Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+102,110,PT10M43.00S,2,1610612746,LAC,201965,Ayres,J. Ayres,0,0,0,,0,0,0,0,v,Ayres REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+103,111,PT10M30.00S,2,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+104,111,PT10M30.00S,2,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto STEAL (1 STL),,,1,0
+105,112,PT10M25.00S,2,1610612762,UTA,203526,Neto,R. Neto,-17,3,2,Made,1,32,28,60,h,Neto 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,0
+106,113,PT10M10.00S,2,1610612746,LAC,201145,Green,J. Green,17,-1,2,Made,1,32,30,62,v,Green 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+107,114,PT09M52.00S,2,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+108,114,PT09M52.00S,2,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox STEAL (1 STL),,,1,0
+109,115,PT09M47.00S,2,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto S.FOUL (P1.T1) (T.Washington),Foul,Shooting,1,0
+110,116,PT09M47.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,32,31,63,v,Crawford Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+111,117,PT09M47.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,SUB: Hood FOR Burks,Substitution,,0,0
+112,118,PT09M47.00S,2,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,SUB: Lyles FOR Booker,Substitution,,0,0
+113,119,PT09M47.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,32,32,64,v,Crawford Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+114,121,PT09M33.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,73,100,12,Made,1,34,32,66,h,Lyles 12' Floating Jump Shot (2 PTS) (Hood 1 AST),Made Shot,Floating Jump shot,1,0
+115,122,PT09M15.00S,2,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0
+116,122,PT09M15.00S,2,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto STEAL (2 STL),,,1,0
+117,123,PT09M10.00S,2,1610612762,UTA,203918,Hood,R. Hood,0,1,0,Made,1,36,32,68,h,Hood  Running Dunk (6 PTS) (Neto 1 AST),Made Shot,Running Dunk Shot,1,0
+118,125,PT08M52.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+119,127,PT08M49.00S,2,1610612746,LAC,1718,Pierce,P. Pierce,119,149,19,Missed,1,0,0,0,v,MISS Pierce 19' Jump Shot,Missed Shot,Jump Shot,1,0
+120,128,PT08M48.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+121,129,PT08M28.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,97,144,17,Missed,1,0,0,0,h,MISS Hayward 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+122,130,PT08M28.00S,2,1610612746,LAC,201965,Ayres,J. Ayres,0,0,0,,0,0,0,0,v,Ayres REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+123,131,PT08M17.00S,2,1610612746,LAC,201965,Ayres,J. Ayres,-29,0,3,Missed,1,0,0,0,v,MISS Ayres 3' Layup,Missed Shot,Layup Shot,1,0
+124,132,PT08M16.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+125,133,PT08M03.00S,2,1610612762,UTA,203526,Neto,R. Neto,-43,16,5,Made,1,38,32,70,h,Neto 5' Hook Bank Shot (4 PTS),Made Shot,Hook Bank Shot,1,0
+126,134,PT07M37.00S,2,1610612746,LAC,201145,Green,J. Green,-1,254,25,Missed,1,0,0,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+127,135,PT07M37.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+128,136,PT07M24.00S,2,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0
+129,137,PT07M24.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Gobert FOR Favors,Substitution,,0,0
+130,138,PT07M24.00S,2,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Prigioni FOR Wilcox,Substitution,,0,0
+131,139,PT07M24.00S,2,1610612746,LAC,201965,Ayres,J. Ayres,0,0,0,,0,0,0,0,v,SUB: Aldrich FOR Ayres,Substitution,,0,0
+132,140,PT07M24.00S,2,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Mbah a Moute FOR Pierce,Substitution,,0,0
+133,141,PT07M12.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,232,70,24,Missed,1,0,0,0,h,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+134,142,PT07M12.00S,2,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+135,143,PT07M03.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-6,154,15,Made,1,38,34,72,v,Crawford 15' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,1,0
+136,144,PT06M40.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,-230,2,0,Made,1,41,34,75,h,Hayward  3PT Jump Shot (5 PTS) (Neto 2 AST),Made Shot,Jump Shot,1,0
+137,145,PT06M26.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+138,147,PT06M26.00S,2,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,SUB: Mack FOR Neto,Substitution,,0,0
+139,148,PT06M13.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-240,52,25,Missed,1,0,0,0,v,MISS Crawford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+140,149,PT06M13.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+141,150,PT05M55.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,215,-1,22,Made,1,43,34,77,h,Hayward 22' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,0
+142,151,PT05M30.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+143,152,PT05M16.00S,2,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute S.FOUL (P1.T3) (L.Richardson),Foul,Shooting,1,0
+144,153,PT05M16.00S,2,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,44,34,78,h,Mack Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+145,154,PT05M16.00S,2,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,SUB: Pierce FOR Green,Substitution,,0,0
+146,155,PT05M16.00S,2,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,45,34,79,h,Mack Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+147,157,PT04M54.00S,2,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0
+148,158,PT04M36.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,30,8,3,Missed,1,0,0,0,h,MISS Hayward 3' Jump Shot,Missed Shot,Jump Shot,1,0
+149,159,PT04M36.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+150,160,PT04M22.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,-20,7,2,Made,1,45,36,81,v,Aldrich 2' Layup (9 PTS),Made Shot,Layup Shot,1,0
+151,161,PT04M05.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,37,146,15,Made,1,47,36,83,h,Lyles 15' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+152,162,PT03M50.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,140,131,19,Made,1,47,38,85,v,Crawford 19' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,0
+153,163,PT03M41.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0
+154,163,PT03M41.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich STEAL (2 STL),,,1,0
+155,164,PT03M29.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,12,41,4,Missed,1,0,0,0,v,MISS Aldrich 4' Hook Shot,Missed Shot,Hook Shot,1,0
+156,165,PT03M28.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+157,166,PT03M28.00S,2,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,SUB: Ingles FOR Hood,Substitution,,0,0
+158,167,PT03M04.00S,2,1610612762,UTA,202714,Mack,S. Mack,48,-1,5,Missed,1,0,0,0,h,MISS Mack 5' Jump Shot,Missed Shot,Jump Shot,1,0
+159,168,PT03M04.00S,2,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+160,169,PT03M04.00S,2,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,Mack P.FOUL (P1.T2) (L.Richardson),Foul,Personal,1,0
+161,170,PT02M54.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,140,149,20,Missed,1,0,0,0,v,MISS Crawford 20' Jump Shot,Missed Shot,Jump Shot,1,0
+162,171,PT02M53.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+163,172,PT02M46.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich S.FOUL (P1.T4) (M.Smith),Foul,Shooting,1,0
+164,173,PT02M46.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+165,175,PT02M46.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+166,176,PT02M46.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+167,177,PT02M46.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,48,38,86,h,Hayward Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+168,179,PT02M26.00S,2,1610612746,LAC,1718,Pierce,P. Pierce,-38,237,24,Made,1,48,41,89,v,Pierce 24' 3PT Jump Shot (10 PTS) (Prigioni 2 AST),Made Shot,Jump Shot,1,0
+169,180,PT02M10.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,-24,38,4,Missed,1,0,0,0,h,MISS Lyles 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+170,181,PT02M10.00S,2,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+171,182,PT02M05.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,56,18,6,Made,1,48,43,91,v,Crawford 6' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,1,0
+172,183,PT02M05.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles S.FOUL (P3.T3) (T.Washington),Foul,Shooting,1,0
+173,184,PT02M05.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,SUB: Hood FOR Ingles,Substitution,,0,0
+174,185,PT02M05.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,48,44,92,v,Crawford Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0
+175,186,PT01M49.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,45,8,5,Missed,1,0,0,0,h,MISS Lyles 5' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+176,187,PT01M49.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+177,188,PT01M31.00S,2,1610612746,LAC,1718,Pierce,P. Pierce,-140,75,16,Missed,1,0,0,0,v,MISS Pierce 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+178,189,PT01M31.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+179,190,PT01M11.00S,2,1610612762,UTA,202714,Mack,S. Mack,2,239,24,Missed,1,0,0,0,h,MISS Mack 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+180,191,PT01M11.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+181,193,PT01M10.00S,2,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,SUB: Favors FOR Lyles,Substitution,,0,0
+182,194,PT00M59.90S,2,1610612762,UTA,203918,Hood,R. Hood,-60,111,13,Made,1,50,44,94,h,Hood 13' Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+183,195,PT00M46.10S,2,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood S.FOUL (P1.T4) (L.Richardson),Foul,Shooting,1,0
+184,196,PT00M46.10S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,MISS Crawford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+185,197,PT00M46.10S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0
+186,198,PT00M46.10S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,50,45,95,v,Crawford Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+187,202,PT00M33.90S,2,1610612762,UTA,202330,Hayward,G. Hayward,10,90,9,Made,1,52,45,97,h,Hayward 9' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,0
+188,203,PT00M11.90S,2,1610612746,LAC,1718,Pierce,P. Pierce,30,116,12,Made,1,52,47,99,v,Pierce 12' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+189,204,PT00M07.00S,2,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni Personal Take Foul (P2.PN) (L.Richardson),Foul,Personal Take,1,0
+190,205,PT00M07.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+191,206,PT00M07.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+192,207,PT00M07.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,SUB: Green FOR Aldrich,Substitution,,0,0
+193,208,PT00M07.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Booker FOR Favors,Substitution,,0,0
+194,209,PT00M07.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+195,210,PT00M07.00S,2,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Mbah a Moute,Substitution,,0,0
+196,212,PT00M07.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+197,213,PT00M07.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+198,215,PT00M06.80S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+199,216,PT00M00.50S,2,1610612746,LAC,2037,Crawford,J. Crawford,119,262,29,Missed,1,0,0,0,v,MISS Crawford 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+200,217,PT00M00.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0
+201,218,PT00M00.00S,2,0,,0,,,0,0,0,,0,52,47,99,,End of 2nd Period (10:05 PM EST),period,end,0,0
+202,220,PT12M00.00S,3,0,,0,,,0,0,0,,0,52,47,99,,Start of 3rd Period (10:20 PM EST),period,start,0,0
+203,221,PT11M40.00S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,-74,232,24,Missed,1,0,0,0,v,MISS Prigioni 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+204,222,PT11M39.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+205,223,PT11M32.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+206,223,PT11M32.00S,3,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce STEAL (2 STL),,,1,0
+207,224,PT11M14.00S,3,1610612746,LAC,1718,Pierce,P. Pierce,-178,47,18,Missed,1,0,0,0,v,MISS Pierce 18' Jump Shot,Missed Shot,Jump Shot,1,0
+208,225,PT11M13.00S,3,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+209,226,PT11M01.00S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni P.FOUL (P3.T1) (L.Richardson),Foul,Personal,1,0
+210,227,PT10M46.00S,3,1610612762,UTA,203918,Hood,R. Hood,135,203,24,Missed,1,0,0,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+211,228,PT10M45.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+212,229,PT10M35.00S,3,1610612746,LAC,1718,Pierce,P. Pierce,140,208,25,Made,1,52,50,102,v,Pierce 25' 3PT Jump Shot (15 PTS) (Crawford 2 AST),Made Shot,Jump Shot,1,0
+213,230,PT10M17.00S,3,1610612762,UTA,202324,Favors,D. Favors,-42,144,15,Missed,1,0,0,0,h,MISS Favors 15' Jump Shot,Missed Shot,Jump Shot,1,0
+214,231,PT10M17.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+215,232,PT10M16.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford S.FOUL (P2.T2) (M.Smith),Foul,Shooting,1,0
+216,233,PT10M16.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,53,50,103,h,Gobert Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+217,235,PT10M16.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Booker FOR Favors,Substitution,,0,0
+218,236,PT10M16.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+219,238,PT10M15.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+220,239,PT09M53.00S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,-204,131,24,Missed,1,0,0,0,v,MISS Prigioni 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+221,240,PT09M52.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+222,241,PT09M46.00S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,225,75,24,Made,1,53,53,106,v,Prigioni 24' 3PT Jump Shot (8 PTS) (Aldrich 1 AST),Made Shot,Jump Shot,1,0
+223,242,PT09M34.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute P.FOUL (P2.T3) (T.Washington),Foul,Personal,1,0
+224,243,PT09M22.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,9,242,24,Made,1,56,53,109,h,Hayward 24' 3PT Pullup Jump Shot (13 PTS) (Mack 2 AST),Made Shot,Pullup Jump shot,1,0
+225,244,PT08M58.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,-20,7,2,Made,1,56,55,111,v,Aldrich 2' Hook Shot (11 PTS) (Pierce 2 AST),Made Shot,Hook Shot,1,0
+226,245,PT08M44.00S,3,1610612762,UTA,202714,Mack,S. Mack,102,223,25,Missed,1,0,0,0,h,MISS Mack 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+227,246,PT08M44.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+228,247,PT08M33.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,20,146,15,Missed,1,0,0,0,v,MISS Crawford 15' Jump Shot,Missed Shot,Jump Shot,1,0
+229,248,PT08M32.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+230,250,PT08M09.00S,3,1610612762,UTA,202344,Booker,T. Booker,194,57,20,Missed,1,0,0,0,h,MISS Booker 20' Jump Shot,Missed Shot,Jump Shot,1,0
+231,251,PT08M08.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+232,252,PT08M07.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,20,3,2,Made,1,58,55,113,h,Gobert 2' Layup (7 PTS),Made Shot,Layup Shot,1,0
+233,253,PT07M49.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,-14,41,4,Made,1,58,57,115,v,Aldrich 4' Hook Shot (13 PTS) (Prigioni 3 AST),Made Shot,Hook Shot,1,0
+234,254,PT07M33.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0
+235,254,PT07M33.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich STEAL (3 STL),,,1,0
+236,255,PT07M18.00S,3,1610612746,LAC,1718,Pierce,P. Pierce,-135,198,24,Made,1,58,60,118,v,Pierce 24' 3PT Jump Shot (18 PTS) (Prigioni 4 AST),Made Shot,Jump Shot,1,0
+237,256,PT07M17.00S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+238,258,PT07M17.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,SUB: Favors FOR Gobert,Substitution,,0,0
+239,259,PT07M01.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0
+240,259,PT07M01.00S,3,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce STEAL (3 STL),,,1,0
+241,260,PT06M56.00S,3,1610612746,LAC,1718,Pierce,P. Pierce,27,2,3,Missed,1,0,0,0,v,MISS Pierce 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+242,260,PT06M56.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker BLOCK (1 BLK),,,1,0
+243,261,PT06M55.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+244,262,PT06M52.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,68,90,11,Made,1,58,62,120,v,Crawford 11' Jump Shot (17 PTS),Made Shot,Jump Shot,1,0
+245,263,PT06M36.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0
+246,263,PT06M36.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich STEAL (4 STL),,,1,0
+247,264,PT06M28.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,-60,242,25,Made,1,58,65,123,v,Crawford 25' 3PT Pullup Jump Shot (20 PTS) (Prigioni 5 AST),Made Shot,Pullup Jump shot,1,0
+248,265,PT06M12.00S,3,1610612762,UTA,203918,Hood,R. Hood,1,100,10,Missed,1,0,0,0,h,MISS Hood 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+249,266,PT06M12.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+250,267,PT06M07.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+251,269,PT06M07.00S,3,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Green FOR Pierce,Substitution,,0,0
+252,270,PT06M00.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,-79,232,25,Made,1,58,68,126,v,Crawford 25' 3PT Jump Shot (23 PTS),Made Shot,Jump Shot,1,0
+253,271,PT06M00.00S,3,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,Mack S.FOUL (P2.T1) (T.Washington),Foul,Shooting,1,0
+254,273,PT06M00.00S,3,0,,270,Grant,H. Grant,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+255,272,PT06M00.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,MISS Crawford Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+256,275,PT05M59.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+257,276,PT05M50.00S,3,1610612762,UTA,203918,Hood,R. Hood,91,228,25,Missed,1,0,0,0,h,MISS Hood 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+258,277,PT05M48.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+259,278,PT05M39.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,-27,7,3,Missed,1,0,0,0,v,MISS Mbah a Moute 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+260,278,PT05M39.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors BLOCK (1 BLK),,,1,0
+261,279,PT05M38.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+262,280,PT05M26.00S,3,1610612762,UTA,202324,Favors,D. Favors,-74,7,7,Made,1,60,68,128,h,Favors 7' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+263,281,PT05M08.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,Booker S.FOUL (P1.T2) (L.Richardson),Foul,Shooting,1,0
+264,282,PT05M08.00S,3,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,60,69,129,v,Green Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+265,284,PT05M08.00S,3,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+266,286,PT05M07.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+267,287,PT04M52.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,32,65,7,Made,1,62,69,131,h,Hayward 7' Fadeaway Jumper (15 PTS),Made Shot,Fadeaway Jump Shot,1,0
+268,288,PT04M36.00S,3,1610612746,LAC,201145,Green,J. Green,27,18,3,Missed,1,0,0,0,v,MISS Green 3' Layup,Missed Shot,Layup Shot,1,0
+269,288,PT04M36.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors BLOCK (2 BLK),,,1,0
+270,289,PT04M35.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+271,290,PT04M28.00S,3,1610612762,UTA,202714,Mack,S. Mack,-228,-11,0,Missed,1,0,0,0,h,MISS Mack  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+272,291,PT04M27.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+273,292,PT04M11.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,-16,2,2,Made,1,62,71,133,v,Aldrich 2' Layup (15 PTS) (Crawford 3 AST),Made Shot,Layup Shot,1,0
+274,293,PT03M55.00S,3,1610612762,UTA,202324,Favors,D. Favors,32,11,3,Made,1,64,71,135,h,Favors 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+275,294,PT03M36.00S,3,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,Mack P.FOUL (P3.T3) (L.Richardson),Foul,Personal,1,0
+276,295,PT03M36.00S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,64,72,136,v,Prigioni Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0
+277,297,PT03M36.00S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,64,73,137,v,Prigioni Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,0,0
+278,299,PT03M36.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Crawford,Substitution,,0,0
+279,300,PT03M36.00S,3,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,SUB: Neto FOR Mack,Substitution,,0,0
+280,301,PT03M36.00S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,64,74,138,v,Prigioni Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,0,0
+281,303,PT03M22.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,-217,72,23,Made,1,66,74,140,h,Hayward 23' Jump Shot (17 PTS) (Neto 3 AST),Made Shot,Jump Shot,1,0
+282,304,PT02M52.00S,3,1610612746,LAC,201145,Green,J. Green,-127,267,30,Missed,1,0,0,0,v,MISS Green 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+283,305,PT02M51.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+284,306,PT02M41.00S,3,1610612762,UTA,203918,Hood,R. Hood,-38,195,20,Missed,1,0,0,0,h,MISS Hood 20' Jump Shot,Missed Shot,Jump Shot,1,0
+285,307,PT02M41.00S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+286,308,PT02M41.00S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni L.B.FOUL (P4.T4) (M.Smith),Foul,Loose Ball,1,0
+287,309,PT02M41.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,h,SUB: Lyles FOR Booker,Substitution,,0,0
+288,310,PT02M34.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,-47,3,5,Missed,1,0,0,0,h,MISS Hayward 5' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,0
+289,311,PT02M33.00S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+290,312,PT02M19.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,-38,13,4,Missed,1,0,0,0,v,MISS Aldrich 4' Jump Shot,Missed Shot,Jump Shot,1,0
+291,312,PT02M19.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors BLOCK (3 BLK),,,1,0
+292,313,PT02M18.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:3 Def:8),Rebound,Unknown,1,0
+293,314,PT02M09.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,17,23,3,Missed,1,0,0,0,v,MISS Aldrich 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,0
+294,315,PT02M07.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+295,316,PT02M01.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward Lost Ball Turnover (P5.T10),Turnover,Lost Ball,1,0
+296,316,PT02M01.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute STEAL (2 STL),,,1,0
+297,317,PT01M47.00S,3,1610612746,LAC,201145,Green,J. Green,37,170,17,Missed,1,0,0,0,v,MISS Green 17' Jump Shot,Missed Shot,Jump Shot,1,0
+298,318,PT01M46.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+299,319,PT01M29.00S,3,1610612762,UTA,202324,Favors,D. Favors,28,178,18,Missed,1,0,0,0,h,MISS Favors 18' Jump Shot,Missed Shot,Jump Shot,1,0
+300,320,PT01M28.00S,3,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+301,321,PT01M09.00S,3,1610612746,LAC,201145,Green,J. Green,-37,16,4,Missed,1,0,0,0,v,MISS Green 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,0
+302,322,PT01M08.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:10),Rebound,Unknown,1,0
+303,323,PT01M01.00S,3,1610612762,UTA,203918,Hood,R. Hood,-235,-1,24,Missed,1,0,0,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+304,324,PT01M00.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:3 Def:9),Rebound,Unknown,1,0
+305,325,PT00M53.90S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Short (Reg.3 Short 2),Timeout,Short,0,0
+306,327,PT00M53.90S,3,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,SUB: Ingles FOR Hood,Substitution,,0,0
+307,328,PT00M53.90S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,SUB: Pierce FOR Aldrich,Substitution,,0,0
+308,329,PT00M53.90S,3,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Prigioni,Substitution,,0,0
+309,332,PT00M53.90S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Ayres FOR Mbah a Moute,Substitution,,0,0
+310,330,PT00M46.90S,3,1610612746,LAC,203912,Wilcox,C. Wilcox,153,164,22,Missed,1,0,0,0,v,MISS Wilcox 22' Jump Shot,Missed Shot,Jump Shot,1,0
+311,331,PT00M45.90S,3,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+312,333,PT00M38.40S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford P.FOUL (P3.PN) (M.Smith),Foul,Personal,1,0
+313,334,PT00M38.40S,3,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,67,74,141,h,Neto Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+314,336,PT00M38.40S,3,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,68,74,142,h,Neto Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+315,338,PT00M34.80S,3,1610612746,LAC,201965,Ayres,J. Ayres,0,0,0,,0,0,0,0,v,Ayres OFF.Foul (P2) (M.Smith),Foul,Offensive,1,0
+316,339,PT00M34.80S,3,1610612746,LAC,201965,Ayres,J. Ayres,0,0,0,,0,0,0,0,v,Ayres Foul Turnover (P1.T7),Turnover,Foul,1,0
+317,340,PT00M32.20S,3,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox S.FOUL (P1.PN) (L.Richardson),Foul,Shooting,1,0
+318,341,PT00M32.20S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+319,342,PT00M32.20S,3,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0
+320,343,PT00M32.20S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,69,74,143,h,Hayward Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+321,345,PT00M12.60S,3,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,Lyles S.FOUL (P1.T4) (M.Smith),Foul,Shooting,1,0
+322,346,PT00M12.60S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,69,75,144,v,Crawford Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0
+323,348,PT00M12.60S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,69,76,145,v,Crawford Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+324,350,PT00M00.90S,3,1610612762,UTA,202330,Hayward,G. Hayward,-81,232,25,Made,1,72,76,148,h,Hayward 25' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,0
+325,351,PT00M00.30S,3,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,0
+326,351,PT00M00.30S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors STEAL (1 STL),,,1,0
+327,354,PT00M00.30S,3,0,,303,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+328,352,PT00M00.00S,3,0,,0,,,0,0,0,,0,72,76,148,,End of 3rd Period (10:47 PM EST),period,end,0,0
+329,355,PT12M00.00S,4,0,,0,,,0,0,0,,0,72,76,148,,Start of 4th Period (10:49 PM EST),period,start,0,0
+330,356,PT11M43.00S,4,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox P.FOUL (P2.T1) (L.Richardson),Foul,Personal,1,0
+331,358,PT11M33.00S,4,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto Backcourt Turnover (P1.T11),Turnover,Backcourt Turnover,1,0
+332,359,PT11M33.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,SUB: Hood FOR Ingles,Substitution,,0,0
+333,360,PT11M27.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+334,360,PT11M27.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors STEAL (2 STL),,,1,0
+335,361,PT11M21.00S,4,1610612762,UTA,203526,Neto,R. Neto,-20,8,2,Missed,1,0,0,0,h,MISS Neto 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+336,361,PT11M21.00S,4,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green BLOCK (1 BLK),,,1,0
+337,362,PT11M19.00S,4,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+338,363,PT11M02.00S,4,1610612746,LAC,201145,Green,J. Green,233,7,0,Missed,1,0,0,0,v,MISS Green  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+339,364,PT11M02.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+340,365,PT10M48.00S,4,1610612762,UTA,203918,Hood,R. Hood,19,43,5,Missed,1,0,0,0,h,MISS Hood 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+341,366,PT10M47.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+342,367,PT10M40.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,26,3,Made,1,74,76,150,h,Burks 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+343,368,PT10M22.00S,4,1610612746,LAC,201145,Green,J. Green,2,90,9,Missed,1,0,0,0,v,MISS Green 9' Jump Shot,Missed Shot,Jump Shot,1,0
+344,369,PT10M21.00S,4,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+345,370,PT10M10.00S,4,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,Neto Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0
+346,370,PT10M10.00S,4,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green STEAL (1 STL),,,1,0
+347,371,PT10M05.00S,4,1610612746,LAC,201145,Green,J. Green,-11,18,2,Missed,1,0,0,0,v,MISS Green 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+348,372,PT10M04.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+349,373,PT09M59.00S,4,1610612762,UTA,202692,Burks,A. Burks,240,2,24,Made,1,77,76,153,h,Burks 24' 3PT Jump Shot (8 PTS) (Neto 4 AST),Made Shot,Jump Shot,1,0
+350,374,PT09M59.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,0
+351,376,PT09M59.00S,4,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,0,0,0,h,SUB: Ingles FOR Neto,Substitution,,0,0
+352,377,PT09M42.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-142,170,22,Missed,1,0,0,0,v,MISS Crawford 22' Jump Shot,Missed Shot,Jump Shot,1,0
+353,378,PT09M42.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+354,379,PT09M26.00S,4,1610612762,UTA,1626168,Lyles,T. Lyles,32,174,18,Missed,1,0,0,0,h,MISS Lyles 18' Jump Shot,Missed Shot,Jump Shot,1,0
+355,380,PT09M25.00S,4,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+356,381,PT09M17.00S,4,1610612746,LAC,201145,Green,J. Green,61,124,14,Made,1,77,78,155,v,Green 14' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,1,0
+357,382,PT09M05.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors OFF.Foul (P1) (M.Smith),Foul,Offensive,1,0
+358,383,PT09M05.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors Foul Turnover (P3.T13),Turnover,Foul,1,0
+359,384,PT09M05.00S,4,1610612762,UTA,1626168,Lyles,T. Lyles,0,0,0,,0,0,0,0,h,SUB: Hayward FOR Lyles,Substitution,,0,0
+360,385,PT08M53.00S,4,1610612746,LAC,203912,Wilcox,C. Wilcox,-223,105,25,Missed,1,0,0,0,v,MISS Wilcox 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+361,386,PT08M52.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:11),Rebound,Unknown,1,0
+362,387,PT08M40.00S,4,1610612762,UTA,202324,Favors,D. Favors,22,0,2,Made,1,79,78,157,h,Favors 2' Layup (11 PTS) (Hayward 3 AST),Made Shot,Layup Shot,1,0
+363,388,PT08M22.00S,4,1610612746,LAC,201145,Green,J. Green,-37,41,6,Missed,1,0,0,0,v,MISS Green 6' Jump Shot,Missed Shot,Jump Shot,1,0
+364,388,PT08M22.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward BLOCK (1 BLK),,,1,0
+365,389,PT08M20.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+366,390,PT08M17.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward Bad Pass Turnover (P6.T14),Turnover,Bad Pass,1,0
+367,390,PT08M17.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford STEAL (1 STL),,,1,0
+368,391,PT08M09.00S,4,1610612746,LAC,201965,Ayres,J. Ayres,10,46,5,Missed,1,0,0,0,v,MISS Ayres 5' Jump Shot,Missed Shot,Jump Shot,1,0
+369,392,PT08M06.00S,4,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+370,393,PT08M06.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks P.FOUL (P1.T1) (T.Washington),Foul,Personal,1,0
+371,394,PT08M06.00S,4,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Prigioni FOR Wilcox,Substitution,,0,0
+372,395,PT08M06.00S,4,1610612746,LAC,201965,Ayres,J. Ayres,0,0,0,,0,0,0,0,v,SUB: Aldrich FOR Ayres,Substitution,,0,0
+373,396,PT08M06.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,SUB: Mack FOR Burks,Substitution,,0,0
+374,397,PT07M57.00S,4,1610612746,LAC,201145,Green,J. Green,-228,3,0,Made,1,79,81,160,v,Green  3PT Jump Shot (10 PTS) (Prigioni 6 AST),Made Shot,Jump Shot,1,0
+375,398,PT07M41.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,-228,-10,0,Missed,1,0,0,0,h,MISS Ingles  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+376,399,PT07M40.00S,4,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+377,400,PT07M29.00S,4,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,Mack P.FOUL (P4.T2) (T.Washington),Foul,Personal,1,0
+378,401,PT07M29.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,SUB: Gobert FOR Favors,Substitution,,0,0
+379,402,PT07M20.00S,4,1610612746,LAC,201145,Green,J. Green,-11,52,5,Made,1,79,83,162,v,Green 5' Hook Shot (12 PTS),Made Shot,Hook Shot,1,0
+380,403,PT07M14.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,10,0,1,Missed,1,0,0,0,h,MISS Hayward 1' Layup,Missed Shot,Layup Shot,1,0
+381,404,PT07M14.00S,4,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+382,405,PT06M49.00S,4,1610612746,LAC,203143,Prigioni,P. Prigioni,-2,41,4,Made,1,79,85,164,v,Prigioni 4' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,1,0
+383,406,PT06M44.00S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich S.FOUL (P2.T2) (L.Richardson),Foul,Shooting,1,0
+384,407,PT06M44.00S,4,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,80,85,165,h,Mack Free Throw 1 of 3 (7 PTS),Free Throw,Free Throw 1 of 3,0,0
+385,409,PT06M44.00S,4,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,81,85,166,h,Mack Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,0,0
+386,411,PT06M44.00S,4,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,82,85,167,h,Mack Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,0,0
+387,413,PT06M44.00S,4,0,,1941,,,0,0,0,,0,0,0,0,,Glenn Rivers Foul:T.FOUL (L.Richardson),Foul,Technical,0,0
+388,414,PT06M44.00S,4,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,83,85,168,h,Mack Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,0
+389,416,PT06M26.00S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,30,57,6,Missed,1,0,0,0,v,MISS Aldrich 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+390,417,PT06M26.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward REBOUND (Off:1 Def:12),Rebound,Unknown,1,0
+391,418,PT06M17.00S,4,1610612762,UTA,202714,Mack,S. Mack,-233,80,25,Made,1,86,85,171,h,Mack 25' 3PT Jump Shot (13 PTS) (Hayward 4 AST),Made Shot,Jump Shot,1,0
+392,419,PT06M01.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,137,200,24,Missed,1,0,0,0,v,MISS Crawford 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+393,420,PT06M00.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+394,421,PT05M46.00S,4,1610612762,UTA,203918,Hood,R. Hood,-173,183,25,Made,1,89,85,174,h,Hood 25' 3PT Jump Shot (11 PTS) (Hayward 5 AST),Made Shot,Jump Shot,1,0
+395,422,PT05M45.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,0
+396,424,PT05M31.00S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich OFF.Foul (P3) (T.Washington),Foul,Offensive,1,0
+397,425,PT05M31.00S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich Foul Turnover (P1.T10),Turnover,Foul,1,0
+398,426,PT05M11.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,-155,188,24,Missed,1,0,0,0,h,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+399,427,PT05M10.00S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:3 Def:10),Rebound,Unknown,1,0
+400,429,PT04M55.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,SUB: Favors FOR Gobert,Substitution,,0,0
+401,430,PT04M47.00S,4,1610612746,LAC,1718,Pierce,P. Pierce,169,223,28,Missed,1,0,0,0,v,MISS Pierce 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+402,431,PT04M47.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+403,432,PT04M27.00S,4,1610612762,UTA,203918,Hood,R. Hood,135,208,25,Missed,1,0,0,0,h,MISS Hood 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+404,433,PT04M26.00S,4,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+405,435,PT04M16.00S,4,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0
+406,435,PT04M16.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles STEAL (1 STL),,,1,0
+407,436,PT04M12.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,-2,2,0,Made,1,91,85,176,h,Ingles  Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,0
+408,437,PT04M08.00S,4,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni T.FOUL (P4.T2) (T.Washington),Foul,Technical,0,0
+409,438,PT04M08.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,92,85,177,h,Hayward Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,0,0
+410,441,PT03M57.00S,4,1610612746,LAC,201145,Green,J. Green,-238,-1,24,Missed,1,0,0,0,v,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+411,442,PT03M57.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+412,443,PT03M33.00S,4,1610612762,UTA,202714,Mack,S. Mack,-176,174,25,Missed,1,0,0,0,h,MISS Mack 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+413,444,PT03M32.00S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:3 Def:11),Rebound,Unknown,1,0
+414,446,PT03M19.00S,4,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,0
+415,446,PT03M19.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles STEAL (2 STL),,,1,0
+416,447,PT03M03.00S,4,1610612762,UTA,202324,Favors,D. Favors,17,-1,2,Missed,1,0,0,0,h,MISS Favors 2' Layup,Missed Shot,Layup Shot,1,0
+417,448,PT03M03.00S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:3 Def:12),Rebound,Unknown,1,0
+418,449,PT02M56.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,119,242,27,Missed,1,0,0,0,v,MISS Crawford 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+419,450,PT02M54.00S,4,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,Mack REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+420,451,PT02M54.00S,4,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,Mack Step Out of Bounds Turnover (P2.T15),Turnover,Step Out of Bounds Turnover,1,0
+421,452,PT02M54.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+422,456,PT02M54.00S,4,1610612746,LAC,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Pierce,Substitution,,0,0
+423,457,PT02M47.00S,4,1610612746,LAC,201145,Green,J. Green,82,28,9,Missed,1,0,0,0,v,MISS Green 9' Hook Shot,Missed Shot,Hook Shot,1,0
+424,458,PT02M46.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,0,0,0,h,Hood REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+425,459,PT02M35.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors Traveling Turnover (P4.T16),Turnover,Traveling,1,0
+426,460,PT02M13.00S,4,1610612746,LAC,201145,Green,J. Green,-94,237,25,Made,1,92,88,180,v,Green 25' 3PT Jump Shot (15 PTS) (Crawford 4 AST),Made Shot,Jump Shot,1,0
+427,461,PT01M57.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,h,Hayward Poss Lost Ball Turnover (P7.T17),Turnover,Poss Lost Ball Turnover,1,0
+428,462,PT01M57.00S,4,0,,461,Jones,P. Jones,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+429,464,PT01M45.00S,4,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0
+430,464,PT01M45.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles STEAL (3 STL),,,1,0
+431,465,PT01M25.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,141,198,24,Missed,1,0,0,0,h,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+432,466,PT01M24.00S,4,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+433,467,PT01M10.00S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,1,0,Made,1,92,90,182,v,Aldrich  Dunk (17 PTS) (Prigioni 7 AST),Made Shot,Dunk Shot,1,0
+434,468,PT00M53.50S,4,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green S.FOUL (P2.T3) (T.Washington),Foul,Shooting,1,0
+435,469,PT00M53.50S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,93,90,183,h,Hayward Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0
+436,471,PT00M53.50S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,94,90,184,h,Hayward Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0
+437,473,PT00M46.20S,4,1610612762,UTA,202714,Mack,S. Mack,0,0,0,,0,0,0,0,h,Mack S.FOUL (P5.T3) (M.Smith),Foul,Shooting,1,0
+438,474,PT00M46.20S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,94,91,185,v,Crawford Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0
+439,476,PT00M46.20S,4,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Mbah a Moute FOR Wilcox,Substitution,,0,0
+440,477,PT00M46.20S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,94,92,186,v,Crawford Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0
+441,479,PT00M26.90S,4,1610612762,UTA,203918,Hood,R. Hood,-17,21,3,Missed,1,0,0,0,h,MISS Hood 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+442,479,PT00M26.90S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich BLOCK (1 BLK),,,1,0
+443,480,PT00M25.40S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+444,481,PT00M19.30S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.6 Short 2),Timeout,Regular,0,0
+445,483,PT00M19.30S,4,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Pierce FOR Mbah a Moute,Substitution,,0,0
+446,484,PT00M04.90S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,-14,-1,1,Missed,1,0,0,0,v,MISS Aldrich 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+447,485,PT00M02.90S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:4 Def:12),Rebound,Unknown,1,0
+448,486,PT00M02.40S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,-25,8,3,Made,1,94,94,188,v,Aldrich 3' Layup (19 PTS),Made Shot,Layup Shot,1,0
+449,487,PT00M02.40S,4,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+450,489,PT00M02.40S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Mbah a Moute FOR Crawford,Substitution,,0,0
+451,490,PT00M00.30S,4,1610612762,UTA,202330,Hayward,G. Hayward,114,134,18,Missed,1,0,0,0,h,MISS Hayward 18' Jump Shot,Missed Shot,Jump Shot,1,0
+452,491,PT00M00.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+453,493,PT00M00.00S,4,0,,0,,,0,0,0,,0,94,94,188,,End of 4th Period (11:23 PM EST),period,end,0,0
+454,495,PT05M00.00S,5,0,,0,,,0,0,0,,0,94,94,188,,Start of 1st OT (11:25 PM EST),period,start,0,0
+455,496,PT05M00.00S,5,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Jump Ball Favors vs. Aldrich: Tip to Ingles,Jump Ball,,1,0
+456,497,PT04M47.00S,5,1610612762,UTA,203918,Hood,R. Hood,14,62,6,Missed,1,0,0,0,h,MISS Hood 6' Jump Shot,Missed Shot,Jump Shot,1,0
+457,498,PT04M45.00S,5,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+458,499,PT04M31.00S,5,1610612746,LAC,201145,Green,J. Green,-52,56,8,Missed,1,0,0,0,v,MISS Green 8' Driving Bank Shot,Missed Shot,Driving Bank shot,1,0
+459,500,PT04M31.00S,5,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+460,501,PT04M11.00S,5,1610612762,UTA,202692,Burks,A. Burks,-168,188,25,Made,1,97,94,191,h,Burks 25' 3PT Jump Shot (11 PTS) (Hood 2 AST),Made Shot,Jump Shot,1,0
+461,502,PT03M49.00S,5,1610612746,LAC,203143,Prigioni,P. Prigioni,55,85,10,Missed,1,0,0,0,v,MISS Prigioni 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+462,502,PT03M49.00S,5,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors BLOCK (4 BLK),,,1,0
+463,503,PT03M46.00S,5,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,h,Ingles REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+464,504,PT03M32.00S,5,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks Lost Ball Turnover (P1.T18),Turnover,Lost Ball,1,0
+465,504,PT03M32.00S,5,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich STEAL (5 STL),,,1,0
+466,505,PT03M14.00S,5,1610612746,LAC,202332,Aldrich,C. Aldrich,-74,3,7,Made,1,97,96,193,v,Aldrich 7' Turnaround Hook Shot (21 PTS),Made Shot,Turnaround Hook Shot,1,0
+467,506,PT02M53.00S,5,1610612762,UTA,202330,Hayward,G. Hayward,-12,21,2,Missed,1,0,0,0,h,MISS Hayward 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+468,507,PT02M52.00S,5,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+469,508,PT02M34.00S,5,1610612746,LAC,201145,Green,J. Green,-24,237,24,Made,1,97,99,196,v,Green 24' 3PT Jump Shot (18 PTS) (Aldrich 2 AST),Made Shot,Jump Shot,1,0
+470,509,PT02M34.00S,5,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+471,510,PT02M21.00S,5,1610612762,UTA,203918,Hood,R. Hood,-58,11,6,Made,1,99,99,198,h,Hood 6' Driving Bank Shot (13 PTS),Made Shot,Driving Bank shot,1,0
+472,511,PT02M04.00S,5,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors P.FOUL (P2.T1) (L.Richardson),Foul,Personal,1,0
+473,512,PT01M55.00S,5,1610612746,LAC,201145,Green,J. Green,-178,46,18,Missed,1,0,0,0,v,MISS Green 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+474,513,PT01M55.00S,5,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,Burks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+475,514,PT01M35.00S,5,1610612762,UTA,204060,Ingles,J. Ingles,232,2,0,Missed,1,0,0,0,h,MISS Ingles  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+476,515,PT01M33.00S,5,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:4 Def:13),Rebound,Unknown,1,0
+477,516,PT01M17.00S,5,1610612746,LAC,2037,Crawford,J. Crawford,171,180,25,Missed,1,0,0,0,v,MISS Crawford 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+478,517,PT01M16.00S,5,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,h,Favors REBOUND (Off:3 Def:8),Rebound,Unknown,1,0
+479,518,PT01M00.00S,5,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni P.FOUL (P5.T1) (M.Smith),Foul,Personal,1,0
+480,519,PT00M51.90S,5,1610612762,UTA,202692,Burks,A. Burks,158,151,22,Missed,1,0,0,0,h,MISS Burks 22' Jump Shot,Missed Shot,Jump Shot,1,0
+481,520,PT00M51.20S,5,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,Prigioni REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+482,521,PT00M50.40S,5,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.7 Short 2),Timeout,Regular,0,0
+483,523,PT00M41.00S,5,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich OFF.Foul (P4) (M.Smith),Foul,Offensive,1,0
+484,524,PT00M41.00S,5,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich Foul Turnover (P2.T14),Turnover,Foul,1,0
+485,525,PT00M23.80S,5,1610612762,UTA,203918,Hood,R. Hood,-60,8,6,Missed,1,0,0,0,h,MISS Hood 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+486,526,PT00M22.90S,5,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,Aldrich REBOUND (Off:4 Def:14),Rebound,Unknown,1,0
+487,527,PT00M22.40S,5,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Short (Reg.7 Short 3),Timeout,Short,0,0
+488,529,PT00M22.40S,5,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Aldrich,Substitution,,0,0
+489,530,PT00M22.40S,5,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Pierce FOR Mbah a Moute,Substitution,,0,0
+490,531,PT00M00.20S,5,1610612746,LAC,2037,Crawford,J. Crawford,-148,205,25,Made,1,99,102,201,v,Crawford 25' 3PT Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,1,0
+491,532,PT00M00.20S,5,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+492,534,PT00M00.20S,5,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Ayres FOR Crawford,Substitution,,0,0
+493,535,PT00M00.20S,5,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,v,SUB: Mbah a Moute FOR Prigioni,Substitution,,0,0
+494,536,PT00M00.20S,5,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Aldrich FOR Wilcox,Substitution,,0,0
+495,537,PT00M00.20S,5,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,0,0,0,h,SUB: Mack FOR Burks,Substitution,,0,0
+496,538,PT00M00.10S,5,1610612762,UTA,203918,Hood,R. Hood,-238,11,24,Missed,1,0,0,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+497,539,PT00M00.00S,5,0,,1610612762,,,0,0,0,,0,0,0,0,h,JAZZ Rebound,Rebound,Unknown,0,0
+498,540,PT00M00.00S,5,0,,0,,,0,0,0,,0,99,102,201,,End of 1st OT (11:40 PM EST),period,end,0,0

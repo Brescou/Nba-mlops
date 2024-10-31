@@ -1,0 +1,527 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:40 AM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,Jump Ball Longley vs. O'Neal: Tip to Kidd,Jump Ball,,0,0
+3,2,PT11M43.00S,1,1610612756,PHX,1890,Marion,S. Marion,-42,46,6,Missed,1,0,0,0,h,MISS Marion 6' Jump Shot,Missed Shot,Jump Shot,0,0
+4,4,PT11M41.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+5,3,PT11M41.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Missed,1,0,0,0,h,MISS Marion  Tip Shot,Missed Shot,Tip Shot,0,0
+6,5,PT11M40.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+7,6,PT11M16.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Missed,1,0,0,0,v,MISS O'Neal  Layup,Missed Shot,Layup Shot,0,0
+8,7,PT11M14.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+9,8,PT11M10.00S,1,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,Longley S.FOUL (P1.T1),Foul,Shooting,0,0
+10,9,PT11M10.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,1,1,v,O'Neal Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+11,10,PT11M10.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+12,11,PT11M10.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+13,12,PT10M55.00S,1,1610612756,PHX,467,Kidd,J. Kidd,233,-14,0,Missed,1,0,0,0,h,MISS Kidd  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+14,13,PT10M51.00S,1,1610612747,LAL,920,Green,A. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+15,14,PT10M43.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Missed,1,0,0,0,v,MISS Bryant  Layup,Missed Shot,Layup Shot,0,0
+16,15,PT10M42.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+17,16,PT10M38.00S,1,1610612756,PHX,361,Robinson,C. Robinson,138,196,24,Missed,1,0,0,0,h,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+18,17,PT10M34.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+19,18,PT10M20.00S,1,1610612747,LAL,779,Rice,G. Rice,162,23,16,Made,1,0,3,3,v,Rice 16' Jump Shot (2 PTS) (Harper 1 AST),Made Shot,Jump Shot,0,0
+20,19,PT10M00.00S,1,1610612756,PHX,26,Longley,L. Longley,44,151,16,Made,1,2,3,5,h,Longley 16' Jump Shot (2 PTS) (Kidd 1 AST),Made Shot,Jump Shot,0,0
+21,20,PT09M46.00S,1,1610612747,LAL,779,Rice,G. Rice,-166,5,17,Missed,1,0,0,0,v,MISS Rice 17' Jump Shot,Missed Shot,Jump Shot,0,0
+22,20,PT09M46.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion BLOCK (1 BLK),,,0,0
+23,21,PT09M43.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+24,22,PT09M39.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Missed,1,0,0,0,h,MISS Marion  Layup,Missed Shot,Layup Shot,0,0
+25,23,PT09M39.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+26,24,PT09M39.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant L.B.FOUL (P1.T1),Foul,Loose Ball,0,0
+27,25,PT09M35.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,Made,1,4,3,7,h,Hardaway  Layup (2 PTS) (Kidd 2 AST),Made Shot,Layup Shot,0,0
+28,26,PT09M19.00S,1,1610612747,LAL,779,Rice,G. Rice,59,158,17,Made,1,4,5,9,v,Rice 17' Jump Shot (4 PTS) (O'Neal 1 AST),Made Shot,Jump Shot,0,0
+29,27,PT09M00.00S,1,1610612756,PHX,467,Kidd,J. Kidd,233,12,0,Made,1,7,5,12,h,Kidd  3PT Jump Shot (3 PTS) (Hardaway 1 AST),Made Shot,Jump Shot,0,0
+30,28,PT08M42.00S,1,1610612747,LAL,166,Harper,R. Harper,-72,151,17,Made,1,7,7,14,v,Harper 17' Jump Shot (2 PTS) (Green 1 AST),Made Shot,Jump Shot,0,0
+31,29,PT08M29.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+32,29,PT08M29.00S,1,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,0,0,0,v,Harper STEAL (1 STL),,,0,0
+33,30,PT08M24.00S,1,1610612747,LAL,166,Harper,R. Harper,0,0,0,Missed,1,0,0,0,v,MISS Harper  Layup,Missed Shot,Layup Shot,0,0
+34,30,PT08M24.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway BLOCK (1 BLK),,,0,0
+35,31,PT08M22.00S,1,1610612747,LAL,920,Green,A. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+36,32,PT08M20.00S,1,1610612747,LAL,977,Bryant,K. Bryant,59,173,18,Missed,1,0,0,0,v,MISS Bryant 18' Jump Shot,Missed Shot,Jump Shot,0,0
+37,33,PT08M19.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+38,34,PT08M12.00S,1,1610612756,PHX,361,Robinson,C. Robinson,132,207,25,Made,1,10,7,17,h,Robinson 25' 3PT Jump Shot (3 PTS) (Marion 1 AST),Made Shot,Jump Shot,0,0
+39,35,PT07M52.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,0
+40,36,PT07M47.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Missed,1,0,0,0,v,MISS O'Neal  Layup,Missed Shot,Layup Shot,0,0
+41,38,PT07M45.00S,1,1610612747,LAL,920,Green,A. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+42,37,PT07M45.00S,1,1610612747,LAL,920,Green,A. Green,0,0,0,Missed,1,0,0,0,v,MISS Green  Tip Shot,Missed Shot,Tip Shot,0,0
+43,39,PT07M41.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+44,40,PT07M36.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Missed,1,0,0,0,h,MISS Marion  Layup,Missed Shot,Layup Shot,0,0
+45,42,PT07M35.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+46,41,PT07M35.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,12,7,19,h,Marion  Layup (2 PTS),Made Shot,Layup Shot,0,0
+47,43,PT07M16.00S,1,1610612747,LAL,977,Bryant,K. Bryant,138,141,20,Made,1,12,9,21,v,Bryant 20' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+48,44,PT07M00.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,108,1,11,Missed,1,0,0,0,h,MISS Hardaway 11' Jump Shot,Missed Shot,Jump Shot,0,0
+49,45,PT06M59.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+50,46,PT06M45.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,108,27,11,Missed,1,0,0,0,v,MISS O'Neal 11' Jump Shot,Missed Shot,Jump Shot,0,0
+51,47,PT06M43.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+52,48,PT06M43.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,12,11,23,v,O'Neal  Layup (3 PTS),Made Shot,Layup Shot,0,0
+53,51,PT06M43.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway S.FOUL (P1.T2),Foul,Shooting,0,0
+54,52,PT06M43.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+55,54,PT06M43.00S,1,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,SUB: Blount FOR Longley,Substitution,,0,0
+56,55,PT06M43.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,MISS O'Neal Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+57,56,PT06M42.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+58,57,PT06M25.00S,1,1610612756,PHX,467,Kidd,J. Kidd,-79,141,16,Made,1,14,11,25,h,Kidd 16' Jump Shot (5 PTS) (Hardaway 2 AST),Made Shot,Jump Shot,0,0
+59,58,PT06M07.00S,1,1610612747,LAL,779,Rice,G. Rice,132,33,14,Missed,1,0,0,0,v,MISS Rice 14' Jump Shot,Missed Shot,Jump Shot,0,0
+60,59,PT06M06.00S,1,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+61,60,PT06M01.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,Made,1,16,11,27,h,Hardaway  Dunk (4 PTS) (Kidd 3 AST),Made Shot,Dunk Shot,0,0
+62,61,PT05M45.00S,1,1610612747,LAL,977,Bryant,K. Bryant,-57,145,16,Made,1,16,13,29,v,Bryant 16' Jump Shot (4 PTS) (Harper 2 AST),Made Shot,Jump Shot,0,0
+63,62,PT05M30.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal S.FOUL (P1.T2),Foul,Shooting,0,0
+64,63,PT05M30.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,SUB: Rogers FOR Marion,Substitution,,0,0
+65,64,PT05M30.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,MISS Hardaway Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+66,65,PT05M30.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+67,66,PT05M30.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,17,13,30,h,Hardaway Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+68,67,PT05M08.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,87,12,9,Made,1,17,15,32,v,O'Neal 9' Jump Shot (5 PTS) (Rice 1 AST),Made Shot,Jump Shot,0,0
+69,68,PT04M51.00S,1,1610612756,PHX,916,Blount,C. Blount,8,162,16,Made,1,19,15,34,h,Blount 16' Jump Shot (2 PTS) (Kidd 4 AST),Made Shot,Jump Shot,0,0
+70,69,PT04M38.00S,1,1610612747,LAL,977,Bryant,K. Bryant,226,-21,0,Missed,1,0,0,0,v,MISS Bryant  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+71,70,PT04M36.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+72,71,PT04M31.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,14,46,5,Made,1,21,15,36,h,Hardaway 5' Jump Shot (7 PTS) (Kidd 5 AST),Made Shot,Jump Shot,0,0
+73,72,PT04M21.00S,1,1610612747,LAL,779,Rice,G. Rice,0,0,0,Missed,1,0,0,0,v,MISS Rice  Layup,Missed Shot,Layup Shot,0,0
+74,72,PT04M21.00S,1,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,Rogers BLOCK (1 BLK),,,0,0
+75,73,PT04M19.00S,1,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,Rice REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+76,74,PT04M16.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,21,17,38,v,Bryant  Layup (6 PTS),Made Shot,Layup Shot,0,0
+77,75,PT04M09.00S,1,1610612756,PHX,916,Blount,C. Blount,0,0,0,Made,1,23,17,40,h,Blount  Layup (4 PTS) (Hardaway 3 AST),Made Shot,Layup Shot,0,0
+78,76,PT04M09.00S,1,1610612747,LAL,920,Green,A. Green,0,0,0,,0,0,0,0,v,Green S.FOUL (P1.T3),Foul,Shooting,0,0
+79,77,PT04M09.00S,1,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+80,79,PT04M09.00S,1,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,0,0,0,v,SUB: Shaw FOR Harper,Substitution,,0,0
+81,80,PT04M09.00S,1,1610612747,LAL,920,Green,A. Green,0,0,0,,0,0,0,0,v,SUB: Horry FOR Green,Substitution,,0,0
+82,81,PT04M09.00S,1,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,24,17,41,h,Blount Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+83,82,PT03M56.00S,1,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount P.FOUL (P1.T3),Foul,Personal,0,0
+84,83,PT03M43.00S,1,1610612747,LAL,109,Horry,R. Horry,242,-14,24,Missed,1,0,0,0,v,MISS Horry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+85,84,PT03M41.00S,1,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+86,85,PT03M35.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,81,224,24,Missed,1,0,0,0,h,MISS Hardaway 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+87,86,PT03M33.00S,1,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,Rice REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+88,87,PT03M19.00S,1,1610612747,LAL,779,Rice,G. Rice,-57,51,8,Missed,1,0,0,0,v,MISS Rice 8' Jump Shot,Missed Shot,Jump Shot,0,0
+89,88,PT03M17.00S,1,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+90,89,PT03M08.00S,1,1610612756,PHX,915,Rogers,R. Rogers,233,27,0,Made,1,27,17,44,h,Rogers  3PT Jump Shot (3 PTS) (Kidd 6 AST),Made Shot,Jump Shot,0,0
+91,90,PT02M52.00S,1,1610612747,LAL,109,Horry,R. Horry,0,0,0,Missed,1,0,0,0,v,MISS Horry  Layup,Missed Shot,Layup Shot,0,0
+92,92,PT02M48.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+93,91,PT02M48.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,27,19,46,v,O'Neal  Dunk (7 PTS),Made Shot,Dunk Shot,0,0
+94,93,PT02M26.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant S.FOUL (P2.T4),Foul,Shooting,0,0
+95,94,PT02M26.00S,1,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,SUB: Fox FOR Rice,Substitution,,0,0
+96,95,PT02M26.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,28,19,47,h,Robinson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+97,96,PT02M26.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,MISS Robinson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+98,97,PT02M25.00S,1,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+99,98,PT02M19.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,Missed,1,0,0,0,h,MISS Hardaway  Layup,Missed Shot,Layup Shot,0,0
+100,99,PT02M17.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+101,100,PT02M13.00S,1,1610612756,PHX,361,Robinson,C. Robinson,-94,-10,9,Made,1,30,19,49,h,Robinson 9' Jump Shot (6 PTS) (Kidd 7 AST),Made Shot,Jump Shot,0,0
+102,101,PT01M54.00S,1,1610612747,LAL,977,Bryant,K. Bryant,-136,1,14,Missed,1,0,0,0,v,MISS Bryant 14' Jump Shot,Missed Shot,Jump Shot,0,0
+103,102,PT01M53.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+104,103,PT01M46.00S,1,1610612747,LAL,216,Shaw,B. Shaw,1,242,24,Made,1,30,22,52,v,Shaw 24' 3PT Jump Shot (3 PTS) (Bryant 1 AST),Made Shot,Jump Shot,0,0
+105,104,PT01M29.00S,1,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,Missed,1,0,0,0,h,MISS Hardaway  Layup,Missed Shot,Layup Shot,0,0
+106,104,PT01M29.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal BLOCK (1 BLK),,,0,0
+107,105,PT01M27.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+108,106,PT01M24.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,30,24,54,v,Bryant  Slam Dunk (8 PTS) (Shaw 1 AST),Made Shot,Slam Dunk Shot,0,0
+109,107,PT01M07.00S,1,1610612756,PHX,467,Kidd,J. Kidd,51,151,16,Made,1,32,24,56,h,Kidd 16' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+110,108,PT00M46.90S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal 3 Second Violation Turnover (P1.T1),Turnover,3 Second Violation,0,0
+111,109,PT00M32.90S,1,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+112,109,PT00M32.90S,1,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry STEAL (1 STL),,,0,0
+113,110,PT00M25.90S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+114,110,PT00M25.90S,1,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway STEAL (1 STL),,,0,0
+115,111,PT00M19.90S,1,1610612756,PHX,361,Robinson,C. Robinson,-227,-14,0,Made,1,35,24,59,h,Robinson  3PT Jump Shot (9 PTS) (Kidd 8 AST),Made Shot,Jump Shot,0,0
+116,112,PT00M02.90S,1,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,Fox Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+117,112,PT00M02.90S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd STEAL (1 STL),,,0,0
+118,113,PT00M00.00S,1,1610612756,PHX,467,Kidd,J. Kidd,14,265,27,Made,1,38,24,62,h,Kidd 27' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+119,114,PT00M00.00S,1,0,,0,,,0,0,0,,0,38,24,62,,End of 1st Period (9:03 AM EST),period,end,0,0
+120,117,PT12M00.00S,2,0,,0,,,0,0,0,,0,38,24,62,,Start of 2nd Period (9:07 AM EST),period,start,0,0
+121,118,PT11M38.00S,2,1610612747,LAL,216,Shaw,B. Shaw,175,173,25,Missed,1,0,0,0,v,MISS Shaw 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+122,119,PT11M34.00S,2,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,Fox REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+123,120,PT11M33.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,38,26,64,v,O'Neal  Dunk (9 PTS),Made Shot,Dunk Shot,0,0
+124,121,PT11M20.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,Missed,1,0,0,0,h,MISS Robinson  Layup,Missed Shot,Layup Shot,0,0
+125,123,PT11M19.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+126,122,PT11M19.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,Made,1,40,26,66,h,Robinson  Dunk (11 PTS),Made Shot,Dunk Shot,0,0
+127,124,PT10M49.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,-12,72,7,Missed,1,0,0,0,v,MISS O'Neal 7' Jump Shot,Missed Shot,Jump Shot,0,0
+128,125,PT10M47.00S,2,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,v,Fisher REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+129,126,PT10M40.00S,2,1610612747,LAL,965,Fisher,D. Fisher,-203,-14,20,Missed,1,0,0,0,v,MISS Fisher 20' Jump Shot,Missed Shot,Jump Shot,0,0
+130,127,PT10M38.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+131,128,PT10M31.00S,2,1610612756,PHX,103,Day,T. Day,-227,23,0,Missed,1,0,0,0,h,MISS Day  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+132,129,PT10M29.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+133,130,PT10M25.00S,2,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,Missed,1,0,0,0,v,MISS Shaw  Layup,Missed Shot,Layup Shot,0,0
+134,131,PT10M25.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+135,132,PT10M25.00S,2,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,v,Fisher L.B.FOUL (P1.T1),Foul,Loose Ball,0,0
+136,133,PT10M25.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,SUB: Johnson FOR Kidd,Substitution,,0,0
+137,134,PT10M25.00S,2,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,SUB: Longley FOR Blount,Substitution,,0,0
+138,135,PT10M07.00S,2,1610612756,PHX,361,Robinson,C. Robinson,-166,179,24,Missed,1,0,0,0,h,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+139,136,PT10M04.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,Rogers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+140,137,PT10M02.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,Made,1,42,26,68,h,Robinson  Layup (13 PTS) (Rogers 1 AST),Made Shot,Layup Shot,0,0
+141,138,PT09M43.00S,2,1610612747,LAL,216,Shaw,B. Shaw,-136,5,14,Made,1,42,28,70,v,Shaw 14' Jump Shot (5 PTS) (O'Neal 2 AST),Made Shot,Jump Shot,0,0
+142,139,PT09M42.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal L.B.FOUL (P2.T2),Foul,Loose Ball,0,0
+143,140,PT09M42.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+144,142,PT09M42.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,SUB: Marion FOR Robinson,Substitution,,0,0
+145,143,PT09M23.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry S.FOUL (P1.T3),Foul,Shooting,0,0
+146,144,PT09M23.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,43,28,71,h,Rogers Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+147,145,PT09M23.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,MISS Rogers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+148,146,PT09M23.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+149,147,PT09M02.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,14,57,6,Made,1,43,30,73,v,O'Neal 6' Jump Shot (11 PTS) (Shaw 2 AST),Made Shot,Jump Shot,0,0
+150,148,PT08M42.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,Missed,1,0,0,0,h,MISS Johnson  Layup,Missed Shot,Layup Shot,0,0
+151,149,PT08M41.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+152,150,PT08M37.00S,2,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,Longley S.FOUL (P2.T1),Foul,Shooting,0,0
+153,151,PT08M37.00S,2,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,v,MISS Fisher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+154,152,PT08M37.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0
+155,153,PT08M37.00S,2,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,43,31,74,v,Fisher Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+156,154,PT08M22.00S,2,1610612756,PHX,134,Johnson,K. Johnson,-51,158,17,Made,1,45,31,76,h,Johnson 17' Jump Shot (2 PTS) (Day 1 AST),Made Shot,Jump Shot,0,0
+157,155,PT08M00.00S,2,1610612747,LAL,965,Fisher,D. Fisher,-66,235,24,Missed,1,0,0,0,v,MISS Fisher 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+158,156,PT07M59.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+159,157,PT07M49.00S,2,1610612756,PHX,103,Day,T. Day,0,0,0,Made,1,47,31,78,h,Day  Driving Layup (2 PTS) (Marion 2 AST),Made Shot,Driving Layup Shot,0,0
+160,158,PT07M35.00S,2,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,Longley P.FOUL (P3.T2),Foul,Personal,0,0
+161,159,PT07M35.00S,2,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,SUB: Blount FOR Longley,Substitution,,0,0
+162,160,PT07M29.00S,2,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount S.FOUL (P2.T3),Foul,Shooting,0,0
+163,161,PT07M29.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+164,162,PT07M29.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0
+165,163,PT07M29.00S,2,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0,0,0,v,SUB: Bryant FOR Shaw,Substitution,,0,0
+166,164,PT07M29.00S,2,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,SUB: Hardaway FOR Day,Substitution,,0,0
+167,165,PT07M29.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+168,166,PT07M28.00S,2,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,Fox REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+169,167,PT07M23.00S,2,1610612747,LAL,109,Horry,R. Horry,-130,207,24,Missed,1,0,0,0,v,MISS Horry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+170,168,PT07M22.00S,2,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+171,169,PT07M16.00S,2,1610612756,PHX,134,Johnson,K. Johnson,66,169,18,Missed,1,0,0,0,h,MISS Johnson 18' Jump Shot,Missed Shot,Jump Shot,0,0
+172,170,PT07M13.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+173,171,PT07M06.00S,2,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,Fox Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+174,171,PT07M06.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson STEAL (1 STL),,,0,0
+175,172,PT07M00.00S,2,1610612756,PHX,1890,Marion,S. Marion,-66,5,7,Missed,1,0,0,0,h,MISS Marion 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+176,172,PT07M00.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry BLOCK (1 BLK),,,0,0
+177,173,PT07M00.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+178,174,PT07M00.00S,2,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,SUB: Rice FOR Fox,Substitution,,0,0
+179,175,PT07M00.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+180,177,PT07M00.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,SUB: Kidd FOR Johnson,Substitution,,0,0
+181,178,PT06M54.00S,2,1610612756,PHX,358,Hardaway,A. Hardaway,-21,51,6,Made,1,49,31,80,h,Hardaway 6' Jump Shot (9 PTS) (Kidd 9 AST),Made Shot,Jump Shot,0,0
+182,179,PT06M54.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal S.FOUL (P3.T4),Foul,Shooting,0,0
+183,180,PT06M54.00S,2,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,MISS Hardaway Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+184,181,PT06M53.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Unknown,0,0
+185,182,PT06M53.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,Rogers L.B.FOUL (P1.T4),Foul,Loose Ball,0,0
+186,183,PT06M42.00S,2,1610612747,LAL,779,Rice,G. Rice,-203,-10,20,Made,1,49,33,82,v,Rice 20' Jump Shot (6 PTS) (Horry 1 AST),Made Shot,Jump Shot,0,0
+187,184,PT06M19.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,Made,1,51,33,84,h,Rogers  Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+188,185,PT06M11.00S,2,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount P.FOUL (P3.PN),Foul,Personal,0,0
+189,186,PT06M11.00S,2,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Blount,Substitution,,0,0
+190,187,PT06M11.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+191,188,PT06M11.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0
+192,189,PT06M11.00S,2,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,v,SUB: Harper FOR Fisher,Substitution,,0,0
+193,190,PT06M11.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+194,191,PT06M06.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Unknown,0,0
+195,192,PT05M57.00S,2,1610612747,LAL,977,Bryant,K. Bryant,-51,151,16,Made,1,51,35,86,v,Bryant 16' Jump Shot (10 PTS) (O'Neal 3 AST),Made Shot,Jump Shot,0,0
+196,193,PT05M37.00S,2,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,Missed,1,0,0,0,h,MISS Hardaway  Layup,Missed Shot,Layup Shot,0,0
+197,194,PT05M36.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+198,195,PT05M24.00S,2,1610612747,LAL,779,Rice,G. Rice,-94,179,20,Missed,1,0,0,0,v,MISS Rice 20' Jump Shot,Missed Shot,Jump Shot,0,0
+199,196,PT05M20.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+200,197,PT05M15.00S,2,1610612747,LAL,779,Rice,G. Rice,0,0,0,Missed,1,0,0,0,v,MISS Rice  Layup,Missed Shot,Layup Shot,0,0
+201,199,PT05M15.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Unknown,0,0
+202,198,PT05M15.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson L.B.FOUL (P1.PN),Foul,Loose Ball,0,0
+203,200,PT05M15.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson T.FOUL (P1.PN),Foul,Technical,0,0
+204,201,PT05M15.00S,2,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,51,36,87,v,Rice Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0
+205,202,PT05M15.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+206,203,PT05M15.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0
+207,204,PT05M15.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+208,205,PT05M14.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,Rogers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+209,206,PT05M02.00S,2,1610612756,PHX,361,Robinson,C. Robinson,1,246,25,Made,1,54,36,90,h,Robinson 25' 3PT Jump Shot (16 PTS) (Hardaway 4 AST),Made Shot,Jump Shot,0,0
+210,207,PT04M53.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Timeout: Short (Reg.1 Short 1),Timeout,Short,0,0
+211,209,PT04M53.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,SUB: Salley FOR O'Neal,Substitution,,0,0
+212,210,PT04M44.00S,2,1610612747,LAL,977,Bryant,K. Bryant,-12,68,7,Made,1,54,38,92,v,Bryant 7' Jump Shot (12 PTS),Made Shot,Jump Shot,0,0
+213,211,PT04M32.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,Made,1,56,38,94,h,Robinson  Layup (18 PTS) (Kidd 10 AST),Made Shot,Layup Shot,0,0
+214,212,PT04M32.00S,2,1610612747,LAL,927,Salley,J. Salley,0,0,0,,0,0,0,0,v,Salley S.FOUL (P1.PN),Foul,Shooting,0,0
+215,213,PT04M32.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,57,38,95,h,Robinson Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0
+216,214,PT04M15.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,57,40,97,v,Bryant  Slam Dunk (14 PTS) (Rice 2 AST),Made Shot,Slam Dunk Shot,0,0
+217,215,PT04M00.00S,2,1610612756,PHX,361,Robinson,C. Robinson,-136,27,14,Missed,1,0,0,0,h,MISS Robinson 14' Jump Shot,Missed Shot,Jump Shot,0,0
+218,216,PT03M59.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+219,217,PT03M47.00S,2,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway P.FOUL (P2.PN),Foul,Personal,0,0
+220,219,PT03M47.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,MISS Bryant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+221,220,PT03M47.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0
+222,221,PT03M47.00S,2,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,SUB: Day FOR Hardaway,Substitution,,0,0
+223,222,PT03M47.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,57,41,98,v,Bryant Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+224,223,PT03M31.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,0,0
+225,224,PT03M10.00S,2,1610612747,LAL,779,Rice,G. Rice,-136,-14,14,Missed,1,0,0,0,v,MISS Rice 14' Jump Shot,Missed Shot,Jump Shot,0,0
+226,225,PT03M09.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+227,226,PT02M55.00S,2,1610612756,PHX,1890,Marion,S. Marion,72,61,9,Made,1,59,41,100,h,Marion 9' Jump Shot (4 PTS) (Kidd 11 AST),Made Shot,Jump Shot,0,0
+228,227,PT02M36.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,0
+229,229,PT02M27.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,Rogers S.FOUL (P2.PN),Foul,Shooting,0,0
+230,230,PT02M27.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,59,42,101,v,Horry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+231,231,PT02M27.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,59,43,102,v,Horry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+232,232,PT02M10.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+233,232,PT02M10.00S,2,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,Rice STEAL (1 STL),,,0,0
+234,233,PT02M07.00S,2,1610612747,LAL,779,Rice,G. Rice,0,0,0,Made,1,59,45,104,v,Rice  Dunk (9 PTS),Made Shot,Dunk Shot,0,0
+235,234,PT01M52.00S,2,1610612756,PHX,467,Kidd,J. Kidd,132,-3,13,Missed,1,0,0,0,h,MISS Kidd 13' Jump Shot,Missed Shot,Jump Shot,0,0
+236,235,PT01M50.00S,2,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,Rice REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+237,236,PT01M43.00S,2,1610612747,LAL,779,Rice,G. Rice,175,33,18,Missed,1,0,0,0,v,MISS Rice 18' Jump Shot,Missed Shot,Jump Shot,0,0
+238,237,PT01M41.00S,2,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,Day REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+239,238,PT01M32.00S,2,1610612747,LAL,927,Salley,J. Salley,0,0,0,,0,0,0,0,v,Salley S.FOUL (P2.PN),Foul,Shooting,0,0
+240,239,PT01M32.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,60,45,105,h,Rogers Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+241,240,PT01M32.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,61,45,106,h,Rogers Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+242,241,PT01M19.00S,2,1610612747,LAL,166,Harper,R. Harper,23,151,15,Missed,1,0,0,0,v,MISS Harper 15' Jump Shot,Missed Shot,Jump Shot,0,0
+243,242,PT01M17.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+244,243,PT01M14.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,Made,1,63,45,108,h,Robinson  Dunk (21 PTS) (Kidd 12 AST),Made Shot,Dunk Shot,0,0
+245,246,PT01M03.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,SUB: Johnson FOR Rogers,Substitution,,0,0
+246,247,PT01M03.00S,2,1610612747,LAL,927,Salley,J. Salley,0,0,0,,0,0,0,0,v,SUB: Fisher FOR Salley,Substitution,,0,0
+247,248,PT00M54.80S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,Made,1,65,45,110,h,Kidd  Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,0
+248,249,PT00M45.20S,2,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,Day P.FOUL (P1.PN),Foul,Personal,0,0
+249,250,PT00M45.20S,2,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,0,0,0,v,MISS Harper Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+250,251,PT00M45.20S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0
+251,252,PT00M45.20S,2,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,65,46,111,v,Harper Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+252,253,PT00M31.90S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,Missed,1,0,0,0,h,MISS Kidd  Layup,Missed Shot,Layup Shot,0,0
+253,254,PT00M30.20S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+254,255,PT00M27.90S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,Made,1,67,46,113,h,Kidd  Layup (14 PTS) (Day 2 AST),Made Shot,Layup Shot,0,0
+255,256,PT00M25.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+256,256,PT00M25.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson STEAL (1 STL),,,0,0
+257,257,PT00M24.50S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,Made,1,69,46,115,h,Robinson  Dunk (23 PTS),Made Shot,Dunk Shot,0,0
+258,258,PT00M06.80S,2,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,Day S.FOUL (P2.PN),Foul,Shooting,0,0
+259,259,PT00M06.80S,2,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,69,47,116,v,Harper Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+260,260,PT00M06.80S,2,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,69,48,117,v,Harper Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+261,261,PT00M06.80S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+262,264,PT00M03.90S,2,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,0,0,0,v,Harper P.FOUL (P1.PN),Foul,Personal,0,0
+263,265,PT00M03.90S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,70,48,118,h,Kidd Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+264,266,PT00M03.90S,2,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,v,SUB: O'Neal FOR Fisher,Substitution,,0,0
+265,267,PT00M03.90S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,71,48,119,h,Kidd Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+266,268,PT00M00.00S,2,1610612747,LAL,977,Bryant,K. Bryant,29,342,34,Missed,1,0,0,0,v,MISS Bryant 34' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+267,270,PT00M00.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Unknown,0,0
+268,269,PT00M00.00S,2,0,,0,,,0,0,0,,0,71,48,119,,End of 2nd Period (9:46 AM EST),period,end,0,0
+269,272,PT12M00.00S,3,0,,0,,,0,0,0,,0,71,48,119,,Start of 3rd Period (10:08 AM EST),period,start,0,0
+270,273,PT11M47.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion S.FOUL (P1.T1),Foul,Shooting,0,0
+271,274,PT11M47.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,71,49,120,v,Rice Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+272,275,PT11M47.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,71,50,121,v,Rice Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+273,276,PT11M36.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,Rice Violation:Double Lane,Violation,Double Lane,0,0
+274,277,PT11M29.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+275,278,PT11M17.00S,3,1610612747,LAL,166,Harper,R. Harper,81,162,18,Made,1,71,52,123,v,Harper 18' Jump Shot (7 PTS) (Bryant 2 AST),Made Shot,Jump Shot,0,0
+276,279,PT10M58.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,Missed,1,0,0,0,h,MISS Robinson  Layup,Missed Shot,Layup Shot,0,0
+277,281,PT10M58.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+278,280,PT10M58.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,73,52,125,h,Marion  Dunk (6 PTS),Made Shot,Dunk Shot,0,0
+279,282,PT10M39.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant Out Of Bounds Turnover (P2.T6),Turnover,Out Of Bounds,0,0
+280,283,PT10M25.00S,3,1610612756,PHX,358,Hardaway,A. Hardaway,-66,12,7,Missed,1,0,0,0,h,MISS Hardaway 7' Jump Shot,Missed Shot,Jump Shot,0,0
+281,284,PT10M24.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+282,285,PT10M17.00S,3,1610612747,LAL,779,Rice,G. Rice,66,235,24,Missed,1,0,0,0,v,MISS Rice 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+283,286,PT10M15.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+284,287,PT10M08.00S,3,1610612756,PHX,358,Hardaway,A. Hardaway,-57,124,14,Made,1,75,52,127,h,Hardaway 14' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+285,288,PT09M51.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd P.FOUL (P1.T2),Foul,Personal,0,0
+286,289,PT09M42.00S,3,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,0,0,0,v,Harper Traveling Turnover (P1.T7),Turnover,Traveling,0,0
+287,290,PT09M27.00S,3,1610612756,PHX,361,Robinson,C. Robinson,184,119,22,Missed,1,0,0,0,h,MISS Robinson 22' Jump Shot,Missed Shot,Jump Shot,0,0
+288,291,PT09M26.00S,3,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,Longley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+289,292,PT09M24.00S,3,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,Longley OFF.Foul (P4),Foul,Offensive,0,0
+290,293,PT09M24.00S,3,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,Longley Foul Turnover (P1.T6),Turnover,Foul,0,0
+291,294,PT09M08.00S,3,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,Longley S.FOUL (P5.T3),Foul,Shooting,0,0
+292,295,PT09M08.00S,3,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,SUB: Blount FOR Longley,Substitution,,0,0
+293,296,PT09M08.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,75,53,128,v,O'Neal Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+294,297,PT09M08.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,75,54,129,v,O'Neal Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+295,298,PT08M49.00S,3,1610612756,PHX,467,Kidd,J. Kidd,-239,-21,24,Missed,1,0,0,0,h,MISS Kidd 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+296,299,PT08M46.00S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+297,300,PT08M42.00S,3,1610612756,PHX,467,Kidd,J. Kidd,-233,33,24,Made,1,78,54,132,h,Kidd 24' 3PT Jump Shot (19 PTS) (Marion 3 AST),Made Shot,Jump Shot,0,0
+298,301,PT08M21.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,78,56,134,v,O'Neal  Layup (15 PTS) (Harper 3 AST),Made Shot,Layup Shot,0,0
+299,302,PT08M06.00S,3,1610612756,PHX,358,Hardaway,A. Hardaway,-109,16,11,Missed,1,0,0,0,h,MISS Hardaway 11' Jump Shot,Missed Shot,Jump Shot,0,0
+300,304,PT08M04.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+301,303,PT08M04.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,Missed,1,0,0,0,h,MISS Robinson  Tip Shot,Missed Shot,Tip Shot,0,0
+302,305,PT08M03.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+303,306,PT08M00.00S,3,1610612756,PHX,361,Robinson,C. Robinson,-36,23,4,Made,1,80,56,136,h,Robinson 4' Hook Shot (25 PTS),Made Shot,Hook Shot,0,0
+304,307,PT07M50.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,80,58,138,v,O'Neal  Dunk (17 PTS) (Bryant 3 AST),Made Shot,Dunk Shot,0,0
+305,308,PT07M38.00S,3,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,0,0,0,v,Harper P.FOUL (P2.T1),Foul,Personal,0,0
+306,309,PT07M23.00S,3,1610612756,PHX,358,Hardaway,A. Hardaway,-79,5,8,Missed,1,0,0,0,h,MISS Hardaway 8' Jump Shot,Missed Shot,Jump Shot,0,0
+307,311,PT07M21.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+308,310,PT07M21.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Missed,1,0,0,0,h,MISS Marion  Dunk,Missed Shot,Dunk Shot,0,0
+309,312,PT07M20.00S,3,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+310,313,PT07M18.00S,3,1610612756,PHX,467,Kidd,J. Kidd,44,145,15,Missed,1,0,0,0,h,MISS Kidd 15' Jump Shot,Missed Shot,Jump Shot,0,0
+311,314,PT07M16.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+312,315,PT07M07.00S,3,1610612747,LAL,977,Bryant,K. Bryant,138,-3,14,Made,1,80,60,140,v,Bryant 14' Jump Shot (17 PTS),Made Shot,Jump Shot,0,0
+313,316,PT07M06.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+314,318,PT06M50.00S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,Missed,1,0,0,0,h,MISS Blount  Layup,Missed Shot,Layup Shot,0,0
+315,318,PT06M50.00S,3,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,0,0,0,v,Harper BLOCK (1 BLK),,,0,0
+316,319,PT06M49.00S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+317,320,PT06M47.00S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,Made,1,82,60,142,h,Blount  Layup (7 PTS),Made Shot,Layup Shot,0,0
+318,321,PT06M27.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Missed,1,0,0,0,v,MISS O'Neal  Layup,Missed Shot,Layup Shot,0,0
+319,322,PT06M26.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+320,323,PT06M10.00S,3,1610612756,PHX,1890,Marion,S. Marion,87,1,9,Missed,1,0,0,0,h,MISS Marion 9' Jump Shot,Missed Shot,Jump Shot,0,0
+321,324,PT06M09.00S,3,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,0,0,0,v,Harper REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+322,325,PT05M51.00S,3,1610612747,LAL,779,Rice,G. Rice,226,-14,0,Missed,1,0,0,0,v,MISS Rice  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+323,326,PT05M50.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+324,327,PT05M50.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal L.B.FOUL (P4.T2),Foul,Loose Ball,0,0
+325,328,PT05M36.00S,3,1610612747,LAL,920,Green,A. Green,0,0,0,,0,0,0,0,v,Green P.FOUL (P2.T3),Foul,Personal,0,0
+326,329,PT05M32.00S,3,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,Made,1,84,60,144,h,Hardaway  Dunk (13 PTS) (Kidd 13 AST),Made Shot,Dunk Shot,0,0
+327,330,PT05M11.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion P.FOUL (P2.T4),Foul,Personal,0,0
+328,331,PT05M11.00S,3,1610612747,LAL,166,Harper,R. Harper,0,0,0,,0,0,0,0,v,SUB: Fisher FOR Harper,Substitution,,0,0
+329,332,PT05M11.00S,3,1610612747,LAL,920,Green,A. Green,0,0,0,,0,0,0,0,v,SUB: Horry FOR Green,Substitution,,0,0
+330,333,PT05M06.00S,3,1610612747,LAL,977,Bryant,K. Bryant,-130,106,17,Missed,1,0,0,0,v,MISS Bryant 17' Jump Shot,Missed Shot,Jump Shot,0,0
+331,334,PT05M04.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+332,335,PT05M02.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,86,60,146,h,Marion  Dunk (8 PTS) (Kidd 14 AST),Made Shot,Dunk Shot,0,0
+333,336,PT04M41.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0
+334,336,PT04M41.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd STEAL (2 STL),,,0,0
+335,337,PT04M41.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal P.FOUL (P5.T4),Foul,Personal,0,0
+336,338,PT04M41.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,SUB: Knight FOR O'Neal,Substitution,,0,0
+337,339,PT04M25.00S,3,1610612756,PHX,467,Kidd,J. Kidd,-87,224,24,Made,1,89,60,149,h,Kidd 24' 3PT Jump Shot (22 PTS) (Hardaway 5 AST),Made Shot,Jump Shot,0,0
+338,340,PT04M09.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion S.FOUL (P3.PN),Foul,Shooting,0,0
+339,341,PT04M09.00S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,SUB: Rogers FOR Blount,Substitution,,0,0
+340,342,PT04M09.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,89,61,150,v,Rice Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+341,343,PT04M09.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,89,62,151,v,Rice Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+342,344,PT03M55.00S,3,1610612756,PHX,915,Rogers,R. Rogers,-27,51,6,Missed,1,0,0,0,h,MISS Rogers 6' Jump Shot,Missed Shot,Jump Shot,0,0
+343,345,PT03M53.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:4 Def:5),Rebound,Unknown,0,0
+344,346,PT03M44.00S,3,1610612756,PHX,915,Rogers,R. Rogers,-100,231,25,Missed,1,0,0,0,h,MISS Rogers 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+345,347,PT03M42.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Unknown,0,0
+346,348,PT03M42.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson L.B.FOUL (P2.PN),Foul,Loose Ball,0,0
+347,349,PT03M42.00S,3,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,MISS Horry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+348,351,PT03M42.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0
+349,352,PT03M42.00S,3,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,89,63,152,v,Horry Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+350,353,PT03M30.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd OFF.Foul (P2),Foul,Offensive,0,0
+351,354,PT03M30.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd Foul Turnover (P2.T7),Turnover,Foul,0,0
+352,355,PT03M16.00S,3,1610612747,LAL,109,Horry,R. Horry,0,0,0,Missed,1,0,0,0,v,MISS Horry  Layup,Missed Shot,Layup Shot,0,0
+353,355,PT03M16.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson BLOCK (1 BLK),,,0,0
+354,356,PT03M16.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Unknown,0,0
+355,357,PT03M16.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+356,359,PT03M14.00S,3,1610612747,LAL,977,Bryant,K. Bryant,-12,96,10,Made,1,89,65,154,v,Bryant 10' Jump Shot (19 PTS) (Horry 2 AST),Made Shot,Jump Shot,0,0
+357,360,PT02M52.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0,0,0,v,Knight P.FOUL (P1.PN),Foul,Personal,0,0
+358,361,PT02M52.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,90,65,155,h,Robinson Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0
+359,362,PT02M52.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,MISS Robinson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+360,363,PT02M51.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,Rice REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+361,364,PT02M38.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion P.FOUL (P4.PN),Foul,Personal,0,0
+362,365,PT02M38.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,90,66,156,v,Rice Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+363,366,PT02M38.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,SUB: Day FOR Marion,Substitution,,0,0
+364,367,PT02M38.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,90,67,157,v,Rice Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+365,368,PT02M20.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0
+366,369,PT02M12.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson P.FOUL (P3.PN),Foul,Personal,0,0
+367,370,PT02M12.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0,0,0,v,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+368,371,PT02M12.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0
+369,372,PT02M12.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0,0,0,v,MISS Knight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+370,373,PT02M11.00S,3,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,Day REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+371,374,PT01M50.00S,3,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,Missed,1,0,0,0,h,MISS Hardaway  Layup,Missed Shot,Layup Shot,0,0
+372,375,PT01M49.00S,3,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+373,376,PT01M34.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,Rice OFF.Foul (P1),Foul,Offensive,0,0
+374,377,PT01M34.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,Rice Foul Turnover (P1.T9),Turnover,Foul,0,0
+375,378,PT01M22.00S,3,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,Missed,1,0,0,0,h,MISS Hardaway  Layup,Missed Shot,Layup Shot,0,0
+376,379,PT01M21.00S,3,1610612747,LAL,779,Rice,G. Rice,0,0,0,,0,0,0,0,v,Rice REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+377,380,PT01M12.00S,3,1610612747,LAL,977,Bryant,K. Bryant,-12,252,25,Missed,1,0,0,0,v,MISS Bryant 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+378,381,PT01M10.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+379,382,PT01M03.00S,3,1610612756,PHX,103,Day,T. Day,184,162,25,Made,1,93,67,160,h,Day 25' 3PT Jump Shot (5 PTS) (Kidd 15 AST),Made Shot,Jump Shot,0,0
+380,383,PT00M48.90S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0,0,0,v,Knight Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0
+381,383,PT00M48.90S,3,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway STEAL (2 STL),,,0,0
+382,384,PT00M42.90S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0
+383,384,PT00M42.90S,3,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,v,Fisher STEAL (1 STL),,,0,0
+384,385,PT00M19.90S,3,1610612747,LAL,977,Bryant,K. Bryant,23,196,20,Made,1,93,69,162,v,Bryant 20' Jump Shot (21 PTS),Made Shot,Jump Shot,0,0
+385,386,PT00M05.60S,3,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0
+386,386,PT00M05.60S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant STEAL (1 STL),,,0,0
+387,387,PT00M01.00S,3,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,Day P.FOUL (P3.PN),Foul,Personal,0,0
+388,388,PT00M01.00S,3,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,93,70,163,v,Fisher Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+389,389,PT00M01.00S,3,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,93,71,164,v,Fisher Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+390,390,PT00M00.00S,3,0,,0,,,0,0,0,,0,93,71,164,,End of 3rd Period (10:38 AM EST),period,end,0,0
+391,392,PT12M00.00S,4,0,,0,,,0,0,0,,0,93,71,164,,Start of 4th Period (10:42 AM EST),period,start,0,0
+392,393,PT11M42.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,95,71,166,h,Marion  Layup (10 PTS) (Rogers 2 AST),Made Shot,Layup Shot,0,0
+393,394,PT11M21.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,O'Neal Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0
+394,394,PT11M21.00S,4,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway STEAL (3 STL),,,0,0
+395,395,PT11M18.00S,4,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,Day Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0
+396,396,PT11M05.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,Rogers P.FOUL (P3.T1),Foul,Personal,0,0
+397,397,PT11M05.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,SUB: Johnson FOR Kidd,Substitution,,0,0
+398,398,PT11M02.00S,4,1610612747,LAL,1904,George,D. George,-188,173,26,Missed,1,0,0,0,v,MISS George 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+399,399,PT11M00.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,Marion REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+400,400,PT10M53.00S,4,1610612756,PHX,915,Rogers,R. Rogers,205,124,24,Missed,1,0,0,0,h,MISS Rogers 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+401,401,PT10M52.00S,4,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+402,402,PT10M43.00S,4,1610612747,LAL,965,Fisher,D. Fisher,-51,141,15,Missed,1,0,0,0,v,MISS Fisher 15' Jump Shot,Missed Shot,Jump Shot,0,0
+403,403,PT10M42.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+404,404,PT10M42.00S,4,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry L.B.FOUL (P2.T1),Foul,Loose Ball,0,0
+405,405,PT10M27.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,Made,1,97,71,168,h,Rogers  Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+406,406,PT10M06.00S,4,1610612747,LAL,216,Shaw,B. Shaw,-72,23,8,Made,1,97,73,170,v,Shaw 8' Hook Shot (7 PTS),Made Shot,Hook Shot,0,0
+407,407,PT09M47.00S,4,1610612756,PHX,915,Rogers,R. Rogers,199,141,24,Missed,1,0,0,0,h,MISS Rogers 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+408,408,PT09M45.00S,4,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+409,409,PT09M27.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,97,75,172,v,O'Neal  Layup (19 PTS) (George 1 AST),Made Shot,Layup Shot,0,0
+410,410,PT09M08.00S,4,1610612756,PHX,915,Rogers,R. Rogers,-51,235,24,Made,1,100,75,175,h,Rogers 24' 3PT Jump Shot (13 PTS) (Hardaway 6 AST),Made Shot,Jump Shot,0,0
+411,411,PT08M52.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,Rogers P.FOUL (P4.T2),Foul,Personal,0,0
+412,412,PT08M52.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+413,414,PT08M52.00S,4,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,v,SUB: Bryant FOR Fisher,Substitution,,0,0
+414,415,PT08M37.00S,4,1610612747,LAL,977,Bryant,K. Bryant,-124,-25,13,Missed,1,0,0,0,v,MISS Bryant 13' Jump Shot,Missed Shot,Jump Shot,0,0
+415,417,PT08M36.00S,4,1610612747,LAL,1904,George,D. George,0,0,0,,0,0,0,0,v,George REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+416,416,PT08M36.00S,4,1610612747,LAL,1904,George,D. George,0,0,0,Made,1,100,77,177,v,George  Dunk (2 PTS),Made Shot,Dunk Shot,0,0
+417,418,PT08M18.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant P.FOUL (P3.T2),Foul,Personal,0,0
+418,419,PT08M08.00S,4,1610612756,PHX,915,Rogers,R. Rogers,-27,242,24,Missed,1,0,0,0,h,MISS Rogers 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+419,420,PT08M07.00S,4,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0,0,0,v,Shaw REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+420,421,PT08M01.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,100,79,179,v,O'Neal  Layup (21 PTS) (Shaw 3 AST),Made Shot,Layup Shot,0,0
+421,422,PT08M01.00S,4,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,Day S.FOUL (P4.T3),Foul,Shooting,0,0
+422,423,PT08M01.00S,4,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,SUB: Longley FOR Day,Substitution,,0,0
+423,424,PT08M01.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,100,80,180,v,O'Neal Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,0
+424,425,PT07M41.00S,4,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry S.FOUL (P3.T3),Foul,Shooting,0,0
+425,426,PT07M41.00S,4,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,MISS Hardaway Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+426,427,PT07M41.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+427,428,PT07M41.00S,4,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,101,80,181,h,Hardaway Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+428,429,PT07M20.00S,4,1610612747,LAL,216,Shaw,B. Shaw,-12,242,24,Made,1,101,83,184,v,Shaw 24' 3PT Jump Shot (10 PTS) (Bryant 4 AST),Made Shot,Jump Shot,0,0
+429,430,PT07M05.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Missed,1,0,0,0,h,MISS Marion  Dunk,Missed Shot,Dunk Shot,0,0
+430,431,PT07M02.00S,4,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+431,432,PT06M54.00S,4,1610612747,LAL,977,Bryant,K. Bryant,-130,218,25,Missed,1,0,0,0,v,MISS Bryant 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+432,433,PT06M52.00S,4,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0,0,0,v,Shaw REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+433,434,PT06M50.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,101,85,186,v,O'Neal  Dunk (24 PTS) (Bryant 5 AST),Made Shot,Dunk Shot,0,0
+434,435,PT06M47.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+435,437,PT06M47.00S,4,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,SUB: Kidd FOR Johnson,Substitution,,0,0
+436,438,PT06M47.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Marion,Substitution,,0,0
+437,439,PT06M21.00S,4,1610612756,PHX,915,Rogers,R. Rogers,162,85,18,Made,1,103,85,188,h,Rogers 18' Jump Shot (15 PTS) (Longley 1 AST),Made Shot,Jump Shot,0,0
+438,441,PT06M03.00S,4,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,Longley S.FOUL (P6.T4),Foul,Shooting,0,0
+439,442,PT06M03.00S,4,1610612756,PHX,26,Longley,L. Longley,0,0,0,,0,0,0,0,h,SUB: Blount FOR Longley,Substitution,,0,0
+440,443,PT06M03.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,MISS Bryant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+441,444,PT06M03.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0
+442,445,PT06M03.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,103,86,189,v,Bryant Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0
+443,446,PT05M58.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,Made,1,105,86,191,h,Rogers  Dunk (17 PTS) (Kidd 16 AST),Made Shot,Dunk Shot,0,0
+444,447,PT05M43.00S,4,1610612747,LAL,216,Shaw,B. Shaw,-130,207,24,Missed,1,0,0,0,v,MISS Shaw 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+445,448,PT05M41.00S,4,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,Hardaway REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+446,449,PT05M30.00S,4,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,Horry P.FOUL (P4.T4),Foul,Personal,0,0
+447,450,PT05M22.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,Rogers Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0
+448,450,PT05M22.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant STEAL (2 STL),,,0,0
+449,451,PT05M14.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd S.FOUL (P3.PN),Foul,Shooting,0,0
+450,452,PT05M14.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,105,87,192,v,Bryant Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0
+451,453,PT05M14.00S,4,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0,0,0,v,SUB: Fisher FOR Horry,Substitution,,0,0
+452,454,PT05M14.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,MISS Bryant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+453,455,PT05M13.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,Rogers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+454,456,PT04M59.00S,4,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,Made,1,107,87,194,h,Hardaway  Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,0
+455,457,PT04M43.00S,4,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount S.FOUL (P4.PN),Foul,Shooting,0,0
+456,458,PT04M43.00S,4,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,107,88,195,v,Shaw Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+457,459,PT04M43.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0,0,0,v,SUB: Knight FOR O'Neal,Substitution,,0,0
+458,460,PT04M43.00S,4,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,107,89,196,v,Shaw Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+459,461,PT04M35.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,Bryant P.FOUL (P4.PN),Foul,Personal,0,0
+460,462,PT04M35.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+461,463,PT04M35.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+462,464,PT04M35.00S,4,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0,0,0,v,SUB: Fox FOR Shaw,Substitution,,0,0
+463,465,PT04M35.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,108,89,197,h,Robinson Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0
+464,466,PT04M22.00S,4,1610612747,LAL,977,Bryant,K. Bryant,-12,265,27,Missed,1,0,0,0,v,MISS Bryant 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+465,467,PT04M20.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+466,468,PT04M16.00S,4,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0
+467,468,PT04M16.00S,4,1610612747,LAL,1904,George,D. George,0,0,0,,0,0,0,0,v,George STEAL (1 STL),,,0,0
+468,469,PT04M11.00S,4,1610612747,LAL,1904,George,D. George,-12,242,24,Missed,1,0,0,0,v,MISS George 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+469,470,PT04M08.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+470,471,PT03M58.00S,4,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,Fox P.FOUL (P1.PN),Foul,Personal,0,0
+471,472,PT03M58.00S,4,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,Fox T.FOUL (P1.PN),Foul,Technical,0,0
+472,473,PT03M58.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,109,89,198,h,Robinson Free Throw Technical (28 PTS),Free Throw,Free Throw Technical,0,0
+473,474,PT03M58.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,110,89,199,h,Robinson Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0
+474,475,PT03M58.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,111,89,200,h,Robinson Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0
+475,476,PT03M43.00S,4,1610612747,LAL,969,Knight,T. Knight,169,-3,17,Made,1,111,91,202,v,Knight 17' Jump Shot (2 PTS) (Fisher 1 AST),Made Shot,Jump Shot,0,0
+476,477,PT03M27.00S,4,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,Fox P.FOUL (P2.PN),Foul,Personal,0,0
+477,478,PT03M27.00S,4,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,Fox T.FOUL (P2.PN),Foul,Technical,0,0
+478,479,PT03M27.00S,4,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,Fox Ejection:Second Technical,Ejection,Second Technical,0,0
+479,480,PT03M27.00S,4,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0,0,0,v,SUB: Salley FOR Fox,Substitution,,0,0
+480,481,PT03M27.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,MISS Kidd Free Throw Technical,Free Throw,Free Throw Technical,0,0
+481,482,PT03M27.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+482,483,PT03M27.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,SUB: Bailey FOR Kidd,Substitution,,0,0
+483,484,PT03M27.00S,4,1610612756,PHX,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,h,SUB: Livingston FOR Hardaway,Substitution,,0,0
+484,485,PT03M27.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+485,487,PT03M27.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0,0,0,v,SUB: Shaw FOR Bryant,Substitution,,0,0
+486,488,PT03M27.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,112,91,203,h,Robinson Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,0,0
+487,489,PT03M27.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,113,91,204,h,Robinson Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0
+488,490,PT03M18.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,Robinson P.FOUL (P4.PN),Foul,Personal,0,0
+489,491,PT03M18.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0,0,0,h,SUB: Marion FOR Robinson,Substitution,,0,0
+490,492,PT03M18.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0,0,0,h,SUB: Day FOR Rogers,Substitution,,0,0
+491,493,PT03M18.00S,4,1610612747,LAL,1904,George,D. George,0,0,0,,0,113,92,205,v,George Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+492,495,PT03M18.00S,4,1610612747,LAL,1904,George,D. George,0,0,0,,0,0,0,0,v,MISS George Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+493,496,PT03M17.00S,4,1610612747,LAL,927,Salley,J. Salley,0,0,0,,0,0,0,0,v,Salley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+494,497,PT03M08.00S,4,1610612747,LAL,1904,George,D. George,0,0,0,,0,0,0,0,v,George Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0
+495,498,PT02M52.00S,4,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,Day Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0
+496,498,PT02M52.00S,4,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0,0,0,v,Knight STEAL (1 STL),,,0,0
+497,499,PT02M42.00S,4,1610612747,LAL,1904,George,D. George,-188,5,19,Made,1,113,94,207,v,George 19' Jump Shot (5 PTS),Made Shot,Jump Shot,0,0
+498,500,PT02M21.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,115,94,209,h,Marion  Slam Dunk (12 PTS) (Bailey 1 AST),Made Shot,Slam Dunk Shot,0,0
+499,501,PT01M56.00S,4,1610612747,LAL,969,Knight,T. Knight,138,141,20,Missed,1,0,0,0,v,MISS Knight 20' Jump Shot,Missed Shot,Jump Shot,0,0
+500,502,PT01M54.00S,4,1610612756,PHX,1753,Bailey,T. Bailey,0,0,0,,0,0,0,0,h,Bailey REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+501,503,PT01M43.00S,4,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount OFF.Foul (P5),Foul,Offensive,0,0
+502,504,PT01M43.00S,4,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,Blount Foul Turnover (P3.T15),Turnover,Foul,0,0
+503,505,PT01M43.00S,4,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0,0,0,h,SUB: Miller FOR Blount,Substitution,,0,0
+504,506,PT01M28.00S,4,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0,0,0,v,Shaw Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0
+505,507,PT01M15.00S,4,1610612756,PHX,988,Livingston,R. Livingston,-145,130,19,Made,1,117,94,211,h,Livingston 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+506,508,PT00M59.90S,4,1610612747,LAL,927,Salley,J. Salley,0,0,0,Missed,1,0,0,0,v,MISS Salley  Layup,Missed Shot,Layup Shot,0,0
+507,510,PT00M57.90S,4,1610612747,LAL,1904,George,D. George,0,0,0,,0,0,0,0,v,George REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+508,509,PT00M57.90S,4,1610612747,LAL,1904,George,D. George,0,0,0,Missed,1,0,0,0,v,MISS George  Tip Shot,Missed Shot,Tip Shot,0,0
+509,511,PT00M55.60S,4,1610612756,PHX,932,Miller,O. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+510,512,PT00M47.90S,4,1610612756,PHX,1753,Bailey,T. Bailey,162,23,16,Missed,1,0,0,0,h,MISS Bailey 16' Jump Shot,Missed Shot,Jump Shot,0,0
+511,513,PT00M46.70S,4,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,v,Fisher REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+512,514,PT00M34.40S,4,1610612747,LAL,969,Knight,T. Knight,169,5,17,Made,1,117,96,213,v,Knight 17' Jump Shot (4 PTS) (Shaw 4 AST),Made Shot,Jump Shot,0,0
+513,515,PT00M18.40S,4,1610612747,LAL,927,Salley,J. Salley,0,0,0,,0,0,0,0,v,Salley S.FOUL (P3.PN),Foul,Shooting,0,0
+514,516,PT00M18.40S,4,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+515,518,PT00M18.40S,4,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,MISS Day Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+516,519,PT00M18.40S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+517,520,PT00M18.40S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+518,521,PT00M18.40S,4,1610612756,PHX,103,Day,T. Day,0,0,0,,0,0,0,0,h,MISS Day Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+519,522,PT00M17.90S,4,1610612747,LAL,927,Salley,J. Salley,0,0,0,,0,0,0,0,v,Salley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+520,523,PT00M14.70S,4,0,,1610612747,,,0,0,0,,0,0,0,0,v,Lakers Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,0
+521,525,PT00M10.30S,4,1610612756,PHX,932,Miller,O. Miller,0,0,0,,0,0,0,0,h,Miller P.FOUL (P1.PN),Foul,Personal,0,0
+522,526,PT00M10.30S,4,1610612747,LAL,927,Salley,J. Salley,0,0,0,,0,117,97,214,v,Salley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+523,527,PT00M10.30S,4,1610612747,LAL,927,Salley,J. Salley,0,0,0,,0,117,98,215,v,Salley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+524,528,PT00M00.00S,4,1610612756,PHX,932,Miller,O. Miller,211,388,44,Missed,1,0,0,0,h,MISS Miller 44' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+525,530,PT00M00.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+526,529,PT00M00.00S,4,0,,0,,,0,0,0,,0,117,98,215,,End of 4th Period (11:23 AM EST),period,end,0,0

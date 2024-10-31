@@ -1,0 +1,455 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:40 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Jump Ball Kaman vs. Okur: Tip to Thomas,Jump Ball,,0,0
+3,2,PT11M45.00S,1,1610612746,LAC,201154,Thornton,A. Thornton,-68,113,13,Made,1,2,0,2,h,Thornton 13' Turnaround Jump Shot (2 PTS) (Thomas 1 AST),Made Shot,Turnaround Jump Shot,0,0
+4,3,PT11M31.00S,1,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,Taylor S.FOUL (P1.T1),Foul,Shooting,0,0
+5,4,PT11M31.00S,1,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,MISS Boozer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+6,5,PT11M31.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0
+7,6,PT11M31.00S,1,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,2,1,3,v,Boozer Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+8,8,PT11M11.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,Mobley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+9,8,PT11M11.00S,1,1610612762,UTA,101179,Price,R. Price,0,0,0,,0,,,0,v,Price STEAL (1 STL),,,0,0
+10,9,PT11M05.00S,1,1610612762,UTA,101179,Price,R. Price,0,0,0,Missed,1,,,0,v,MISS Price Layup,Missed Shot,Layup Shot,0,0
+11,10,PT11M03.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+12,11,PT10M57.00S,1,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,Made,1,4,1,5,h,Thornton Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+13,12,PT10M39.00S,1,1610612762,UTA,2246,Okur,M. Okur,-111,200,23,Missed,1,,,0,v,MISS Okur 23' Jump Shot,Missed Shot,Jump Shot,0,0
+14,13,PT10M37.00S,1,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+15,14,PT10M14.00S,1,1610612746,LAC,201154,Thornton,A. Thornton,-13,235,24,Made,1,6,1,7,h,Thornton 24' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+16,15,PT09M58.00S,1,1610612762,UTA,200758,Brewer,R. Brewer,-56,148,16,Missed,1,,,0,v,MISS Brewer 16' Jump Shot,Missed Shot,Jump Shot,0,0
+17,16,PT09M57.00S,1,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+18,17,PT09M43.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,8,1,9,h,Kaman Slam Dunk (2 PTS) (Thomas 2 AST),Made Shot,Slam Dunk Shot,0,0
+19,18,PT09M16.00S,1,1610612762,UTA,101139,Miles,C. Miles,-97,261,28,Missed,1,,,0,v,MISS Miles 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+20,19,PT09M16.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+21,21,PT09M01.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,72,105,13,Missed,1,,,0,h,MISS Kaman 13' Jump Shot,Missed Shot,Jump Shot,0,0
+22,22,PT09M00.00S,1,1610612762,UTA,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+23,23,PT08M45.00S,1,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,Made,1,8,3,11,v,Boozer Reverse Layup (3 PTS) (Okur 1 AST),Made Shot,Reverse Layup Shot,0,0
+24,24,PT08M28.00S,1,1610612762,UTA,101179,Price,R. Price,0,0,0,,0,,,0,v,Price P.FOUL (P1.T1),Foul,Personal,0,0
+25,25,PT08M20.00S,1,1610612746,LAC,201446,Taylor,M. Taylor,6,85,9,Missed,1,,,0,h,MISS Taylor 9' Jump Shot,Missed Shot,Jump Shot,0,0
+26,26,PT08M19.00S,1,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,Okur REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+27,27,PT07M56.00S,1,1610612762,UTA,101179,Price,R. Price,185,19,19,Made,1,8,5,13,v,Price 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+28,28,PT07M40.00S,1,1610612746,LAC,201446,Taylor,M. Taylor,-103,126,16,Missed,1,,,0,h,MISS Taylor 16' Jump Shot,Missed Shot,Jump Shot,0,0
+29,29,PT07M39.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0
+30,31,PT07M23.00S,1,1610612762,UTA,101179,Price,R. Price,0,0,0,,0,,,0,v,Price Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+31,32,PT07M02.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,,,0,h,MISS Mobley Layup,Missed Shot,Layup Shot,0,0
+32,33,PT07M01.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+33,34,PT07M00.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,10,5,15,h,Kaman Layup (4 PTS),Made Shot,Layup Shot,0,0
+34,35,PT06M36.00S,1,1610612762,UTA,2430,Boozer,C. Boozer,64,28,7,Missed,1,,,0,v,MISS Boozer 7' Jump Shot,Missed Shot,Jump Shot,0,0
+35,35,PT06M36.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman BLOCK (1 BLK),,,0,0
+36,36,PT06M34.00S,1,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,Taylor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+37,37,PT06M24.00S,1,1610612762,UTA,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles P.FOUL (P1.T2),Foul,Personal,0,0
+38,38,PT06M10.00S,1,1610612746,LAC,201446,Taylor,M. Taylor,88,216,23,Missed,1,,,0,h,MISS Taylor 23' Jump Shot,Missed Shot,Jump Shot,0,0
+39,39,PT06M09.00S,1,1610612762,UTA,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+40,40,PT05M48.00S,1,1610612762,UTA,2246,Okur,M. Okur,-172,209,27,Missed,1,,,0,v,MISS Okur 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+41,41,PT05M47.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+42,42,PT05M47.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+43,44,PT05M47.00S,1,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,SUB: B. Davis FOR Taylor,Substitution,,0,0
+44,45,PT05M33.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,Mobley Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0
+45,45,PT05M33.00S,1,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,Okur STEAL (1 STL),,,0,0
+46,46,PT05M23.00S,1,1610612762,UTA,2246,Okur,M. Okur,0,0,0,Made,1,10,7,17,v,Okur Layup (2 PTS) (Brewer 1 AST),Made Shot,Layup Shot,0,0
+47,47,PT05M05.00S,1,1610612746,LAC,1884,Davis,B. Davis,-164,198,26,Made,1,13,7,20,h,B. Davis 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,0
+48,48,PT04M39.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0
+49,49,PT04M24.00S,1,1610612746,LAC,1884,Davis,B. Davis,0,0,0,Missed,1,,,0,h,MISS B. Davis Driving Layup,Missed Shot,Driving Layup Shot,0,0
+50,50,PT04M23.00S,1,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+51,51,PT04M23.00S,1,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,Okur S.FOUL (P1.T3),Foul,Shooting,0,0
+52,52,PT04M23.00S,1,1610612762,UTA,101139,Miles,C. Miles,0,0,0,,0,,,0,v,SUB: Kirilenko FOR Miles,Substitution,,0,0
+53,53,PT04M23.00S,1,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,SUB: Millsap FOR Okur,Substitution,,0,0
+54,54,PT04M23.00S,1,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,MISS B. Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+55,55,PT04M23.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+56,56,PT04M23.00S,1,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,SUB: Camby FOR Thomas,Substitution,,0,0
+57,57,PT04M23.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+58,58,PT04M23.00S,1,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,MISS B. Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+59,60,PT04M22.00S,1,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+60,61,PT04M08.00S,1,1610612762,UTA,101179,Price,R. Price,-142,127,19,Missed,1,,,0,v,MISS Price 19' Jump Shot,Missed Shot,Jump Shot,0,0
+61,62,PT04M06.00S,1,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+62,63,PT04M00.00S,1,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+63,63,PT04M00.00S,1,1610612762,UTA,200758,Brewer,R. Brewer,0,0,0,,0,,,0,v,Brewer STEAL (1 STL),,,0,0
+64,64,PT03M57.00S,1,1610612762,UTA,200758,Brewer,R. Brewer,0,0,0,Made,1,13,9,22,v,Brewer Reverse Layup (2 PTS) (Price 1 AST),Made Shot,Reverse Layup Shot,0,0
+65,65,PT03M34.00S,1,1610612746,LAC,1884,Davis,B. Davis,-144,235,28,Missed,1,,,0,h,MISS B. Davis 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+66,66,PT03M34.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0
+67,67,PT03M34.00S,1,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton L.B.FOUL (P1.T2),Foul,Loose Ball,0,0
+68,68,PT03M14.00S,1,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,Missed,1,,,0,v,MISS Boozer Layup,Missed Shot,Layup Shot,0,0
+69,68,PT03M14.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman BLOCK (2 BLK),,,0,0
+70,69,PT03M13.00S,1,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+71,70,PT03M12.00S,1,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,Made,1,13,11,24,v,Boozer Layup (5 PTS),Made Shot,Layup Shot,0,0
+72,71,PT02M49.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,-231,3,0,Made,1,16,11,27,h,Mobley 3PT Jump Shot (3 PTS) (B. Davis 1 AST),Made Shot,Jump Shot,0,0
+73,72,PT02M36.00S,1,1610612762,UTA,2430,Boozer,C. Boozer,-62,172,18,Missed,1,,,0,v,MISS Boozer 18' Jump Shot,Missed Shot,Jump Shot,0,0
+74,73,PT02M34.00S,1,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+75,74,PT02M21.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,244,0,24,Missed,1,,,0,h,MISS Mobley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+76,75,PT02M20.00S,1,1610612762,UTA,200758,Brewer,R. Brewer,0,0,0,,0,,,0,v,Brewer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+77,76,PT02M15.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,Made,1,16,13,29,v,Millsap Dunk (2 PTS) (Price 2 AST),Made Shot,Dunk Shot,0,0
+78,77,PT02M15.00S,1,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby S.FOUL (P1.T3),Foul,Shooting,0,0
+79,78,PT02M15.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+80,80,PT02M15.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,16,14,30,v,Millsap Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+81,82,PT02M01.00S,1,1610612746,LAC,948,Camby,M. Camby,0,0,0,Made,1,18,14,32,h,Camby Layup (2 PTS) (B. Davis 2 AST),Made Shot,Layup Shot,0,0
+82,83,PT01M44.00S,1,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,Missed,1,,,0,v,MISS Kirilenko Layup,Missed Shot,Layup Shot,0,0
+83,83,PT01M44.00S,1,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby BLOCK (1 BLK),,,0,0
+84,84,PT01M43.00S,1,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+85,85,PT01M28.00S,1,1610612746,LAC,201154,Thornton,A. Thornton,51,86,10,Missed,1,,,0,h,MISS Thornton 10' Jump Shot,Missed Shot,Jump Shot,0,0
+86,86,PT01M27.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+87,87,PT01M22.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,Mobley Bad Pass Turnover (P3.T4),Turnover,Bad Pass,0,0
+88,87,PT01M22.00S,1,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko STEAL (1 STL),,,0,0
+89,88,PT01M18.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,Missed,1,,,0,v,MISS Millsap Layup,Missed Shot,Layup Shot,0,0
+90,89,PT01M17.00S,1,1610612762,UTA,200758,Brewer,R. Brewer,0,0,0,,0,,,0,v,Brewer REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+91,90,PT01M03.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,Mobley P.FOUL (P1.T4),Foul,Personal,0,0
+92,91,PT01M03.00S,1,1610612762,UTA,101179,Price,R. Price,0,0,0,,0,,,0,v,SUB: Knight FOR Price,Substitution,,0,0
+93,92,PT00M55.90S,1,1610612762,UTA,1905,Kirilenko,A. Kirilenko,-67,108,13,Missed,1,,,0,v,MISS Kirilenko 13' Jump Shot,Missed Shot,Jump Shot,0,0
+94,93,PT00M54.70S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+95,94,PT00M45.90S,1,1610612746,LAC,1884,Davis,B. Davis,95,225,24,Missed,1,,,0,h,MISS B. Davis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+96,95,PT00M43.90S,1,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+97,96,PT00M38.20S,1,1610612762,UTA,1510,Knight,B. Knight,-103,167,20,Made,1,18,16,34,v,Knight 20' Jump Shot (2 PTS) (Kirilenko 1 AST),Made Shot,Jump Shot,0,0
+98,97,PT00M30.70S,1,1610612762,UTA,1510,Knight,B. Knight,0,0,0,,0,,,0,v,Knight P.FOUL (P1.T4),Foul,Personal,0,0
+99,98,PT00M21.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,20,16,36,h,Kaman Layup (6 PTS) (B. Davis 3 AST),Made Shot,Layup Shot,0,0
+100,99,PT00M02.40S,1,1610612762,UTA,200758,Brewer,R. Brewer,184,186,26,Missed,1,,,0,v,MISS Brewer 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+101,100,PT00M00.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0
+102,101,PT00M00.00S,1,0,,0,,,0,0,0,,0,20,16,36,,End of 1st Period (11:02 PM EST),period,end,0,0
+103,103,PT12M00.00S,2,0,,0,,,0,0,0,,0,20,16,36,,Start of 2nd Period (11:05 PM EST),period,start,0,0
+104,104,PT11M46.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+105,104,PT11M46.00S,2,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis STEAL (1 STL),,,0,0
+106,105,PT11M45.00S,2,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton Traveling Turnover (P1.T5),Turnover,Traveling,0,0
+107,106,PT11M32.00S,2,1610612762,UTA,2594,Korver,K. Korver,-122,112,17,Made,1,20,18,38,v,Korver 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+108,107,PT11M17.00S,2,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+109,107,PT11M17.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver STEAL (1 STL),,,0,0
+110,108,PT11M09.00S,2,1610612762,UTA,1510,Knight,B. Knight,9,48,5,Missed,1,,,0,v,MISS Knight 5' Jump Shot,Missed Shot,Jump Shot,0,0
+111,109,PT11M07.00S,2,1610612746,LAC,1729,Davis,R. Davis,0,0,0,,0,,,0,h,R. Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+112,110,PT10M57.00S,2,1610612746,LAC,1729,Davis,R. Davis,-169,219,28,Missed,1,,,0,h,MISS R. Davis 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+113,111,PT10M56.00S,2,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+114,112,PT10M42.00S,2,1610612746,LAC,1884,Davis,B. Davis,-171,102,20,Missed,1,,,0,h,MISS B. Davis 20' Jump Shot,Missed Shot,Jump Shot,0,0
+115,113,PT10M41.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+116,114,PT10M34.00S,2,1610612746,LAC,1729,Davis,R. Davis,0,0,0,,0,,,0,h,R. Davis S.FOUL (P1.T1),Foul,Shooting,0,0
+117,115,PT10M34.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,20,19,39,v,Korver Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0
+118,117,PT10M34.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,20,20,40,v,Korver Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0
+119,119,PT10M34.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,20,21,41,v,Korver Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0
+120,121,PT10M13.00S,2,1610612746,LAC,948,Camby,M. Camby,62,187,20,Made,1,22,21,43,h,Camby 20' Jump Shot (4 PTS) (B. Davis 4 AST),Made Shot,Jump Shot,0,0
+121,122,PT09M56.00S,2,1610612762,UTA,2594,Korver,K. Korver,-114,134,18,Missed,1,,,0,v,MISS Korver 18' Jump Shot,Missed Shot,Jump Shot,0,0
+122,123,PT09M55.00S,2,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+123,124,PT09M47.00S,2,1610612746,LAC,948,Camby,M. Camby,0,0,0,Missed,1,,,0,h,MISS Camby Running Layup,Missed Shot,Running Layup Shot,0,0
+124,125,PT09M47.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+125,126,PT09M47.00S,2,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,SUB: Taylor FOR B. Davis,Substitution,,0,0
+126,127,PT09M43.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,-191,45,20,Missed,1,,,0,h,MISS Thomas 20' Jump Shot,Missed Shot,Jump Shot,0,0
+127,128,PT09M42.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+128,129,PT09M25.00S,2,1610612762,UTA,2246,Okur,M. Okur,-138,41,14,Missed,1,,,0,v,MISS Okur 14' Jump Shot,Missed Shot,Jump Shot,0,0
+129,130,PT09M24.00S,2,1610612762,UTA,1510,Knight,B. Knight,0,0,0,,0,,,0,v,Knight REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+130,131,PT09M22.00S,2,1610612762,UTA,1510,Knight,B. Knight,0,0,0,Missed,1,,,0,v,MISS Knight Layup,Missed Shot,Layup Shot,0,0
+131,132,PT09M20.00S,2,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+132,133,PT09M10.00S,2,1610612746,LAC,1729,Davis,R. Davis,95,167,19,Made,1,24,21,45,h,R. Davis 19' Jump Shot (2 PTS) (Taylor 1 AST),Made Shot,Jump Shot,0,0
+133,134,PT08M53.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,174,26,18,Missed,1,,,0,v,MISS Millsap 18' Jump Shot,Missed Shot,Jump Shot,0,0
+134,135,PT08M52.00S,2,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+135,136,PT08M43.00S,2,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,Taylor Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+136,136,PT08M43.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap STEAL (1 STL),,,0,0
+137,137,PT08M42.00S,2,1610612762,UTA,1510,Knight,B. Knight,0,0,0,,0,,,0,v,Knight Traveling Turnover (P1.T4),Turnover,Traveling,0,0
+138,138,PT08M42.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+139,140,PT08M42.00S,2,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,SUB: Skinner FOR Thornton,Substitution,,0,0
+140,141,PT08M30.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,-101,86,13,Missed,1,,,0,h,MISS Thomas 13' Jump Shot,Missed Shot,Jump Shot,0,0
+141,142,PT08M29.00S,2,1610612762,UTA,1510,Knight,B. Knight,0,0,0,,0,,,0,v,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+142,143,PT08M29.00S,2,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,Taylor P.FOUL (P2.T2),Foul,Personal,0,0
+143,144,PT08M12.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,157,145,21,Missed,1,,,0,v,MISS Kirilenko 21' Jump Shot,Missed Shot,Jump Shot,0,0
+144,145,PT08M11.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+145,146,PT08M01.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,Made,1,24,23,47,v,Kirilenko Layup (2 PTS) (Millsap 1 AST),Made Shot,Layup Shot,0,0
+146,147,PT08M01.00S,2,1610612746,LAC,1729,Davis,R. Davis,0,0,0,,0,,,0,h,R. Davis S.FOUL (P2.T3),Foul,Shooting,0,0
+147,148,PT08M01.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,24,24,48,v,Kirilenko Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+148,150,PT07M43.00S,2,1610612746,LAC,1729,Davis,R. Davis,-139,172,22,Missed,1,,,0,h,MISS R. Davis 22' Jump Shot,Missed Shot,Jump Shot,0,0
+149,151,PT07M42.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+150,152,PT07M31.00S,2,1610612746,LAC,1730,Skinner,B. Skinner,0,0,0,,0,,,0,h,Skinner S.FOUL (P1.T4),Foul,Shooting,0,0
+151,153,PT07M31.00S,2,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,SUB: Kaman FOR Camby,Substitution,,0,0
+152,154,PT07M31.00S,2,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,24,25,49,v,Okur Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+153,156,PT07M31.00S,2,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,24,26,50,v,Okur Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+154,158,PT07M08.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Thomas OFF.Foul (P1),Foul,Offensive,0,0
+155,159,PT07M08.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Thomas Foul Turnover (P1.T8),Turnover,Foul,0,0
+156,161,PT06M58.00S,2,1610612746,LAC,1729,Davis,R. Davis,0,0,0,,0,,,0,h,R. Davis S.FOUL (P3.PN),Foul,Shooting,0,0
+157,162,PT06M58.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,MISS Korver Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+158,163,PT06M58.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0
+159,164,PT06M58.00S,2,1610612746,LAC,1729,Davis,R. Davis,0,0,0,,0,,,0,h,SUB: Mobley FOR R. Davis,Substitution,,0,0
+160,165,PT06M58.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,MISS Korver Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+161,167,PT06M57.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+162,168,PT06M39.00S,2,1610612762,UTA,1510,Knight,B. Knight,0,0,0,,0,,,0,v,Knight P.FOUL (P2.T1),Foul,Personal,0,0
+163,169,PT06M39.00S,2,1610612746,LAC,1730,Skinner,B. Skinner,0,0,0,,0,,,0,h,SUB: B. Davis FOR Skinner,Substitution,,0,0
+164,170,PT06M25.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,75,271,28,Missed,1,,,0,h,MISS Thomas 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+165,170,PT06M25.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap BLOCK (1 BLK),,,0,0
+166,171,PT06M23.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+167,172,PT06M19.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap Traveling Turnover (P2.T5),Turnover,Traveling,0,0
+168,173,PT06M19.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+169,175,PT06M19.00S,2,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,SUB: Thornton FOR Taylor,Substitution,,0,0
+170,176,PT06M08.00S,2,1610612746,LAC,1884,Davis,B. Davis,-155,137,21,Missed,1,,,0,h,MISS B. Davis 21' Jump Shot,Missed Shot,Jump Shot,0,0
+171,177,PT06M08.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0
+172,178,PT05M53.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,4,74,7,Made,1,24,28,52,v,Kirilenko 7' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,0,0
+173,179,PT05M30.00S,2,1610612746,LAC,1884,Davis,B. Davis,0,0,0,Missed,1,,,0,h,MISS B. Davis Driving Layup,Missed Shot,Driving Layup Shot,0,0
+174,180,PT05M28.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+175,181,PT05M24.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,Made,1,24,30,54,v,Millsap Driving Layup (5 PTS) (Knight 1 AST),Made Shot,Driving Layup Shot,0,0
+176,182,PT05M04.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,2,184,18,Missed,1,,,0,h,MISS Mobley 18' Jump Shot,Missed Shot,Jump Shot,0,0
+177,183,PT05M03.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+178,184,PT04M52.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Thomas S.FOUL (P2.PN),Foul,Shooting,0,0
+179,185,PT04M52.00S,2,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,MISS Okur Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+180,186,PT04M52.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0
+181,187,PT04M52.00S,2,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,MISS Okur Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+182,189,PT04M51.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+183,190,PT04M40.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,26,30,56,h,Kaman Layup (8 PTS) (Thomas 3 AST),Made Shot,Layup Shot,0,0
+184,191,PT04M40.00S,2,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,Okur S.FOUL (P2.T2),Foul,Shooting,0,0
+185,192,PT04M40.00S,2,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,SUB: Boozer FOR Okur,Substitution,,0,0
+186,193,PT04M40.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,MISS Kaman Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+187,195,PT04M38.00S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+188,196,PT04M24.00S,2,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+189,196,PT04M24.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Thomas STEAL (1 STL),,,0,0
+190,197,PT04M11.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,0,61,6,Made,1,28,30,58,h,Thomas 6' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,0
+191,198,PT03M54.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,-120,228,26,Missed,1,,,0,v,MISS Kirilenko 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+192,199,PT03M53.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+193,200,PT03M44.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,61,265,27,Missed,1,,,0,h,MISS Thomas 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+194,201,PT03M43.00S,2,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+195,202,PT03M36.00S,2,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,Made,1,28,32,60,v,Boozer Layup (7 PTS) (Millsap 2 AST),Made Shot,Layup Shot,0,0
+196,203,PT03M14.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0
+197,203,PT03M14.00S,2,1610612762,UTA,1510,Knight,B. Knight,0,0,0,,0,,,0,v,Knight STEAL (1 STL),,,0,0
+198,204,PT03M07.00S,2,1610612762,UTA,2594,Korver,K. Korver,-224,19,0,Missed,1,,,0,v,MISS Korver 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+199,205,PT03M06.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+200,206,PT02M52.00S,2,1610612746,LAC,1884,Davis,B. Davis,67,107,13,Missed,1,,,0,h,MISS B. Davis 13' Jump Shot,Missed Shot,Jump Shot,0,0
+201,207,PT02M51.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+202,208,PT02M36.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,Mobley P.FOUL (P2.PN),Foul,Personal,0,0
+203,209,PT02M36.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+204,211,PT02M36.00S,2,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,SUB: Camby FOR Thomas,Substitution,,0,0
+205,212,PT02M36.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,28,33,61,v,Kirilenko Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+206,214,PT02M36.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,28,34,62,v,Kirilenko Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+207,216,PT02M22.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,54,33,6,Missed,1,,,0,h,MISS Kaman 6' Hook Shot,Missed Shot,Hook Shot,0,0
+208,218,PT02M19.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+209,217,PT02M19.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Made,1,30,34,64,h,Mobley Tip Shot (5 PTS),Made Shot,Tip Shot,0,0
+210,225,PT01M59.00S,2,1610612762,UTA,1905,Kirilenko,A. Kirilenko,-152,145,21,Missed,1,,,0,v,MISS Kirilenko 21' Jump Shot,Missed Shot,Jump Shot,0,0
+211,230,PT01M59.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+212,238,PT01M59.00S,2,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer L.B.FOUL (P1.T3),Foul,Loose Ball,0,0
+213,242,PT01M59.00S,2,1610612762,UTA,1510,Knight,B. Knight,0,0,0,,0,,,0,v,SUB: Price FOR Knight,Substitution,,0,0
+214,222,PT01M42.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,-86,140,16,Made,1,32,34,66,h,Mobley 16' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,0,0
+215,223,PT01M23.00S,2,1610612762,UTA,2594,Korver,K. Korver,171,187,25,Missed,1,,,0,v,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+216,224,PT01M22.00S,2,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+217,226,PT01M07.00S,2,1610612746,LAC,201154,Thornton,A. Thornton,248,33,25,Made,1,35,34,69,h,Thornton 25' 3PT Jump Shot (9 PTS) (B. Davis 5 AST),Made Shot,Jump Shot,0,0
+218,228,PT00M48.90S,2,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,Made,1,35,36,71,v,Boozer Alley Oop Layup (9 PTS) (Kirilenko 2 AST),Made Shot,Alley Oop Layup shot,0,0
+219,231,PT00M31.80S,2,1610612746,LAC,1749,Mobley,C. Mobley,31,184,19,Missed,1,,,0,h,MISS Mobley 19' Jump Shot,Missed Shot,Jump Shot,0,0
+220,232,PT00M30.90S,2,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+221,234,PT00M08.90S,2,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0
+222,234,PT00M08.90S,2,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis STEAL (2 STL),,,0,0
+223,235,PT00M01.90S,2,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0
+224,235,PT00M01.90S,2,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver STEAL (2 STL),,,0,0
+225,236,PT00M01.00S,2,1610612762,UTA,101179,Price,R. Price,133,260,29,Missed,1,,,0,v,MISS Price 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+226,237,PT00M00.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0
+227,240,PT00M00.00S,2,0,,0,,,0,0,0,,0,35,36,71,,End of 2nd Period (11:33 PM EST),period,end,0,0
+228,243,PT12M00.00S,3,0,,0,,,0,0,0,,0,35,36,71,,Start of 3rd Period (11:48 PM EST),period,start,0,0
+229,244,PT11M43.00S,3,1610612762,UTA,2246,Okur,M. Okur,-45,165,17,Made,1,35,38,73,v,Okur 17' Jump Shot (6 PTS) (Brewer 2 AST),Made Shot,Jump Shot,0,0
+230,245,PT11M22.00S,3,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0
+231,245,PT11M22.00S,3,1610612762,UTA,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles STEAL (1 STL),,,0,0
+232,246,PT11M16.00S,3,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,Made,1,35,40,75,v,Boozer Reverse Layup (11 PTS) (Price 3 AST),Made Shot,Reverse Layup Shot,0,0
+233,247,PT10M52.00S,3,1610612746,LAC,1501,Thomas,T. Thomas,-120,47,13,Made,1,37,40,77,h,Thomas 13' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+234,248,PT10M37.00S,3,1610612762,UTA,200758,Brewer,R. Brewer,65,198,21,Missed,1,,,0,v,MISS Brewer 21' Jump Shot,Missed Shot,Jump Shot,0,0
+235,249,PT10M36.00S,3,1610612762,UTA,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+236,250,PT10M34.00S,3,1610612762,UTA,101139,Miles,C. Miles,0,0,0,Made,1,37,42,79,v,Miles Layup (2 PTS),Made Shot,Layup Shot,0,0
+237,251,PT10M20.00S,3,1610612746,LAC,1884,Davis,B. Davis,65,241,25,Made,1,40,42,82,h,B. Davis 25' 3PT Jump Shot (6 PTS) (Kaman 1 AST),Made Shot,Jump Shot,0,0
+238,252,PT09M59.00S,3,1610612762,UTA,2246,Okur,M. Okur,0,61,6,Made,1,40,44,84,v,Okur 6' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+239,253,PT09M40.00S,3,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,Made,1,42,44,86,h,Thornton Layup (11 PTS) (B. Davis 6 AST),Made Shot,Layup Shot,0,0
+240,254,PT09M24.00S,3,1610612762,UTA,101179,Price,R. Price,-67,236,25,Missed,1,,,0,v,MISS Price 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+241,255,PT09M23.00S,3,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+242,256,PT09M14.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,44,44,88,h,Kaman Slam Dunk (10 PTS) (B. Davis 7 AST),Made Shot,Slam Dunk Shot,0,0
+243,257,PT08M53.00S,3,1610612762,UTA,101139,Miles,C. Miles,-70,179,19,Missed,1,,,0,v,MISS Miles 19' Jump Shot,Missed Shot,Jump Shot,0,0
+244,258,PT08M51.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+245,259,PT08M41.00S,3,1610612746,LAC,1501,Thomas,T. Thomas,-82,236,25,Missed,1,,,0,h,MISS Thomas 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+246,260,PT08M40.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+247,261,PT08M23.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,-57,129,14,Missed,1,,,0,h,MISS Mobley 14' Jump Shot,Missed Shot,Jump Shot,0,0
+248,262,PT08M22.00S,3,1610612762,UTA,101179,Price,R. Price,0,0,0,,0,,,0,v,Price REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+249,263,PT08M07.00S,3,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Thomas S.FOUL (P3.T1),Foul,Shooting,0,0
+250,264,PT08M07.00S,3,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,44,45,89,v,Okur Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+251,266,PT08M07.00S,3,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,44,46,90,v,Okur Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+252,268,PT08M01.00S,3,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,Okur P.FOUL (P3.T1),Foul,Personal,0,0
+253,270,PT07M52.00S,3,1610612746,LAC,201154,Thornton,A. Thornton,91,7,9,Missed,1,,,0,h,MISS Thornton 9' Jump Shot,Missed Shot,Jump Shot,0,0
+254,271,PT07M51.00S,3,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+255,272,PT07M34.00S,3,1610612762,UTA,101179,Price,R. Price,168,192,26,Missed,1,,,0,v,MISS Price 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+256,273,PT07M33.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+257,274,PT07M18.00S,3,1610612762,UTA,101139,Miles,C. Miles,0,0,0,,0,,,0,v,Miles P.FOUL (P2.T2),Foul,Personal,0,0
+258,275,PT07M07.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,-201,192,28,Missed,1,,,0,h,MISS Mobley 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+259,276,PT07M06.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+260,277,PT07M04.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,46,46,92,h,Kaman Layup (12 PTS),Made Shot,Layup Shot,0,0
+261,278,PT06M47.00S,3,1610612762,UTA,2430,Boozer,C. Boozer,89,153,18,Made,1,46,48,94,v,Boozer 18' Jump Shot (13 PTS) (Price 4 AST),Made Shot,Jump Shot,0,0
+262,279,PT06M35.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,48,48,96,h,Kaman Dunk (14 PTS) (B. Davis 8 AST),Made Shot,Dunk Shot,0,0
+263,280,PT06M13.00S,3,1610612762,UTA,2246,Okur,M. Okur,-116,22,12,Missed,1,,,0,v,MISS Okur 12' Jump Shot,Missed Shot,Jump Shot,0,0
+264,281,PT06M12.00S,3,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+265,282,PT06M08.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,,,0,h,MISS Mobley Layup,Missed Shot,Layup Shot,0,0
+266,283,PT06M06.00S,3,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+267,284,PT06M03.00S,3,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,Made,1,50,48,98,h,Thomas Tip Shot (6 PTS),Made Shot,Tip Shot,0,0
+268,285,PT05M51.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman P.FOUL (P1.T2),Foul,Personal,0,0
+269,286,PT05M51.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+270,288,PT05M51.00S,3,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,SUB: Camby FOR Thomas,Substitution,,0,0
+271,289,PT05M42.00S,3,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis P.FOUL (P1.T3),Foul,Personal,0,0
+272,290,PT05M33.00S,3,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,CLIPPERS T.Foul (Def. 3 Sec B. Davis ),Foul,Defense 3 Second,0,0
+273,291,PT05M33.00S,3,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,50,49,99,v,Okur Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,0,0
+274,294,PT05M25.00S,3,1610612762,UTA,200758,Brewer,R. Brewer,0,0,0,Missed,1,,,0,v,MISS Brewer Driving Layup,Missed Shot,Driving Layup Shot,0,0
+275,295,PT05M25.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0
+276,296,PT05M21.00S,3,1610612762,UTA,101179,Price,R. Price,0,0,0,Made,1,50,51,101,v,Price Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+277,297,PT05M04.00S,3,1610612746,LAC,1884,Davis,B. Davis,24,28,4,Made,1,52,51,103,h,B. Davis 4' Hook Shot (8 PTS),Made Shot,Hook Shot,0,0
+278,298,PT04M43.00S,3,1610612762,UTA,2246,Okur,M. Okur,91,101,14,Made,1,52,53,105,v,Okur 14' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,0,0
+279,299,PT04M28.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,138,33,14,Missed,1,,,0,h,MISS Mobley 14' Jump Shot,Missed Shot,Jump Shot,0,0
+280,300,PT04M26.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0
+281,301,PT04M26.00S,3,1610612762,UTA,101139,Miles,C. Miles,0,0,0,,0,,,0,v,SUB: Millsap FOR Miles,Substitution,,0,0
+282,302,PT04M26.00S,3,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,SUB: Kirilenko FOR Okur,Substitution,,0,0
+283,304,PT04M05.00S,3,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,Made,1,52,55,107,v,Kirilenko Layup (9 PTS) (Boozer 1 AST),Made Shot,Layup Shot,0,0
+284,305,PT03M49.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,2,64,6,Made,1,54,55,109,h,Kaman 6' Turnaround Jump Shot (16 PTS) (Mobley 1 AST),Made Shot,Turnaround Jump Shot,0,0
+285,306,PT03M49.00S,3,1610612762,UTA,101179,Price,R. Price,0,0,0,,0,,,0,v,Price S.FOUL (P2.T3),Foul,Shooting,0,0
+286,307,PT03M49.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,MISS Kaman Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+287,309,PT03M48.00S,3,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+288,310,PT03M32.00S,3,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko Traveling Turnover (P1.T8),Turnover,Traveling,0,0
+289,311,PT03M08.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0
+290,312,PT02M56.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,Mobley P.FOUL (P3.T4),Foul,Personal,0,0
+291,313,PT02M56.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+292,315,PT02M56.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,SUB: R. Davis FOR Mobley,Substitution,,0,0
+293,316,PT02M43.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,84,12,8,Missed,1,,,0,v,MISS Millsap 8' Jump Shot,Missed Shot,Jump Shot,0,0
+294,317,PT02M42.00S,3,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+295,318,PT02M36.00S,3,1610612762,UTA,200758,Brewer,R. Brewer,-4,96,10,Missed,1,,,0,v,MISS Brewer 10' Jump Shot,Missed Shot,Jump Shot,0,0
+296,319,PT02M34.00S,3,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+297,320,PT02M21.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman P.FOUL (P2.PN),Foul,Personal,0,0
+298,321,PT02M21.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,54,56,110,v,Millsap Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+299,323,PT02M21.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,54,57,111,v,Millsap Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+300,325,PT02M03.00S,3,1610612746,LAC,1884,Davis,B. Davis,92,244,26,Made,1,57,57,114,h,B. Davis 26' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+301,326,PT01M47.00S,3,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton P.FOUL (P2.PN),Foul,Personal,0,0
+302,327,PT01M47.00S,3,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,57,58,115,v,Kirilenko Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+303,329,PT01M47.00S,3,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,57,59,116,v,Kirilenko Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+304,331,PT01M39.00S,3,1610612746,LAC,201154,Thornton,A. Thornton,-97,146,18,Missed,1,,,0,h,MISS Thornton 18' Jump Shot,Missed Shot,Jump Shot,0,0
+305,332,PT01M38.00S,3,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+306,333,PT01M29.00S,3,1610612762,UTA,2430,Boozer,C. Boozer,0,0,0,Missed,1,,,0,v,MISS Boozer Layup,Missed Shot,Layup Shot,0,0
+307,335,PT01M28.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+308,334,PT01M28.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,Made,1,57,61,118,v,Millsap Tip Shot (9 PTS),Made Shot,Tip Shot,0,0
+309,336,PT01M09.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,-109,72,13,Made,1,59,61,120,h,Kaman 13' Jump Shot (18 PTS) (B. Davis 9 AST),Made Shot,Jump Shot,0,0
+310,337,PT00M56.90S,3,1610612762,UTA,200758,Brewer,R. Brewer,89,110,14,Missed,1,,,0,v,MISS Brewer 14' Jump Shot,Missed Shot,Jump Shot,0,0
+311,338,PT00M55.60S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+312,339,PT00M41.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0
+313,340,PT00M33.70S,3,1610612762,UTA,101179,Price,R. Price,103,142,18,Made,1,59,63,122,v,Price 18' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+314,341,PT00M13.50S,3,1610612762,UTA,200758,Brewer,R. Brewer,0,0,0,,0,,,0,v,Brewer S.FOUL (P1.T4),Foul,Shooting,0,0
+315,342,PT00M13.50S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,MISS Kaman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+316,343,PT00M13.50S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+317,344,PT00M13.50S,3,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,SUB: Taylor FOR B. Davis,Substitution,,0,0
+318,345,PT00M13.50S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,60,63,123,h,Kaman Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+319,347,PT00M02.10S,3,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,Made,1,60,65,125,v,Kirilenko Driving Dunk (13 PTS) (Price 5 AST),Made Shot,Driving Dunk Shot,0,0
+320,348,PT00M00.20S,3,1610612746,LAC,201446,Taylor,M. Taylor,-7,449,45,Missed,1,,,0,h,MISS Taylor 45' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+321,349,PT00M00.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+322,350,PT00M00.00S,3,0,,0,,,0,0,0,,0,60,65,125,,End of 3rd Period (12:14 AM EST),period,end,0,0
+323,352,PT12M00.00S,4,0,,0,,,0,0,0,,0,60,65,125,,Start of 4th Period (12:17 AM EST),period,start,0,0
+324,353,PT11M40.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko S.FOUL (P1.T1),Foul,Shooting,0,0
+325,354,PT11M40.00S,4,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,MISS Taylor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+326,355,PT11M40.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+327,356,PT11M40.00S,4,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,MISS Taylor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+328,358,PT11M38.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+329,359,PT11M21.00S,4,1610612762,UTA,1510,Knight,B. Knight,31,201,20,Made,1,60,67,127,v,Knight 20' Jump Shot (4 PTS) (Brewer 3 AST),Made Shot,Jump Shot,0,0
+330,360,PT11M06.00S,4,1610612746,LAC,1729,Davis,R. Davis,0,0,0,,0,,,0,h,R. Davis Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0
+331,360,PT11M06.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko STEAL (2 STL),,,0,0
+332,361,PT10M59.00S,4,1610612762,UTA,200758,Brewer,R. Brewer,0,0,0,Missed,1,,,0,v,MISS Brewer Layup,Missed Shot,Layup Shot,0,0
+333,361,PT10M59.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby BLOCK (2 BLK),,,0,0
+334,362,PT10M57.00S,4,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,Taylor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+335,363,PT10M56.00S,4,1610612762,UTA,1510,Knight,B. Knight,0,0,0,,0,,,0,v,Knight P.FOUL (P3.T2),Foul,Personal,0,0
+336,364,PT10M56.00S,4,1610612762,UTA,200758,Brewer,R. Brewer,0,0,0,,0,,,0,v,SUB: Korver FOR Brewer,Substitution,,0,0
+337,365,PT10M46.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,,,0,h,MISS Mobley Hook Shot,Missed Shot,Hook Shot,0,0
+338,366,PT10M43.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+339,367,PT10M28.00S,4,1610612762,UTA,1510,Knight,B. Knight,157,30,16,Missed,1,,,0,v,MISS Knight 16' Jump Shot,Missed Shot,Jump Shot,0,0
+340,368,PT10M27.00S,4,1610612746,LAC,1729,Davis,R. Davis,0,0,0,,0,,,0,h,R. Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+341,369,PT10M22.00S,4,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver S.FOUL (P1.T3),Foul,Shooting,0,0
+342,370,PT10M22.00S,4,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,61,67,128,h,Thomas Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+343,372,PT10M22.00S,4,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+344,374,PT10M20.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+345,375,PT10M07.00S,4,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,Okur Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0
+346,376,PT09M44.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,233,6,0,Made,1,64,67,131,h,Mobley 3PT Jump Shot (10 PTS) (R. Davis 1 AST),Made Shot,Jump Shot,0,0
+347,377,PT09M16.00S,4,1610612762,UTA,2246,Okur,M. Okur,-142,129,19,Made,1,64,69,133,v,Okur 19' Turnaround Jump Shot (15 PTS) (Knight 2 AST),Made Shot,Turnaround Jump Shot,0,0
+348,378,PT08M59.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,,,0,h,MISS Mobley Layup,Missed Shot,Layup Shot,0,0
+349,379,PT08M59.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+350,380,PT08M49.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,Missed,1,,,0,v,MISS Millsap Layup,Missed Shot,Layup Shot,0,0
+351,380,PT08M49.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby BLOCK (3 BLK),,,0,0
+352,381,PT08M47.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+353,383,PT08M47.00S,4,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Thomas S.FOUL (P4.T1),Foul,Shooting,0,0
+354,384,PT08M47.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+355,386,PT08M47.00S,4,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,,,0,h,SUB: B. Davis FOR Taylor,Substitution,,0,0
+356,387,PT08M47.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,64,70,134,v,Millsap Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+357,389,PT08M47.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,64,71,135,v,Millsap Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+358,391,PT08M34.00S,4,1610612746,LAC,1501,Thomas,T. Thomas,-34,88,9,Missed,1,,,0,h,MISS Thomas 9' Jump Shot,Missed Shot,Jump Shot,0,0
+359,392,PT08M33.00S,4,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,Okur REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+360,393,PT08M16.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,Made,1,64,73,137,v,Millsap Layup (13 PTS),Made Shot,Layup Shot,0,0
+361,394,PT07M59.00S,4,1610612746,LAC,1884,Davis,B. Davis,102,119,16,Made,1,66,73,139,h,B. Davis 16' Running Bank Shot (13 PTS),Made Shot,Running Bank shot,0,0
+362,395,PT07M46.00S,4,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis S.FOUL (P2.T2),Foul,Shooting,0,0
+363,396,PT07M46.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,66,74,140,v,Millsap Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+364,398,PT07M46.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,SUB: Kaman FOR Camby,Substitution,,0,0
+365,399,PT07M46.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,66,75,141,v,Millsap Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+366,401,PT07M34.00S,4,1610612746,LAC,1884,Davis,B. Davis,0,0,0,Missed,1,,,0,h,MISS B. Davis Layup,Missed Shot,Layup Shot,0,0
+367,403,PT07M33.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:4 Def:5),Rebound,Unknown,0,0
+368,402,PT07M33.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,,,0,h,MISS Kaman Tip Shot,Missed Shot,Tip Shot,0,0
+369,404,PT07M33.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+370,405,PT07M33.00S,4,1610612762,UTA,1510,Knight,B. Knight,0,0,0,,0,,,0,v,Knight L.B.FOUL (P4.T4),Foul,Loose Ball,0,0
+371,406,PT07M21.00S,4,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,Jump Ball Thomas vs. Millsap: Tip to Knight,Jump Ball,,0,0
+372,407,PT07M21.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0
+373,407,PT07M21.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap STEAL (2 STL),,,0,0
+374,408,PT07M12.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,Made,1,66,77,143,v,Millsap Layup (17 PTS) (Knight 3 AST),Made Shot,Layup Shot,0,0
+375,409,PT07M12.00S,4,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis S.FOUL (P3.T3),Foul,Shooting,0,0
+376,411,PT07M12.00S,4,1610612746,LAC,1729,Davis,R. Davis,0,0,0,,0,,,0,h,SUB: Thornton FOR R. Davis,Substitution,,0,0
+377,412,PT07M12.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,66,78,144,v,Millsap Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0
+378,414,PT06M56.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko P.FOUL (P2.PN),Foul,Personal,0,0
+379,415,PT06M56.00S,4,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,67,78,145,h,Thomas Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+380,417,PT06M56.00S,4,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+381,419,PT06M53.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+382,420,PT06M34.00S,4,1610612762,UTA,1510,Knight,B. Knight,187,15,19,Missed,1,,,0,v,MISS Knight 19' Jump Shot,Missed Shot,Jump Shot,0,0
+383,421,PT06M33.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+384,422,PT06M32.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,Made,1,67,80,147,v,Millsap Layup (20 PTS),Made Shot,Layup Shot,0,0
+385,423,PT06M17.00S,4,1610612746,LAC,1884,Davis,B. Davis,138,195,24,Missed,1,,,0,h,MISS B. Davis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+386,424,PT06M15.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+387,425,PT05M55.00S,4,1610612762,UTA,1510,Knight,B. Knight,88,164,19,Missed,1,,,0,v,MISS Knight 19' Jump Shot,Missed Shot,Jump Shot,0,0
+388,426,PT05M54.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+389,427,PT05M31.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,39,42,6,Made,1,67,82,149,v,Millsap 6' Turnaround Jump Shot (22 PTS),Made Shot,Turnaround Jump Shot,0,0
+390,428,PT05M24.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+391,430,PT05M24.00S,4,1610612746,LAC,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,SUB: Camby FOR Thomas,Substitution,,0,0
+392,431,PT05M10.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,0
+393,431,PT05M10.00S,4,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver STEAL (3 STL),,,0,0
+394,432,PT04M54.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0
+395,432,PT04M54.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman STEAL (1 STL),,,0,0
+396,433,PT04M51.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman Lost Ball Turnover (P5.T17),Turnover,Lost Ball,0,0
+397,433,PT04M51.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko STEAL (3 STL),,,0,0
+398,434,PT04M37.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,Made,1,67,84,151,v,Millsap Slam Dunk (24 PTS) (Korver 1 AST),Made Shot,Slam Dunk Shot,0,0
+399,435,PT04M13.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,176,31,18,Missed,1,,,0,h,MISS Mobley 18' Jump Shot,Missed Shot,Jump Shot,0,0
+400,436,PT04M11.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:1 Def:9),Rebound,Unknown,0,0
+401,437,PT03M51.00S,4,1610612762,UTA,1510,Knight,B. Knight,0,0,0,Missed,1,,,0,v,MISS Knight Driving Layup,Missed Shot,Driving Layup Shot,0,0
+402,438,PT03M48.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:4 Def:6),Rebound,Unknown,0,0
+403,439,PT03M41.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap S.FOUL (P1.PN),Foul,Shooting,0,0
+404,440,PT03M41.00S,4,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,68,84,152,h,B. Davis Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+405,442,PT03M41.00S,4,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,MISS B. Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+406,444,PT03M40.00S,4,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,Okur REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+407,445,PT03M22.00S,4,1610612762,UTA,2246,Okur,M. Okur,-120,61,13,Missed,1,,,0,v,MISS Okur 13' Jump Shot,Missed Shot,Jump Shot,0,0
+408,446,PT03M21.00S,4,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,B. Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+409,447,PT03M15.00S,4,1610612746,LAC,1884,Davis,B. Davis,157,214,27,Missed,1,,,0,h,MISS B. Davis 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+410,448,PT03M14.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:4 Def:5),Rebound,Unknown,0,0
+411,449,PT03M00.00S,4,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton S.FOUL (P3.T4),Foul,Shooting,0,0
+412,450,PT03M00.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,,,0,h,SUB: Gordon FOR Mobley,Substitution,,0,0
+413,452,PT03M00.00S,4,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,MISS Okur Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+414,453,PT03M00.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0
+415,454,PT03M00.00S,4,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,68,85,153,v,Okur Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+416,456,PT02M46.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,Missed,1,,,0,h,MISS Camby Layup,Missed Shot,Layup Shot,0,0
+417,457,PT02M46.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+418,458,PT02M46.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap S.FOUL (P2.PN),Foul,Shooting,0,0
+419,459,PT02M46.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+420,461,PT02M46.00S,4,1610612746,LAC,1884,Davis,B. Davis,0,0,0,,0,,,0,h,SUB: Taylor FOR B. Davis,Substitution,,0,0
+421,462,PT02M46.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,MISS Camby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+422,463,PT02M46.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+423,464,PT02M46.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,69,85,154,h,Camby Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+424,466,PT02M29.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,-54,83,10,Missed,1,,,0,v,MISS Kirilenko 10' Jump Shot,Missed Shot,Jump Shot,0,0
+425,467,PT02M26.00S,4,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+426,468,PT02M23.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby OFF.Foul (P2),Foul,Offensive,0,0
+427,469,PT02M23.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby Foul Turnover (P1.T18),Turnover,Foul,0,0
+428,470,PT02M06.00S,4,1610612762,UTA,1510,Knight,B. Knight,75,160,18,Missed,1,,,0,v,MISS Knight 18' Jump Shot,Missed Shot,Jump Shot,0,0
+429,471,PT02M05.00S,4,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+430,472,PT02M03.00S,4,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton Bad Pass Turnover (P3.T19),Turnover,Bad Pass,0,0
+431,472,PT02M03.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko STEAL (4 STL),,,0,0
+432,473,PT02M02.00S,4,1610612746,LAC,201154,Thornton,A. Thornton,0,0,0,,0,,,0,h,Thornton S.FOUL (P4.PN),Foul,Shooting,0,0
+433,474,PT02M02.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,69,86,155,v,Kirilenko Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+434,476,PT02M02.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,69,87,156,v,Kirilenko Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+435,478,PT01M45.00S,4,1610612746,LAC,201569,Gordon,E. Gordon,-100,244,26,Missed,1,,,0,h,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+436,479,PT01M44.00S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko REBOUND (Off:1 Def:10),Rebound,Unknown,0,0
+437,481,PT01M21.00S,4,1610612762,UTA,2594,Korver,K. Korver,-2,258,26,Missed,1,,,0,v,MISS Korver 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+438,482,PT01M19.00S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+439,483,PT01M09.00S,4,1610612746,LAC,201154,Thornton,A. Thornton,116,236,26,Missed,1,,,0,h,MISS Thornton 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+440,484,PT01M05.00S,4,1610612762,UTA,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+441,485,PT00M54.10S,4,1610612762,UTA,2594,Korver,K. Korver,77,156,17,Made,1,69,89,158,v,Korver 17' Jump Shot (7 PTS) (Knight 4 AST),Made Shot,Jump Shot,0,0
+442,486,PT00M53.30S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,Kirilenko P.FOUL (P3.PN),Foul,Personal,0,0
+443,487,PT00M53.30S,4,1610612762,UTA,2246,Okur,M. Okur,0,0,0,,0,,,0,v,SUB: Fesenko FOR Okur,Substitution,,0,0
+444,488,PT00M53.30S,4,1610612762,UTA,1905,Kirilenko,A. Kirilenko,0,0,0,,0,,,0,v,SUB: Koufos FOR Kirilenko,Substitution,,0,0
+445,489,PT00M53.30S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,SUB: Almond FOR Millsap,Substitution,,0,0
+446,490,PT00M53.30S,4,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,70,89,159,h,Taylor Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+447,492,PT00M53.30S,4,1610612746,LAC,201446,Taylor,M. Taylor,0,0,0,,0,71,89,160,h,Taylor Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+448,494,PT00M29.90S,4,1610612762,UTA,201585,Koufos,K. Koufos,0,0,0,Missed,1,,,0,v,MISS Koufos Layup,Missed Shot,Layup Shot,0,0
+449,494,PT00M29.90S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman BLOCK (3 BLK),,,0,0
+450,495,PT00M27.60S,4,1610612746,LAC,948,Camby,M. Camby,0,0,0,,0,,,0,h,Camby REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+451,496,PT00M20.40S,4,1610612762,UTA,201178,Fesenko,K. Fesenko,0,0,0,,0,,,0,v,Fesenko S.FOUL (P1.PN),Foul,Shooting,0,0
+452,497,PT00M20.40S,4,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,72,89,161,h,Gordon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+453,499,PT00M20.40S,4,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,73,89,162,h,Gordon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+454,501,PT00M00.00S,4,0,,0,,,0,0,0,,0,73,89,162,,End of 4th Period (12:48 AM EST),period,end,0,0

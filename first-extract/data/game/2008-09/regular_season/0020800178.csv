@@ -1,0 +1,501 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:41 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Jump Ball Bogut vs. Chandler: Tip to,Jump Ball,,0,0
+3,2,PT12M00.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson Violation:Jump Ball,Violation,Jump Ball,0,0
+4,3,PT11M38.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,75,11,8,Made,1,2,0,2,h,Bogut 8' Hook Shot (2 PTS) (Bell 1 AST),Made Shot,Hook Shot,0,0
+5,4,PT11M30.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,Missed,1,0,0,0,v,MISS Robinson  Layup,Missed Shot,Layup Shot,0,0
+6,5,PT11M29.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+7,6,PT11M21.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+8,6,PT11M21.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee STEAL (1 STL),,,0,0
+9,7,PT11M14.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,-158,118,20,Missed,1,0,0,0,v,MISS Richardson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+10,8,PT11M13.00S,1,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+11,9,PT10M49.00S,1,1610612752,NYK,101135,Lee,D. Lee,160,-2,16,Made,1,2,2,4,v,Lee 16' Jump Shot (2 PTS) (Chandler 1 AST),Made Shot,Jump Shot,0,0
+12,10,PT10M28.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,-48,45,7,Missed,1,0,0,0,h,MISS Bogut 7' Hook Shot,Missed Shot,Hook Shot,0,0
+13,11,PT10M27.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+14,12,PT10M26.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,Made,1,4,2,6,h,Mbah a Moute  Layup (2 PTS),Made Shot,Layup Shot,0,0
+15,13,PT10M21.00S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour S.FOUL (P1.T1),Foul,Shooting,0,0
+16,14,PT10M21.00S,1,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,4,3,7,v,Duhon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+17,16,PT10M21.00S,1,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,4,4,8,v,Duhon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+18,18,PT10M10.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,15,255,26,Missed,1,0,0,0,h,MISS Jefferson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+19,19,PT10M09.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+20,20,PT09M58.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,Missed,1,0,0,0,v,MISS Lee  Layup,Missed Shot,Layup Shot,0,0
+21,21,PT09M57.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+22,22,PT09M55.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,Made,1,4,6,10,v,Lee  Layup (4 PTS),Made Shot,Layup Shot,0,0
+23,23,PT09M44.00S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,-46,189,19,Made,1,6,6,12,h,Ridnour 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+24,24,PT09M36.00S,1,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+25,24,PT09M36.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute STEAL (1 STL),,,0,0
+26,25,PT09M32.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,Made,1,8,6,14,h,Mbah a Moute  Dunk (4 PTS),Made Shot,Dunk Shot,0,0
+27,26,PT09M13.00S,1,1610612752,NYK,201163,Chandler,W. Chandler,39,52,7,Missed,1,0,0,0,v,MISS Chandler 7' Jump Shot,Missed Shot,Jump Shot,0,0
+28,27,PT09M11.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+29,28,PT09M03.00S,1,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler S.FOUL (P1.T1),Foul,Shooting,0,0
+30,29,PT09M03.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,MISS Mbah a Moute Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+31,30,PT09M03.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0
+32,31,PT09M03.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,9,6,15,h,Mbah a Moute Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+33,33,PT08M47.00S,1,1610612752,NYK,2768,Duhon,C. Duhon,171,203,27,Made,1,9,9,18,v,Duhon 27' 3PT Jump Shot (5 PTS) (Chandler 2 AST),Made Shot,Jump Shot,0,0
+34,34,PT08M25.00S,1,1610612749,MIL,2294,Bell,C. Bell,160,-5,16,Missed,1,0,0,0,h,MISS Bell 16' Jump Shot,Missed Shot,Jump Shot,0,0
+35,35,PT08M24.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+36,36,PT08M16.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,-179,189,26,Missed,1,0,0,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+37,37,PT08M15.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+38,38,PT07M59.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,236,44,24,Missed,1,0,0,0,v,MISS Richardson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+39,39,PT07M58.00S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+40,40,PT07M53.00S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,78,157,18,Missed,1,0,0,0,h,MISS Ridnour 18' Jump Shot,Missed Shot,Jump Shot,0,0
+41,41,PT07M52.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+42,42,PT07M42.00S,1,1610612752,NYK,2768,Duhon,C. Duhon,-157,145,21,Made,1,9,11,20,v,Duhon 21' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+43,43,PT07M29.00S,1,1610612749,MIL,2294,Bell,C. Bell,81,143,16,Made,1,11,11,22,h,Bell 16' Jump Shot (2 PTS) (Ridnour 1 AST),Made Shot,Jump Shot,0,0
+44,44,PT07M14.00S,1,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,0
+45,44,PT07M14.00S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour STEAL (1 STL),,,0,0
+46,45,PT07M06.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,-182,14,18,Missed,1,0,0,0,h,MISS Jefferson 18' Jump Shot,Missed Shot,Jump Shot,0,0
+47,47,PT07M05.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+48,46,PT07M05.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,Made,1,13,11,24,h,Bogut  Tip Shot (4 PTS),Made Shot,Tip Shot,0,0
+49,48,PT06M55.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+50,49,PT06M38.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,77,7,8,Made,1,15,11,26,h,Bogut 8' Hook Shot (6 PTS),Made Shot,Hook Shot,0,0
+51,50,PT06M26.00S,1,1610612752,NYK,101135,Lee,D. Lee,-119,42,13,Missed,1,0,0,0,v,MISS Lee 13' Jump Shot,Missed Shot,Jump Shot,0,0
+52,51,PT06M25.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+53,52,PT06M15.00S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,Made,1,17,11,28,h,Ridnour  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+54,53,PT05M57.00S,1,1610612752,NYK,2768,Duhon,C. Duhon,141,195,24,Missed,1,0,0,0,v,MISS Duhon 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+55,54,PT05M56.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+56,55,PT05M49.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute 3 Second Violation Turnover (P1.T2),Turnover,3 Second Violation,0,0
+57,56,PT05M49.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+58,58,PT05M49.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Rose FOR Lee,Substitution,,0,0
+59,59,PT05M31.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,6,260,26,Missed,1,0,0,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+60,60,PT05M30.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+61,61,PT05M11.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,-187,30,19,Made,1,19,11,30,h,Jefferson 19' Jump Shot (2 PTS) (Bogut 1 AST),Made Shot,Jump Shot,0,0
+62,62,PT05M03.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,Missed,1,0,0,0,v,MISS Robinson  Layup,Missed Shot,Layup Shot,0,0
+63,63,PT05M03.00S,1,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Unknown,0,0
+64,64,PT05M00.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut S.FOUL (P1.T2),Foul,Shooting,0,0
+65,65,PT05M00.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,19,12,31,v,Richardson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+66,67,PT05M00.00S,1,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,SUB: Roberson FOR Duhon,Substitution,,0,0
+67,68,PT05M00.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,MISS Richardson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+68,70,PT04M58.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+69,72,PT04M40.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,-59,93,11,Missed,1,0,0,0,h,MISS Jefferson 11' Jump Shot,Missed Shot,Jump Shot,0,0
+70,73,PT04M39.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+71,74,PT04M31.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+72,75,PT04M20.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson S.FOUL (P1.T2),Foul,Shooting,0,0
+73,76,PT04M20.00S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,20,12,32,h,Ridnour Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+74,78,PT04M20.00S,1,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: Lee FOR Chandler,Substitution,,0,0
+75,79,PT04M20.00S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,21,12,33,h,Ridnour Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+76,81,PT03M59.00S,1,1610612752,NYK,990,Rose,M. Rose,-139,121,18,Missed,1,0,0,0,v,MISS Rose 18' Jump Shot,Missed Shot,Jump Shot,0,0
+77,82,PT03M58.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+78,83,PT03M52.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,152,55,16,Missed,1,0,0,0,h,MISS Jefferson 16' Jump Shot,Missed Shot,Jump Shot,0,0
+79,84,PT03M50.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+80,85,PT03M42.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0
+81,86,PT03M27.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,Made,1,21,14,35,v,Robinson  Layup (2 PTS) (Rose 1 AST),Made Shot,Layup Shot,0,0
+82,87,PT03M10.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,-141,242,28,Missed,1,0,0,0,h,MISS Jefferson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+83,88,PT03M09.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+84,89,PT03M02.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,-87,238,25,Missed,1,0,0,0,h,MISS Jefferson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+85,90,PT03M01.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:4 Def:5),Rebound,Unknown,0,0
+86,91,PT03M01.00S,1,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,Rose S.FOUL (P1.T3),Foul,Shooting,0,0
+87,92,PT03M01.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,SUB: Elson FOR Bogut,Substitution,,0,0
+88,93,PT03M01.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Richardson,Substitution,,0,0
+89,94,PT03M01.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,22,14,36,h,Mbah a Moute Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+90,96,PT03M01.00S,1,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,SUB: Sessions FOR Bell,Substitution,,0,0
+91,97,PT03M01.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,MISS Mbah a Moute Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+92,99,PT03M00.00S,1,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+93,100,PT02M55.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0
+94,100,PT02M55.00S,1,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions STEAL (1 STL),,,0,0
+95,101,PT02M49.00S,1,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,Made,1,24,14,38,h,Sessions  Layup (2 PTS) (Ridnour 2 AST),Made Shot,Layup Shot,0,0
+96,102,PT02M21.00S,1,1610612752,NYK,990,Rose,M. Rose,62,200,21,Missed,1,0,0,0,v,MISS Rose 21' Jump Shot,Missed Shot,Jump Shot,0,0
+97,103,PT02M19.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:4 Def:6),Rebound,Unknown,0,0
+98,104,PT02M15.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson P.FOUL (P2.T4),Foul,Personal,0,0
+99,105,PT02M15.00S,1,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+100,107,PT02M15.00S,1,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,SUB: Duhon FOR Robinson,Substitution,,0,0
+101,108,PT02M09.00S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,108,124,16,Missed,1,0,0,0,h,MISS Ridnour 16' Jump Shot,Missed Shot,Jump Shot,0,0
+102,109,PT02M08.00S,1,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+103,110,PT01M52.00S,1,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,Missed,1,0,0,0,v,MISS Chandler  Layup,Missed Shot,Layup Shot,0,0
+104,111,PT01M51.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+105,112,PT01M51.00S,1,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson S.FOUL (P1.T3),Foul,Shooting,0,0
+106,113,PT01M51.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,MISS Lee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+107,114,PT01M51.00S,1,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+108,115,PT01M51.00S,1,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,24,15,39,v,Lee Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+109,117,PT01M38.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+110,117,PT01M38.00S,1,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler STEAL (1 STL),,,0,0
+111,118,PT01M33.00S,1,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,Made,1,24,17,41,v,Chandler  Dunk (2 PTS),Made Shot,Dunk Shot,0,0
+112,119,PT01M18.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,-49,1,5,Made,1,26,17,43,h,Jefferson 5' Hook Shot (4 PTS) (Sessions 1 AST),Made Shot,Hook Shot,0,0
+113,120,PT00M56.90S,1,1610612752,NYK,990,Rose,M. Rose,0,0,0,Missed,1,0,0,0,v,MISS Rose  Layup,Missed Shot,Layup Shot,0,0
+114,122,PT00M55.90S,1,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,Rose REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+115,121,PT00M55.90S,1,1610612752,NYK,990,Rose,M. Rose,0,0,0,Missed,1,0,0,0,v,MISS Rose  Tip Shot,Missed Shot,Tip Shot,0,0
+116,123,PT00M55.10S,1,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+117,124,PT00M55.10S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Villanueva FOR Mbah a Moute,Substitution,,0,0
+118,125,PT00M46.90S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Missed,1,0,0,0,h,MISS Villanueva  Layup,Missed Shot,Layup Shot,0,0
+119,126,PT00M45.70S,1,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,Rose REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+120,127,PT00M35.80S,1,1610612752,NYK,990,Rose,M. Rose,80,255,27,Missed,1,0,0,0,v,MISS Rose 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+121,128,PT00M33.90S,1,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Unknown,0,0
+122,129,PT00M15.90S,1,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon Lost Ball Turnover (P3.T6),Turnover,Lost Ball,0,0
+123,129,PT00M15.90S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour STEAL (2 STL),,,0,0
+124,130,PT00M10.80S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,Missed,1,0,0,0,h,MISS Jefferson  Layup,Missed Shot,Layup Shot,0,0
+125,130,PT00M10.80S,1,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler BLOCK (1 BLK),,,0,0
+126,132,PT00M10.80S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+127,131,PT00M10.80S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Made,1,28,17,45,h,Villanueva  Dunk (2 PTS),Made Shot,Dunk Shot,0,0
+128,133,PT00M00.40S,1,1610612752,NYK,101194,Roberson,A. Roberson,174,-13,17,Made,1,28,19,47,v,Roberson 17' Jump Shot (2 PTS) (Chandler 3 AST),Made Shot,Jump Shot,0,0
+129,134,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,19,47,,End of 1st Period (9:06 PM EST),period,end,0,0
+130,136,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,19,47,,Start of 2nd Period (9:09 PM EST),period,start,0,0
+131,139,PT12M00.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell S.FOUL (P1.T1),Foul,Shooting,0,0
+132,140,PT12M00.00S,2,1610612752,NYK,101194,Roberson,A. Roberson,0,0,0,,0,28,20,48,v,Roberson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+133,142,PT12M00.00S,2,1610612752,NYK,101194,Roberson,A. Roberson,0,0,0,,0,28,21,49,v,Roberson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+134,144,PT11M32.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,-193,-3,19,Missed,1,0,0,0,h,MISS Sessions 19' Jump Shot,Missed Shot,Jump Shot,0,0
+135,145,PT11M31.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+136,146,PT11M21.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,-64,31,7,Missed,1,0,0,0,h,MISS Villanueva 7' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+137,147,PT11M19.00S,2,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+138,148,PT11M13.00S,2,1610612752,NYK,201163,Chandler,W. Chandler,99,96,14,Made,1,28,23,51,v,Chandler 14' Jump Shot (4 PTS) (Duhon 1 AST),Made Shot,Jump Shot,0,0
+139,149,PT10M59.00S,2,1610612749,MIL,1922,Elson,F. Elson,0,0,0,Made,1,30,23,53,h,Elson  Dunk (2 PTS) (Villanueva 1 AST),Made Shot,Dunk Shot,0,0
+140,150,PT10M42.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon Lost Ball Turnover (P4.T7),Turnover,Lost Ball,0,0
+141,150,PT10M42.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell STEAL (1 STL),,,0,0
+142,151,PT10M37.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+143,152,PT10M25.00S,2,1610612752,NYK,201163,Chandler,W. Chandler,203,162,26,Missed,1,0,0,0,v,MISS Chandler 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+144,153,PT10M24.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+145,154,PT10M07.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,-40,30,5,Made,1,32,23,55,h,Villanueva 5' Jump Shot (4 PTS) (Sessions 2 AST),Made Shot,Jump Shot,0,0
+146,155,PT09M55.00S,2,1610612752,NYK,201163,Chandler,W. Chandler,116,118,17,Missed,1,0,0,0,v,MISS Chandler 17' Jump Shot,Missed Shot,Jump Shot,0,0
+147,156,PT09M54.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+148,157,PT09M38.00S,2,1610612749,MIL,201570,Alexander,J. Alexander,114,231,26,Made,1,35,23,58,h,Alexander 26' 3PT Jump Shot (3 PTS) (Sessions 3 AST),Made Shot,Jump Shot,0,0
+149,158,PT09M25.00S,2,1610612752,NYK,101194,Roberson,A. Roberson,-235,45,24,Missed,1,0,0,0,v,MISS Roberson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+150,159,PT09M24.00S,2,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+151,160,PT09M17.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,6,220,22,Missed,1,0,0,0,h,MISS Villanueva 22' Jump Shot,Missed Shot,Jump Shot,0,0
+152,161,PT09M15.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+153,162,PT09M05.00S,2,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander S.FOUL (P1.T2),Foul,Shooting,0,0
+154,163,PT09M05.00S,2,1610612752,NYK,101194,Roberson,A. Roberson,0,0,0,,0,0,0,0,v,SUB: Robinson FOR Roberson,Substitution,,0,0
+155,164,PT09M05.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,MISS Duhon Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0
+156,165,PT09M05.00S,2,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+157,166,PT09M05.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,35,24,59,v,Duhon Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,0,0
+158,168,PT09M05.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,35,25,60,v,Duhon Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,0,0
+159,170,PT08M53.00S,2,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler P.FOUL (P2.T1),Foul,Personal,0,0
+160,171,PT08M53.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+161,173,PT08M45.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,65,11,7,Made,1,37,25,62,h,Villanueva 7' Hook Shot (6 PTS) (Sessions 4 AST),Made Shot,Hook Shot,0,0
+162,174,PT08M28.00S,2,1610612752,NYK,201163,Chandler,W. Chandler,-35,101,11,Missed,1,0,0,0,v,MISS Chandler 11' Jump Shot,Missed Shot,Jump Shot,0,0
+163,175,PT08M27.00S,2,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+164,176,PT08M23.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+165,176,PT08M23.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon STEAL (1 STL),,,0,0
+166,177,PT08M17.00S,2,1610612752,NYK,101126,Robinson,N. Robinson,15,260,26,Missed,1,0,0,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+167,178,PT08M15.00S,2,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+168,179,PT08M06.00S,2,1610612752,NYK,2047,Richardson,Q. Richardson,218,129,25,Missed,1,0,0,0,v,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+169,180,PT08M05.00S,2,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+170,181,PT07M53.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,9,192,19,Made,1,39,25,64,h,Villanueva 19' Jump Shot (8 PTS) (Sessions 5 AST),Made Shot,Jump Shot,0,0
+171,182,PT07M29.00S,2,1610612752,NYK,101135,Lee,D. Lee,-163,14,16,Made,1,39,27,66,v,Lee 16' Jump Shot (7 PTS) (Robinson 1 AST),Made Shot,Jump Shot,0,0
+172,183,PT07M11.00S,2,1610612749,MIL,1922,Elson,F. Elson,-27,34,4,Made,1,41,27,68,h,Elson 4' Running Hook Shot (4 PTS),Made Shot,Running Hook Shot,0,0
+173,184,PT07M05.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva P.FOUL (P1.T3),Foul,Personal,0,0
+174,185,PT07M05.00S,2,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: Rose FOR Chandler,Substitution,,0,0
+175,186,PT06M58.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,Made,1,41,29,70,v,Duhon  Layup (11 PTS) (Lee 1 AST),Made Shot,Layup Shot,0,0
+176,187,PT06M58.00S,2,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson S.FOUL (P2.T4),Foul,Shooting,0,0
+177,188,PT06M58.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,41,30,71,v,Duhon Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0
+178,190,PT06M43.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva OFF.Foul (P2),Foul,Offensive,0,0
+179,191,PT06M43.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva Foul Turnover (P1.T7),Turnover,Foul,0,0
+180,192,PT06M23.00S,2,1610612752,NYK,990,Rose,M. Rose,67,23,7,Made,1,41,32,73,v,Rose 7' Jump Hook Shot (2 PTS),Made Shot,Jump Hook Shot,0,0
+181,193,PT06M12.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,-163,205,26,Missed,1,0,0,0,h,MISS Villanueva 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+182,194,PT06M11.00S,2,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+183,195,PT06M04.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,-150,241,28,Missed,1,0,0,0,v,MISS Duhon 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+184,196,PT06M03.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+185,197,PT05M55.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,-27,45,5,Made,1,43,32,75,h,Sessions 5' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+186,198,PT05M49.00S,2,1610612752,NYK,101135,Lee,D. Lee,0,0,0,Made,1,43,34,77,v,Lee  Dunk (9 PTS) (Duhon 2 AST),Made Shot,Dunk Shot,0,0
+187,199,PT05M47.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+188,201,PT05M47.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,SUB: Ridnour FOR Bell,Substitution,,0,0
+189,202,PT05M47.00S,2,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,SUB: Jefferson FOR Elson,Substitution,,0,0
+190,203,PT05M47.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,SUB: Bogut FOR Villanueva,Substitution,,0,0
+191,204,PT05M47.00S,2,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Alexander,Substitution,,0,0
+192,205,PT05M35.00S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,-163,-13,16,Missed,1,0,0,0,h,MISS Mbah a Moute 16' Jump Shot,Missed Shot,Jump Shot,0,0
+193,206,PT05M34.00S,2,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+194,207,PT05M19.00S,2,1610612752,NYK,101135,Lee,D. Lee,-97,6,10,Made,1,43,36,79,v,Lee 10' Jump Hook Shot (11 PTS),Made Shot,Jump Hook Shot,0,0
+195,208,PT05M03.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,-4,88,9,Missed,1,0,0,0,h,MISS Sessions 9' Jump Shot,Missed Shot,Jump Shot,0,0
+196,210,PT05M01.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+197,209,PT05M01.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,Missed,1,0,0,0,h,MISS Bogut  Tip Shot,Missed Shot,Tip Shot,0,0
+198,211,PT05M00.00S,2,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+199,212,PT04M48.00S,2,1610612752,NYK,990,Rose,M. Rose,0,0,0,Made,1,43,38,81,v,Rose  Layup (4 PTS),Made Shot,Layup Shot,0,0
+200,213,PT04M48.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut S.FOUL (P2.PN),Foul,Shooting,0,0
+201,214,PT04M48.00S,2,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,43,39,82,v,Rose Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+202,216,PT04M32.00S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,110,105,15,Missed,1,0,0,0,h,MISS Ridnour 15' Jump Shot,Missed Shot,Jump Shot,0,0
+203,217,PT04M30.00S,2,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+204,218,PT04M21.00S,2,1610612752,NYK,990,Rose,M. Rose,0,0,0,Missed,1,0,0,0,v,MISS Rose  Layup,Missed Shot,Layup Shot,0,0
+205,219,PT04M19.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+206,220,PT04M12.00S,2,1610612749,MIL,2210,Jefferson,R. Jefferson,-187,-3,19,Missed,1,0,0,0,h,MISS Jefferson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+207,221,PT04M11.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+208,222,PT03M55.00S,2,1610612749,MIL,2210,Jefferson,R. Jefferson,-179,206,27,Missed,1,0,0,0,h,MISS Jefferson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+209,223,PT03M53.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+210,224,PT03M31.00S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,-78,41,9,Missed,1,0,0,0,h,MISS Ridnour 9' Jump Shot,Missed Shot,Jump Shot,0,0
+211,225,PT03M30.00S,2,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+212,226,PT03M26.00S,2,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,Made,1,43,41,84,v,Robinson  Layup (4 PTS) (Lee 2 AST),Made Shot,Layup Shot,0,0
+213,227,PT03M04.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,54,22,6,Made,1,45,41,86,h,Bogut 6' Hook Shot (8 PTS),Made Shot,Hook Shot,0,0
+214,228,PT02M53.00S,2,1610612752,NYK,101126,Robinson,N. Robinson,124,19,13,Missed,1,0,0,0,v,MISS Robinson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+215,228,PT02M53.00S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute BLOCK (1 BLK),,,0,0
+216,229,PT02M51.00S,2,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+217,230,PT02M49.00S,2,1610612752,NYK,990,Rose,M. Rose,0,0,0,Made,1,45,43,88,v,Rose  Layup (7 PTS) (Robinson 2 AST),Made Shot,Layup Shot,0,0
+218,231,PT02M31.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,Made,1,47,43,90,h,Bogut  Layup (10 PTS) (Sessions 6 AST),Made Shot,Layup Shot,0,0
+219,232,PT02M13.00S,2,1610612752,NYK,101135,Lee,D. Lee,-82,135,16,Missed,1,0,0,0,v,MISS Lee 16' Jump Shot,Missed Shot,Jump Shot,0,0
+220,233,PT02M11.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+221,234,PT02M06.00S,2,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson S.FOUL (P1.T2),Foul,Shooting,0,0
+222,235,PT02M06.00S,2,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+223,236,PT02M06.00S,2,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Lee,Substitution,,0,0
+224,237,PT02M06.00S,2,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,48,43,91,h,Jefferson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+225,239,PT02M06.00S,2,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,49,43,92,h,Jefferson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+226,241,PT01M46.00S,2,1610612752,NYK,101126,Robinson,N. Robinson,-174,1,17,Missed,1,0,0,0,v,MISS Robinson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+227,242,PT01M44.00S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+228,243,PT01M34.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,-153,113,19,Missed,1,0,0,0,h,MISS Sessions 19' Jump Shot,Missed Shot,Jump Shot,0,0
+229,244,PT01M33.00S,2,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+230,245,PT01M26.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,Made,1,49,45,94,v,Duhon  Layup (14 PTS),Made Shot,Layup Shot,0,0
+231,246,PT01M26.00S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute S.FOUL (P1.PN),Foul,Shooting,0,0
+232,247,PT01M26.00S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,MISS Duhon Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+233,249,PT01M25.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+234,250,PT01M14.00S,2,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson P.FOUL (P2.T3),Foul,Personal,0,0
+235,251,PT01M14.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,SUB: Croshere FOR Bogut,Substitution,,0,0
+236,252,PT01M05.00S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,-21,187,19,Missed,1,0,0,0,h,MISS Ridnour 19' Jump Shot,Missed Shot,Jump Shot,0,0
+237,253,PT01M04.00S,2,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,Rose REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+238,254,PT00M55.90S,2,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,Missed,1,0,0,0,v,MISS Duhon  Layup,Missed Shot,Layup Shot,0,0
+239,255,PT00M54.90S,2,1610612749,MIL,1506,Croshere,A. Croshere,0,0,0,,0,0,0,0,h,Croshere REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+240,256,PT00M41.90S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,-11,132,13,Missed,1,0,0,0,h,MISS Mbah a Moute 13' Jump Shot,Missed Shot,Jump Shot,0,0
+241,257,PT00M39.90S,2,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+242,258,PT00M31.80S,2,1610612752,NYK,101126,Robinson,N. Robinson,103,34,11,Missed,1,0,0,0,v,MISS Robinson 11' Jump Shot,Missed Shot,Jump Shot,0,0
+243,259,PT00M30.60S,2,1610612749,MIL,1506,Croshere,A. Croshere,0,0,0,,0,0,0,0,h,Croshere REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+244,260,PT00M07.30S,2,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,Rose S.FOUL (P2.PN),Foul,Shooting,0,0
+245,261,PT00M07.30S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,50,45,95,h,Ridnour Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+246,263,PT00M07.30S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,MISS Ridnour Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+247,265,PT00M06.90S,2,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,Rose REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+248,266,PT00M00.10S,2,1610612749,MIL,1506,Croshere,A. Croshere,0,0,0,,0,0,0,0,h,Croshere S.FOUL (P1.PN),Foul,Shooting,0,0
+249,270,PT00M00.10S,2,0,,0,,,0,0,0,,0,50,45,95,,Instant Replay2nd Period (9:34 PM EST),Instant Replay,Support Ruling,0,0
+250,267,PT00M00.10S,2,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,MISS Robinson Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0
+251,268,PT00M00.10S,2,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+252,269,PT00M00.10S,2,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,50,46,96,v,Robinson Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0
+253,272,PT00M00.10S,2,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,50,47,97,v,Robinson Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0
+254,274,PT00M00.00S,2,0,,0,,,0,0,0,,0,50,47,97,,End of 2nd Period (9:36 PM EST),period,end,0,0
+255,276,PT12M00.00S,3,0,,0,,,0,0,0,,0,50,47,97,,Start of 3rd Period (9:52 PM EST),period,start,0,0
+256,277,PT11M36.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,162,28,16,Missed,1,0,0,0,v,MISS Robinson 16' Jump Shot,Missed Shot,Jump Shot,0,0
+257,278,PT11M34.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+258,279,PT11M22.00S,3,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+259,279,PT11M22.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson STEAL (1 STL),,,0,0
+260,280,PT11M02.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,106,3,11,Missed,1,0,0,0,v,MISS Chandler 11' Jump Shot,Missed Shot,Jump Shot,0,0
+261,280,PT11M02.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute BLOCK (2 BLK),,,0,0
+262,281,PT11M00.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+263,282,PT10M55.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,-128,72,15,Missed,1,0,0,0,h,MISS Ridnour 15' Jump Shot,Missed Shot,Jump Shot,0,0
+264,283,PT10M54.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+265,284,PT10M46.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,-228,105,25,Missed,1,0,0,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+266,285,PT10M45.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+267,286,PT10M36.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,250,25,Made,1,53,47,100,h,Jefferson 25' 3PT Jump Shot (9 PTS) (Ridnour 3 AST),Made Shot,Jump Shot,0,0
+268,287,PT10M16.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,106,82,13,Missed,1,0,0,0,v,MISS Richardson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+269,288,PT10M15.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+270,289,PT10M09.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,13,184,18,Missed,1,0,0,0,h,MISS Ridnour 18' Jump Shot,Missed Shot,Jump Shot,0,0
+271,290,PT10M07.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:5 Def:6),Rebound,Unknown,0,0
+272,291,PT10M03.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,-232,-17,0,Missed,1,0,0,0,h,MISS Jefferson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+273,292,PT10M02.00S,3,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+274,293,PT09M49.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,-183,194,27,Missed,1,0,0,0,v,MISS Chandler 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+275,294,PT09M49.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+276,295,PT09M36.00S,3,1610612749,MIL,2294,Bell,C. Bell,-127,132,18,Made,1,55,47,102,h,Bell 18' Jump Shot (4 PTS) (Ridnour 4 AST),Made Shot,Jump Shot,0,0
+277,296,PT09M26.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,Missed,1,0,0,0,v,MISS Chandler  Layup,Missed Shot,Layup Shot,0,0
+278,297,PT09M25.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:5 Def:7),Rebound,Unknown,0,0
+279,298,PT09M14.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,Missed,1,0,0,0,h,MISS Ridnour  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+280,299,PT09M13.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:4 Def:7),Rebound,Unknown,0,0
+281,300,PT09M01.00S,3,1610612749,MIL,2294,Bell,C. Bell,1,261,26,Missed,1,0,0,0,h,MISS Bell 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+282,301,PT09M00.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:6 Def:7),Rebound,Unknown,0,0
+283,302,PT08M46.00S,3,1610612749,MIL,2294,Bell,C. Bell,0,0,0,Made,1,57,47,104,h,Bell  Layup (6 PTS) (Ridnour 5 AST),Made Shot,Layup Shot,0,0
+284,303,PT08M45.00S,3,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+285,305,PT08M24.00S,3,1610612752,NYK,2768,Duhon,C. Duhon,-32,260,26,Made,1,57,50,107,v,Duhon 26' 3PT Jump Shot (17 PTS) (Lee 3 AST),Made Shot,Jump Shot,0,0
+286,306,PT08M06.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0
+287,306,PT08M06.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson STEAL (2 STL),,,0,0
+288,307,PT08M02.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+289,307,PT08M02.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour STEAL (3 STL),,,0,0
+290,308,PT07M57.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,-172,-10,17,Made,1,59,50,109,h,Jefferson 17' Jump Shot (11 PTS) (Ridnour 6 AST),Made Shot,Jump Shot,0,0
+291,309,PT07M41.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,121,231,26,Missed,1,0,0,0,v,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+292,310,PT07M41.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+293,311,PT07M30.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,-105,149,18,Missed,1,0,0,0,h,MISS Jefferson 18' Jump Shot,Missed Shot,Jump Shot,0,0
+294,312,PT07M28.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+295,313,PT07M20.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,-109,113,16,Made,1,59,52,111,v,Robinson 16' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+296,314,PT06M58.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0
+297,314,PT06M58.00S,3,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee STEAL (2 STL),,,0,0
+298,315,PT06M52.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,-98,134,17,Missed,1,0,0,0,v,MISS Robinson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+299,315,PT06M52.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut BLOCK (1 BLK),,,0,0
+300,317,PT06M51.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:4 Def:8),Rebound,Unknown,0,0
+301,316,PT06M51.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson L.B.FOUL (P3.T1),Foul,Loose Ball,0,0
+302,319,PT06M51.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: Roberson FOR Chandler,Substitution,,0,0
+303,320,PT06M51.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut T.FOUL (P2.T0),Foul,Technical,0,0
+304,321,PT06M51.00S,3,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,59,53,112,v,Duhon Free Throw Technical (18 PTS),Free Throw,Free Throw Technical,0,0
+305,323,PT06M26.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,110,67,13,Missed,1,0,0,0,h,MISS Jefferson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+306,325,PT06M25.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:5 Def:8),Rebound,Unknown,0,0
+307,324,PT06M25.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,Missed,1,0,0,0,h,MISS Bogut  Tip Shot,Missed Shot,Tip Shot,0,0
+308,326,PT06M24.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+309,327,PT06M15.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0
+310,328,PT06M15.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson P.FOUL (P1.T1),Foul,Personal,0,0
+311,329,PT05M54.00S,3,1610612752,NYK,101194,Roberson,A. Roberson,-234,-6,0,Missed,1,0,0,0,v,MISS Roberson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+312,330,PT05M52.00S,3,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+313,331,PT05M40.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,-177,50,18,Made,1,61,53,114,h,Ridnour 18' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+314,332,PT05M33.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0
+315,333,PT05M33.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,SUB: Rose FOR Richardson,Substitution,,0,0
+316,334,PT05M33.00S,3,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Duhon,Substitution,,0,0
+317,335,PT05M25.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler P.FOUL (P3.T2),Foul,Personal,0,0
+318,336,PT05M16.00S,3,1610612749,MIL,2294,Bell,C. Bell,-237,34,24,Missed,1,0,0,0,h,MISS Bell 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+319,337,PT05M14.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+320,338,PT05M07.00S,3,1610612752,NYK,101194,Roberson,A. Roberson,0,0,0,,0,0,0,0,v,Roberson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0
+321,338,PT05M07.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour STEAL (4 STL),,,0,0
+322,339,PT04M58.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,-87,36,9,Missed,1,0,0,0,h,MISS Ridnour 9' Jump Shot,Missed Shot,Jump Shot,0,0
+323,341,PT04M56.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:6 Def:8),Rebound,Unknown,0,0
+324,340,PT04M56.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,Made,1,63,53,116,h,Bogut  Tip Shot (12 PTS),Made Shot,Tip Shot,0,0
+325,342,PT04M41.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,154,206,26,Missed,1,0,0,0,v,MISS Chandler 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+326,343,PT04M40.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+327,344,PT04M22.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson Lost Ball Turnover (P4.T12),Turnover,Lost Ball,0,0
+328,344,PT04M22.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler STEAL (2 STL),,,0,0
+329,345,PT04M21.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute S.FOUL (P2.T2),Foul,Shooting,0,0
+330,346,PT04M21.00S,3,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,SUB: Sessions FOR Bell,Substitution,,0,0
+331,347,PT04M21.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,63,54,117,v,Robinson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+332,349,PT04M21.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,SUB: Alexander FOR Jefferson,Substitution,,0,0
+333,350,PT04M21.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,63,55,118,v,Robinson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+334,352,PT04M09.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,-60,156,17,Made,1,65,55,120,h,Mbah a Moute 17' Jump Shot (8 PTS) (Ridnour 7 AST),Made Shot,Jump Shot,0,0
+335,353,PT03M56.00S,3,1610612752,NYK,990,Rose,M. Rose,0,0,0,Missed,1,0,0,0,v,MISS Rose  Layup,Missed Shot,Layup Shot,0,0
+336,353,PT03M56.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour BLOCK (1 BLK),,,0,0
+337,354,PT03M53.00S,3,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,Rose REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+338,355,PT03M51.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,-152,231,28,Missed,1,0,0,0,v,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+339,356,PT03M49.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:6 Def:9),Rebound,Unknown,0,0
+340,357,PT03M26.00S,3,1610612749,MIL,201570,Alexander,J. Alexander,-116,83,14,Missed,1,0,0,0,h,MISS Alexander 14' Jump Shot,Missed Shot,Jump Shot,0,0
+341,358,PT03M25.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+342,359,PT03M15.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,-10,94,9,Made,1,65,57,122,v,Chandler 9' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+343,360,PT03M15.00S,3,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander S.FOUL (P2.T3),Foul,Shooting,0,0
+344,361,PT03M15.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,SUB: Duhon FOR Robinson,Substitution,,0,0
+345,362,PT03M15.00S,3,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,65,58,123,v,Chandler Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+346,364,PT02M59.00S,3,1610612749,MIL,201196,Sessions,R. Sessions,-174,-3,17,Missed,1,0,0,0,h,MISS Sessions 17' Jump Shot,Missed Shot,Jump Shot,0,0
+347,365,PT02M55.00S,3,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+348,366,PT02M46.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,Made,1,67,58,125,h,Bogut  Layup (14 PTS) (Sessions 7 AST),Made Shot,Layup Shot,0,0
+349,367,PT02M31.00S,3,1610612752,NYK,101194,Roberson,A. Roberson,-199,165,26,Missed,1,0,0,0,v,MISS Roberson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+350,368,PT02M31.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+351,369,PT02M31.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+352,371,PT02M31.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,SUB: Lue FOR Ridnour,Substitution,,0,0
+353,372,PT02M31.00S,3,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Richardson FOR Lee,Substitution,,0,0
+354,373,PT02M17.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,51,11,5,Missed,1,0,0,0,h,MISS Bogut 5' Hook Shot,Missed Shot,Hook Shot,0,0
+355,374,PT02M16.00S,3,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,Rose REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+356,375,PT02M09.00S,3,1610612752,NYK,2768,Duhon,C. Duhon,51,254,26,Missed,1,0,0,0,v,MISS Duhon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+357,376,PT02M08.00S,3,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Unknown,0,0
+358,378,PT01M44.00S,3,1610612752,NYK,990,Rose,M. Rose,48,47,7,Missed,1,0,0,0,v,MISS Rose 7' Hook Shot,Missed Shot,Hook Shot,0,0
+359,379,PT01M43.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:6 Def:10),Rebound,Unknown,0,0
+360,381,PT01M28.00S,3,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,Made,1,69,58,127,h,Sessions  Running Layup (6 PTS) (Bogut 2 AST),Made Shot,Running Layup Shot,0,0
+361,383,PT01M15.00S,3,1610612752,NYK,990,Rose,M. Rose,-133,167,21,Made,1,69,60,129,v,Rose 21' Jump Shot (9 PTS) (Roberson 1 AST),Made Shot,Jump Shot,0,0
+362,384,PT01M00.00S,3,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0
+363,385,PT01M00.00S,3,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,SUB: Lee FOR Rose,Substitution,,0,0
+364,386,PT01M00.00S,3,1610612752,NYK,101194,Roberson,A. Roberson,0,0,0,,0,0,0,0,v,SUB: Robinson FOR Roberson,Substitution,,0,0
+365,387,PT00M46.90S,3,1610612752,NYK,2047,Richardson,Q. Richardson,-231,96,25,Missed,1,0,0,0,v,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+366,387,PT00M46.90S,3,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander BLOCK (1 BLK),,,0,0
+367,388,PT00M44.90S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,Bogut REBOUND (Off:6 Def:11),Rebound,Unknown,0,0
+368,389,PT00M29.00S,3,1610612749,MIL,1731,Lue,T. Lue,189,192,27,Made,1,72,60,132,h,Lue 27' 3PT Jump Shot (3 PTS) (Bogut 3 AST),Made Shot,Jump Shot,0,0
+369,390,PT00M16.40S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson Step Out of Bounds Turnover (P2.T11),Turnover,Step Out of Bounds Turnover,0,0
+370,391,PT00M16.40S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,h,SUB: Allen FOR Bogut,Substitution,,0,0
+371,392,PT00M04.90S,3,1610612749,MIL,201196,Sessions,R. Sessions,-119,118,17,Missed,1,0,0,0,h,MISS Sessions 17' Jump Shot,Missed Shot,Jump Shot,0,0
+372,393,PT00M03.80S,3,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+373,394,PT00M00.00S,3,0,,0,,,0,0,0,,0,72,60,132,,End of 3rd Period (10:14 PM EST),period,end,0,0
+374,396,PT12M00.00S,4,0,,0,,,0,0,0,,0,72,60,132,,Start of 4th Period (10:17 PM EST),period,start,0,0
+375,397,PT11M55.00S,4,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon P.FOUL (P1.T1),Foul,Personal,0,0
+376,398,PT11M36.00S,4,1610612749,MIL,2124,Allen,M. Allen,86,78,12,Missed,1,0,0,0,h,MISS Allen 12' Jump Shot,Missed Shot,Jump Shot,0,0
+377,400,PT11M35.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+378,399,PT11M35.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Made,1,74,60,134,h,Villanueva  Tip Shot (10 PTS),Made Shot,Tip Shot,0,0
+379,401,PT11M16.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,6,83,8,Missed,1,0,0,0,v,MISS Chandler 8' Jump Shot,Missed Shot,Jump Shot,0,0
+380,402,PT11M15.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+381,403,PT11M05.00S,4,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon S.FOUL (P2.T2),Foul,Shooting,0,0
+382,404,PT11M05.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,MISS Alexander Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+383,405,PT11M05.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0
+384,406,PT11M05.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,75,60,135,h,Alexander Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+385,408,PT10M48.00S,4,1610612752,NYK,101135,Lee,D. Lee,-117,47,13,Missed,1,0,0,0,v,MISS Lee 13' Jump Shot,Missed Shot,Jump Shot,0,0
+386,408,PT10M48.00S,4,1610612749,MIL,2124,Allen,M. Allen,0,0,0,,0,0,0,0,h,Allen BLOCK (1 BLK),,,0,0
+387,409,PT10M47.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+388,410,PT10M32.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,24,48,5,Made,1,77,60,137,h,Villanueva 5' Jump Hook Shot (12 PTS),Made Shot,Jump Hook Shot,0,0
+389,411,PT10M32.00S,4,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee S.FOUL (P1.T3),Foul,Shooting,0,0
+390,412,PT10M32.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,78,60,138,h,Villanueva Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0
+391,414,PT10M18.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,-199,52,21,Missed,1,0,0,0,v,MISS Richardson 21' Jump Shot,Missed Shot,Jump Shot,0,0
+392,415,PT10M16.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+393,416,PT10M08.00S,4,1610612749,MIL,1731,Lue,T. Lue,0,0,0,Missed,1,0,0,0,h,MISS Lue  Layup,Missed Shot,Layup Shot,0,0
+394,417,PT10M07.00S,4,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+395,418,PT10M02.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,Missed,1,0,0,0,v,MISS Chandler  Layup,Missed Shot,Layup Shot,0,0
+396,419,PT10M01.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+397,420,PT09M52.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler S.FOUL (P4.T4),Foul,Shooting,0,0
+398,421,PT09M52.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,MISS Villanueva Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+399,422,PT09M52.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0
+400,423,PT09M52.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: Rose FOR Chandler,Substitution,,0,0
+401,424,PT09M52.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,79,60,139,h,Villanueva Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+402,426,PT09M44.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,-155,94,18,Missed,1,0,0,0,v,MISS Robinson 18' Jump Shot,Missed Shot,Jump Shot,0,0
+403,427,PT09M43.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+404,428,PT09M29.00S,4,1610612749,MIL,1731,Lue,T. Lue,116,132,18,Made,1,81,60,141,h,Lue 18' Jump Shot (5 PTS),Made Shot,Jump Shot,0,0
+405,429,PT09M28.00S,4,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+406,430,PT09M09.00S,4,1610612752,NYK,101135,Lee,D. Lee,0,0,0,Made,1,81,62,143,v,Lee  Layup (13 PTS) (Rose 2 AST),Made Shot,Layup Shot,0,0
+407,431,PT08M53.00S,4,1610612749,MIL,1731,Lue,T. Lue,231,3,0,Made,1,84,62,146,h,Lue  3PT Jump Shot (8 PTS) (Allen 1 AST),Made Shot,Jump Shot,0,0
+408,432,PT08M34.00S,4,1610612752,NYK,990,Rose,M. Rose,138,1,14,Missed,1,0,0,0,v,MISS Rose 14' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+409,433,PT08M33.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+410,434,PT08M22.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,-163,69,18,Made,1,86,62,148,h,Villanueva 18' Jump Shot (16 PTS) (Sessions 8 AST),Made Shot,Jump Shot,0,0
+411,435,PT08M06.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,94,252,27,Made,1,86,65,151,v,Richardson 27' 3PT Jump Shot (4 PTS) (Duhon 3 AST),Made Shot,Jump Shot,0,0
+412,436,PT07M49.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,-37,45,6,Made,1,88,65,153,h,Villanueva 6' Hook Shot (18 PTS) (Sessions 9 AST),Made Shot,Hook Shot,0,0
+413,437,PT07M25.00S,4,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Lee,Substitution,,0,0
+414,438,PT07M25.00S,4,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0
+415,439,PT07M22.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,-179,206,27,Missed,1,0,0,0,v,MISS Chandler 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+416,440,PT07M20.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+417,441,PT07M13.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,Made,1,90,65,155,h,Sessions  Layup (8 PTS),Made Shot,Layup Shot,0,0
+418,442,PT07M13.00S,4,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,Rose S.FOUL (P3.PN),Foul,Shooting,0,0
+419,443,PT07M13.00S,4,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,SUB: Lee FOR Rose,Substitution,,0,0
+420,444,PT07M13.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,91,65,156,h,Sessions Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+421,446,PT06M59.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,29,172,17,Missed,1,0,0,0,v,MISS Chandler 17' Jump Shot,Missed Shot,Jump Shot,0,0
+422,447,PT06M58.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+423,448,PT06M48.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson S.FOUL (P4.PN),Foul,Shooting,0,0
+424,449,PT06M48.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,92,65,157,h,Villanueva Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0
+425,451,PT06M48.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,93,65,158,h,Villanueva Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0
+426,453,PT06M27.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,-78,67,10,Made,1,93,67,160,v,Robinson 10' Jump Shot (12 PTS) (Chandler 4 AST),Made Shot,Jump Shot,0,0
+427,454,PT06M27.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson T.FOUL (P2.PN),Foul,Technical,0,0
+428,455,PT06M27.00S,4,1610612749,MIL,1731,Lue,T. Lue,0,0,0,,0,94,67,161,h,Lue Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0
+429,457,PT06M17.00S,4,1610612749,MIL,2124,Allen,M. Allen,-97,157,18,Missed,1,0,0,0,h,MISS Allen 18' Jump Shot,Missed Shot,Jump Shot,0,0
+430,458,PT06M16.00S,4,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:8),Rebound,Unknown,0,0
+431,459,PT06M08.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,Made,1,94,69,163,v,Robinson  Layup (14 PTS),Made Shot,Layup Shot,0,0
+432,460,PT05M49.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,56,107,12,Made,1,96,69,165,h,Sessions 12' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+433,461,PT05M40.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,113,72,13,Made,1,96,71,167,v,Robinson 13' Jump Shot (16 PTS),Made Shot,Jump Shot,0,0
+434,462,PT05M40.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+435,464,PT05M40.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,SUB: Croshere FOR Villanueva,Substitution,,0,0
+436,465,PT05M29.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,67,7,Missed,1,0,0,0,h,MISS Sessions 7' Jump Shot,Missed Shot,Jump Shot,0,0
+437,466,PT05M27.00S,4,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:9),Rebound,Unknown,0,0
+438,467,PT05M26.00S,4,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0
+439,467,PT05M26.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions STEAL (2 STL),,,0,0
+440,468,PT05M26.00S,4,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee S.FOUL (P2.PN),Foul,Shooting,0,0
+441,469,PT05M26.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,97,71,168,h,Sessions Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+442,471,PT05M26.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,MISS Sessions Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+443,473,PT05M25.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+444,474,PT05M16.00S,4,1610612749,MIL,1731,Lue,T. Lue,0,0,0,,0,0,0,0,h,Lue S.FOUL (P1.T1),Foul,Shooting,0,0
+445,475,PT05M16.00S,4,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,97,72,169,v,Duhon Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0
+446,477,PT05M16.00S,4,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,97,73,170,v,Duhon Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0
+447,479,PT04M55.00S,4,1610612749,MIL,2124,Allen,M. Allen,-131,0,13,Made,1,99,73,172,h,Allen 13' Jump Shot (2 PTS) (Sessions 10 AST),Made Shot,Jump Shot,0,0
+448,480,PT04M45.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,106,241,26,Made,1,99,76,175,v,Richardson 26' 3PT Jump Shot (7 PTS) (Robinson 3 AST),Made Shot,Jump Shot,0,0
+449,481,PT04M26.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,-37,-6,4,Missed,1,0,0,0,h,MISS Alexander 4' Jump Shot,Missed Shot,Jump Shot,0,0
+450,481,PT04M26.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler BLOCK (2 BLK),,,0,0
+451,482,PT04M23.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+452,483,PT04M17.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,165,201,26,Missed,1,0,0,0,v,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+453,484,PT04M16.00S,4,1610612749,MIL,1506,Croshere,A. Croshere,0,0,0,,0,0,0,0,h,Croshere REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+454,485,PT04M04.00S,4,1610612749,MIL,2124,Allen,M. Allen,-125,99,16,Missed,1,0,0,0,h,MISS Allen 16' Jump Shot,Missed Shot,Jump Shot,0,0
+455,486,PT04M03.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+456,487,PT03M49.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,-168,66,18,Missed,1,0,0,0,v,MISS Chandler 18' Jump Shot,Missed Shot,Jump Shot,0,0
+457,488,PT03M48.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+458,489,PT03M45.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0
+459,489,PT03M45.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions STEAL (3 STL),,,0,0
+460,490,PT03M36.00S,4,1610612749,MIL,1731,Lue,T. Lue,-109,39,12,Missed,1,0,0,0,h,MISS Lue 12' Jump Shot,Missed Shot,Jump Shot,0,0
+461,491,PT03M35.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+462,492,PT03M26.00S,4,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon Bad Pass Turnover (P5.T14),Turnover,Bad Pass,0,0
+463,492,PT03M26.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander STEAL (1 STL),,,0,0
+464,493,PT03M21.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,Made,1,101,76,177,h,Sessions  Layup (14 PTS),Made Shot,Layup Shot,0,0
+465,494,PT03M21.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson S.FOUL (P5.PN),Foul,Shooting,0,0
+466,495,PT03M21.00S,4,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+467,496,PT03M21.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,SUB: Roberson FOR Richardson,Substitution,,0,0
+468,497,PT03M21.00S,4,1610612752,NYK,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Rose FOR Lee,Substitution,,0,0
+469,498,PT03M21.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,102,76,178,h,Sessions Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+470,500,PT03M16.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander P.FOUL (P3.T2),Foul,Personal,0,0
+471,501,PT03M16.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,SUB: Elson FOR Sessions,Substitution,,0,0
+472,502,PT03M06.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,Missed,1,0,0,0,v,MISS Robinson  Alley Oop Layup,Missed Shot,Alley Oop Layup shot,0,0
+473,503,PT03M04.00S,4,1610612749,MIL,1731,Lue,T. Lue,0,0,0,,0,0,0,0,h,Lue REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+474,504,PT02M51.00S,4,1610612749,MIL,1506,Croshere,A. Croshere,-229,-5,0,Missed,1,0,0,0,h,MISS Croshere  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+475,505,PT02M50.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+476,506,PT02M46.00S,4,1610612749,MIL,1506,Croshere,A. Croshere,0,0,0,Missed,1,0,0,0,h,MISS Croshere  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+477,506,PT02M46.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler BLOCK (3 BLK),,,0,0
+478,507,PT02M43.00S,4,1610612752,NYK,2768,Duhon,C. Duhon,0,0,0,,0,0,0,0,v,Duhon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+479,508,PT02M36.00S,4,1610612752,NYK,101194,Roberson,A. Roberson,106,60,12,Missed,1,0,0,0,v,MISS Roberson 12' Jump Shot,Missed Shot,Jump Shot,0,0
+480,509,PT02M34.00S,4,1610612749,MIL,2124,Allen,M. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+481,510,PT02M22.00S,4,1610612749,MIL,1922,Elson,F. Elson,67,80,10,Missed,1,0,0,0,h,MISS Elson 10' Jump Shot,Missed Shot,Jump Shot,0,0
+482,511,PT02M21.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+483,512,PT02M15.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,-231,11,0,Made,1,102,79,181,v,Chandler  3PT Jump Shot (10 PTS) (Duhon 4 AST),Made Shot,Jump Shot,0,0
+484,513,PT02M03.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander OFF.Foul (P4),Foul,Offensive,0,0
+485,514,PT02M03.00S,4,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander Foul Turnover (P1.T14),Turnover,Foul,0,0
+486,515,PT01M49.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,234,17,0,Made,1,102,82,184,v,Robinson  3PT Jump Shot (19 PTS) (Rose 3 AST),Made Shot,Jump Shot,0,0
+487,516,PT01M38.00S,4,1610612749,MIL,1731,Lue,T. Lue,-76,123,14,Missed,1,0,0,0,h,MISS Lue 14' Jump Shot,Missed Shot,Jump Shot,0,0
+488,517,PT01M36.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+489,518,PT01M30.00S,4,1610612752,NYK,101194,Roberson,A. Roberson,0,0,0,Made,1,102,84,186,v,Roberson  Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,0,0
+490,519,PT01M19.00S,4,1610612749,MIL,2124,Allen,M. Allen,125,129,18,Missed,1,0,0,0,h,MISS Allen 18' Jump Shot,Missed Shot,Jump Shot,0,0
+491,520,PT01M18.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+492,521,PT01M11.00S,4,1610612752,NYK,201163,Chandler,W. Chandler,-229,0,0,Missed,1,0,0,0,v,MISS Chandler  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+493,522,PT01M09.00S,4,1610612749,MIL,1506,Croshere,A. Croshere,0,0,0,,0,0,0,0,h,Croshere REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+494,523,PT00M50.80S,4,1610612749,MIL,201570,Alexander,J. Alexander,127,241,27,Missed,1,0,0,0,h,MISS Alexander 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+495,524,PT00M49.50S,4,1610612752,NYK,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+496,525,PT00M36.80S,4,1610612752,NYK,201163,Chandler,W. Chandler,-229,11,0,Missed,1,0,0,0,v,MISS Chandler  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+497,526,PT00M35.90S,4,1610612749,MIL,2124,Allen,M. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+498,527,PT00M19.80S,4,1610612749,MIL,1922,Elson,F. Elson,138,-6,14,Made,1,104,84,188,h,Elson 14' Jump Shot (6 PTS) (Allen 2 AST),Made Shot,Jump Shot,0,0
+499,528,PT00M08.30S,4,1610612752,NYK,201163,Chandler,W. Chandler,-226,99,25,Made,1,104,87,191,v,Chandler 25' 3PT Jump Shot (13 PTS) (Robinson 4 AST),Made Shot,Jump Shot,0,0
+500,529,PT00M00.00S,4,0,,0,,,0,0,0,,0,104,87,191,,End of 4th Period (10:45 PM EST),period,end,0,0

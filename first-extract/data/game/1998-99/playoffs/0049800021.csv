@@ -1,0 +1,518 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,1,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:41 AM EST),period,start,0,0
+2,2,PT12M00.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Jump Ball Ratliff vs. Grant: Tip to Anderson,Jump Ball,,0,0
+3,3,PT11M41.00S,1,1610612753,ORL,270,Grant,H. Grant,-25,23,3,Missed,1,,,0,v,MISS Grant 3' Jump Shot,Missed Shot,Jump Shot,0,0
+4,3,PT11M41.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff BLOCK (1 BLK),,,0,0
+5,4,PT11M39.00S,1,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+6,5,PT11M24.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-156,23,16,Made,1,2,0,2,h,Iverson 16' Jump Shot (2 PTS) (Snow 1 AST),Made Shot,Jump Shot,0,0
+7,6,PT11M08.00S,1,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Jump Ball Geiger vs. D. Armstrong: Tip to Snow,Jump Ball,,0,0
+8,7,PT11M08.00S,1,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0
+9,7,PT11M08.00S,1,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger STEAL (1 STL),,,0,0
+10,8,PT10M57.00S,1,1610612755,PHI,248,Lynch,G. Lynch,10,23,3,Made,1,4,0,4,h,Lynch 3' Hook Shot (2 PTS),Made Shot,Hook Shot,0,0
+11,9,PT10M35.00S,1,1610612753,ORL,1134,Austin,I. Austin,147,89,17,Made,1,4,2,6,v,Austin 17' Jump Shot (2 PTS) (Grant 1 AST),Made Shot,Jump Shot,0,0
+12,10,PT10M15.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant S.FOUL (P1.T1),Foul,Shooting,0,0
+13,11,PT10M15.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,MISS Ratliff Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+14,12,PT10M15.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Dead Ball Rebound,0,0
+15,13,PT10M15.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,5,2,7,h,Ratliff Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+16,15,PT10M07.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant Traveling Turnover (P1.T2),Turnover,Traveling,0,0
+17,16,PT09M55.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+18,16,PT09M55.00S,1,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway STEAL (1 STL),,,0,0
+19,17,PT09M51.00S,1,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+20,17,PT09M51.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (1 STL),,,0,0
+21,18,PT09M26.00S,1,1610612755,PHI,761,Geiger,M. Geiger,-89,89,13,Missed,1,,,0,h,MISS Geiger 13' Jump Shot,Missed Shot,Jump Shot,0,0
+22,19,PT09M25.00S,1,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+23,20,PT09M20.00S,1,1610612753,ORL,270,Grant,H. Grant,-96,27,10,Missed,1,,,0,v,MISS Grant 10' Jump Shot,Missed Shot,Jump Shot,0,0
+24,21,PT09M18.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+25,22,PT09M04.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,59,5,6,Missed,1,,,0,h,MISS Ratliff 6' Jump Shot,Missed Shot,Jump Shot,0,0
+26,22,PT09M04.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant BLOCK (1 BLK),,,0,0
+27,23,PT09M03.00S,1,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+28,24,PT08M50.00S,1,1610612753,ORL,353,Armstrong,D. Armstrong,10,265,27,Missed,1,,,0,v,MISS D. Armstrong 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+29,25,PT08M47.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+30,26,PT08M39.00S,1,1610612755,PHI,761,Geiger,M. Geiger,-113,-48,12,Made,1,7,2,9,h,Geiger 12' Jump Shot (2 PTS) (Lynch 1 AST),Made Shot,Jump Shot,0,0
+31,27,PT08M22.00S,1,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin Traveling Turnover (P1.T4),Turnover,Traveling,0,0
+32,28,PT08M22.00S,1,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,,"Double Technical - Geiger, D. Armstrong",Foul,Double Technical,0,0
+33,29,PT08M06.00S,1,1610612755,PHI,727,Snow,E. Snow,0,0,0,Made,1,9,2,11,h,Snow Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+34,30,PT07M52.00S,1,1610612753,ORL,98,Anderson,N. Anderson,-46,5,5,Missed,1,,,0,v,MISS Anderson 5' Jump Shot,Missed Shot,Jump Shot,0,0
+35,31,PT07M50.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+36,32,PT07M50.00S,1,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin P.FOUL (P1.T2),Foul,Personal,0,0
+37,33,PT07M39.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-141,141,20,Made,1,11,2,13,h,Iverson 20' Jump Shot (4 PTS) (Snow 2 AST),Made Shot,Jump Shot,0,0
+38,34,PT07M31.00S,1,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0
+39,35,PT07M31.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+40,36,PT07M15.00S,1,1610612755,PHI,727,Snow,E. Snow,10,33,3,Missed,1,,,0,h,MISS Snow 3' Jump Shot,Missed Shot,Jump Shot,0,0
+41,37,PT07M14.00S,1,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+42,38,PT07M01.00S,1,1610612753,ORL,98,Anderson,N. Anderson,162,207,26,Made,1,11,5,16,v,Anderson 26' 3PT Jump Shot (3 PTS) (Hardaway 1 AST),Made Shot,Jump Shot,0,0
+43,39,PT06M39.00S,1,1610612755,PHI,727,Snow,E. Snow,-126,68,14,Made,1,13,5,18,h,Snow 14' Jump Shot (4 PTS) (Lynch 2 AST),Made Shot,Jump Shot,0,0
+44,40,PT06M16.00S,1,1610612753,ORL,98,Anderson,N. Anderson,123,224,26,Missed,1,,,0,v,MISS Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+45,41,PT06M15.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+46,42,PT06M15.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+47,43,PT05M59.00S,1,1610612755,PHI,727,Snow,E. Snow,123,68,14,Missed,1,,,0,h,MISS Snow 14' Jump Shot,Missed Shot,Jump Shot,0,0
+48,44,PT05M58.00S,1,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+49,45,PT05M45.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,Made,1,13,7,20,v,Grant Layup (2 PTS) (Austin 1 AST),Made Shot,Layup Shot,0,0
+50,46,PT05M25.00S,1,1610612755,PHI,761,Geiger,M. Geiger,-68,-14,7,Missed,1,,,0,h,MISS Geiger 7' Jump Shot,Missed Shot,Jump Shot,0,0
+51,47,PT05M23.00S,1,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+52,48,PT05M13.00S,1,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong Lost Ball Turnover (P3.T6),Turnover,Lost Ball,0,0
+53,48,PT05M13.00S,1,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,Snow STEAL (1 STL),,,0,0
+54,49,PT05M06.00S,1,1610612755,PHI,947,Iverson,A. Iverson,211,134,25,Missed,1,,,0,h,MISS Iverson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+55,50,PT05M04.00S,1,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+56,51,PT04M50.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson S.FOUL (P1.T1),Foul,Shooting,0,0
+57,52,PT04M50.00S,1,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,13,8,21,v,D. Armstrong Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+58,53,PT04M50.00S,1,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,13,9,22,v,D. Armstrong Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+59,54,PT04M50.00S,1,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,SUB: Outlaw FOR Austin,Substitution,,0,0
+60,56,PT04M31.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-104,78,13,Missed,1,,,0,h,MISS Iverson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+61,57,PT04M30.00S,1,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+62,58,PT04M13.00S,1,1610612753,ORL,358,Hardaway,A. Hardaway,-25,57,6,Missed,1,,,0,v,MISS Hardaway 6' Jump Shot,Missed Shot,Jump Shot,0,0
+63,59,PT04M12.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+64,60,PT03M51.00S,1,1610612755,PHI,947,Iverson,A. Iverson,184,203,27,Made,1,16,9,25,h,Iverson 27' 3PT Jump Shot (7 PTS) (Snow 3 AST),Made Shot,Jump Shot,0,0
+65,61,PT03M35.00S,1,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0
+66,61,PT03M35.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch STEAL (1 STL),,,0,0
+67,62,PT03M23.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,-126,61,14,Missed,1,,,0,h,MISS Ratliff 14' Jump Shot,Missed Shot,Jump Shot,0,0
+68,63,PT03M22.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+69,64,PT03M15.00S,1,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong Out Of Bounds Turnover (P4.T8),Turnover,Out Of Bounds,0,0
+70,65,PT03M15.00S,1,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,SUB: Harpring FOR D. Armstrong,Substitution,,0,0
+71,66,PT03M15.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+72,67,PT03M15.00S,1,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,SUB: Hill FOR Geiger,Substitution,,0,0
+73,68,PT03M15.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,SUB: Hughes FOR Lynch,Substitution,,0,0
+74,69,PT03M04.00S,1,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,Made,1,18,9,27,h,Hughes Slam Dunk (2 PTS) (Iverson 1 AST),Made Shot,Slam Dunk Shot,0,0
+75,70,PT02M43.00S,1,1610612753,ORL,270,Grant,H. Grant,138,85,16,Made,1,18,11,29,v,Grant 16' Jump Shot (4 PTS) (Harpring 1 AST),Made Shot,Jump Shot,0,0
+76,71,PT02M28.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-205,145,25,Missed,1,,,0,h,MISS Iverson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+77,72,PT02M26.00S,1,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+78,73,PT02M23.00S,1,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,Made,1,18,13,31,v,Outlaw Slam Dunk (2 PTS) (Hardaway 2 AST),Made Shot,Slam Dunk Shot,0,0
+79,74,PT02M01.00S,1,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring S.FOUL (P1.T3),Foul,Shooting,0,0
+80,75,PT02M01.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,SUB: Lynch FOR Ratliff,Substitution,,0,0
+81,76,PT02M01.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+82,77,PT02M01.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Dead Ball Rebound,0,0
+83,78,PT02M01.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,19,13,32,h,Iverson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+84,79,PT01M59.00S,1,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,Made,1,19,15,34,v,Anderson Dunk (5 PTS) (Outlaw 1 AST),Made Shot,Dunk Shot,0,0
+85,80,PT01M34.00S,1,1610612755,PHI,947,Iverson,A. Iverson,40,265,27,Missed,1,,,0,h,MISS Iverson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+86,81,PT01M34.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0
+87,82,PT01M25.00S,1,1610612753,ORL,1723,Harpring,M. Harpring,-40,72,8,Missed,1,,,0,v,MISS Harpring 8' Jump Shot,Missed Shot,Jump Shot,0,0
+88,83,PT01M23.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+89,84,PT01M20.00S,1,1610612755,PHI,238,Hill,T. Hill,0,0,0,Made,1,21,15,36,h,Hill Slam Dunk (2 PTS) (Hughes 1 AST),Made Shot,Slam Dunk Shot,0,0
+90,85,PT01M04.00S,1,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0
+91,85,PT01M04.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (2 STL),,,0,0
+92,86,PT00M59.70S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,23,15,38,h,Iverson Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+93,87,PT00M35.80S,1,1610612753,ORL,448,Outlaw,B. Outlaw,46,113,12,Missed,1,,,0,v,MISS Outlaw 12' Jump Shot,Missed Shot,Jump Shot,0,0
+94,87,PT00M35.80S,1,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes BLOCK (1 BLK),,,0,0
+95,88,PT00M34.60S,1,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+96,89,PT00M34.60S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0
+97,90,PT00M25.30S,1,1610612755,PHI,1716,Hughes,L. Hughes,-184,-21,19,Missed,1,,,0,h,MISS Hughes 19' Jump Shot,Missed Shot,Jump Shot,0,0
+98,91,PT00M23.20S,1,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+99,92,PT00M13.40S,1,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0
+100,92,PT00M13.40S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (3 STL),,,0,0
+101,93,PT00M04.70S,1,1610612755,PHI,238,Hill,T. Hill,-31,5,3,Missed,1,,,0,h,MISS Hill 3' Jump Shot,Missed Shot,Jump Shot,0,0
+102,94,PT00M02.50S,1,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+103,95,PT00M00.00S,1,1610612753,ORL,98,Anderson,N. Anderson,138,280,31,Missed,1,,,0,v,MISS Anderson 31' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+104,96,PT00M00.00S,1,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+105,97,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,15,38,,End of 1st Period (11:07 AM EST),period,end,0,0
+106,98,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,15,38,,Start of 2nd Period (11:09 AM EST),period,start,0,0
+107,99,PT11M43.00S,2,1610612755,PHI,238,Hill,T. Hill,53,40,7,Missed,1,,,0,h,MISS Hill 7' Jump Shot,Missed Shot,Jump Shot,0,0
+108,99,PT11M43.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw BLOCK (1 BLK),,,0,0
+109,100,PT11M40.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+110,101,PT11M25.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0
+111,101,PT11M25.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch STEAL (2 STL),,,0,0
+112,102,PT11M22.00S,2,1610612755,PHI,947,Iverson,A. Iverson,10,12,2,Missed,1,,,0,h,MISS Iverson 2' Dunk,Missed Shot,Dunk Shot,0,0
+113,103,PT11M20.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+114,104,PT11M19.00S,2,1610612755,PHI,248,Lynch,G. Lynch,59,-25,6,Missed,1,,,0,h,MISS Lynch 6' Jump Shot,Missed Shot,Jump Shot,0,0
+115,105,PT11M18.00S,2,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,Doleac REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+116,106,PT11M12.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,-177,192,26,Missed,1,,,0,v,MISS D. Armstrong 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+117,107,PT11M11.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+118,108,PT10M59.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,111,40,12,Missed,1,,,0,h,MISS Hughes 12' Jump Shot,Missed Shot,Jump Shot,0,0
+119,109,PT10M57.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+120,110,PT10M54.00S,2,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,Doleac S.FOUL (P1.T1),Foul,Shooting,0,0
+121,112,PT10M54.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,24,15,39,h,Hughes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+122,113,PT10M54.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,25,15,40,h,Hughes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+123,114,PT10M54.00S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,SUB: McKie FOR Snow,Substitution,,0,0
+124,115,PT10M36.00S,2,1610612753,ORL,358,Hardaway,A. Hardaway,246,1,25,Missed,1,,,0,v,MISS Hardaway 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+125,116,PT10M34.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+126,117,PT10M30.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong P.FOUL (P1.T2),Foul,Personal,0,0
+127,118,PT10M21.00S,2,1610612755,PHI,248,Lynch,G. Lynch,154,-21,16,Made,1,27,15,42,h,Lynch 16' Jump Shot (4 PTS) (McKie 1 AST),Made Shot,Jump Shot,0,0
+128,119,PT10M00.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,184,173,25,Missed,1,,,0,v,MISS Harpring 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+129,120,PT09M58.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+130,121,PT09M48.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,184,203,27,Missed,1,,,0,v,MISS D. Armstrong 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+131,122,PT09M46.00S,2,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+132,123,PT09M43.00S,2,1610612755,PHI,947,Iverson,A. Iverson,96,130,16,Missed,1,,,0,h,MISS Iverson 16' Jump Shot,Missed Shot,Jump Shot,0,0
+133,124,PT09M41.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+134,125,PT09M19.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,218,145,26,Made,1,27,18,45,v,D. Armstrong 26' 3PT Jump Shot (5 PTS) (Hardaway 3 AST),Made Shot,Jump Shot,0,0
+135,126,PT08M54.00S,2,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,Doleac S.FOUL (P2.T3),Foul,Shooting,0,0
+136,127,PT08M54.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+137,128,PT08M54.00S,2,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,28,18,46,h,Hill Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+138,129,PT08M54.00S,2,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,SUB: Anderson FOR Hardaway,Substitution,,0,0
+139,130,PT08M54.00S,2,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,SUB: Austin FOR Doleac,Substitution,,0,0
+140,131,PT08M54.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,SUB: Geiger FOR Lynch,Substitution,,0,0
+141,132,PT08M54.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,SUB: Snow FOR Iverson,Substitution,,0,0
+142,133,PT08M54.00S,2,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,MISS Hill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+143,134,PT08M52.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+144,135,PT08M41.00S,2,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill P.FOUL (P1.T1),Foul,Personal,0,0
+145,136,PT08M35.00S,2,1610612753,ORL,98,Anderson,N. Anderson,169,12,17,Missed,1,,,0,v,MISS Anderson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+146,137,PT08M34.00S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,Snow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+147,138,PT08M14.00S,2,1610612755,PHI,243,McKie,A. McKie,-25,141,14,Missed,1,,,0,h,MISS McKie 14' Jump Shot,Missed Shot,Jump Shot,0,0
+148,139,PT08M13.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0
+149,140,PT08M03.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,0
+150,140,PT08M03.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes STEAL (1 STL),,,0,0
+151,141,PT07M55.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,89,5,9,Missed,1,,,0,h,MISS Hughes 9' Jump Shot,Missed Shot,Jump Shot,0,0
+152,142,PT07M54.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+153,143,PT07M42.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,Made,1,28,20,48,v,D. Armstrong Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,0
+154,144,PT07M15.00S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,Snow Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+155,144,PT07M15.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong STEAL (1 STL),,,0,0
+156,145,PT07M11.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,Made,1,28,22,50,v,Harpring Layup (2 PTS) (Outlaw 2 AST),Made Shot,Layup Shot,0,0
+157,146,PT07M02.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+158,147,PT07M02.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,SUB: Ratliff FOR Geiger,Substitution,,0,0
+159,149,PT06M50.00S,2,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin Violation:Lane,Violation,Lane,0,0
+160,148,PT06M50.00S,2,1610612755,PHI,238,Hill,T. Hill,1,40,4,Made,1,30,22,52,h,Hill 4' Hook Shot (5 PTS),Made Shot,Hook Shot,0,0
+161,150,PT06M40.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff P.FOUL (P1.T2),Foul,Personal,0,0
+162,151,PT06M40.00S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,SUB: Iverson FOR Snow,Substitution,,0,0
+163,152,PT06M40.00S,2,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,SUB: Geiger FOR Hill,Substitution,,0,0
+164,153,PT06M32.00S,2,1610612753,ORL,1134,Austin,I. Austin,117,-21,12,Made,1,30,24,54,v,Austin 12' Jump Shot (4 PTS) (Anderson 1 AST),Made Shot,Jump Shot,0,0
+165,154,PT06M09.00S,2,1610612755,PHI,243,McKie,A. McKie,-40,96,10,Missed,1,,,0,h,MISS McKie 10' Jump Shot,Missed Shot,Jump Shot,0,0
+166,155,PT06M07.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+167,156,PT05M56.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong Bad Pass Turnover (P6.T14),Turnover,Bad Pass,0,0
+168,156,PT05M56.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie STEAL (1 STL),,,0,0
+169,157,PT05M49.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,89,40,10,Missed,1,,,0,h,MISS Hughes 10' Jump Shot,Missed Shot,Jump Shot,0,0
+170,157,PT05M49.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw BLOCK (2 BLK),,,0,0
+171,158,PT05M48.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+172,159,PT05M45.00S,2,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,Made,1,30,26,56,v,Anderson Dunk (7 PTS) (Harpring 2 AST),Made Shot,Dunk Shot,0,0
+173,160,PT05M19.00S,2,1610612755,PHI,761,Geiger,M. Geiger,-83,-14,8,Missed,1,,,0,h,MISS Geiger 8' Jump Shot,Missed Shot,Jump Shot,0,0
+174,162,PT05M18.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+175,161,PT05M18.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,Missed,1,,,0,h,MISS Ratliff Tip Shot,Missed Shot,Tip Shot,0,0
+176,163,PT05M17.00S,2,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+177,164,PT05M16.00S,2,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0
+178,164,PT05M16.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (4 STL),,,0,0
+179,165,PT05M11.00S,2,1610612755,PHI,947,Iverson,A. Iverson,-44,12,5,Missed,1,,,0,h,MISS Iverson 5' Jump Shot,Missed Shot,Jump Shot,0,0
+180,166,PT05M10.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+181,167,PT05M10.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Short (Full 3 Short 1),Timeout,Short,0,0
+182,168,PT05M06.00S,2,1610612755,PHI,947,Iverson,A. Iverson,-18,68,7,Made,1,32,26,58,h,Iverson 7' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,0,0
+183,169,PT04M50.00S,2,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin OFF.Foul (P2),Foul,Offensive,0,0
+184,170,PT04M50.00S,2,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin Foul Turnover (P3.T16),Turnover,Foul,0,0
+185,171,PT04M50.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,SUB: Lynch FOR Ratliff,Substitution,,0,0
+186,172,PT04M38.00S,2,1610612755,PHI,761,Geiger,M. Geiger,-119,1,12,Missed,1,,,0,h,MISS Geiger 12' Jump Shot,Missed Shot,Jump Shot,0,0
+187,173,PT04M36.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+188,174,PT04M32.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie P.FOUL (P1.T3),Foul,Personal,0,0
+189,175,PT04M32.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+190,176,PT04M26.00S,2,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0
+191,176,PT04M26.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes STEAL (2 STL),,,0,0
+192,177,PT04M05.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,-31,23,4,Missed,1,,,0,h,MISS Hughes 4' Jump Shot,Missed Shot,Jump Shot,0,0
+193,178,PT04M04.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+194,179,PT04M03.00S,2,1610612755,PHI,248,Lynch,G. Lynch,53,-21,6,Made,1,34,26,60,h,Lynch 6' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+195,180,PT03M39.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,16,113,11,Missed,1,,,0,v,MISS D. Armstrong 11' Jump Shot,Missed Shot,Jump Shot,0,0
+196,180,PT03M39.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson BLOCK (1 BLK),,,0,0
+197,181,PT03M36.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+198,182,PT03M35.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,-113,33,12,Missed,1,,,0,v,MISS Outlaw 12' Jump Shot,Missed Shot,Jump Shot,0,0
+199,184,PT03M33.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+200,183,PT03M33.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,Missed,1,,,0,v,MISS Harpring Layup,Missed Shot,Layup Shot,0,0
+201,185,PT03M33.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+202,186,PT03M33.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger S.FOUL (P1.T4),Foul,Shooting,0,0
+203,187,PT03M33.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,SUB: Snow FOR McKie,Substitution,,0,0
+204,188,PT03M33.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,34,27,61,v,Harpring Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+205,189,PT03M33.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,SUB: Hill FOR Geiger,Substitution,,0,0
+206,190,PT03M33.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,MISS Harpring Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+207,191,PT03M32.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+208,192,PT03M20.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,-220,124,25,Missed,1,,,0,v,MISS D. Armstrong 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+209,193,PT03M17.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+210,194,PT03M03.00S,2,1610612755,PHI,238,Hill,T. Hill,-40,1,4,Missed,1,,,0,h,MISS Hill 4' Jump Shot,Missed Shot,Jump Shot,0,0
+211,196,PT03M00.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+212,195,PT03M00.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,36,27,63,h,Iverson Tip Shot (14 PTS),Made Shot,Tip Shot,0,0
+213,197,PT02M46.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw Lost Ball Turnover (P2.T18),Turnover,Lost Ball,0,0
+214,197,PT02M46.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (5 STL),,,0,0
+215,199,PT02M37.00S,2,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin P.FOUL (P3.T4),Foul,Personal,0,0
+216,200,PT02M37.00S,2,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,SUB: McKie FOR Hughes,Substitution,,0,0
+217,201,PT02M37.00S,2,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,SUB: Hardaway FOR Anderson,Substitution,,0,0
+218,202,PT02M37.00S,2,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,SUB: Grant FOR Austin,Substitution,,0,0
+219,203,PT02M37.00S,2,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,SUB: Wilkins FOR Outlaw,Substitution,,0,0
+220,204,PT02M31.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,Made,1,38,27,65,h,Lynch Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+221,205,PT02M09.00S,2,1610612753,ORL,1122,Wilkins,D. Wilkins,-25,89,9,Missed,1,,,0,v,MISS Wilkins 9' Jump Shot,Missed Shot,Jump Shot,0,0
+222,205,PT02M09.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch BLOCK (1 BLK),,,0,0
+223,206,PT02M05.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+224,207,PT02M02.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,40,27,67,h,Iverson Layup (16 PTS) (Snow 4 AST),Made Shot,Layup Shot,0,0
+225,208,PT01M46.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,175,61,19,Missed,1,,,0,v,MISS Harpring 19' Jump Shot,Missed Shot,Jump Shot,0,0
+226,209,PT01M43.00S,2,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+227,210,PT01M42.00S,2,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant Lost Ball Turnover (P2.T19),Turnover,Lost Ball,0,0
+228,210,PT01M42.00S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,Snow STEAL (2 STL),,,0,0
+229,211,PT01M39.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie OFF.Foul (P2),Foul,Offensive,0,0
+230,212,PT01M39.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie Foul Turnover (P1.T3),Turnover,Foul,0,0
+231,213,PT01M32.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+232,214,PT01M32.00S,2,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,SUB: Anderson FOR Harpring,Substitution,,0,0
+233,215,PT01M28.00S,2,1610612753,ORL,270,Grant,H. Grant,-3,141,14,Missed,1,,,0,v,MISS Grant 14' Jump Shot,Missed Shot,Jump Shot,0,0
+234,216,PT01M26.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+235,217,PT01M12.00S,2,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway P.FOUL (P1.PN),Foul,Personal,0,0
+236,218,PT01M12.00S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,41,27,68,h,Snow Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+237,219,PT01M12.00S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,42,27,69,h,Snow Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+238,220,PT00M57.00S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,Snow P.FOUL (P1.PN),Foul,Personal,0,0
+239,221,PT00M57.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,SUB: Hughes FOR McKie,Substitution,,0,0
+240,222,PT00M57.00S,2,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,42,28,70,v,Hardaway Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+241,223,PT00M57.00S,2,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,42,29,71,v,Hardaway Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+242,224,PT00M47.20S,2,1610612755,PHI,727,Snow,E. Snow,46,5,5,Missed,1,,,0,h,MISS Snow 5' Jump Shot,Missed Shot,Jump Shot,0,0
+243,225,PT00M46.00S,2,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+244,226,PT00M44.80S,2,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong Lost Ball Turnover (P7.T20),Turnover,Lost Ball,0,0
+245,226,PT00M44.80S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (6 STL),,,0,0
+246,227,PT00M37.30S,2,1610612755,PHI,1716,Hughes,L. Hughes,53,5,5,Made,1,44,29,73,h,Hughes 5' Running Jump Shot (6 PTS) (Iverson 2 AST),Made Shot,Running Jump Shot,0,0
+247,228,PT00M26.40S,2,1610612753,ORL,353,Armstrong,D. Armstrong,40,1,4,Missed,1,,,0,v,MISS D. Armstrong 4' Jump Shot,Missed Shot,Jump Shot,0,0
+248,228,PT00M26.40S,2,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes BLOCK (2 BLK),,,0,0
+249,229,PT00M26.40S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0
+250,230,PT00M18.10S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+251,231,PT00M15.90S,2,1610612753,ORL,1122,Wilkins,D. Wilkins,132,-21,13,Made,1,44,31,75,v,Wilkins 13' Jump Shot (2 PTS) (Anderson 2 AST),Made Shot,Jump Shot,0,0
+252,233,PT00M02.40S,2,1610612755,PHI,727,Snow,E. Snow,-46,162,17,Missed,1,,,0,h,MISS Snow 17' Jump Shot,Missed Shot,Jump Shot,0,0
+253,235,PT00M01.50S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+254,234,PT00M01.50S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,46,31,77,h,Iverson Layup (18 PTS),Made Shot,Layup Shot,0,0
+255,236,PT00M00.00S,2,1610612753,ORL,98,Anderson,N. Anderson,154,377,41,Missed,1,,,0,v,MISS Anderson 41' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+256,237,PT00M00.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+257,238,PT00M00.00S,2,0,,0,,,0,0,0,,0,46,31,77,,End of 2nd Period (11:41 AM EST),period,end,0,0
+258,239,PT12M00.00S,3,0,,0,,,0,0,0,,0,46,31,77,,Start of 3rd Period (11:59 AM EST),period,start,0,0
+259,240,PT11M49.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,Made,1,48,31,79,h,Ratliff Dunk (3 PTS) (Lynch 3 AST),Made Shot,Dunk Shot,0,0
+260,241,PT11M34.00S,3,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway Bad Pass Turnover (P5.T21),Turnover,Bad Pass,0,0
+261,241,PT11M34.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (7 STL),,,0,0
+262,242,PT11M29.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,50,31,81,h,Iverson Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,0
+263,243,PT11M10.00S,3,1610612753,ORL,98,Anderson,N. Anderson,175,186,26,Made,1,50,34,84,v,Anderson 26' 3PT Jump Shot (10 PTS) (D. Armstrong 1 AST),Made Shot,Jump Shot,0,0
+264,244,PT10M55.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+265,244,PT10M55.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson STEAL (1 STL),,,0,0
+266,245,PT10M53.00S,3,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,Snow P.FOUL (P2.T1),Foul,Personal,0,0
+267,246,PT10M41.00S,3,1610612753,ORL,353,Armstrong,D. Armstrong,-3,57,6,Missed,1,,,0,v,MISS D. Armstrong 6' Jump Shot,Missed Shot,Jump Shot,0,0
+268,246,PT10M41.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff BLOCK (2 BLK),,,0,0
+269,247,PT10M38.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+270,248,PT10M37.00S,3,1610612753,ORL,98,Anderson,N. Anderson,132,12,13,Missed,1,,,0,v,MISS Anderson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+271,249,PT10M36.00S,3,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+272,250,PT10M33.00S,3,1610612753,ORL,1134,Austin,I. Austin,46,23,5,Missed,1,,,0,v,MISS Austin 5' Jump Shot,Missed Shot,Jump Shot,0,0
+273,251,PT10M32.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+274,252,PT10M20.00S,3,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant S.FOUL (P2.T1),Foul,Shooting,0,0
+275,253,PT10M20.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+276,254,PT10M20.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Dead Ball Rebound,0,0
+277,255,PT10M20.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,51,34,85,h,Iverson Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+278,256,PT10M14.00S,3,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong Bad Pass Turnover (P8.T22),Turnover,Bad Pass,0,0
+279,256,PT10M14.00S,3,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger STEAL (2 STL),,,0,0
+280,257,PT10M05.00S,3,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant S.FOUL (P3.T2),Foul,Shooting,0,0
+281,258,PT10M05.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+282,259,PT10M05.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Dead Ball Rebound,0,0
+283,260,PT10M05.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,MISS Iverson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+284,261,PT10M03.00S,3,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+285,262,PT09M52.00S,3,1610612753,ORL,98,Anderson,N. Anderson,-147,40,15,Made,1,51,36,87,v,Anderson 15' Jump Shot (12 PTS) (D. Armstrong 2 AST),Made Shot,Jump Shot,0,0
+286,263,PT09M33.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,-141,5,14,Missed,1,,,0,h,MISS Ratliff 14' Jump Shot,Missed Shot,Jump Shot,0,0
+287,264,PT09M30.00S,3,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+288,265,PT09M17.00S,3,1610612753,ORL,98,Anderson,N. Anderson,-242,23,24,Made,1,51,39,90,v,Anderson 24' 3PT Jump Shot (15 PTS) (Austin 2 AST),Made Shot,Jump Shot,0,0
+289,266,PT08M50.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+290,267,PT08M28.00S,3,1610612753,ORL,1134,Austin,I. Austin,-12,33,4,Missed,1,,,0,v,MISS Austin 4' Jump Shot,Missed Shot,Jump Shot,0,0
+291,269,PT08M26.00S,3,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+292,268,PT08M26.00S,3,1610612753,ORL,270,Grant,H. Grant,-18,23,3,Missed,1,,,0,v,MISS Grant 3' Layup,Missed Shot,Layup Shot,0,0
+293,270,PT08M26.00S,3,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+294,271,PT08M26.00S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch P.FOUL (P1.T2),Foul,Personal,0,0
+295,272,PT08M26.00S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,SUB: Hughes FOR Lynch,Substitution,,0,0
+296,273,PT08M26.00S,3,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,SUB: Hill FOR Geiger,Substitution,,0,0
+297,274,PT08M19.00S,3,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin Bad Pass Turnover (P4.T23),Turnover,Bad Pass,0,0
+298,274,PT08M19.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (8 STL),,,0,0
+299,275,PT08M14.00S,3,1610612755,PHI,947,Iverson,A. Iverson,-25,33,4,Missed,1,,,0,h,MISS Iverson 4' Jump Shot,Missed Shot,Jump Shot,0,0
+300,277,PT08M12.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+301,276,PT08M12.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,Made,1,53,39,92,h,Hughes Dunk (8 PTS),Made Shot,Dunk Shot,0,0
+302,278,PT07M54.00S,3,1610612753,ORL,98,Anderson,N. Anderson,175,203,27,Missed,1,,,0,v,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+303,279,PT07M53.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+304,280,PT07M45.00S,3,1610612755,PHI,947,Iverson,A. Iverson,190,192,27,Missed,1,,,0,h,MISS Iverson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+305,281,PT07M43.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+306,282,PT07M34.00S,3,1610612755,PHI,947,Iverson,A. Iverson,31,12,3,Missed,1,,,0,h,MISS Iverson 3' Layup,Missed Shot,Layup Shot,0,0
+307,282,PT07M34.00S,3,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,Austin BLOCK (1 BLK),,,0,0
+308,284,PT07M30.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+309,283,PT07M30.00S,3,1610612755,PHI,947,Iverson,A. Iverson,10,23,3,Missed,1,,,0,h,MISS Iverson 3' Layup,Missed Shot,Layup Shot,0,0
+310,285,PT07M30.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+311,287,PT07M30.00S,3,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway S.FOUL (P2.T3),Foul,Shooting,0,0
+312,288,PT07M30.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,MISS Ratliff Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+313,290,PT07M30.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+314,289,PT07M30.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,54,39,93,h,Ratliff Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+315,292,PT07M22.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson Bad Pass Turnover (P2.T24),Turnover,Bad Pass,0,0
+316,292,PT07M22.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (9 STL),,,0,0
+317,293,PT07M20.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,56,39,95,h,Iverson Dunk (23 PTS),Made Shot,Dunk Shot,0,0
+318,294,PT07M09.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+319,296,PT07M00.00S,3,1610612753,ORL,358,Hardaway,A. Hardaway,-169,78,19,Made,1,56,41,97,v,Hardaway 19' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+320,297,PT06M44.00S,3,1610612755,PHI,727,Snow,E. Snow,-18,68,7,Made,1,58,41,99,h,Snow 7' Running Jump Shot (8 PTS),Made Shot,Running Jump Shot,0,0
+321,298,PT06M28.00S,3,1610612753,ORL,98,Anderson,N. Anderson,16,33,4,Missed,1,,,0,v,MISS Anderson 4' Jump Shot,Missed Shot,Jump Shot,0,0
+322,298,PT06M28.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill BLOCK (1 BLK),,,0,0
+323,299,PT06M25.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+324,300,PT06M20.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,Made,1,60,41,101,h,Hughes Dunk (10 PTS) (Snow 5 AST),Made Shot,Dunk Shot,0,0
+325,301,PT06M04.00S,3,1610612753,ORL,353,Armstrong,D. Armstrong,-46,173,18,Missed,1,,,0,v,MISS D. Armstrong 18' Jump Shot,Missed Shot,Jump Shot,0,0
+326,302,PT06M02.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+327,303,PT05M46.00S,3,1610612755,PHI,727,Snow,E. Snow,0,0,0,Made,1,62,41,103,h,Snow Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+328,304,PT05M26.00S,3,1610612753,ORL,1134,Austin,I. Austin,184,203,27,Missed,1,,,0,v,MISS Austin 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+329,305,PT05M23.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+330,306,PT05M09.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,Made,1,64,41,105,h,Hughes Dunk (12 PTS) (Snow 6 AST),Made Shot,Dunk Shot,0,0
+331,307,PT04M56.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+332,308,PT04M40.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes S.FOUL (P1.T3),Foul,Shooting,0,0
+333,309,PT04M40.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,64,42,106,v,Anderson Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+334,310,PT04M40.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,64,43,107,v,Anderson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+335,311,PT04M31.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0
+336,311,PT04M31.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson STEAL (2 STL),,,0,0
+337,312,PT04M18.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes S.FOUL (P2.T4),Foul,Shooting,0,0
+338,313,PT04M18.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,MISS Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+339,315,PT04M18.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Dead Ball Rebound,0,0
+340,316,PT04M18.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,64,44,108,v,Anderson Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+341,317,PT04M05.00S,3,1610612755,PHI,238,Hill,T. Hill,-156,5,16,Made,1,66,44,110,h,Hill 16' Jump Shot (7 PTS) (Hughes 2 AST),Made Shot,Jump Shot,0,0
+342,318,PT03M53.00S,3,1610612753,ORL,358,Hardaway,A. Hardaway,175,203,27,Made,1,66,47,113,v,Hardaway 27' 3PT Jump Shot (7 PTS) (D. Armstrong 3 AST),Made Shot,Jump Shot,0,0
+343,319,PT03M34.00S,3,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway P.FOUL (P3.T4),Foul,Personal,0,0
+344,320,PT03M34.00S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,SUB: McKie FOR Hughes,Substitution,,0,0
+345,321,PT03M34.00S,3,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,,,0,v,SUB: Outlaw FOR Grant,Substitution,,0,0
+346,322,PT03M34.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+347,324,PT03M19.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,162,57,17,Missed,1,,,0,h,MISS Ratliff 17' Jump Shot,Missed Shot,Jump Shot,0,0
+348,326,PT03M15.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+349,325,PT03M15.00S,3,1610612755,PHI,243,McKie,A. McKie,-3,46,5,Missed,1,,,0,h,MISS McKie 5' Jump Shot,Missed Shot,Jump Shot,0,0
+350,327,PT03M13.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+351,328,PT03M01.00S,3,1610612753,ORL,358,Hardaway,A. Hardaway,138,46,15,Missed,1,,,0,v,MISS Hardaway 15' Jump Shot,Missed Shot,Jump Shot,0,0
+352,329,PT03M00.00S,3,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,Snow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+353,330,PT02M53.00S,3,1610612755,PHI,947,Iverson,A. Iverson,-12,40,4,Missed,1,,,0,h,MISS Iverson 4' Jump Shot,Missed Shot,Jump Shot,0,0
+354,331,PT02M52.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+355,332,PT02M52.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Jump Ball Ratliff vs. Hardaway: Tip to Outlaw,Jump Ball,,0,0
+356,334,PT02M52.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0
+357,334,PT02M52.00S,3,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway STEAL (2 STL),,,0,0
+358,333,PT02M52.00S,3,1610612753,ORL,1134,Austin,I. Austin,0,0,0,,0,,,0,v,SUB: Schayes FOR Austin,Substitution,,0,0
+359,335,PT02M48.00S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson Traveling Turnover (P3.T25),Turnover,Traveling,0,0
+360,337,PT02M36.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,Made,1,68,47,115,h,Hill Dunk (9 PTS) (McKie 2 AST),Made Shot,Dunk Shot,0,0
+361,338,PT02M22.00S,3,1610612753,ORL,448,Outlaw,B. Outlaw,40,16,4,Made,1,68,49,117,v,Outlaw 4' Jump Shot (4 PTS) (Hardaway 4 AST),Made Shot,Jump Shot,0,0
+362,339,PT02M22.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff S.FOUL (P2.PN),Foul,Shooting,0,0
+363,340,PT02M22.00S,3,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,68,50,118,v,Outlaw Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+364,341,PT02M22.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,SUB: Lynch FOR Ratliff,Substitution,,0,0
+365,343,PT02M05.00S,3,1610612755,PHI,947,Iverson,A. Iverson,-162,218,27,Made,1,71,50,121,h,Iverson 27' 3PT Jump Shot (26 PTS),Made Shot,Jump Shot,0,0
+366,344,PT01M50.00S,3,1610612753,ORL,98,Anderson,N. Anderson,-184,113,22,Made,1,71,52,123,v,Anderson 22' Jump Shot (20 PTS) (D. Armstrong 4 AST),Made Shot,Jump Shot,0,0
+367,345,PT01M30.00S,3,1610612755,PHI,727,Snow,E. Snow,-162,33,17,Missed,1,,,0,h,MISS Snow 17' Jump Shot,Missed Shot,Jump Shot,0,0
+368,346,PT01M28.00S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+369,347,PT01M26.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+370,348,PT01M08.00S,3,1610612755,PHI,947,Iverson,A. Iverson,102,61,12,Made,1,73,52,125,h,Iverson 12' Running Jump Shot (28 PTS),Made Shot,Running Jump Shot,0,0
+371,349,PT00M49.10S,3,1610612753,ORL,358,Hardaway,A. Hardaway,218,130,25,Made,1,73,55,128,v,Hardaway 25' 3PT Jump Shot (10 PTS) (D. Armstrong 5 AST),Made Shot,Jump Shot,0,0
+372,350,PT00M30.60S,3,1610612755,PHI,243,McKie,A. McKie,-18,96,10,Missed,1,,,0,h,MISS McKie 10' Jump Shot,Missed Shot,Jump Shot,0,0
+373,351,PT00M28.40S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+374,352,PT00M18.70S,3,1610612755,PHI,947,Iverson,A. Iverson,162,89,18,Missed,1,,,0,h,MISS Iverson 18' Jump Shot,Missed Shot,Jump Shot,0,0
+375,353,PT00M16.50S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+376,354,PT00M16.20S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson P.FOUL (P1.PN),Foul,Personal,0,0
+377,355,PT00M16.20S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,74,55,129,h,Lynch Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+378,356,PT00M16.20S,3,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,SUB: Harpring FOR Anderson,Substitution,,0,0
+379,357,PT00M16.20S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,SUB: Hughes FOR Iverson,Substitution,,0,0
+380,358,PT00M16.20S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,75,55,130,h,Lynch Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+381,359,PT00M09.00S,3,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong Lost Ball Turnover (P9.T26),Turnover,Lost Ball,0,0
+382,359,PT00M09.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie STEAL (2 STL),,,0,0
+383,360,PT00M03.10S,3,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0
+384,361,PT00M00.00S,3,1610612753,ORL,358,Hardaway,A. Hardaway,-169,308,35,Missed,1,,,0,v,MISS Hardaway 35' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+385,362,PT00M00.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+386,363,PT00M00.00S,3,0,,0,,,0,0,0,,0,75,55,130,,End of 3rd Period (12:29 PM EST),period,end,0,0
+387,364,PT12M00.00S,4,0,,0,,,0,0,0,,0,75,55,130,,Start of 4th Period (12:31 PM EST),period,start,0,0
+388,365,PT11M51.00S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie P.FOUL (P3.T1),Foul,Personal,0,0
+389,366,PT11M32.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,169,231,29,Missed,1,,,0,v,MISS D. Armstrong 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+390,367,PT11M31.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,Snow REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+391,368,PT11M30.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong P.FOUL (P2.T1),Foul,Personal,0,0
+392,369,PT11M15.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill OFF.Foul (P2),Foul,Offensive,0,0
+393,370,PT11M15.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill Foul Turnover (P1.T9),Turnover,Foul,0,0
+394,371,PT11M01.00S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie S.FOUL (P4.T2),Foul,Shooting,0,0
+395,372,PT11M01.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,75,56,131,v,Harpring Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+396,373,PT11M01.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,SUB: Iverson FOR Snow,Substitution,,0,0
+397,374,PT11M01.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,75,57,132,v,Harpring Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+398,375,PT10M43.00S,4,1610612755,PHI,248,Lynch,G. Lynch,-147,-3,15,Made,1,77,57,134,h,Lynch 15' Jump Shot (12 PTS) (McKie 3 AST),Made Shot,Jump Shot,0,0
+399,376,PT10M28.00S,4,1610612753,ORL,7,Schayes,D. Schayes,-147,27,15,Missed,1,,,0,v,MISS Schayes 15' Jump Shot,Missed Shot,Jump Shot,0,0
+400,377,PT10M26.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+401,378,PT10M05.00S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0
+402,378,PT10M05.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong STEAL (2 STL),,,0,0
+403,379,PT10M02.00S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes S.FOUL (P3.T3),Foul,Shooting,0,0
+404,380,PT10M02.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,77,58,135,v,Harpring Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+405,381,PT10M02.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,77,59,136,v,Harpring Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+406,382,PT09M44.00S,4,1610612755,PHI,248,Lynch,G. Lynch,-40,27,5,Missed,1,,,0,h,MISS Lynch 5' Jump Shot,Missed Shot,Jump Shot,0,0
+407,382,PT09M44.00S,4,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw BLOCK (3 BLK),,,0,0
+408,383,PT09M43.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+409,384,PT09M38.00S,4,1610612755,PHI,1716,Hughes,L. Hughes,-134,89,16,Missed,1,,,0,h,MISS Hughes 16' Jump Shot,Missed Shot,Jump Shot,0,0
+410,385,PT09M35.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+411,386,PT09M34.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch P.FOUL (P2.T4),Foul,Personal,0,0
+412,387,PT09M34.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+413,388,PT09M34.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,SUB: Geiger FOR Hill,Substitution,,0,0
+414,389,PT09M17.00S,4,1610612753,ORL,358,Hardaway,A. Hardaway,196,186,27,Made,1,77,62,139,v,Hardaway 27' 3PT Jump Shot (13 PTS) (D. Armstrong 6 AST),Made Shot,Jump Shot,0,0
+415,390,PT08M57.00S,4,1610612755,PHI,243,McKie,A. McKie,-3,192,19,Made,1,79,62,141,h,McKie 19' Jump Shot (2 PTS) (Iverson 3 AST),Made Shot,Jump Shot,0,0
+416,391,PT08M53.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch P.FOUL (P3.PN),Foul,Personal,0,0
+417,392,PT08M53.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,79,63,142,v,D. Armstrong Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+418,393,PT08M53.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,79,64,143,v,D. Armstrong Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+419,394,PT08M40.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-177,46,18,Made,1,81,64,145,h,Iverson 18' Jump Shot (30 PTS) (McKie 4 AST),Made Shot,Jump Shot,0,0
+420,395,PT08M21.00S,4,1610612753,ORL,358,Hardaway,A. Hardaway,190,46,20,Missed,1,,,0,v,MISS Hardaway 20' Jump Shot,Missed Shot,Jump Shot,0,0
+421,396,PT08M19.00S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+422,397,PT08M18.00S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes Lost Ball Turnover (P4.T11),Turnover,Lost Ball,0,0
+423,397,PT08M18.00S,4,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway STEAL (3 STL),,,0,0
+424,398,PT08M15.00S,4,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,Made,1,81,66,147,v,Hardaway Layup (15 PTS),Made Shot,Layup Shot,0,0
+425,399,PT07M52.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-68,276,28,Missed,1,,,0,h,MISS Iverson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+426,400,PT07M51.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:4 Def:5),Rebound,Unknown,0,0
+427,401,PT07M34.00S,4,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw Lost Ball Turnover (P3.T27),Turnover,Lost Ball,0,0
+428,401,PT07M34.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (10 STL),,,0,0
+429,402,PT07M24.00S,4,1610612755,PHI,248,Lynch,G. Lynch,-156,1,16,Made,1,83,66,149,h,Lynch 16' Jump Shot (14 PTS) (McKie 5 AST),Made Shot,Jump Shot,0,0
+430,403,PT07M05.00S,4,1610612753,ORL,358,Hardaway,A. Hardaway,117,51,13,Missed,1,,,0,v,MISS Hardaway 13' Jump Shot,Missed Shot,Jump Shot,0,0
+431,404,PT07M04.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+432,405,PT06M51.00S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes Bad Pass Turnover (P5.T12),Turnover,Bad Pass,0,0
+433,405,PT06M51.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,D. Armstrong STEAL (3 STL),,,0,0
+434,406,PT06M47.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,Made,1,83,68,151,v,Harpring Driving Layup (9 PTS) (D. Armstrong 7 AST),Made Shot,Driving Layup Shot,0,0
+435,407,PT06M47.00S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes S.FOUL (P4.PN),Foul,Shooting,0,0
+436,408,PT06M47.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 5 Short 2),Timeout,Regular,0,0
+437,409,PT06M47.00S,4,1610612753,ORL,7,Schayes,D. Schayes,0,0,0,,0,,,0,v,SUB: Doleac FOR Schayes,Substitution,,0,0
+438,410,PT06M47.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,SUB: Hill FOR Lynch,Substitution,,0,0
+439,411,PT06M47.00S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,SUB: Snow FOR McKie,Substitution,,0,0
+440,412,PT06M47.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,83,69,152,v,Harpring Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0
+441,414,PT06M25.00S,4,1610612755,PHI,761,Geiger,M. Geiger,-141,46,15,Made,1,85,69,154,h,Geiger 15' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+442,415,PT06M09.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,Made,1,85,71,156,v,D. Armstrong Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,0
+443,416,PT05M57.00S,4,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw P.FOUL (P1.T2),Foul,Personal,0,0
+444,417,PT05M57.00S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,SUB: McKie FOR Hughes,Substitution,,0,0
+445,418,PT05M51.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring P.FOUL (P2.T3),Foul,Personal,0,0
+446,419,PT05M27.00S,4,1610612755,PHI,727,Snow,E. Snow,-126,57,14,Missed,1,,,0,h,MISS Snow 14' Jump Shot,Missed Shot,Jump Shot,0,0
+447,420,PT05M26.00S,4,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,Outlaw REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+448,421,PT05M13.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill S.FOUL (P3.PN),Foul,Shooting,0,0
+449,422,PT05M13.00S,4,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,85,72,157,v,Doleac Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+450,423,PT05M13.00S,4,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,MISS Doleac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+451,424,PT05M12.00S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+452,425,PT04M58.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,Made,1,87,72,159,h,Hill Dunk (11 PTS) (Snow 7 AST),Made Shot,Dunk Shot,0,0
+453,426,PT04M39.00S,4,1610612753,ORL,1720,Doleac,M. Doleac,1,27,3,Missed,1,,,0,v,MISS Doleac 3' Layup,Missed Shot,Layup Shot,0,0
+454,426,PT04M39.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger BLOCK (1 BLK),,,0,0
+455,427,PT04M38.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+456,428,PT04M17.00S,4,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,Doleac S.FOUL (P3.T4),Foul,Shooting,0,0
+457,429,PT04M17.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,,,0,h,MISS Snow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+458,431,PT04M17.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Dead Ball Rebound,0,0
+459,430,PT04M17.00S,4,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,SUB: Anderson FOR Doleac,Substitution,,0,0
+460,432,PT04M17.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,88,72,160,h,Snow Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+461,433,PT04M17.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,SUB: Lynch FOR Geiger,Substitution,,0,0
+462,435,PT04M04.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill P.FOUL (P4.PN),Foul,Personal,0,0
+463,436,PT04M04.00S,4,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,88,73,161,v,Outlaw Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+464,437,PT04M04.00S,4,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,MISS Outlaw Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+465,438,PT04M03.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+466,439,PT03M42.00S,4,1610612755,PHI,248,Lynch,G. Lynch,102,23,10,Missed,1,,,0,h,MISS Lynch 10' Jump Shot,Missed Shot,Jump Shot,0,0
+467,440,PT03M40.00S,4,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+468,441,PT03M33.00S,4,1610612753,ORL,98,Anderson,N. Anderson,132,203,24,Made,1,88,76,164,v,Anderson 24' 3PT Jump Shot (23 PTS) (Hardaway 5 AST),Made Shot,Jump Shot,0,0
+469,442,PT03M12.00S,4,1610612755,PHI,727,Snow,E. Snow,46,46,7,Missed,1,,,0,h,MISS Snow 7' Jump Shot,Missed Shot,Jump Shot,0,0
+470,443,PT03M11.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+471,444,PT02M59.00S,4,1610612755,PHI,727,Snow,E. Snow,-141,33,14,Made,1,90,76,166,h,Snow 14' Jump Shot (13 PTS) (Iverson 4 AST),Made Shot,Jump Shot,0,0
+472,445,PT02M50.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+473,446,PT02M45.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,53,33,6,Missed,1,,,0,v,MISS D. Armstrong 6' Jump Shot,Missed Shot,Jump Shot,0,0
+474,446,PT02M45.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson BLOCK (2 BLK),,,0,0
+475,447,PT02M45.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0
+476,448,PT02M44.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill S.FOUL (P5.PN),Foul,Shooting,0,0
+477,449,PT02M44.00S,4,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,,,0,v,MISS Outlaw Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+478,451,PT02M44.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Dead Ball Rebound,0,0
+479,450,PT02M44.00S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,SUB: Hughes FOR McKie,Substitution,,0,0
+480,452,PT02M44.00S,4,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,90,77,167,v,Outlaw Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+481,453,PT02M26.00S,4,1610612755,PHI,1716,Hughes,L. Hughes,59,51,8,Missed,1,,,0,h,MISS Hughes 8' Jump Shot,Missed Shot,Jump Shot,0,0
+482,454,PT02M25.00S,4,1610612753,ORL,98,Anderson,N. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+483,455,PT02M19.00S,4,1610612753,ORL,98,Anderson,N. Anderson,-12,287,29,Missed,1,,,0,v,MISS Anderson 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+484,456,PT02M17.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+485,457,PT02M13.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,Made,1,92,77,169,h,Lynch Layup (16 PTS) (Iverson 5 AST),Made Shot,Layup Shot,0,0
+486,458,PT02M13.00S,4,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,Hardaway S.FOUL (P4.PN),Foul,Shooting,0,0
+487,459,PT02M13.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,93,77,170,h,Lynch Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0
+488,460,PT01M59.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,Made,1,93,79,172,v,D. Armstrong Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,0
+489,461,PT01M34.00S,4,1610612755,PHI,238,Hill,T. Hill,-177,40,18,Missed,1,,,0,h,MISS Hill 18' Jump Shot,Missed Shot,Jump Shot,0,0
+490,462,PT01M33.00S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring REBOUND (Off:4 Def:6),Rebound,Unknown,0,0
+491,463,PT01M26.00S,4,1610612753,ORL,358,Hardaway,A. Hardaway,190,203,28,Made,1,93,82,175,v,Hardaway 28' 3PT Jump Shot (18 PTS) (Harpring 3 AST),Made Shot,Jump Shot,0,0
+492,464,PT01M13.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-190,186,27,Made,1,96,82,178,h,Iverson 27' 3PT Jump Shot (33 PTS) (Snow 8 AST),Made Shot,Jump Shot,0,0
+493,465,PT01M03.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch S.FOUL (P4.PN),Foul,Shooting,0,0
+494,466,PT01M03.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,SUB: Mahorn FOR Hill,Substitution,,0,0
+495,467,PT01M03.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,SUB: Honeycutt FOR Lynch,Substitution,,0,0
+496,469,PT01M03.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,96,83,179,v,D. Armstrong Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+497,470,PT01M03.00S,4,1610612753,ORL,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,v,SUB: B. Armstrong FOR Hardaway,Substitution,,0,0
+498,471,PT01M03.00S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,96,84,180,v,D. Armstrong Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+499,472,PT00M56.70S,4,1610612753,ORL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,SUB: Doleac FOR D. Armstrong,Substitution,,0,0
+500,473,PT00M56.70S,4,1610612753,ORL,1723,Harpring,M. Harpring,0,0,0,,0,,,0,v,Harpring P.FOUL (P3.PN),Foul,Personal,0,0
+501,474,PT00M56.70S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,MISS Hughes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+502,475,PT00M56.70S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Dead Ball Rebound,0,0
+503,476,PT00M56.70S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,SUB: Mohammed FOR Iverson,Substitution,,0,0
+504,477,PT00M56.70S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,97,84,181,h,Hughes Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+505,478,PT00M47.90S,4,1610612753,ORL,98,Anderson,N. Anderson,-220,134,26,Missed,1,,,0,v,MISS Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+506,479,PT00M46.30S,4,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,Doleac REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+507,480,PT00M42.30S,4,1610612753,ORL,1723,Harpring,M. Harpring,-177,27,18,Missed,1,,,0,v,MISS Harpring 18' Jump Shot,Missed Shot,Jump Shot,0,0
+508,481,PT00M40.10S,4,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,Doleac REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+509,482,PT00M38.00S,4,1610612753,ORL,98,Anderson,N. Anderson,132,235,27,Missed,1,,,0,v,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+510,483,PT00M35.80S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+511,484,PT00M16.20S,4,1610612755,PHI,328,Mahorn,R. Mahorn,-134,61,15,Missed,1,,,0,h,MISS Mahorn 15' Jump Shot,Missed Shot,Jump Shot,0,0
+512,485,PT00M15.70S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0
+513,486,PT00M10.10S,4,1610612755,PHI,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,h,Mahorn S.FOUL (P1.PN),Foul,Shooting,0,0
+514,487,PT00M10.10S,4,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,97,85,182,v,Doleac Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+515,488,PT00M10.10S,4,1610612753,ORL,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,MISS Doleac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+516,489,PT00M08.60S,4,1610612755,PHI,1716,Hughes,L. Hughes,0,0,0,,0,,,0,h,Hughes REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+517,490,PT00M00.00S,4,0,,0,,,0,0,0,,0,97,85,182,,End of 4th Period (1:03 PM EST),period,end,0,0

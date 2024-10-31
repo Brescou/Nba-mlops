@@ -1,0 +1,456 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:43 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Jump Ball Foyle vs. Curry: Tip to Marbury,Jump Ball,,0,0
+3,2,PT11M46.00S,1,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+4,2,PT11M46.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy STEAL (1 STL),,,0,0
+5,9,PT11M33.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,-163,34,17,Missed,1,0,0,0,h,MISS Dunleavy 17' Jump Shot,Missed Shot,Jump Shot,0,0
+6,3,PT11M31.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+7,4,PT11M11.00S,1,1610612752,NYK,950,Marbury,S. Marbury,-146,7,15,Made,1,0,2,2,v,Marbury 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+8,5,PT11M00.00S,1,1610612744,GSW,1884,Davis,B. Davis,-138,12,14,Missed,1,0,0,0,h,MISS Davis 14' Jump Shot,Missed Shot,Jump Shot,0,0
+9,6,PT10M57.00S,1,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,7,PT10M46.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,159,2,16,Made,1,0,4,4,v,Richardson 16' Jump Shot (2 PTS) (Marbury 1 AST),Made Shot,Jump Shot,0,0
+11,8,PT10M35.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry S.FOUL (P1.T1),Foul,Shooting,0,0
+12,10,PT10M35.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,1,4,5,h,Dunleavy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+13,11,PT10M35.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,2,4,6,h,Dunleavy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+14,13,PT10M23.00S,1,1610612752,NYK,950,Marbury,S. Marbury,-126,219,25,Missed,1,0,0,0,v,MISS Marbury 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+15,14,PT10M19.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+16,15,PT10M08.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy OFF.Foul (P1),Foul,Offensive,0,0
+17,16,PT10M08.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy Foul Turnover (P1.T1),Turnover,Foul,0,0
+18,18,PT09M56.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,-136,118,18,Made,1,2,6,8,v,Richardson 18' Jump Shot (4 PTS) (Crawford 1 AST),Made Shot,Jump Shot,0,0
+19,19,PT09M44.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,126,151,20,Missed,1,0,0,0,h,MISS Richardson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+20,20,PT09M41.00S,1,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+21,21,PT09M35.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson S.FOUL (P1.T1),Foul,Shooting,0,0
+22,22,PT09M35.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,2,7,9,v,Curry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+23,23,PT09M35.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,2,8,10,v,Curry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+24,24,PT09M23.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,228,5,0,Made,1,5,8,13,h,Murphy  3PT Jump Shot (3 PTS) (Davis 1 AST),Made Shot,Jump Shot,0,0
+25,25,PT09M09.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy S.FOUL (P2.T2),Foul,Shooting,0,0
+26,29,PT09M09.00S,1,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,MISS Marbury Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+27,31,PT09M09.00S,1,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+28,30,PT09M09.00S,1,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,MISS Marbury Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+29,32,PT09M08.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+30,33,PT08M56.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,-233,8,0,Missed,1,0,0,0,h,MISS Richardson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+31,34,PT08M53.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+32,36,PT08M41.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy OFF.Foul (P1),Foul,Offensive,0,0
+33,37,PT08M41.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy Foul Turnover (P1.T2),Turnover,Foul,0,0
+34,38,PT08M41.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy T.FOUL (P1.T2),Foul,Technical,0,0
+35,39,PT08M41.00S,1,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,5,9,14,v,Crawford Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+36,45,PT08M41.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Dunleavy,Substitution,,0,0
+37,41,PT08M28.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,-29,38,5,Missed,1,0,0,0,v,MISS Richardson 5' Jump Shot,Missed Shot,Jump Shot,0,0
+38,41,PT08M28.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle BLOCK (1 BLK),,,0,0
+39,42,PT08M25.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+40,43,PT08M23.00S,1,1610612744,GSW,1884,Davis,B. Davis,-5,260,26,Missed,1,0,0,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+41,44,PT08M20.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+42,46,PT08M12.00S,1,1610612752,NYK,950,Marbury,S. Marbury,47,30,6,Made,1,5,11,16,v,Marbury 6' Jump Shot (4 PTS) (Curry 1 AST),Made Shot,Jump Shot,0,0
+43,47,PT08M02.00S,1,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford P.FOUL (P1.T2),Foul,Personal,0,0
+44,48,PT07M51.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,-20,23,3,Made,1,7,11,18,h,Foyle 3' Hook Shot (2 PTS) (Davis 2 AST),Made Shot,Hook Shot,0,0
+45,50,PT07M28.00S,1,1610612752,NYK,950,Marbury,S. Marbury,24,43,5,Made,1,7,13,20,v,Marbury 5' Running Jump Shot (6 PTS),Made Shot,Running Jump Shot,0,0
+46,52,PT07M13.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,38,250,25,Missed,1,0,0,0,h,MISS Murphy 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+47,53,PT07M10.00S,1,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+48,55,PT06M55.00S,1,1610612752,NYK,950,Marbury,S. Marbury,123,122,17,Missed,1,0,0,0,v,MISS Marbury 17' Jump Shot,Missed Shot,Jump Shot,0,0
+49,56,PT06M53.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+50,57,PT06M45.00S,1,1610612744,GSW,1884,Davis,B. Davis,-46,257,26,Missed,1,0,0,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+51,58,PT06M43.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+52,59,PT06M35.00S,1,1610612752,NYK,2201,Curry,E. Curry,10,8,1,Made,1,7,15,22,v,Curry 1' Driving Layup (4 PTS) (Crawford 2 AST),Made Shot,Driving Layup Shot,0,0
+53,60,PT06M35.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle S.FOUL (P1.T3),Foul,Shooting,0,0
+54,61,PT06M35.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,7,16,23,v,Curry Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+55,63,PT06M24.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,153,89,18,Made,1,9,16,25,h,Richardson 18' Jump Shot (2 PTS) (Pietrus 1 AST),Made Shot,Jump Shot,0,0
+56,64,PT06M07.00S,1,1610612752,NYK,2037,Crawford,J. Crawford,223,110,25,Missed,1,0,0,0,v,MISS Crawford 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+57,65,PT06M04.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+58,66,PT06M00.00S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,-6,5,1,Made,1,11,16,27,h,Pietrus 1' Slam Dunk (2 PTS) (Davis 3 AST),Made Shot,Slam Dunk Shot,0,0
+59,67,PT05M39.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,215,127,25,Missed,1,0,0,0,v,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+60,68,PT05M36.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+61,69,PT05M32.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis S.FOUL (P1.T4),Foul,Shooting,0,0
+62,70,PT05M32.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+63,72,PT05M32.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,MISS Curry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+64,73,PT05M32.00S,1,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+65,74,PT05M32.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,11,17,28,v,Curry Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+66,75,PT05M16.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+67,75,PT05M16.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson STEAL (1 STL),,,0,0
+68,76,PT04M52.00S,1,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0
+69,77,PT04M42.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry P.FOUL (P2.T3),Foul,Personal,0,0
+70,78,PT04M42.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,SUB: Taft FOR Foyle,Substitution,,0,0
+71,79,PT04M42.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,SUB: Frye FOR Curry,Substitution,,0,0
+72,80,PT04M36.00S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,108,191,22,Missed,1,0,0,0,h,MISS Pietrus 22' Jump Shot,Missed Shot,Jump Shot,0,0
+73,81,PT04M32.00S,1,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+74,82,PT04M13.00S,1,1610612752,NYK,213,Davis,A. Davis,-164,5,16,Made,1,11,19,30,v,Davis 16' Jump Shot (2 PTS) (Crawford 3 AST),Made Shot,Jump Shot,0,0
+75,83,PT03M57.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,2,0,Missed,1,0,0,0,h,MISS Richardson  Dunk,Missed Shot,Dunk Shot,0,0
+76,85,PT03M55.00S,1,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,Taft REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+77,84,PT03M55.00S,1,1610612744,GSW,101147,Taft,C. Taft,-2,20,2,Missed,1,0,0,0,h,MISS Taft 2' Tip Shot,Missed Shot,Tip Shot,0,0
+78,86,PT03M52.00S,1,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,Marbury REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+79,87,PT03M44.00S,1,1610612752,NYK,101112,Frye,C. Frye,-23,20,3,Made,1,11,21,32,v,Frye 3' Layup (2 PTS) (Crawford 4 AST),Made Shot,Layup Shot,0,0
+80,88,PT03M28.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,10,253,25,Missed,1,0,0,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+81,89,PT03M26.00S,1,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+82,90,PT03M16.00S,1,1610612752,NYK,101112,Frye,C. Frye,143,86,17,Missed,1,0,0,0,v,MISS Frye 17' Jump Shot,Missed Shot,Jump Shot,0,0
+83,91,PT03M13.00S,1,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,Taft REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+84,92,PT03M06.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,-205,140,25,Made,1,14,21,35,h,Richardson 25' 3PT Jump Shot (5 PTS) (Davis 4 AST),Made Shot,Jump Shot,0,0
+85,93,PT02M57.00S,1,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+86,95,PT02M57.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,SUB: Fisher FOR Richardson,Substitution,,0,0
+87,97,PT02M57.00S,1,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Hardaway FOR Crawford,Substitution,,0,0
+88,96,PT02M57.00S,1,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,SUB: Taylor FOR Davis,Substitution,,0,0
+89,98,PT02M51.00S,1,1610612752,NYK,950,Marbury,S. Marbury,-103,143,18,Made,1,14,23,37,v,Marbury 18' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+90,99,PT02M28.00S,1,1610612744,GSW,1884,Davis,B. Davis,-31,248,25,Missed,1,0,0,0,h,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+91,100,PT02M25.00S,1,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,Taft REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+92,101,PT02M24.00S,1,1610612744,GSW,101147,Taft,C. Taft,-13,10,2,Missed,1,0,0,0,h,MISS Taft 2' Layup,Missed Shot,Layup Shot,0,0
+93,102,PT02M22.00S,1,1610612752,NYK,1508,Taylor,M. Taylor,0,0,0,,0,0,0,0,v,Taylor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+94,103,PT02M16.00S,1,1610612752,NYK,101112,Frye,C. Frye,33,25,4,Missed,1,0,0,0,v,MISS Frye 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+95,104,PT02M14.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+96,105,PT01M58.00S,1,1610612744,GSW,101147,Taft,C. Taft,-16,10,2,Made,1,16,23,39,h,Taft 2' Layup (2 PTS) (Davis 5 AST),Made Shot,Layup Shot,0,0
+97,106,PT01M37.00S,1,1610612752,NYK,1508,Taylor,M. Taylor,-100,17,10,Made,1,16,25,41,v,Taylor 10' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,0
+98,107,PT01M16.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+99,107,PT01M16.00S,1,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye STEAL (1 STL),,,0,0
+100,108,PT01M02.00S,1,1610612752,NYK,950,Marbury,S. Marbury,1,5,1,Made,1,16,27,43,v,Marbury 1' Reverse Layup (10 PTS),Made Shot,Reverse Layup Shot,0,0
+101,109,PT00M50.90S,1,1610612744,GSW,965,Fisher,D. Fisher,238,-11,24,Missed,1,0,0,0,h,MISS Fisher 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+102,110,PT00M48.90S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+103,111,PT00M37.30S,1,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,SUB: Ariza FOR Marbury,Substitution,,0,0
+104,112,PT00M37.30S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Richardson,Substitution,,0,0
+105,113,PT00M30.80S,1,1610612752,NYK,101112,Frye,C. Frye,112,151,19,Missed,1,0,0,0,v,MISS Frye 19' Jump Shot,Missed Shot,Jump Shot,0,0
+106,114,PT00M27.80S,1,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+107,115,PT00M05.90S,1,1610612752,NYK,358,Hardaway,A. Hardaway,102,140,17,Missed,1,0,0,0,v,MISS Hardaway 17' Jump Shot,Missed Shot,Jump Shot,0,0
+108,116,PT00M02.90S,1,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,Taft REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+109,117,PT00M01.40S,1,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,Hardaway S.FOUL (P1.T4),Foul,Shooting,0,0
+110,118,PT00M01.40S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,MISS Pietrus Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+111,119,PT00M01.40S,1,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+112,120,PT00M01.40S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,17,27,44,h,Pietrus Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+113,121,PT00M00.00S,1,0,,0,,,0,0,0,,0,17,27,44,,End of 1st Period (11:07 PM EST),period,end,0,0
+114,124,PT12M00.00S,2,0,,0,,,0,0,0,,0,17,27,44,,Start of 2nd Period (11:10 PM EST),period,start,0,0
+115,125,PT11M41.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0
+116,125,PT11M41.00S,2,1610612752,NYK,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza STEAL (1 STL),,,0,0
+117,126,PT11M35.00S,2,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,Hardaway Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+118,127,PT11M23.00S,2,1610612752,NYK,1508,Taylor,M. Taylor,0,0,0,,0,0,0,0,v,Taylor S.FOUL (P1.T1),Foul,Shooting,0,0
+119,128,PT11M23.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,18,27,45,h,Murphy Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+120,129,PT11M23.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,19,27,46,h,Murphy Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+121,131,PT11M11.00S,2,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+122,132,PT10M58.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,228,-6,0,Missed,1,0,0,0,h,MISS Pietrus  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+123,133,PT10M56.00S,2,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,Taft REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+124,134,PT10M54.00S,2,1610612744,GSW,101147,Taft,C. Taft,-28,25,4,Missed,1,0,0,0,h,MISS Taft 4' Jump Shot,Missed Shot,Jump Shot,0,0
+125,135,PT10M52.00S,2,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,Hardaway REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+126,136,PT10M51.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson Violation:Kicked Ball,Violation,Kicked Ball,0,0
+127,137,PT10M51.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,SUB: Cabarkapa FOR Murphy,Substitution,,0,0
+128,138,PT10M51.00S,2,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,SUB: Foyle FOR Taft,Substitution,,0,0
+129,139,PT10M45.00S,2,1610612752,NYK,1508,Taylor,M. Taylor,131,150,20,Made,1,19,29,48,v,Taylor 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+130,140,PT10M29.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,16,38,4,Missed,1,0,0,0,h,MISS Foyle 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+131,141,PT10M27.00S,2,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+132,142,PT10M10.00S,2,1610612752,NYK,101112,Frye,C. Frye,29,20,4,Made,1,19,31,50,v,Frye 4' Turnaround Jump Shot (4 PTS) (Taylor 1 AST),Made Shot,Turnaround Jump Shot,0,0
+133,143,PT09M58.00S,2,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye P.FOUL (P1.T2),Foul,Personal,0,0
+134,144,PT09M58.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,MISS Foyle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+135,145,PT09M58.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+136,146,PT09M58.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,SUB: Dunleavy FOR Pietrus,Substitution,,0,0
+137,147,PT09M58.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,20,31,51,h,Foyle Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+138,148,PT09M40.00S,2,1610612752,NYK,2037,Crawford,J. Crawford,141,102,17,Made,1,20,33,53,v,Crawford 17' Running Jump Shot (3 PTS),Made Shot,Running Jump Shot,0,0
+139,149,PT09M25.00S,2,1610612744,GSW,965,Fisher,D. Fisher,-237,-16,24,Missed,1,0,0,0,h,MISS Fisher 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+140,150,PT09M22.00S,2,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,Hardaway REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+141,151,PT09M05.00S,2,1610612752,NYK,1508,Taylor,M. Taylor,0,0,0,,0,0,0,0,v,Taylor Poss Lost Ball Turnover (P1.T5),Turnover,Poss Lost Ball Turnover,0,0
+142,152,PT08M49.00S,2,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye S.FOUL (P2.T3),Foul,Shooting,0,0
+143,153,PT08M49.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+144,155,PT08M49.00S,2,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Rose FOR Crawford,Substitution,,0,0
+145,156,PT08M49.00S,2,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,SUB: Marbury FOR Frye,Substitution,,0,0
+146,157,PT08M49.00S,2,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,21,33,54,h,Cabarkapa Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+147,158,PT08M49.00S,2,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,22,33,55,h,Cabarkapa Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+148,159,PT08M35.00S,2,1610612752,NYK,2772,Ariza,T. Ariza,-29,26,4,Missed,1,0,0,0,v,MISS Ariza 4' Jump Shot,Missed Shot,Jump Shot,0,0
+149,160,PT08M30.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+150,161,PT08M27.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,-26,43,5,Missed,1,0,0,0,h,MISS Foyle 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+151,161,PT08M27.00S,2,1610612752,NYK,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza BLOCK (1 BLK),,,0,0
+152,162,PT08M24.00S,2,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,Marbury REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+153,163,PT08M19.00S,2,1610612752,NYK,950,Marbury,S. Marbury,138,20,14,Made,1,22,35,57,v,Marbury 14' Jump Shot (12 PTS) (Rose 1 AST),Made Shot,Jump Shot,0,0
+154,164,PT08M01.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,-136,133,19,Missed,1,0,0,0,h,MISS Dunleavy 19' Jump Shot,Missed Shot,Jump Shot,0,0
+155,165,PT07M58.00S,2,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,Hardaway REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+156,166,PT07M44.00S,2,1610612752,NYK,2772,Ariza,T. Ariza,-25,26,4,Missed,1,0,0,0,v,MISS Ariza 4' Jump Shot,Missed Shot,Jump Shot,0,0
+157,167,PT07M42.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+158,168,PT07M38.00S,2,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,-16,15,2,Made,1,24,35,59,h,Cabarkapa 2' Driving Layup (4 PTS) (Richardson 1 AST),Made Shot,Driving Layup Shot,0,0
+159,169,PT07M17.00S,2,1610612752,NYK,2772,Ariza,T. Ariza,-21,17,3,Missed,1,0,0,0,v,MISS Ariza 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+160,169,PT07M17.00S,2,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,0,0,0,h,Cabarkapa BLOCK (1 BLK),,,0,0
+161,170,PT07M14.00S,2,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,0,0,0,h,Cabarkapa REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+162,171,PT07M08.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,153,12,15,Made,1,26,35,61,h,Richardson 15' Jump Shot (7 PTS) (Cabarkapa 1 AST),Made Shot,Jump Shot,0,0
+163,172,PT06M51.00S,2,1610612752,NYK,358,Hardaway,A. Hardaway,172,-13,17,Made,1,26,37,63,v,Hardaway 17' Jump Shot (2 PTS) (Rose 2 AST),Made Shot,Jump Shot,0,0
+164,173,PT06M39.00S,2,1610612744,GSW,965,Fisher,D. Fisher,-158,25,16,Made,1,28,37,65,h,Fisher 16' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,0,0
+165,174,PT06M24.00S,2,1610612752,NYK,950,Marbury,S. Marbury,-6,41,4,Made,1,28,39,67,v,Marbury 4' Running Jump Shot (14 PTS),Made Shot,Running Jump Shot,0,0
+166,175,PT06M11.00S,2,1610612752,NYK,1508,Taylor,M. Taylor,0,0,0,,0,0,0,0,v,Taylor S.FOUL (P2.T4),Foul,Shooting,0,0
+167,177,PT06M11.00S,2,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,SUB: Murphy FOR Fisher,Substitution,,0,0
+168,178,PT06M11.00S,2,1610612752,NYK,1508,Taylor,M. Taylor,0,0,0,,0,0,0,0,v,SUB: Curry FOR Taylor,Substitution,,0,0
+169,179,PT06M11.00S,2,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Hardaway,Substitution,,0,0
+170,180,PT06M11.00S,2,1610612752,NYK,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,SUB: Richardson FOR Ariza,Substitution,,0,0
+171,181,PT06M11.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,MISS Richardson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+172,182,PT06M11.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+173,183,PT06M11.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,MISS Richardson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+174,184,PT06M06.00S,2,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+175,185,PT05M49.00S,2,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,0,0,0,h,Cabarkapa P.FOUL (P1.T1),Foul,Personal,0,0
+176,186,PT05M49.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+177,188,PT05M49.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,SUB: Taft FOR Foyle,Substitution,,0,0
+178,189,PT05M49.00S,2,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,0,0,0,h,SUB: Davis FOR Cabarkapa,Substitution,,0,0
+179,190,PT05M40.00S,2,1610612752,NYK,990,Rose,M. Rose,143,120,19,Missed,1,0,0,0,v,MISS Rose 19' Jump Shot,Missed Shot,Jump Shot,0,0
+180,191,PT05M38.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+181,192,PT05M30.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,61,189,20,Made,1,30,39,69,h,Murphy 20' Jump Shot (7 PTS) (Richardson 2 AST),Made Shot,Jump Shot,0,0
+182,193,PT05M08.00S,2,1610612752,NYK,950,Marbury,S. Marbury,153,225,27,Missed,1,0,0,0,v,MISS Marbury 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+183,194,PT05M05.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+184,195,PT04M58.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,-186,168,25,Missed,1,0,0,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+185,196,PT04M55.00S,2,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,Marbury REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+186,197,PT04M42.00S,2,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,Taft P.FOUL (P1.T2),Foul,Personal,0,0
+187,198,PT04M34.00S,2,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis P.FOUL (P2.T3),Foul,Personal,0,0
+188,199,PT04M27.00S,2,1610612752,NYK,2201,Curry,E. Curry,-16,10,2,Made,1,30,41,71,v,Curry 2' Alley Oop Dunk (8 PTS) (Marbury 2 AST),Made Shot,Alley Oop Dunk Shot,0,0
+189,200,PT04M12.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,-21,54,6,Made,1,32,41,73,h,Murphy 6' Running Hook Shot (9 PTS) (Richardson 3 AST),Made Shot,Running Hook Shot,0,0
+190,201,PT03M54.00S,2,1610612752,NYK,2037,Crawford,J. Crawford,136,102,17,Made,1,32,43,75,v,Crawford 17' Jump Shot (5 PTS) (Rose 3 AST),Made Shot,Jump Shot,0,0
+191,202,PT03M43.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,138,145,20,Made,1,34,43,77,h,Murphy 20' Jump Shot (11 PTS) (Davis 6 AST),Made Shot,Jump Shot,0,0
+192,203,PT03M18.00S,2,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+193,203,PT03M18.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy STEAL (2 STL),,,0,0
+194,204,PT03M09.00S,2,1610612744,GSW,1884,Davis,B. Davis,-140,115,18,Missed,1,0,0,0,h,MISS Davis 18' Jump Shot,Missed Shot,Jump Shot,0,0
+195,205,PT03M06.00S,2,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+196,206,PT02M53.00S,2,1610612752,NYK,990,Rose,M. Rose,130,163,21,Missed,1,0,0,0,v,MISS Rose 21' Jump Shot,Missed Shot,Jump Shot,0,0
+197,207,PT02M50.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+198,208,PT02M35.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,-192,-8,19,Missed,1,0,0,0,h,MISS Murphy 19' Jump Shot,Missed Shot,Jump Shot,0,0
+199,209,PT02M32.00S,2,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,Marbury REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+200,210,PT02M25.00S,2,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+201,212,PT02M25.00S,2,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,SUB: Foyle FOR Taft,Substitution,,0,0
+202,213,PT02M25.00S,2,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,SUB: Davis FOR Rose,Substitution,,0,0
+203,214,PT02M16.00S,2,1610612752,NYK,2201,Curry,E. Curry,21,17,3,Missed,1,0,0,0,v,MISS Curry 3' Layup,Missed Shot,Layup Shot,0,0
+204,214,PT02M16.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy BLOCK (1 BLK),,,0,0
+205,215,PT02M14.00S,2,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+206,216,PT02M09.00S,2,1610612752,NYK,2201,Curry,E. Curry,0,7,1,Made,1,34,45,79,v,Curry 1' Dunk (10 PTS),Made Shot,Dunk Shot,0,0
+207,217,PT01M46.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,-115,220,25,Missed,1,0,0,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+208,218,PT01M46.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+209,219,PT01M46.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0
+210,220,PT01M46.00S,2,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,SUB: Taylor FOR Curry,Substitution,,0,0
+211,221,PT01M33.00S,2,1610612752,NYK,2047,Richardson,Q. Richardson,-43,187,19,Missed,1,0,0,0,v,MISS Richardson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+212,222,PT01M30.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+213,223,PT01M22.00S,2,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,Marbury P.FOUL (P1.PN),Foul,Personal,0,0
+214,224,PT01M22.00S,2,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+215,225,PT01M22.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+216,226,PT01M22.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Dunleavy,Substitution,,0,0
+217,227,PT01M22.00S,2,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,35,45,80,h,Davis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+218,228,PT01M05.00S,2,1610612752,NYK,213,Davis,A. Davis,11,33,3,Missed,1,0,0,0,v,MISS Davis 3' Layup,Missed Shot,Layup Shot,0,0
+219,228,PT01M05.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle BLOCK (2 BLK),,,0,0
+220,229,PT01M02.00S,2,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+221,230,PT01M00.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,-39,38,5,Missed,1,0,0,0,h,MISS Murphy 5' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+222,232,PT01M00.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+223,231,PT01M00.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,Made,1,37,45,82,h,Richardson  Follow Up Dunk (9 PTS),Made Shot,Follow Up Dunk Shot,0,0
+224,233,PT00M45.90S,2,1610612752,NYK,950,Marbury,S. Marbury,36,28,5,Missed,1,0,0,0,v,MISS Marbury 5' Jump Shot,Missed Shot,Jump Shot,0,0
+225,234,PT00M42.90S,2,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+226,235,PT00M36.00S,2,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,0
+227,236,PT00M24.90S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,230,77,24,Missed,1,0,0,0,h,MISS Pietrus 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+228,237,PT00M19.90S,2,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+229,238,PT00M05.40S,2,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis P.FOUL (P3.T4),Foul,Personal,0,0
+230,239,PT00M05.40S,2,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+231,241,PT00M05.40S,2,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis T.FOUL (P3.T4),Foul,Technical,0,0
+232,242,PT00M05.40S,2,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,37,46,83,v,Crawford Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0
+233,243,PT00M00.80S,2,1610612752,NYK,2037,Crawford,J. Crawford,-122,114,17,Missed,1,0,0,0,v,MISS Crawford 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+234,244,PT00M00.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+235,245,PT00M00.00S,2,0,,0,,,0,0,0,,0,37,46,83,,End of 2nd Period (11:38 PM EST),period,end,0,0
+236,247,PT12M00.00S,3,0,,0,,,0,0,0,,0,37,46,83,,Start of 3rd Period (11:55 PM EST),period,start,0,0
+237,248,PT11M44.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0
+238,248,PT11M44.00S,3,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford STEAL (1 STL),,,0,0
+239,250,PT11M34.00S,3,1610612752,NYK,2037,Crawford,J. Crawford,103,12,10,Made,1,37,48,85,v,Crawford 10' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,0
+240,251,PT11M17.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,172,-8,17,Made,1,39,48,87,h,Murphy 17' Jump Shot (13 PTS) (Richardson 4 AST),Made Shot,Jump Shot,0,0
+241,252,PT10M54.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson OFF.Foul (P1),Foul,Offensive,0,0
+242,253,PT10M54.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson Foul Turnover (P1.T8),Turnover,Foul,0,0
+243,254,PT10M36.00S,3,1610612744,GSW,1884,Davis,B. Davis,5,17,2,Missed,1,0,0,0,h,MISS Davis 2' Layup,Missed Shot,Layup Shot,0,0
+244,256,PT10M32.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+245,255,PT10M32.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,3,10,1,Missed,1,0,0,0,h,MISS Foyle 1' Tip Shot,Missed Shot,Tip Shot,0,0
+246,257,PT10M30.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+247,258,PT10M23.00S,3,1610612752,NYK,213,Davis,A. Davis,-31,22,4,Missed,1,0,0,0,v,MISS Davis 4' Hook Shot,Missed Shot,Hook Shot,0,0
+248,259,PT10M23.00S,3,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Unknown,0,0
+249,260,PT10M20.00S,3,1610612752,NYK,2037,Crawford,J. Crawford,-192,-18,19,Missed,1,0,0,0,v,MISS Crawford 19' Jump Shot,Missed Shot,Jump Shot,0,0
+250,261,PT10M17.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+251,262,PT10M09.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,-13,8,2,Made,1,41,48,89,h,Richardson 2' Alley Oop Dunk (11 PTS) (Davis 7 AST),Made Shot,Alley Oop Dunk Shot,0,0
+252,263,PT09M47.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,-235,25,24,Missed,1,0,0,0,v,MISS Richardson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+253,264,PT09M44.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+254,265,PT09M34.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,-222,114,25,Missed,1,0,0,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+255,266,PT09M31.00S,3,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Unknown,0,0
+256,267,PT09M12.00S,3,1610612752,NYK,950,Marbury,S. Marbury,16,18,2,Missed,1,0,0,0,v,MISS Marbury 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+257,267,PT09M12.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson BLOCK (1 BLK),,,0,0
+258,268,PT09M09.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+259,269,PT09M00.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson S.FOUL (P2.T1),Foul,Shooting,0,0
+260,270,PT09M00.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,42,48,90,h,Richardson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+261,271,PT09M00.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,43,48,91,h,Richardson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+262,272,PT08M38.00S,3,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0
+263,272,PT08M38.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle STEAL (1 STL),,,0,0
+264,273,PT08M34.00S,3,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis P.FOUL (P1.T2),Foul,Personal,0,0
+265,274,PT08M22.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,21,38,4,Made,1,45,48,93,h,Dunleavy 4' Running Jump Shot (4 PTS) (Davis 8 AST),Made Shot,Running Jump Shot,0,0
+266,275,PT08M22.00S,3,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry S.FOUL (P3.T3),Foul,Shooting,0,0
+267,276,PT08M22.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,MISS Dunleavy Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+268,277,PT08M19.00S,3,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,Marbury REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+269,278,PT08M06.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy P.FOUL (P2.T1),Foul,Personal,0,0
+270,279,PT08M02.00S,3,1610612752,NYK,2037,Crawford,J. Crawford,-235,45,24,Missed,1,0,0,0,v,MISS Crawford 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+271,280,PT07M59.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+272,281,PT07M53.00S,3,1610612744,GSW,1884,Davis,B. Davis,140,99,17,Missed,1,0,0,0,h,MISS Davis 17' Jump Shot,Missed Shot,Jump Shot,0,0
+273,282,PT07M51.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+274,283,PT07M41.00S,3,1610612752,NYK,2037,Crawford,J. Crawford,23,20,3,Missed,1,0,0,0,v,MISS Crawford 3' Layup,Missed Shot,Layup Shot,0,0
+275,283,PT07M41.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle BLOCK (3 BLK),,,0,0
+276,285,PT07M37.00S,3,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+277,284,PT07M37.00S,3,1610612752,NYK,2037,Crawford,J. Crawford,-3,17,2,Made,1,45,50,95,v,Crawford 2' Tip Shot (10 PTS),Made Shot,Tip Shot,0,0
+278,286,PT07M20.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,57,43,7,Missed,1,0,0,0,h,MISS Dunleavy 7' Jump Shot,Missed Shot,Jump Shot,0,0
+279,287,PT07M17.00S,3,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+280,288,PT07M02.00S,3,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+281,290,PT07M01.00S,3,1610612752,NYK,213,Davis,A. Davis,-153,40,16,Missed,1,0,0,0,v,MISS Davis 16' Jump Shot,Missed Shot,Jump Shot,0,0
+282,291,PT06M58.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+283,292,PT06M55.00S,3,1610612744,GSW,1884,Davis,B. Davis,15,7,2,Made,1,47,50,97,h,Davis 2' Driving Layup (3 PTS) (Murphy 1 AST),Made Shot,Driving Layup Shot,0,0
+284,293,PT06M43.00S,3,1610612752,NYK,950,Marbury,S. Marbury,-23,23,3,Missed,1,0,0,0,v,MISS Marbury 3' Layup,Missed Shot,Layup Shot,0,0
+285,293,PT06M43.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle BLOCK (4 BLK),,,0,0
+286,294,PT06M41.00S,3,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+287,295,PT06M41.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson L.B.FOUL (P2.T2),Foul,Loose Ball,0,0
+288,296,PT06M35.00S,3,1610612752,NYK,2037,Crawford,J. Crawford,-2,49,5,Made,1,47,52,99,v,Crawford 5' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,0,0
+289,297,PT06M18.00S,3,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry S.FOUL (P4.T4),Foul,Shooting,0,0
+290,298,PT06M18.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,48,52,100,h,Richardson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+291,299,PT06M18.00S,3,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,SUB: Frye FOR Curry,Substitution,,0,0
+292,300,PT06M18.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,MISS Richardson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+293,301,PT06M17.00S,3,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+294,302,PT06M05.00S,3,1610612752,NYK,950,Marbury,S. Marbury,3,12,1,Made,1,48,54,102,v,Marbury 1' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,0
+295,303,PT05M42.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,225,97,25,Made,1,51,54,105,h,Murphy 25' 3PT Jump Shot (16 PTS) (Richardson 5 AST),Made Shot,Jump Shot,0,0
+296,304,PT05M29.00S,3,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+297,305,PT05M19.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,-21,74,8,Missed,1,0,0,0,h,MISS Dunleavy 8' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+298,306,PT05M17.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+299,307,PT05M12.00S,3,1610612744,GSW,1884,Davis,B. Davis,-158,199,25,Made,1,54,54,108,h,Davis 25' 3PT Jump Shot (6 PTS) (Dunleavy 1 AST),Made Shot,Jump Shot,0,0
+300,308,PT05M07.00S,3,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Short (Reg.3 Short 2),Timeout,Short,0,0
+301,310,PT05M07.00S,3,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Hardaway FOR Crawford,Substitution,,0,0
+302,311,PT04M50.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,-161,194,25,Made,1,54,57,111,v,Richardson 25' 3PT Jump Shot (7 PTS) (Marbury 3 AST),Made Shot,Jump Shot,0,0
+303,312,PT04M30.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,135,214,25,Missed,1,0,0,0,h,MISS Murphy 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+304,313,PT04M25.00S,3,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+305,314,PT04M20.00S,3,1610612752,NYK,358,Hardaway,A. Hardaway,120,174,21,Missed,1,0,0,0,v,MISS Hardaway 21' Jump Shot,Missed Shot,Jump Shot,0,0
+306,315,PT04M16.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+307,316,PT04M09.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0
+308,316,PT04M09.00S,3,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye STEAL (2 STL),,,0,0
+309,317,PT03M51.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,153,206,26,Missed,1,0,0,0,v,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+310,318,PT03M48.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+311,319,PT03M46.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,5,10,1,Made,1,56,57,113,h,Richardson 1' Alley Oop Layup (16 PTS) (Davis 9 AST),Made Shot,Alley Oop Layup shot,0,0
+312,320,PT03M18.00S,3,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0
+313,321,PT03M18.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,SUB: Taft FOR Foyle,Substitution,,0,0
+314,322,PT03M18.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Fisher FOR Dunleavy,Substitution,,0,0
+315,323,PT03M18.00S,3,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,SUB: Taylor FOR Davis,Substitution,,0,0
+316,324,PT03M18.00S,3,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Richardson,Substitution,,0,0
+317,325,PT03M18.00S,3,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,SUB: Ariza FOR Marbury,Substitution,,0,0
+318,326,PT03M02.00S,3,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,Hardaway P.FOUL (P2.PN),Foul,Personal,0,0
+319,327,PT03M02.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,57,57,114,h,Davis Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+320,329,PT03M02.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,58,57,115,h,Davis Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+321,330,PT02M34.00S,3,1610612752,NYK,101112,Frye,C. Frye,-79,25,8,Missed,1,0,0,0,v,MISS Frye 8' Hook Shot,Missed Shot,Hook Shot,0,0
+322,331,PT02M31.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:9),Rebound,Unknown,0,0
+323,332,PT02M18.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+324,332,PT02M18.00S,3,1610612752,NYK,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza STEAL (2 STL),,,0,0
+325,333,PT02M14.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis P.FOUL (P4.T3),Foul,Personal,0,0
+326,334,PT02M14.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Davis,Substitution,,0,0
+327,335,PT02M14.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+328,337,PT02M06.00S,3,1610612752,NYK,101112,Frye,C. Frye,1,12,1,Made,1,58,59,117,v,Frye 1' Slam Dunk (6 PTS) (Taylor 2 AST),Made Shot,Slam Dunk Shot,0,0
+329,338,PT01M46.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy OFF.Foul (P3),Foul,Offensive,0,0
+330,339,PT01M46.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy Foul Turnover (P2.T10),Turnover,Foul,0,0
+331,340,PT01M34.00S,3,1610612752,NYK,2772,Ariza,T. Ariza,207,64,22,Missed,1,0,0,0,v,MISS Ariza 22' Jump Shot,Missed Shot,Jump Shot,0,0
+332,341,PT01M31.00S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+333,342,PT01M21.00S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,-238,-11,24,Made,1,61,59,120,h,Pietrus 24' 3PT Jump Shot (6 PTS) (Murphy 2 AST),Made Shot,Jump Shot,0,0
+334,343,PT01M00.00S,3,1610612752,NYK,101112,Frye,C. Frye,-138,76,16,Missed,1,0,0,0,v,MISS Frye 16' Jump Shot,Missed Shot,Jump Shot,0,0
+335,344,PT00M58.60S,3,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Rebound,Rebound,Unknown,0,0
+336,345,PT00M58.60S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,SUB: Miles FOR Murphy,Substitution,,0,0
+337,346,PT00M49.90S,3,1610612752,NYK,2037,Crawford,J. Crawford,20,268,27,Made,1,61,62,123,v,Crawford 27' 3PT Jump Shot (15 PTS) (Hardaway 1 AST),Made Shot,Jump Shot,0,0
+338,347,PT00M33.90S,3,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0
+339,347,PT00M33.90S,3,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye STEAL (3 STL),,,0,0
+340,348,PT00M31.30S,3,1610612752,NYK,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,SUB: Robinson FOR Ariza,Substitution,,0,0
+341,349,PT00M31.30S,3,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,SUB: Marbury FOR Hardaway,Substitution,,0,0
+342,350,PT00M22.90S,3,1610612752,NYK,1508,Taylor,M. Taylor,-87,84,12,Missed,1,0,0,0,v,MISS Taylor 12' Jump Shot,Missed Shot,Jump Shot,0,0
+343,351,PT00M19.90S,3,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,Taft REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+344,352,PT00M00.20S,3,1610612744,GSW,2202,Richardson,J. Richardson,20,187,19,Missed,1,0,0,0,h,MISS Richardson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+345,353,PT00M00.00S,3,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+346,354,PT00M00.00S,3,0,,0,,,0,0,0,,0,61,62,123,,End of 3rd Period (12:20 PM EST),period,end,0,0
+347,356,PT12M00.00S,4,0,,0,,,0,0,0,,0,61,62,123,,Start of 4th Period (12:23 PM EST),period,start,0,0
+348,357,PT11M48.00S,4,1610612752,NYK,2037,Crawford,J. Crawford,179,0,18,Missed,1,0,0,0,v,MISS Crawford 18' Jump Shot,Missed Shot,Jump Shot,0,0
+349,358,PT11M46.00S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+350,359,PT11M42.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,7,1,Made,1,63,62,125,h,Pietrus 1' Alley Oop Dunk (8 PTS) (Richardson 6 AST),Made Shot,Alley Oop Dunk Shot,0,0
+351,360,PT11M18.00S,4,1610612752,NYK,101112,Frye,C. Frye,-112,0,11,Missed,1,0,0,0,v,MISS Frye 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+352,361,PT11M16.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+353,362,PT11M11.00S,4,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford P.FOUL (P2.T1),Foul,Personal,0,0
+354,363,PT11M06.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,-230,0,0,Made,1,66,62,128,h,Richardson  3PT Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,0,0
+355,364,PT10M58.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus P.FOUL (P1.T1),Foul,Personal,0,0
+356,365,PT10M58.00S,4,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Marbury FOR Crawford,Substitution,,0,0
+357,366,PT10M43.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle S.FOUL (P2.T2),Foul,Shooting,0,0
+358,367,PT10M43.00S,4,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,66,63,129,v,Marbury Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+359,368,PT10M43.00S,4,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,MISS Marbury Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+360,369,PT10M41.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+361,370,PT10M28.00S,4,1610612744,GSW,2399,Dunleavy,M. Dunleavy,-148,194,24,Missed,1,0,0,0,h,MISS Dunleavy 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+362,371,PT10M25.00S,4,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,Marbury REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+363,372,PT10M13.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle S.FOUL (P3.T3),Foul,Shooting,0,0
+364,373,PT10M13.00S,4,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,66,64,130,v,Frye Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+365,374,PT10M13.00S,4,1610612752,NYK,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,v,SUB: Richardson FOR Robinson,Substitution,,0,0
+366,375,PT10M13.00S,4,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Murphy FOR Dunleavy,Substitution,,0,0
+367,376,PT10M13.00S,4,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,66,65,131,v,Frye Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+368,377,PT09M56.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,-108,187,22,Missed,1,0,0,0,h,MISS Richardson 22' Jump Shot,Missed Shot,Jump Shot,0,0
+369,378,PT09M52.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+370,379,PT09M40.00S,4,1610612744,GSW,965,Fisher,D. Fisher,-161,186,25,Missed,1,0,0,0,h,MISS Fisher 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+371,380,PT09M35.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+372,381,PT09M34.00S,4,1610612744,GSW,965,Fisher,D. Fisher,47,253,26,Missed,1,0,0,0,h,MISS Fisher 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+373,382,PT09M30.00S,4,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+374,383,PT09M10.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,16,45,5,Missed,1,0,0,0,h,MISS Richardson 5' Driving Finger Roll,Missed Shot,Driving Finger Roll Shot,0,0
+375,384,PT09M08.00S,4,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+376,385,PT08M47.00S,4,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,Hardaway Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0
+377,385,PT08M47.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus STEAL (1 STL),,,0,0
+378,386,PT08M44.00S,4,1610612752,NYK,1508,Taylor,M. Taylor,0,0,0,,0,0,0,0,v,Taylor S.FOUL (P3.T2),Foul,Shooting,0,0
+379,387,PT08M44.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+380,389,PT08M44.00S,4,1610612752,NYK,1508,Taylor,M. Taylor,0,0,0,,0,0,0,0,v,SUB: Curry FOR Taylor,Substitution,,0,0
+381,390,PT08M44.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,67,65,132,h,Pietrus Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+382,391,PT08M44.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,68,65,133,h,Pietrus Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+383,392,PT08M27.00S,4,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Hardaway,Substitution,,0,0
+384,393,PT08M19.00S,4,1610612752,NYK,950,Marbury,S. Marbury,54,63,8,Made,1,68,67,135,v,Marbury 8' Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,0,0
+385,394,PT07M51.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0
+386,394,PT07M51.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson STEAL (2 STL),,,0,0
+387,395,PT07M35.00S,4,1610612752,NYK,2037,Crawford,J. Crawford,-44,151,16,Made,1,68,69,137,v,Crawford 16' Jump Shot (17 PTS) (Marbury 4 AST),Made Shot,Jump Shot,0,0
+388,396,PT07M13.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,-158,206,26,Missed,1,0,0,0,h,MISS Pietrus 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+389,397,PT07M09.00S,4,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,Frye REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+390,398,PT07M02.00S,4,1610612752,NYK,2201,Curry,E. Curry,62,18,6,Missed,1,0,0,0,v,MISS Curry 6' Hook Shot,Missed Shot,Hook Shot,0,0
+391,399,PT07M00.00S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+392,400,PT06M56.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,181,183,26,Made,1,71,69,140,h,Richardson 26' 3PT Jump Shot (22 PTS) (Fisher 1 AST),Made Shot,Jump Shot,0,0
+393,401,PT06M34.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,13,23,3,Made,1,71,71,142,v,Richardson 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,0
+394,402,PT06M23.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+395,404,PT06M23.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,SUB: Davis FOR Richardson,Substitution,,0,0
+396,405,PT06M23.00S,4,1610612752,NYK,101112,Frye,C. Frye,0,0,0,,0,0,0,0,v,SUB: Davis FOR Frye,Substitution,,0,0
+397,406,PT06M16.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,233,-8,0,Missed,1,0,0,0,h,MISS Pietrus  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+398,407,PT06M14.00S,4,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+399,408,PT05M57.00S,4,1610612752,NYK,2037,Crawford,J. Crawford,105,130,17,Missed,1,0,0,0,v,MISS Crawford 17' Jump Shot,Missed Shot,Jump Shot,0,0
+400,409,PT05M55.00S,4,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+401,410,PT05M48.00S,4,1610612744,GSW,1884,Davis,B. Davis,-23,8,2,Made,1,73,71,144,h,Davis 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,0,0
+402,411,PT05M48.00S,4,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis S.FOUL (P2.T3),Foul,Shooting,0,0
+403,412,PT05M48.00S,4,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,74,71,145,h,Davis Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0
+404,413,PT05M34.00S,4,1610612752,NYK,950,Marbury,S. Marbury,-13,252,25,Made,1,74,74,148,v,Marbury 25' 3PT Jump Shot (22 PTS) (Curry 2 AST),Made Shot,Jump Shot,0,0
+405,414,PT05M11.00S,4,1610612744,GSW,1884,Davis,B. Davis,5,72,7,Missed,1,0,0,0,h,MISS Davis 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+406,415,PT05M09.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+407,416,PT04M53.00S,4,1610612752,NYK,2201,Curry,E. Curry,-52,33,6,Missed,1,0,0,0,v,MISS Curry 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+408,417,PT04M51.00S,4,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+409,418,PT04M51.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle S.FOUL (P4.T4),Foul,Shooting,0,0
+410,419,PT04M51.00S,4,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,74,75,149,v,Davis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+411,420,PT04M51.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,SUB: Richardson FOR Pietrus,Substitution,,0,0
+412,421,PT04M51.00S,4,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,74,76,150,v,Davis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+413,422,PT04M37.00S,4,1610612744,GSW,1884,Davis,B. Davis,21,25,3,Missed,1,0,0,0,h,MISS Davis 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+414,424,PT04M35.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+415,423,PT04M35.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,Missed,1,0,0,0,h,MISS Foyle  Tip Shot,Missed Shot,Tip Shot,0,0
+416,425,PT04M31.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+417,426,PT04M14.00S,4,1610612752,NYK,950,Marbury,S. Marbury,-26,257,26,Missed,1,0,0,0,v,MISS Marbury 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+418,427,PT04M12.00S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+419,428,PT04M00.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,113,77,14,Made,1,76,76,152,h,Richardson 14' Turnaround Jump Shot (24 PTS),Made Shot,Turnaround Jump Shot,0,0
+420,429,PT03M37.00S,4,1610612752,NYK,2037,Crawford,J. Crawford,-235,72,25,Missed,1,0,0,0,v,MISS Crawford 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+421,430,PT03M34.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+422,431,PT03M18.00S,4,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0
+423,431,PT03M18.00S,4,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry STEAL (1 STL),,,0,0
+424,432,PT03M10.00S,4,1610612752,NYK,2201,Curry,E. Curry,49,23,5,Missed,1,0,0,0,v,MISS Curry 5' Jump Shot,Missed Shot,Jump Shot,0,0
+425,433,PT03M10.00S,4,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+426,434,PT03M10.00S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher S.FOUL (P1.PN),Foul,Shooting,0,0
+427,435,PT03M10.00S,4,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry T.FOUL (P4.T3),Foul,Technical,0,0
+428,436,PT03M10.00S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,77,76,153,h,Fisher Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0
+429,437,PT03M10.00S,4,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,77,77,154,v,Curry Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+430,438,PT03M10.00S,4,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,77,78,155,v,Curry Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+431,439,PT02M58.00S,4,1610612744,GSW,965,Fisher,D. Fisher,-228,-14,0,Made,1,80,78,158,h,Fisher  3PT Jump Shot (6 PTS) (Davis 10 AST),Made Shot,Jump Shot,0,0
+432,440,PT02M47.00S,4,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,0
+433,442,PT02M40.00S,4,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis P.FOUL (P5.PN),Foul,Personal,0,0
+434,443,PT02M40.00S,4,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,80,79,159,v,Crawford Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+435,444,PT02M40.00S,4,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,80,80,160,v,Crawford Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+436,446,PT02M24.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,167,201,26,Missed,1,0,0,0,h,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+437,448,PT02M03.00S,4,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:3 Def:8),Rebound,Unknown,0,0
+438,447,PT02M03.00S,4,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0
+439,447,PT02M03.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle STEAL (2 STL),,,0,0
+440,453,PT01M44.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,-125,118,17,Missed,1,0,0,0,h,MISS Richardson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+441,449,PT01M44.00S,4,1610612752,NYK,950,Marbury,S. Marbury,0,0,0,,0,0,0,0,v,Marbury REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+442,450,PT01M34.00S,4,1610612752,NYK,213,Davis,A. Davis,-131,17,13,Made,1,80,82,162,v,Davis 13' Jump Shot (6 PTS) (Crawford 5 AST),Made Shot,Jump Shot,0,0
+443,451,PT01M20.00S,4,1610612744,GSW,2211,Murphy,T. Murphy,156,215,27,Made,1,83,82,165,h,Murphy 27' 3PT Jump Shot (19 PTS) (Davis 11 AST),Made Shot,Jump Shot,0,0
+444,452,PT01M13.00S,4,0,,1610612752,,,0,0,0,,0,0,0,0,v,Knicks Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,0
+445,455,PT01M13.00S,4,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0,0,0,v,SUB: Rose FOR Curry,Substitution,,0,0
+446,456,PT01M06.00S,4,1610612752,NYK,2037,Crawford,J. Crawford,24,22,3,Made,1,83,84,167,v,Crawford 3' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,0,0
+447,457,PT00M48.90S,4,1610612744,GSW,1502,Foyle,A. Foyle,-13,28,3,Made,1,85,84,169,h,Foyle 3' Turnaround Hook Shot (5 PTS) (Davis 12 AST),Made Shot,Turnaround Hook Shot,0,0
+448,459,PT00M33.90S,4,1610612752,NYK,990,Rose,M. Rose,113,3,11,Missed,1,0,0,0,v,MISS Rose 11' Jump Shot,Missed Shot,Jump Shot,0,0
+449,460,PT00M30.90S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+450,461,PT00M11.60S,4,1610612752,NYK,213,Davis,A. Davis,0,0,0,,0,0,0,0,v,Davis S.FOUL (P3.T4),Foul,Shooting,0,0
+451,462,PT00M11.60S,4,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+452,463,PT00M11.60S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+453,464,PT00M11.60S,4,1610612752,NYK,990,Rose,M. Rose,0,0,0,,0,0,0,0,v,SUB: Taylor FOR Rose,Substitution,,0,0
+454,465,PT00M11.60S,4,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,86,84,170,h,Davis Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+455,466,PT00M00.00S,4,0,,0,,,0,0,0,,0,86,84,170,,End of 4th Period (12:54 PM EST),period,end,0,0

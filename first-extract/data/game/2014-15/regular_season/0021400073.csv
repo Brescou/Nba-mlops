@@ -1,0 +1,514 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:09 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Jump Ball Sims vs. Gasol: Tip to Wroten,Jump Ball,,1,0
+3,2,PT11M43.00S,1,1610612755,PHI,203156,Sims,H. Sims,-138,72,16,Made,1,2,0,2,h,Sims 16' Jump Shot (2 PTS) (Wroten 1 AST),Made Shot,Jump Shot,1,0
+4,3,PT11M22.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,-152,-14,15,Missed,1,0,0,0,v,MISS Gasol 15' Jump Shot,Missed Shot,Jump Shot,1,0
+5,4,PT11M21.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Rebound,Rebound,Unknown,0,0
+6,5,PT11M11.00S,1,1610612741,CHI,202710,Butler,J. Butler,59,-6,6,Made,1,2,2,4,v,Butler 6' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,1,0
+7,6,PT11M11.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson S.FOUL (P1.T1),Foul,Shooting,1,0
+8,7,PT11M11.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,2,3,5,v,Butler Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+9,9,PT11M00.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,28,-5,3,Made,1,4,3,7,h,Thompson 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+10,10,PT10M38.00S,1,1610612741,CHI,202710,Butler,J. Butler,125,145,19,Missed,1,0,0,0,v,MISS Butler 19' Jump Shot,Missed Shot,Jump Shot,1,0
+11,11,PT10M37.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+12,12,PT10M30.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,133,227,26,Missed,1,0,0,0,h,MISS Mbah a Moute 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+13,13,PT10M28.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+14,14,PT10M14.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah Traveling Turnover (P1.T1),Turnover,Traveling,1,0
+15,15,PT10M02.00S,1,1610612755,PHI,203100,Wroten,T. Wroten,-78,250,26,Missed,1,0,0,0,h,MISS Wroten 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+16,16,PT10M00.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+17,17,PT09M43.00S,1,1610612741,CHI,202710,Butler,J. Butler,2,-5,1,Made,1,4,5,9,v,Butler 1' Reverse Layup (5 PTS) (Noah 1 AST),Made Shot,Reverse Layup Shot,1,0
+18,18,PT09M33.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,-37,-3,4,Missed,1,0,0,0,h,MISS Thompson 4' Jump Shot,Missed Shot,Jump Shot,1,0
+19,18,PT09M33.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol BLOCK (1 BLK),,,1,0
+20,19,PT09M30.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+21,20,PT09M25.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-234,-22,24,Made,1,4,8,12,v,Dunleavy 24' 3PT Jump Shot (3 PTS) (Butler 1 AST),Made Shot,Jump Shot,1,0
+22,21,PT09M09.00S,1,1610612755,PHI,203100,Wroten,T. Wroten,9,7,1,Missed,1,0,0,0,h,MISS Wroten 1' Layup,Missed Shot,Layup Shot,1,0
+23,22,PT09M07.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+24,23,PT09M05.00S,1,1610612755,PHI,203156,Sims,H. Sims,10,-13,2,Made,1,6,8,14,h,Sims 2' Layup (4 PTS) (Mbah a Moute 1 AST),Made Shot,Layup Shot,1,0
+25,24,PT08M39.00S,1,1610612741,CHI,202710,Butler,J. Butler,-158,0,16,Made,1,6,10,16,v,Butler 16' Jump Bank Shot (7 PTS),Made Shot,Jump Bank Shot,1,0
+26,25,PT08M22.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,-15,-13,2,Made,1,8,10,18,h,Thompson 2' Layup (4 PTS) (Sims 1 AST),Made Shot,Layup Shot,1,0
+27,26,PT08M09.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,2,-13,1,Made,1,8,12,20,v,Gasol 1' Layup (2 PTS) (Dunleavy 1 AST),Made Shot,Layup Shot,1,0
+28,27,PT08M09.00S,1,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims S.FOUL (P1.T2),Foul,Shooting,1,0
+29,28,PT08M09.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,8,13,21,v,Gasol Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+30,30,PT07M57.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,-149,-16,15,Made,1,10,13,23,h,Thompson 15' Jump Shot (6 PTS) (Sampson 1 AST),Made Shot,Jump Shot,1,0
+31,31,PT07M39.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-144,205,25,Missed,1,0,0,0,v,MISS Hinrich 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+32,32,PT07M36.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+33,33,PT07M15.00S,1,1610612755,PHI,203100,Wroten,T. Wroten,159,198,25,Made,1,13,13,26,h,Wroten 25' 3PT Jump Shot (3 PTS) (Sims 2 AST),Made Shot,Jump Shot,1,0
+34,34,PT06M58.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-152,156,22,Made,1,13,15,28,v,Dunleavy 22' Step Back Jump Shot (5 PTS) (Hinrich 1 AST),Made Shot,Step Back Jump shot,1,0
+35,35,PT06M44.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah S.FOUL (P1.T1),Foul,Shooting,1,0
+36,36,PT06M44.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+37,37,PT06M44.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+38,38,PT06M44.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,14,15,29,h,Thompson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+39,40,PT06M36.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0
+40,41,PT06M27.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,1,254,25,Missed,1,0,0,0,h,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+41,42,PT06M26.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+42,43,PT06M26.00S,1,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims P.FOUL (P2.T3),Foul,Personal,1,0
+43,44,PT06M16.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,129,154,20,Missed,1,0,0,0,v,MISS Hinrich 20' Jump Shot,Missed Shot,Jump Shot,1,0
+44,45,PT06M13.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+45,46,PT06M04.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson S.FOUL (P2.T4),Foul,Shooting,1,0
+46,47,PT06M04.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,14,16,30,v,Gasol Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+47,49,PT06M04.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Thompson,Substitution,,0,0
+48,50,PT06M04.00S,1,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,SUB: Davies FOR Sims,Substitution,,0,0
+49,51,PT06M04.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,14,17,31,v,Gasol Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+50,53,PT06M04.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+51,55,PT06M04.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,SUB: Johnson FOR Sampson,Substitution,,0,0
+52,56,PT05M50.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,-147,96,18,Made,1,16,17,33,h,Mbah a Moute 18' Jump Shot (2 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,1,0
+53,57,PT05M28.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,102,219,24,Missed,1,0,0,0,v,MISS Dunleavy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+54,58,PT05M24.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+55,59,PT05M21.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,-76,0,8,Made,1,16,19,35,v,Gasol 8' Turnaround Bank Hook Shot (7 PTS),Made Shot,Turnaround Bank Hook Shot,1,0
+56,60,PT05M09.00S,1,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,Davies Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+57,60,PT05M09.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler STEAL (1 STL),,,1,0
+58,81,PT05M04.00S,1,1610612741,CHI,202710,Butler,J. Butler,-8,0,1,Made,1,16,21,37,v,Butler 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,0
+59,61,PT05M04.00S,1,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson S.FOUL (P1.PN),Foul,Shooting,1,0
+60,62,PT05M04.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,SUB: Brooks FOR Noah,Substitution,,0,0
+61,63,PT05M04.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,SUB: Gibson FOR Hinrich,Substitution,,0,0
+62,64,PT05M04.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,16,22,38,v,Butler Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0
+63,66,PT04M46.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,-172,216,28,Missed,1,0,0,0,h,MISS McDaniels 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+64,67,PT04M44.00S,1,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,Davies REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+65,68,PT04M41.00S,1,1610612755,PHI,203561,Davies,B. Davies,-21,1,2,Missed,1,0,0,0,h,MISS Davies 2' Layup,Missed Shot,Layup Shot,1,0
+66,70,PT04M41.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+67,69,PT04M41.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,-16,7,2,Made,1,18,22,40,h,McDaniels 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,0
+68,71,PT04M41.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Gibson S.FOUL (P1.T2),Foul,Shooting,1,0
+69,72,PT04M41.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,19,22,41,h,McDaniels Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+70,74,PT04M21.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,1,0,Made,1,19,24,43,v,Gibson  Dunk (2 PTS) (Brooks 1 AST),Made Shot,Dunk Shot,1,0
+71,75,PT04M10.00S,1,1610612755,PHI,203100,Wroten,T. Wroten,-157,206,26,Missed,1,0,0,0,h,MISS Wroten 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+72,76,PT04M08.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+73,77,PT04M06.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,-92,26,10,Missed,1,0,0,0,h,MISS Mbah a Moute 10' Jump Shot,Missed Shot,Jump Shot,1,0
+74,78,PT04M05.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+75,79,PT03M56.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol Poss Lost Ball Turnover (P1.T3),Turnover,Poss Lost Ball Turnover,1,0
+76,80,PT03M56.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Mbah a Moute,Substitution,,0,0
+77,82,PT03M43.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler S.FOUL (P1.T3),Foul,Shooting,1,0
+78,83,PT03M43.00S,1,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,20,24,44,h,Wroten Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+79,85,PT03M43.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,SUB: McDermott FOR Dunleavy,Substitution,,0,0
+80,86,PT03M43.00S,1,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,21,24,45,h,Wroten Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+81,88,PT03M19.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,-98,-16,10,Missed,1,0,0,0,v,MISS Gasol 10' Jump Shot,Missed Shot,Jump Shot,1,0
+82,89,PT03M17.00S,1,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+83,90,PT03M02.00S,1,1610612755,PHI,203100,Wroten,T. Wroten,-4,-16,2,Made,1,23,24,47,h,Wroten 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0
+84,91,PT02M45.00S,1,1610612741,CHI,203926,McDermott,D. McDermott,206,153,26,Made,1,23,27,50,v,McDermott 26' 3PT Jump Shot (3 PTS) (Gibson 1 AST),Made Shot,Jump Shot,1,0
+85,92,PT02M28.00S,1,1610612755,PHI,203100,Wroten,T. Wroten,190,167,25,Made,1,26,27,53,h,Wroten 25' 3PT Jump Shot (10 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,0
+86,93,PT02M15.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels S.FOUL (P1.PN),Foul,Shooting,1,0
+87,94,PT02M15.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+88,96,PT02M15.00S,1,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,SUB: Shved FOR Wroten,Substitution,,0,0
+89,97,PT02M15.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,26,28,54,v,Gibson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+90,99,PT02M15.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,MISS Gibson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+91,101,PT02M14.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+92,102,PT01M59.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+93,103,PT01M39.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,-134,23,14,Made,1,26,30,56,v,Gibson 14' Jump Shot (5 PTS) (Butler 2 AST),Made Shot,Jump Shot,1,0
+94,104,PT01M18.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,92,132,16,Missed,1,0,0,0,h,MISS Thompson 16' Jump Shot,Missed Shot,Jump Shot,1,0
+95,104,PT01M18.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler BLOCK (1 BLK),,,1,0
+96,105,PT01M16.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+97,106,PT01M03.00S,1,1610612741,CHI,202710,Butler,J. Butler,211,140,25,Missed,1,0,0,0,v,MISS Butler 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+98,107,PT01M03.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+99,108,PT01M03.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol L.B.FOUL (P1.T4),Foul,Loose Ball,1,0
+100,109,PT00M49.90S,1,1610612755,PHI,203561,Davies,B. Davies,0,1,0,Made,1,28,30,58,h,Davies  Dunk (2 PTS) (Shved 1 AST),Made Shot,Dunk Shot,1,0
+101,110,PT00M36.90S,1,1610612741,CHI,2200,Gasol,P. Gasol,-93,37,10,Missed,1,0,0,0,v,MISS Gasol 10' Jump Shot,Missed Shot,Jump Shot,1,0
+102,111,PT00M34.90S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+103,112,PT00M33.90S,1,1610612741,CHI,202710,Butler,J. Butler,31,15,3,Missed,1,0,0,0,v,MISS Butler 3' Jump Shot,Missed Shot,Jump Shot,1,0
+104,113,PT00M31.90S,1,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,Davies REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+105,114,PT00M26.90S,1,1610612755,PHI,203561,Davies,B. Davies,-109,244,27,Missed,1,0,0,0,h,MISS Davies 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+106,115,PT00M23.90S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+107,116,PT00M03.90S,1,1610612741,CHI,202710,Butler,J. Butler,-41,247,25,Made,1,28,33,61,v,Butler 25' 3PT Jump Shot (13 PTS) (Gibson 2 AST),Made Shot,Jump Shot,1,0
+108,117,PT00M00.10S,1,1610612755,PHI,203144,Shved,A. Shved,162,269,31,Missed,1,0,0,0,h,MISS Shved 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+109,118,PT00M00.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+110,119,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,33,61,,End of 1st Period (7:33 PM EST),period,end,0,0
+111,121,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,33,61,,Start of 2nd Period (7:35 PM EST),period,start,0,0
+112,122,PT11M41.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,77,244,26,Missed,1,0,0,0,v,MISS McDermott 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+113,123,PT11M39.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,0,0,0,v,Mirotic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+114,124,PT11M39.00S,2,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson S.FOUL (P2.T1),Foul,Shooting,1,0
+115,125,PT11M39.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,0,0,0,v,MISS Mirotic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+116,127,PT11M39.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Rebound,Rebound,Unknown,0,0
+117,126,PT11M39.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,28,34,62,v,Mirotic Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+118,129,PT11M20.00S,2,1610612755,PHI,203561,Davies,B. Davies,-81,228,24,Made,1,31,34,65,h,Davies 24' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+119,130,PT11M00.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,18,250,25,Missed,1,0,0,0,v,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+120,131,PT10M57.00S,2,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+121,132,PT10M51.00S,2,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,v,Snell S.FOUL (P1.T1),Foul,Shooting,1,0
+122,133,PT10M51.00S,2,1610612755,PHI,203144,Shved,A. Shved,0,0,0,,0,32,34,66,h,Shved Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+123,136,PT10M51.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Thompson,Substitution,,0,0
+124,138,PT10M51.00S,2,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,SUB: Sampson FOR Johnson,Substitution,,0,0
+125,139,PT10M51.00S,2,1610612755,PHI,203144,Shved,A. Shved,0,0,0,,0,33,34,67,h,Shved Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+126,141,PT10M36.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,-23,-2,2,Made,1,33,36,69,v,McDermott 2' Driving Layup (5 PTS) (Brooks 2 AST),Made Shot,Driving Layup Shot,1,0
+127,142,PT10M30.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels Offensive Charge Foul (P2.T2),Foul,Offensive Charge,1,0
+128,143,PT10M30.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels Foul Turnover (P1.T3),Turnover,Foul,1,0
+129,144,PT10M30.00S,2,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,SUB: Sims FOR Davies,Substitution,,0,0
+130,145,PT10M15.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,28,-19,3,Missed,1,0,0,0,v,MISS Mirotic 3' Jump Shot,Missed Shot,Jump Shot,1,0
+131,146,PT10M13.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+132,147,PT10M07.00S,2,1610612755,PHI,203144,Shved,A. Shved,9,-10,1,Made,1,35,36,71,h,Shved 1' Layup (4 PTS),Made Shot,Layup Shot,1,0
+133,148,PT09M53.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,239,19,24,Missed,1,0,0,0,v,MISS Mirotic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+134,149,PT09M51.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+135,150,PT09M35.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,-119,118,17,Made,1,37,36,73,h,Mbah a Moute 17' Jump Shot (4 PTS) (Shved 2 AST),Made Shot,Jump Shot,1,0
+136,151,PT09M17.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,174,0,17,Made,1,37,38,75,v,Brooks 17' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,0
+137,152,PT08M55.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,56,6,Made,1,39,38,77,h,Sims 6' Running Hook Shot (6 PTS),Made Shot,Running Hook Shot,1,0
+138,153,PT08M33.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,v,McDermott Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+139,153,PT08M33.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson STEAL (1 STL),,,1,0
+140,154,PT08M30.00S,2,1610612755,PHI,203144,Shved,A. Shved,0,0,0,,0,0,0,0,h,Shved Offensive Charge Foul (P1.T3),Foul,Offensive Charge,1,0
+141,155,PT08M30.00S,2,1610612755,PHI,203144,Shved,A. Shved,0,0,0,,0,0,0,0,h,Shved Foul Turnover (P1.T4),Turnover,Foul,1,0
+142,156,PT08M30.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+143,158,PT08M21.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,-13,71,7,Missed,1,0,0,0,v,MISS Brooks 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+144,159,PT08M19.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+145,160,PT08M08.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,0,0,0,v,Mirotic P.FOUL (P1.T2),Foul,Personal,1,0
+146,161,PT08M08.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,SUB: Hinrich FOR Brooks,Substitution,,0,0
+147,162,PT08M08.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,0,0,0,v,SUB: Noah FOR Mirotic,Substitution,,0,0
+148,163,PT07M54.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,1,134,13,Missed,1,0,0,0,h,MISS McDaniels 13' Jump Shot,Missed Shot,Jump Shot,1,0
+149,164,PT07M52.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+150,165,PT07M50.00S,2,1610612755,PHI,203156,Sims,H. Sims,15,22,3,Made,1,41,38,79,h,Sims 3' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,0
+151,166,PT07M38.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-35,-16,4,Missed,1,0,0,0,v,MISS Gibson 4' Jump Shot,Missed Shot,Jump Shot,1,0
+152,167,PT07M36.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+153,168,PT07M29.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,-2,11,1,Made,1,43,38,81,h,Sampson 1' Layup (2 PTS) (McDaniels 2 AST),Made Shot,Layup Shot,1,0
+154,169,PT07M21.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+155,171,PT07M21.00S,2,1610612755,PHI,203144,Shved,A. Shved,0,0,0,,0,0,0,0,h,SUB: Wroten FOR Shved,Substitution,,0,0
+156,172,PT07M21.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,SUB: Johnson FOR McDaniels,Substitution,,0,0
+157,173,PT07M21.00S,2,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,v,SUB: Butler FOR Snell,Substitution,,0,0
+158,174,PT07M15.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,v,McDermott Offensive Charge Foul (P1.T3),Foul,Offensive Charge,1,0
+159,175,PT07M15.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,v,McDermott Foul Turnover (P2.T5),Turnover,Foul,1,0
+160,176,PT06M57.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah P.FOUL (P2.T4),Foul,Personal,1,0
+161,177,PT06M49.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,15,15,2,Missed,1,0,0,0,h,MISS Wroten 2' Layup,Missed Shot,Layup Shot,1,0
+162,179,PT06M47.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+163,178,PT06M47.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,21,19,3,Missed,1,0,0,0,h,MISS Wroten 3' Layup,Missed Shot,Layup Shot,1,0
+164,181,PT06M44.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+165,180,PT06M44.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,-4,6,1,Missed,1,0,0,0,h,MISS Mbah a Moute 1' Tip Shot,Missed Shot,Tip Shot,1,0
+166,182,PT06M43.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+167,183,PT06M40.00S,2,1610612741,CHI,202710,Butler,J. Butler,59,36,7,Missed,1,0,0,0,v,MISS Butler 7' Jump Shot,Missed Shot,Jump Shot,1,0
+168,184,PT06M39.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+169,185,PT06M35.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,0,1,0,Made,1,45,38,83,h,Wroten  Dunk (12 PTS) (Sampson 2 AST),Made Shot,Dunk Shot,1,0
+170,186,PT06M19.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,9,173,17,Missed,1,0,0,0,v,MISS Hinrich 17' Jump Shot,Missed Shot,Jump Shot,1,0
+171,187,PT06M18.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+172,188,PT06M18.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten S.FOUL (P1.T4),Foul,Shooting,1,0
+173,189,PT06M18.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,MISS Noah Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+174,190,PT06M18.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Rebound,Rebound,Normal Rebound,0,0
+175,191,PT06M18.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,45,39,84,v,Noah Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+176,193,PT06M04.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,-37,15,4,Missed,1,0,0,0,h,MISS Wroten 4' Jump Shot,Missed Shot,Jump Shot,1,0
+177,195,PT06M01.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+178,194,PT06M01.00S,2,1610612755,PHI,203156,Sims,H. Sims,-19,3,2,Made,1,47,39,86,h,Sims 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,0
+179,196,PT05M35.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute S.FOUL (P1.PN),Foul,Shooting,1,0
+180,197,PT05M35.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,47,40,87,v,Hinrich Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+181,199,PT05M35.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,SUB: Gasol FOR Gibson,Substitution,,0,0
+182,200,PT05M35.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,v,SUB: Dunleavy FOR McDermott,Substitution,,0,0
+183,201,PT05M35.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,MISS Hinrich Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+184,203,PT05M34.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+185,204,PT05M20.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,23,6,2,Made,1,49,40,89,h,Wroten 2' Driving Finger Roll Layup (14 PTS) (Johnson 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+186,205,PT05M03.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,-161,85,18,Made,1,49,42,91,v,Hinrich 18' Jump Shot (3 PTS),Made Shot,Jump Shot,1,0
+187,206,PT04M44.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,-29,12,3,Missed,1,0,0,0,h,MISS Mbah a Moute 3' Jump Shot,Missed Shot,Jump Shot,1,0
+188,207,PT04M43.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+189,208,PT04M39.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,51,25,6,Missed,1,0,0,0,v,MISS Hinrich 6' Jump Shot,Missed Shot,Jump Shot,1,0
+190,208,PT04M39.00S,2,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson BLOCK (1 BLK),,,1,0
+191,209,PT04M38.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Rebound,Rebound,Unknown,0,0
+192,210,PT04M36.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten S.FOUL (P2.PN),Foul,Shooting,1,0
+193,211,PT04M36.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,49,43,92,v,Dunleavy Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+194,213,PT04M36.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Mbah a Moute,Substitution,,0,0
+195,214,PT04M36.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,49,44,93,v,Dunleavy Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+196,216,PT04M22.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,140,209,25,Missed,1,0,0,0,h,MISS Wroten 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+197,217,PT04M20.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+198,218,PT04M06.00S,2,1610612741,CHI,202710,Butler,J. Butler,129,216,25,Missed,1,0,0,0,v,MISS Butler 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+199,219,PT04M04.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+200,220,PT03M53.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,0,15,2,Missed,1,0,0,0,h,MISS Wroten 2' Layup,Missed Shot,Layup Shot,1,0
+201,222,PT03M50.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+202,221,PT03M50.00S,2,1610612755,PHI,203156,Sims,H. Sims,-2,19,2,Missed,1,0,0,0,h,MISS Sims 2' Layup,Missed Shot,Layup Shot,1,0
+203,221,PT03M50.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol BLOCK (2 BLK),,,1,0
+204,223,PT03M47.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:4 Def:1),Rebound,Unknown,1,0
+205,224,PT03M46.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,-29,1,3,Missed,1,0,0,0,h,MISS Wroten 3' Layup,Missed Shot,Layup Shot,1,0
+206,224,PT03M46.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy BLOCK (1 BLK),,,1,0
+207,225,PT03M46.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+208,226,PT03M46.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+209,228,PT03M39.00S,2,1610612755,PHI,203187,Johnson,C. Johnson,-160,219,27,Missed,1,0,0,0,h,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+210,229,PT03M37.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+211,230,PT03M33.00S,2,1610612755,PHI,203187,Johnson,C. Johnson,-131,151,20,Missed,1,0,0,0,h,MISS Johnson 20' Jump Shot,Missed Shot,Jump Shot,1,0
+212,231,PT03M33.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+213,232,PT03M30.00S,2,1610612755,PHI,203156,Sims,H. Sims,-10,244,24,Made,1,52,44,96,h,Sims 24' 3PT Jump Shot (13 PTS) (Wroten 2 AST),Made Shot,Jump Shot,1,0
+214,234,PT03M14.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+215,233,PT03M14.00S,2,1610612741,CHI,202710,Butler,J. Butler,20,-2,2,Made,1,52,46,98,v,Butler 2' Layup (15 PTS),Made Shot,Layup Shot,1,0
+216,235,PT02M56.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims OFF.Foul (P3),Foul,Offensive,1,0
+217,236,PT02M56.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims Foul Turnover (P1.T5),Turnover,Foul,1,0
+218,237,PT02M56.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,SUB: Davies FOR Sampson,Substitution,,0,0
+219,238,PT02M56.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Sims,Substitution,,0,0
+220,239,PT02M48.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+221,239,PT02M48.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels STEAL (1 STL),,,1,0
+222,240,PT02M40.00S,2,1610612755,PHI,203561,Davies,B. Davies,42,172,18,Made,1,54,46,100,h,Davies 18' Jump Shot (7 PTS) (McDaniels 3 AST),Made Shot,Jump Shot,1,0
+223,241,PT02M18.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,206,135,25,Made,1,54,49,103,v,Dunleavy 25' 3PT Jump Shot (10 PTS) (Gasol 1 AST),Made Shot,Jump Shot,1,0
+224,242,PT02M00.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,-95,6,10,Missed,1,0,0,0,h,MISS Wroten 10' Jump Shot,Missed Shot,Jump Shot,1,0
+225,243,PT01M58.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+226,244,PT01M58.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0
+227,244,PT01M58.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten STEAL (1 STL),,,1,0
+228,245,PT01M53.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,15,258,26,Missed,1,0,0,0,h,MISS McDaniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+229,246,PT01M49.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+230,247,PT01M49.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson S.FOUL (P1.PN),Foul,Shooting,1,0
+231,248,PT01M49.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,54,50,104,v,Hinrich Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+232,250,PT01M49.00S,2,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,SUB: Shved FOR Johnson,Substitution,,0,0
+233,251,PT01M49.00S,2,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,SUB: Sampson FOR Wroten,Substitution,,0,0
+234,252,PT01M49.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,MISS Hinrich Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+235,254,PT01M47.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+236,255,PT01M43.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,154,217,27,Missed,1,0,0,0,v,MISS Dunleavy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+237,256,PT01M40.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+238,257,PT01M33.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson S.FOUL (P2.PN),Foul,Shooting,1,0
+239,259,PT01M33.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,54,51,105,v,Hinrich Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+240,261,PT01M33.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,54,52,106,v,Hinrich Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+241,262,PT01M17.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,163,209,27,Made,1,57,52,109,h,Thompson 27' 3PT Jump Shot (10 PTS) (Davies 1 AST),Made Shot,Jump Shot,1,0
+242,263,PT00M57.90S,2,1610612741,CHI,201149,Noah,J. Noah,176,4,18,Missed,1,0,0,0,v,MISS Noah 18' Jump Shot,Missed Shot,Jump Shot,1,0
+243,265,PT00M57.50S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+244,264,PT00M57.50S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,1,0,Made,1,57,54,111,v,Gasol  Dunk (9 PTS),Made Shot,Dunk Shot,1,0
+245,266,PT00M39.80S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels OFF.Foul (P3),Foul,Offensive,1,0
+246,267,PT00M39.80S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels Foul Turnover (P2.T6),Turnover,Foul,1,0
+247,268,PT00M39.80S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR McDaniels,Substitution,,0,0
+248,271,PT00M28.90S,2,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0
+249,271,PT00M28.90S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson STEAL (1 STL),,,1,0
+250,272,PT00M23.80S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+251,274,PT00M11.40S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah Shooting Block Foul (P3.PN),Foul,Shooting Block,1,0
+252,275,PT00M11.40S,2,1610612755,PHI,203144,Shved,A. Shved,0,0,0,,0,0,0,0,h,MISS Shved Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+253,276,PT00M11.40S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+254,277,PT00M11.40S,2,1610612755,PHI,203144,Shved,A. Shved,0,0,0,,0,0,0,0,h,MISS Shved Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+255,279,PT00M09.90S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+256,280,PT00M02.30S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-177,-13,18,Made,1,57,56,113,v,Dunleavy 18' Pullup Jump Shot (12 PTS) (Hinrich 2 AST),Made Shot,Pullup Jump shot,1,0
+257,285,PT00M02.30S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson L.B.FOUL (P3.PN),Foul,Loose Ball,1,0
+258,286,PT00M02.30S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,57,57,114,v,Noah Free Throw 1 of 1 (2 PTS),Free Throw,Free Throw 1 of 1,0,0
+259,288,PT00M00.00S,2,0,,0,,,0,0,0,,0,57,57,114,,End of 2nd Period (8:06 PM EST),period,end,0,0
+260,291,PT12M00.00S,3,0,,0,,,0,0,0,,0,57,57,114,,Start of 3rd Period (8:22 PM EST),period,start,0,0
+261,292,PT11M38.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-30,107,11,Missed,1,0,0,0,v,MISS Hinrich 11' Jump Shot,Missed Shot,Jump Shot,1,0
+262,293,PT11M36.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+263,294,PT11M29.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,20,-14,2,Made,1,59,57,116,h,Mbah a Moute 2' Running Layup (6 PTS) (Wroten 3 AST),Made Shot,Running Layup Shot,1,0
+264,295,PT11M08.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,193,148,24,Made,1,59,60,119,v,Hinrich 24' 3PT Jump Shot (9 PTS) (Dunleavy 2 AST),Made Shot,Jump Shot,1,0
+265,296,PT10M46.00S,3,1610612755,PHI,203561,Davies,B. Davies,-117,83,14,Missed,1,0,0,0,h,MISS Davies 14' Jump Shot,Missed Shot,Jump Shot,1,0
+266,297,PT10M45.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+267,298,PT10M39.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,184,156,24,Made,1,59,63,122,v,Dunleavy 24' 3PT Jump Shot (15 PTS) (Hinrich 3 AST),Made Shot,Jump Shot,1,0
+268,299,PT10M15.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,97,176,20,Missed,1,0,0,0,h,MISS Mbah a Moute 20' Jump Shot,Missed Shot,Jump Shot,1,0
+269,300,PT10M13.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+270,301,PT09M53.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-16,255,26,Missed,1,0,0,0,v,MISS Hinrich 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+271,302,PT09M51.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+272,303,PT09M40.00S,3,1610612755,PHI,203100,Wroten,T. Wroten,-147,241,28,Made,1,62,63,125,h,Wroten 28' 3PT Jump Bank Shot (17 PTS) (Mbah a Moute 2 AST),Made Shot,Jump Bank Shot,1,0
+273,304,PT09M18.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,1,72,7,Made,1,62,65,127,v,Gasol 7' Floating Jump Shot (11 PTS) (Butler 3 AST),Made Shot,Floating Jump shot,1,0
+274,305,PT09M05.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0
+275,306,PT08M46.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-103,239,26,Missed,1,0,0,0,v,MISS Dunleavy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+276,308,PT08M44.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+277,307,PT08M44.00S,3,1610612741,CHI,202710,Butler,J. Butler,-2,4,0,Missed,1,0,0,0,v,MISS Butler  Tip Shot,Missed Shot,Tip Shot,1,0
+278,310,PT08M44.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+279,309,PT08M44.00S,3,1610612741,CHI,201149,Noah,J. Noah,-5,9,1,Made,1,62,67,129,v,Noah 1' Layup (4 PTS),Made Shot,Layup Shot,1,0
+280,311,PT08M44.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson S.FOUL (P4.T1),Foul,Shooting,1,0
+281,312,PT08M44.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Thompson,Substitution,,0,0
+282,313,PT08M44.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,62,68,130,v,Noah Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+283,315,PT08M26.00S,3,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0
+284,315,PT08M26.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich STEAL (1 STL),,,1,0
+285,316,PT08M08.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-201,151,25,Made,1,62,71,133,v,Dunleavy 25' 3PT Jump Shot (18 PTS) (Hinrich 4 AST),Made Shot,Jump Shot,1,0
+286,317,PT08M07.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+287,320,PT07M53.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,118,123,17,Made,1,64,71,135,h,Mbah a Moute 17' Jump Shot (8 PTS) (McDaniels 4 AST),Made Shot,Jump Shot,1,0
+288,321,PT07M31.00S,3,1610612741,CHI,201149,Noah,J. Noah,7,-10,1,Missed,1,0,0,0,v,MISS Noah 1' Layup,Missed Shot,Layup Shot,1,0
+289,322,PT07M29.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+290,323,PT07M22.00S,3,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten Offensive Charge Foul (P3.T2),Foul,Offensive Charge,1,0
+291,324,PT07M22.00S,3,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten Foul Turnover (P1.T9),Turnover,Foul,1,0
+292,325,PT07M08.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-16,1,2,Made,1,64,73,137,v,Dunleavy 2' Driving Layup (20 PTS) (Noah 2 AST),Made Shot,Driving Layup Shot,1,0
+293,326,PT06M59.00S,3,1610612755,PHI,203561,Davies,B. Davies,-8,258,26,Missed,1,0,0,0,h,MISS Davies 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+294,327,PT06M57.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+295,328,PT06M41.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-235,-11,24,Made,1,64,76,140,v,Dunleavy 24' 3PT Jump Shot (23 PTS) (Hinrich 5 AST),Made Shot,Jump Shot,1,0
+296,329,PT06M19.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,-27,160,16,Missed,1,0,0,0,h,MISS Sampson 16' Jump Shot,Missed Shot,Jump Shot,1,0
+297,330,PT06M17.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+298,331,PT06M05.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+299,332,PT06M05.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,SUB: Sims FOR Sampson,Substitution,,0,0
+300,333,PT06M05.00S,3,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,SUB: Johnson FOR Davies,Substitution,,0,0
+301,334,PT05M47.00S,3,1610612755,PHI,203100,Wroten,T. Wroten,-35,241,24,Missed,1,0,0,0,h,MISS Wroten 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+302,335,PT05M46.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+303,336,PT05M37.00S,3,1610612755,PHI,203909,McDaniels,K. McDaniels,23,22,3,Missed,1,0,0,0,h,MISS McDaniels 3' Jump Shot,Missed Shot,Jump Shot,1,0
+304,337,PT05M35.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+305,338,PT05M16.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,83,225,24,Missed,1,0,0,0,v,MISS Hinrich 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+306,339,PT05M15.00S,3,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+307,340,PT05M13.00S,3,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0
+308,340,PT05M13.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol STEAL (1 STL),,,1,0
+309,341,PT05M11.00S,3,1610612741,CHI,202710,Butler,J. Butler,18,12,2,Missed,1,0,0,0,v,MISS Butler 2' Layup,Missed Shot,Layup Shot,0,0
+310,343,PT05M10.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:4 Def:1),Rebound,Unknown,0,0
+311,342,PT05M09.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,-2,0,Made,1,64,78,142,v,Butler  Putback Layup (17 PTS),Made Shot,Putback Layup Shot,1,0
+312,344,PT04M52.00S,3,1610612755,PHI,203100,Wroten,T. Wroten,-10,11,1,Made,1,66,78,144,h,Wroten 1' Driving Layup (19 PTS) (Sims 3 AST),Made Shot,Driving Layup Shot,1,0
+313,345,PT04M32.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0
+314,345,PT04M32.00S,3,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson STEAL (1 STL),,,1,0
+315,346,PT04M26.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,13,7,1,Missed,1,0,0,0,h,MISS Mbah a Moute 1' Layup,Missed Shot,Layup Shot,1,0
+316,347,PT04M24.00S,3,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+317,348,PT04M24.00S,3,1610612755,PHI,203909,McDaniels,K. McDaniels,-18,0,2,Made,1,68,78,146,h,McDaniels 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,0
+318,349,PT04M24.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler S.FOUL (P2.T1),Foul,Shooting,1,0
+319,350,PT04M24.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,SUB: Gibson FOR Hinrich,Substitution,,0,0
+320,351,PT04M24.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,SUB: Brooks FOR Noah,Substitution,,0,0
+321,352,PT04M24.00S,3,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,69,78,147,h,McDaniels Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0
+322,354,PT04M24.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Mbah a Moute,Substitution,,0,0
+323,355,PT04M08.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,-98,0,10,Missed,1,0,0,0,v,MISS Gasol 10' Jump Shot,Missed Shot,Jump Shot,1,0
+324,356,PT04M07.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+325,357,PT04M02.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,-15,0,2,Made,1,71,78,149,h,Thompson 2' Driving Layup (12 PTS) (Wroten 4 AST),Made Shot,Driving Layup Shot,1,0
+326,358,PT04M02.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Gibson S.FOUL (P2.T2),Foul,Shooting,1,0
+327,359,PT04M02.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,72,78,150,h,Thompson Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0
+328,361,PT03M48.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,-11,7,1,Made,1,72,80,152,v,Gasol 1' Finger Roll Layup (13 PTS) (Brooks 3 AST),Made Shot,Finger Roll Layup Shot,1,0
+329,362,PT03M39.00S,3,1610612755,PHI,203100,Wroten,T. Wroten,10,-3,1,Made,1,74,80,154,h,Wroten 1' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,0
+330,363,PT03M23.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,76ERS T.Foul (Def. 3 Sec Thompson ),Foul,Defense 3 Second,1,0
+331,364,PT03M23.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,74,81,155,v,Dunleavy Free Throw Technical (24 PTS),Free Throw,Free Throw Technical,0,0
+332,368,PT03M12.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,-11,52,5,Missed,1,0,0,0,v,MISS Gasol 5' Hook Shot,Missed Shot,Hook Shot,1,0
+333,369,PT03M10.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+334,370,PT03M06.00S,3,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten Offensive Charge Foul (P4.T3),Foul,Offensive Charge,1,0
+335,371,PT03M06.00S,3,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten Foul Turnover (P2.T11),Turnover,Foul,1,0
+336,372,PT03M06.00S,3,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,SUB: Shved FOR Wroten,Substitution,,0,0
+337,373,PT02M51.00S,3,1610612741,CHI,202710,Butler,J. Butler,24,-17,3,Made,1,74,83,157,v,Butler 3' Running Layup (19 PTS) (Dunleavy 3 AST),Made Shot,Running Layup Shot,1,0
+338,374,PT02M27.00S,3,1610612755,PHI,203156,Sims,H. Sims,81,-16,8,Missed,1,0,0,0,h,MISS Sims 8' Hook Shot,Missed Shot,Hook Shot,1,0
+339,375,PT02M24.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+340,376,PT02M11.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,4,-16,2,Made,1,74,85,159,v,Gibson 2' Layup (7 PTS) (Brooks 4 AST),Made Shot,Layup Shot,1,0
+341,377,PT01M52.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,-46,246,25,Missed,1,0,0,0,h,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+342,378,PT01M50.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+343,379,PT01M45.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,31,260,26,Made,1,74,88,162,v,Brooks 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+344,380,PT01M44.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Short (Full 3 Short 2),Timeout,Short,0,0
+345,381,PT01M44.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+346,385,PT01M35.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol S.FOUL (P2.T3),Foul,Shooting,1,0
+347,386,PT01M35.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,75,88,163,h,Thompson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+348,388,PT01M35.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,76,88,164,h,Thompson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+349,390,PT01M20.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,183,18,Missed,1,0,0,0,v,MISS Dunleavy 18' Jump Shot,Missed Shot,Jump Shot,1,0
+350,392,PT01M19.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Gibson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+351,391,PT01M19.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,2,7,1,Made,1,76,90,166,v,Gibson 1' Tip Shot (9 PTS),Made Shot,Tip Shot,1,0
+352,393,PT00M55.90S,3,1610612755,PHI,203144,Shved,A. Shved,64,168,18,Missed,1,0,0,0,h,MISS Shved 18' Jump Shot,Missed Shot,Jump Shot,1,0
+353,394,PT00M54.90S,3,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+354,395,PT00M50.00S,3,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels S.FOUL (P4.T4),Foul,Shooting,1,0
+355,396,PT00M50.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,76,91,167,v,Butler Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+356,398,PT00M50.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Thompson,Substitution,,0,0
+357,399,PT00M50.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,SUB: McDermott FOR Dunleavy,Substitution,,0,0
+358,400,PT00M50.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,76,92,168,v,Butler Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+359,402,PT00M35.90S,3,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0
+360,402,PT00M35.90S,3,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks STEAL (1 STL),,,1,0
+361,403,PT00M28.90S,3,1610612741,CHI,201166,Brooks,A. Brooks,-21,247,25,Missed,1,0,0,0,v,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+362,404,PT00M27.40S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:4 Def:6),Rebound,Unknown,1,0
+363,405,PT00M20.90S,3,1610612755,PHI,203144,Shved,A. Shved,26,7,3,Missed,1,0,0,0,h,MISS Shved 3' Layup,Missed Shot,Layup Shot,1,0
+364,406,PT00M19.90S,3,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,v,McDermott REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+365,408,PT00M00.10S,3,1610612741,CHI,201166,Brooks,A. Brooks,97,-8,10,Missed,1,0,0,0,v,MISS Brooks 10' Jump Shot,Missed Shot,Jump Shot,1,0
+366,409,PT00M00.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Rebound,Rebound,Unknown,0,0
+367,410,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,92,168,,End of 3rd Period (8:45 PM EST),period,end,0,0
+368,411,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,92,168,,Start of 4th Period (8:48 PM EST),period,start,0,0
+369,412,PT11M45.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler P.FOUL (P3.T1),Foul,Personal,1,0
+370,413,PT11M31.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0
+371,414,PT11M16.00S,4,1610612741,CHI,201166,Brooks,A. Brooks,86,45,10,Made,1,76,94,170,v,Brooks 10' Hook Shot (7 PTS) (Butler 4 AST),Made Shot,Hook Shot,1,0
+372,415,PT11M00.00S,4,1610612755,PHI,203187,Johnson,C. Johnson,-18,0,2,Made,1,78,94,172,h,Johnson 2' Layup (2 PTS) (Davies 2 AST),Made Shot,Layup Shot,1,0
+373,416,PT10M42.00S,4,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0
+374,416,PT10M42.00S,4,1610612755,PHI,203144,Shved,A. Shved,0,0,0,,0,0,0,0,h,Shved STEAL (1 STL),,,1,0
+375,417,PT10M37.00S,4,1610612755,PHI,203144,Shved,A. Shved,-7,-13,1,Made,1,80,94,174,h,Shved 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+376,418,PT10M14.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-4,60,6,Made,1,80,96,176,v,Gibson 6' Jump Shot (11 PTS) (Butler 5 AST),Made Shot,Jump Shot,1,0
+377,419,PT09M50.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,-82,249,26,Made,1,83,96,179,h,Mbah a Moute 26' 3PT Jump Shot (11 PTS) (Sampson 3 AST),Made Shot,Jump Shot,1,0
+378,420,PT09M35.00S,4,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,SUB: Wroten FOR Sampson,Substitution,,0,0
+379,421,PT09M35.00S,4,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Johnson,Substitution,,0,0
+380,422,PT09M35.00S,4,1610612755,PHI,203144,Shved,A. Shved,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Shved,Substitution,,0,0
+381,424,PT09M27.00S,4,1610612741,CHI,201166,Brooks,A. Brooks,171,239,29,Made,1,83,99,182,v,Brooks 29' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,0
+382,425,PT09M13.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,-4,249,25,Made,1,86,99,185,h,Thompson 25' 3PT Jump Shot (18 PTS) (Davies 3 AST),Made Shot,Jump Shot,1,0
+383,426,PT08M59.00S,4,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,Davies S.FOUL (P1.T1),Foul,Shooting,1,0
+384,427,PT08M59.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+385,428,PT08M59.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,86,100,186,v,Butler Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0
+386,430,PT08M59.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,86,101,187,v,Butler Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+387,432,PT08M50.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Bulls T.Foul (Def. 3 Sec Gibson ),Foul,Defense 3 Second,1,0
+388,433,PT08M50.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,MISS Thompson Free Throw Technical,Free Throw,Free Throw Technical,0,0
+389,434,PT08M50.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+390,435,PT08M50.00S,4,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,SUB: Hinrich FOR Brooks,Substitution,,0,0
+391,436,PT08M50.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,SUB: Snell FOR Butler,Substitution,,0,0
+392,437,PT08M39.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,0,0,0,v,Mirotic S.FOUL (P2.T2),Foul,Shooting,1,0
+393,438,PT08M39.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,87,101,188,h,Mbah a Moute Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+394,440,PT08M39.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,88,101,189,h,Mbah a Moute Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+395,442,PT08M22.00S,4,1610612741,CHI,203503,Snell,T. Snell,-221,14,0,Made,1,88,104,192,v,Snell  3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,0
+396,443,PT08M08.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,24,12,3,Made,1,90,104,194,h,Wroten 3' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,0
+397,444,PT07M57.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Gibson OFF.Foul (P3),Foul,Offensive,1,0
+398,445,PT07M57.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Gibson Foul Turnover (P1.T12),Turnover,Foul,1,0
+399,446,PT07M57.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,0,0,0,v,SUB: Noah FOR Mirotic,Substitution,,0,0
+400,447,PT07M45.00S,4,1610612755,PHI,203909,McDaniels,K. McDaniels,13,19,2,Missed,1,0,0,0,h,MISS McDaniels 2' Layup,Missed Shot,Layup Shot,1,0
+401,447,PT07M45.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Gibson BLOCK (1 BLK),,,1,0
+402,448,PT07M43.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Gibson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+403,449,PT07M30.00S,4,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels P.FOUL (P5.T2),Foul,Personal,1,0
+404,450,PT07M30.00S,4,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,SUB: Sampson FOR McDaniels,Substitution,,0,0
+405,451,PT07M20.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,-207,153,26,Made,1,90,107,197,v,McDermott 26' 3PT Jump Shot (8 PTS) (Gibson 3 AST),Made Shot,Jump Shot,1,0
+406,452,PT07M10.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,91,228,25,Made,1,93,107,200,h,Mbah a Moute 25' 3PT Jump Shot (16 PTS) (Wroten 5 AST),Made Shot,Jump Shot,1,0
+407,453,PT06M55.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten P.FOUL (P5.T3),Foul,Personal,1,0
+408,454,PT06M47.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,18,6,2,Made,1,93,109,202,v,Hinrich 2' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+409,455,PT06M35.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,-71,250,26,Missed,1,0,0,0,h,MISS Wroten 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+410,456,PT06M33.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:5 Def:6),Rebound,Unknown,1,0
+411,457,PT06M32.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,0
+412,459,PT06M32.00S,4,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,SUB: Sims FOR Davies,Substitution,,0,0
+413,460,PT06M19.00S,4,1610612755,PHI,203156,Sims,H. Sims,-138,-10,14,Made,1,95,109,204,h,Sims 14' Jump Shot (15 PTS) (Mbah a Moute 3 AST),Made Shot,Jump Shot,1,0
+414,461,PT06M19.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah S.FOUL (P4.T3),Foul,Shooting,1,0
+415,462,PT06M19.00S,4,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,96,109,205,h,Sims Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0
+416,464,PT05M57.00S,4,1610612741,CHI,201149,Noah,J. Noah,-75,0,8,Missed,1,0,0,0,v,MISS Noah 8' Jump Shot,Missed Shot,Jump Shot,1,0
+417,464,PT05M57.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute BLOCK (1 BLK),,,1,0
+418,465,PT05M54.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+419,466,PT05M51.00S,4,1610612755,PHI,203960,Sampson,J. Sampson,0,1,0,Made,1,98,109,207,h,Sampson  Slam Dunk (4 PTS) (Wroten 6 AST),Made Shot,Slam Dunk Shot,1,0
+420,467,PT05M50.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+421,469,PT05M50.00S,4,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,0,0,0,v,SUB: Butler FOR Snell,Substitution,,0,0
+422,470,PT05M50.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,0,0,0,v,SUB: Dunleavy FOR McDermott,Substitution,,0,0
+423,471,PT05M30.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-155,108,19,Missed,1,0,0,0,v,MISS Dunleavy 19' Jump Shot,Missed Shot,Jump Shot,1,0
+424,472,PT05M29.00S,4,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+425,473,PT05M25.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,-21,9,2,Made,1,100,109,209,h,Wroten 2' Driving Layup (25 PTS) (Sims 4 AST),Made Shot,Driving Layup Shot,1,0
+426,474,PT05M05.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,200,20,20,Missed,1,0,0,0,v,MISS Hinrich 20' Jump Shot,Missed Shot,Jump Shot,1,0
+427,475,PT05M03.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+428,476,PT04M48.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,Gibson S.FOUL (P4.T4),Foul,Shooting,1,0
+429,477,PT04M48.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+430,478,PT04M48.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+431,479,PT04M48.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,v,SUB: Gasol FOR Gibson,Substitution,,0,0
+432,480,PT04M48.00S,4,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Sampson,Substitution,,0,0
+433,481,PT04M48.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+434,483,PT04M46.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+435,484,PT04M44.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,-29,30,4,Missed,1,0,0,0,h,MISS Thompson 4' Jump Shot,Missed Shot,Jump Shot,1,0
+436,484,PT04M44.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah BLOCK (1 BLK),,,1,0
+437,485,PT04M42.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+438,486,PT04M27.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich Traveling Turnover (P3.T13),Turnover,Traveling,1,0
+439,487,PT04M13.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,47,48,7,Missed,1,0,0,0,h,MISS Wroten 7' Jump Shot,Missed Shot,Jump Shot,1,0
+440,488,PT04M11.00S,4,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:5 Def:2),Rebound,Unknown,1,0
+441,489,PT04M09.00S,4,1610612755,PHI,203156,Sims,H. Sims,-54,11,6,Missed,1,0,0,0,h,MISS Sims 6' Jump Shot,Missed Shot,Jump Shot,1,0
+442,490,PT04M08.00S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+443,491,PT03M47.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,-114,-2,11,Missed,1,0,0,0,v,MISS Hinrich 11' Jump Shot,Missed Shot,Jump Shot,1,0
+444,492,PT03M47.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Rebound,Rebound,Unknown,0,0
+445,493,PT03M31.00S,4,1610612741,CHI,2200,Gasol,P. Gasol,-46,175,18,Made,1,100,111,211,v,Gasol 18' Jump Shot (15 PTS) (Hinrich 6 AST),Made Shot,Jump Shot,1,0
+446,494,PT03M22.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,v,Noah P.FOUL (P5.PN),Foul,Personal,1,0
+447,495,PT03M22.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,101,111,212,h,Wroten Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0
+448,497,PT03M22.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,102,111,213,h,Wroten Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0
+449,500,PT03M11.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Davies FOR Mbah a Moute,Substitution,,0,0
+450,501,PT03M04.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-109,121,16,Made,1,102,113,215,v,Dunleavy 16' Pullup Jump Shot (26 PTS) (Hinrich 7 AST),Made Shot,Pullup Jump shot,1,0
+451,502,PT02M56.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich S.FOUL (P1.PN),Foul,Shooting,1,0
+452,503,PT02M56.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,MISS Wroten Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+453,504,PT02M56.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+454,505,PT02M56.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,103,113,216,h,Wroten Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0
+455,507,PT02M42.00S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0
+456,507,PT02M42.00S,4,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels STEAL (2 STL),,,1,0
+457,509,PT02M33.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,-101,236,26,Missed,1,0,0,0,h,MISS Wroten 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+458,510,PT02M31.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+459,511,PT02M28.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,-68,56,9,Missed,1,0,0,0,h,MISS Thompson 9' Jump Shot,Missed Shot,Jump Shot,1,0
+460,512,PT02M27.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+461,513,PT02M08.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich Offensive Charge Foul (P2.PN),Foul,Offensive Charge,1,0
+462,514,PT02M08.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich Foul Turnover (P4.T15),Turnover,Foul,1,0
+463,515,PT01M57.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,-150,228,27,Missed,1,0,0,0,h,MISS Thompson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+464,516,PT01M56.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Rebound,Rebound,Unknown,0,0
+465,517,PT01M56.00S,4,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,Davies L.B.FOUL (P2.T4),Foul,Loose Ball,1,0
+466,518,PT01M46.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,145,15,Missed,1,0,0,0,v,MISS Dunleavy 15' Jump Shot,Missed Shot,Jump Shot,1,0
+467,519,PT01M43.00S,4,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:5 Def:3),Rebound,Unknown,1,0
+468,520,PT01M39.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler S.FOUL (P4.PN),Foul,Shooting,1,0
+469,521,PT01M39.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,104,113,217,h,Wroten Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0
+470,523,PT01M39.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,MISS Wroten Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+471,525,PT01M38.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+472,526,PT01M26.00S,4,1610612755,PHI,203100,Wroten,T. Wroten,-6,9,1,Made,1,106,113,219,h,Wroten 1' Driving Layup (31 PTS),Made Shot,Driving Layup Shot,1,0
+473,529,PT01M06.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+474,531,PT01M06.00S,4,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR McDaniels,Substitution,,0,0
+475,532,PT01M04.00S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol Out of Bounds Lost Ball Turnover (P4.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0
+476,533,PT00M55.90S,4,1610612755,PHI,203100,Wroten,T. Wroten,-30,3,3,Missed,1,0,0,0,h,MISS Wroten 3' Jump Shot,Missed Shot,Jump Shot,1,0
+477,534,PT00M51.90S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+478,535,PT00M38.30S,4,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Sims,Substitution,,0,0
+479,536,PT00M36.40S,4,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,Davies S.FOUL (P3.PN),Foul,Shooting,1,0
+480,537,PT00M36.40S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,106,114,220,v,Gasol Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+481,539,PT00M36.40S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,SUB: Sims FOR Thompson,Substitution,,0,0
+482,540,PT00M36.40S,4,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,106,115,221,v,Gasol Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+483,542,PT00M36.40S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Short (Full 4 Short 3),Timeout,Short,0,0
+484,544,PT00M36.40S,4,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,SUB: Thompson FOR McDaniels,Substitution,,0,0
+485,545,PT00M36.40S,4,1610612755,PHI,203561,Davies,B. Davies,0,0,0,,0,0,0,0,h,SUB: Johnson FOR Davies,Substitution,,0,0
+486,561,PT00M31.30S,4,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Timeout: Short (Reg.5 Short 1),Timeout,Short,0,0
+487,546,PT00M30.10S,4,1610612755,PHI,203187,Johnson,C. Johnson,-157,200,25,Made,1,109,115,224,h,Johnson 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+488,550,PT00M27.70S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,Hinrich Out of Bounds Lost Ball Turnover (P5.T17),Turnover,Out of Bounds Lost Ball Turnover,1,0
+489,551,PT00M27.70S,4,0,,550,,,0,0,0,,0,0,0,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0
+490,553,PT00M22.90S,4,1610612755,PHI,203100,Wroten,T. Wroten,222,121,25,Missed,1,0,0,0,h,MISS Wroten 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+491,554,PT00M20.90S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+492,555,PT00M19.20S,4,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson P.FOUL (P3.PN),Foul,Personal,1,0
+493,556,PT00M19.20S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,MISS Dunleavy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+494,557,PT00M19.20S,4,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Rebound,Rebound,Normal Rebound,0,0
+495,558,PT00M19.20S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,109,116,225,v,Dunleavy Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0
+496,560,PT00M19.20S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 5 Short 3),Timeout,Regular,0,0
+497,563,PT00M14.90S,4,1610612755,PHI,203138,Thompson,H. Thompson,-232,-6,0,Made,1,112,116,228,h,Thompson  3PT Jump Shot (21 PTS) (Sims 5 AST),Made Shot,Jump Shot,1,0
+498,566,PT00M11.60S,4,1610612755,PHI,203187,Johnson,C. Johnson,0,0,0,,0,0,0,0,h,Johnson P.FOUL (P4.PN),Foul,Personal,1,0
+499,568,PT00M11.60S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,MISS Hinrich Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+500,569,PT00M11.60S,4,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Rebound,Rebound,Normal Rebound,0,0
+501,570,PT00M11.60S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,v,MISS Hinrich Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+502,572,PT00M10.90S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+503,573,PT00M05.90S,4,1610612755,PHI,203187,Johnson,C. Johnson,-188,178,26,Made,1,115,116,231,h,Johnson 26' 3PT Jump Shot (8 PTS) (Wroten 7 AST),Made Shot,Jump Shot,1,0
+504,574,PT00M05.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,v,Bulls Timeout: Short (Reg.5 Short 2),Timeout,Short,0,0
+505,576,PT00M05.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0,0,0,v,SUB: Brooks FOR Butler,Substitution,,0,0
+506,577,PT00M02.10S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,Wroten P.FOUL (P6.PN),Foul,Personal,1,0
+507,578,PT00M02.10S,4,1610612755,PHI,203100,Wroten,T. Wroten,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Wroten,Substitution,,0,0
+508,579,PT00M02.10S,4,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,SUB: Butler FOR Brooks,Substitution,,0,0
+509,580,PT00M02.10S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,115,117,232,v,Hinrich Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0
+510,582,PT00M02.10S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,115,118,233,v,Hinrich Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0
+511,584,PT00M00.10S,4,1610612755,PHI,203187,Johnson,C. Johnson,-201,377,43,Missed,1,0,0,0,h,MISS Johnson 43' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+512,585,PT00M00.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+513,586,PT00M00.00S,4,0,,0,,,0,0,0,,0,115,118,233,,End of 4th Period (9:34 PM EST),period,end,0,0

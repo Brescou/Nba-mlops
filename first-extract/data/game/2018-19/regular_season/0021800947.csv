@@ -1,0 +1,521 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (3:40 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Jump Ball Zubac vs. Vonleh: Tip to Shamet,Jump Ball,,1,0
+3,7,PT11M41.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,27,14,3,Made,1,2,0,2,h,Gallinari 3' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,0
+4,8,PT11M12.00S,1,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,13,11,2,Made,1,2,2,4,v,Smith Jr. 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+5,9,PT11M01.00S,1,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+6,9,PT11M01.00S,1,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. STEAL (1 STL),,,1,0
+7,11,PT10M57.00S,1,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,-2,12,1,Made,1,2,4,6,v,Smith Jr. 1' Running Finger Roll Layup (4 PTS) (Thomas 1 AST),Made Shot,Running Finger Roll Layup Shot,1,0
+8,13,PT10M44.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,6,29,3,Missed,1,,,0,h,MISS Zubac 3' Layup,Missed Shot,Layup Shot,1,0
+9,13,PT10M44.00S,1,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. BLOCK (1 BLK),,,1,0
+10,15,PT10M41.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,,,0,v,Dotson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+11,16,PT10M38.00S,1,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,-136,243,28,Missed,1,,,0,v,MISS Smith Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+12,17,PT10M34.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+13,18,PT10M28.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,5,21,2,Made,1,4,4,8,h,Gallinari 2' Layup (4 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Layup Shot,1,0
+14,20,PT10M13.00S,1,1610612752,NYK,202498,Thomas,L. Thomas,129,154,20,Missed,1,,,0,v,MISS Thomas 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+15,21,PT10M09.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+16,22,PT09M57.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+17,22,PT09M57.00S,1,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,Knox II STEAL (1 STL),,,1,0
+18,24,PT09M49.00S,1,1610612752,NYK,1628995,Knox II,K. Knox II,4,270,27,Missed,1,,,0,v,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+19,25,PT09M45.00S,1,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+20,26,PT09M39.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,-47,250,25,Missed,1,,,0,h,MISS Gallinari 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+21,27,PT09M36.00S,1,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+22,28,PT09M30.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,-27,34,4,Missed,1,,,0,v,MISS Dotson 4' Running Layup,Missed Shot,Running Layup Shot,1,0
+23,29,PT09M27.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,,,0,v,Dotson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+24,30,PT09M27.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,0,-6,1,Missed,1,,,0,v,MISS Dotson 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+25,31,PT09M27.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+26,32,PT09M21.00S,1,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-20,10,2,Missed,1,,,0,h,MISS Gilgeous-Alexander 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,0
+27,33,PT09M21.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+28,34,PT09M16.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,-128,224,26,Made,1,7,4,11,h,Shamet 26' 3PT Jump Shot (3 PTS) (Zubac 1 AST),Made Shot,Jump Shot,1,0
+29,36,PT08M57.00S,1,1610612752,NYK,1628995,Knox II,K. Knox II,-153,160,22,Missed,1,,,0,v,MISS Knox II 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+30,37,PT08M53.00S,1,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+31,38,PT08M50.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,,,0,v,Dotson P.FOUL (P1.T1) (T.Maddox),Foul,Personal,1,0
+32,40,PT08M36.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,-139,221,26,Made,1,10,4,14,h,Shamet 26' 3PT Jump Shot (6 PTS) (Gallinari 1 AST),Made Shot,Jump Shot,1,0
+33,42,PT08M30.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+34,43,PT08M20.00S,1,1610612752,NYK,202498,Thomas,L. Thomas,133,105,17,Missed,1,,,0,v,MISS Thomas 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+35,44,PT08M17.00S,1,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+36,45,PT07M58.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,150,104,18,Made,1,12,4,16,h,Gallinari 18' Jump Shot (6 PTS),Made Shot,Jump Shot,1,0
+37,46,PT07M39.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,160,217,27,Made,1,12,7,19,v,Dotson 27' 3PT Jump Shot (3 PTS) (Thomas 2 AST),Made Shot,Jump Shot,1,0
+38,48,PT07M12.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,-184,179,26,Made,1,15,7,22,h,Gallinari 26' 3PT Step Back Jump Shot (9 PTS) (Beverley 1 AST),Made Shot,Step Back Jump shot,1,0
+39,50,PT07M03.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,6,259,26,Missed,1,,,0,v,MISS Dotson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+40,51,PT07M01.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+41,52,PT06M51.00S,1,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P1.T2) (J.Orr),Foul,Personal,1,0
+42,54,PT06M51.00S,1,1610612752,NYK,202498,Thomas,L. Thomas,0,0,0,,0,,,0,v,SUB: Trier FOR Thomas,Substitution,,0,0
+43,55,PT06M51.00S,1,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,SUB: Robinson FOR Vonleh,Substitution,,0,0
+44,58,PT06M37.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,-30,271,27,Missed,1,,,0,h,MISS Gallinari 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+45,59,PT06M33.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+46,60,PT06M33.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,-6,1,Missed,1,,,0,h,MISS Zubac 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+47,61,PT06M33.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+48,63,PT06M24.00S,1,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,2,16,2,Missed,1,,,0,v,MISS Smith Jr. 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+49,64,PT06M19.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+50,65,PT06M17.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,170,243,30,Missed,1,,,0,h,MISS Shamet 30' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+51,66,PT06M17.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,,,0,v,Dotson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+52,67,PT06M09.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,-132,144,20,Missed,1,,,0,v,MISS Dotson 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+53,68,PT06M06.00S,1,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+54,69,PT06M01.00S,1,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-172,208,27,Made,1,18,7,25,h,Gilgeous-Alexander 27' 3PT Jump Shot (3 PTS) (Beverley 2 AST),Made Shot,Jump Shot,1,0
+55,264,PT05M57.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+56,71,PT05M57.00S,1,0,,48,,,0,0,0,,0,18,7,25,,Instant Replay1st Period (3:52 PM EST),Instant Replay,Support Ruling,0,0
+57,72,PT05M57.00S,1,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,SUB: Mudiay FOR Smith Jr.,Substitution,,0,0
+58,74,PT05M45.00S,1,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander P.FOUL (P1.T1) (J.Orr),Foul,Personal,1,0
+59,76,PT05M34.00S,1,1610612752,NYK,1629019,Trier,A. Trier,90,254,27,Made,1,18,10,28,v,Trier 27' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,0
+60,77,PT05M13.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,-173,200,26,Made,1,21,10,31,h,Shamet 26' 3PT Jump Shot (9 PTS) (Gallinari 2 AST),Made Shot,Jump Shot,1,0
+61,79,PT04M57.00S,1,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,,,0,v,Trier Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0
+62,80,PT04M48.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,230,94,25,Made,1,24,10,34,h,Shamet 25' 3PT Jump Shot (12 PTS) (Beverley 3 AST),Made Shot,Jump Shot,1,0
+63,82,PT04M27.00S,1,1610612752,NYK,1628995,Knox II,K. Knox II,2,132,13,Missed,1,,,0,v,MISS Knox II 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+64,83,PT04M25.00S,1,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+65,84,PT04M09.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,-11,4,1,Made,1,26,10,36,h,Zubac 1' Cutting Layup Shot (2 PTS) (Gallinari 3 AST),Made Shot,Cutting Layup Shot,1,0
+66,86,PT03M49.00S,1,1610612752,NYK,1629019,Trier,A. Trier,-12,128,13,Missed,1,,,0,v,MISS Trier 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+67,87,PT03M45.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+68,88,PT03M38.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,139,136,19,Missed,1,,,0,h,MISS Zubac 19' Jump Shot,Missed Shot,Jump Shot,1,0
+69,88,PT03M38.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson BLOCK (1 BLK),,,1,0
+70,90,PT03M34.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,,,0,v,Dotson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+71,91,PT03M29.00S,1,1610612752,NYK,1629019,Trier,A. Trier,14,4,1,Missed,1,,,0,v,MISS Trier 1' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+72,92,PT03M27.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+73,94,PT03M19.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+74,94,PT03M19.00S,1,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay STEAL (1 STL),,,1,0
+75,96,PT03M16.00S,1,1610612752,NYK,1626144,Mudiay,E. Mudiay,-3,5,1,Made,1,26,12,38,v,Mudiay 1' Layup (2 PTS),Made Shot,Layup Shot,1,0
+76,97,PT03M13.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,-154,213,26,Made,1,29,12,41,h,Shamet 26' 3PT Jump Shot (15 PTS) (Zubac 2 AST),Made Shot,Jump Shot,1,0
+77,99,PT03M01.00S,1,1610612752,NYK,1626144,Mudiay,E. Mudiay,-95,118,15,Missed,1,,,0,v,MISS Mudiay 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+78,100,PT02M58.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+79,101,PT02M48.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,24,8,3,Missed,1,,,0,h,MISS Zubac 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+80,101,PT02M48.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson BLOCK (2 BLK),,,1,0
+81,103,PT02M48.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+82,105,PT02M48.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+83,106,PT02M48.00S,1,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,SUB: Williams FOR Gilgeous-Alexander,Substitution,,0,0
+84,107,PT02M48.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,SUB: Harrell FOR Zubac,Substitution,,0,0
+85,108,PT02M48.00S,1,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,SUB: Ellenson FOR Knox II,Substitution,,0,0
+86,109,PT02M48.00S,1,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,,,0,v,SUB: Jenkins FOR Dotson,Substitution,,0,0
+87,114,PT02M40.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,250,75,26,Made,1,32,12,44,h,Shamet 26' 3PT Jump Shot (18 PTS) (Beverley 4 AST),Made Shot,Jump Shot,1,0
+88,116,PT02M29.00S,1,1610612752,NYK,203098,Jenkins,J. Jenkins,135,130,19,Missed,1,,,0,v,MISS Jenkins 19' Jump Shot,Missed Shot,Jump Shot,1,0
+89,117,PT02M26.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+90,118,PT02M20.00S,1,1610612746,LAC,101150,Williams,L. Williams,-90,180,20,Missed,1,,,0,h,MISS Williams 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+91,119,PT02M17.00S,1,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,,,0,v,Trier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+92,120,PT02M17.00S,1,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley Personal Take Foul (P1.T2) (T.Maddox),Foul,Personal Take,1,0
+93,122,PT02M17.00S,1,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Green FOR Gallinari,Substitution,,0,0
+94,124,PT02M07.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,1,0
+95,126,PT02M07.00S,1,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,32,13,45,v,Trier Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+96,127,PT02M07.00S,1,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,32,14,46,v,Trier Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+97,128,PT01M57.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,-96,232,25,Missed,1,,,0,h,MISS Shamet 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+98,129,PT01M55.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+99,130,PT01M45.00S,1,1610612752,NYK,1626144,Mudiay,E. Mudiay,-12,22,3,Missed,1,,,0,v,MISS Mudiay 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+100,130,PT01M45.00S,1,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,Green BLOCK (1 BLK),,,1,0
+101,132,PT01M45.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+102,134,PT01M45.00S,1,1610612746,LAC,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,SUB: Temple FOR Shamet,Substitution,,0,0
+103,135,PT01M45.00S,1,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,SUB: Wallace FOR Beverley,Substitution,,0,0
+104,138,PT01M36.00S,1,1610612746,LAC,101150,Williams,L. Williams,9,26,3,Missed,1,,,0,h,MISS Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+105,139,PT01M34.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+106,140,PT01M21.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,2,21,2,Made,1,32,16,48,v,Robinson 2' Alley Oop Dunk (2 PTS) (Trier 1 AST),Made Shot,Alley Oop Dunk Shot,1,0
+107,142,PT01M03.00S,1,1610612746,LAC,203210,Green,J. Green,9,32,3,Made,1,34,16,50,h,Green 3' Driving Layup (2 PTS) (Williams 1 AST),Made Shot,Driving Layup Shot,1,0
+108,144,PT00M47.10S,1,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple S.FOUL (P1.T4) (S.Wright),Foul,Shooting,1,0
+109,146,PT00M47.10S,1,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,34,17,51,v,Ellenson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+110,147,PT00M47.10S,1,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,34,18,52,v,Ellenson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+111,148,PT00M40.40S,1,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,Ellenson P.FOUL (P1.T3) (T.Maddox),Foul,Personal,1,0
+112,150,PT00M36.00S,1,1610612746,LAC,203210,Green,J. Green,-222,17,0,Made,1,37,18,55,h,Green 3PT Jump Shot (5 PTS) (Wallace 1 AST),Made Shot,Jump Shot,1,0
+113,152,PT00M17.10S,1,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,Ellenson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+114,153,PT00M07.50S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson P.FOUL (P1.PN) (S.Wright),Foul,Personal,1,0
+115,155,PT00M07.50S,1,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+116,156,PT00M07.50S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+117,157,PT00M07.50S,1,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,38,18,56,h,Williams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+118,158,PT00M03.10S,1,1610612752,NYK,1629011,Robinson,M. Robinson,-8,8,1,Made,1,38,20,58,v,Robinson 1' Running Dunk (4 PTS) (Mudiay 1 AST),Made Shot,Running Dunk Shot,1,0
+119,162,PT00M00.00S,1,0,,0,,,0,0,0,,0,38,20,58,,End of 1st Period (4:05 PM EST),period,end,1,0
+120,163,PT12M00.00S,2,0,,0,,,0,0,0,,0,38,20,58,,Start of 2nd Period (4:08 PM EST),period,start,0,0
+121,164,PT11M40.00S,2,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple P.FOUL (P2.T1) (S.Wright),Foul,Personal,1,0
+122,166,PT11M31.00S,2,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,Ellenson Offensive Charge Foul (P2.T1) (J.Orr),Foul,Offensive Charge,1,0
+123,168,PT11M31.00S,2,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,Ellenson Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,1,0
+124,169,PT11M13.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,-15,14,2,Missed,1,,,0,h,MISS Harrell 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+125,169,PT11M13.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson BLOCK (3 BLK),,,1,0
+126,171,PT11M13.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+127,173,PT11M11.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,5,17,2,Made,1,40,20,60,h,Harrell 2' Cutting Dunk Shot (2 PTS) (Wallace 2 AST),Made Shot,Cutting Dunk Shot,1,0
+128,175,PT10M46.00S,2,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,,,0,v,Trier Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0
+129,175,PT10M46.00S,2,1610612746,LAC,1627820,Wallace,T. Wallace,0,0,0,,0,,,0,h,Wallace STEAL (1 STL),,,1,0
+130,177,PT10M42.00S,2,1610612746,LAC,1627820,Wallace,T. Wallace,7,1,1,Made,1,42,20,62,h,Wallace 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,0
+131,178,PT10M32.00S,2,1610612752,NYK,203098,Jenkins,J. Jenkins,106,158,19,Missed,1,,,0,v,MISS Jenkins 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+132,179,PT10M28.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+133,180,PT10M27.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+134,181,PT10M14.00S,2,1610612752,NYK,1627740,Ellenson,H. Ellenson,195,179,26,Missed,1,,,0,v,MISS Ellenson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+135,182,PT10M11.00S,2,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+136,183,PT10M08.00S,2,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,Ellenson P.FOUL (P3.T2) (J.Orr),Foul,Personal,1,0
+137,190,PT10M08.00S,2,1610612752,NYK,203098,Jenkins,J. Jenkins,0,0,0,,0,,,0,v,SUB: Thomas FOR Jenkins,Substitution,,0,0
+138,192,PT10M08.00S,2,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Ellenson,Substitution,,0,0
+139,189,PT10M03.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P2.T3) (J.Orr),Foul,Shooting,1,0
+140,193,PT10M03.00S,2,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,43,20,63,h,Williams Free Throw 1 of 3 (2 PTS),Free Throw,Free Throw 1 of 3,0,0
+141,194,PT10M03.00S,2,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,44,20,64,h,Williams Free Throw 2 of 3 (3 PTS),Free Throw,Free Throw 2 of 3,0,0
+142,195,PT10M03.00S,2,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,45,20,65,h,Williams Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,0,0
+143,196,PT09M48.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,-7,10,1,Made,1,45,22,67,v,Robinson 1' Alley Oop Dunk (6 PTS) (Trier 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+144,198,PT09M40.00S,2,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,,,0,v,Trier S.FOUL (P1.T4) (S.Wright),Foul,Shooting,1,0
+145,200,PT09M40.00S,2,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,46,22,68,h,Williams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+146,201,PT09M40.00S,2,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,47,22,69,h,Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+147,202,PT09M28.00S,2,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,,,0,v,Trier Lost Ball Turnover (P3.T5),Turnover,Lost Ball,1,0
+148,202,PT09M28.00S,2,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,0
+149,205,PT09M23.00S,2,1610612746,LAC,203210,Green,J. Green,2,-6,1,Missed,1,,,0,h,MISS Green 1' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,1,0
+150,206,PT09M16.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+151,207,PT09M08.00S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,-164,221,28,Made,1,47,25,72,v,Mudiay 28' 3PT Jump Shot (5 PTS) (Thomas 3 AST),Made Shot,Jump Shot,1,0
+152,209,PT08M56.00S,2,1610612746,LAC,101150,Williams,L. Williams,197,179,27,Made,1,50,25,75,h,Williams 27' 3PT Jump Shot (9 PTS) (Harrell 1 AST),Made Shot,Jump Shot,1,0
+153,211,PT08M38.00S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,-27,10,3,Made,1,50,27,77,v,Mudiay 3' Driving Layup (7 PTS) (Thomas 4 AST),Made Shot,Driving Layup Shot,1,0
+154,213,PT08M25.00S,2,1610612746,LAC,203210,Green,J. Green,159,201,26,Made,1,53,27,80,h,Green 26' 3PT Step Back Jump Shot (8 PTS) (Wallace 3 AST),Made Shot,Step Back Jump shot,1,0
+155,215,PT08M14.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+156,216,PT08M14.00S,2,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,,,0,v,SUB: Knox II FOR Trier,Substitution,,0,0
+157,218,PT07M57.00S,2,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Jump Ball Temple vs. Smith Jr.: Tip to Thomas,Jump Ball,,1,0
+158,221,PT07M52.00S,2,1610612752,NYK,202498,Thomas,L. Thomas,75,188,20,Missed,1,,,0,v,MISS Thomas 20' Jump Shot,Missed Shot,Jump Shot,1,0
+159,222,PT07M50.00S,2,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+160,223,PT07M44.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,2,17,2,Missed,1,,,0,h,MISS Harrell 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+161,224,PT07M38.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+162,225,PT07M38.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,0,-6,1,Made,1,55,27,82,h,Harrell 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,0
+163,226,PT07M36.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson OFF.Foul (P3) (S.Wright),Foul,Offensive,1,0
+164,228,PT07M36.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0
+165,229,PT07M36.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,SUB: Vonleh FOR Robinson,Substitution,,0,0
+166,367,PT07M36.00S,2,1610612752,NYK,202498,Thomas,L. Thomas,0,0,0,,0,,,0,v,SUB: Dotson FOR Thomas,Substitution,,0,0
+167,235,PT07M26.00S,2,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+168,235,PT07M26.00S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay STEAL (2 STL),,,1,0
+169,237,PT07M26.00S,2,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,Green Personal Take Foul (P1.T2) (T.Maddox),Foul,Personal Take,1,0
+170,239,PT07M14.00S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,-106,178,21,Made,1,55,29,84,v,Mudiay 21' Pullup Jump Shot (9 PTS) (Smith Jr. 1 AST),Made Shot,Pullup Jump shot,1,0
+171,241,PT07M08.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,-3,20,2,Made,1,57,29,86,h,Harrell 2' Cutting Layup Shot (6 PTS) (Williams 2 AST),Made Shot,Cutting Layup Shot,1,0
+172,243,PT07M08.00S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,1,0
+173,245,PT07M08.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,MISS Harrell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+174,246,PT07M03.00S,2,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+175,247,PT07M00.00S,2,1610612752,NYK,1628995,Knox II,K. Knox II,-73,122,14,Made,1,57,31,88,v,Knox II 14' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,0
+176,248,PT07M00.00S,2,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,Green S.FOUL (P2.T3) (T.Maddox),Foul,Shooting,1,0
+177,250,PT07M00.00S,2,1610612746,LAC,1627820,Wallace,T. Wallace,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Wallace,Substitution,,0,0
+178,252,PT07M00.00S,2,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,57,32,89,v,Knox II Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+179,254,PT06M43.00S,2,1610612746,LAC,101150,Williams,L. Williams,58,136,15,Missed,1,,,0,h,MISS Williams 15' Jump Shot,Missed Shot,Jump Shot,1,0
+180,255,PT06M43.00S,2,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+181,256,PT06M43.00S,2,1610612746,LAC,203210,Green,J. Green,16,13,2,Made,1,59,32,91,h,Green 2' Layup (10 PTS),Made Shot,Layup Shot,1,0
+182,257,PT06M43.00S,2,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,Knox II S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,1,0
+183,259,PT06M43.00S,2,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,60,32,92,h,Green Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0
+184,260,PT06M33.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell S.FOUL (P1.T4) (S.Wright),Foul,Shooting,1,0
+185,262,PT06M33.00S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,MISS Vonleh Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+186,263,PT06M33.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+187,265,PT06M33.00S,2,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,SUB: Beverley FOR Temple,Substitution,,0,0
+188,267,PT06M33.00S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,60,33,93,v,Vonleh Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+189,268,PT06M22.00S,2,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-232,9,0,Made,1,63,33,96,h,Gilgeous-Alexander 3PT Jump Shot (6 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,0
+190,270,PT06M09.00S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,-1,20,2,Made,1,63,35,98,v,Vonleh 2' Turnaround Hook Shot (3 PTS) (Smith Jr. 2 AST),Made Shot,Turnaround Hook Shot,1,0
+191,272,PT05M53.00S,2,1610612746,LAC,101150,Williams,L. Williams,28,206,21,Missed,1,,,0,h,MISS Williams 21' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+192,273,PT05M53.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+193,275,PT05M53.00S,2,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,SUB: Gallinari FOR Green,Substitution,,0,0
+194,276,PT05M53.00S,2,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,,,0,h,SUB: Shamet FOR Williams,Substitution,,0,0
+195,277,PT05M53.00S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,SUB: Kornet FOR Mudiay,Substitution,,0,0
+196,281,PT05M46.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,34,38,5,Made,1,65,35,100,h,Harrell 5' Driving Bank Hook Shot (8 PTS),Made Shot,Driving Bank Hook Shot,1,0
+197,282,PT05M34.00S,2,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,-12,23,3,Missed,1,,,0,v,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+198,283,PT05M32.00S,2,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+199,284,PT05M28.00S,2,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,16,32,4,Made,1,67,35,102,h,Gilgeous-Alexander 4' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,0
+200,285,PT05M28.00S,2,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P2.PN) (J.Orr),Foul,Shooting,1,0
+201,287,PT05M28.00S,2,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,SUB: Zubac FOR Harrell,Substitution,,0,0
+202,289,PT05M28.00S,2,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,68,35,103,h,Gilgeous-Alexander Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+203,290,PT05M19.00S,2,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander P.FOUL (P2.PN) (S.Wright),Foul,Personal,1,0
+204,292,PT05M19.00S,2,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,68,36,104,v,Dotson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+205,293,PT05M19.00S,2,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,68,37,105,v,Dotson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+206,294,PT04M54.00S,2,1610612746,LAC,201568,Gallinari,D. Gallinari,-171,21,17,Missed,1,,,0,h,MISS Gallinari 17' Jump Shot,Missed Shot,Jump Shot,1,0
+207,295,PT04M53.00S,2,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+208,296,PT04M49.00S,2,1610612752,NYK,1628422,Dotson,D. Dotson,-1,16,2,Made,1,68,39,107,v,Dotson 2' Driving Finger Roll Layup (7 PTS) (Smith Jr. 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+209,298,PT04M36.00S,2,1610612746,LAC,201568,Gallinari,D. Gallinari,5,29,3,Made,1,70,39,109,h,Gallinari 3' Cutting Layup Shot (11 PTS) (Beverley 5 AST),Made Shot,Cutting Layup Shot,1,0
+210,300,PT04M36.00S,2,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,1,0
+211,302,PT04M36.00S,2,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,71,39,110,h,Gallinari Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0
+212,303,PT04M30.00S,2,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+213,304,PT04M14.00S,2,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0
+214,304,PT04M14.00S,2,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. STEAL (2 STL),,,1,0
+215,306,PT04M14.00S,2,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari Personal Take Foul (P1.PN) (T.Maddox),Foul,Personal Take,1,0
+216,308,PT04M14.00S,2,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,71,40,111,v,Knox II Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+217,309,PT04M14.00S,2,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,71,41,112,v,Knox II Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+218,310,PT04M00.00S,2,1610612746,LAC,1629013,Shamet,L. Shamet,-141,222,26,Made,1,74,41,115,h,Shamet 26' 3PT Jump Shot (21 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,1,0
+219,312,PT03M57.00S,2,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,Knox II Inbound Turnover (P1.T8),Turnover,Inbound Turnover,1,0
+220,314,PT03M53.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,76,132,15,Missed,1,,,0,h,MISS Zubac 15' Jump Shot,Missed Shot,Jump Shot,1,0
+221,315,PT03M46.00S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+222,316,PT03M46.00S,2,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley P.FOUL (P2.PN) (J.Orr),Foul,Personal,1,0
+223,318,PT03M46.00S,2,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+224,319,PT03M46.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+225,320,PT03M46.00S,2,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,SUB: Mudiay FOR Knox II,Substitution,,0,0
+226,322,PT03M46.00S,2,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,74,42,116,v,Smith Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+227,323,PT03M33.00S,2,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,150,130,20,Made,1,76,42,118,h,Gilgeous-Alexander 20' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,0
+228,324,PT03M17.00S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,-144,218,26,Missed,1,,,0,v,MISS Mudiay 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+229,325,PT03M14.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+230,327,PT03M05.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,27,-4,3,Made,1,78,42,120,h,Zubac 3' Alley Oop Dunk (4 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Alley Oop Dunk Shot,1,0
+231,329,PT02M54.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac S.FOUL (P1.PN) (S.Wright),Foul,Shooting,1,0
+232,331,PT02M54.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+233,332,PT02M54.00S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,78,43,121,v,Vonleh Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+234,333,PT02M54.00S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,78,44,122,v,Vonleh Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+235,334,PT02M36.00S,2,1610612746,LAC,201568,Gallinari,D. Gallinari,-16,17,2,Missed,1,,,0,h,MISS Gallinari 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,0
+236,334,PT02M36.00S,2,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet BLOCK (1 BLK),,,1,0
+237,336,PT02M36.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+238,338,PT02M28.00S,2,1610612746,LAC,201976,Beverley,P. Beverley,-44,46,6,Missed,1,,,0,h,MISS Beverley 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+239,339,PT02M25.00S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+240,340,PT02M15.00S,2,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,-11,18,2,Missed,1,,,0,v,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+241,341,PT02M12.00S,2,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+242,342,PT02M01.00S,2,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari Traveling Turnover (P2.T7),Turnover,Traveling,1,0
+243,343,PT01M46.00S,2,1610612752,NYK,1628422,Dotson,D. Dotson,-157,211,26,Missed,1,,,0,v,MISS Dotson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+244,344,PT01M43.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+245,345,PT01M34.00S,2,1610612746,LAC,201568,Gallinari,D. Gallinari,85,247,26,Made,1,81,44,125,h,Gallinari 26' 3PT Jump Shot (15 PTS) (Zubac 3 AST),Made Shot,Jump Shot,1,0
+246,347,PT01M18.00S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+247,347,PT01M18.00S,2,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander STEAL (1 STL),,,1,0
+248,349,PT01M11.00S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh P.FOUL (P2.PN) (T.Maddox),Foul,Personal,1,0
+249,351,PT01M11.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,MISS Zubac Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+250,352,PT01M11.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+251,353,PT01M11.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,82,44,126,h,Zubac Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+252,354,PT00M58.80S,2,1610612752,NYK,1628436,Kornet,L. Kornet,-14,92,9,Missed,1,,,0,v,MISS Kornet 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+253,355,PT00M56.20S,2,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+254,356,PT00M33.60S,2,1610612746,LAC,201976,Beverley,P. Beverley,-81,247,26,Missed,1,,,0,h,MISS Beverley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+255,357,PT00M31.60S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+256,358,PT00M27.20S,2,1610612752,NYK,1628422,Dotson,D. Dotson,-16,15,2,Missed,1,,,0,v,MISS Dotson 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+257,359,PT00M23.70S,2,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+258,360,PT00M04.70S,2,1610612746,LAC,1629013,Shamet,L. Shamet,236,55,24,Missed,1,,,0,h,MISS Shamet 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+259,361,PT00M01.80S,2,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+260,362,PT00M01.00S,2,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley P.FOUL (P3.PN) (J.Orr),Foul,Personal,1,0
+261,364,PT00M01.00S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,82,45,127,v,Mudiay Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+262,365,PT00M01.00S,2,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,82,46,128,v,Mudiay Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+263,706,PT00M00.10S,2,1610612746,LAC,201976,Beverley,P. Beverley,6,423,42,Missed,1,,,0,h,MISS Beverley 42' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+264,707,PT00M00.10S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+265,366,PT00M00.00S,2,0,,0,,,0,0,0,,0,82,46,128,,End of 2nd Period (4:40 PM EST),period,end,1,0
+266,371,PT12M00.00S,3,0,,0,,,0,0,0,,0,82,46,128,,Start of 3rd Period (4:55 PM EST),period,start,0,0
+267,372,PT11M39.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,8,17,2,Made,1,82,48,130,v,Vonleh 2' Finger Roll Layup (7 PTS),Made Shot,Finger Roll Layup Shot,1,0
+268,373,PT11M34.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac OFF.Foul (P2) (J.Orr),Foul,Offensive,1,0
+269,375,PT11M34.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,1,0
+270,377,PT11M19.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,-11,43,4,Made,1,82,50,132,v,Vonleh 4' Driving Hook Shot (9 PTS),Made Shot,Driving Hook Shot,1,0
+271,378,PT11M19.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac S.FOUL (P3.T1) (J.Orr),Foul,Shooting,1,0
+272,380,PT11M19.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,82,51,133,v,Vonleh Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0
+273,381,PT10M59.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,-72,136,15,Missed,1,,,0,h,MISS Gallinari 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+274,382,PT10M56.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+275,383,PT10M50.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,116,237,26,Made,1,82,54,136,v,Vonleh 26' 3PT Jump Shot (13 PTS) (Smith Jr. 4 AST),Made Shot,Jump Shot,1,0
+276,385,PT10M33.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,-213,175,28,Missed,1,,,0,h,MISS Gallinari 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+277,386,PT10M30.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+278,387,PT10M23.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,73,250,26,Missed,1,,,0,v,MISS Vonleh 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+279,388,PT10M19.00S,3,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+280,389,PT10M12.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,-179,202,27,Made,1,85,54,139,h,Gallinari 27' 3PT Jump Shot (18 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,1,0
+281,391,PT09M51.00S,3,1610612752,NYK,1628995,Knox II,K. Knox II,111,188,22,Missed,1,,,0,v,MISS Knox II 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+282,392,PT09M49.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+283,393,PT09M46.00S,3,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,10,-5,1,Made,1,87,54,141,h,Gilgeous-Alexander 1' Running Finger Roll Layup (13 PTS),Made Shot,Running Finger Roll Layup Shot,1,0
+284,394,PT09M41.00S,3,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley S.FOUL (P4.T2) (T.Maddox),Foul,Shooting,1,0
+285,396,PT09M41.00S,3,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,MISS Knox II Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+286,397,PT09M41.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+287,398,PT09M41.00S,3,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,87,55,142,v,Knox II Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+288,399,PT09M23.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,-22,10,2,Made,1,89,55,144,h,Gallinari 2' Cutting Dunk Shot (20 PTS) (Zubac 4 AST),Made Shot,Cutting Dunk Shot,1,0
+289,401,PT09M11.00S,3,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,-46,182,19,Made,1,89,57,146,v,Smith Jr. 19' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,0
+290,402,PT08M55.00S,3,1610612746,LAC,201976,Beverley,P. Beverley,234,75,25,Made,1,92,57,149,h,Beverley 25' 3PT Jump Shot (3 PTS) (Gallinari 4 AST),Made Shot,Jump Shot,1,0
+291,404,PT08M55.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+292,405,PT08M47.00S,3,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander S.FOUL (P3.T3) (S.Wright),Foul,Shooting,1,0
+293,407,PT08M47.00S,3,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+294,409,PT08M47.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+295,410,PT08M47.00S,3,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,92,58,150,v,Smith Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+296,411,PT08M31.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,5,12,1,Missed,1,,,0,h,MISS Zubac 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,0
+297,412,PT08M27.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+298,413,PT08M21.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,3,16,2,Made,1,92,60,152,v,Vonleh 2' Driving Layup (15 PTS) (Smith Jr. 5 AST),Made Shot,Driving Layup Shot,1,0
+299,416,PT08M01.00S,3,1610612746,LAC,1629013,Shamet,L. Shamet,-101,247,27,Missed,1,,,0,h,MISS Shamet 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+300,417,PT07M58.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+301,418,PT07M58.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari OFF.Foul (P2) (S.Wright),Foul,Offensive,1,0
+302,420,PT07M58.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,1,0
+303,421,PT07M58.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,SUB: Harrell FOR Zubac,Substitution,,0,0
+304,423,PT07M49.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,-93,245,26,Missed,1,,,0,v,MISS Dotson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+305,424,PT07M44.00S,3,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+306,425,PT07M28.00S,3,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0
+307,425,PT07M28.00S,3,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet STEAL (1 STL),,,1,0
+308,427,PT07M21.00S,3,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,111,125,17,Missed,1,,,0,v,MISS Smith Jr. 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+309,428,PT07M17.00S,3,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+310,429,PT07M06.00S,3,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell Step Out of Bounds Turnover (P3.T11),Turnover,Step Out of Bounds Turnover,1,0
+311,430,PT06M47.00S,3,1610612752,NYK,1628436,Kornet,L. Kornet,-54,122,13,Missed,1,,,0,v,MISS Kornet 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+312,431,PT06M44.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+313,432,PT06M30.00S,3,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-39,125,13,Missed,1,,,0,h,MISS Gilgeous-Alexander 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+314,433,PT06M26.00S,3,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+315,434,PT06M21.00S,3,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,56,252,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+316,435,PT06M20.00S,3,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:9),Rebound,Unknown,1,0
+317,436,PT06M20.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+318,437,PT05M56.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0
+319,438,PT05M37.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,130,240,27,Made,1,92,63,155,v,Dotson 27' 3PT Jump Shot (10 PTS) (Vonleh 1 AST),Made Shot,Jump Shot,1,0
+320,440,PT05M23.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh P.FOUL (P3.T1) (J.Orr),Foul,Personal,1,0
+321,442,PT05M23.00S,3,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,SUB: Williams FOR Gilgeous-Alexander,Substitution,,0,0
+322,444,PT05M10.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,-18,13,2,Missed,1,,,0,h,MISS Gallinari 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+323,445,PT05M06.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+324,446,PT05M00.00S,3,1610612752,NYK,1628995,Knox II,K. Knox II,38,10,4,Missed,1,,,0,v,MISS Knox II 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+325,447,PT04M57.00S,3,1610612746,LAC,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+326,448,PT04M54.00S,3,1610612746,LAC,1629013,Shamet,L. Shamet,25,13,3,Missed,1,,,0,h,MISS Shamet 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+327,448,PT04M54.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh BLOCK (1 BLK),,,1,0
+328,450,PT04M51.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+329,451,PT04M46.00S,3,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,142,198,24,Missed,1,,,0,v,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+330,452,PT04M42.00S,3,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley REBOUND (Off:0 Def:10),Rebound,Unknown,1,0
+331,453,PT04M32.00S,3,1610612746,LAC,101150,Williams,L. Williams,-224,133,26,Missed,1,,,0,h,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+332,453,PT04M32.00S,3,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet BLOCK (2 BLK),,,1,0
+333,455,PT04M26.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,,,0,v,Dotson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+334,456,PT04M23.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh Offensive Charge Foul (P4.T2) (S.Wright),Foul,Offensive Charge,1,0
+335,458,PT04M23.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0
+336,459,PT04M23.00S,3,1610612746,LAC,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Green FOR Gallinari,Substitution,,0,0
+337,460,PT04M23.00S,3,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,SUB: Mudiay FOR Smith Jr.,Substitution,,0,0
+338,463,PT04M11.00S,3,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0
+339,463,PT04M11.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,,,0,v,Dotson STEAL (1 STL),,,1,0
+340,465,PT04M06.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,138,229,27,Made,1,92,66,158,v,Dotson 27' 3PT Jump Shot (13 PTS) (Kornet 1 AST),Made Shot,Jump Shot,1,0
+341,467,PT03M43.00S,3,1610612746,LAC,101150,Williams,L. Williams,-115,258,28,Missed,1,,,0,h,MISS Williams 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+342,468,PT03M40.00S,3,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+343,469,PT03M35.00S,3,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,Beverley P.FOUL (P5.T4) (T.Maddox),Foul,Personal,1,0
+344,471,PT03M35.00S,3,1610612746,LAC,201976,Beverley,P. Beverley,0,0,0,,0,,,0,h,SUB: Temple FOR Beverley,Substitution,,0,0
+345,473,PT03M26.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,-152,189,24,Made,1,92,69,161,v,Dotson 24' 3PT Jump Shot (16 PTS) (Mudiay 2 AST),Made Shot,Jump Shot,1,0
+346,475,PT03M11.00S,3,1610612746,LAC,203210,Green,J. Green,179,174,25,Missed,1,,,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+347,476,PT03M07.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:0 Def:9),Rebound,Unknown,1,0
+348,477,PT03M05.00S,3,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple P.FOUL (P3.PN) (S.Wright),Foul,Personal,1,0
+349,479,PT03M05.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,,,0,v,MISS Dotson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+350,480,PT03M05.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+351,481,PT03M05.00S,3,1610612746,LAC,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,SUB: Wallace FOR Shamet,Substitution,,0,0
+352,483,PT03M05.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,0,0,0,,0,92,70,162,v,Dotson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+353,484,PT02M56.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh S.FOUL (P5.T3) (S.Wright),Foul,Shooting,1,0
+354,486,PT02M56.00S,3,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,93,70,163,h,Williams Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+355,487,PT02M56.00S,3,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,SUB: Robinson FOR Vonleh,Substitution,,0,0
+356,489,PT02M56.00S,3,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,94,70,164,h,Williams Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+357,490,PT02M39.00S,3,1610612752,NYK,1626144,Mudiay,E. Mudiay,-4,101,10,Missed,1,,,0,v,MISS Mudiay 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+358,491,PT02M37.00S,3,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+359,492,PT02M30.00S,3,1610612746,LAC,203210,Green,J. Green,-28,43,5,Missed,1,,,0,h,MISS Green 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+360,494,PT02M27.00S,3,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+361,496,PT02M17.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,141,225,27,Missed,1,,,0,v,MISS Dotson 27' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+362,497,PT02M12.00S,3,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+363,499,PT02M07.00S,3,1610612752,NYK,1628995,Knox II,K. Knox II,0,0,0,,0,,,0,v,SUB: Trier FOR Knox II,Substitution,,0,0
+364,501,PT01M58.00S,3,1610612746,LAC,203210,Green,J. Green,-134,167,21,Missed,1,,,0,h,MISS Green 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+365,502,PT01M54.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+366,503,PT01M48.00S,3,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0
+367,503,PT01M48.00S,3,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell STEAL (1 STL),,,1,0
+368,505,PT01M42.00S,3,1610612746,LAC,1626149,Harrell,M. Harrell,-14,26,3,Missed,1,,,0,h,MISS Harrell 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+369,506,PT01M38.00S,3,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+370,507,PT01M38.00S,3,1610612746,LAC,203210,Green,J. Green,0,-6,1,Made,1,96,70,166,h,Green 1' Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,1,0
+371,508,PT01M19.00S,3,1610612752,NYK,1628422,Dotson,D. Dotson,5,30,3,Missed,1,,,0,v,MISS Dotson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+372,509,PT01M16.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+373,510,PT01M16.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,-9,25,3,Missed,1,,,0,v,MISS Robinson 3' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+374,510,PT01M16.00S,3,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple BLOCK (1 BLK),,,1,0
+375,512,PT01M16.00S,3,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+376,513,PT01M07.00S,3,1610612746,LAC,101150,Williams,L. Williams,-152,210,26,Made,1,99,70,169,h,Williams 26' 3PT Jump Shot (14 PTS) (Wallace 4 AST),Made Shot,Jump Shot,1,0
+377,515,PT00M52.30S,3,1610612752,NYK,1628436,Kornet,L. Kornet,24,269,27,Missed,1,,,0,v,MISS Kornet 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+378,516,PT00M48.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+379,517,PT00M47.50S,3,1610612752,NYK,1629019,Trier,A. Trier,172,201,26,Made,1,99,73,172,v,Trier 26' 3PT Jump Shot (8 PTS) (Robinson 1 AST),Made Shot,Jump Shot,1,0
+380,519,PT00M47.50S,3,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,Green AWAY.FROM.PLAY.FOUL (P3.PN) (S.Wright),Foul,Away From Play,1,0
+381,522,PT00M47.50S,3,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,99,74,173,v,Kornet Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,0
+382,523,PT00M41.00S,3,1610612746,LAC,101150,Williams,L. Williams,-13,52,5,Made,1,101,74,175,h,Williams 5' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,0
+383,524,PT00M33.00S,3,1610612752,NYK,1626144,Mudiay,E. Mudiay,22,29,4,Missed,1,,,0,v,MISS Mudiay 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+384,525,PT00M32.60S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+385,526,PT00M32.60S,3,1610612752,NYK,1629011,Robinson,M. Robinson,6,22,2,Made,1,101,76,177,v,Robinson 2' Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,1,0
+386,527,PT00M12.20S,3,1610612746,LAC,101150,Williams,L. Williams,-30,60,7,Missed,1,,,0,h,MISS Williams 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+387,528,PT00M09.50S,3,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+388,529,PT00M04.80S,3,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple P.FOUL (P4.PN) (T.Maddox),Foul,Personal,1,0
+389,531,PT00M04.80S,3,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,101,77,178,v,Kornet Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+390,532,PT00M04.80S,3,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,101,78,179,v,Kornet Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+391,533,PT00M00.20S,3,1610612746,LAC,1626149,Harrell,M. Harrell,-72,395,40,Missed,1,,,0,h,MISS Harrell 40' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+392,534,PT00M00.10S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+393,535,PT00M00.00S,3,0,,0,,,0,0,0,,0,101,78,179,,End of 3rd Period (5:22 PM EST),period,end,1,0
+394,540,PT12M00.00S,4,0,,0,,,0,0,0,,0,101,78,179,,Start of 4th Period (5:25 PM EST),period,start,0,0
+395,541,PT11M48.00S,4,1610612746,LAC,1627820,Wallace,T. Wallace,15,11,2,Missed,1,,,0,h,MISS Wallace 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+396,542,PT11M44.00S,4,1610612746,LAC,1627820,Wallace,T. Wallace,0,0,0,,0,,,0,h,Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+397,543,PT11M44.00S,4,1610612746,LAC,1627820,Wallace,T. Wallace,0,-6,1,Missed,1,,,0,h,MISS Wallace 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+398,544,PT11M43.00S,4,1610612752,NYK,203098,Jenkins,J. Jenkins,0,0,0,,0,,,0,v,Jenkins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+399,545,PT11M33.00S,4,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,Green P.FOUL (P4.T1) (S.Wright),Foul,Personal,1,0
+400,548,PT11M19.00S,4,1610612752,NYK,203098,Jenkins,J. Jenkins,0,0,0,,0,,,0,v,Jenkins Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0
+401,548,PT11M19.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell STEAL (2 STL),,,1,0
+402,550,PT11M08.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,4,55,6,Made,1,103,78,181,h,Harrell 6' Hook Shot (10 PTS) (Wallace 5 AST),Made Shot,Hook Shot,1,0
+403,552,PT10M53.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson 3 Second Violation Turnover (P2.T13),Turnover,3 Second Violation,1,0
+404,553,PT10M41.00S,4,1610612746,LAC,1627820,Wallace,T. Wallace,0,0,0,,0,,,0,h,Wallace Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0
+405,553,PT10M41.00S,4,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay STEAL (3 STL),,,1,0
+406,555,PT10M36.00S,4,1610612752,NYK,1626144,Mudiay,E. Mudiay,2,13,1,Made,1,103,80,183,v,Mudiay 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,0
+407,556,PT10M23.00S,4,1610612746,LAC,101150,Williams,L. Williams,-169,69,18,Missed,1,,,0,h,MISS Williams 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+408,557,PT10M19.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,Ellenson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+409,558,PT10M09.00S,4,1610612752,NYK,1626144,Mudiay,E. Mudiay,-107,34,11,Missed,1,,,0,v,MISS Mudiay 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+410,559,PT10M07.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+411,560,PT10M07.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1,0
+412,562,PT10M07.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell T.FOUL (P2.T2) (J.Orr),Foul,Technical,1,0
+413,563,PT10M07.00S,4,1610612752,NYK,203098,Jenkins,J. Jenkins,0,0,0,,0,,,0,v,MISS Jenkins Free Throw Technical,Free Throw,Free Throw Technical,0,0
+414,564,PT10M07.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+415,565,PT10M07.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,103,81,184,v,Robinson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+416,566,PT10M07.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,103,82,185,v,Robinson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+417,567,PT09M52.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,-8,8,1,Made,1,105,82,187,h,Harrell 1' Cutting Dunk Shot (12 PTS) (Williams 4 AST),Made Shot,Cutting Dunk Shot,1,0
+418,569,PT09M52.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,Ellenson S.FOUL (P4.T1) (J.Orr),Foul,Shooting,1,0
+419,571,PT09M52.00S,4,1610612746,LAC,1627820,Wallace,T. Wallace,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Wallace,Substitution,,0,0
+420,573,PT09M52.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,MISS Harrell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+421,574,PT09M48.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:4 Def:6),Rebound,Unknown,1,0
+422,575,PT09M40.00S,4,1610612752,NYK,1629019,Trier,A. Trier,229,96,25,Made,1,105,85,190,v,Trier 25' 3PT Jump Shot (11 PTS) (Mudiay 3 AST),Made Shot,Jump Shot,1,0
+423,577,PT09M23.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,-22,41,5,Made,1,107,85,192,h,Harrell 5' Hook Shot (14 PTS) (Temple 1 AST),Made Shot,Hook Shot,1,0
+424,579,PT09M04.00S,4,1610612752,NYK,1626144,Mudiay,E. Mudiay,-9,-2,1,Missed,1,,,0,v,MISS Mudiay 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+425,580,PT09M02.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+426,581,PT08M56.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,-16,34,4,Missed,1,,,0,h,MISS Harrell 4' Running Dunk,Missed Shot,Running Dunk Shot,1,0
+427,581,PT08M56.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson BLOCK (4 BLK),,,1,0
+428,583,PT08M53.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,Ellenson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+429,585,PT08M53.00S,4,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple S.FOUL (P5.T3) (T.Maddox),Foul,Shooting,1,0
+430,587,PT08M53.00S,4,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,107,86,193,v,Trier Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+431,588,PT08M53.00S,4,1610612752,NYK,1629019,Trier,A. Trier,0,0,0,,0,,,0,v,MISS Trier Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+432,589,PT08M48.00S,4,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+433,590,PT08M41.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,-12,15,2,Made,1,109,86,195,h,Harrell 2' Cutting Dunk Shot (16 PTS) (Williams 5 AST),Made Shot,Cutting Dunk Shot,1,0
+434,592,PT08M35.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+435,593,PT08M35.00S,4,1610612752,NYK,203098,Jenkins,J. Jenkins,0,0,0,,0,,,0,v,SUB: Vonleh FOR Jenkins,Substitution,,0,0
+436,595,PT08M19.00S,4,1610612752,NYK,203943,Vonleh,N. Vonleh,-13,8,2,Made,1,109,88,197,v,Vonleh 2' Driving Dunk (17 PTS),Made Shot,Driving Dunk Shot,1,0
+437,596,PT07M52.00S,4,1610612746,LAC,202066,Temple,G. Temple,-139,142,20,Made,1,111,88,199,h,Temple 20' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,0
+438,597,PT07M33.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,237,42,24,Missed,1,,,0,v,MISS Ellenson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+439,598,PT07M30.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:5 Def:6),Rebound,Unknown,1,0
+440,599,PT07M28.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,-6,21,2,Made,1,111,90,201,v,Robinson 2' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,0
+441,600,PT07M08.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,59,62,9,Made,1,113,90,203,h,Harrell 9' Turnaround Bank Hook Shot (18 PTS),Made Shot,Turnaround Bank Hook Shot,1,0
+442,601,PT06M45.00S,4,1610612752,NYK,1626144,Mudiay,E. Mudiay,-154,209,26,Made,1,113,93,206,v,Mudiay 26' 3PT Jump Shot (16 PTS) (Trier 3 AST),Made Shot,Jump Shot,1,0
+443,603,PT06M37.00S,4,1610612746,LAC,203210,Green,J. Green,-159,204,26,Made,1,116,93,209,h,Green 26' 3PT Jump Shot (16 PTS) (Williams 6 AST),Made Shot,Jump Shot,1,0
+444,605,PT06M18.00S,4,1610612752,NYK,1629019,Trier,A. Trier,-60,174,18,Made,1,116,95,211,v,Trier 18' Step Back Jump Shot (14 PTS) (Vonleh 2 AST),Made Shot,Step Back Jump shot,1,0
+445,607,PT05M56.00S,4,1610612746,LAC,101150,Williams,L. Williams,2,25,3,Made,1,118,95,213,h,Williams 3' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,0
+446,608,PT05M34.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,-22,-2,2,Missed,1,,,0,v,MISS Ellenson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+447,609,PT05M32.00S,4,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,Temple REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+448,610,PT05M28.00S,4,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,230,25,0,Missed,1,,,0,h,MISS Gilgeous-Alexander 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+449,611,PT05M24.00S,4,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+450,612,PT05M23.00S,4,1610612746,LAC,203210,Green,J. Green,24,23,3,Missed,1,,,0,h,MISS Green 3' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+451,613,PT05M21.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:5 Def:7),Rebound,Unknown,1,0
+452,614,PT05M10.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,-52,72,9,Missed,1,,,0,v,MISS Ellenson 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+453,615,PT05M06.00S,4,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+454,616,PT05M05.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,-6,5,1,Made,1,118,97,215,v,Robinson 1' Dunk (14 PTS) (Vonleh 3 AST),Made Shot,Dunk Shot,1,0
+455,618,PT04M50.00S,4,1610612746,LAC,101150,Williams,L. Williams,-160,220,27,Missed,1,,,0,h,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+456,619,PT04M47.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+457,620,PT04M41.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,-16,16,2,Missed,1,,,0,h,MISS Harrell 2' Layup,Missed Shot,Layup Shot,1,0
+458,621,PT04M40.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:5 Def:8),Rebound,Unknown,1,0
+459,622,PT04M40.00S,4,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams Personal Take Foul (P1.T4) (J.Orr),Foul,Personal Take,1,0
+460,624,PT04M40.00S,4,1610612746,LAC,203210,Green,J. Green,0,0,0,,0,,,0,h,SUB: Shamet FOR Green,Substitution,,0,0
+461,625,PT04M40.00S,4,1610612746,LAC,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,SUB: Zubac FOR Harrell,Substitution,,0,0
+462,626,PT04M40.00S,4,1610612746,LAC,202066,Temple,G. Temple,0,0,0,,0,,,0,h,SUB: Robinson FOR Temple,Substitution,,0,0
+463,627,PT04M40.00S,4,1610612746,LAC,101150,Williams,L. Williams,0,0,0,,0,,,0,h,SUB: Thornwell FOR Williams,Substitution,,0,0
+464,628,PT04M40.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Ellenson,Substitution,,0,0
+465,634,PT04M22.00S,4,1610612752,NYK,1626144,Mudiay,E. Mudiay,-167,199,26,Missed,1,,,0,v,MISS Mudiay 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+466,635,PT04M19.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+467,636,PT04M10.00S,4,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,2,13,1,Made,1,120,97,217,h,Gilgeous-Alexander 1' Driving Dunk (15 PTS),Made Shot,Driving Dunk Shot,1,0
+468,637,PT03M46.00S,4,1610612752,NYK,1626144,Mudiay,E. Mudiay,-19,52,6,Missed,1,,,0,v,MISS Mudiay 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+469,638,PT03M44.00S,4,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+470,639,PT03M43.00S,4,1610612752,NYK,203943,Vonleh,N. Vonleh,-5,17,2,Missed,1,,,0,v,MISS Vonleh 2' Hook Shot,Missed Shot,Hook Shot,1,0
+471,639,PT03M43.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac BLOCK (1 BLK),,,1,0
+472,641,PT03M40.00S,4,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+473,642,PT03M36.00S,4,1610612746,LAC,1629010,Robinson,J. Robinson,139,247,28,Missed,1,,,0,h,MISS Robinson 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+474,643,PT03M34.00S,4,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+475,644,PT03M28.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,4,0,Made,1,120,99,219,v,Robinson Cutting Dunk Shot (16 PTS) (Smith Jr. 6 AST),Made Shot,Cutting Dunk Shot,1,0
+476,646,PT03M28.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+477,647,PT03M28.00S,4,1610612746,LAC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,SUB: Wallace FOR Gilgeous-Alexander,Substitution,,0,0
+478,648,PT03M28.00S,4,1610612746,LAC,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,SUB: Motley FOR Shamet,Substitution,,0,0
+479,649,PT03M28.00S,4,1610612752,NYK,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,SUB: Kornet FOR Mudiay,Substitution,,0,0
+480,650,PT03M28.00S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,SUB: Jenkins FOR Robinson,Substitution,,0,0
+481,655,PT03M13.00S,4,1610612746,LAC,1629010,Robinson,J. Robinson,-20,118,12,Missed,1,,,0,h,MISS Robinson 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+482,656,PT03M10.00S,4,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,Vonleh REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+483,657,PT02M55.00S,4,1610612752,NYK,203098,Jenkins,J. Jenkins,65,121,14,Missed,1,,,0,v,MISS Jenkins 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+484,657,PT02M55.00S,4,1610612746,LAC,1628414,Thornwell,S. Thornwell,0,0,0,,0,,,0,h,Thornwell BLOCK (1 BLK),,,1,0
+485,659,PT02M50.00S,4,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+486,660,PT02M50.00S,4,1610612752,NYK,1628436,Kornet,L. Kornet,-146,232,27,Missed,1,,,0,v,MISS Kornet 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+487,661,PT02M49.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+488,662,PT02M47.00S,4,1610612746,LAC,1628405,Motley,J. Motley,0,0,0,,0,,,0,h,Motley OFF.Foul (P1) (S.Wright),Foul,Offensive,1,0
+489,664,PT02M47.00S,4,1610612746,LAC,1628405,Motley,J. Motley,0,0,0,,0,,,0,h,Motley Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,1,0
+490,665,PT02M47.00S,4,1610612752,NYK,203943,Vonleh,N. Vonleh,0,0,0,,0,,,0,v,SUB: Ellenson FOR Vonleh,Substitution,,0,0
+491,667,PT02M37.00S,4,1610612752,NYK,203098,Jenkins,J. Jenkins,166,216,27,Missed,1,,,0,v,MISS Jenkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+492,668,PT02M33.00S,4,1610612746,LAC,1629010,Robinson,J. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+493,669,PT02M27.00S,4,1610612746,LAC,1627820,Wallace,T. Wallace,0,0,0,,0,,,0,h,Wallace Out of Bounds Lost Ball Turnover (P2.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0
+494,670,PT02M14.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,-3,21,2,Made,1,120,101,221,v,Ellenson 2' Cutting Layup Shot (4 PTS) (Kornet 2 AST),Made Shot,Cutting Layup Shot,1,0
+495,672,PT02M01.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,9,28,3,Made,1,122,101,223,h,Zubac 3' Dunk (7 PTS) (Robinson 1 AST),Made Shot,Dunk Shot,1,0
+496,674,PT01M50.00S,4,1610612752,NYK,1628436,Kornet,L. Kornet,-144,193,24,Made,1,122,104,226,v,Kornet 24' 3PT Step Back Jump Shot (6 PTS) (Trier 4 AST),Made Shot,Step Back Jump shot,1,0
+497,676,PT01M37.00S,4,1610612746,LAC,1627820,Wallace,T. Wallace,-234,65,24,Made,1,125,104,229,h,Wallace 24' 3PT Jump Shot (5 PTS) (Thornwell 1 AST),Made Shot,Jump Shot,1,0
+498,678,PT01M25.00S,4,1610612752,NYK,1628436,Kornet,L. Kornet,160,193,25,Missed,1,,,0,v,MISS Kornet 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+499,679,PT01M22.00S,4,1610612746,LAC,1628414,Thornwell,S. Thornwell,0,0,0,,0,,,0,h,Thornwell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+500,680,PT01M13.00S,4,1610612746,LAC,1627820,Wallace,T. Wallace,32,26,4,Missed,1,,,0,h,MISS Wallace 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+501,681,PT01M10.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,Ellenson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+502,682,PT01M07.00S,4,1610612746,LAC,1629010,Robinson,J. Robinson,0,0,0,,0,,,0,h,Robinson P.FOUL (P1.PN) (S.Wright),Foul,Personal,1,0
+503,684,PT01M07.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,125,105,230,v,Ellenson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+504,685,PT01M07.00S,4,1610612752,NYK,1627740,Ellenson,H. Ellenson,0,0,0,,0,,,0,v,MISS Ellenson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+505,686,PT01M03.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+506,687,PT00M55.80S,4,1610612746,LAC,1628405,Motley,J. Motley,-5,26,3,Made,1,127,105,232,h,Motley 3' Cutting Dunk Shot (2 PTS) (Zubac 5 AST),Made Shot,Cutting Dunk Shot,1,0
+507,689,PT00M55.80S,4,1610612752,NYK,203098,Jenkins,J. Jenkins,0,0,0,,0,,,0,v,Jenkins S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,0
+508,691,PT00M55.80S,4,1610612746,LAC,1628405,Motley,J. Motley,0,0,0,,0,128,105,233,h,Motley Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+509,692,PT00M47.90S,4,1610612752,NYK,1628372,Smith Jr.,D. Smith Jr.,-20,15,3,Missed,1,,,0,v,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+510,694,PT00M44.90S,4,1610612746,LAC,1628405,Motley,J. Motley,0,0,0,,0,,,0,h,Motley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+511,695,PT00M42.10S,4,1610612746,LAC,1628405,Motley,J. Motley,-22,28,4,Missed,1,,,0,h,MISS Motley 4' Running Layup,Missed Shot,Running Layup Shot,1,0
+512,695,PT00M42.10S,4,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet BLOCK (3 BLK),,,1,0
+513,697,PT00M38.60S,4,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+514,698,PT00M35.70S,4,1610612752,NYK,1629019,Trier,A. Trier,0,4,0,Made,1,128,107,235,v,Trier Running Layup (16 PTS),Made Shot,Running Layup Shot,1,0
+515,699,PT00M22.10S,4,1610612746,LAC,1627820,Wallace,T. Wallace,0,0,0,,0,,,0,h,Wallace Lost Ball Turnover (P3.T17),Turnover,Lost Ball,1,0
+516,699,PT00M22.10S,4,1610612752,NYK,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet STEAL (2 STL),,,1,0
+517,701,PT00M15.90S,4,1610612752,NYK,203098,Jenkins,J. Jenkins,-207,167,27,Missed,1,,,0,v,MISS Jenkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+518,702,PT00M13.20S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+519,704,PT00M00.00S,4,0,,0,,,0,0,0,,0,128,107,235,,Instant Replay4th Period (5:49 PM EST),Instant Replay,Support Ruling,0,0
+520,703,PT00M00.00S,4,0,,0,,,0,0,0,,0,128,107,235,,End of 4th Period (5:50 PM EST),period,end,1,0

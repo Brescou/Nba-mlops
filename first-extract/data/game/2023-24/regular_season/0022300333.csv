@@ -1,0 +1,465 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:14 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Jump Ball Nurkic vs. Sims: Tip to Barrett,Jump Ball,,1,0
+3,7,PT11M46.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-103,-1,10,Made,1,0,2,2,v,Brunson 10' Driving Floating Bank Jump Shot (2 PTS) (DiVincenzo 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2
+4,9,PT11M31.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-55,256,26,Missed,1,,,0,h,MISS Booker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+5,10,PT11M28.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,11,PT11M21.00S,1,1610612752,NYK,203944,Randle,J. Randle,132,29,14,Made,1,0,4,4,v,Randle 14' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2
+7,12,PT11M06.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,-5,28,3,Made,1,2,4,6,h,Nurkic 3' Layup (2 PTS) (Beal 1 AST),Made Shot,Layup Shot,1,2
+8,14,PT10M46.00S,1,1610612752,NYK,203944,Randle,J. Randle,157,203,26,Missed,1,,,0,v,MISS Randle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+9,15,PT10M43.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+10,16,PT10M35.00S,1,1610612756,PHX,1628960,Allen,G. Allen,5,-1,1,Made,1,4,4,8,h,Allen 1' Reverse Layup (2 PTS) (Nurkic 1 AST),Made Shot,Reverse Layup Shot,1,2
+11,18,PT10M15.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,-83,48,10,Missed,1,,,0,v,MISS Barrett 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2
+12,19,PT10M12.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+13,20,PT10M11.00S,1,1610612752,NYK,1630579,Sims,J. Sims,-11,3,1,Made,1,4,6,10,v,Sims 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2
+14,21,PT10M11.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0
+15,23,PT10M11.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,4,7,11,v,Sims Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0
+16,24,PT09M50.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-234,-6,0,Missed,1,,,0,h,MISS Booker 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+17,25,PT09M46.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+18,26,PT09M35.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-34,25,4,Made,1,4,9,13,v,DiVincenzo 4' Driving Layup (2 PTS) (Brunson 1 AST),Made Shot,Driving Layup Shot,1,2
+19,28,PT09M17.00S,1,1610612756,PHX,201142,Durant,K. Durant,-104,130,17,Missed,1,,,0,h,MISS Durant 17' Jump Shot,Missed Shot,Jump Shot,1,2
+20,29,PT09M15.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+21,30,PT09M03.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-28,113,12,Missed,1,,,0,v,MISS Brunson 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+22,31,PT08M59.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+23,32,PT08M56.00S,1,1610612756,PHX,1626164,Booker,D. Booker,100,134,17,Missed,1,,,0,h,MISS Booker 17' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2
+24,33,PT08M52.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+25,34,PT08M47.00S,1,1610612752,NYK,203944,Randle,J. Randle,15,64,7,Missed,1,,,0,v,MISS Randle 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2
+26,35,PT08M44.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+27,36,PT08M41.00S,1,1610612756,PHX,1626164,Booker,D. Booker,10,10,1,Made,1,6,9,15,h,Booker 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2
+28,37,PT08M41.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0
+29,39,PT08M41.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,7,9,16,h,Booker Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0
+30,40,PT08M30.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,126,147,19,Missed,1,,,0,v,MISS Brunson 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+31,41,PT08M26.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+32,42,PT08M19.00S,1,1610612756,PHX,203078,Beal,B. Beal,-18,6,2,Made,1,9,9,18,h,Beal 2' Driving Reverse Layup (2 PTS) (Durant 1 AST),Made Shot,Driving Reverse Layup Shot,1,2
+33,44,PT08M10.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,230,46,0,Made,1,9,12,21,v,DiVincenzo 3PT Jump Shot (5 PTS) (Randle 1 AST),Made Shot,Jump Shot,1,3
+34,46,PT07M50.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-189,95,21,Made,1,11,12,23,h,Booker 21' Jump Shot (5 PTS),Made Shot,Jump Shot,1,2
+35,47,PT07M37.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+36,48,PT07M28.00S,1,1610612756,PHX,203078,Beal,B. Beal,-77,257,27,Made,1,14,12,26,h,Beal 27' 3PT Jump Shot (5 PTS) (Booker 1 AST),Made Shot,Jump Shot,1,3
+37,49,PT07M28.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo FLAGRANT.FOUL.TYPE1 (P2.T2) (N.Buchert),Foul,Flagrant Type 1,1,0
+38,51,PT07M28.00S,1,0,,49,Muresan,G. Muresan,0,0,0,,0,14,12,26,,Instant Replay1st Period (10:20 PM EST),Instant Replay,Overturn Ruling,0,0
+39,53,PT07M28.00S,1,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,15,12,27,h,Beal Free Throw Flagrant 1 of 1 (6 PTS),Free Throw,Free Throw Flagrant 1 of 1,1,0
+40,54,PT07M28.00S,1,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,,,0,h,SUB: Little FOR Beal,Substitution,,0,0
+41,56,PT07M15.00S,1,1610612756,PHX,201142,Durant,K. Durant,-31,268,27,Missed,1,,,0,h,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+42,57,PT07M12.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+43,58,PT07M10.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+44,58,PT07M10.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo STEAL (1 STL),,,1,0
+45,60,PT06M57.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,50,55,7,Made,1,15,14,29,v,Brunson 7' Driving Floating Jump Shot (4 PTS) (Randle 2 AST),Made Shot,Driving Floating Jump Shot,1,2
+46,62,PT06M45.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,-1,1,0,Made,1,17,14,31,h,Nurkic Driving Dunk (4 PTS) (Booker 2 AST),Made Shot,Driving Dunk Shot,1,2
+47,64,PT06M27.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,233,48,24,Made,1,17,17,34,v,Barrett 24' 3PT Jump Shot (3 PTS) (Brunson 2 AST),Made Shot,Jump Shot,1,3
+48,66,PT06M07.00S,1,1610612756,PHX,201142,Durant,K. Durant,229,91,25,Missed,1,,,0,h,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+49,67,PT06M05.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+50,68,PT06M05.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,1,0
+51,70,PT06M05.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+52,71,PT06M05.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,SUB: Hart FOR DiVincenzo,Substitution,,0,0
+53,73,PT06M05.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,18,17,35,h,Nurkic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0
+54,74,PT06M05.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,19,17,36,h,Nurkic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0
+55,75,PT05M51.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,-17,15,2,Made,1,19,19,38,v,Barrett 2' Driving Layup (5 PTS) (Brunson 3 AST),Made Shot,Driving Layup Shot,1,2
+56,77,PT05M48.00S,1,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+57,77,PT05M48.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson STEAL (1 STL),,,1,0
+58,79,PT05M42.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett Traveling Turnover (P1.T2),Turnover,Traveling,1,0
+59,80,PT05M34.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+60,80,PT05M34.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson STEAL (2 STL),,,1,0
+61,82,PT05M27.00S,1,1610612752,NYK,1628404,Hart,J. Hart,-189,162,25,Missed,1,,,0,v,MISS Hart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+62,83,PT05M23.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+63,85,PT05M14.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-13,158,16,Made,1,21,19,40,h,Booker 16' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2
+64,86,PT05M08.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,0
+65,88,PT05M08.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,21,20,41,v,Barrett Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0
+66,89,PT05M08.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,SUB: Hartenstein FOR Sims,Substitution,,0,0
+67,91,PT05M08.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,21,21,42,v,Barrett Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0
+68,92,PT04M57.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0
+69,92,PT04M57.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein STEAL (1 STL),,,1,0
+70,94,PT04M44.00S,1,1610612752,NYK,1628404,Hart,J. Hart,37,95,10,Made,1,21,23,44,v,Hart 10' Pullup Jump Shot (2 PTS) (Randle 3 AST),Made Shot,Pullup Jump shot,1,2
+71,96,PT04M42.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+72,97,PT04M42.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,SUB: Quickley FOR Barrett,Substitution,,0,0
+73,99,PT04M27.00S,1,1610612756,PHX,1626164,Booker,D. Booker,22,120,12,Missed,1,,,0,h,MISS Booker 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+74,100,PT04M25.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+75,101,PT04M19.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,5,1,Made,1,21,25,46,v,Brunson 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2
+76,102,PT04M07.00S,1,1610612756,PHX,201142,Durant,K. Durant,126,100,16,Missed,1,,,0,h,MISS Durant 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+77,103,PT04M04.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+78,104,PT03M57.00S,1,1610612752,NYK,203944,Randle,J. Randle,-29,25,4,Made,1,21,27,48,v,Randle 4' Driving Layup (4 PTS) (Quickley 1 AST),Made Shot,Driving Layup Shot,1,2
+79,106,PT03M38.00S,1,1610612756,PHX,1628960,Allen,G. Allen,-234,12,0,Made,1,24,27,51,h,Allen 3PT Step Back Jump Shot (5 PTS) (Booker 3 AST),Made Shot,Step Back Jump shot,1,3
+80,108,PT03M24.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-36,22,4,Missed,1,,,0,v,MISS Brunson 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+81,109,PT03M20.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+82,110,PT03M11.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+83,110,PT03M11.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson STEAL (3 STL),,,1,0
+84,112,PT03M00.00S,1,1610612752,NYK,203944,Randle,J. Randle,-58,3,6,Made,1,24,29,53,v,Randle 6' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2
+85,113,PT02M37.00S,1,1610612756,PHX,1626164,Booker,D. Booker,93,175,20,Missed,1,,,0,h,MISS Booker 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+86,114,PT02M34.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+87,115,PT02M23.00S,1,1610612752,NYK,1628404,Hart,J. Hart,-213,124,25,Missed,1,,,0,v,MISS Hart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+88,116,PT02M20.00S,1,1610612756,PHX,1629642,Little,N. Little,0,0,0,,0,,,0,h,Little REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+89,117,PT02M08.00S,1,1610612756,PHX,201142,Durant,K. Durant,4,113,11,Made,1,26,29,55,h,Durant 11' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2
+90,118,PT01M49.00S,1,1610612752,NYK,203944,Randle,J. Randle,-62,121,14,Made,1,26,31,57,v,Randle 14' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2
+91,119,PT01M31.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,115,237,26,Made,1,29,31,60,h,Nurkic 26' 3PT Jump Shot (9 PTS) (Durant 2 AST),Made Shot,Jump Shot,1,3
+92,121,PT01M12.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-33,82,9,Missed,1,,,0,v,MISS Brunson 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+93,122,PT01M10.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+94,123,PT01M04.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,1,0
+95,125,PT01M04.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,MISS Durant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+96,126,PT01M04.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+97,127,PT01M04.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,SUB: Goodwin FOR Booker,Substitution,,0,0
+98,128,PT01M04.00S,1,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: Watanabe FOR Allen,Substitution,,0,0
+99,129,PT01M04.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,SUB: Eubanks FOR Nurkic,Substitution,,0,0
+100,130,PT01M04.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,SUB: Grimes FOR Brunson,Substitution,,0,0
+101,135,PT01M04.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,30,31,61,h,Durant Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0
+102,136,PT01M00.00S,1,1610612752,NYK,1630193,Quickley,I. Quickley,151,245,29,Missed,1,,,0,v,MISS Quickley 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+103,137,PT00M54.60S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+104,138,PT00M47.40S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+105,138,PT00M47.40S,1,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks STEAL (1 STL),,,1,0
+106,140,PT00M30.50S,1,1610612756,PHX,1629642,Little,N. Little,-232,21,0,Missed,1,,,0,h,MISS Little 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+107,141,PT00M26.30S,1,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+108,143,PT00M25.30S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Non-Unsportsmanlike Tech Foul - Flopping (P1.T4) (N.Buchert),Foul                                    ,Flopping,1,0
+109,144,PT00M25.30S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,MISS Durant Free Throw Technical,Free Throw,Free Throw Technical,1,0
+110,145,PT00M25.30S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+111,146,PT00M25.30S,1,1610612756,PHX,1629139,Watanabe,Y. Watanabe,0,0,0,,0,,,0,h,SUB: Bates-Diop FOR Watanabe,Substitution,,0,0
+112,148,PT00M06.30S,1,1610612752,NYK,203944,Randle,J. Randle,208,140,25,Missed,1,,,0,v,MISS Randle 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+113,149,PT00M02.70S,1,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+114,150,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,31,61,,End of 1st Period (10:41 PM EST),period,end,1,0
+115,159,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,31,61,,Start of 2nd Period (10:44 PM EST),period,start,0,0
+116,160,PT11M50.00S,2,1610612756,PHX,1629002,Metu,C. Metu,0,0,0,,0,,,0,h,Metu Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+117,160,PT11M50.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley STEAL (1 STL),,,1,0
+118,162,PT11M45.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,-233,53,24,Missed,1,,,0,v,MISS Grimes 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3
+119,163,PT11M41.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+120,164,PT11M33.00S,2,1610612756,PHX,1626164,Booker,D. Booker,6,8,1,Made,1,32,31,63,h,Booker 1' Driving Reverse Layup (9 PTS) (Goodwin 1 AST),Made Shot,Driving Reverse Layup Shot,1,2
+121,167,PT11M16.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,186,-5,19,Missed,1,,,0,v,MISS Quickley 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2
+122,168,PT11M12.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+123,169,PT11M10.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,164,213,27,Made,1,32,34,66,v,Grimes 27' 3PT Jump Shot (3 PTS) (Hart 1 AST),Made Shot,Jump Shot,1,3
+124,171,PT10M49.00S,2,1610612756,PHX,1630692,Goodwin,J. Goodwin,-36,70,8,Missed,1,,,0,h,MISS Goodwin 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+125,172,PT10M46.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+126,173,PT10M39.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,-18,16,2,Missed,1,,,0,v,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+127,173,PT10M39.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks BLOCK (1 BLK),,,1,2
+128,175,PT10M36.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+129,176,PT10M36.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,1,0
+130,178,PT10M34.00S,2,1610612756,PHX,1629002,Metu,C. Metu,-181,189,26,Missed,1,,,0,h,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+131,179,PT10M30.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+132,180,PT10M12.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,104,73,13,Made,1,32,36,68,v,Quickley 13' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2
+133,181,PT10M12.00S,2,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,Goodwin S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0
+134,183,PT10M12.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,32,37,69,v,Quickley Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0
+135,184,PT10M02.00S,2,1610612756,PHX,1626164,Booker,D. Booker,103,148,18,Made,1,34,37,71,h,Booker 18' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2
+136,185,PT09M46.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,12,82,8,Made,1,34,39,73,v,Barrett 8' Driving Hook Shot (9 PTS),Made Shot,Driving Hook Shot,1,2
+137,186,PT09M34.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Knicks T.Foul (Def. 3 Sec Hart ) (S.Twardoski),Foul,Defense 3 Second,1,0
+138,187,PT09M34.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,35,39,74,h,Booker Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,1,0
+139,188,PT09M22.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0
+140,189,PT09M18.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,-6,22,2,Made,1,35,41,76,v,Barrett 2' Driving Layup (11 PTS) (Hartenstein 1 AST),Made Shot,Driving Layup Shot,1,2
+141,190,PT08M58.00S,2,1610612756,PHX,1626164,Booker,D. Booker,-20,15,3,Made,1,37,41,78,h,Booker 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2
+142,192,PT08M43.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+143,193,PT08M24.00S,2,1610612756,PHX,1629002,Metu,C. Metu,-15,1,2,Made,1,39,41,80,h,Metu 2' Layup (2 PTS) (Goodwin 2 AST),Made Shot,Layup Shot,1,2
+144,195,PT08M03.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-22,-4,2,Made,1,39,43,82,v,Hart 2' Cutting Layup Shot (4 PTS) (Hartenstein 2 AST),Made Shot,Cutting Layup Shot,1,2
+145,197,PT07M50.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,1,0
+146,199,PT07M50.00S,2,1610612756,PHX,1629002,Metu,C. Metu,0,0,0,,0,,,0,h,MISS Metu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+147,200,PT07M50.00S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+148,201,PT07M50.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,SUB: Bates-Diop FOR Booker,Substitution,,0,0
+149,202,PT07M50.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,SUB: Brunson FOR Barrett,Substitution,,0,0
+150,205,PT07M50.00S,2,1610612756,PHX,1629002,Metu,C. Metu,0,0,0,,0,40,43,83,h,Metu Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0
+151,206,PT07M34.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,156,247,29,Missed,1,,,0,v,MISS Quickley 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+152,207,PT07M31.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+153,208,PT07M28.00S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+154,209,PT07M28.00S,2,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,SUB: Allen FOR Goodwin,Substitution,,0,0
+155,210,PT07M28.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,SUB: Nurkic FOR Eubanks,Substitution,,0,0
+156,211,PT07M28.00S,2,1610612756,PHX,1629139,Watanabe,Y. Watanabe,0,0,0,,0,,,0,h,SUB: Booker FOR Watanabe,Substitution,,0,0
+157,216,PT07M13.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Traveling Turnover (P3.T8),Turnover,Traveling,1,0
+158,217,PT06M57.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,28,51,6,Missed,1,,,0,v,MISS Brunson 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+159,218,PT06M53.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+160,219,PT06M52.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,11,-18,2,Made,1,40,45,85,v,Brunson 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2
+161,220,PT06M41.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes P.FOUL (P1.T3) (E.Malloy),Foul,Personal,1,0
+162,222,PT06M41.00S,2,1610612756,PHX,1629002,Metu,C. Metu,0,0,0,,0,,,0,h,SUB: Durant FOR Metu,Substitution,,0,0
+163,224,PT06M37.00S,2,1610612756,PHX,1628960,Allen,G. Allen,2,-4,0,Made,1,42,45,87,h,Allen Cutting Layup Shot (7 PTS) (Booker 4 AST),Made Shot,Cutting Layup Shot,1,2
+164,226,PT06M27.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,39,58,7,Missed,1,,,0,v,MISS Quickley 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2
+165,227,PT06M24.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+166,228,PT06M21.00S,2,1610612752,NYK,1628404,Hart,J. Hart,69,103,12,Missed,1,,,0,v,MISS Hart 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+167,229,PT06M21.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+168,230,PT06M16.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,Made,1,42,47,89,v,Hart Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2
+169,231,PT06M05.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein P.FOUL (P1.T4) (N.Buchert),Foul,Personal,1,0
+170,233,PT06M05.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,SUB: Goodwin FOR Booker,Substitution,,0,0
+171,234,PT06M05.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,SUB: Randle FOR Quickley,Substitution,,0,0
+172,237,PT05M57.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,-12,20,2,Made,1,44,47,91,h,Nurkic 2' Reverse Layup (11 PTS),Made Shot,Reverse Layup Shot,1,2
+173,238,PT05M46.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-21,5,2,Missed,1,,,0,v,MISS Brunson 2' Layup,Missed Shot,Layup Shot,1,2
+174,239,PT05M42.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+175,240,PT05M39.00S,2,1610612756,PHX,201142,Durant,K. Durant,-162,197,26,Made,1,47,47,94,h,Durant 26' 3PT Jump Shot (6 PTS) (Goodwin 3 AST),Made Shot,Jump Shot,1,3
+176,242,PT05M31.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+177,243,PT05M13.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-116,59,13,Missed,1,,,0,v,MISS Hart 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2
+178,244,PT05M10.00S,2,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+179,245,PT05M04.00S,2,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0
+180,245,PT05M04.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson STEAL (4 STL),,,1,0
+181,247,PT04M55.00S,2,1610612752,NYK,203944,Randle,J. Randle,-229,43,0,Made,1,47,50,97,v,Randle 3PT Step Back Jump Shot (11 PTS) (Hart 2 AST),Made Shot,Step Back Jump shot,1,3
+182,249,PT04M34.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,20,25,3,Missed,1,,,0,h,MISS Nurkic 3' Hook Shot,Missed Shot,Hook Shot,1,2
+183,250,PT04M32.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+184,251,PT04M24.00S,2,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,SUNS T.Foul (Def. 3 Sec Bates-Diop ) (N.Buchert),Foul,Defense 3 Second,1,0
+185,252,PT04M24.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,47,51,98,v,Brunson Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,1,0
+186,253,PT04M24.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,SUB: DiVincenzo FOR Hart,Substitution,,0,0
+187,254,PT04M24.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,SUB: Barrett FOR Grimes,Substitution,,0,0
+188,257,PT04M15.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,216,129,25,Missed,1,,,0,v,MISS DiVincenzo 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3
+189,258,PT04M12.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+190,259,PT04M03.00S,2,1610612756,PHX,201142,Durant,K. Durant,89,85,12,Missed,1,,,0,h,MISS Durant 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+191,260,PT04M01.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+192,261,PT03M59.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,-2,16,2,Made,1,49,51,100,h,Nurkic 2' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,2
+193,262,PT03M43.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-18,9,2,Made,1,49,53,102,v,Hartenstein 2' Cutting Layup Shot (2 PTS) (Brunson 4 AST),Made Shot,Cutting Layup Shot,1,2
+194,264,PT03M30.00S,2,1610612756,PHX,1630692,Goodwin,J. Goodwin,224,7,0,Missed,1,,,0,h,MISS Goodwin 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+195,265,PT03M25.00S,2,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+196,266,PT03M20.00S,2,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,12,31,3,Missed,1,,,0,h,MISS Bates-Diop 3' Layup,Missed Shot,Layup Shot,1,2
+197,266,PT03M20.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein BLOCK (1 BLK),,,1,2
+198,268,PT03M15.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+199,269,PT03M11.00S,2,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,Goodwin P.FOUL (P2.T2) (N.Buchert),Foul,Personal,1,0
+200,271,PT03M11.00S,2,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,SUB: Little FOR Goodwin,Substitution,,0,0
+201,272,PT03M11.00S,2,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,SUB: Booker FOR Bates-Diop,Substitution,,0,0
+202,275,PT03M05.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+203,275,PT03M05.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic STEAL (1 STL),,,1,0
+204,277,PT02M53.00S,2,1610612756,PHX,201142,Durant,K. Durant,223,1,0,Made,1,52,53,105,h,Durant 3PT Jump Shot (9 PTS) (Booker 5 AST),Made Shot,Jump Shot,1,3
+205,279,PT02M39.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,172,176,25,Made,1,52,56,108,v,Brunson 25' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,3
+206,280,PT02M25.00S,2,1610612756,PHX,201142,Durant,K. Durant,229,16,0,Made,1,55,56,111,h,Durant 3PT Jump Shot (12 PTS) (Little 1 AST),Made Shot,Jump Shot,1,3
+207,282,PT02M15.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,47,57,7,Made,1,55,58,113,v,Barrett 7' Driving Floating Bank Jump Shot (13 PTS) (Brunson 5 AST),Made Shot,Driving Floating Bank Jump Shot,1,2
+208,283,PT01M57.00S,2,1610612756,PHX,201142,Durant,K. Durant,72,260,27,Made,1,58,58,116,h,Durant 27' 3PT Jump Shot (15 PTS) (Booker 6 AST),Made Shot,Jump Shot,1,3
+209,286,PT01M45.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,SUNS T.Foul (Def. 3 Sec Nurkic ) (N.Buchert),Foul,Defense 3 Second,1,0
+210,287,PT01M45.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,58,59,117,v,Brunson Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,1,0
+211,288,PT01M40.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein OFF.Foul (P2) (E.Malloy),Foul,Offensive,1,0
+212,290,PT01M40.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0
+213,292,PT01M40.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,SUB: Sims FOR Hartenstein,Substitution,,0,0
+214,294,PT01M26.00S,2,1610612756,PHX,201142,Durant,K. Durant,-11,112,11,Made,1,60,59,119,h,Durant 11' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,2
+215,295,PT01M11.00S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Out of Bounds Lost Ball Turnover (P2.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0
+216,296,PT01M02.00S,2,1610612756,PHX,201142,Durant,K. Durant,96,251,27,Missed,1,,,0,h,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+217,297,PT00M59.40S,2,1610612756,PHX,1629642,Little,N. Little,0,0,0,,0,,,0,h,Little REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+218,298,PT00M56.20S,2,1610612756,PHX,1628960,Allen,G. Allen,227,31,0,Made,1,63,59,122,h,Allen 3PT Jump Shot (10 PTS) (Booker 7 AST),Made Shot,Jump Shot,1,3
+219,300,PT00M39.60S,2,1610612756,PHX,1629642,Little,N. Little,0,0,0,,0,,,0,h,Little S.FOUL (P1.T3) (E.Malloy),Foul,Shooting,1,0
+220,302,PT00M39.60S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,63,60,123,v,Randle Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0
+221,303,PT00M39.60S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,63,61,124,v,Randle Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0
+222,304,PT00M33.80S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,9,10,1,Made,1,65,61,126,h,Nurkic 1' Cutting Layup Shot (15 PTS) (Durant 3 AST),Made Shot,Cutting Layup Shot,1,2
+223,306,PT00M28.30S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,1,0
+224,308,PT00M28.30S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,65,62,127,v,Brunson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0
+225,309,PT00M28.30S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,65,63,128,v,Brunson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0
+226,310,PT00M08.60S,2,1610612756,PHX,1629642,Little,N. Little,157,204,26,Made,1,68,63,131,h,Little 26' 3PT Jump Shot (3 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,1,3
+227,312,PT00M00.00S,2,0,,0,,,0,0,0,,0,68,63,131,,End of 2nd Period (11:12 PM EST),period,end,1,0
+228,313,PT12M00.00S,3,0,,0,,,0,0,0,,0,68,63,131,,Start of 3rd Period (11:29 PM EST),period,start,0,0
+229,314,PT11M49.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo S.FOUL (P3.T1) (S.Twardoski),Foul,Shooting,1,0
+230,316,PT11M49.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,69,63,132,h,Booker Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+231,317,PT11M49.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,70,63,133,h,Booker Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0
+232,318,PT11M36.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,140,211,25,Made,1,70,66,136,v,Brunson 25' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3
+233,320,PT11M25.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-85,77,11,Made,1,72,66,138,h,Booker 11' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,2
+234,321,PT11M05.00S,3,1610612752,NYK,1630579,Sims,J. Sims,-1,11,1,Made,1,72,68,140,v,Sims 1' Cutting Dunk Shot (5 PTS) (Barrett 1 AST),Made Shot,Cutting Dunk Shot,1,2
+235,323,PT10M45.00S,3,1610612756,PHX,201142,Durant,K. Durant,12,99,10,Made,1,74,68,142,h,Durant 10' Turnaround Fadeaway (19 PTS) (Booker 8 AST),Made Shot,Turnaround Fadeaway shot,1,2
+236,325,PT10M27.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,-67,88,11,Missed,1,,,0,v,MISS Barrett 11' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+237,326,PT10M26.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+238,327,PT10M08.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-94,40,10,Made,1,76,68,144,h,Booker 10' Fadeaway Bank Shot (20 PTS),Made Shot,Fadeaway Bank shot,1,2
+239,328,PT09M54.00S,3,1610612752,NYK,203944,Randle,J. Randle,-43,22,5,Made,1,76,70,146,v,Randle 5' Cutting Finger Roll Layup Shot (15 PTS) (Brunson 6 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2
+240,330,PT09M45.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo P.FOUL (P4.T2) (E.Malloy),Foul,Personal,1,0
+241,332,PT09M38.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-124,93,16,Missed,1,,,0,h,MISS Booker 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+242,333,PT09M35.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+243,334,PT09M28.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker P.FOUL (P3.T1) (E.Malloy),Foul,Personal,1,0
+244,336,PT09M23.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-172,205,27,Made,1,76,73,149,v,Brunson 27' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,3
+245,339,PT08M55.00S,3,1610612756,PHX,1626164,Booker,D. Booker,92,247,26,Missed,1,,,0,h,MISS Booker 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+246,340,PT08M53.00S,3,1610612756,PHX,1629642,Little,N. Little,0,0,0,,0,,,0,h,Little REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+247,341,PT08M46.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,-136,210,25,Missed,1,,,0,h,MISS Nurkic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+248,342,PT08M41.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+249,344,PT08M32.00S,3,1610612756,PHX,1626164,Booker,D. Booker,157,264,31,Made,1,79,73,152,h,Booker 31' 3PT Jump Shot (23 PTS) (Durant 4 AST),Made Shot,Jump Shot,1,3
+250,347,PT08M15.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,76,252,26,Made,1,79,76,155,v,Brunson 26' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,3
+251,348,PT07M53.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,-71,27,8,Made,1,81,76,157,h,Nurkic 8' Hook Shot (17 PTS),Made Shot,Hook Shot,1,2
+252,350,PT07M37.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker S.FOUL (P4.T2) (S.Twardoski),Foul,Shooting,1,0
+253,352,PT07M37.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,81,77,158,v,Barrett Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0
+254,353,PT07M37.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,81,78,159,v,Barrett Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0
+255,354,PT07M24.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-170,96,20,Missed,1,,,0,h,MISS Booker 20' Jump Shot,Missed Shot,Jump Shot,1,2
+256,355,PT07M22.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+257,356,PT07M12.00S,3,1610612752,NYK,203944,Randle,J. Randle,25,90,9,Missed,1,,,0,v,MISS Randle 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2
+258,358,PT07M10.00S,3,1610612756,PHX,1629642,Little,N. Little,0,0,0,,0,,,0,h,Little REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+259,359,PT07M02.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,17,66,7,Missed,1,,,0,h,MISS Nurkic 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2
+260,360,PT06M59.00S,3,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+261,361,PT06M52.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0
+262,361,PT06M52.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen STEAL (1 STL),,,1,0
+263,363,PT06M47.00S,3,1610612756,PHX,1629642,Little,N. Little,37,11,4,Missed,1,,,0,h,MISS Little 4' Running Layup,Missed Shot,Running Layup Shot,1,2
+264,363,PT06M47.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett BLOCK (1 BLK),,,1,2
+265,364,PT06M46.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+266,365,PT06M46.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,Made,1,83,78,161,h,Booker Putback Layup (25 PTS),Made Shot,Putback Layup Shot,1,2
+267,366,PT06M46.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+268,367,PT06M46.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,SUB: Goodwin FOR Booker,Substitution,,0,0
+269,369,PT06M28.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+270,371,PT06M06.00S,3,1610612756,PHX,201142,Durant,K. Durant,-37,30,5,Made,1,85,78,163,h,Durant 5' Driving Floating Bank Jump Shot (21 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2
+271,394,PT05M53.00S,3,1610612752,NYK,1630579,Sims,J. Sims,13,46,5,Missed,1,,,0,v,MISS Sims 5' Dunk,Missed Shot,Dunk Shot,1,2
+272,394,PT05M53.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen BLOCK (1 BLK),,,1,2
+273,396,PT05M53.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,1,0
+274,375,PT05M53.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+275,376,PT05M53.00S,3,0,,373,,,0,0,0,,0,85,78,163,,Instant Replay3rd Period (11:42 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0
+276,378,PT05M42.00S,3,1610612756,PHX,1629642,Little,N. Little,15,83,8,Made,1,87,78,165,h,Little 8' Driving Floating Jump Shot (5 PTS) (Durant 5 AST),Made Shot,Driving Floating Jump Shot,1,2
+277,380,PT05M21.00S,3,1610612752,NYK,203944,Randle,J. Randle,-7,34,3,Made,1,87,80,167,v,Randle 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2
+278,381,PT05M05.00S,3,1610612756,PHX,1630692,Goodwin,J. Goodwin,-238,-18,24,Made,1,90,80,170,h,Goodwin 24' 3PT Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Jump Shot,1,3
+279,383,PT04M42.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-97,256,27,Made,1,90,83,173,v,Brunson 27' 3PT Jump Shot (27 PTS) (Randle 4 AST),Made Shot,Jump Shot,1,3
+280,385,PT04M27.00S,3,1610612756,PHX,1628960,Allen,G. Allen,16,8,2,Made,1,92,83,175,h,Allen 2' Driving Layup (12 PTS) (Durant 6 AST),Made Shot,Driving Layup Shot,1,2
+281,387,PT04M27.00S,3,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims S.FOUL (P2.T3) (N.Buchert),Foul,Shooting,1,0
+282,389,PT04M27.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,SUB: Hartenstein FOR Barrett,Substitution,,0,0
+283,390,PT04M27.00S,3,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,SUB: Hart FOR Sims,Substitution,,0,0
+284,393,PT04M27.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,93,83,176,h,Allen Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0
+285,397,PT04M10.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-17,105,11,Made,1,93,85,178,v,Brunson 11' Driving Floating Jump Shot (29 PTS),Made Shot,Driving Floating Jump Shot,1,2
+286,398,PT04M10.00S,3,1610612756,PHX,1629642,Little,N. Little,0,0,0,,0,,,0,h,Little S.FOUL (P2.T3) (N.Buchert),Foul,Shooting,1,0
+287,400,PT04M10.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,MISS Brunson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+288,401,PT04M07.00S,3,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,Goodwin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+289,402,PT03M48.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,-28,13,3,Missed,1,,,0,h,MISS Nurkic 3' Hook Shot,Missed Shot,Hook Shot,1,2
+290,403,PT03M46.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+291,404,PT03M40.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-229,101,25,Made,1,93,88,181,v,Brunson 25' 3PT Jump Shot (32 PTS) (Randle 5 AST),Made Shot,Jump Shot,1,3
+292,406,PT03M24.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,4,8,1,Made,1,95,88,183,h,Nurkic 1' Cutting Dunk Shot (19 PTS) (Goodwin 4 AST),Made Shot,Cutting Dunk Shot,1,2
+293,409,PT03M07.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,SUB: Eubanks FOR Nurkic,Substitution,,0,0
+294,410,PT03M07.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,SUB: Quickley FOR DiVincenzo,Substitution,,0,0
+295,413,PT03M07.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+296,414,PT03M07.00S,3,1610612756,PHX,1629642,Little,N. Little,0,0,0,,0,,,0,h,SUB: Bates-Diop FOR Little,Substitution,,0,0
+297,416,PT03M03.00S,3,1610612752,NYK,203944,Randle,J. Randle,-6,27,3,Made,1,95,90,185,v,Randle 3' Driving Finger Roll Layup (19 PTS) (Brunson 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2
+298,418,PT02M52.00S,3,1610612756,PHX,201142,Durant,K. Durant,-147,87,17,Made,1,97,90,187,h,Durant 17' Jump Shot (23 PTS) (Goodwin 5 AST),Made Shot,Jump Shot,1,2
+299,420,PT02M40.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-22,123,12,Made,1,97,92,189,v,Brunson 12' Pullup Jump Shot (34 PTS),Made Shot,Pullup Jump shot,1,2
+300,421,PT02M20.00S,3,1610612756,PHX,201142,Durant,K. Durant,-33,17,4,Missed,1,,,0,h,MISS Durant 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+301,421,PT02M20.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein BLOCK (2 BLK),,,1,2
+302,423,PT02M16.00S,3,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+303,424,PT02M14.00S,3,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,126,221,25,Missed,1,,,0,h,MISS Bates-Diop 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+304,425,PT02M12.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+305,427,PT02M04.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,1,0
+306,429,PT02M04.00S,3,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,97,93,190,v,Quickley Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,1,0
+307,430,PT02M04.00S,3,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,MISS Quickley Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,0
+308,431,PT02M04.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0
+309,432,PT02M04.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: Booker FOR Allen,Substitution,,0,0
+310,433,PT02M04.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,SUB: Metu FOR Durant,Substitution,,0,0
+311,434,PT02M04.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,SUB: Grimes FOR Brunson,Substitution,,0,0
+312,438,PT02M04.00S,3,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,97,94,191,v,Quickley Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0
+313,439,PT01M51.00S,3,1610612756,PHX,1629234,Eubanks,D. Eubanks,18,26,3,Made,1,99,94,193,h,Eubanks 3' Layup (2 PTS) (Goodwin 6 AST),Made Shot,Layup Shot,1,2
+314,441,PT01M38.00S,3,1610612752,NYK,203944,Randle,J. Randle,-74,74,10,Missed,1,,,0,v,MISS Randle 10' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+315,442,PT01M35.00S,3,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,Goodwin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+316,443,PT01M27.00S,3,1610612756,PHX,1626164,Booker,D. Booker,162,16,16,Missed,1,,,0,h,MISS Booker 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+317,444,PT01M25.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0
+318,445,PT01M25.00S,3,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks L.B.FOUL (P1.PN) (S.Twardoski),Foul,Loose Ball,1,0
+319,447,PT01M25.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,99,95,194,v,Hartenstein Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+320,448,PT01M25.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,SUB: Barrett FOR Randle,Substitution,,0,0
+321,450,PT01M25.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+322,451,PT01M22.00S,3,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+323,452,PT01M09.00S,3,1610612756,PHX,1629002,Metu,C. Metu,-235,41,24,Missed,1,,,0,h,MISS Metu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+324,453,PT01M04.00S,3,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+325,454,PT00M57.20S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,-217,138,26,Missed,1,,,0,v,MISS Grimes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+326,455,PT00M54.20S,3,1610612756,PHX,1629002,Metu,C. Metu,0,0,0,,0,,,0,h,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+327,456,PT00M30.80S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0
+328,457,PT00M12.20S,3,1610612752,NYK,1630193,Quickley,I. Quickley,22,86,9,Made,1,99,97,196,v,Quickley 9' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2
+329,458,PT00M05.10S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes P.FOUL (P2.T4) (S.Twardoski),Foul,Personal,1,0
+330,460,PT00M05.10S,3,1610612756,PHX,1629002,Metu,C. Metu,0,0,0,,0,,,0,h,SUB: Durant FOR Metu,Substitution,,0,0
+331,462,PT00M00.00S,3,1610612756,PHX,1629234,Eubanks,D. Eubanks,-4,125,13,Missed,1,,,0,h,MISS Eubanks 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+332,463,PT00M00.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+333,464,PT00M00.00S,3,0,,0,,,0,0,0,,0,99,97,196,,End of 3rd Period (11:57 PM EST),period,end,1,0
+334,469,PT12M00.00S,4,0,,0,,,0,0,0,,0,99,97,196,,Start of 4th Period (12:01 AM EST),period,start,0,0
+335,470,PT11M47.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen P.FOUL (P2.T1) (E.Malloy),Foul,Personal,0,0
+336,472,PT11M42.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,97,238,26,Missed,1,,,0,v,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+337,473,PT11M38.00S,4,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,Goodwin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+338,474,PT11M24.00S,4,1610612756,PHX,1626164,Booker,D. Booker,70,58,9,Missed,1,,,0,h,MISS Booker 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+339,475,PT11M22.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+340,476,PT11M01.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,82,92,12,Made,1,99,99,198,v,Barrett 12' Driving Floating Bank Jump Shot (17 PTS) (Quickley 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2
+341,478,PT10M44.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett P.FOUL (P1.T1) (N.Buchert),Foul,Personal,1,0
+342,480,PT10M36.00S,4,1610612756,PHX,1629234,Eubanks,D. Eubanks,-6,4,1,Made,1,101,99,200,h,Eubanks 1' Cutting Dunk Shot (4 PTS) (Booker 9 AST),Made Shot,Cutting Dunk Shot,1,2
+343,482,PT10M17.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,-2,268,27,Made,1,101,102,203,v,Grimes 27' 3PT Jump Shot (6 PTS) (Barrett 2 AST),Made Shot,Jump Shot,1,3
+344,484,PT10M00.00S,4,1610612756,PHX,1629234,Eubanks,D. Eubanks,-5,14,1,Made,1,103,102,205,h,Eubanks 1' Cutting Dunk Shot (6 PTS) (Metu 1 AST),Made Shot,Cutting Dunk Shot,1,2
+345,486,PT09M59.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+346,487,PT09M49.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,21,12,2,Missed,1,,,0,v,MISS Grimes 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2
+347,487,PT09M49.00S,4,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks BLOCK (2 BLK),,,1,2
+348,489,PT09M46.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+349,490,PT09M44.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,127,246,28,Made,1,103,105,208,v,Quickley 28' 3PT Jump Shot (10 PTS) (Grimes 1 AST),Made Shot,Jump Shot,1,3
+350,492,PT09M28.00S,4,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,Goodwin Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0
+351,492,PT09M28.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley STEAL (2 STL),,,1,0
+352,494,PT09M22.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,147,209,26,Made,1,103,108,211,v,Grimes 26' 3PT Running Jump Shot (9 PTS) (Barrett 3 AST),Made Shot,Running Jump Shot,1,3
+353,496,PT09M20.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+354,497,PT09M20.00S,4,1610612756,PHX,1629002,Metu,C. Metu,0,0,0,,0,,,0,h,SUB: Durant FOR Metu,Substitution,,0,0
+355,499,PT08M59.00S,4,1610612756,PHX,201142,Durant,K. Durant,141,219,26,Missed,1,,,0,h,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+356,500,PT08M56.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,1,0
+357,501,PT08M53.00S,4,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,Jump Ball Goodwin vs. Quickley: Tip to Eubanks,Jump Ball,,1,0
+358,504,PT08M51.00S,4,1610612756,PHX,1626164,Booker,D. Booker,16,246,25,Missed,1,,,0,h,MISS Booker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+359,505,PT08M48.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+360,506,PT08M36.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P3.T2) (S.Twardoski),Foul,Shooting,1,0
+361,508,PT08M36.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,103,109,212,v,Barrett Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0
+362,509,PT08M36.00S,4,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,SUB: Little FOR Goodwin,Substitution,,0,0
+363,511,PT08M36.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,103,110,213,v,Barrett Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0
+364,512,PT08M21.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein S.FOUL (P3.T2) (E.Malloy),Foul,Shooting,1,0
+365,514,PT08M21.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,104,110,214,h,Durant Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0
+366,515,PT08M21.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,105,110,215,h,Durant Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0
+367,516,PT08M13.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,-61,267,27,Missed,1,,,0,v,MISS Grimes 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+368,517,PT08M11.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+369,518,PT08M11.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P4.T3) (E.Malloy),Foul,Shooting,1,0
+370,520,PT08M11.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,105,111,216,v,Barrett Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0
+371,521,PT08M11.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: Goodwin FOR Allen,Substitution,,0,0
+372,523,PT08M11.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,105,112,217,v,Barrett Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0
+373,524,PT07M54.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,1,0
+374,526,PT07M54.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,MISS Booker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+375,527,PT07M54.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+376,528,PT07M54.00S,4,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,SUB: Nurkic FOR Eubanks,Substitution,,0,0
+377,529,PT07M54.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,SUB: Randle FOR Grimes,Substitution,,0,0
+378,530,PT07M54.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,SUB: Brunson FOR Barrett,Substitution,,0,0
+379,534,PT07M54.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,106,112,218,h,Booker Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0
+380,535,PT07M45.00S,4,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,Goodwin S.FOUL (P3.T4) (S.Twardoski),Foul,Shooting,1,0
+381,537,PT07M45.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,106,113,219,v,Brunson Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,1,0
+382,538,PT07M45.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,106,114,220,v,Brunson Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,1,0
+383,539,PT07M33.00S,4,1610612756,PHX,1630692,Goodwin,J. Goodwin,-233,-2,0,Missed,1,,,0,h,MISS Goodwin 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+384,540,PT07M29.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+385,541,PT07M23.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-18,4,2,Made,1,106,116,222,v,Brunson 2' Running Finger Roll Layup (38 PTS) (Randle 6 AST),Made Shot,Running Finger Roll Layup Shot,1,2
+386,543,PT07M13.00S,4,1610612756,PHX,201142,Durant,K. Durant,119,126,17,Missed,1,,,0,h,MISS Durant 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+387,544,PT07M07.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:4 Def:7),Rebound,Unknown,1,0
+388,545,PT07M07.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,Made,1,108,116,224,h,Nurkic Tip Layup Shot (21 PTS),Made Shot,Tip Layup Shot,1,2
+389,546,PT06M48.00S,4,1610612752,NYK,203944,Randle,J. Randle,-44,37,6,Missed,1,,,0,v,MISS Randle 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+390,547,PT06M47.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:4 Def:8),Rebound,Unknown,1,0
+391,548,PT06M41.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-11,-2,1,Made,1,110,116,226,h,Booker 1' Running Layup (28 PTS) (Goodwin 7 AST),Made Shot,Running Layup Shot,1,2
+392,550,PT06M17.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-1,20,2,Made,1,110,118,228,v,Hartenstein 2' Layup (5 PTS) (Brunson 8 AST),Made Shot,Layup Shot,1,2
+393,552,PT06M06.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0
+394,552,PT06M06.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson STEAL (5 STL),,,1,0
+395,554,PT06M02.00S,4,1610612752,NYK,203944,Randle,J. Randle,-6,2,1,Made,1,110,120,230,v,Randle 1' Running Dunk (21 PTS) (Brunson 9 AST),Made Shot,Running Dunk Shot,1,2
+396,557,PT05M47.00S,4,1610612756,PHX,1630692,Goodwin,J. Goodwin,0,0,0,,0,,,0,h,SUB: Allen FOR Goodwin,Substitution,,0,0
+397,559,PT05M47.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle AWAY.FROM.PLAY.FOUL (P2.T4) (N.Buchert),Foul,Away From Play,1,0
+398,565,PT05M47.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,111,120,231,h,Durant Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,1,0
+399,561,PT05M43.00S,4,1610612756,PHX,1626164,Booker,D. Booker,143,24,15,Missed,1,,,0,h,MISS Booker 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+400,562,PT05M34.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+401,563,PT05M30.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic P.FOUL (P2.PN) (N.Buchert),Foul,Personal,1,0
+402,566,PT05M30.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,111,121,232,v,Brunson Free Throw 1 of 2 (39 PTS),Free Throw,Free Throw 1 of 2,1,0
+403,567,PT05M30.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,SUB: Bates-Diop FOR Nurkic,Substitution,,0,0
+404,569,PT05M30.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,MISS Brunson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+405,570,PT05M27.00S,4,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,Bates-Diop REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+406,571,PT05M19.00S,4,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,1,30,3,Missed,1,,,0,h,MISS Bates-Diop 3' Layup,Missed Shot,Layup Shot,1,2
+407,571,PT05M19.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle BLOCK (1 BLK),,,1,2
+408,573,PT05M17.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+409,574,PT05M06.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,-170,58,18,Missed,1,,,0,v,MISS Quickley 18' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+410,575,PT05M04.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,1,0
+411,577,PT04M52.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-10,26,3,Missed,1,,,0,h,MISS Booker 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2
+412,579,PT04M48.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,Quickley REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+413,580,PT04M48.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,2,16,2,Made,1,111,123,234,v,Brunson 2' Running Layup (41 PTS) (Quickley 3 AST),Made Shot,Running Layup Shot,1,2
+414,582,PT04M48.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+415,618,PT04M39.00S,4,1610612756,PHX,201142,Durant,K. Durant,-33,126,13,Missed,1,,,0,h,MISS Durant 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+416,618,PT04M39.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein BLOCK (3 BLK),,,1,2
+417,620,PT04M39.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+418,585,PT04M33.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0
+419,585,PT04M33.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen STEAL (2 STL),,,1,0
+420,587,PT04M28.00S,4,1610612756,PHX,1629642,Little,N. Little,-152,190,24,Missed,1,,,0,h,MISS Little 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+421,588,PT04M23.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+422,589,PT04M10.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-94,284,30,Made,1,111,126,237,v,Brunson 30' 3PT Pullup Jump Shot (44 PTS),Made Shot,Pullup Jump shot,1,3
+423,590,PT03M42.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-96,80,12,Missed,1,,,0,h,MISS Booker 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+424,591,PT03M39.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+425,592,PT03M25.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-159,204,26,Made,1,111,129,240,v,Brunson 26' 3PT Pullup Jump Shot (47 PTS),Made Shot,Pullup Jump shot,1,3
+426,593,PT03M14.00S,4,1610612756,PHX,201142,Durant,K. Durant,-16,-1,2,Made,1,113,129,242,h,Durant 2' Driving Floating Bank Jump Shot (28 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2
+427,594,PT03M14.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,1,0
+428,596,PT03M14.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+429,597,PT03M14.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,114,129,243,h,Durant Free Throw 1 of 1 (29 PTS),Free Throw,Free Throw 1 of 1,1,0
+430,598,PT02M55.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,1,0
+431,600,PT02M55.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,114,130,244,v,Hartenstein Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0
+432,601,PT02M55.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,114,131,245,v,Hartenstein Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0
+433,602,PT02M49.00S,4,1610612756,PHX,201142,Durant,K. Durant,-11,262,26,Missed,1,,,0,h,MISS Durant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+434,603,PT02M46.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+435,604,PT02M44.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-54,80,10,Missed,1,,,0,h,MISS Booker 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+436,605,PT02M44.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+437,606,PT02M25.00S,4,1610612752,NYK,1628404,Hart,J. Hart,230,13,0,Missed,1,,,0,v,MISS Hart 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+438,607,PT02M22.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+439,608,PT02M20.00S,4,1610612752,NYK,203944,Randle,J. Randle,-10,10,1,Made,1,114,133,247,v,Randle 1' Putback Layup (23 PTS),Made Shot,Putback Layup Shot,1,2
+440,609,PT02M20.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0
+441,610,PT02M20.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,SUB: Eubanks FOR Booker,Substitution,,0,0
+442,611,PT02M20.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: Goodwin FOR Allen,Substitution,,0,0
+443,612,PT02M20.00S,4,1610612756,PHX,1629642,Little,N. Little,0,0,0,,0,,,0,h,SUB: Bol FOR Little,Substitution,,0,0
+444,613,PT02M20.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,SUB: Watanabe FOR Durant,Substitution,,0,0
+445,621,PT02M00.00S,4,1610612756,PHX,1629626,Bol,B. Bol,1,75,8,Made,1,116,133,249,h,Bol 8' Floating Jump Shot (2 PTS) (Goodwin 8 AST),Made Shot,Floating Jump shot,1,2
+446,623,PT01M46.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,118,227,26,Made,1,116,136,252,v,Brunson 26' 3PT Step Back Jump Shot (50 PTS),Made Shot,Step Back Jump shot,1,3
+447,624,PT01M32.00S,4,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,67,113,13,Made,1,118,136,254,h,Bates-Diop 13' Cutting Dunk Shot (2 PTS) (Goodwin 9 AST),Made Shot,Cutting Dunk Shot,1,2
+448,626,PT01M22.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Offensive Charge Foul (P4) (N.Buchert),Foul,Offensive Charge,1,0
+449,628,PT01M22.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Offensive Foul Turnover (P5.T11),Turnover,Offensive Foul Turnover,1,0
+450,629,PT01M22.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,SUB: Gibson FOR Hart,Substitution,,0,0
+451,630,PT01M22.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,v,SUB: Sims FOR Quickley,Substitution,,0,0
+452,631,PT01M22.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,SUB: Arcidiacono FOR Brunson,Substitution,,0,0
+453,632,PT01M22.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,SUB: McBride FOR Randle,Substitution,,0,0
+454,633,PT01M22.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,SUB: Jeffries FOR Hartenstein,Substitution,,0,0
+455,639,PT01M12.00S,4,1610612756,PHX,1628966,Bates-Diop,K. Bates-Diop,37,96,10,Made,1,120,136,256,h,Bates-Diop 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2
+456,640,PT00M54.60S,4,1610612752,NYK,1630540,McBride,M. McBride,-168,204,26,Made,1,120,139,259,v,McBride 26' 3PT Jump Shot (3 PTS) (Arcidiacono 1 AST),Made Shot,Jump Shot,1,3
+457,642,PT00M42.30S,4,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,1,0
+458,645,PT00M42.30S,4,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,121,139,260,h,Eubanks Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0
+459,646,PT00M42.30S,4,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,122,139,261,h,Eubanks Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0
+460,647,PT00M27.90S,4,1610612752,NYK,1630579,Sims,J. Sims,10,1,1,Missed,1,,,0,v,MISS Sims 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2
+461,648,PT00M27.40S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+462,650,PT00M10.90S,4,1610612756,PHX,1630692,Goodwin,J. Goodwin,-34,72,8,Missed,1,,,0,h,MISS Goodwin 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+463,651,PT00M06.50S,4,1610612752,NYK,1627853,Arcidiacono,R. Arcidiacono,0,0,0,,0,,,0,v,Arcidiacono REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+464,652,PT00M00.00S,4,0,,0,,,0,0,0,,0,122,139,261,,End of 4th Period (12:36 AM EST),period,end,1,0

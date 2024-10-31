@@ -1,0 +1,503 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (6:11 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,Jump Ball M. Wagner vs. Eubanks: Tip to Lillard,Jump Ball,,1,0
+3,7,PT11M34.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,51,89,10,Made,1,0,2,2,v,Eubanks 10' Floating Jump Shot (2 PTS) (Grant 1 AST),Made Shot,Floating Jump shot,1,0
+4,9,PT11M15.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,-129,156,20,Missed,1,,,0,h,MISS Suggs 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+5,10,PT11M10.00S,1,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,11,PT10M56.00S,1,1610612757,POR,203924,Grant,J. Grant,189,170,25,Made,1,0,5,5,v,Grant 25' 3PT Jump Shot (3 PTS) (Eubanks 1 AST),Made Shot,Jump Shot,1,0
+7,13,PT10M56.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,1,0
+8,15,PT10M56.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,0,6,6,v,Grant Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0
+9,16,PT10M31.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,45,261,26,Missed,1,,,0,h,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+10,17,PT10M28.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+11,18,PT10M18.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+12,18,PT10M18.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner STEAL (1 STL),,,1,0
+13,20,PT10M12.00S,1,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,1,0
+14,22,PT10M12.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,1,6,7,h,Banchero Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+15,23,PT10M12.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,2,6,8,h,Banchero Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+16,24,PT09M59.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,1,0
+17,26,PT09M59.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,2,7,9,v,Lillard Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+18,27,PT09M59.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,2,8,10,v,Lillard Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+19,28,PT09M44.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,1,15,2,Made,1,4,8,12,h,M. Wagner 2' Driving Dunk (2 PTS) (F. Wagner 1 AST),Made Shot,Driving Dunk Shot,1,0
+20,30,PT09M38.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner P.FOUL (P1.T3) (T.Washington),Foul,Personal,1,0
+21,32,PT09M32.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-129,223,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+22,33,PT09M30.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+23,35,PT09M19.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,43,93,10,Made,1,6,8,14,h,Banchero 10' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+24,36,PT09M02.00S,1,1610612757,POR,1629629,Reddish,C. Reddish,-179,200,27,Missed,1,,,0,v,MISS Reddish 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+25,37,PT08M59.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+26,38,PT08M58.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+27,38,PT08M58.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz STEAL (1 STL),,,1,0
+28,40,PT08M52.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,6,16,2,Missed,1,,,0,h,MISS Fultz 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,0
+29,41,PT08M48.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+30,42,PT08M46.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+31,42,PT08M46.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz STEAL (2 STL),,,1,0
+32,44,PT08M41.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-2,17,2,Made,1,8,8,16,h,Banchero 2' Dunk (6 PTS) (Fultz 1 AST),Made Shot,Dunk Shot,1,0
+33,45,PT08M26.00S,1,1610612757,POR,1629629,Reddish,C. Reddish,48,25,5,Made,1,8,10,18,v,Reddish 5' Driving Hook Shot (2 PTS) (Eubanks 2 AST),Made Shot,Driving Hook Shot,1,0
+34,46,PT08M11.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,4,17,2,Made,1,10,10,20,h,F. Wagner 2' Cutting Dunk Shot (2 PTS) (Banchero 1 AST),Made Shot,Cutting Dunk Shot,1,0
+35,48,PT07M54.00S,1,1610612757,POR,203081,Lillard,D. Lillard,34,26,4,Made,1,10,12,22,v,Lillard 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+36,50,PT07M47.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks S.FOUL (P1.T2) (T.Washington),Foul,Shooting,1,0
+37,52,PT07M47.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,11,12,23,h,M. Wagner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+38,54,PT07M47.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+39,55,PT07M44.00S,1,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+40,56,PT07M30.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,23,29,4,Missed,1,,,0,v,MISS Eubanks 4' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,0
+41,57,PT07M27.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+42,59,PT07M08.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,-100,5,10,Missed,1,,,0,h,MISS Fultz 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+43,60,PT07M06.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+44,61,PT07M00.00S,1,1610612757,POR,203081,Lillard,D. Lillard,27,263,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+45,62,PT06M58.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+46,63,PT06M57.00S,1,1610612757,POR,1629629,Reddish,C. Reddish,-224,45,0,Missed,1,,,0,v,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+47,64,PT06M57.00S,1,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+48,65,PT06M57.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz L.B.FOUL (P1.T4) (T.Washington),Foul,Loose Ball,0,0
+49,67,PT06M57.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+50,68,PT06M57.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,SUB: Anthony FOR F. Wagner,Substitution,,0,0
+51,70,PT06M51.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs P.FOUL (P2.PN) (T.Washington),Foul,Personal,1,0
+52,72,PT06M51.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,MISS Lillard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+53,73,PT06M51.00S,1,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+54,74,PT06M51.00S,1,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,SUB: Little FOR Reddish,Substitution,,0,0
+55,75,PT06M51.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,SUB: Sharpe FOR Grant,Substitution,,0,0
+56,78,PT06M51.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,11,13,24,v,Lillard Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0
+57,79,PT06M35.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,102,156,19,Made,1,13,13,26,h,Fultz 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+58,80,PT06M13.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,-223,83,24,Missed,1,,,0,v,MISS Thybulle 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+59,81,PT06M09.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+60,82,PT06M03.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,18,258,26,Missed,1,,,0,h,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+61,83,PT06M00.00S,1,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,Little REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+62,84,PT05M46.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,1,20,2,Made,1,13,15,28,v,Eubanks 2' Driving Dunk (4 PTS) (Lillard 1 AST),Made Shot,Driving Dunk Shot,1,0
+63,86,PT05M33.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-64,127,14,Made,1,15,15,30,h,Banchero 14' Turnaround Jump Shot (8 PTS) (Anthony 1 AST),Made Shot,Turnaround Jump Shot,1,0
+64,88,PT05M17.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,1,0
+65,90,PT05M17.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+66,91,PT05M17.00S,1,0,,88,Scheffler,S. Scheffler,0,0,0,,0,15,15,30,,Instant Replay1st Period (6:26 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0
+67,92,PT05M17.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,15,16,31,v,Eubanks Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0
+68,93,PT05M17.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,15,17,32,v,Eubanks Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0
+69,94,PT05M03.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,235,29,24,Made,1,18,17,35,h,M. Wagner 24' 3PT Jump Shot (6 PTS) (Anthony 2 AST),Made Shot,Jump Shot,1,0
+70,96,PT04M44.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,4,32,3,Made,1,18,19,37,v,Eubanks 3' Cutting Dunk Shot (8 PTS) (Lillard 2 AST),Made Shot,Cutting Dunk Shot,1,0
+71,98,PT04M26.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+72,98,PT04M26.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard STEAL (1 STL),,,1,0
+73,100,PT04M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,238,60,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+74,101,PT04M18.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+75,102,PT04M09.00S,1,1610612757,POR,1629642,Little,N. Little,-80,252,26,Made,1,18,22,40,v,Little 26' 3PT Jump Shot (3 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,1,0
+76,104,PT03M52.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+77,104,PT03M52.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks STEAL (1 STL),,,1,0
+78,135,PT03M50.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+79,135,PT03M50.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs STEAL (1 STL),,,1,0
+80,108,PT03M47.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,6,13,1,Made,1,20,22,42,h,Banchero 1' Dunk (10 PTS) (Suggs 1 AST),Made Shot,Dunk Shot,1,0
+81,109,PT03M29.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-4,-3,1,Made,1,20,24,44,v,Lillard 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0
+82,110,PT03M16.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,-225,-1,0,Made,1,23,24,47,h,Suggs 3PT Jump Shot (3 PTS) (Fultz 2 AST),Made Shot,Jump Shot,1,0
+83,112,PT03M02.00S,1,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,Little Offensive Charge Foul (P1) (J.Sterling),Foul,Offensive Charge,1,0
+84,114,PT03M02.00S,1,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,Little Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0
+85,116,PT03M02.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,SUB: Houstan FOR Suggs,Substitution,,0,0
+86,117,PT03M02.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,SUB: Schofield FOR M. Wagner,Substitution,,0,0
+87,118,PT03M02.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,SUB: Watford FOR Lillard,Substitution,,0,0
+88,119,PT03M02.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Reddish FOR Thybulle,Substitution,,0,0
+89,120,PT03M02.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,SUB: Grant FOR Eubanks,Substitution,,0,0
+90,126,PT02M46.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,-227,9,0,Missed,1,,,0,h,MISS Anthony 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+91,127,PT02M42.00S,1,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+92,128,PT02M37.00S,1,1610612757,POR,1629629,Reddish,C. Reddish,21,17,3,Made,1,23,26,49,v,Reddish 3' Cutting Layup Shot (4 PTS) (Sharpe 2 AST),Made Shot,Cutting Layup Shot,1,0
+93,130,PT02M19.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,-21,55,6,Made,1,25,26,51,h,Anthony 6' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+94,131,PT01M56.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,233,17,0,Made,1,25,29,54,v,Sharpe 3PT Jump Shot (3 PTS) (Reddish 1 AST),Made Shot,Jump Shot,1,0
+95,133,PT01M45.00S,1,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.T3) (T.Washington),Foul,Shooting,1,0
+96,137,PT01M45.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,26,29,55,h,Fultz Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+97,138,PT01M45.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,SUB: Bol FOR Banchero,Substitution,,0,0
+98,140,PT01M45.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,27,29,56,h,Fultz Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+99,141,PT01M31.00S,1,1610612757,POR,203924,Grant,J. Grant,-64,179,19,Missed,1,,,0,v,MISS Grant 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+100,142,PT01M28.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+101,143,PT01M06.00S,1,1610612753,ORL,1629626,Bol,B. Bol,-121,213,24,Missed,1,,,0,h,MISS Bol 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+102,144,PT01M04.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+103,145,PT01M04.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0
+104,146,PT01M04.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,SUB: F. Wagner FOR Fultz,Substitution,,0,0
+105,148,PT00M50.30S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+106,148,PT00M50.30S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant STEAL (1 STL),,,1,0
+107,150,PT00M46.30S,1,1610612757,POR,1629642,Little,N. Little,12,23,3,Made,1,27,31,58,v,Little 3' Running Layup (5 PTS) (Grant 2 AST),Made Shot,Running Layup Shot,1,0
+108,153,PT00M23.70S,1,1610612753,ORL,1630532,Wagner,F. Wagner,-119,224,25,Missed,1,,,0,h,MISS F. Wagner 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+109,154,PT00M21.60S,1,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,h,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+110,160,PT00M07.90S,1,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+111,157,PT00M00.00S,1,1610612757,POR,203924,Grant,J. Grant,71,62,9,Missed,1,,,0,v,MISS Grant 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+112,158,PT00M00.00S,1,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+113,159,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,31,58,,End of 1st Period (6:37 PM EST),period,end,1,0
+114,161,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,31,58,,Start of 2nd Period (6:40 PM EST),period,start,0,0
+115,162,PT11M43.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T1) (T.Washington),Foul,Personal,1,0
+116,164,PT11M39.00S,2,1610612753,ORL,1629626,Bol,B. Bol,-9,55,6,Made,1,29,31,60,h,Bol 6' Driving Floating Jump Shot (2 PTS) (Anthony 3 AST),Made Shot,Driving Floating Jump Shot,1,0
+117,166,PT11M13.00S,2,1610612757,POR,203924,Grant,J. Grant,33,258,26,Missed,1,,,0,v,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+118,167,PT11M11.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+119,168,PT11M01.00S,2,1610612753,ORL,1629678,Schofield,A. Schofield,-186,178,26,Made,1,32,31,63,h,Schofield 26' 3PT Jump Shot (3 PTS) (Bol 1 AST),Made Shot,Jump Shot,1,0
+120,170,PT10M43.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,h,Houstan P.FOUL (P1.T1) (T.Washington),Foul,Personal,1,0
+121,172,PT10M35.00S,2,1610612757,POR,203924,Grant,J. Grant,-36,104,11,Missed,1,,,0,v,MISS Grant 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+122,173,PT10M33.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+123,174,PT10M29.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,-136,210,25,Missed,1,,,0,h,MISS Anthony 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+124,175,PT10M26.00S,2,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,Little REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+125,176,PT10M17.00S,2,1610612757,POR,1629629,Reddish,C. Reddish,-12,17,2,Made,1,32,33,65,v,Reddish 2' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+126,177,PT09M55.00S,2,1610612753,ORL,1629626,Bol,B. Bol,-119,5,12,Made,1,34,33,67,h,Bol 12' Fadeaway Jumper (4 PTS) (Schofield 1 AST),Made Shot,Fadeaway Jump Shot,1,0
+127,179,PT09M36.00S,2,1610612757,POR,203924,Grant,J. Grant,67,251,26,Missed,1,,,0,v,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+128,180,PT09M34.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+129,181,PT09M28.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,11,19,2,Missed,1,,,0,h,MISS Anthony 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+130,182,PT09M26.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+131,184,PT09M22.00S,2,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,SUB: Lillard FOR Reddish,Substitution,,0,0
+132,186,PT09M19.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,237,67,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+133,187,PT09M16.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+134,188,PT09M12.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-18,13,2,Made,1,36,33,69,h,F. Wagner 2' Running Layup (4 PTS) (Bol 2 AST),Made Shot,Running Layup Shot,1,0
+135,190,PT08M59.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,18,2,Made,1,36,35,71,v,Lillard 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+136,191,PT08M51.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,230,27,0,Missed,1,,,0,h,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+137,192,PT08M48.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+138,193,PT08M41.00S,2,1610612757,POR,203081,Lillard,D. Lillard,162,33,17,Missed,1,,,0,v,MISS Lillard 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+139,194,PT08M36.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+140,195,PT08M30.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-13,10,2,Made,1,38,35,73,h,F. Wagner 2' Layup (6 PTS) (Anthony 4 AST),Made Shot,Layup Shot,1,0
+141,197,PT08M30.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P2.T2) (J.Sterling),Foul,Shooting,1,0
+142,199,PT08M30.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Thybulle FOR Sharpe,Substitution,,0,0
+143,201,PT08M30.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,MISS F. Wagner Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+144,202,PT08M26.00S,2,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+145,203,PT08M09.00S,2,1610612757,POR,1630570,Watford,T. Watford,47,258,26,Made,1,38,38,76,v,Watford 26' 3PT Jump Shot (3 PTS) (Grant 3 AST),Made Shot,Jump Shot,1,0
+146,205,PT07M58.00S,2,1610612753,ORL,1629626,Bol,B. Bol,3,49,5,Missed,1,,,0,h,MISS Bol 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+147,206,PT07M57.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+148,208,PT07M45.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,1,0
+149,210,PT07M45.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,38,39,77,v,Lillard Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+150,211,PT07M45.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,38,40,78,v,Lillard Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+151,212,PT07M26.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,94,129,16,Missed,1,,,0,h,MISS Anthony 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+152,213,PT07M22.00S,2,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+153,214,PT07M11.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony S.FOUL (P3.T3) (T.Washington),Foul,Shooting,1,0
+154,216,PT07M11.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,38,41,79,v,Grant Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0
+155,217,PT07M11.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,h,SUB: Suggs FOR Houstan,Substitution,,0,0
+156,218,PT07M11.00S,2,1610612753,ORL,1629678,Schofield,A. Schofield,0,0,0,,0,,,0,h,SUB: M. Wagner FOR Schofield,Substitution,,0,0
+157,219,PT07M11.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,h,SUB: Fultz FOR Anthony,Substitution,,0,0
+158,223,PT07M11.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,38,42,80,v,Grant Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0
+159,224,PT06M53.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,-88,4,9,Missed,1,,,0,h,MISS Suggs 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+160,225,PT06M50.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+161,226,PT06M40.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Backcourt Turnover (P2.T7),Turnover,Backcourt Turnover,1,0
+162,227,PT06M40.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+163,228,PT06M40.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,SUB: Banchero FOR Bol,Substitution,,0,0
+164,229,PT06M40.00S,2,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Eubanks FOR Watford,Substitution,,0,0
+165,230,PT06M40.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,SUB: Reddish FOR Grant,Substitution,,0,0
+166,234,PT06M25.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-130,97,16,Missed,1,,,0,h,MISS F. Wagner 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+167,235,PT06M22.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+168,236,PT06M16.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz P.FOUL (P2.T4) (T.Washington),Foul,Personal,1,0
+169,238,PT06M06.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-5,28,3,Missed,1,,,0,v,MISS Lillard 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+170,239,PT06M03.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+171,240,PT05M59.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,146,221,26,Made,1,41,42,83,h,F. Wagner 26' 3PT Running Jump Shot (9 PTS) (Fultz 3 AST),Made Shot,Running Jump Shot,1,0
+172,242,PT05M34.00S,2,1610612757,POR,203081,Lillard,D. Lillard,103,237,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+173,243,PT05M30.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+174,244,PT05M29.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,-22,17,3,Made,1,43,42,85,h,Banchero 3' Running Layup (12 PTS) (F. Wagner 2 AST),Made Shot,Running Layup Shot,1,0
+175,247,PT05M29.00S,2,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks S.FOUL (P2.T3) (T.Washington),Foul,Shooting,1,0
+176,249,PT05M29.00S,2,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,SUB: Grant FOR Little,Substitution,,0,0
+177,251,PT05M29.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,MISS Banchero Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+178,252,PT05M26.00S,2,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+179,254,PT05M19.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner P.FOUL (P2.PN) (J.Sterling),Foul,Personal,1,0
+180,256,PT05M19.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,43,43,86,v,Lillard Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0
+181,257,PT05M19.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,MISS Lillard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+182,258,PT05M16.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+183,259,PT05M08.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,-183,176,25,Missed,1,,,0,h,MISS Suggs 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+184,260,PT05M05.00S,2,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+185,261,PT04M58.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0
+186,261,PT04M58.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero STEAL (1 STL),,,1,0
+187,263,PT04M52.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,136,216,26,Missed,1,,,0,h,MISS F. Wagner 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+188,264,PT04M50.00S,2,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+189,265,PT04M45.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0
+190,265,PT04M45.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner STEAL (1 STL),,,1,0
+191,267,PT04M40.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,-7,13,1,Made,1,45,43,88,h,Fultz 1' Running Dunk (6 PTS) (F. Wagner 3 AST),Made Shot,Running Dunk Shot,1,0
+192,269,PT04M24.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+193,270,PT04M07.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,20,15,3,Made,1,47,43,90,h,M. Wagner 3' Driving Layup (8 PTS) (F. Wagner 4 AST),Made Shot,Driving Layup Shot,1,0
+194,272,PT04M07.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+195,273,PT04M07.00S,2,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,SUB: Watford FOR Eubanks,Substitution,,0,0
+196,275,PT03M50.00S,2,1610612757,POR,203924,Grant,J. Grant,-227,18,0,Made,1,47,46,93,v,Grant 3PT Jump Shot (9 PTS) (Lillard 3 AST),Made Shot,Jump Shot,1,0
+197,277,PT03M33.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,-2,25,3,Made,1,49,46,95,h,M. Wagner 3' Layup (10 PTS) (F. Wagner 5 AST),Made Shot,Layup Shot,1,0
+198,279,PT03M13.00S,2,1610612757,POR,203081,Lillard,D. Lillard,33,269,27,Missed,1,,,0,v,MISS Lillard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+199,280,PT03M11.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+200,281,PT02M53.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,-5,21,2,Made,1,51,46,97,h,Banchero 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,0
+201,282,PT02M37.00S,2,1610612757,POR,1630570,Watford,T. Watford,-10,18,2,Made,1,51,48,99,v,Watford 2' Layup (5 PTS),Made Shot,Layup Shot,1,0
+202,284,PT02M24.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,-5,13,1,Missed,1,,,0,h,MISS Suggs 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+203,285,PT02M20.00S,2,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+204,286,PT02M16.00S,2,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0
+205,286,PT02M16.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs STEAL (2 STL),,,1,0
+206,288,PT02M10.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+207,289,PT02M10.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,SUB: Bol FOR F. Wagner,Substitution,,0,0
+208,291,PT01M57.00S,2,1610612757,POR,203081,Lillard,D. Lillard,32,263,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+209,292,PT01M55.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+210,293,PT01M55.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,Made,1,51,50,101,v,Thybulle Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,0
+211,294,PT01M55.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,1,0
+212,296,PT01M55.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,51,51,102,v,Thybulle Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0
+213,297,PT01M44.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0
+214,297,PT01M44.00S,2,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish STEAL (1 STL),,,1,0
+215,299,PT01M40.00S,2,1610612757,POR,1629629,Reddish,C. Reddish,17,10,2,Missed,1,,,0,v,MISS Reddish 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+216,300,PT01M36.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+217,301,PT01M36.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,Made,1,51,53,104,v,Grant Tip Dunk Shot (11 PTS),Made Shot,Tip Dunk Shot,1,0
+218,302,PT01M20.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,65,257,27,Missed,1,,,0,h,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+219,303,PT01M20.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+220,304,PT01M10.00S,2,1610612757,POR,1629629,Reddish,C. Reddish,107,252,27,Made,1,51,56,107,v,Reddish 27' 3PT Jump Shot (9 PTS) (Lillard 4 AST),Made Shot,Jump Shot,1,0
+221,306,PT00M51.60S,2,1610612753,ORL,1629626,Bol,B. Bol,151,96,18,Missed,1,,,0,h,MISS Bol 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+222,307,PT00M48.60S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+223,308,PT00M46.40S,2,1610612753,ORL,1631094,Banchero,P. Banchero,23,29,4,Made,1,53,56,109,h,Banchero 4' Driving Layup (16 PTS) (Suggs 2 AST),Made Shot,Driving Layup Shot,1,0
+224,310,PT00M35.60S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Backcourt Turnover (P5.T12),Turnover,Backcourt Turnover,1,0
+225,311,PT00M28.60S,2,1610612753,ORL,1628365,Fultz,M. Fultz,140,87,16,Missed,1,,,0,h,MISS Fultz 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+226,311,PT00M28.60S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant BLOCK (1 BLK),,,1,0
+227,313,PT00M24.50S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+228,314,PT00M16.80S,2,1610612753,ORL,1629626,Bol,B. Bol,-120,227,26,Made,1,56,56,112,h,Bol 26' 3PT Jump Shot (7 PTS) (Fultz 4 AST),Made Shot,Jump Shot,1,0
+229,316,PT00M01.90S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol S.FOUL (P1.PN) (T.Washington),Foul,Shooting,1,0
+230,318,PT00M01.90S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,56,57,113,v,Lillard Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0
+231,319,PT00M01.90S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,56,58,114,v,Lillard Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0
+232,320,PT00M00.70S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+233,320,PT00M00.70S,2,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0
+234,324,PT00M00.20S,2,1610612757,POR,203081,Lillard,D. Lillard,-132,687,70,Missed,1,,,0,v,MISS Lillard 70' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+235,325,PT00M00.10S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+236,326,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,58,114,,End of 2nd Period (7:07 PM EST),period,end,1,0
+237,331,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,58,114,,Start of 3rd Period (7:21 PM EST),period,start,0,0
+238,332,PT11M49.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,37,25,4,Made,1,58,58,116,h,Fultz 4' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,1,0
+239,333,PT11M28.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0
+240,333,PT11M28.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz STEAL (3 STL),,,1,0
+241,335,PT11M28.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,4,4,1,Made,1,60,58,118,h,Fultz 1' Running Reverse Layup (10 PTS),Made Shot,Running Reverse Layup Shot,1,0
+242,336,PT11M28.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant S.FOUL (P1.T1) (T.Washington),Foul,Shooting,1,0
+243,338,PT11M28.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,61,58,119,h,Fultz Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0
+244,339,PT11M11.00S,3,1610612757,POR,1629234,Eubanks,D. Eubanks,-21,20,3,Made,1,61,60,121,v,Eubanks 3' Turnaround Hook Shot (10 PTS) (Lillard 5 AST),Made Shot,Turnaround Hook Shot,1,0
+245,341,PT10M49.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,-192,173,26,Missed,1,,,0,h,MISS Fultz 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+246,342,PT10M47.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+247,343,PT10M40.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-146,205,25,Missed,1,,,0,h,MISS Banchero 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+248,344,PT10M38.00S,3,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+249,345,PT10M32.00S,3,1610612757,POR,203081,Lillard,D. Lillard,48,291,29,Missed,1,,,0,v,MISS Lillard 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+250,346,PT10M28.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+251,347,PT10M21.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-35,29,5,Made,1,63,60,123,h,Banchero 5' Driving Bank Hook Shot (18 PTS),Made Shot,Driving Bank Hook Shot,1,0
+252,348,PT10M21.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,0
+253,350,PT10M21.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,MISS Banchero Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+254,351,PT10M18.00S,3,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+255,352,PT10M04.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,-235,-5,24,Missed,1,,,0,v,MISS Thybulle 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+256,353,PT10M02.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+257,354,PT09M50.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,12,20,2,Missed,1,,,0,h,MISS Banchero 2' Layup,Missed Shot,Layup Shot,1,0
+258,354,PT09M50.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant BLOCK (2 BLK),,,1,0
+259,356,PT09M45.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+260,357,PT09M40.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-190,173,26,Made,1,63,63,126,v,Lillard 26' 3PT Running Pull-Up Jump Shot (17 PTS),Made Shot,Running Pull-Up Jump Shot,1,0
+261,358,PT09M27.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,45,257,26,Made,1,66,63,129,h,F. Wagner 26' 3PT Pullup Jump Shot (12 PTS) (Fultz 5 AST),Made Shot,Pullup Jump shot,1,0
+262,361,PT09M03.00S,3,1610612757,POR,203924,Grant,J. Grant,-1,10,1,Made,1,66,65,131,v,Grant 1' Layup (13 PTS) (Reddish 2 AST),Made Shot,Layup Shot,1,0
+263,363,PT08M55.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,20,12,2,Made,1,68,65,133,h,Suggs 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+264,364,PT08M46.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-29,48,6,Made,1,68,67,135,v,Lillard 6' Driving Hook Shot (19 PTS),Made Shot,Driving Hook Shot,1,0
+265,365,PT08M38.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,9,13,2,Made,1,70,67,137,h,Suggs 2' Driving Layup (7 PTS) (Fultz 6 AST),Made Shot,Driving Layup Shot,1,0
+266,367,PT08M36.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+267,368,PT08M14.00S,3,1610612757,POR,203924,Grant,J. Grant,233,48,24,Made,1,70,70,140,v,Grant 24' 3PT Jump Shot (16 PTS) (Lillard 6 AST),Made Shot,Jump Shot,1,0
+268,370,PT07M58.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,83,189,21,Missed,1,,,0,h,MISS Banchero 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+269,371,PT07M55.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+270,372,PT07M53.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner P.FOUL (P3.T1) (J.Sterling),Foul,Personal,1,0
+271,374,PT07M48.00S,3,1610612757,POR,203924,Grant,J. Grant,189,-2,19,Missed,1,,,0,v,MISS Grant 19' Jump Shot,Missed Shot,Jump Shot,1,0
+272,375,PT07M48.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+273,377,PT07M43.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant P.FOUL (P2.T3) (J.Sterling),Foul,Personal,1,0
+274,379,PT07M39.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,181,179,25,Missed,1,,,0,h,MISS Banchero 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+275,380,PT07M36.00S,3,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+276,381,PT07M31.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-7,262,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+277,382,PT07M29.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+278,384,PT07M22.00S,3,1610612757,POR,203924,Grant,J. Grant,228,53,0,Missed,1,,,0,v,MISS Grant 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+279,385,PT07M19.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+280,386,PT07M14.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,98,106,14,Missed,1,,,0,h,MISS Banchero 14' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,0
+281,387,PT07M11.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+282,388,PT07M07.00S,3,1610612757,POR,1629629,Reddish,C. Reddish,2,22,2,Made,1,70,72,142,v,Reddish 2' Running Layup (11 PTS) (Grant 4 AST),Made Shot,Running Layup Shot,1,0
+283,390,PT07M06.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+284,391,PT06M46.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,34,259,26,Missed,1,,,0,h,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+285,392,PT06M43.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+286,393,PT06M28.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,164,199,26,Missed,1,,,0,v,MISS Thybulle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+287,394,PT06M26.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+288,395,PT06M15.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-208,148,26,Made,1,73,72,145,h,F. Wagner 26' 3PT Jump Shot (15 PTS) (Fultz 7 AST),Made Shot,Jump Shot,1,0
+289,397,PT05M56.00S,3,1610612757,POR,203081,Lillard,D. Lillard,178,183,26,Made,1,73,75,148,v,Lillard 26' 3PT Step Back Jump Shot (22 PTS) (Eubanks 3 AST),Made Shot,Step Back Jump shot,1,0
+290,399,PT05M56.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs S.FOUL (P3.T2) (Z.Zarba),Foul,Shooting,1,0
+291,401,PT05M56.00S,3,0,,399,Rooks,S. Rooks,0,0,0,,0,73,75,148,,Instant Replay3rd Period (7:36 PM EST),Instant Replay,Ruling Stands,0,0
+292,425,PT05M56.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,SUB: Anthony FOR Suggs,Substitution,,0,0
+293,426,PT05M56.00S,3,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,SUB: Little FOR Reddish,Substitution,,0,0
+294,427,PT05M56.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,SUB: Sharpe FOR Grant,Substitution,,0,0
+295,402,PT05M56.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,73,76,149,v,Lillard Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,1,0
+296,403,PT05M42.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-230,37,0,Made,1,76,76,152,h,Banchero 3PT Jump Shot (21 PTS) (F. Wagner 6 AST),Made Shot,Jump Shot,1,0
+297,405,PT05M20.00S,3,1610612757,POR,1629234,Eubanks,D. Eubanks,6,16,2,Made,1,76,78,154,v,Eubanks 2' Dunk (12 PTS) (Thybulle 1 AST),Made Shot,Dunk Shot,1,0
+298,407,PT05M03.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,1,0
+299,409,PT05M03.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,77,78,155,h,M. Wagner Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0
+300,410,PT05M03.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+301,411,PT05M00.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+302,412,PT04M47.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,-5,258,26,Made,1,77,81,158,v,Thybulle 26' 3PT Jump Shot (6 PTS) (Little 1 AST),Made Shot,Jump Shot,1,0
+303,414,PT04M30.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-229,32,0,Made,1,80,81,161,h,F. Wagner 3PT Jump Shot (18 PTS) (Banchero 2 AST),Made Shot,Jump Shot,1,0
+304,416,PT04M18.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner P.FOUL (P2.T3) (T.Washington),Foul,Personal,1,0
+305,418,PT04M14.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-92,236,25,Missed,1,,,0,v,MISS Lillard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+306,419,PT04M09.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+307,420,PT04M03.00S,3,1610612757,POR,203081,Lillard,D. Lillard,7,1,1,Made,1,80,83,163,v,Lillard 1' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,0
+308,422,PT03M45.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,91,260,28,Missed,1,,,0,h,MISS Anthony 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+309,423,PT03M39.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+310,424,PT03M39.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-28,7,3,Missed,1,,,0,h,MISS Banchero 3' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+311,424,PT03M39.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard BLOCK (1 BLK),,,1,0
+312,432,PT03M35.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+313,433,PT03M35.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0
+314,433,PT03M35.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz STEAL (4 STL),,,1,0
+315,435,PT03M35.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,-7,18,2,Made,1,82,83,165,h,M. Wagner 2' Driving Layup (13 PTS) (Fultz 8 AST),Made Shot,Driving Layup Shot,1,0
+316,437,PT03M35.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P3.PN) (T.Washington),Foul,Shooting,1,0
+317,439,PT03M35.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,83,83,166,h,M. Wagner Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0
+318,440,PT03M17.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-81,239,25,Made,1,83,86,169,v,Lillard 25' 3PT Jump Shot (28 PTS) (Thybulle 2 AST),Made Shot,Jump Shot,1,0
+319,442,PT03M05.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+320,443,PT03M05.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,SUB: Houstan FOR Fultz,Substitution,,0,0
+321,444,PT03M05.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,SUB: Suggs FOR F. Wagner,Substitution,,0,0
+322,445,PT03M05.00S,3,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,SUB: Watford FOR Eubanks,Substitution,,0,0
+323,449,PT02M51.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,16,15,2,Missed,1,,,0,h,MISS M. Wagner 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+324,450,PT02M51.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+325,451,PT02M51.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner L.B.FOUL (P3.T4) (Z.Zarba),Foul,Loose Ball,1,0
+326,453,PT02M33.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-21,248,25,Made,1,83,89,172,v,Lillard 25' 3PT Pullup Jump Shot (31 PTS),Made Shot,Pullup Jump shot,1,0
+327,454,PT02M17.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0
+328,454,PT02M17.00S,3,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (2 STL),,,1,0
+329,456,PT02M02.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,241,24,24,Made,1,83,92,175,v,Sharpe 24' 3PT Jump Shot (6 PTS) (Little 2 AST),Made Shot,Jump Shot,1,0
+330,458,PT01M42.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-88,41,10,Missed,1,,,0,h,MISS Banchero 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+331,458,PT01M42.00S,3,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,Little BLOCK (1 BLK),,,1,0
+332,460,PT01M39.00S,3,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+333,461,PT01M37.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Step Out of Bounds Turnover (P3.T15),Turnover,Step Out of Bounds Turnover,1,0
+334,462,PT01M37.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,SUB: Bol FOR Banchero,Substitution,,0,0
+335,464,PT01M32.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle P.FOUL (P2.PN) (J.Sterling),Foul,Personal,1,0
+336,466,PT01M32.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,84,92,176,h,Suggs Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0
+337,467,PT01M32.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+338,468,PT01M32.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,SUB: Reddish FOR Lillard,Substitution,,0,0
+339,469,PT01M32.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Grant FOR Thybulle,Substitution,,0,0
+340,472,PT01M32.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,85,92,177,h,Suggs Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0
+341,473,PT01M19.00S,3,1610612757,POR,1629629,Reddish,C. Reddish,26,7,3,Missed,1,,,0,v,MISS Reddish 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+342,473,PT01M19.00S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol BLOCK (1 BLK),,,1,0
+343,475,PT01M15.00S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+344,476,PT01M08.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,-229,59,24,Made,1,88,92,180,h,Houstan 24' 3PT Jump Shot (3 PTS) (M. Wagner 1 AST),Made Shot,Jump Shot,1,0
+345,478,PT00M43.70S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-129,214,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+346,479,PT00M41.50S,3,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+347,480,PT00M34.10S,3,1610612753,ORL,1630175,Anthony,C. Anthony,-167,207,27,Missed,1,,,0,h,MISS Anthony 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+348,481,PT00M31.90S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+349,482,PT00M12.10S,3,1610612757,POR,1630570,Watford,T. Watford,36,262,26,Missed,1,,,0,v,MISS Watford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+350,483,PT00M09.40S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+351,484,PT00M02.20S,3,1610612753,ORL,1629021,Wagner,M. Wagner,69,258,27,Missed,1,,,0,h,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+352,485,PT00M02.20S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,h,Houstan REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+353,486,PT00M00.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,-194,2,19,Missed,1,,,0,h,MISS Houstan 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+354,487,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0
+355,488,PT00M00.00S,3,0,,0,,,0,0,0,,0,88,92,180,,End of 3rd Period (7:51 PM EST),period,end,1,0
+356,491,PT12M00.00S,4,0,,0,,,0,0,0,,0,88,92,180,,Start of 4th Period (7:54 PM EST),period,start,0,0
+357,492,PT11M45.00S,4,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol S.FOUL (P2.T1) (J.Sterling),Foul,Shooting,1,0
+358,494,PT11M45.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,88,93,181,v,Grant Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0
+359,495,PT11M45.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,88,94,182,v,Grant Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0
+360,496,PT11M30.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,-4,21,2,Made,1,90,94,184,h,Bitadze 2' Cutting Layup Shot (2 PTS) (Anthony 5 AST),Made Shot,Cutting Layup Shot,1,0
+361,498,PT11M07.00S,4,1610612757,POR,1629642,Little,N. Little,-207,141,25,Missed,1,,,0,v,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+362,499,PT11M04.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+363,500,PT10M47.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,5,23,2,Made,1,92,94,186,h,Suggs 2' Cutting Layup Shot (11 PTS) (Anthony 6 AST),Made Shot,Cutting Layup Shot,1,0
+364,502,PT10M24.00S,4,1610612757,POR,1630570,Watford,T. Watford,9,50,5,Made,1,92,96,188,v,Watford 5' Driving Floating Jump Shot (7 PTS) (Little 3 AST),Made Shot,Driving Floating Jump Shot,1,0
+365,504,PT10M01.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0
+366,504,PT10M01.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish STEAL (2 STL),,,1,0
+367,506,PT09M56.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,13,14,2,Made,1,92,98,190,v,Sharpe 2' Running Dunk (8 PTS) (Reddish 3 AST),Made Shot,Running Dunk Shot,1,0
+368,508,PT09M39.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant P.FOUL (P3.T1) (Z.Zarba),Foul,Personal,1,0
+369,510,PT09M31.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,43,36,6,Missed,1,,,0,h,MISS Suggs 6' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+370,510,PT09M31.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (1 BLK),,,1,0
+371,512,PT09M29.00S,4,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,Little REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+372,513,PT09M17.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,-1,38,4,Made,1,92,100,192,v,Reddish 4' Driving Floating Jump Shot (13 PTS) (Watford 1 AST),Made Shot,Driving Floating Jump Shot,1,0
+373,515,PT09M04.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,197,178,27,Made,1,95,100,195,h,Anthony 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,0
+374,516,PT08M48.00S,4,1610612757,POR,1630570,Watford,T. Watford,54,13,6,Missed,1,,,0,v,MISS Watford 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+375,518,PT08M45.00S,4,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+376,519,PT08M41.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,5,21,2,Made,1,97,100,197,h,Bitadze 2' Running Alley Oop Dunk Shot (4 PTS) (Bol 3 AST),Made Shot,Running Alley Oop Dunk Shot,1,0
+377,521,PT08M24.00S,4,1610612757,POR,1629642,Little,N. Little,-210,145,26,Made,1,97,103,200,v,Little 26' 3PT Jump Shot (8 PTS) (Grant 5 AST),Made Shot,Jump Shot,1,0
+378,523,PT08M09.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,9,5,1,Made,1,99,103,202,h,Suggs 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,0
+379,524,PT07M56.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish Lost Ball Turnover (P1.T16),Turnover,Lost Ball,1,0
+380,524,PT07M56.00S,4,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol STEAL (1 STL),,,1,0
+381,526,PT07M51.00S,4,1610612753,ORL,1629626,Bol,B. Bol,-33,19,4,Made,1,101,103,204,h,Bol 4' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,1,0
+382,527,PT07M51.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+383,528,PT07M51.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,h,SUB: F. Wagner FOR Houstan,Substitution,,0,0
+384,529,PT07M51.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,SUB: Fultz FOR Suggs,Substitution,,0,0
+385,530,PT07M51.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Lillard FOR Sharpe,Substitution,,0,0
+386,534,PT07M29.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,0,48,5,Missed,1,,,0,v,MISS Reddish 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+387,535,PT07M26.00S,4,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+388,536,PT07M13.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-165,199,26,Missed,1,,,0,h,MISS F. Wagner 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+389,537,PT07M09.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+390,538,PT06M58.00S,4,1610612757,POR,203924,Grant,J. Grant,237,63,25,Missed,1,,,0,v,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+391,539,PT06M55.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,h,Bitadze REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+392,540,PT06M51.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-7,29,3,Missed,1,,,0,h,MISS Anthony 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+393,541,PT06M49.00S,4,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,Little REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+394,542,PT06M30.00S,4,1610612757,POR,1630570,Watford,T. Watford,-228,-11,0,Missed,1,,,0,v,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+395,543,PT06M26.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,h,Bitadze REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+396,544,PT06M08.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-44,92,10,Missed,1,,,0,h,MISS F. Wagner 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+397,545,PT06M08.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+398,547,PT06M08.00S,4,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,SUB: Banchero FOR Bol,Substitution,,0,0
+399,548,PT06M08.00S,4,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,SUB: Thybulle FOR Little,Substitution,,0,0
+400,551,PT05M52.00S,4,1610612757,POR,203081,Lillard,D. Lillard,169,185,25,Missed,1,,,0,v,MISS Lillard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+401,552,PT05M49.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+402,553,PT05M48.00S,4,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.T2) (T.Washington),Foul,Shooting,1,0
+403,555,PT05M48.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+404,556,PT05M48.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+405,557,PT05M48.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,h,SUB: M. Wagner FOR Bitadze,Substitution,,0,0
+406,558,PT05M48.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,h,SUB: Suggs FOR Anthony,Substitution,,0,0
+407,561,PT05M48.00S,4,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Eubanks FOR Watford,Substitution,,0,0
+408,563,PT05M48.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,102,103,205,h,Banchero Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0
+409,564,PT05M35.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,-227,-6,0,Made,1,102,106,208,v,Reddish 3PT Jump Shot (16 PTS) (Grant 6 AST),Made Shot,Jump Shot,1,0
+410,566,PT05M13.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,5,22,2,Made,1,104,106,210,h,Suggs 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,0
+411,569,PT05M00.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,0,0
+412,571,PT05M00.00S,4,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,MISS Eubanks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+413,572,PT05M00.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0
+414,573,PT05M00.00S,4,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,104,107,211,v,Eubanks Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0
+415,574,PT04M40.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0
+416,574,PT04M40.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle STEAL (1 STL),,,1,0
+417,576,PT04M27.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,-15,22,3,Missed,1,,,0,v,MISS Reddish 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+418,577,PT04M27.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+419,578,PT04M23.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish Lost Ball Turnover (P2.T17),Turnover,Lost Ball,1,0
+420,578,PT04M23.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs STEAL (3 STL),,,1,0
+421,580,PT04M13.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,-229,92,25,Missed,1,,,0,h,MISS Suggs 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+422,581,PT04M09.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+423,582,PT04M05.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-13,-2,1,Made,1,104,109,213,v,Lillard 1' Driving Layup (33 PTS),Made Shot,Driving Layup Shot,1,0
+424,583,PT04M05.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner S.FOUL (P4.T3) (J.Sterling),Foul,Shooting,1,0
+425,585,PT04M05.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,MISS Lillard Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+426,586,PT04M03.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,M. Wagner REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+427,587,PT03M58.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,1,0
+428,589,PT03M58.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,105,109,214,h,F. Wagner Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0
+429,590,PT03M58.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,106,109,215,h,F. Wagner Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0
+430,591,PT03M36.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,235,49,24,Missed,1,,,0,v,MISS Thybulle 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+431,592,PT03M34.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,1,0
+432,594,PT03M34.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+433,595,PT03M21.00S,4,1610612757,POR,203924,Grant,J. Grant,-190,159,25,Missed,1,,,0,v,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+434,596,PT03M19.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+435,597,PT03M18.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-66,268,28,Missed,1,,,0,v,MISS Lillard 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+436,598,PT03M14.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+437,600,PT03M01.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,h,F. Wagner Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0
+438,600,PT03M01.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard STEAL (2 STL),,,1,0
+439,602,PT02M59.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero S.FOUL (P3.T4) (Z.Zarba),Foul,Shooting,1,0
+440,604,PT02M59.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,106,110,216,v,Lillard Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,0
+441,605,PT02M59.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,106,111,217,v,Lillard Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,0
+442,606,PT02M48.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle S.FOUL (P3.T4) (T.Washington),Foul,Shooting,1,0
+443,608,PT02M48.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,107,111,218,h,Banchero Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0
+444,609,PT02M48.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,108,111,219,h,Banchero Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0
+445,610,PT02M25.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,-230,20,0,Missed,1,,,0,v,MISS Thybulle 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+446,611,PT02M23.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+447,612,PT02M20.00S,4,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish S.FOUL (P3.PN) (Z.Zarba),Foul,Shooting,1,0
+448,614,PT02M20.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,109,111,220,h,F. Wagner Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0
+449,615,PT02M20.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,110,111,221,h,F. Wagner Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0
+450,616,PT02M07.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,h,Suggs S.FOUL (P4.PN) (Z.Zarba),Foul,Shooting,1,0
+451,619,PT02M07.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Coach Challenge (Reg.5 Short 0),Timeout,Coach Challenge,0,0
+452,620,PT02M07.00S,4,0,,616,,,0,0,0,,0,110,111,221,,Instant Replay4th Period (8:18 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0
+453,621,PT02M07.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Little FOR Thybulle,Substitution,,0,0
+454,623,PT02M07.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,110,112,222,v,Lillard Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,0
+455,624,PT02M07.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,110,113,223,v,Lillard Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0
+456,625,PT01M49.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,18,38,4,Missed,1,,,0,h,MISS Banchero 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+457,626,PT01M47.00S,4,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,Little REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+458,627,PT01M33.00S,4,1610612757,POR,1629642,Little,N. Little,66,260,27,Missed,1,,,0,v,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+459,628,PT01M32.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+460,629,PT01M28.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-142,240,28,Missed,1,,,0,v,MISS Lillard 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+461,629,PT01M28.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero BLOCK (1 BLK),,,1,0
+462,631,PT01M24.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+463,632,PT01M22.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant S.FOUL (P4.PN) (Z.Zarba),Foul,Shooting,1,0
+464,634,PT01M22.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,111,113,224,h,M. Wagner Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+465,635,PT01M22.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+466,636,PT01M20.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+467,637,PT01M03.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-59,24,6,Missed,1,,,0,v,MISS Lillard 6' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+468,638,PT01M01.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,,,0,h,Fultz REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+469,639,PT00M58.80S,4,1610612753,ORL,1628365,Fultz,M. Fultz,10,13,2,Made,1,113,113,226,h,Fultz 2' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,0
+470,640,PT00M35.20S,4,1610612757,POR,1629642,Little,N. Little,153,204,26,Made,1,113,116,229,v,Little 26' 3PT Jump Shot (11 PTS) (Grant 7 AST),Made Shot,Jump Shot,1,0
+471,642,PT00M35.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+472,643,PT00M35.00S,4,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,,,0,v,SUB: Thybulle FOR Little,Substitution,,0,0
+473,645,PT00M32.20S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard P.FOUL (P2.PN) (T.Washington),Foul,Personal,1,0
+474,647,PT00M32.20S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,114,116,230,h,F. Wagner Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0
+475,648,PT00M32.20S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,h,SUB: Houstan FOR M. Wagner,Substitution,,0,0
+476,649,PT00M32.20S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Watford FOR Thybulle,Substitution,,0,0
+477,653,PT00M32.20S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,115,116,231,h,F. Wagner Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0
+478,654,PT00M32.20S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+479,655,PT00M11.40S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,h,Houstan S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,1,0
+480,657,PT00M11.40S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,115,117,232,v,Lillard Free Throw 1 of 2 (38 PTS),Free Throw,Free Throw 1 of 2,1,0
+481,658,PT00M11.40S,4,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Thybulle FOR Watford,Substitution,,0,0
+482,660,PT00M11.40S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,115,118,233,v,Lillard Free Throw 2 of 2 (39 PTS),Free Throw,Free Throw 2 of 2,1,0
+483,661,PT00M11.40S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0
+484,663,PT00M09.20S,4,1610612757,POR,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,v,Reddish Personal Take Foul (P4.PN) (Z.Zarba),Foul,Personal Take,1,0
+485,666,PT00M09.20S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,116,118,234,h,Fultz Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0
+486,667,PT00M09.20S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,117,118,235,h,Fultz Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0
+487,668,PT00M09.20S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0
+488,669,PT00M09.20S,4,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,SUB: Watford FOR Eubanks,Substitution,,0,0
+489,670,PT00M09.20S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Little FOR Thybulle,Substitution,,0,0
+490,673,PT00M08.90S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,,,0,h,Banchero Personal Take Foul (P4.PN) (T.Washington),Foul,Personal Take,1,0
+491,675,PT00M08.90S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,117,119,236,v,Grant Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0
+492,676,PT00M08.90S,4,1610612757,POR,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Thybulle FOR Watford,Substitution,,0,0
+493,678,PT00M08.90S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,117,120,237,v,Grant Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0
+494,679,PT00M06.20S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,,,0,v,Grant Personal Take Foul (P5.PN) (J.Sterling),Foul,Personal Take,1,0
+495,681,PT00M06.20S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,118,120,238,h,Banchero Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0
+496,682,PT00M06.20S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,119,120,239,h,Banchero Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0
+497,683,PT00M04.30S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,h,Houstan Personal Take Foul (P3.PN) (Z.Zarba),Foul,Personal Take,1,0
+498,685,PT00M04.30S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,119,121,240,v,Lillard Free Throw 1 of 2 (40 PTS),Free Throw,Free Throw 1 of 2,1,0
+499,686,PT00M04.30S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,119,122,241,v,Lillard Free Throw 2 of 2 (41 PTS),Free Throw,Free Throw 2 of 2,1,0
+500,687,PT00M00.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,-159,435,46,Missed,1,,,0,h,MISS Banchero 46' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+501,688,PT00M00.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+502,689,PT00M00.00S,4,0,,0,,,0,0,0,,0,119,122,241,,End of 4th Period (8:38 PM EST),period,end,1,0

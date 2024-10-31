@@ -1,0 +1,458 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Jump Ball Zeller vs. Thompson: Tip to Williams,Jump Ball,,1,0
+3,2,PT11M45.00S,1,1610612766,CHA,101107,Williams,M. Williams,74,203,22,Missed,1,,,0,h,MISS Williams 22' Jump Shot,Missed Shot,Jump Shot,1,0
+4,3,PT11M43.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+5,4,PT11M39.00S,1,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P1.T1) (K.Mauer),Foul,Shooting,1,0
+6,5,PT11M39.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,MISS Love Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+7,6,PT11M39.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0
+8,7,PT11M39.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0,1,1,v,Love Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+9,9,PT11M29.00S,1,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+10,9,PT11M29.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving STEAL (1 STL),,,1,0
+11,10,PT11M23.00S,1,1610612739,CLE,2747,Smith,J. Smith,209,128,25,Made,1,0,4,4,v,Smith 25' 3PT Jump Shot (3 PTS) (James 1 AST),Made Shot,Jump Shot,1,0
+12,11,PT10M58.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-1,3,0,Missed,1,,,0,h,MISS Kidd-Gilchrist Layup,Missed Shot,Layup Shot,1,0
+13,12,PT10M58.00S,1,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,0
+14,13,PT10M58.00S,1,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0
+15,14,PT10M40.00S,1,1610612739,CLE,2544,James,L. James,-232,16,0,Missed,1,,,0,v,MISS James 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+16,15,PT10M38.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+17,16,PT10M38.00S,1,1610612739,CLE,2544,James,L. James,1,1,0,Made,1,0,6,6,v,James Cutting Layup Shot (2 PTS) (Love 1 AST),Made Shot,Cutting Layup Shot,1,0
+18,17,PT10M38.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist S.FOUL (P1.T2) (J.Williams),Foul,Shooting,1,0
+19,18,PT10M38.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,7,7,v,James Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+20,20,PT10M25.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,-6,65,7,Made,1,2,7,9,h,Zeller 7' Floating Jump Shot (2 PTS) (Batum 1 AST),Made Shot,Floating Jump shot,1,0
+21,21,PT10M15.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+22,21,PT10M15.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller STEAL (1 STL),,,1,0
+23,22,PT10M01.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,9,2,1,Made,1,4,7,11,h,Kidd-Gilchrist 1' Layup (2 PTS) (Zeller 1 AST),Made Shot,Layup Shot,1,0
+24,23,PT09M40.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist S.FOUL (P2.T3) (K.Mauer),Foul,Shooting,1,0
+25,24,PT09M40.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,4,8,12,v,Love Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+26,26,PT09M40.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,4,9,13,v,Love Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+27,28,PT09M20.00S,1,1610612766,CHA,202689,Walker,K. Walker,-112,214,24,Made,1,7,9,16,h,Walker 24' 3PT Jump Shot (3 PTS) (Zeller 2 AST),Made Shot,Jump Shot,1,0
+28,29,PT09M11.00S,1,1610612739,CLE,2544,James,L. James,-7,2,1,Made,1,7,11,18,v,James 1' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,1,0
+29,30,PT08M58.00S,1,1610612766,CHA,202689,Walker,K. Walker,-35,56,7,Missed,1,,,0,h,MISS Walker 7' Jump Shot,Missed Shot,Jump Shot,1,0
+30,31,PT08M56.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+31,32,PT08M50.00S,1,1610612739,CLE,202681,Irving,K. Irving,-169,36,17,Made,1,7,13,20,v,Irving 17' Step Back Jump Shot (2 PTS) (James 2 AST),Made Shot,Step Back Jump shot,1,0
+32,33,PT08M31.00S,1,1610612766,CHA,201587,Batum,N. Batum,60,239,25,Missed,1,,,0,h,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+33,34,PT08M30.00S,1,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+34,35,PT08M23.00S,1,1610612739,CLE,202681,Irving,K. Irving,135,21,14,Missed,1,,,0,v,MISS Irving 14' Jump Shot,Missed Shot,Jump Shot,1,0
+35,36,PT08M22.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+36,37,PT08M14.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving P.FOUL (P1.T1) (J.Williams),Foul,Personal,1,0
+37,38,PT08M07.00S,1,1610612766,CHA,202689,Walker,K. Walker,-52,239,24,Made,1,10,13,23,h,Walker 24' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,1,0
+38,39,PT07M44.00S,1,1610612739,CLE,202681,Irving,K. Irving,-2,51,5,Made,1,10,15,25,v,Irving 5' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+39,40,PT07M33.00S,1,1610612766,CHA,202689,Walker,K. Walker,50,247,25,Made,1,13,15,28,h,Walker 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,0
+40,41,PT07M16.00S,1,1610612739,CLE,201567,Love,K. Love,64,183,19,Missed,1,,,0,v,MISS Love 19' Jump Shot,Missed Shot,Jump Shot,1,0
+41,42,PT07M15.00S,1,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+42,43,PT07M06.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love S.FOUL (P1.T2) (K.Mauer),Foul,Shooting,1,0
+43,44,PT07M06.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,14,15,29,h,Zeller Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+44,46,PT07M06.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,MISS Zeller Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+45,48,PT07M05.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+46,49,PT06M48.00S,1,1610612739,CLE,2544,James,L. James,17,2,2,Missed,1,,,0,v,MISS James 2' Layup,Missed Shot,Layup Shot,1,0
+47,49,PT06M48.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller BLOCK (1 BLK),,,1,0
+48,50,PT06M47.00S,1,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+49,51,PT06M37.00S,1,1610612766,CHA,101107,Williams,M. Williams,19,-1,2,Missed,1,,,0,h,MISS Williams 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+50,53,PT06M37.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+51,52,PT06M37.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,1,0,Made,1,16,15,31,h,Zeller Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,1,0
+52,54,PT06M37.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+53,56,PT06M37.00S,1,0,,10,,,0,0,0,,0,,,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0
+54,59,PT06M22.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving Traveling Turnover (P2.T2),Turnover,Traveling,1,0
+55,60,PT06M22.00S,1,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Kaminsky FOR Williams,Substitution,,0,0
+56,61,PT06M11.00S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-189,164,25,Missed,1,,,0,h,MISS Kaminsky 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+57,62,PT06M10.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+58,63,PT06M03.00S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-228,43,0,Missed,1,,,0,h,MISS Kaminsky 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+59,64,PT06M01.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+60,65,PT05M56.00S,1,1610612766,CHA,202689,Walker,K. Walker,153,224,27,Missed,1,,,0,h,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+61,66,PT05M54.00S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+62,67,PT05M44.00S,1,1610612766,CHA,201587,Batum,N. Batum,-11,7,1,Made,1,18,15,33,h,Batum 1' Driving Layup (2 PTS) (Kaminsky 1 AST),Made Shot,Driving Layup Shot,1,0
+63,68,PT05M44.00S,1,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P1.T3) (M.Ayotte),Foul,Shooting,1,0
+64,69,PT05M44.00S,1,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,19,15,34,h,Batum Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+65,71,PT05M31.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,-2,11,1,Made,1,19,17,36,v,Thompson 1' Cutting Layup Shot (2 PTS) (Irving 1 AST),Made Shot,Cutting Layup Shot,1,0
+66,72,PT05M13.00S,1,1610612766,CHA,201587,Batum,N. Batum,66,234,24,Missed,1,,,0,h,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+67,73,PT05M12.00S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+68,74,PT05M08.00S,1,1610612766,CHA,201587,Batum,N. Batum,110,219,25,Made,1,22,17,39,h,Batum 25' 3PT Jump Shot (6 PTS) (Kidd-Gilchrist 1 AST),Made Shot,Jump Shot,1,0
+69,76,PT04M53.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving Bad Pass Turnover (P3.T3),Turnover,Bad Pass,1,0
+70,76,PT04M53.00S,1,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum STEAL (1 STL),,,1,0
+71,77,PT04M53.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love P.FOUL (P2.T4) (J.Williams),Foul,Personal,1,0
+72,78,PT04M53.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Jefferson FOR Love,Substitution,,0,0
+73,79,PT04M53.00S,1,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: Shumpert FOR Smith,Substitution,,0,0
+74,80,PT04M53.00S,1,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,,,0,h,SUB: Belinelli FOR Batum,Substitution,,0,0
+75,81,PT04M42.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,1,0,Made,1,24,17,41,h,Zeller Dunk (7 PTS) (Walker 1 AST),Made Shot,Dunk Shot,1,0
+76,82,PT04M12.00S,1,1610612739,CLE,202697,Shumpert,I. Shumpert,232,7,0,Missed,1,,,0,v,MISS Shumpert 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+77,83,PT04M11.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+78,84,PT03M58.00S,1,1610612766,CHA,202689,Walker,K. Walker,-6,2,1,Missed,1,,,0,h,MISS Walker 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+79,85,PT03M56.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+80,86,PT03M45.00S,1,1610612739,CLE,202697,Shumpert,I. Shumpert,209,7,21,Made,1,24,19,43,v,Shumpert 21' Jump Shot (2 PTS) (Irving 2 AST),Made Shot,Jump Shot,1,0
+81,87,PT03M23.00S,1,1610612766,CHA,201158,Belinelli,M. Belinelli,-78,252,26,Missed,1,,,0,h,MISS Belinelli 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+82,88,PT03M22.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+83,89,PT03M13.00S,1,1610612739,CLE,202681,Irving,K. Irving,-32,278,28,Made,1,24,22,46,v,Irving 28' 3PT Jump Shot (7 PTS) (James 3 AST),Made Shot,Jump Shot,1,0
+84,90,PT03M04.00S,1,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+85,92,PT03M04.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,SUB: Williams FOR Zeller,Substitution,,0,0
+86,93,PT03M04.00S,1,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,SUB: Weber FOR Walker,Substitution,,0,0
+87,94,PT03M04.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,SUB: Dero. Williams FOR James,Substitution,,0,0
+88,95,PT03M04.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,SUB: Lamb FOR Kidd-Gilchrist,Substitution,,0,0
+89,96,PT02M54.00S,1,1610612766,CHA,203087,Lamb,J. Lamb,240,21,24,Missed,1,,,0,h,MISS Lamb 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+90,97,PT02M53.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+91,98,PT02M40.00S,1,1610612739,CLE,202697,Shumpert,I. Shumpert,-233,21,0,Made,1,24,25,49,v,Shumpert 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+92,99,PT02M19.00S,1,1610612766,CHA,201158,Belinelli,M. Belinelli,-45,249,25,Made,1,27,25,52,h,Belinelli 25' 3PT Jump Shot (3 PTS) (Weber 1 AST),Made Shot,Jump Shot,1,0
+93,100,PT02M02.00S,1,1610612739,CLE,202681,Irving,K. Irving,-125,210,24,Missed,1,,,0,v,MISS Irving 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+94,101,PT02M01.00S,1,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+95,102,PT01M53.00S,1,1610612766,CHA,201158,Belinelli,M. Belinelli,-112,164,20,Made,1,29,25,54,h,Belinelli 20' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,0
+96,103,PT01M40.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,65,7,Made,1,29,27,56,v,Thompson 7' Jump Shot (4 PTS) (Irving 3 AST),Made Shot,Jump Shot,1,0
+97,104,PT01M19.00S,1,1610612766,CHA,201158,Belinelli,M. Belinelli,-130,234,27,Missed,1,,,0,h,MISS Belinelli 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+98,105,PT01M18.00S,1,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+99,106,PT01M09.00S,1,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,,,0,h,Lamb S.FOUL (P1.T4) (M.Ayotte),Foul,Shooting,1,0
+100,107,PT01M09.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,29,28,57,v,Irving Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+101,109,PT01M09.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Korver FOR Thompson,Substitution,,0,0
+102,110,PT01M09.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,29,29,58,v,Irving Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+103,112,PT00M47.90S,1,1610612766,CHA,1627362,Weber,B. Weber,-89,254,27,Missed,1,,,0,h,MISS Weber 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+104,113,PT00M46.90S,1,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+105,114,PT00M35.90S,1,1610612739,CLE,202681,Irving,K. Irving,12,13,2,Made,1,29,31,60,v,Irving 2' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+106,115,PT00M17.40S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-9,21,2,Missed,1,,,0,h,MISS Kaminsky 2' Layup,Missed Shot,Layup Shot,1,0
+107,115,PT00M17.40S,1,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert BLOCK (1 BLK),,,1,0
+108,116,PT00M17.40S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+109,118,PT00M16.20S,1,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson S.FOUL (P1.PN) (K.Mauer),Foul,Shooting,1,0
+110,119,PT00M16.20S,1,0,,118,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+111,120,PT00M16.20S,1,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,30,31,61,h,Belinelli Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+112,122,PT00M16.20S,1,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,31,31,62,h,Belinelli Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+113,124,PT00M02.50S,1,1610612739,CLE,202681,Irving,K. Irving,195,18,20,Made,1,31,33,64,v,Irving 20' Jump Shot (13 PTS),Made Shot,Jump Shot,1,0
+114,125,PT00M00.30S,1,1610612766,CHA,1627362,Weber,B. Weber,102,350,36,Missed,1,,,0,h,MISS Weber 36' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+115,127,PT00M00.00S,1,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,0
+116,126,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,33,64,,End of 1st Period (7:37 PM EST),period,end,0,0
+117,129,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,33,64,,Start of 2nd Period (7:40 PM EST),period,start,0,0
+118,130,PT11M56.00S,2,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,,,0,h,Weber P.FOUL (P1.T1) (M.Ayotte),Foul,Personal,1,0
+119,131,PT11M45.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,0,1,0,Made,1,31,35,66,v,Jefferson Alley Oop Dunk (2 PTS) (James 4 AST),Made Shot,Alley Oop Dunk Shot,1,0
+120,132,PT11M26.00S,2,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-156,2,16,Missed,1,,,0,h,MISS Kaminsky 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+121,133,PT11M24.00S,2,1610612739,CLE,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+122,134,PT11M15.00S,2,1610612739,CLE,2594,Korver,K. Korver,-235,11,24,Made,1,31,38,69,v,Korver 24' 3PT Jump Shot (3 PTS) (James 5 AST),Made Shot,Jump Shot,1,0
+123,135,PT11M08.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Short (Full 1 Short 1),Timeout,Short,0,0
+124,139,PT10M58.00S,2,1610612766,CHA,1627362,Weber,B. Weber,-4,2,0,Made,1,33,38,71,h,Weber Layup (2 PTS) (Kaminsky 2 AST),Made Shot,Layup Shot,1,0
+125,140,PT10M40.00S,2,1610612739,CLE,2544,James,L. James,-22,195,20,Made,1,33,40,73,v,James 20' Jump Shot (7 PTS) (Dero. Williams 1 AST),Made Shot,Jump Shot,1,0
+126,141,PT10M18.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,,,0,h,Lamb Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+127,142,PT10M06.00S,2,1610612739,CLE,2544,James,L. James,-2,7,1,Missed,1,,,0,v,MISS James 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+128,143,PT10M04.00S,2,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+129,144,PT09M51.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,-107,11,11,Missed,1,,,0,h,MISS Lamb 11' Jump Shot,Missed Shot,Jump Shot,1,0
+130,145,PT09M49.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+131,146,PT09M35.00S,2,1610612739,CLE,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+132,147,PT09M21.00S,2,1610612766,CHA,201158,Belinelli,M. Belinelli,195,149,25,Missed,1,,,0,h,MISS Belinelli 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+133,148,PT09M20.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+134,149,PT09M11.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,236,0,24,Made,1,33,43,76,v,Jefferson 24' 3PT Jump Shot (5 PTS) (James 6 AST),Made Shot,Jump Shot,1,0
+135,150,PT08M58.00S,2,1610612766,CHA,1627362,Weber,B. Weber,-47,195,20,Missed,1,,,0,h,MISS Weber 20' Jump Shot,Missed Shot,Jump Shot,1,0
+136,151,PT08M57.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+137,152,PT08M49.00S,2,1610612739,CLE,2544,James,L. James,14,-1,1,Made,1,33,45,78,v,James 1' Cutting Layup Shot (9 PTS) (Dero. Williams 2 AST),Made Shot,Cutting Layup Shot,1,0
+138,153,PT08M49.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,0
+139,155,PT08M49.00S,2,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,,,0,h,SUB: Walker FOR Weber,Substitution,,0,0
+140,156,PT08M49.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,,,0,h,SUB: Batum FOR Lamb,Substitution,,0,0
+141,158,PT08M34.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert Violation:Kicked Ball (K.Mauer),Violation,Kicked Ball,0,0
+142,159,PT08M19.00S,2,1610612766,CHA,202689,Walker,K. Walker,133,-15,13,Missed,1,,,0,h,MISS Walker 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+143,159,PT08M19.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James BLOCK (1 BLK),,,1,0
+144,160,PT08M19.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,0
+145,161,PT08M19.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,0
+146,162,PT08M08.00S,2,1610612739,CLE,2594,Korver,K. Korver,-29,249,25,Missed,1,,,0,v,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+147,163,PT08M07.00S,2,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+148,164,PT07M57.00S,2,1610612766,CHA,201587,Batum,N. Batum,-45,85,10,Made,1,35,45,80,h,Batum 10' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,0
+149,165,PT07M41.00S,2,1610612739,CLE,2594,Korver,K. Korver,9,7,1,Made,1,35,47,82,v,Korver 1' Cutting Layup Shot (5 PTS) (James 7 AST),Made Shot,Cutting Layup Shot,1,0
+150,166,PT07M28.00S,2,1610612766,CHA,202689,Walker,K. Walker,68,237,25,Made,1,38,47,85,h,Walker 25' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,1,0
+151,167,PT07M12.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+152,168,PT07M12.00S,2,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,SUB: Zeller FOR Belinelli,Substitution,,0,0
+153,169,PT07M12.00S,2,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Kidd-Gilchrist FOR Williams,Substitution,,0,0
+154,170,PT07M12.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,SUB: Love FOR Shumpert,Substitution,,0,0
+155,171,PT06M57.00S,2,1610612766,CHA,201587,Batum,N. Batum,91,11,9,Made,1,40,47,87,h,Batum 9' Jump Shot (10 PTS),Made Shot,Jump Shot,1,0
+156,173,PT06M41.00S,2,1610612739,CLE,201567,Love,K. Love,-147,90,17,Made,1,40,49,89,v,Love 17' Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+157,174,PT06M31.00S,2,1610612739,CLE,101114,Williams,D. Williams,0,0,0,,0,,,0,v,Dero. Williams S.FOUL (P1.T1) (M.Ayotte),Foul,Shooting,1,0
+158,175,PT06M31.00S,2,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,41,49,90,h,Walker Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+159,177,PT06M31.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,SUB: Irving FOR Jefferson,Substitution,,0,0
+160,178,PT06M31.00S,2,1610612739,CLE,101114,Williams,D. Williams,0,0,0,,0,,,0,v,SUB: Smith FOR Dero. Williams,Substitution,,0,0
+161,179,PT06M31.00S,2,1610612739,CLE,2594,Korver,K. Korver,0,0,0,,0,,,0,v,SUB: Thompson FOR Korver,Substitution,,0,0
+162,180,PT06M31.00S,2,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,42,49,91,h,Walker Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+163,182,PT06M17.00S,2,1610612739,CLE,201567,Love,K. Love,-163,26,17,Made,1,42,51,93,v,Love 17' Jump Shot (7 PTS) (Irving 4 AST),Made Shot,Jump Shot,1,0
+164,183,PT05M50.00S,2,1610612766,CHA,201587,Batum,N. Batum,-25,237,24,Missed,1,,,0,h,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+165,184,PT05M48.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+166,185,PT05M33.00S,2,1610612739,CLE,2747,Smith,J. Smith,-228,67,24,Missed,1,,,0,v,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+167,186,PT05M31.00S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+168,188,PT05M24.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P1.T2) (K.Mauer),Foul,Shooting,1,0
+169,189,PT05M24.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,SUB: Shumpert FOR James,Substitution,,0,0
+170,191,PT05M24.00S,2,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,MISS Zeller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+171,192,PT05M24.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,0
+172,193,PT05M24.00S,2,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,43,51,94,h,Zeller Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+173,195,PT05M04.00S,2,1610612739,CLE,201567,Love,K. Love,-66,115,13,Missed,1,,,0,v,MISS Love 13' Jump Shot,Missed Shot,Jump Shot,1,0
+174,196,PT05M03.00S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+175,197,PT04M56.00S,2,1610612766,CHA,202689,Walker,K. Walker,1,252,25,Missed,1,,,0,h,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+176,198,PT04M55.00S,2,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:4 Def:1),Rebound,Unknown,1,0
+177,199,PT04M42.00S,2,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-225,16,0,Missed,1,,,0,h,MISS Kaminsky 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+178,200,PT04M42.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,0
+179,201,PT04M30.00S,2,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-45,249,25,Missed,1,,,0,h,MISS Kaminsky 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+180,202,PT04M29.00S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+181,203,PT04M29.00S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-7,11,1,Made,1,45,51,96,h,Kidd-Gilchrist 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,0
+182,204,PT04M13.00S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist S.FOUL (P3.T2) (M.Ayotte),Foul,Shooting,1,0
+183,205,PT04M13.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,45,52,97,v,Thompson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+184,207,PT04M13.00S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,SUB: Belinelli FOR Kidd-Gilchrist,Substitution,,0,0
+185,208,PT04M13.00S,2,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,SUB: Williams FOR Kaminsky,Substitution,,0,0
+186,209,PT04M13.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,45,53,98,v,Thompson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+187,211,PT03M51.00S,2,1610612766,CHA,201587,Batum,N. Batum,76,169,19,Missed,1,,,0,h,MISS Batum 19' Jump Shot,Missed Shot,Jump Shot,1,0
+188,212,PT03M50.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+189,213,PT03M32.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,-84,170,19,Missed,1,,,0,v,MISS Shumpert 19' Jump Shot,Missed Shot,Jump Shot,1,0
+190,214,PT03M31.00S,2,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,Belinelli REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+191,215,PT03M22.00S,2,1610612766,CHA,201587,Batum,N. Batum,25,85,9,Missed,1,,,0,h,MISS Batum 9' Jump Shot,Missed Shot,Jump Shot,1,0
+192,216,PT03M19.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+193,217,PT03M10.00S,2,1610612739,CLE,202681,Irving,K. Irving,195,165,26,Missed,1,,,0,v,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+194,218,PT03M09.00S,2,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+195,219,PT02M59.00S,2,1610612766,CHA,201587,Batum,N. Batum,4,-5,1,Missed,1,,,0,h,MISS Batum 1' Layup,Missed Shot,Layup Shot,1,0
+196,220,PT02M58.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+197,221,PT02M53.00S,2,1610612739,CLE,202681,Irving,K. Irving,-20,7,2,Missed,1,,,0,v,MISS Irving 2' Layup,Missed Shot,Layup Shot,1,0
+198,221,PT02M53.00S,2,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller BLOCK (2 BLK),,,1,0
+199,222,PT02M51.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+200,223,PT02M51.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+201,228,PT02M43.00S,2,1610612739,CLE,202681,Irving,K. Irving,-19,100,10,Made,1,45,55,100,v,Irving 10' Turnaround Jump Shot (15 PTS),Made Shot,Turnaround Jump Shot,1,0
+202,230,PT02M34.00S,2,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+203,230,PT02M34.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving STEAL (2 STL),,,1,0
+204,231,PT02M29.00S,2,1610612739,CLE,202681,Irving,K. Irving,-4,11,1,Made,1,45,57,102,v,Irving 1' Running Layup (17 PTS),Made Shot,Running Layup Shot,1,0
+205,232,PT02M16.00S,2,1610612766,CHA,202689,Walker,K. Walker,6,-1,1,Made,1,47,57,104,h,Walker 1' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,0
+206,233,PT02M06.00S,2,1610612739,CLE,201567,Love,K. Love,66,8,7,Made,1,47,59,106,v,Love 7' Jump Bank Shot (9 PTS) (Irving 5 AST),Made Shot,Jump Bank Shot,1,0
+207,234,PT01M50.00S,2,1610612766,CHA,101107,Williams,M. Williams,-29,70,8,Missed,1,,,0,h,MISS Williams 8' Jump Shot,Missed Shot,Jump Shot,1,0
+208,235,PT01M50.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+209,236,PT01M32.00S,2,1610612739,CLE,202681,Irving,K. Irving,-25,282,28,Missed,1,,,0,v,MISS Irving 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+210,237,PT01M31.00S,2,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+211,238,PT01M21.00S,2,1610612766,CHA,201587,Batum,N. Batum,4,3,1,Made,1,49,59,108,h,Batum 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,0
+212,239,PT00M59.60S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving Out of Bounds - Bad Pass Turnover Turnover (P4.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+213,240,PT00M59.60S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: James FOR Love,Substitution,,0,0
+214,241,PT00M48.30S,2,1610612766,CHA,202689,Walker,K. Walker,2,-1,0,Made,1,51,59,110,h,Walker Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,0
+215,242,PT00M28.90S,2,1610612739,CLE,202681,Irving,K. Irving,17,2,2,Missed,1,,,0,v,MISS Irving 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+216,243,PT00M27.40S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+217,244,PT00M22.90S,2,1610612739,CLE,202684,Thompson,T. Thompson,2,11,1,Missed,1,,,0,v,MISS Thompson 1' Layup,Missed Shot,Layup Shot,1,0
+218,245,PT00M20.70S,2,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+219,246,PT00M03.30S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert P.FOUL (P1.T3) (K.Mauer),Foul,Personal,1,0
+220,247,PT00M00.60S,2,1610612766,CHA,203469,Zeller,C. Zeller,10,-1,1,Made,1,53,59,112,h,Zeller 1' Cutting Layup Shot (10 PTS) (Belinelli 1 AST),Made Shot,Cutting Layup Shot,1,0
+221,248,PT00M00.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,-184,291,34,Missed,1,,,0,v,MISS Shumpert 34' 3PT Hook Shot,Missed Shot,Hook Shot,1,0
+222,250,PT00M00.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+223,249,PT00M00.00S,2,0,,0,,,0,0,0,,0,53,59,112,,End of 2nd Period (8:07 PM EST),period,end,0,0
+224,252,PT12M00.00S,3,0,,0,,,0,0,0,,0,53,59,112,,Start of 3rd Period (8:23 PM EST),period,start,0,0
+225,253,PT11M40.00S,3,1610612739,CLE,202681,Irving,K. Irving,-119,21,12,Missed,1,,,0,v,MISS Irving 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+226,254,PT11M39.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+227,255,PT11M20.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,1,0,Made,1,55,59,114,h,Williams Driving Dunk (2 PTS) (Walker 2 AST),Made Shot,Driving Dunk Shot,1,0
+228,256,PT10M52.00S,3,1610612739,CLE,201567,Love,K. Love,-4,26,3,Made,1,55,61,116,v,Love 3' Layup (11 PTS),Made Shot,Layup Shot,1,0
+229,257,PT10M39.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+230,257,PT10M39.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving STEAL (3 STL),,,1,0
+231,258,PT10M19.00S,3,1610612739,CLE,201567,Love,K. Love,-81,16,8,Made,1,55,63,118,v,Love 8' Jump Bank Shot (13 PTS) (James 8 AST),Made Shot,Jump Bank Shot,1,0
+232,259,PT10M02.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,25,-1,3,Made,1,57,63,120,h,Zeller 3' Layup (12 PTS) (Williams 1 AST),Made Shot,Layup Shot,1,0
+233,260,PT10M02.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P2.T1) (M.Ayotte),Foul,Shooting,1,0
+234,261,PT10M02.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,MISS Zeller Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+235,263,PT09M59.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+236,264,PT09M47.00S,3,1610612739,CLE,201567,Love,K. Love,-91,232,25,Missed,1,,,0,v,MISS Love 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+237,265,PT09M46.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+238,266,PT09M38.00S,3,1610612766,CHA,101107,Williams,M. Williams,123,239,27,Missed,1,,,0,h,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+239,267,PT09M36.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+240,268,PT09M25.00S,3,1610612739,CLE,202681,Irving,K. Irving,79,175,19,Made,1,57,65,122,v,Irving 19' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,1,0
+241,269,PT08M57.00S,3,1610612766,CHA,202689,Walker,K. Walker,-135,80,16,Missed,1,,,0,h,MISS Walker 16' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+242,270,PT08M55.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+243,271,PT08M53.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,20,11,2,Missed,1,,,0,h,MISS Kidd-Gilchrist 2' Layup,Missed Shot,Layup Shot,1,0
+244,272,PT08M52.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:5 Def:3),Rebound,Unknown,1,0
+245,273,PT08M52.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson P.FOUL (P3.T2) (M.Ayotte),Foul,Personal,1,0
+246,274,PT08M41.00S,3,1610612766,CHA,202689,Walker,K. Walker,-11,126,13,Made,1,59,65,124,h,Walker 13' Jump Shot (20 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,0
+247,275,PT08M20.00S,3,1610612739,CLE,2544,James,L. James,22,7,2,Missed,1,,,0,v,MISS James 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+248,276,PT08M20.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+249,277,PT08M20.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist L.B.FOUL (P4.T1) (M.Ayotte),Foul,Loose Ball,1,0
+250,278,PT08M20.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,SUB: Belinelli FOR Kidd-Gilchrist,Substitution,,0,0
+251,279,PT08M13.00S,3,1610612739,CLE,202681,Irving,K. Irving,-156,57,17,Made,1,59,67,126,v,Irving 17' Jump Bank Shot (21 PTS) (Love 2 AST),Made Shot,Jump Bank Shot,1,0
+252,280,PT08M05.00S,3,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,,,0,v,Smith P.FOUL (P2.T3) (M.Ayotte),Foul,Personal,1,0
+253,281,PT08M00.00S,3,1610612766,CHA,101107,Williams,M. Williams,6,7,1,Made,1,61,67,128,h,Williams 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+254,282,PT08M00.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love S.FOUL (P3.T4) (K.Mauer),Foul,Shooting,1,0
+255,283,PT08M00.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,62,67,129,h,Williams Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+256,285,PT07M45.00S,3,1610612739,CLE,2747,Smith,J. Smith,-150,203,25,Missed,1,,,0,v,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+257,286,PT07M44.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+258,287,PT07M34.00S,3,1610612766,CHA,201158,Belinelli,M. Belinelli,127,208,24,Made,1,65,67,132,h,Belinelli 24' 3PT Jump Shot (10 PTS) (Batum 2 AST),Made Shot,Jump Shot,1,0
+259,288,PT07M21.00S,3,1610612739,CLE,201567,Love,K. Love,-230,2,0,Missed,1,,,0,v,MISS Love 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+260,289,PT07M19.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+261,290,PT07M11.00S,3,1610612766,CHA,201587,Batum,N. Batum,-73,237,25,Missed,1,,,0,h,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+262,291,PT07M09.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+263,292,PT07M03.00S,3,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,Belinelli S.FOUL (P1.T2) (M.Ayotte),Foul,Shooting,1,0
+264,293,PT07M03.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,65,68,133,v,James Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+265,295,PT07M03.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,65,69,134,v,James Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+266,297,PT06M52.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum Out of Bounds Lost Ball Turnover (P2.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0
+267,298,PT06M39.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+268,298,PT06M39.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,0
+269,299,PT06M34.00S,3,1610612766,CHA,202689,Walker,K. Walker,-4,-1,0,Made,1,67,69,136,h,Walker Running Layup (22 PTS),Made Shot,Running Layup Shot,1,0
+270,300,PT06M08.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,2,0,Made,1,67,71,138,v,Thompson Reverse Layup (8 PTS) (Irving 6 AST),Made Shot,Reverse Layup Shot,1,0
+271,301,PT05M54.00S,3,1610612766,CHA,101107,Williams,M. Williams,171,183,25,Missed,1,,,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+272,302,PT05M53.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+273,303,PT05M44.00S,3,1610612739,CLE,2747,Smith,J. Smith,-238,36,24,Made,1,67,74,141,v,Smith 24' 3PT Jump Shot (6 PTS) (Love 3 AST),Made Shot,Jump Shot,1,0
+274,304,PT05M44.00S,3,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+275,307,PT05M44.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Kaminsky FOR Williams,Substitution,,0,0
+276,308,PT05M31.00S,3,1610612766,CHA,201587,Batum,N. Batum,132,214,25,Missed,1,,,0,h,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+277,309,PT05M30.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+278,310,PT05M12.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum P.FOUL (P1.T3) (K.Mauer),Foul,Personal,1,0
+279,311,PT04M57.00S,3,1610612739,CLE,2544,James,L. James,-4,178,18,Missed,1,,,0,v,MISS James 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+280,312,PT04M54.00S,3,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+281,313,PT04M46.00S,3,1610612766,CHA,202689,Walker,K. Walker,6,-1,1,Made,1,69,74,143,h,Walker 1' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,1,0
+282,314,PT04M37.00S,3,1610612739,CLE,202681,Irving,K. Irving,114,218,25,Made,1,69,77,146,v,Irving 25' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,1,0
+283,315,PT04M15.00S,3,1610612766,CHA,202689,Walker,K. Walker,32,242,24,Made,1,72,77,149,h,Walker 24' 3PT Jump Shot (27 PTS) (Zeller 3 AST),Made Shot,Jump Shot,1,0
+284,317,PT04M03.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Shumpert FOR Love,Substitution,,0,0
+285,318,PT03M52.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller S.FOUL (P1.T4) (M.Ayotte),Foul,Shooting,1,0
+286,319,PT03M52.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,72,78,150,v,James Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+287,321,PT03M52.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,72,79,151,v,James Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+288,323,PT03M35.00S,3,1610612766,CHA,201587,Batum,N. Batum,166,18,17,Made,1,74,79,153,h,Batum 17' Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,1,0
+289,324,PT03M15.00S,3,1610612739,CLE,2544,James,L. James,-112,154,19,Made,1,74,81,155,v,James 19' Jump Shot (15 PTS),Made Shot,Jump Shot,1,0
+290,325,PT02M52.00S,3,1610612766,CHA,202689,Walker,K. Walker,-11,2,1,Missed,1,,,0,h,MISS Walker 1' Layup,Missed Shot,Layup Shot,1,0
+291,326,PT02M51.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+292,327,PT02M48.00S,3,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky P.FOUL (P1.PN) (K.Mauer),Foul,Personal,1,0
+293,328,PT02M48.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+294,329,PT02M48.00S,3,0,,315,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+295,331,PT02M48.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Love FOR Thompson,Substitution,,0,0
+296,332,PT02M48.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,SUB: Williams FOR Zeller,Substitution,,0,0
+297,333,PT02M48.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,74,82,156,v,James Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+298,335,PT02M48.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,74,83,157,v,James Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+299,337,PT02M33.00S,3,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert S.FOUL (P2.PN) (K.Mauer),Foul,Shooting,1,0
+300,338,PT02M33.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,75,83,158,h,Batum Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+301,340,PT02M33.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,SUB: Korver FOR James,Substitution,,0,0
+302,341,PT02M33.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,76,83,159,h,Batum Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+303,343,PT02M21.00S,3,1610612739,CLE,202681,Irving,K. Irving,10,8,1,Made,1,76,85,161,v,Irving 1' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,1,0
+304,344,PT02M10.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Violation:Kicked Ball (K.Mauer),Violation,Kicked Ball,0,0
+305,345,PT02M10.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,,,0,h,SUB: Lamb FOR Batum,Substitution,,0,0
+306,346,PT02M03.00S,3,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,101,232,25,Missed,1,,,0,h,MISS Kaminsky 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+307,347,PT02M01.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+308,348,PT01M55.00S,3,1610612739,CLE,202681,Irving,K. Irving,-135,228,26,Missed,1,,,0,v,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+309,349,PT01M55.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+310,350,PT01M55.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love P.FOUL (P4.PN) (K.Mauer),Foul,Personal,1,0
+311,351,PT01M55.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,77,85,162,h,Williams Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+312,353,PT01M55.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: James FOR Love,Substitution,,0,0
+313,354,PT01M55.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,78,85,163,h,Williams Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+314,357,PT01M32.00S,3,1610612739,CLE,2544,James,L. James,1,15,2,Made,1,78,87,165,v,James 2' Cutting Layup Shot (19 PTS) (Irving 7 AST),Made Shot,Cutting Layup Shot,1,0
+315,358,PT01M19.00S,3,1610612766,CHA,201158,Belinelli,M. Belinelli,166,208,27,Made,1,81,87,168,h,Belinelli 27' 3PT Jump Shot (13 PTS) (Walker 3 AST),Made Shot,Jump Shot,1,0
+316,359,PT01M00.00S,3,1610612739,CLE,2594,Korver,K. Korver,-209,134,25,Missed,1,,,0,v,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+317,360,PT00M57.90S,3,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+318,361,PT00M48.10S,3,1610612766,CHA,203087,Lamb,J. Lamb,17,-1,2,Missed,1,,,0,h,MISS Lamb 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+319,361,PT00M48.10S,3,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert BLOCK (2 BLK),,,1,0
+320,362,PT00M48.10S,3,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,0
+321,363,PT00M48.10S,3,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: Dero. Williams FOR Smith,Substitution,,0,0
+322,364,PT00M45.50S,3,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert P.FOUL (P3.PN) (K.Mauer),Foul,Personal,1,0
+323,365,PT00M45.50S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,82,87,169,h,Williams Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+324,367,PT00M45.50S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,83,87,170,h,Williams Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+325,369,PT00M31.20S,3,1610612739,CLE,2544,James,L. James,-6,2,1,Made,1,83,89,172,v,James 1' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,0
+326,370,PT00M31.20S,3,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,,,0,h,Lamb S.FOUL (P2.PN) (K.Mauer),Foul,Shooting,1,0
+327,371,PT00M31.20S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+328,375,PT00M31.20S,3,0,,370,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+329,376,PT00M31.20S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,83,90,173,v,James Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,0
+330,378,PT00M09.90S,3,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,79,67,10,Missed,1,,,0,h,MISS Kaminsky 10' Jump Shot,Missed Shot,Jump Shot,1,0
+331,379,PT00M08.90S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+332,380,PT00M01.30S,3,1610612766,CHA,203087,Lamb,J. Lamb,-1,61,6,Made,1,85,90,175,h,Lamb 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,0
+333,381,PT00M00.30S,3,1610612739,CLE,101114,Williams,D. Williams,-158,18,16,Missed,1,,,0,v,MISS Dero. Williams 16' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+334,381,PT00M00.30S,3,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker BLOCK (1 BLK),,,1,0
+335,383,PT00M00.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+336,382,PT00M00.00S,3,0,,0,,,0,0,0,,0,85,90,175,,End of 3rd Period (8:54 PM EST),period,end,0,0
+337,385,PT12M00.00S,4,0,,0,,,0,0,0,,0,85,90,175,,Start of 4th Period (8:56 PM EST),period,start,0,0
+338,386,PT11M50.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James P.FOUL (P1.T1) (J.Williams),Foul,Personal,1,0
+339,387,PT11M48.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert P.FOUL (P4.T2) (J.Williams),Foul,Personal,1,0
+340,388,PT11M32.00S,4,1610612766,CHA,101107,Williams,M. Williams,69,62,9,Missed,1,,,0,h,MISS Williams 9' Jump Shot,Missed Shot,Jump Shot,1,0
+341,389,PT11M31.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+342,390,PT11M12.00S,4,1610612739,CLE,101114,Williams,D. Williams,17,2,2,Made,1,85,92,177,v,Dero. Williams 2' Driving Layup (2 PTS) (Korver 1 AST),Made Shot,Driving Layup Shot,1,0
+343,391,PT10M51.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,-89,237,25,Missed,1,,,0,h,MISS Belinelli 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+344,392,PT10M50.00S,4,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,,,0,h,Weber REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+345,393,PT10M39.00S,4,1610612766,CHA,203087,Lamb,J. Lamb,1,0,0,Made,1,87,92,179,h,Lamb Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,0
+346,394,PT10M08.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,155,190,25,Missed,1,,,0,v,MISS Shumpert 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+347,395,PT10M07.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+348,396,PT09M59.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky Traveling Turnover (P1.T8),Turnover,Traveling,1,0
+349,397,PT09M39.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,Belinelli P.FOUL (P2.T1) (K.Mauer),Foul,Personal,1,0
+350,399,PT09M27.00S,4,1610612739,CLE,2594,Korver,K. Korver,228,8,0,Made,1,87,95,182,v,Korver 3PT Jump Shot (8 PTS) (James 9 AST),Made Shot,Jump Shot,1,0
+351,400,PT09M08.00S,4,1610612766,CHA,203087,Lamb,J. Lamb,156,198,25,Missed,1,,,0,h,MISS Lamb 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+352,401,PT09M07.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+353,402,PT08M53.00S,4,1610612739,CLE,2544,James,L. James,0,1,0,Made,1,87,97,184,v,James Dunk (24 PTS) (Shumpert 1 AST),Made Shot,Dunk Shot,1,0
+354,403,PT08M53.00S,4,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+355,406,PT08M53.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,SUB: Walker FOR Belinelli,Substitution,,0,0
+356,407,PT08M53.00S,4,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,,,0,h,SUB: Kidd-Gilchrist FOR Weber,Substitution,,0,0
+357,408,PT08M53.00S,4,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,,,0,h,SUB: Batum FOR Lamb,Substitution,,0,0
+358,409,PT08M42.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0
+359,409,PT08M42.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert STEAL (1 STL),,,1,0
+360,410,PT08M32.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,117,110,16,Made,1,87,99,186,v,Shumpert 16' Jump Shot (7 PTS) (James 10 AST),Made Shot,Jump Shot,1,0
+361,411,PT08M10.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,45,62,8,Missed,1,,,0,h,MISS Kaminsky 8' Jump Shot,Missed Shot,Jump Shot,1,0
+362,411,PT08M10.00S,4,1610612739,CLE,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver BLOCK (1 BLK),,,1,0
+363,412,PT08M08.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+364,413,PT08M06.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,Shumpert Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0
+365,413,PT08M06.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker STEAL (1 STL),,,1,0
+366,414,PT08M00.00S,4,1610612766,CHA,201587,Batum,N. Batum,161,195,25,Made,1,90,99,189,h,Batum 25' 3PT Jump Shot (19 PTS) (Walker 4 AST),Made Shot,Jump Shot,1,0
+367,415,PT07M44.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,-191,164,25,Missed,1,,,0,v,MISS Shumpert 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+368,416,PT07M43.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,Kaminsky REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+369,417,PT07M27.00S,4,1610612766,CHA,101107,Williams,M. Williams,40,80,9,Made,1,92,99,191,h,Williams 9' Turnaround Fadeaway (11 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+370,418,PT07M08.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James OFF.Foul (P2) (K.Mauer),Foul,Offensive,1,0
+371,419,PT07M08.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James Foul Turnover (P2.T9),Turnover,Foul,1,0
+372,420,PT07M08.00S,4,0,,418,Brooks,S. Brooks,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+373,424,PT07M08.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,,,0,v,SUB: Irving FOR Shumpert,Substitution,,0,0
+374,421,PT06M58.00S,4,1610612766,CHA,201587,Batum,N. Batum,22,121,12,Missed,1,,,0,h,MISS Batum 12' Jump Shot,Missed Shot,Jump Shot,1,0
+375,422,PT06M57.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+376,423,PT06M49.00S,4,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,Kidd-Gilchrist S.FOUL (P5.T2) (M.Ayotte),Foul,Shooting,1,0
+377,425,PT06M49.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,92,100,192,v,James Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0
+378,427,PT06M49.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,SUB: Love FOR Jefferson,Substitution,,0,0
+379,428,PT06M49.00S,4,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,,,0,h,SUB: Belinelli FOR Kidd-Gilchrist,Substitution,,0,0
+380,429,PT06M49.00S,4,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Zeller FOR Williams,Substitution,,0,0
+381,431,PT06M49.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+382,433,PT06M46.00S,4,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:5 Def:4),Rebound,Unknown,1,0
+383,435,PT06M24.00S,4,1610612766,CHA,202689,Walker,K. Walker,122,224,26,Missed,1,,,0,h,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+384,436,PT06M21.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+385,437,PT06M21.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,,,0,h,SUB: Williams FOR Kaminsky,Substitution,,0,0
+386,438,PT06M02.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0
+387,438,PT06M02.00S,4,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum STEAL (2 STL),,,1,0
+388,439,PT05M56.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,4,2,0,Made,1,94,100,194,h,Belinelli Layup (15 PTS),Made Shot,Layup Shot,1,0
+389,440,PT05M56.00S,4,1610612739,CLE,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0
+390,441,PT05M56.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+391,446,PT05M56.00S,4,1610612739,CLE,101114,Williams,D. Williams,0,0,0,,0,,,0,v,SUB: Smith FOR Dero. Williams,Substitution,,0,0
+392,447,PT05M56.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,95,100,195,h,Belinelli Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0
+393,449,PT05M42.00S,4,1610612739,CLE,201567,Love,K. Love,228,82,24,Missed,1,,,0,v,MISS Love 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+394,450,PT05M41.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,Belinelli REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+395,451,PT05M27.00S,4,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P3.T4) (M.Ayotte),Foul,Shooting,1,0
+396,452,PT05M27.00S,4,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,96,100,196,h,Zeller Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+397,454,PT05M27.00S,4,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,MISS Zeller Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+398,456,PT05M26.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+399,457,PT05M12.00S,4,1610612739,CLE,202681,Irving,K. Irving,-130,26,13,Missed,1,,,0,v,MISS Irving 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+400,458,PT05M10.00S,4,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+401,459,PT05M06.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,1,0,Made,1,98,100,198,h,Belinelli Running Dunk (18 PTS) (Walker 5 AST),Made Shot,Running Dunk Shot,1,0
+402,460,PT04M50.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Traveling Turnover (P2.T11),Turnover,Traveling,1,0
+403,461,PT04M39.00S,4,1610612766,CHA,201587,Batum,N. Batum,101,239,26,Missed,1,,,0,h,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+404,462,PT04M38.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+405,463,PT04M27.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0
+406,463,PT04M27.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker STEAL (2 STL),,,1,0
+407,464,PT04M20.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving S.FOUL (P2.PN) (J.Williams),Foul,Shooting,1,0
+408,465,PT04M20.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,MISS Walker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+409,466,PT04M20.00S,4,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,0
+410,467,PT04M20.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,99,100,199,h,Walker Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0
+411,469,PT04M06.00S,4,1610612739,CLE,2747,Smith,J. Smith,-241,26,24,Made,1,99,103,202,v,Smith 24' 3PT Jump Shot (9 PTS) (James 11 AST),Made Shot,Jump Shot,1,0
+412,470,PT03M49.00S,4,1610612766,CHA,202689,Walker,K. Walker,186,188,26,Missed,1,,,0,h,MISS Walker 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+413,471,PT03M47.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:10),Rebound,Unknown,1,0
+414,472,PT03M36.00S,4,1610612739,CLE,201567,Love,K. Love,-145,36,15,Missed,1,,,0,v,MISS Love 15' Jump Shot,Missed Shot,Jump Shot,1,0
+415,473,PT03M35.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+416,474,PT03M28.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,Belinelli Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0
+417,474,PT03M28.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James STEAL (1 STL),,,1,0
+418,475,PT03M16.00S,4,1610612739,CLE,201567,Love,K. Love,127,146,19,Made,1,99,105,204,v,Love 19' Jump Shot (15 PTS),Made Shot,Jump Shot,1,0
+419,476,PT03M16.00S,4,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+420,480,PT03M01.00S,4,1610612766,CHA,101107,Williams,M. Williams,20,-1,2,Missed,1,,,0,h,MISS Williams 2' Layup,Missed Shot,Layup Shot,1,0
+421,480,PT03M01.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James BLOCK (2 BLK),,,1,0
+422,481,PT03M00.00S,4,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+423,482,PT02M44.00S,4,1610612739,CLE,2544,James,L. James,6,7,1,Made,1,99,107,206,v,James 1' Cutting Layup Shot (27 PTS) (Love 4 AST),Made Shot,Cutting Layup Shot,1,0
+424,483,PT02M26.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,-150,165,22,Missed,1,,,0,h,MISS Belinelli 22' Jump Shot,Missed Shot,Jump Shot,1,0
+425,484,PT02M23.00S,4,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+426,485,PT02M19.00S,4,1610612766,CHA,203469,Zeller,C. Zeller,0,1,0,Made,1,101,107,208,h,Zeller Dunk (15 PTS) (Belinelli 2 AST),Made Shot,Dunk Shot,1,0
+427,486,PT01M56.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,Belinelli S.FOUL (P3.T3) (J.Williams),Foul,Shooting,1,0
+428,487,PT01M56.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+429,488,PT01M56.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0
+430,489,PT01M56.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,101,108,209,v,James Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0
+431,491,PT01M44.00S,4,1610612739,CLE,2594,Korver,K. Korver,0,0,0,,0,,,0,v,Korver S.FOUL (P2.PN) (K.Mauer),Foul,Shooting,1,0
+432,492,PT01M44.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,102,108,210,h,Belinelli Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0
+433,494,PT01M44.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,103,108,211,h,Belinelli Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0
+434,496,PT01M44.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+435,500,PT01M28.00S,4,1610612739,CLE,202681,Irving,K. Irving,17,7,2,Missed,1,,,0,v,MISS Irving 2' Layup,Missed Shot,Layup Shot,1,0
+436,500,PT01M28.00S,4,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,,,0,h,Williams BLOCK (1 BLK),,,1,0
+437,501,PT01M26.00S,4,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:5 Def:5),Rebound,Unknown,1,0
+438,502,PT01M19.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker Lost Ball Turnover (P4.T11),Turnover,Lost Ball,1,0
+439,502,PT01M19.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving STEAL (4 STL),,,1,0
+440,503,PT01M03.00S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,Belinelli S.FOUL (P4.PN) (J.Williams),Foul,Shooting,1,0
+441,504,PT01M03.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,103,109,212,v,James Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0
+442,506,PT01M03.00S,4,1610612739,CLE,2594,Korver,K. Korver,0,0,0,,0,,,0,v,SUB: Shumpert FOR Korver,Substitution,,0,0
+443,507,PT01M03.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,103,110,213,v,James Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0
+444,509,PT00M50.60S,4,1610612766,CHA,101107,Williams,M. Williams,-228,29,0,Missed,1,,,0,h,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+445,511,PT00M50.50S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,Belinelli REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+446,510,PT00M50.50S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,2,11,1,Made,1,105,110,215,h,Belinelli 1' Putback Layup (22 PTS),Made Shot,Putback Layup Shot,1,0
+447,512,PT00M30.90S,4,1610612739,CLE,202681,Irving,K. Irving,-60,70,9,Missed,1,,,0,v,MISS Irving 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+448,513,PT00M29.50S,4,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,h,Zeller REBOUND (Off:5 Def:6),Rebound,Unknown,1,0
+449,514,PT00M29.50S,4,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 6 Short 1),Timeout,Regular,0,0
+450,518,PT00M26.90S,4,1610612766,CHA,201587,Batum,N. Batum,-50,234,24,Missed,1,,,0,h,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+451,519,PT00M24.90S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:11),Rebound,Unknown,1,0
+452,520,PT00M22.40S,4,1610612766,CHA,201158,Belinelli,M. Belinelli,0,0,0,,0,,,0,h,Belinelli Personal Take Foul (P5.PN) (K.Mauer),Foul,Personal Take,1,0
+453,521,PT00M22.40S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,105,111,216,v,James Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,0
+454,523,PT00M22.40S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,105,112,217,v,James Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0
+455,525,PT00M11.90S,4,1610612766,CHA,202689,Walker,K. Walker,176,219,28,Missed,1,,,0,h,MISS Walker 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+456,526,PT00M10.80S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:9),Rebound,Unknown,1,0
+457,527,PT00M00.00S,4,0,,0,,,0,0,0,,0,105,112,217,,End of 4th Period (9:33 PM EST),period,end,1,0

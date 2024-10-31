@@ -1,0 +1,542 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Jump Ball Noel vs. Nurkic: Tip to Mbah a Moute,Jump Ball,,1,0
+3,2,PT11M45.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,4,1,0,Missed,1,0,0,0,h,MISS Sampson  Layup,Missed Shot,Layup Shot,1,0
+4,2,PT11M45.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,Nurkic BLOCK (1 BLK),,,1,0
+5,3,PT11M43.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,4,PT11M26.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,-111,228,25,Made,1,0,3,3,v,Chandler 25' 3PT Jump Shot (3 PTS) (Nurkic 1 AST),Made Shot,Jump Shot,1,0
+7,5,PT11M10.00S,1,1610612755,PHI,203496,Covington,R. Covington,168,195,26,Missed,1,0,0,0,h,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+8,6,PT11M09.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+9,7,PT10M59.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,152,186,24,Made,1,0,6,6,v,Afflalo 24' 3PT Jump Shot (3 PTS) (Lawson 1 AST),Made Shot,Jump Shot,1,0
+10,8,PT10M39.00S,1,1610612755,PHI,203457,Noel,N. Noel,1,66,7,Missed,1,0,0,0,h,MISS Noel 7' Jump Shot,Missed Shot,Jump Shot,1,0
+11,9,PT10M38.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+12,10,PT10M31.00S,1,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel P.FOUL (P1.T1),Foul,Personal,1,0
+13,11,PT10M23.00S,1,1610612743,DEN,202702,Faried,K. Faried,17,31,4,Missed,1,0,0,0,v,MISS Faried 4' Jump Shot,Missed Shot,Jump Shot,1,0
+14,12,PT10M21.00S,1,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+15,13,PT10M12.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,Nurkic S.FOUL (P1.T1),Foul,Shooting,1,0
+16,14,PT10M12.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,1,6,7,h,Covington Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+17,16,PT10M12.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,2,6,8,h,Covington Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+18,18,PT09M58.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+19,18,PT09M58.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson STEAL (1 STL),,,1,0
+20,19,PT09M56.00S,1,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+21,19,PT09M56.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo STEAL (1 STL),,,1,0
+22,20,PT09M52.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0
+23,20,PT09M52.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson STEAL (2 STL),,,1,0
+24,21,PT09M46.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0
+25,22,PT09M33.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,6,52,5,Made,1,2,8,10,v,Afflalo 5' Running Jump Shot (5 PTS) (Lawson 2 AST),Made Shot,Running Jump Shot,1,0
+26,23,PT09M19.00S,1,1610612755,PHI,203457,Noel,N. Noel,0,1,0,Made,1,4,8,12,h,Noel  Slam Dunk (2 PTS) (Carter-Williams 1 AST),Made Shot,Slam Dunk Shot,1,0
+27,24,PT09M03.00S,1,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel P.FOUL (P2.T2),Foul,Personal,1,0
+28,25,PT08M48.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,-204,12,20,Missed,1,0,0,0,v,MISS Afflalo 20' Jump Shot,Missed Shot,Jump Shot,1,0
+29,26,PT08M46.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+30,27,PT08M38.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,-138,110,18,Made,1,6,8,14,h,Mbah a Moute 18' Jump Shot (2 PTS) (Carter-Williams 2 AST),Made Shot,Jump Shot,1,0
+31,28,PT08M24.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,211,137,25,Made,1,6,11,17,v,Afflalo 25' 3PT Jump Shot (8 PTS) (Lawson 3 AST),Made Shot,Jump Shot,1,0
+32,29,PT08M08.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,2,14,1,Made,1,8,11,19,h,Sampson 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+33,30,PT07M59.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute S.FOUL (P1.T3),Foul,Shooting,1,0
+34,31,PT07M59.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,MISS Nurkic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+35,32,PT07M59.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+36,33,PT07M59.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried Lane Violation Turnover (P1.T3),Turnover,Lane Violation,0,0
+37,35,PT07M47.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,114,222,25,Made,1,11,11,22,h,Sampson 25' 3PT Jump Shot (5 PTS) (Carter-Williams 3 AST),Made Shot,Jump Shot,1,0
+38,37,PT07M32.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,-4,104,10,Missed,1,0,0,0,v,MISS Afflalo 10' Jump Shot,Missed Shot,Jump Shot,1,0
+39,38,PT07M31.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+40,39,PT07M25.00S,1,1610612755,PHI,203496,Covington,R. Covington,166,205,26,Made,1,14,11,25,h,Covington 26' 3PT Jump Shot (5 PTS) (Carter-Williams 4 AST),Made Shot,Jump Shot,1,0
+41,40,PT07M08.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,-234,4,0,Made,1,14,14,28,v,Chandler  3PT Jump Shot (6 PTS) (Lawson 4 AST),Made Shot,Jump Shot,1,0
+42,41,PT06M52.00S,1,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,-2,41,4,Missed,1,0,0,0,h,MISS Carter-Williams 4' Jump Shot,Missed Shot,Jump Shot,1,0
+43,42,PT06M50.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+44,43,PT06M42.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,-11,19,2,Made,1,14,16,30,v,Nurkic 2' Layup (2 PTS) (Lawson 5 AST),Made Shot,Layup Shot,1,0
+45,44,PT06M37.00S,1,1610612755,PHI,203457,Noel,N. Noel,-2,22,2,Made,1,16,16,32,h,Noel 2' Layup (4 PTS) (Carter-Williams 5 AST),Made Shot,Layup Shot,1,0
+46,45,PT06M37.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo S.FOUL (P1.T2),Foul,Shooting,1,0
+47,46,PT06M37.00S,1,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,17,16,33,h,Noel Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+48,47,PT06M22.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,69,113,13,Made,1,17,18,35,v,Afflalo 13' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,1,0
+49,48,PT06M15.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+50,50,PT05M57.00S,1,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+51,50,PT05M57.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,Nurkic STEAL (1 STL),,,1,0
+52,51,PT05M52.00S,1,1610612743,DEN,202702,Faried,K. Faried,12,33,4,Missed,1,0,0,0,v,MISS Faried 4' Jump Shot,Missed Shot,Jump Shot,1,0
+53,52,PT05M52.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+54,53,PT05M52.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,Nurkic L.B.FOUL (P2.T3),Foul,Loose Ball,1,0
+55,54,PT05M52.00S,1,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Sampson,Substitution,,0,0
+56,55,PT05M52.00S,1,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,SUB: Sims FOR Noel,Substitution,,0,0
+57,56,PT05M52.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,SUB: Hickson FOR Nurkic,Substitution,,0,0
+58,57,PT05M39.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+59,57,PT05M39.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried STEAL (1 STL),,,1,0
+60,58,PT05M33.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,135,217,26,Made,1,17,21,38,v,Chandler 26' 3PT Jump Shot (9 PTS) (Lawson 6 AST),Made Shot,Jump Shot,1,0
+61,59,PT05M16.00S,1,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,13,7,1,Made,1,19,21,40,h,Carter-Williams 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+62,60,PT05M10.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington S.FOUL (P1.T4),Foul,Shooting,1,0
+63,61,PT05M10.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,19,22,41,v,Lawson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+64,63,PT05M10.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,SUB: Grant FOR Covington,Substitution,,0,0
+65,64,PT05M10.00S,1,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Mbah a Moute,Substitution,,0,0
+66,65,PT05M10.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,19,23,42,v,Lawson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+67,67,PT04M57.00S,1,1610612755,PHI,203156,Sims,H. Sims,-8,17,2,Missed,1,0,0,0,h,MISS Sims 2' Layup,Missed Shot,Layup Shot,1,0
+68,67,PT04M57.00S,1,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson BLOCK (1 BLK),,,1,0
+69,68,PT04M55.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+70,70,PT04M39.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,192,205,28,Missed,1,0,0,0,v,MISS Chandler 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+71,71,PT04M37.00S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+72,72,PT04M31.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried P.FOUL (P1.T4),Foul,Personal,1,0
+73,73,PT04M31.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,SUB: Gallinari FOR Faried,Substitution,,0,0
+74,74,PT04M17.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,7,183,18,Made,1,21,23,44,h,McDaniels 18' Pullup Bank Shot (2 PTS) (Carter-Williams 6 AST),Made Shot,Pullup Bank shot,1,0
+75,75,PT04M00.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,-7,17,2,Missed,1,0,0,0,v,MISS Chandler 2' Layup,Missed Shot,Layup Shot,1,0
+76,75,PT04M00.00S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant BLOCK (1 BLK),,,1,0
+77,76,PT03M58.00S,1,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+78,77,PT03M52.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,-231,15,0,Made,1,24,23,47,h,McDaniels  3PT Jump Shot (5 PTS) (Carter-Williams 7 AST),Made Shot,Jump Shot,1,0
+79,78,PT03M35.00S,1,1610612743,DEN,201568,Gallinari,D. Gallinari,-188,160,25,Made,1,24,26,50,v,Gallinari 25' 3PT Jump Shot (3 PTS) (Lawson 7 AST),Made Shot,Jump Shot,1,0
+80,79,PT03M15.00S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant Offensive Charge Foul (P1.PN),Foul,Offensive Charge,1,0
+81,80,PT03M15.00S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant Foul Turnover (P1.T5),Turnover,Foul,1,0
+82,81,PT03M15.00S,1,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,SUB: Drew FOR Carter-Williams,Substitution,,0,0
+83,82,PT03M15.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: Gee FOR Chandler,Substitution,,0,0
+84,83,PT03M04.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,-187,93,21,Missed,1,0,0,0,v,MISS Afflalo 21' Jump Shot,Missed Shot,Jump Shot,1,0
+85,84,PT03M01.00S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+86,85,PT02M54.00S,1,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson P.FOUL (P1.PN),Foul,Personal,1,0
+87,86,PT02M54.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+88,87,PT02M54.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,SUB: Foye FOR Lawson,Substitution,,0,0
+89,88,PT02M54.00S,1,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,MISS Sims Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+90,90,PT02M54.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+91,89,PT02M54.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,SUB: Nelson FOR Afflalo,Substitution,,0,0
+92,91,PT02M54.00S,1,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,25,26,51,h,Sims Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+93,93,PT02M40.00S,1,1610612755,PHI,203580,Drew II,L. Drew II,0,0,0,,0,0,0,0,h,Drew S.FOUL (P1.PN),Foul,Shooting,1,0
+94,94,PT02M40.00S,1,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,MISS Hickson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+95,95,PT02M40.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+96,96,PT02M40.00S,1,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,25,27,52,v,Hickson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+97,98,PT02M25.00S,1,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+98,98,PT02M25.00S,1,1610612743,DEN,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,Gee STEAL (1 STL),,,1,0
+99,99,PT02M17.00S,1,1610612743,DEN,200751,Foye,R. Foye,-239,-6,24,Missed,1,0,0,0,v,MISS Foye 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+100,100,PT02M15.00S,1,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+101,101,PT02M15.00S,1,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson Traveling Turnover (P1.T4),Turnover,Traveling,1,0
+102,102,PT02M04.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,-32,30,4,Made,1,27,27,54,h,Thompson 4' Floating Jump Shot (2 PTS) (Sims 1 AST),Made Shot,Floating Jump shot,1,0
+103,103,PT01M55.00S,1,1610612743,DEN,202087,Gee,A. Gee,12,31,3,Missed,1,0,0,0,v,MISS Gee 3' Jump Shot,Missed Shot,Jump Shot,1,0
+104,103,PT01M55.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels BLOCK (1 BLK),,,1,0
+105,104,PT01M53.00S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+106,105,PT01M46.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,154,186,24,Made,1,30,27,57,h,Thompson 24' 3PT Jump Shot (5 PTS) (Drew 1 AST),Made Shot,Jump Shot,1,0
+107,106,PT01M28.00S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant S.FOUL (P2.PN),Foul,Shooting,1,0
+108,107,PT01M28.00S,1,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,MISS Gallinari Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+109,108,PT01M28.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+110,109,PT01M28.00S,1,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,30,28,58,v,Gallinari Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+111,111,PT01M11.00S,1,1610612755,PHI,203909,McDaniels,K. McDaniels,10,175,18,Missed,1,0,0,0,h,MISS McDaniels 18' Jump Shot,Missed Shot,Jump Shot,1,0
+112,112,PT01M10.00S,1,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+113,113,PT01M03.00S,1,1610612743,DEN,201568,Gallinari,D. Gallinari,-188,162,25,Missed,1,0,0,0,v,MISS Gallinari 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+114,114,PT01M02.00S,1,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+115,115,PT00M48.90S,1,1610612755,PHI,203580,Drew II,L. Drew II,-212,9,21,Made,1,32,28,60,h,Drew 21' Jump Shot (2 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,0
+116,116,PT00M33.90S,1,1610612743,DEN,200751,Foye,R. Foye,-153,186,24,Missed,1,0,0,0,v,MISS Foye 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+117,117,PT00M31.90S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+118,118,PT00M05.90S,1,1610612755,PHI,203138,Thompson,H. Thompson,81,137,16,Made,1,34,28,62,h,Thompson 16' Jump Shot (7 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,1,0
+119,119,PT00M01.00S,1,1610612743,DEN,2749,Nelson,J. Nelson,-187,170,25,Missed,1,0,0,0,v,MISS Nelson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+120,120,PT00M00.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+121,122,PT00M00.00S,1,0,,0,,,0,0,0,,0,34,28,62,,End of 1st Period (7:36 PM EST),period,end,0,0
+122,123,PT12M00.00S,2,0,,0,,,0,0,0,,0,34,28,62,,Start of 2nd Period (7:38 PM EST),period,start,0,0
+123,124,PT11M55.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+124,124,PT11M55.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson STEAL (1 STL),,,1,0
+125,125,PT11M50.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,-232,-13,0,Made,1,37,28,65,h,Thompson  3PT Jump Shot (10 PTS) (Drew 2 AST),Made Shot,Jump Shot,1,0
+126,126,PT11M25.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,-198,173,26,Missed,1,0,0,0,v,MISS Gallinari 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+127,127,PT11M23.00S,2,1610612743,DEN,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,Gee REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+128,128,PT11M13.00S,2,1610612743,DEN,2749,Nelson,J. Nelson,236,-2,24,Missed,1,0,0,0,v,MISS Nelson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+129,129,PT11M11.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+130,130,PT11M09.00S,2,1610612743,DEN,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,Foye P.FOUL (P1.T1),Foul,Personal,1,0
+131,131,PT10M52.00S,2,1610612755,PHI,203580,Drew II,L. Drew II,-112,135,18,Missed,1,0,0,0,h,MISS Drew 18' Jump Shot,Missed Shot,Jump Shot,1,0
+132,132,PT10M52.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+133,133,PT10M52.00S,2,1610612743,DEN,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,Foye P.FOUL (P2.T2),Foul,Personal,1,0
+134,135,PT10M52.00S,2,1610612743,DEN,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,SUB: Afflalo FOR Foye,Substitution,,0,0
+135,136,PT10M52.00S,2,1610612743,DEN,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Gee,Substitution,,0,0
+136,137,PT10M37.00S,2,1610612755,PHI,203580,Drew II,L. Drew II,13,14,2,Made,1,39,28,67,h,Drew 2' Driving Layup (4 PTS) (Thompson 2 AST),Made Shot,Driving Layup Shot,1,0
+137,138,PT10M18.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,163,42,17,Made,1,39,30,69,v,Afflalo 17' Jump Shot (12 PTS) (Nelson 1 AST),Made Shot,Jump Shot,1,0
+138,139,PT10M08.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,147,216,26,Missed,1,0,0,0,h,MISS McDaniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+139,140,PT10M07.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+140,141,PT10M07.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari P.FOUL (P1.T3),Foul,Personal,1,0
+141,142,PT09M52.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,75,23,8,Made,1,41,30,71,h,McDaniels 8' Jump Bank Shot (7 PTS),Made Shot,Jump Bank Shot,1,0
+142,143,PT09M35.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,59,236,24,Missed,1,0,0,0,v,MISS Gallinari 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+143,144,PT09M34.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+144,145,PT09M28.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,152,203,25,Made,1,44,30,74,h,Thompson 25' 3PT Jump Shot (13 PTS) (Drew 3 AST),Made Shot,Jump Shot,1,0
+145,146,PT09M21.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+146,147,PT09M21.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,SUB: Lawson FOR Gallinari,Substitution,,0,0
+147,148,PT09M21.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,SUB: Nurkic FOR Hickson,Substitution,,0,0
+148,149,PT09M21.00S,2,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,SUB: Faried FOR Nelson,Substitution,,0,0
+149,150,PT09M21.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,SUB: Covington FOR Sims,Substitution,,0,0
+150,151,PT09M21.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,SUB: Noel FOR Thompson,Substitution,,0,0
+151,152,PT09M21.00S,2,1610612755,PHI,203580,Drew II,L. Drew II,0,0,0,,0,0,0,0,h,SUB: Carter-Williams FOR Drew,Substitution,,0,0
+152,153,PT09M00.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,-239,12,24,Missed,1,0,0,0,v,MISS Chandler 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+153,154,PT08M57.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+154,155,PT08M40.00S,2,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,-168,201,26,Missed,1,0,0,0,h,MISS Carter-Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+155,156,PT08M38.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+156,157,PT08M31.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,29,123,13,Missed,1,0,0,0,v,MISS Nurkic 13' Jump Shot,Missed Shot,Jump Shot,1,0
+157,158,PT08M29.00S,2,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+158,159,PT08M18.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+159,159,PT08M18.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson STEAL (1 STL),,,1,0
+160,160,PT08M13.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels S.FOUL (P1.T1),Foul,Shooting,1,0
+161,161,PT08M13.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,44,31,75,v,Nurkic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+162,165,PT08M13.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,SUB: Sampson FOR McDaniels,Substitution,,0,0
+163,166,PT08M13.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+164,168,PT08M12.00S,2,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+165,171,PT07M51.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,Nurkic S.FOUL (P3.T4),Foul,Shooting,1,0
+166,172,PT07M51.00S,2,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,45,31,76,h,Carter-Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+167,173,PT07M51.00S,2,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,46,31,77,h,Carter-Williams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+168,176,PT07M41.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,204,55,21,Missed,1,0,0,0,v,MISS Chandler 21' Jump Shot,Missed Shot,Jump Shot,1,0
+169,177,PT07M39.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+170,178,PT07M29.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0
+171,179,PT07M20.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,-5,42,4,Made,1,46,33,79,v,Nurkic 4' Jump Shot (5 PTS) (Lawson 8 AST),Made Shot,Jump Shot,1,0
+172,180,PT07M07.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,-119,97,15,Missed,1,0,0,0,h,MISS Mbah a Moute 15' Jump Shot,Missed Shot,Jump Shot,1,0
+173,181,PT07M05.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,Nurkic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+174,182,PT07M05.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington P.FOUL (P2.T2),Foul,Personal,1,0
+175,183,PT06M51.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,23,118,12,Missed,1,0,0,0,v,MISS Afflalo 12' Jump Shot,Missed Shot,Jump Shot,1,0
+176,184,PT06M50.00S,2,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+177,185,PT06M43.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo P.FOUL (P2.PN),Foul,Personal,1,0
+178,186,PT06M43.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,47,33,80,h,Sampson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+179,188,PT06M43.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,48,33,81,h,Sampson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+180,190,PT06M33.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,228,28,0,Missed,1,0,0,0,v,MISS Afflalo  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+181,191,PT06M31.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+182,192,PT06M14.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+183,192,PT06M14.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler STEAL (1 STL),,,1,0
+184,193,PT06M07.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,40,241,24,Missed,1,0,0,0,v,MISS Chandler 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+185,194,PT06M05.00S,2,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+186,195,PT06M04.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson P.FOUL (P1.PN),Foul,Personal,1,0
+187,196,PT06M04.00S,2,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,MISS Carter-Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+188,197,PT06M04.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+189,198,PT06M04.00S,2,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,49,33,82,h,Carter-Williams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+190,200,PT05M47.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+191,203,PT05M47.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: Gallinari FOR Chandler,Substitution,,0,0
+192,204,PT05M43.00S,2,1610612743,DEN,202702,Faried,K. Faried,4,58,6,Missed,1,0,0,0,v,MISS Faried 6' Jump Shot,Missed Shot,Jump Shot,0,0
+193,206,PT05M41.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,Nurkic REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+194,205,PT05M41.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,4,19,2,Made,1,49,35,84,v,Nurkic 2' Tip Shot (7 PTS),Made Shot,Tip Shot,0,0
+195,207,PT05M23.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried S.FOUL (P2.PN),Foul,Shooting,1,0
+196,208,PT05M23.00S,2,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,50,35,85,h,Noel Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+197,210,PT05M23.00S,2,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,51,35,86,h,Noel Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+198,212,PT05M11.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington P.FOUL (P3.T3),Foul,Personal,1,0
+199,213,PT05M11.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Covington,Substitution,,0,0
+200,214,PT05M01.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,-81,183,20,Missed,1,0,0,0,v,MISS Lawson 20' Jump Shot,Missed Shot,Jump Shot,1,0
+201,215,PT05M00.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+202,216,PT04M48.00S,2,1610612743,DEN,202702,Faried,K. Faried,-29,-2,3,Missed,1,0,0,0,v,MISS Faried 3' Layup,Missed Shot,Layup Shot,1,0
+203,216,PT04M48.00S,2,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel BLOCK (1 BLK),,,1,0
+204,218,PT04M45.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,Nurkic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+205,217,PT04M45.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,4,23,2,Missed,1,0,0,0,v,MISS Nurkic 2' Layup,Missed Shot,Layup Shot,1,0
+206,219,PT04M44.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+207,220,PT04M30.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried S.FOUL (P3.PN),Foul,Shooting,1,0
+208,221,PT04M30.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,52,35,87,h,Thompson Free Throw 1 of 3 (14 PTS),Free Throw,Free Throw 1 of 3,0,0
+209,223,PT04M30.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,53,35,88,h,Thompson Free Throw 2 of 3 (15 PTS),Free Throw,Free Throw 2 of 3,0,0
+210,225,PT04M30.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,SUB: Hickson FOR Faried,Substitution,,0,0
+211,226,PT04M30.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,SUB: Arthur FOR Nurkic,Substitution,,0,0
+212,227,PT04M30.00S,2,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Grant FOR Mbah a Moute,Substitution,,0,0
+213,228,PT04M30.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,54,35,89,h,Thompson Free Throw 3 of 3 (16 PTS),Free Throw,Free Throw 3 of 3,0,0
+214,230,PT04M13.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,28,146,15,Missed,1,0,0,0,v,MISS Afflalo 15' Jump Shot,Missed Shot,Jump Shot,1,0
+215,231,PT04M11.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+216,232,PT04M09.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,7,22,2,Missed,1,0,0,0,v,MISS Hickson 2' Layup,Missed Shot,Layup Shot,1,0
+217,232,PT04M09.00S,2,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams BLOCK (1 BLK),,,1,0
+218,233,PT04M08.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+219,234,PT04M03.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,83,85,12,Missed,1,0,0,0,v,MISS Lawson 12' Jump Shot,Missed Shot,Jump Shot,1,0
+220,235,PT04M02.00S,2,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+221,236,PT03M38.00S,2,1610612755,PHI,203924,Grant,J. Grant,181,179,25,Missed,1,0,0,0,h,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+222,237,PT03M36.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+223,238,PT03M25.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,17,58,6,Missed,1,0,0,0,v,MISS Afflalo 6' Jump Shot,Missed Shot,Jump Shot,1,0
+224,239,PT03M24.00S,2,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+225,240,PT03M15.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+226,241,PT03M15.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,SUB: Nelson FOR Afflalo,Substitution,,0,0
+227,242,PT03M07.00S,2,1610612755,PHI,203457,Noel,N. Noel,0,56,6,Missed,1,0,0,0,h,MISS Noel 6' Jump Shot,Missed Shot,Jump Shot,1,0
+228,243,PT03M05.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+229,244,PT02M59.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,-103,15,10,Made,1,54,37,91,v,Gallinari 10' Jump Shot (6 PTS) (Lawson 9 AST),Made Shot,Jump Shot,1,0
+230,245,PT02M59.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson S.FOUL (P1.T4),Foul,Shooting,1,0
+231,246,PT02M59.00S,2,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,SUB: Drew FOR Noel,Substitution,,0,0
+232,247,PT02M59.00S,2,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Sampson,Substitution,,0,0
+233,248,PT02M59.00S,2,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,SUB: Sims FOR Carter-Williams,Substitution,,0,0
+234,249,PT02M59.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,54,38,92,v,Gallinari Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+235,250,PT02M44.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari P.FOUL (P2.PN),Foul,Personal,1,0
+236,251,PT02M44.00S,2,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,55,38,93,h,Grant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+237,253,PT02M44.00S,2,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,56,38,94,h,Grant Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+238,255,PT02M31.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari Step Out of Bounds Turnover (P2.T6),Turnover,Step Out of Bounds Turnover,1,0
+239,256,PT02M09.00S,2,1610612755,PHI,203924,Grant,J. Grant,29,19,3,Missed,1,0,0,0,h,MISS Grant 3' Jump Shot,Missed Shot,Jump Shot,1,0
+240,257,PT02M07.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+241,258,PT02M01.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,-242,-3,24,Missed,1,0,0,0,v,MISS Gallinari 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+242,258,PT02M01.00S,2,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant BLOCK (2 BLK),,,1,0
+243,259,PT01M59.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+244,260,PT01M55.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur S.FOUL (P1.PN),Foul,Shooting,1,0
+245,261,PT01M55.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,57,38,95,h,McDaniels Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+246,263,PT01M55.00S,2,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,SUB: Foye FOR Gallinari,Substitution,,0,0
+247,264,PT01M55.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,58,38,96,h,McDaniels Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+248,266,PT01M40.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,1,0,Missed,1,0,0,0,v,MISS Hickson  Dunk,Missed Shot,Dunk Shot,1,0
+249,267,PT01M39.00S,2,1610612755,PHI,203580,Drew II,L. Drew II,0,0,0,,0,0,0,0,h,Drew REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+250,268,PT01M36.00S,2,1610612755,PHI,203580,Drew II,L. Drew II,0,0,0,,0,0,0,0,h,Drew Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0
+251,269,PT01M27.00S,2,1610612743,DEN,200751,Foye,R. Foye,0,0,0,,0,0,0,0,v,Foye Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+252,270,PT01M08.00S,2,1610612755,PHI,203138,Thompson,H. Thompson,-218,140,26,Made,1,61,38,99,h,Thompson 26' 3PT Jump Shot (19 PTS) (Sims 2 AST),Made Shot,Jump Shot,1,0
+253,271,PT00M52.90S,2,1610612743,DEN,201589,Arthur,D. Arthur,36,143,15,Made,1,61,40,101,v,Arthur 15' Jump Shot (2 PTS) (Lawson 10 AST),Made Shot,Jump Shot,1,0
+254,272,PT00M37.90S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,-205,131,24,Missed,1,0,0,0,h,MISS McDaniels 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+255,273,PT00M35.80S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+256,274,PT00M33.90S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,15,2,Missed,1,0,0,0,h,MISS McDaniels 2' Layup,Missed Shot,Layup Shot,1,0
+257,275,PT00M32.80S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+258,276,PT00M32.00S,2,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0
+259,278,PT00M23.90S,2,1610612743,DEN,201589,Arthur,D. Arthur,-112,135,18,Missed,1,0,0,0,v,MISS Arthur 18' Jump Shot,Missed Shot,Jump Shot,1,0
+260,279,PT00M21.90S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+261,281,PT00M21.10S,2,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,SUB: Sampson FOR Grant,Substitution,,0,0
+262,283,PT00M00.90S,2,1610612743,DEN,2749,Nelson,J. Nelson,129,55,14,Missed,1,0,0,0,v,MISS Nelson 14' Jump Shot,Missed Shot,Jump Shot,1,0
+263,284,PT00M00.00S,2,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+264,285,PT00M00.00S,2,0,,0,,,0,0,0,,0,61,40,101,,End of 2nd Period (8:09 PM EST),period,end,0,0
+265,286,PT12M00.00S,3,0,,0,,,0,0,0,,0,61,40,101,,Start of 3rd Period (8:25 PM EST),period,start,0,0
+266,287,PT11M50.00S,3,1610612743,DEN,202702,Faried,K. Faried,13,101,10,Missed,1,0,0,0,v,MISS Faried 10' Jump Shot,Missed Shot,Jump Shot,1,0
+267,288,PT11M48.00S,3,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+268,289,PT11M31.00S,3,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,Nurkic S.FOUL (P4.T1),Foul,Shooting,1,0
+269,290,PT11M31.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,MISS Mbah a Moute Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+270,291,PT11M31.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+271,293,PT11M31.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+272,292,PT11M31.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,MISS Mbah a Moute Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+273,295,PT11M29.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+274,296,PT11M16.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,2,52,5,Made,1,61,42,103,v,Chandler 5' Running Jump Shot (11 PTS) (Afflalo 1 AST),Made Shot,Running Jump Shot,1,0
+275,297,PT11M02.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson P.FOUL (P2.T2),Foul,Personal,1,0
+276,298,PT10M50.00S,3,1610612755,PHI,203496,Covington,R. Covington,-224,-2,0,Missed,1,0,0,0,h,MISS Covington  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+277,299,PT10M48.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+278,300,PT10M37.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,-191,165,25,Missed,1,0,0,0,v,MISS Afflalo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+279,301,PT10M35.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+280,302,PT10M29.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,146,146,21,Missed,1,0,0,0,h,MISS Mbah a Moute 21' Jump Shot,Missed Shot,Jump Shot,1,0
+281,303,PT10M27.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+282,305,PT10M21.00S,3,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0,0,0,v,SUB: Arthur FOR Nurkic,Substitution,,0,0
+283,306,PT10M18.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson S.FOUL (P2.T1),Foul,Shooting,1,0
+284,307,PT10M18.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,61,43,104,v,Afflalo Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+285,309,PT10M18.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,61,44,105,v,Afflalo Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+286,310,PT10M09.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler S.FOUL (P1.T3),Foul,Shooting,1,0
+287,311,PT10M09.00S,3,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,MISS Carter-Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+288,312,PT10M09.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+289,313,PT10M09.00S,3,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,62,44,106,h,Carter-Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+290,315,PT09M57.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,190,209,28,Missed,1,0,0,0,v,MISS Chandler 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+291,316,PT09M56.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+292,317,PT09M50.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,-180,170,25,Made,1,65,44,109,h,Sampson 25' 3PT Jump Shot (10 PTS) (Carter-Williams 8 AST),Made Shot,Jump Shot,1,0
+293,318,PT09M36.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,67,6,7,Missed,1,0,0,0,v,MISS Arthur 7' Jump Shot,Missed Shot,Jump Shot,1,0
+294,319,PT09M34.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+295,320,PT09M28.00S,3,1610612755,PHI,203496,Covington,R. Covington,-116,222,25,Made,1,68,44,112,h,Covington 25' 3PT Jump Shot (8 PTS) (Carter-Williams 9 AST),Made Shot,Jump Shot,1,0
+296,321,PT09M12.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,0,222,22,Missed,1,0,0,0,v,MISS Arthur 22' Jump Shot,Missed Shot,Jump Shot,1,0
+297,322,PT09M10.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+298,323,PT09M00.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,125,224,26,Missed,1,0,0,0,h,MISS Mbah a Moute 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+299,324,PT08M59.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+300,325,PT08M39.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,179,175,25,Made,1,68,47,115,v,Chandler 25' 3PT Jump Shot (14 PTS) (Lawson 11 AST),Made Shot,Jump Shot,1,0
+301,326,PT08M39.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,Faried T.FOUL (P3.T3),Foul,Technical,0,0
+302,327,PT08M39.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,MISS Covington Free Throw Technical,Free Throw,Free Throw Technical,0,0
+303,328,PT08M39.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+304,329,PT08M39.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,SUB: Harris FOR Faried,Substitution,,0,0
+305,330,PT08M19.00S,3,1610612755,PHI,203496,Covington,R. Covington,-157,206,26,Missed,1,0,0,0,h,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+306,331,PT08M17.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+307,332,PT08M08.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0
+308,332,PT08M08.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,Sampson STEAL (3 STL),,,1,0
+309,333,PT07M51.00S,3,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,36,11,4,Missed,1,0,0,0,h,MISS Carter-Williams 4' Jump Shot,Missed Shot,Jump Shot,1,0
+310,333,PT07M51.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur BLOCK (1 BLK),,,1,0
+311,334,PT07M49.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+312,335,PT07M43.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,-78,157,18,Made,1,68,49,117,v,Arthur 18' Jump Shot (4 PTS) (Lawson 12 AST),Made Shot,Jump Shot,1,0
+313,336,PT07M27.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur S.FOUL (P2.T4),Foul,Shooting,1,0
+314,337,PT07M27.00S,3,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,MISS Noel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+315,338,PT07M27.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+316,339,PT07M27.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,SUB: Gee FOR Chandler,Substitution,,0,0
+317,340,PT07M27.00S,3,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,69,49,118,h,Noel Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+318,342,PT07M19.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+319,342,PT07M19.00S,3,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams STEAL (1 STL),,,1,0
+320,343,PT07M15.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,Arthur S.FOUL (P3.PN),Foul,Shooting,1,0
+321,344,PT07M15.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,70,49,119,h,Sampson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+322,346,PT07M15.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,MISS Sampson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+323,348,PT07M14.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+324,349,PT07M04.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,-139,0,14,Missed,1,0,0,0,v,MISS Arthur 14' Jump Shot,Missed Shot,Jump Shot,1,0
+325,350,PT07M02.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+326,351,PT06M56.00S,3,1610612755,PHI,203496,Covington,R. Covington,168,187,25,Missed,1,0,0,0,h,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+327,352,PT06M55.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+328,353,PT06M40.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,-229,-16,0,Missed,1,0,0,0,v,MISS Afflalo  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+329,354,PT06M38.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+330,355,PT06M30.00S,3,1610612755,PHI,203457,Noel,N. Noel,21,26,3,Missed,1,0,0,0,h,MISS Noel 3' Jump Shot,Missed Shot,Jump Shot,1,0
+331,357,PT06M28.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+332,356,PT06M28.00S,3,1610612755,PHI,203496,Covington,R. Covington,-7,22,2,Missed,1,0,0,0,h,MISS Covington 2' Layup,Missed Shot,Layup Shot,1,0
+333,358,PT06M27.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+334,359,PT06M09.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,2,172,17,Made,1,70,51,121,v,Arthur 17' Pullup Jump Shot (6 PTS) (Lawson 13 AST),Made Shot,Pullup Jump shot,1,0
+335,360,PT06M08.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+336,361,PT06M08.00S,3,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Mbah a Moute,Substitution,,0,0
+337,362,PT06M08.00S,3,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,SUB: Sims FOR Noel,Substitution,,0,0
+338,363,PT06M08.00S,3,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,SUB: Grant FOR Sampson,Substitution,,0,0
+339,364,PT06M08.00S,3,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,SUB: Faried FOR Arthur,Substitution,,0,0
+340,366,PT05M43.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,-152,-3,15,Made,1,72,51,123,h,Thompson 15' Step Back Jump Shot (21 PTS) (Carter-Williams 10 AST),Made Shot,Step Back Jump shot,1,0
+341,367,PT05M24.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,44,4,Missed,1,0,0,0,v,MISS Faried 4' Jump Shot,Missed Shot,Jump Shot,1,0
+342,367,PT05M24.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington BLOCK (1 BLK),,,1,0
+343,368,PT05M22.00S,3,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+344,369,PT05M14.00S,3,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,-8,3,1,Made,1,74,51,125,h,Carter-Williams 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,0
+345,370,PT04M51.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,-11,172,17,Missed,1,0,0,0,v,MISS Afflalo 17' Jump Shot,Missed Shot,Jump Shot,1,0
+346,371,PT04M49.00S,3,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+347,372,PT04M37.00S,3,1610612755,PHI,203496,Covington,R. Covington,-2,19,2,Made,1,76,51,127,h,Covington 2' Layup (10 PTS) (Carter-Williams 11 AST),Made Shot,Layup Shot,1,0
+348,373,PT04M18.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington S.FOUL (P4.T2),Foul,Shooting,1,0
+349,374,PT04M18.00S,3,1610612743,DEN,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,MISS Gee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+350,375,PT04M18.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+351,376,PT04M18.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,SUB: Nelson FOR Afflalo,Substitution,,0,0
+352,377,PT04M18.00S,3,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,SUB: Drew FOR Carter-Williams,Substitution,,0,0
+353,378,PT04M18.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Covington,Substitution,,0,0
+354,379,PT04M18.00S,3,1610612743,DEN,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,MISS Gee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+355,381,PT04M17.00S,3,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+356,382,PT03M55.00S,3,1610612755,PHI,203580,Drew II,L. Drew II,-231,-14,0,Made,1,79,51,130,h,Drew  3PT Jump Shot (7 PTS) (Thompson 3 AST),Made Shot,Jump Shot,1,0
+357,383,PT03M32.00S,3,1610612743,DEN,203914,Harris,G. Harris,-207,145,25,Made,1,79,54,133,v,Harris 25' 3PT Jump Shot (3 PTS) (Nelson 2 AST),Made Shot,Jump Shot,1,0
+358,384,PT03M31.00S,3,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0
+359,384,PT03M31.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson STEAL (2 STL),,,1,0
+360,385,PT03M29.00S,3,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims S.FOUL (P1.T3),Foul,Shooting,1,0
+361,386,PT03M29.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,MISS Lawson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+362,387,PT03M29.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+363,388,PT03M29.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,79,55,134,v,Lawson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+364,391,PT03M13.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,SUB: Gallinari FOR Lawson,Substitution,,0,0
+365,392,PT03M11.00S,3,1610612755,PHI,203138,Thompson,H. Thompson,207,-13,21,Made,1,81,55,136,h,Thompson 21' Jump Shot (23 PTS) (Drew 4 AST),Made Shot,Jump Shot,1,0
+366,394,PT02M46.00S,3,1610612743,DEN,2749,Nelson,J. Nelson,-67,183,19,Made,1,81,57,138,v,Nelson 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+367,395,PT02M28.00S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari P.FOUL (P3.PN),Foul,Personal,1,0
+368,396,PT02M28.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+369,397,PT02M28.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0,0,0,v,SUB: Hickson FOR Faried,Substitution,,0,0
+370,398,PT02M28.00S,3,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,82,57,139,h,Grant Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+371,400,PT02M28.00S,3,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,83,57,140,h,Grant Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+372,402,PT02M18.00S,3,1610612755,PHI,203580,Drew II,L. Drew II,0,0,0,,0,0,0,0,h,Drew P.FOUL (P2.T4),Foul,Personal,1,0
+373,403,PT02M11.00S,3,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,Grant P.FOUL (P3.PN),Foul,Personal,1,0
+374,404,PT02M11.00S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,83,58,141,v,Gallinari Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+375,405,PT02M11.00S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,83,59,142,v,Gallinari Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+376,407,PT01M50.00S,3,1610612755,PHI,203909,McDaniels,K. McDaniels,15,170,17,Made,1,85,59,144,h,McDaniels 17' Pullup Jump Shot (11 PTS) (Drew 5 AST),Made Shot,Pullup Jump shot,1,0
+377,409,PT01M31.00S,3,1610612743,DEN,203914,Harris,G. Harris,-215,-3,22,Made,1,85,61,146,v,Harris 22' Jump Shot (5 PTS) (Gee 1 AST),Made Shot,Jump Shot,1,0
+378,410,PT01M06.00S,3,1610612755,PHI,203156,Sims,H. Sims,163,33,17,Missed,1,0,0,0,h,MISS Sims 17' Jump Shot,Missed Shot,Jump Shot,1,0
+379,411,PT01M05.00S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+380,412,PT00M59.90S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,9,22,2,Missed,1,0,0,0,v,MISS Gallinari 2' Layup,Missed Shot,Layup Shot,1,0
+381,412,PT00M59.90S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson BLOCK (1 BLK),,,1,0
+382,413,PT00M58.90S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+383,414,PT00M58.80S,3,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson S.FOUL (P1.PN),Foul,Shooting,1,0
+384,415,PT00M58.80S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,85,62,147,v,Gallinari Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+385,417,PT00M58.80S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,85,63,148,v,Gallinari Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+386,419,PT00M42.90S,3,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0
+387,419,PT00M42.90S,3,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson STEAL (1 STL),,,1,0
+388,420,PT00M34.10S,3,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,Sims P.FOUL (P2.PN),Foul,Personal,1,0
+389,421,PT00M34.10S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,85,64,149,v,Gallinari Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+390,423,PT00M34.10S,3,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,85,65,150,v,Gallinari Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+391,425,PT00M24.90S,3,1610612755,PHI,203138,Thompson,H. Thompson,-2,252,25,Missed,1,0,0,0,h,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+392,426,PT00M23.50S,3,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+393,427,PT00M03.80S,3,1610612743,DEN,2749,Nelson,J. Nelson,-54,235,24,Made,1,85,68,153,v,Nelson 24' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+394,428,PT00M01.00S,3,1610612755,PHI,203580,Drew II,L. Drew II,-212,377,43,Missed,1,0,0,0,h,MISS Drew 43' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+395,429,PT00M00.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+396,430,PT00M00.00S,3,0,,0,,,0,0,0,,0,85,68,153,,End of 3rd Period (8:53 PM EST),period,end,0,0
+397,432,PT12M00.00S,4,0,,0,,,0,0,0,,0,85,68,153,,Start of 4th Period (8:56 PM EST),period,start,0,0
+398,433,PT11M37.00S,4,1610612755,PHI,203580,Drew II,L. Drew II,18,219,22,Missed,1,0,0,0,h,MISS Drew 22' Jump Shot,Missed Shot,Jump Shot,1,0
+399,434,PT11M36.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+400,435,PT11M36.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,0
+401,436,PT11M22.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson S.FOUL (P2.T1),Foul,Shooting,1,0
+402,437,PT11M22.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,85,69,154,v,Harris Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+403,439,PT11M22.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,85,70,155,v,Harris Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+404,441,PT10M58.00S,4,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,McDaniels Lost Ball Turnover (P3.T15),Turnover,Lost Ball,1,0
+405,441,PT10M58.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson STEAL (2 STL),,,1,0
+406,442,PT10M45.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,9,250,25,Made,1,85,73,158,v,Nelson 25' 3PT Jump Shot (8 PTS) (Gee 2 AST),Made Shot,Jump Shot,1,0
+407,443,PT10M44.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+408,444,PT10M44.00S,4,1610612755,PHI,203580,Drew II,L. Drew II,0,0,0,,0,0,0,0,h,SUB: Carter-Williams FOR Drew,Substitution,,0,0
+409,445,PT10M44.00S,4,1610612755,PHI,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,h,SUB: Covington FOR McDaniels,Substitution,,0,0
+410,446,PT10M41.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0
+411,446,PT10M41.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson STEAL (3 STL),,,1,0
+412,447,PT10M35.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,1,0,Made,1,85,75,160,v,Hickson  Dunk (3 PTS) (Nelson 3 AST),Made Shot,Dunk Shot,1,0
+413,448,PT10M26.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,-11,15,2,Made,1,87,75,162,h,Mbah a Moute 2' Layup (4 PTS) (Noel 1 AST),Made Shot,Layup Shot,1,0
+414,449,PT10M10.00S,4,1610612743,DEN,202087,Gee,A. Gee,7,15,2,Made,1,87,77,164,v,Gee 2' Driving Reverse Layup (2 PTS) (Nelson 4 AST),Made Shot,Driving Reverse Layup Shot,1,0
+415,451,PT09M49.00S,4,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Jump Ball Noel vs. Nelson: Tip to Covington,Jump Ball,,1,0
+416,452,PT09M44.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,162,206,26,Made,1,90,77,167,h,Carter-Williams 26' 3PT Jump Shot (11 PTS) (Covington 1 AST),Made Shot,Jump Shot,1,0
+417,453,PT09M34.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,20,11,2,Made,1,90,79,169,v,Nelson 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+418,455,PT09M16.00S,4,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel Lost Ball Turnover (P2.T17),Turnover,Lost Ball,1,0
+419,455,PT09M16.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris STEAL (1 STL),,,1,0
+420,456,PT09M13.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute S.FOUL (P2.T2),Foul,Shooting,1,0
+421,457,PT09M13.00S,4,1610612743,DEN,202087,Gee,A. Gee,0,0,0,,0,90,80,170,v,Gee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+422,459,PT09M13.00S,4,1610612743,DEN,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,MISS Gee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+423,461,PT09M12.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+424,462,PT08M52.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,168,183,25,Missed,1,0,0,0,h,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+425,464,PT08M49.00S,4,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+426,463,PT08M49.00S,4,1610612755,PHI,203457,Noel,N. Noel,-5,4,1,Made,1,92,80,172,h,Noel 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,0
+427,465,PT08M34.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,32,34,5,Made,1,92,82,174,v,Hickson 5' Turnaround Jump Shot (5 PTS) (Gallinari 1 AST),Made Shot,Turnaround Jump Shot,1,0
+428,466,PT08M11.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,-142,213,26,Missed,1,0,0,0,h,MISS Carter-Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+429,467,PT08M09.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+430,468,PT08M09.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson S.FOUL (P1.T1),Foul,Shooting,1,0
+431,469,PT08M09.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,93,82,175,h,Covington Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+432,471,PT08M09.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,94,82,176,h,Covington Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+433,473,PT08M01.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0
+434,473,PT08M01.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams STEAL (2 STL),,,1,0
+435,474,PT07M58.00S,4,1610612755,PHI,203496,Covington,R. Covington,-8,22,2,Made,1,96,82,178,h,Covington 2' Layup (14 PTS) (Carter-Williams 12 AST),Made Shot,Layup Shot,1,0
+436,475,PT07M58.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari S.FOUL (P4.T2),Foul,Shooting,1,0
+437,476,PT07M58.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,97,82,179,h,Covington Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+438,477,PT07M44.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0
+439,477,PT07M44.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington STEAL (1 STL),,,1,0
+440,478,PT07M38.00S,4,1610612755,PHI,203496,Covington,R. Covington,-8,56,6,Missed,1,0,0,0,h,MISS Covington 6' Jump Shot,Missed Shot,Jump Shot,1,0
+441,479,PT07M36.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+442,480,PT07M29.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,6,244,24,Missed,1,0,0,0,v,MISS Gallinari 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+443,481,PT07M28.00S,4,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+444,483,PT07M08.00S,4,1610612743,DEN,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,SUB: Lawson FOR Gee,Substitution,,0,0
+445,484,PT07M08.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,SUB: Afflalo FOR Nelson,Substitution,,0,0
+446,485,PT07M08.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Harris,Substitution,,0,0
+447,486,PT07M08.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+448,487,PT07M08.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,SUB: Arthur FOR Hickson,Substitution,,0,0
+449,488,PT07M06.00S,4,1610612755,PHI,203496,Covington,R. Covington,-164,123,21,Missed,1,0,0,0,h,MISS Covington 21' Jump Shot,Missed Shot,Jump Shot,1,0
+450,489,PT07M04.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+451,490,PT06M51.00S,4,1610612743,DEN,201951,Lawson,T. Lawson,-11,25,3,Missed,1,0,0,0,v,MISS Lawson 3' Layup,Missed Shot,Layup Shot,1,0
+452,490,PT06M51.00S,4,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel BLOCK (2 BLK),,,1,0
+453,491,PT06M49.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+454,492,PT06M30.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,48,26,5,Missed,1,0,0,0,h,MISS Carter-Williams 5' Jump Shot,Missed Shot,Jump Shot,1,0
+455,493,PT06M28.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+456,494,PT06M22.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington P.FOUL (P5.T3),Foul,Personal,1,0
+457,495,PT06M07.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0
+458,495,PT06M07.00S,4,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel STEAL (1 STL),,,1,0
+459,496,PT06M03.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson Poss Lost Ball Turnover (P1.T18),Turnover,Poss Lost Ball Turnover,1,0
+460,497,PT05M48.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,13,72,7,Missed,1,0,0,0,v,MISS Chandler 7' Jump Shot,Missed Shot,Jump Shot,1,0
+461,498,PT05M46.00S,4,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,Noel REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+462,499,PT05M38.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo P.FOUL (P3.T3),Foul,Personal,1,0
+463,500,PT05M29.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,-152,102,18,Made,1,99,82,181,h,Carter-Williams 18' Pullup Jump Shot (13 PTS) (Covington 2 AST),Made Shot,Pullup Jump shot,1,0
+464,502,PT05M10.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson S.FOUL (P3.T4),Foul,Shooting,1,0
+465,503,PT05M10.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,99,83,182,v,Gallinari Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+466,505,PT05M10.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,99,84,183,v,Gallinari Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+467,507,PT04M57.00S,4,1610612755,PHI,203496,Covington,R. Covington,206,157,26,Missed,1,0,0,0,h,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+468,508,PT04M56.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+469,510,PT04M41.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,v,SUB: Harris FOR Arthur,Substitution,,0,0
+470,512,PT04M34.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,34,249,25,Made,1,99,87,186,v,Gallinari 25' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,0
+471,515,PT04M21.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington Bad Pass Turnover (P3.T19),Turnover,Bad Pass,1,0
+472,517,PT04M09.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,1,9,1,Made,1,99,89,188,v,Chandler 1' Layup (16 PTS) (Harris 1 AST),Made Shot,Layup Shot,1,0
+473,519,PT03M44.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams Lost Ball Turnover (P3.T20),Turnover,Lost Ball,1,0
+474,519,PT03M44.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari STEAL (1 STL),,,1,0
+475,520,PT03M37.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0
+476,520,PT03M37.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute STEAL (1 STL),,,1,0
+477,521,PT03M26.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris P.FOUL (P1.T4),Foul,Personal,1,0
+478,522,PT03M26.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+479,523,PT03M26.00S,4,1610612755,PHI,203457,Noel,N. Noel,0,0,0,,0,0,0,0,h,SUB: Grant FOR Noel,Substitution,,0,0
+480,524,PT03M19.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,201,47,21,Missed,1,0,0,0,h,MISS Thompson 21' Jump Shot,Missed Shot,Jump Shot,1,0
+481,525,PT03M18.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Unknown,0,0
+482,527,PT03M01.00S,4,1610612755,PHI,203924,Grant,J. Grant,-127,231,26,Missed,1,0,0,0,h,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+483,528,PT03M00.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+484,529,PT02M52.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,Afflalo Lost Ball Turnover (P4.T14),Turnover,Lost Ball,1,0
+485,529,PT02M52.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington STEAL (2 STL),,,1,0
+486,530,PT02M49.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari FLAGRANT.FOUL.TYPE1 (P5.PN),Foul,Flagrant Type 1,1,0
+487,531,PT02M49.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,v,SUB: Nelson FOR Afflalo,Substitution,,0,0
+488,532,PT02M49.00S,4,0,,530,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+489,533,PT02M49.00S,4,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,100,89,189,h,Grant Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0
+490,535,PT02M49.00S,4,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,101,89,190,h,Grant Free Throw Flagrant 2 of 2 (6 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0
+491,537,PT02M38.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,-93,173,20,Missed,1,0,0,0,h,MISS Carter-Williams 20' Jump Shot,Missed Shot,Jump Shot,1,0
+492,538,PT02M37.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+493,539,PT02M28.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,143,201,25,Missed,1,0,0,0,v,MISS Nelson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+494,540,PT02M26.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,Covington REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+495,541,PT02M06.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,-78,257,27,Missed,1,0,0,0,h,MISS Carter-Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+496,542,PT02M05.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,0,0,0,,0,0,0,0,v,Gallinari REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+497,543,PT01M58.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,-2,14,1,Made,1,101,91,192,v,Gallinari 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,0
+498,544,PT01M51.00S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,-24,44,5,Missed,1,0,0,0,h,MISS Carter-Williams 5' Jump Shot,Missed Shot,Jump Shot,1,0
+499,545,PT01M49.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+500,546,PT01M44.00S,4,1610612743,DEN,203914,Harris,G. Harris,99,7,10,Missed,1,0,0,0,v,MISS Harris 10' Jump Shot,Missed Shot,Jump Shot,1,0
+501,546,PT01M44.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,Thompson BLOCK (2 BLK),,,1,0
+502,547,PT01M44.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+503,548,PT01M44.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0
+504,549,PT01M42.00S,4,1610612743,DEN,201568,Gallinari,D. Gallinari,166,-8,17,Made,1,101,93,194,v,Gallinari 17' Fadeaway Jumper (22 PTS) (Chandler 1 AST),Made Shot,Fadeaway Jump Shot,1,0
+505,550,PT01M25.00S,4,1610612755,PHI,203138,Thompson,H. Thompson,-207,-2,21,Missed,1,0,0,0,h,MISS Thompson 21' Jump Shot,Missed Shot,Jump Shot,1,0
+506,551,PT01M23.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+507,552,PT01M22.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+508,554,PT01M18.00S,4,1610612743,DEN,2749,Nelson,J. Nelson,20,235,24,Missed,1,0,0,0,v,MISS Nelson 24' Jump Shot,Missed Shot,Jump Shot,1,0
+509,555,PT01M15.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+510,556,PT01M05.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,182,190,26,Missed,1,0,0,0,v,MISS Chandler 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+511,557,PT01M03.00S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+512,558,PT00M55.20S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams Bad Pass Turnover (P4.T21),Turnover,Bad Pass,1,0
+513,558,PT00M55.20S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson STEAL (4 STL),,,1,0
+514,559,PT00M46.90S,4,1610612743,DEN,2749,Nelson,J. Nelson,34,11,4,Missed,1,0,0,0,v,MISS Nelson 4' Jump Shot,Missed Shot,Jump Shot,1,0
+515,560,PT00M44.90S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+516,561,PT00M30.90S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson P.FOUL (P2.PN),Foul,Personal,1,0
+517,562,PT00M30.90S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,MISS Carter-Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+518,564,PT00M30.90S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+519,565,PT00M30.90S,4,1610612743,DEN,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,SUB: Gee FOR Nelson,Substitution,,0,0
+520,566,PT00M30.90S,4,1610612755,PHI,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Sampson FOR Mbah a Moute,Substitution,,0,0
+521,567,PT00M30.90S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,MISS Carter-Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+522,569,PT00M30.80S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+523,570,PT00M25.90S,4,1610612743,DEN,201951,Lawson,T. Lawson,7,11,1,Made,1,101,95,196,v,Lawson 1' Driving Layup (5 PTS) (Chandler 2 AST),Made Shot,Driving Layup Shot,1,0
+524,571,PT00M25.50S,4,0,,1610612755,,,0,0,0,,0,0,0,0,h,76ERS Timeout: Regular (Full 6 Short 1),Timeout,Regular,0,0
+525,572,PT00M25.50S,4,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0,0,0,h,SUB: Sims FOR Grant,Substitution,,0,0
+526,573,PT00M25.50S,4,1610612755,PHI,203960,Sampson,J. Sampson,0,0,0,,0,0,0,0,h,SUB: Drew FOR Sampson,Substitution,,0,0
+527,574,PT00M23.10S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,0,0,0,v,Harris P.FOUL (P2.PN),Foul,Personal,1,0
+528,575,PT00M23.10S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,102,95,197,h,Covington Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0
+529,577,PT00M23.10S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,103,95,198,h,Covington Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0
+530,579,PT00M23.10S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Short (Reg.5 Short 2),Timeout,Short,0,0
+531,581,PT00M23.10S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,0,0,0,h,SUB: Sampson FOR Covington,Substitution,,0,0
+532,582,PT00M23.10S,4,1610612755,PHI,203138,Thompson,H. Thompson,0,0,0,,0,0,0,0,h,SUB: Grant FOR Thompson,Substitution,,0,0
+533,583,PT00M23.10S,4,1610612755,PHI,203156,Sims,H. Sims,0,0,0,,0,0,0,0,h,SUB: McDaniels FOR Sims,Substitution,,0,0
+534,584,PT00M23.10S,4,1610612755,PHI,203580,Drew II,L. Drew II,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Drew,Substitution,,0,0
+535,585,PT00M12.90S,4,1610612743,DEN,201163,Chandler,W. Chandler,159,227,28,Made,1,103,98,201,v,Chandler 28' 3PT Jump Shot (19 PTS) (Lawson 14 AST),Made Shot,Jump Shot,1,0
+536,586,PT00M11.10S,4,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,v,Lawson P.FOUL (P3.PN),Foul,Personal,1,0
+537,587,PT00M11.10S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,104,98,202,h,Carter-Williams Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0
+538,589,PT00M11.10S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,105,98,203,h,Carter-Williams Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0
+539,591,PT00M05.90S,4,1610612743,DEN,203914,Harris,G. Harris,179,217,28,Missed,1,0,0,0,v,MISS Harris 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+540,592,PT00M03.90S,4,1610612755,PHI,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,0,0,0,h,Carter-Williams REBOUND (Off:0 Def:8),Rebound,Unknown,1,0
+541,593,PT00M00.00S,4,0,,0,,,0,0,0,,0,105,98,203,,End of 4th Period (9:37 PM EST),period,end,0,0

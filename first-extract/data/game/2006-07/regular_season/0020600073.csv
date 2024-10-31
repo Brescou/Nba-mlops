@@ -1,0 +1,502 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:17 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Jump Ball Dalembert vs. Camby: Tip to Iverson,Jump Ball,,0,0
+3,2,PT11M51.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+4,2,PT11M51.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby STEAL (1 STL),,,0,0
+5,3,PT11M43.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Made,1,0,2,2,v,Najera Layup (2 PTS) (Anthony 1 AST),Made Shot,Layup Shot,0,0
+6,4,PT11M19.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber Backcourt Turnover (P1.T2),Turnover,Backcourt Turnover,0,0
+7,5,PT11M19.00S,1,1610612743,DEN,948,Camby,M. Camby,148,130,20,Missed,1,,,0,v,MISS Camby 20' Jump Shot,Missed Shot,Jump Shot,0,0
+8,6,PT11M18.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+9,7,PT11M01.00S,1,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0
+10,8,PT10M29.00S,1,1610612743,DEN,1889,Miller,A. Miller,-10,148,15,Made,1,0,4,4,v,Miller 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+11,9,PT10M04.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+12,9,PT10M04.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby STEAL (2 STL),,,0,0
+13,10,PT09M57.00S,1,1610612743,DEN,2747,Smith,J. Smith,-120,31,12,Missed,1,,,0,v,MISS JR. Smith 12' Jump Shot,Missed Shot,Jump Shot,0,0
+14,11,PT09M56.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+15,12,PT09M52.00S,1,1610612755,PHI,947,Iverson,A. Iverson,123,81,15,Missed,1,,,0,h,MISS Iverson 15' Jump Shot,Missed Shot,Jump Shot,0,0
+16,13,PT09M51.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+17,14,PT09M44.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller Palming Turnover (P1.T1),Turnover,Palming Turnover,0,0
+18,15,PT09M35.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,115,81,14,Made,1,2,4,6,h,Dalembert 14' Jump Shot (2 PTS) (Ollie 1 AST),Made Shot,Jump Shot,0,0
+19,16,PT09M21.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,,,0,v,MISS Anthony Layup,Missed Shot,Layup Shot,0,0
+20,18,PT09M19.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+21,17,PT09M19.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,,,0,v,MISS Camby Tip Shot,Missed Shot,Tip Shot,0,0
+22,20,PT09M18.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+23,19,PT09M18.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Made,1,2,6,8,v,Najera Tip Shot (4 PTS),Made Shot,Tip Shot,0,0
+24,21,PT09M03.00S,1,1610612755,PHI,185,Webber,C. Webber,43,48,6,Missed,1,,,0,h,MISS Webber 6' Hook Shot,Missed Shot,Hook Shot,0,0
+25,22,PT09M02.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+26,23,PT08M52.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,128,-11,13,Missed,1,,,0,v,MISS Anthony 13' Jump Shot,Missed Shot,Jump Shot,0,0
+27,24,PT08M51.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+28,25,PT08M46.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0
+29,25,PT08M46.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller STEAL (1 STL),,,0,0
+30,26,PT08M43.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,2,8,10,v,Anthony Driving Layup (2 PTS) (Miller 1 AST),Made Shot,Driving Layup Shot,0,0
+31,27,PT08M31.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Short (Full 0 Short 1),Timeout,Short,0,0
+32,28,PT08M23.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-141,104,18,Made,1,4,8,12,h,Iverson 18' Jump Shot (2 PTS) (Ollie 2 AST),Made Shot,Jump Shot,0,0
+33,29,PT08M08.00S,1,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie P.FOUL (P1.T1),Foul,Personal,0,0
+34,30,PT08M08.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,-84,84,12,Missed,1,,,0,v,MISS Anthony 12' Jump Shot,Missed Shot,Jump Shot,0,0
+35,31,PT08M07.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+36,32,PT08M01.00S,1,1610612755,PHI,185,Webber,C. Webber,159,94,18,Made,1,6,8,14,h,Webber 18' Jump Shot (2 PTS) (Iguodala 1 AST),Made Shot,Jump Shot,0,0
+37,33,PT07M53.00S,1,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,,,0,v,JR. Smith Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+38,33,PT07M53.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber STEAL (1 STL),,,0,0
+39,34,PT07M47.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,Made,1,8,8,16,h,Webber Finger Roll (4 PTS) (Iguodala 2 AST),Made Shot,Finger Roll Shot,0,0
+40,35,PT07M47.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller S.FOUL (P1.T1),Foul,Shooting,0,0
+41,36,PT07M47.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,MISS Webber Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+42,37,PT07M47.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+43,38,PT07M47.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+44,39,PT06M56.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,10,8,18,h,Dalembert Slam Dunk (4 PTS) (Iverson 1 AST),Made Shot,Slam Dunk Shot,0,0
+45,40,PT06M38.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,-33,117,12,Missed,1,,,0,v,MISS Anthony 12' Jump Shot,Missed Shot,Jump Shot,0,0
+46,42,PT06M37.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+47,41,PT06M37.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Missed,1,,,0,v,MISS Najera Layup,Missed Shot,Layup Shot,0,0
+48,43,PT06M35.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+49,44,PT06M26.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera S.FOUL (P1.T2),Foul,Shooting,0,0
+50,45,PT06M26.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,11,8,19,h,Dalembert Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+51,46,PT06M26.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,MISS Dalembert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+52,47,PT06M26.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+53,48,PT06M26.00S,1,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie P.FOUL (P2.T2),Foul,Personal,0,0
+54,49,PT06M14.00S,1,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: Green FOR Ollie,Substitution,,0,0
+55,50,PT06M14.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Made,1,11,10,21,v,Miller Layup (4 PTS) (Camby 1 AST),Made Shot,Layup Shot,0,0
+56,51,PT05M49.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson Step Out of Bounds Turnover (P2.T6),Turnover,Step Out of Bounds Turnover,0,0
+57,52,PT05M49.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 1 Short 1),Timeout,Regular,0,0
+58,53,PT05M35.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Missed,1,,,0,v,MISS Miller Layup,Missed Shot,Layup Shot,0,0
+59,53,PT05M35.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert BLOCK (1 BLK),,,0,0
+60,54,PT05M33.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+61,55,PT05M30.00S,1,1610612743,DEN,2747,Smith,J. Smith,0,0,0,Made,1,11,12,23,v,JR. Smith Driving Layup (2 PTS) (Camby 2 AST),Made Shot,Driving Layup Shot,0,0
+62,56,PT05M05.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-172,186,25,Missed,1,,,0,h,MISS Iverson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+63,57,PT05M04.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+64,58,PT05M01.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,11,14,25,v,Anthony Alley Oop Dunk (4 PTS) (JR. Smith 1 AST),Made Shot,Alley Oop Dunk Shot,0,0
+65,59,PT04M47.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Missed,1,,,0,h,MISS Iverson Layup,Missed Shot,Layup Shot,0,0
+66,59,PT04M47.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby BLOCK (1 BLK),,,0,0
+67,60,PT04M43.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+68,61,PT04M38.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Missed,1,,,0,v,MISS Miller Layup,Missed Shot,Layup Shot,0,0
+69,61,PT04M38.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert BLOCK (2 BLK),,,0,0
+70,62,PT04M37.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+71,63,PT04M30.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-149,-31,15,Made,1,13,14,27,h,Iverson 15' Fadeaway Jumper (4 PTS) (Iguodala 3 AST),Made Shot,Fadeaway Jump Shot,0,0
+72,64,PT04M21.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Made,1,13,16,29,v,Miller Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+73,65,PT04M21.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert S.FOUL (P1.T3),Foul,Shooting,0,0
+74,66,PT04M21.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,SUB: Nene FOR Najera,Substitution,,0,0
+75,67,PT04M21.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,13,17,30,v,Miller Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+76,68,PT04M14.00S,1,1610612755,PHI,2584,Green,W. Green,-3,86,9,Made,1,15,17,32,h,Green 9' Jump Shot (2 PTS) (Iverson 2 AST),Made Shot,Jump Shot,0,0
+77,69,PT04M02.00S,1,1610612743,DEN,2747,Smith,J. Smith,204,187,28,Missed,1,,,0,v,MISS JR. Smith 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+78,70,PT04M00.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+79,71,PT03M52.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-215,118,25,Missed,1,,,0,h,MISS Iverson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+80,72,PT03M50.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+81,73,PT03M43.00S,1,1610612755,PHI,2584,Green,W. Green,-94,238,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+82,74,PT03M41.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+83,75,PT03M32.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert S.FOUL (P2.T4),Foul,Shooting,0,0
+84,76,PT03M32.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,SUB: Hunter FOR Dalembert,Substitution,,0,0
+85,77,PT03M32.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,MISS Anthony Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+86,78,PT03M32.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+87,79,PT03M32.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,15,18,33,v,Anthony Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+88,80,PT03M16.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0
+89,80,PT03M16.00S,1,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,,,0,v,JR. Smith STEAL (1 STL),,,0,0
+90,81,PT03M13.00S,1,1610612743,DEN,2747,Smith,J. Smith,0,0,0,Made,1,15,20,35,v,JR. Smith Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,0,0
+91,82,PT02M57.00S,1,1610612755,PHI,185,Webber,C. Webber,10,184,18,Made,1,17,20,37,h,Webber 18' Jump Shot (6 PTS) (Iverson 3 AST),Made Shot,Jump Shot,0,0
+92,83,PT02M45.00S,1,1610612743,DEN,2747,Smith,J. Smith,117,238,27,Made,1,17,23,40,v,JR. Smith 27' 3PT Jump Shot (7 PTS) (Nene 1 AST),Made Shot,Jump Shot,0,0
+93,84,PT02M31.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,Made,1,19,23,42,h,Hunter Slam Dunk (2 PTS) (Iguodala 4 AST),Made Shot,Slam Dunk Shot,0,0
+94,85,PT02M15.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0
+95,86,PT02M15.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+96,88,PT02M15.00S,1,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: Johnson FOR JR. Smith,Substitution,,0,0
+97,89,PT02M15.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,SUB: Korver FOR Webber,Substitution,,0,0
+98,90,PT02M06.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0
+99,90,PT02M06.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony STEAL (1 STL),,,0,0
+100,91,PT02M01.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,19,25,44,v,Anthony Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,0
+101,92,PT01M44.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony P.FOUL (P1.T3),Foul,Personal,0,0
+102,93,PT01M44.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,SUB: Boykins FOR Miller,Substitution,,0,0
+103,94,PT01M41.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,-227,40,0,Made,1,22,25,47,h,Iguodala 3PT Jump Shot (3 PTS) (Hunter 1 AST),Made Shot,Jump Shot,0,0
+104,95,PT01M23.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,,,0,v,MISS Nene Layup,Missed Shot,Layup Shot,0,0
+105,96,PT01M22.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+106,97,PT01M17.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+107,98,PT01M05.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,,,0,v,MISS Camby Layup,Missed Shot,Layup Shot,0,0
+108,99,PT01M05.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+109,100,PT01M05.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony L.B.FOUL (P2.PN),Foul,Loose Ball,0,0
+110,101,PT01M05.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,SUB: Miller FOR Anthony,Substitution,,0,0
+111,102,PT01M05.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,MISS Hunter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+112,103,PT01M05.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+113,104,PT01M05.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,23,25,48,h,Hunter Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+114,105,PT00M49.90S,1,1610612743,DEN,2035,Johnson,D. Johnson,240,-11,24,Made,1,23,28,51,v,Johnson 24' 3PT Jump Shot (3 PTS) (Miller 2 AST),Made Shot,Jump Shot,0,0
+115,106,PT00M34.90S,1,1610612755,PHI,2584,Green,W. Green,-212,161,27,Missed,1,,,0,h,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+116,107,PT00M32.60S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+117,108,PT00M30.90S,1,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green OFF.Foul (P1),Foul,Offensive,0,0
+118,109,PT00M30.90S,1,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green Foul Turnover (P1.T10),Turnover,Foul,0,0
+119,110,PT00M30.90S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,SUB: Kleiza FOR Camby,Substitution,,0,0
+120,111,PT00M11.90S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Made,1,23,30,53,v,Miller Layup (9 PTS) (Nene 2 AST),Made Shot,Layup Shot,0,0
+121,112,PT00M02.90S,1,1610612755,PHI,947,Iverson,A. Iverson,-123,99,16,Missed,1,,,0,h,MISS Iverson 16' Jump Shot,Missed Shot,Jump Shot,0,0
+122,113,PT00M00.70S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+123,114,PT00M00.40S,1,1610612743,DEN,1889,Miller,A. Miller,-103,761,77,Missed,1,,,0,v,MISS Miller 77' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+124,115,PT00M00.10S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+125,116,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,30,53,,End of 1st Period (7:43 PM EST),period,end,0,0
+126,118,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,30,53,,Start of 2nd Period (7:45 PM EST),period,start,0,0
+127,119,PT11M46.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,,,0,v,Nene 3 Second Violation Turnover (P1.T5),Turnover,3 Second Violation,0,0
+128,120,PT11M32.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,,,0,v,Nene S.FOUL (P1.T1),Foul,Shooting,0,0
+129,121,PT11M32.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,24,30,54,h,Korver Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+130,122,PT11M32.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: Webber FOR Iguodala,Substitution,,0,0
+131,123,PT11M32.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,25,30,55,h,Korver Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+132,124,PT11M14.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,66,33,7,Missed,1,,,0,v,MISS Boykins 7' Jump Shot,Missed Shot,Jump Shot,0,0
+133,125,PT11M13.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,Hunter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+134,126,PT11M02.00S,2,1610612755,PHI,2594,Korver,K. Korver,-176,-29,18,Made,1,27,30,57,h,Korver 18' Jump Shot (4 PTS) (Green 1 AST),Made Shot,Jump Shot,0,0
+135,127,PT10M55.00S,2,1610612743,DEN,2035,Johnson,D. Johnson,-212,158,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+136,128,PT10M52.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,Hunter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+137,129,PT10M37.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,265,27,Missed,1,,,0,h,MISS Korver 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+138,130,PT10M36.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+139,131,PT10M36.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,Hunter L.B.FOUL (P1.T1),Foul,Loose Ball,0,0
+140,132,PT10M36.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,Hunter T.FOUL (P1.T1),Foul,Technical,0,0
+141,133,PT10M36.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,SUB: Evans FOR Miller,Substitution,,0,0
+142,134,PT10M36.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,27,31,58,v,Boykins Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+143,135,PT10M29.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,,,0,v,Kleiza Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0
+144,136,PT10M13.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,,,0,v,Kleiza P.FOUL (P1.T2),Foul,Personal,0,0
+145,137,PT10M12.00S,2,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0
+146,137,PT10M12.00S,2,1610612743,DEN,2035,Johnson,D. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (1 STL),,,0,0
+147,138,PT10M12.00S,2,1610612743,DEN,2035,Johnson,D. Johnson,0,0,0,,0,,,0,v,Johnson Palming Turnover (P1.T7),Turnover,Palming Turnover,0,0
+148,139,PT10M05.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,,,0,v,Nuggets T.Foul (Def. 3 Sec Nene ),Foul,Defense 3 Second,0,0
+149,140,PT10M05.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,28,31,59,h,Korver Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+150,141,PT09M56.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,,,0,v,Nuggets T.Foul (Def. 3 Sec Kleiza ),Foul,Defense 3 Second,0,0
+151,142,PT09M56.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,MISS Korver Free Throw Technical,Free Throw,Free Throw Technical,0,0
+152,143,PT09M56.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+153,144,PT09M51.00S,2,1610612743,DEN,2035,Johnson,D. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.T3),Foul,Shooting,0,0
+154,145,PT09M51.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,29,31,60,h,Iverson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+155,146,PT09M51.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,SUB: Dalembert FOR Hunter,Substitution,,0,0
+156,147,PT09M51.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,30,31,61,h,Iverson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+157,148,PT09M43.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,13,247,25,Missed,1,,,0,v,MISS Boykins 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+158,149,PT09M41.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,,,0,v,Nene REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+159,150,PT09M38.00S,2,1610612743,DEN,2035,Johnson,D. Johnson,156,227,28,Missed,1,,,0,v,MISS Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+160,151,PT09M36.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+161,152,PT09M28.00S,2,1610612755,PHI,947,Iverson,A. Iverson,108,66,13,Missed,1,,,0,h,MISS Iverson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+162,153,PT09M27.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,Boykins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+163,154,PT09M16.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,,,0,v,MISS Nene Layup,Missed Shot,Layup Shot,0,0
+164,156,PT09M15.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,,,0,v,Nene REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+165,155,PT09M15.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,,,0,v,MISS Nene Tip Shot,Missed Shot,Tip Shot,0,0
+166,157,PT09M14.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+167,158,PT09M03.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson OFF.Foul (P1),Foul,Offensive,0,0
+168,159,PT09M03.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson Foul Turnover (P4.T12),Turnover,Foul,0,0
+169,160,PT08M49.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,Boykins Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+170,160,PT08M49.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert STEAL (1 STL),,,0,0
+171,161,PT08M44.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,32,31,63,h,Dalembert Running Finger Roll (7 PTS),Made Shot,Running Finger Roll Shot,0,0
+172,162,PT08M35.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,32,33,65,v,Nene Layup (2 PTS) (Evans 1 AST),Made Shot,Layup Shot,0,0
+173,163,PT08M18.00S,2,1610612755,PHI,185,Webber,C. Webber,-126,-18,13,Missed,1,,,0,h,MISS Webber 13' Jump Shot,Missed Shot,Jump Shot,0,0
+174,164,PT08M17.00S,2,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+175,165,PT08M11.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,24,202,20,Missed,1,,,0,v,MISS Boykins 20' Jump Shot,Missed Shot,Jump Shot,0,0
+176,166,PT08M09.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+177,167,PT07M58.00S,2,1610612755,PHI,947,Iverson,A. Iverson,69,12,7,Missed,1,,,0,h,MISS Iverson 7' Jump Shot,Missed Shot,Jump Shot,0,0
+178,168,PT07M56.00S,2,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+179,169,PT07M51.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,Missed,1,,,0,v,MISS Boykins Layup,Missed Shot,Layup Shot,0,0
+180,170,PT07M50.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+181,171,PT07M42.00S,2,1610612755,PHI,185,Webber,C. Webber,23,33,4,Made,1,34,33,67,h,Webber 4' Turnaround Jump Shot (8 PTS) (Iverson 4 AST),Made Shot,Turnaround Jump Shot,0,0
+182,172,PT07M22.00S,2,1610612743,DEN,2501,Evans,R. Evans,0,0,0,Missed,1,,,0,v,MISS Evans Layup,Missed Shot,Layup Shot,0,0
+183,173,PT07M21.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+184,174,PT07M09.00S,2,1610612755,PHI,2584,Green,W. Green,0,0,0,Missed,1,,,0,h,MISS Green Layup,Missed Shot,Layup Shot,0,0
+185,175,PT07M08.00S,2,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+186,176,PT07M03.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson P.FOUL (P2.T2),Foul,Personal,0,0
+187,177,PT07M03.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+188,179,PT07M03.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,SUB: Ollie FOR Iverson,Substitution,,0,0
+189,180,PT07M03.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,,,0,v,SUB: Anthony FOR Kleiza,Substitution,,0,0
+190,181,PT07M03.00S,2,1610612743,DEN,2035,Johnson,D. Johnson,0,0,0,,0,,,0,v,SUB: JR. Smith FOR Johnson,Substitution,,0,0
+191,183,PT06M55.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+192,182,PT06M55.00S,2,1610612743,DEN,2403,Hilario,Nene,26,49,6,Made,1,34,35,69,v,Nene 6' Hook Shot (4 PTS),Made Shot,Hook Shot,0,0
+193,184,PT06M37.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,62,133,15,Made,1,36,35,71,h,Dalembert 15' Jump Shot (9 PTS) (Ollie 3 AST),Made Shot,Jump Shot,0,0
+194,185,PT06M22.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,146,5,15,Missed,1,,,0,v,MISS Anthony 15' Jump Shot,Missed Shot,Jump Shot,0,0
+195,186,PT06M21.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+196,187,PT06M17.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0
+197,187,PT06M17.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,,,0,v,Nene STEAL (1 STL),,,0,0
+198,189,PT06M14.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,-117,86,15,Missed,1,,,0,v,MISS Boykins 15' Jump Shot,Missed Shot,Jump Shot,0,0
+199,191,PT06M12.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+200,190,PT06M12.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,36,37,73,v,Anthony Layup (9 PTS),Made Shot,Layup Shot,0,0
+201,192,PT05M51.00S,2,1610612755,PHI,185,Webber,C. Webber,-38,110,12,Missed,1,,,0,h,MISS Webber 12' Jump Shot,Missed Shot,Jump Shot,0,0
+202,194,PT05M47.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+203,193,PT05M47.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,-110,-29,11,Made,1,38,37,75,h,Dalembert 11' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,0,0
+204,195,PT05M34.00S,2,1610612743,DEN,2747,Smith,J. Smith,-110,227,25,Made,1,38,40,78,v,JR. Smith 25' 3PT Jump Shot (10 PTS) (Boykins 1 AST),Made Shot,Jump Shot,0,0
+205,196,PT05M17.00S,2,1610612755,PHI,1563,Ollie,K. Ollie,-46,181,19,Missed,1,,,0,h,MISS Ollie 19' Jump Shot,Missed Shot,Jump Shot,0,0
+206,197,PT05M15.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,,,0,v,JR. Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+207,198,PT05M10.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,62,3,6,Made,1,38,42,80,v,Anthony 6' Turnaround Jump Shot (11 PTS) (Boykins 2 AST),Made Shot,Turnaround Jump Shot,0,0
+208,199,PT05M00.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,0
+209,201,PT05M00.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,,,0,v,SUB: Camby FOR Nene,Substitution,,0,0
+210,202,PT05M00.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,SUB: Miller FOR Boykins,Substitution,,0,0
+211,203,PT05M00.00S,2,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,SUB: Iguodala FOR Green,Substitution,,0,0
+212,204,PT04M53.00S,2,1610612755,PHI,2594,Korver,K. Korver,-120,133,18,Made,1,40,42,82,h,Korver 18' Jump Shot (7 PTS) (Ollie 4 AST),Made Shot,Jump Shot,0,0
+213,205,PT04M35.00S,2,1610612743,DEN,2501,Evans,R. Evans,0,0,0,Made,1,40,44,84,v,Evans Layup (2 PTS) (Miller 3 AST),Made Shot,Layup Shot,0,0
+214,206,PT04M19.00S,2,1610612755,PHI,2594,Korver,K. Korver,215,0,22,Made,1,42,44,86,h,Korver 22' Jump Shot (9 PTS) (Ollie 5 AST),Made Shot,Jump Shot,0,0
+215,207,PT04M05.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby Traveling Turnover (P2.T9),Turnover,Traveling,0,0
+216,208,PT04M05.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,SUB: Iverson FOR Webber,Substitution,,0,0
+217,209,PT04M05.00S,2,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: Hunter FOR Ollie,Substitution,,0,0
+218,210,PT03M51.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Traveling Turnover (P3.T14),Turnover,Traveling,0,0
+219,211,PT03M51.00S,2,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,SUB: Najera FOR Evans,Substitution,,0,0
+220,212,PT03M35.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0
+221,212,PT03M35.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver STEAL (1 STL),,,0,0
+222,213,PT03M30.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,Missed,1,,,0,h,MISS Korver Layup,Missed Shot,Layup Shot,0,0
+223,215,PT03M29.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+224,214,PT03M29.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,44,44,88,h,Iguodala Layup (5 PTS),Made Shot,Layup Shot,0,0
+225,216,PT03M18.00S,2,1610612743,DEN,1889,Miller,A. Miller,133,61,15,Made,1,44,46,90,v,Miller 15' Jump Bank Shot (11 PTS),Made Shot,Jump Bank Shot,0,0
+226,217,PT03M03.00S,2,1610612755,PHI,2594,Korver,K. Korver,146,115,19,Made,1,46,46,92,h,Korver 19' Fadeaway Jumper (11 PTS) (Iverson 5 AST),Made Shot,Fadeaway Jump Shot,0,0
+227,218,PT02M48.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,46,48,94,v,Anthony Slam Dunk (13 PTS) (Miller 4 AST),Made Shot,Slam Dunk Shot,0,0
+228,219,PT02M25.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0
+229,219,PT02M25.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony STEAL (2 STL),,,0,0
+230,220,PT02M24.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver P.FOUL (P1.T3),Foul,Personal,0,0
+231,221,PT02M24.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+232,223,PT02M11.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Made,1,46,50,96,v,Najera Layup (6 PTS) (Miller 5 AST),Made Shot,Layup Shot,0,0
+233,224,PT01M45.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Jump Ball Korver vs. Camby: Tip to JR. Smith,Jump Ball,,0,0
+234,225,PT01M45.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0
+235,225,PT01M45.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby STEAL (3 STL),,,0,0
+236,226,PT01M27.00S,2,1610612743,DEN,1889,Miller,A. Miller,-94,10,9,Missed,1,,,0,v,MISS Miller 9' Jump Shot,Missed Shot,Jump Shot,0,0
+237,227,PT01M25.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+238,228,PT01M24.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala OFF.Foul (P1),Foul,Offensive,0,0
+239,229,PT01M24.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Foul Turnover (P4.T17),Turnover,Foul,0,0
+240,230,PT01M24.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: Carney FOR Iguodala,Substitution,,0,0
+241,231,PT01M24.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,SUB: Green FOR Iverson,Substitution,,0,0
+242,232,PT01M14.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,SUB: Johnson FOR Anthony,Substitution,,0,0
+243,233,PT01M08.00S,2,1610612743,DEN,948,Camby,M. Camby,18,192,19,Made,1,46,52,98,v,Camby 19' Jump Shot (2 PTS) (Miller 6 AST),Made Shot,Jump Shot,0,0
+244,234,PT00M44.70S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,,,0,v,JR. Smith P.FOUL (P1.T4),Foul,Personal,0,0
+245,235,PT00M44.70S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,SUB: Randolph FOR Dalembert,Substitution,,0,0
+246,236,PT00M37.90S,2,1610612755,PHI,2584,Green,W. Green,-51,161,17,Made,1,48,52,100,h,Green 17' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+247,237,PT00M28.90S,2,1610612743,DEN,2035,Johnson,D. Johnson,190,176,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+248,238,PT00M27.70S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+249,239,PT00M02.90S,2,1610612755,PHI,200760,Carney,R. Carney,-171,206,27,Missed,1,,,0,h,MISS Carney 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+250,240,PT00M00.90S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+251,241,PT00M00.00S,2,0,,0,,,0,0,0,,0,48,52,100,,End of 2nd Period (8:14 PM EST),period,end,0,0
+252,243,PT12M00.00S,3,0,,0,,,0,0,0,,0,48,52,100,,Start of 3rd Period (8:31 PM EST),period,start,0,0
+253,244,PT11M49.00S,3,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie S.FOUL (P3.T1),Foul,Shooting,0,0
+254,245,PT11M49.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,MISS Camby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+255,246,PT11M49.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+256,247,PT11M49.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,MISS Camby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+257,248,PT11M48.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+258,249,PT11M30.00S,3,1610612755,PHI,1563,Ollie,K. Ollie,194,-5,19,Missed,1,,,0,h,MISS Ollie 19' Jump Shot,Missed Shot,Jump Shot,0,0
+259,250,PT11M29.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+260,251,PT11M22.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,Made,1,48,54,102,v,Camby Dunk (4 PTS) (Anthony 2 AST),Made Shot,Dunk Shot,0,0
+261,252,PT11M03.00S,3,1610612755,PHI,185,Webber,C. Webber,167,74,18,Made,1,50,54,104,h,Webber 18' Jump Shot (10 PTS) (Iguodala 5 AST),Made Shot,Jump Shot,0,0
+262,253,PT10M45.00S,3,1610612743,DEN,2747,Smith,J. Smith,41,255,26,Missed,1,,,0,v,MISS JR. Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+263,254,PT10M44.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+264,255,PT10M33.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert OFF.Foul (P3),Foul,Offensive,0,0
+265,256,PT10M33.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert Foul Turnover (P2.T18),Turnover,Foul,0,0
+266,257,PT10M18.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,-148,61,16,Made,1,50,56,106,v,Anthony 16' Jump Shot (15 PTS),Made Shot,Jump Shot,0,0
+267,258,PT09M59.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Missed,1,,,0,h,MISS Iverson Layup,Missed Shot,Layup Shot,0,0
+268,259,PT09M57.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+269,260,PT09M50.00S,3,1610612755,PHI,185,Webber,C. Webber,-145,51,15,Missed,1,,,0,h,MISS Webber 15' Jump Shot,Missed Shot,Jump Shot,0,0
+270,261,PT09M49.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+271,262,PT09M32.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,50,58,108,v,Anthony Reverse Layup (17 PTS),Made Shot,Reverse Layup Shot,0,0
+272,263,PT09M29.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+273,265,PT09M19.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby S.FOUL (P1.T1),Foul,Shooting,0,0
+274,266,PT09M19.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,MISS Iguodala Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+275,267,PT09M19.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0
+276,268,PT09M19.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,51,58,109,h,Iguodala Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+277,269,PT09M08.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,,,0,v,MISS Camby Layup,Missed Shot,Layup Shot,0,0
+278,270,PT09M07.00S,3,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+279,271,PT08M50.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert Bad Pass Turnover (P3.T19),Turnover,Bad Pass,0,0
+280,271,PT08M50.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller STEAL (2 STL),,,0,0
+281,272,PT08M36.00S,3,1610612743,DEN,948,Camby,M. Camby,-23,150,15,Missed,1,,,0,v,MISS Camby 15' Jump Shot,Missed Shot,Jump Shot,0,0
+282,273,PT08M34.00S,3,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+283,274,PT08M26.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,SUB: Hunter FOR Dalembert,Substitution,,0,0
+284,275,PT08M26.00S,3,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: Korver FOR Ollie,Substitution,,0,0
+285,276,PT08M20.00S,3,1610612755,PHI,947,Iverson,A. Iverson,158,48,17,Missed,1,,,0,h,MISS Iverson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+286,277,PT08M19.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+287,278,PT08M19.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,SUB: Dalembert FOR Hunter,Substitution,,0,0
+288,279,PT08M17.00S,3,1610612755,PHI,947,Iverson,A. Iverson,209,49,21,Missed,1,,,0,h,MISS Iverson 21' Jump Shot,Missed Shot,Jump Shot,0,0
+289,280,PT08M15.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+290,281,PT08M12.00S,3,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver S.FOUL (P2.T2),Foul,Shooting,0,0
+291,282,PT08M12.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,51,59,110,v,JR. Smith Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+292,283,PT08M12.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,,,0,v,MISS JR. Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+293,284,PT08M11.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+294,285,PT07M53.00S,3,1610612755,PHI,185,Webber,C. Webber,-36,36,5,Made,1,53,59,112,h,Webber 5' Running Hook Shot (12 PTS) (Iverson 6 AST),Made Shot,Running Hook Shot,0,0
+295,286,PT07M36.00S,3,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber S.FOUL (P1.T3),Foul,Shooting,0,0
+296,287,PT07M36.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,53,60,113,v,Najera Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+297,288,PT07M36.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,53,61,114,v,Najera Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+298,289,PT07M16.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,55,61,116,h,Dalembert Alley Oop Dunk (13 PTS) (Iguodala 6 AST),Made Shot,Alley Oop Dunk Shot,0,0
+299,290,PT07M00.00S,3,1610612743,DEN,948,Camby,M. Camby,154,84,18,Made,1,55,63,118,v,Camby 18' Jump Shot (6 PTS) (Miller 7 AST),Made Shot,Jump Shot,0,0
+300,291,PT06M41.00S,3,1610612755,PHI,947,Iverson,A. Iverson,199,-11,20,Made,1,57,63,120,h,Iverson 20' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+301,292,PT06M29.00S,3,1610612743,DEN,2747,Smith,J. Smith,228,187,29,Made,1,57,66,123,v,JR. Smith 29' 3PT Jump Shot (14 PTS) (Miller 8 AST),Made Shot,Jump Shot,0,0
+302,293,PT06M07.00S,3,1610612755,PHI,185,Webber,C. Webber,-123,110,17,Missed,1,,,0,h,MISS Webber 17' Jump Shot,Missed Shot,Jump Shot,0,0
+303,294,PT06M05.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+304,295,PT06M02.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,57,68,125,v,Anthony Slam Dunk (19 PTS) (Miller 9 AST),Made Shot,Slam Dunk Shot,0,0
+305,296,PT06M00.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Short (Full 3 Short 2),Timeout,Short,0,0
+306,298,PT05M50.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony P.FOUL (P3.T2),Foul,Personal,0,0
+307,299,PT05M44.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller P.FOUL (P2.T3),Foul,Personal,0,0
+308,300,PT05M44.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,58,68,126,h,Iverson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+309,301,PT05M44.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,59,68,127,h,Iverson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+310,302,PT05M44.00S,3,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,SUB: Hunter FOR Webber,Substitution,,0,0
+311,303,PT05M30.00S,3,1610612743,DEN,948,Camby,M. Camby,172,77,19,Missed,1,,,0,v,MISS Camby 19' Jump Shot,Missed Shot,Jump Shot,0,0
+312,304,PT05M28.00S,3,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+313,305,PT05M21.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,Made,1,61,68,129,h,Dalembert Slam Dunk (15 PTS) (Iguodala 7 AST),Made Shot,Slam Dunk Shot,0,0
+314,306,PT05M11.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,159,81,18,Missed,1,,,0,v,MISS Anthony 18' Jump Shot,Missed Shot,Jump Shot,0,0
+315,307,PT05M09.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+316,308,PT05M04.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,171,10,17,Made,1,61,70,131,v,Anthony 17' Fadeaway Jumper (21 PTS),Made Shot,Fadeaway Jump Shot,0,0
+317,309,PT04M43.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,,,0,v,JR. Smith S.FOUL (P2.T4),Foul,Shooting,0,0
+318,310,PT04M43.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,62,70,132,h,Iverson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+319,311,PT04M43.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,63,70,133,h,Iverson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+320,312,PT04M27.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,Made,1,63,72,135,v,Camby Layup (8 PTS) (Anthony 3 AST),Made Shot,Layup Shot,0,0
+321,313,PT04M20.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson Bad Pass Turnover (P5.T20),Turnover,Bad Pass,0,0
+322,314,PT04M14.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson P.FOUL (P3.T4),Foul,Personal,0,0
+323,315,PT04M07.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Missed,1,,,0,v,MISS Najera Layup,Missed Shot,Layup Shot,0,0
+324,315,PT04M07.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,Hunter BLOCK (1 BLK),,,0,0
+325,316,PT04M04.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+326,317,PT04M02.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Out of Bounds Lost Ball Turnover (P5.T21),Turnover,Out of Bounds Lost Ball Turnover,0,0
+327,318,PT03M47.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,164,56,17,Missed,1,,,0,v,MISS Anthony 17' Jump Shot,Missed Shot,Jump Shot,0,0
+328,319,PT03M45.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+329,320,PT03M45.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: Green FOR Iguodala,Substitution,,0,0
+330,321,PT03M45.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,SUB: Randolph FOR Dalembert,Substitution,,0,0
+331,322,PT03M45.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,SUB: Boykins FOR Miller,Substitution,,0,0
+332,323,PT03M41.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0
+333,323,PT03M41.00S,3,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green STEAL (1 STL),,,0,0
+334,324,PT03M31.00S,3,1610612755,PHI,947,Iverson,A. Iverson,-128,112,17,Missed,1,,,0,h,MISS Iverson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+335,325,PT03M29.00S,3,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,Boykins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+336,326,PT03M20.00S,3,1610612743,DEN,2747,Smith,J. Smith,197,201,28,Missed,1,,,0,v,MISS JR. Smith 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+337,327,PT03M18.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera REBOUND (Off:4 Def:0),Rebound,Unknown,0,0
+338,328,PT03M15.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,,,0,v,JR. Smith Palming Turnover (P2.T12),Turnover,Palming Turnover,0,0
+339,329,PT03M00.00S,3,1610612755,PHI,947,Iverson,A. Iverson,44,71,8,Missed,1,,,0,h,MISS Iverson 8' Jump Shot,Missed Shot,Jump Shot,0,0
+340,330,PT02M58.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera REBOUND (Off:4 Def:1),Rebound,Unknown,0,0
+341,331,PT02M55.00S,3,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green P.FOUL (P2.PN),Foul,Personal,0,0
+342,332,PT02M55.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+343,333,PT02M55.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,63,73,136,v,JR. Smith Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+344,334,PT02M55.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,63,74,137,v,JR. Smith Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+345,335,PT02M38.00S,3,1610612755,PHI,2584,Green,W. Green,0,169,17,Missed,1,,,0,h,MISS Green 17' Jump Shot,Missed Shot,Jump Shot,0,0
+346,337,PT02M36.00S,3,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+347,336,PT02M36.00S,3,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,Made,1,65,74,139,h,Randolph Layup (2 PTS),Made Shot,Layup Shot,0,0
+348,338,PT02M36.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera S.FOUL (P2.PN),Foul,Shooting,0,0
+349,339,PT02M36.00S,3,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,,0,66,74,140,h,Randolph Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+350,340,PT02M36.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,SUB: Evans FOR Camby,Substitution,,0,0
+351,342,PT02M24.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,167,36,17,Missed,1,,,0,v,MISS Anthony 17' Jump Shot,Missed Shot,Jump Shot,0,0
+352,343,PT02M22.00S,3,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+353,344,PT02M14.00S,3,1610612755,PHI,2594,Korver,K. Korver,176,76,19,Missed,1,,,0,h,MISS Korver 19' Jump Shot,Missed Shot,Jump Shot,0,0
+354,345,PT02M12.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+355,346,PT02M07.00S,3,1610612743,DEN,1863,Boykins,E. Boykins,209,176,27,Missed,1,,,0,v,MISS Boykins 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+356,347,PT02M04.00S,3,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+357,348,PT02M02.00S,3,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,,0,,,0,h,Randolph S.FOUL (P1.PN),Foul,Shooting,0,0
+358,349,PT02M02.00S,3,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,66,75,141,v,Evans Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+359,350,PT02M02.00S,3,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,66,76,142,v,Evans Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+360,351,PT01M53.00S,3,1610612755,PHI,2594,Korver,K. Korver,227,-18,0,Missed,1,,,0,h,MISS Korver 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+361,352,PT01M51.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+362,353,PT01M38.00S,3,1610612743,DEN,2747,Smith,J. Smith,21,209,21,Missed,1,,,0,v,MISS JR. Smith 21' Jump Shot,Missed Shot,Jump Shot,0,0
+363,354,PT01M35.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+364,355,PT01M35.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,SUB: Ollie FOR Iverson,Substitution,,0,0
+365,356,PT01M35.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: Johnson FOR JR. Smith,Substitution,,0,0
+366,357,PT01M19.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Missed,1,,,0,v,MISS Najera Layup,Missed Shot,Layup Shot,0,0
+367,359,PT01M16.00S,3,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+368,358,PT01M16.00S,3,1610612743,DEN,2501,Evans,R. Evans,0,0,0,Made,1,66,78,144,v,Evans Layup (6 PTS),Made Shot,Layup Shot,0,0
+369,360,PT00M56.90S,3,1610612755,PHI,2584,Green,W. Green,-141,2,14,Missed,1,,,0,h,MISS Green 14' Jump Shot,Missed Shot,Jump Shot,0,0
+370,361,PT00M55.70S,3,1610612743,DEN,2035,Johnson,D. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+371,362,PT00M45.90S,3,1610612743,DEN,2035,Johnson,D. Johnson,-161,7,16,Missed,1,,,0,v,MISS Johnson 16' Jump Shot,Missed Shot,Jump Shot,0,0
+372,363,PT00M43.90S,3,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+373,364,PT00M30.90S,3,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,Missed,1,,,0,h,MISS Randolph Layup,Missed Shot,Layup Shot,0,0
+374,365,PT00M28.90S,3,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+375,366,PT00M07.40S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony Traveling Turnover (P2.T13),Turnover,Traveling,0,0
+376,367,PT00M01.90S,3,1610612755,PHI,2584,Green,W. Green,87,33,9,Made,1,68,78,146,h,Green 9' Running Jump Shot (6 PTS),Made Shot,Running Jump Shot,0,0
+377,368,PT00M00.80S,3,1610612743,DEN,2035,Johnson,D. Johnson,-163,396,43,Missed,1,,,0,v,MISS Johnson 43' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+378,369,PT00M00.10S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+379,370,PT00M00.00S,3,0,,0,,,0,0,0,,0,68,78,146,,End of 3rd Period (9:00 PM EST),period,end,0,0
+380,371,PT12M00.00S,4,0,,0,,,0,0,0,,0,68,78,146,,Start of 4th Period (9:03 PM EST),period,start,0,0
+381,372,PT11M44.00S,4,1610612755,PHI,2594,Korver,K. Korver,-166,179,24,Made,1,71,78,149,h,Korver 24' 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+382,373,PT11M27.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony OFF.Foul (P4),Foul,Offensive,0,0
+383,374,PT11M27.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony Foul Turnover (P3.T14),Turnover,Foul,0,0
+384,375,PT11M14.00S,4,1610612755,PHI,2584,Green,W. Green,-3,192,19,Missed,1,,,0,h,MISS Green 19' Jump Shot,Missed Shot,Jump Shot,0,0
+385,376,PT11M12.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+386,377,PT11M06.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,186,191,27,Missed,1,,,0,v,MISS Boykins 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+387,378,PT11M04.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera REBOUND (Off:5 Def:2),Rebound,Unknown,0,0
+388,379,PT10M48.00S,4,1610612743,DEN,2035,Johnson,D. Johnson,-154,201,25,Made,1,71,81,152,v,Johnson 25' 3PT Jump Shot (6 PTS) (Boykins 3 AST),Made Shot,Jump Shot,0,0
+389,380,PT10M48.00S,4,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,Hunter L.B.FOUL (P2.T1),Foul,Loose Ball,0,0
+390,381,PT10M48.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,SUB: Miller FOR Anthony,Substitution,,0,0
+391,382,PT10M48.00S,4,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,71,82,153,v,Evans Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+392,384,PT10M35.00S,4,1610612755,PHI,185,Webber,C. Webber,0,0,0,Made,1,73,82,155,h,Webber Layup (14 PTS) (Korver 1 AST),Made Shot,Layup Shot,0,0
+393,385,PT10M08.00S,4,1610612743,DEN,2059,Najera,E. Najera,-202,143,25,Missed,1,,,0,v,MISS Najera 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+394,386,PT10M05.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+395,387,PT10M05.00S,4,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: Iverson FOR Ollie,Substitution,,0,0
+396,388,PT09M55.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,Najera Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0
+397,388,PT09M55.00S,4,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green STEAL (2 STL),,,0,0
+398,389,PT09M36.00S,4,1610612755,PHI,2594,Korver,K. Korver,74,46,9,Made,1,75,82,157,h,Korver 9' Jump Shot (16 PTS),Made Shot,Jump Shot,0,0
+399,390,PT09M23.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,176,-11,18,Made,1,75,84,159,v,Boykins 18' Jump Shot (3 PTS) (Najera 1 AST),Made Shot,Jump Shot,0,0
+400,391,PT09M07.00S,4,1610612755,PHI,2594,Korver,K. Korver,186,53,19,Missed,1,,,0,h,MISS Korver 19' Jump Shot,Missed Shot,Jump Shot,0,0
+401,393,PT09M05.00S,4,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+402,392,PT09M05.00S,4,1610612755,PHI,185,Webber,C. Webber,0,0,0,Missed,1,,,0,h,MISS Webber Layup,Missed Shot,Layup Shot,0,0
+403,394,PT09M03.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,Boykins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+404,395,PT08M57.00S,4,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green S.FOUL (P3.T2),Foul,Shooting,0,0
+405,396,PT08M57.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+406,398,PT08M57.00S,4,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,,,0,h,SUB: Dalembert FOR Hunter,Substitution,,0,0
+407,399,PT08M57.00S,4,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,SUB: Iguodala FOR Green,Substitution,,0,0
+408,400,PT08M57.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,SUB: Camby FOR Najera,Substitution,,0,0
+409,401,PT08M57.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,MISS Boykins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+410,403,PT08M57.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+411,404,PT08M57.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,75,85,160,v,Boykins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+412,406,PT08M43.00S,4,1610612755,PHI,185,Webber,C. Webber,-141,69,16,Made,1,77,85,162,h,Webber 16' Jump Shot (16 PTS) (Iverson 7 AST),Made Shot,Jump Shot,0,0
+413,407,PT08M24.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Made,1,77,87,164,v,Miller Layup (13 PTS),Made Shot,Layup Shot,0,0
+414,409,PT08M02.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,79,87,166,h,Iverson Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,0
+415,410,PT07M51.00S,4,1610612743,DEN,948,Camby,M. Camby,118,86,15,Made,1,79,89,168,v,Camby 15' Jump Shot (10 PTS) (Boykins 4 AST),Made Shot,Jump Shot,0,0
+416,411,PT07M35.00S,4,1610612755,PHI,2594,Korver,K. Korver,189,41,19,Made,1,81,89,170,h,Korver 19' Jump Shot (18 PTS),Made Shot,Jump Shot,0,0
+417,412,PT07M27.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Made,1,81,91,172,v,Miller Layup (15 PTS),Made Shot,Layup Shot,0,0
+418,413,PT07M27.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala S.FOUL (P2.T3),Foul,Shooting,0,0
+419,414,PT07M27.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,81,92,173,v,Miller Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0
+420,415,PT07M14.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,Boykins P.FOUL (P1.T1),Foul,Personal,0,0
+421,416,PT07M14.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: Green FOR Iguodala,Substitution,,0,0
+422,417,PT07M02.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,31,59,7,Missed,1,,,0,h,MISS Dalembert 7' Jump Shot,Missed Shot,Jump Shot,0,0
+423,418,PT07M00.00S,4,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+424,419,PT06M47.00S,4,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,Webber P.FOUL (P2.T4),Foul,Personal,0,0
+425,420,PT06M40.00S,4,1610612743,DEN,948,Camby,M. Camby,1,178,18,Missed,1,,,0,v,MISS Camby 18' Jump Shot,Missed Shot,Jump Shot,0,0
+426,421,PT06M38.00S,4,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+427,422,PT06M24.00S,4,1610612755,PHI,185,Webber,C. Webber,13,173,17,Missed,1,,,0,h,MISS Webber 17' Jump Shot,Missed Shot,Jump Shot,0,0
+428,423,PT06M23.00S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+429,424,PT06M23.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby P.FOUL (P2.T2),Foul,Personal,0,0
+430,425,PT06M18.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-102,74,13,Missed,1,,,0,h,MISS Iverson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+431,426,PT06M17.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+432,427,PT06M17.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert L.B.FOUL (P4.PN),Foul,Loose Ball,0,0
+433,428,PT06M17.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,81,93,174,v,Miller Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+434,429,PT06M17.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,81,94,175,v,Miller Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+435,430,PT05M58.00S,4,1610612755,PHI,185,Webber,C. Webber,103,117,16,Missed,1,,,0,h,MISS Webber 16' Jump Shot,Missed Shot,Jump Shot,0,0
+436,431,PT05M56.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+437,432,PT05M43.00S,4,1610612743,DEN,1889,Miller,A. Miller,-89,117,15,Missed,1,,,0,v,MISS Miller 15' Jump Shot,Missed Shot,Jump Shot,0,0
+438,433,PT05M41.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+439,434,PT05M32.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,83,94,177,h,Iverson Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,0
+440,435,PT05M32.00S,4,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,Evans S.FOUL (P1.T3),Foul,Shooting,0,0
+441,436,PT05M32.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,0
+442,437,PT05M32.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,84,94,178,h,Iverson Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0
+443,438,PT05M32.00S,4,1610612743,DEN,2035,Johnson,D. Johnson,0,0,0,,0,,,0,v,SUB: Anthony FOR Johnson,Substitution,,0,0
+444,439,PT05M14.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,197,49,20,Made,1,84,96,180,v,Anthony 20' Jump Shot (23 PTS),Made Shot,Jump Shot,0,0
+445,440,PT04M54.00S,4,1610612755,PHI,2594,Korver,K. Korver,74,150,17,Missed,1,,,0,h,MISS Korver 17' Jump Shot,Missed Shot,Jump Shot,0,0
+446,441,PT04M52.00S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+447,442,PT04M50.00S,4,1610612755,PHI,2594,Korver,K. Korver,212,192,29,Made,1,87,96,183,h,Korver 29' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,0,0
+448,443,PT04M27.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,-222,7,0,Made,1,87,99,186,v,Boykins 3PT Jump Shot (7 PTS) (Camby 3 AST),Made Shot,Jump Shot,0,0
+449,444,PT04M01.00S,4,1610612755,PHI,2584,Green,W. Green,0,0,0,Missed,1,,,0,h,MISS Green Layup,Missed Shot,Layup Shot,0,0
+450,445,PT04M00.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+451,446,PT03M57.00S,4,1610612755,PHI,2594,Korver,K. Korver,-46,271,27,Missed,1,,,0,h,MISS Korver 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+452,448,PT03M55.00S,4,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+453,447,PT03M55.00S,4,1610612755,PHI,2584,Green,W. Green,0,0,0,Made,1,89,99,188,h,Green Tip Shot (8 PTS),Made Shot,Tip Shot,0,0
+454,449,PT03M32.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,197,-1,20,Made,1,89,101,190,v,Anthony 20' Jump Shot (25 PTS) (Camby 4 AST),Made Shot,Jump Shot,0,0
+455,450,PT03M11.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-161,43,17,Made,1,91,101,192,h,Iverson 17' Jump Shot (19 PTS),Made Shot,Jump Shot,0,0
+456,451,PT02M51.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+457,452,PT02M51.00S,4,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,,,0,h,SUB: Iguodala FOR Webber,Substitution,,0,0
+458,473,PT02M51.00S,4,1610612743,DEN,2501,Evans,R. Evans,0,0,0,,0,,,0,v,SUB: Najera FOR Evans,Substitution,,0,0
+459,453,PT02M50.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,0
+460,453,PT02M50.00S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver STEAL (2 STL),,,0,0
+461,454,PT02M46.00S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,Made,1,93,101,194,h,Korver Layup (23 PTS) (Iverson 8 AST),Made Shot,Layup Shot,0,0
+462,455,PT02M29.00S,4,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green S.FOUL (P4.PN),Foul,Shooting,0,0
+463,456,PT02M29.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,93,102,195,v,Anthony Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0
+464,457,PT02M29.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,93,103,196,v,Anthony Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0
+465,458,PT02M22.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,Boykins S.FOUL (P2.T4),Foul,Shooting,0,0
+466,459,PT02M22.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,94,103,197,h,Iverson Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+467,460,PT02M22.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,95,103,198,h,Iverson Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+468,461,PT02M16.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala P.FOUL (P3.PN),Foul,Personal,0,0
+469,462,PT02M16.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,MISS Boykins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+470,463,PT02M16.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+471,464,PT02M16.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,95,104,199,v,Boykins Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+472,465,PT02M04.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller P.FOUL (P3.PN),Foul,Personal,0,0
+473,466,PT02M04.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,96,104,200,h,Iguodala Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+474,467,PT02M04.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,97,104,201,h,Iguodala Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+475,468,PT02M04.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,,,0,v,SUB: JR. Smith FOR Najera,Substitution,,0,0
+476,469,PT01M56.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,Boykins Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0
+477,469,PT01M56.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala STEAL (1 STL),,,0,0
+478,470,PT01M43.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby S.FOUL (P3.PN),Foul,Shooting,0,0
+479,471,PT01M43.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,98,104,202,h,Dalembert Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+480,472,PT01M43.00S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,99,104,203,h,Dalembert Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+481,475,PT01M21.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,159,81,18,Missed,1,,,0,v,MISS Anthony 18' Jump Shot,Missed Shot,Jump Shot,0,0
+482,476,PT01M19.00S,4,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+483,479,PT01M02.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+484,478,PT01M02.00S,4,1610612755,PHI,2584,Green,W. Green,15,132,13,Made,1,101,104,205,h,Green 13' Running Jump Shot (10 PTS) (Iverson 9 AST),Made Shot,Running Jump Shot,0,0
+485,481,PT00M41.90S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,Missed,1,,,0,v,MISS Boykins Layup,Missed Shot,Layup Shot,0,0
+486,482,PT00M40.90S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,,,0,h,Korver REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+487,483,PT00M30.90S,4,1610612755,PHI,2584,Green,W. Green,204,169,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+488,484,PT00M28.80S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+489,485,PT00M09.80S,4,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,,,0,h,Dalembert S.FOUL (P5.PN),Foul,Shooting,0,0
+490,486,PT00M09.80S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,101,105,206,v,Anthony Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,0
+491,487,PT00M09.80S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,101,106,207,v,Anthony Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,0
+492,488,PT00M09.80S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,,,0,v,SUB: Johnson FOR Boykins,Substitution,,0,0
+493,489,PT00M09.80S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 5 Short 2),Timeout,Regular,0,0
+494,491,PT00M06.90S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Missed,1,,,0,h,MISS Iverson Layup,Missed Shot,Layup Shot,0,0
+495,492,PT00M05.60S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+496,493,PT00M03.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala P.FOUL (P4.PN),Foul,Personal,0,0
+497,494,PT00M03.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,101,107,208,v,Anthony Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,0,0
+498,495,PT00M03.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,101,108,209,v,Anthony Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,0,0
+499,496,PT00M01.00S,4,1610612755,PHI,2584,Green,W. Green,-108,340,36,Missed,1,,,0,h,MISS Green 36' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+500,497,PT00M00.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0
+501,498,PT00M00.00S,4,0,,0,,,0,0,0,,0,101,108,209,,End of 4th Period (9:37 PM EST),period,end,0,0

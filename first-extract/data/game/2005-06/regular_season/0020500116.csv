@@ -1,0 +1,506 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:42 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Jump Ball Foyle vs. Magloire: Tip to Ford,Jump Ball,,0,0
+3,2,PT11M45.00S,1,1610612749,MIL,693,Smith,J. Smith,-20,95,10,Made,1,0,2,2,v,Smith 10' Turnaround Jump Shot (2 PTS) (Simmons 1 AST),Made Shot,Turnaround Jump Shot,0,0
+4,3,PT11M28.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0
+5,3,PT11M28.00S,1,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,Redd STEAL (1 STL),,,0,0
+6,4,PT11M24.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis S.FOUL (P1.T1),Foul,Shooting,0,0
+7,5,PT11M24.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,3,3,v,Simmons Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+8,6,PT11M24.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,4,4,v,Simmons Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+9,7,PT11M08.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+10,7,PT11M08.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons STEAL (1 STL),,,0,0
+11,8,PT10M53.00S,1,1610612749,MIL,693,Smith,J. Smith,1,43,4,Missed,1,0,0,0,v,MISS Smith 4' Running Finger Roll,Missed Shot,Running Finger Roll Shot,0,0
+12,8,PT10M53.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle BLOCK (1 BLK),,,0,0
+13,9,PT10M50.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+14,10,PT10M39.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,84,23,9,Missed,1,0,0,0,h,MISS Dunleavy 9' Jump Shot,Missed Shot,Jump Shot,0,0
+15,11,PT10M37.00S,1,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+16,12,PT10M25.00S,1,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,Redd Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+17,12,PT10M25.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson STEAL (1 STL),,,0,0
+18,13,PT10M20.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,-2,28,3,Made,1,2,4,6,h,Richardson 3' Finger Roll (2 PTS) (Dunleavy 1 AST),Made Shot,Finger Roll Shot,0,0
+19,14,PT10M07.00S,1,1610612749,MIL,2072,Redd,M. Redd,59,257,26,Made,1,2,7,9,v,Redd 26' 3PT Jump Shot (3 PTS) (Ford 1 AST),Made Shot,Jump Shot,0,0
+20,15,PT09M54.00S,1,1610612744,GSW,1884,Davis,B. Davis,13,25,3,Made,1,4,7,11,h,Davis 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+21,16,PT09M54.00S,1,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith S.FOUL (P1.T1),Foul,Shooting,0,0
+22,17,PT09M54.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,5,7,12,h,Davis Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+23,18,PT09M36.00S,1,1610612749,MIL,693,Smith,J. Smith,0,12,1,Missed,1,0,0,0,v,MISS Smith 1' Hook Shot,Missed Shot,Hook Shot,0,0
+24,18,PT09M36.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle BLOCK (2 BLK),,,0,0
+25,19,PT09M33.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+26,20,PT09M28.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,5,5,1,Made,1,7,7,14,h,Foyle 1' Layup (2 PTS) (Davis 1 AST),Made Shot,Layup Shot,0,0
+27,21,PT09M07.00S,1,1610612749,MIL,2072,Redd,M. Redd,10,3,1,Made,1,7,9,16,v,Redd 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,0
+28,22,PT08M53.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,135,66,15,Missed,1,0,0,0,h,MISS Murphy 15' Jump Shot,Missed Shot,Jump Shot,0,0
+29,23,PT08M50.00S,1,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+30,24,PT08M34.00S,1,1610612749,MIL,2072,Redd,M. Redd,-197,76,21,Missed,1,0,0,0,v,MISS Redd 21' Jump Shot,Missed Shot,Jump Shot,0,0
+31,25,PT08M31.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+32,26,PT08M26.00S,1,1610612744,GSW,1884,Davis,B. Davis,-108,8,11,Missed,1,0,0,0,h,MISS Davis 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+33,27,PT08M24.00S,1,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+34,28,PT08M19.00S,1,1610612749,MIL,2551,Ford,T. Ford,-61,91,11,Missed,1,0,0,0,v,MISS Ford 11' Jump Shot,Missed Shot,Jump Shot,0,0
+35,29,PT08M16.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+36,30,PT08M01.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,80,135,16,Made,1,9,9,18,h,Murphy 16' Jump Shot (2 PTS) (Dunleavy 2 AST),Made Shot,Jump Shot,0,0
+37,31,PT07M41.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,-214,125,25,Missed,1,0,0,0,v,MISS Simmons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+38,32,PT07M38.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+39,33,PT07M29.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,5,250,25,Made,1,12,9,21,h,Murphy 25' 3PT Jump Shot (5 PTS) (Davis 2 AST),Made Shot,Jump Shot,0,0
+40,34,PT07M05.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,154,76,17,Made,1,12,11,23,v,Simmons 17' Jump Shot (4 PTS) (Ford 2 AST),Made Shot,Jump Shot,0,0
+41,35,PT06M44.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,225,-11,0,Missed,1,0,0,0,h,MISS Dunleavy  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+42,36,PT06M41.00S,1,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+43,37,PT06M33.00S,1,1610612749,MIL,2551,Ford,T. Ford,-66,58,9,Made,1,12,13,25,v,Ford 9' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+44,38,PT06M19.00S,1,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,Redd P.FOUL (P1.T2),Foul,Personal,0,0
+45,39,PT06M12.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,163,72,18,Missed,1,0,0,0,h,MISS Richardson 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+46,40,PT06M10.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+47,41,PT05M57.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,16,46,5,Made,1,12,15,27,v,Simmons 5' Driving Hook Shot (6 PTS) (Redd 1 AST),Made Shot,Driving Hook Shot,0,0
+48,42,PT05M43.00S,1,1610612744,GSW,1884,Davis,B. Davis,33,33,5,Missed,1,0,0,0,h,MISS Davis 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+49,43,PT05M41.00S,1,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+50,44,PT05M33.00S,1,1610612749,MIL,2048,Magloire,J. Magloire,-11,45,5,Missed,1,0,0,0,v,MISS Magloire 5' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+51,45,PT05M30.00S,1,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+52,46,PT05M26.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,-21,15,3,Made,1,12,17,29,v,Simmons 3' Layup (8 PTS),Made Shot,Layup Shot,0,0
+53,47,PT05M03.00S,1,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,Redd P.FOUL (P2.T3),Foul,Personal,0,0
+54,48,PT05M03.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+55,50,PT05M03.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Dunleavy,Substitution,,0,0
+56,51,PT05M03.00S,1,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,SUB: Williams FOR Redd,Substitution,,0,0
+57,52,PT04M57.00S,1,1610612744,GSW,1884,Davis,B. Davis,-72,5,7,Missed,1,0,0,0,h,MISS Davis 7' Jump Shot,Missed Shot,Jump Shot,0,0
+58,53,PT04M55.00S,1,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+59,54,PT04M47.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,-48,18,5,Missed,1,0,0,0,v,MISS Simmons 5' Jump Shot,Missed Shot,Jump Shot,0,0
+60,54,PT04M47.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle BLOCK (3 BLK),,,0,0
+61,55,PT04M45.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+62,56,PT04M39.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,-110,95,15,Missed,1,0,0,0,h,MISS Foyle 15' Jump Shot,Missed Shot,Jump Shot,0,0
+63,57,PT04M36.00S,1,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+64,58,PT04M20.00S,1,1610612749,MIL,2551,Ford,T. Ford,-125,168,21,Missed,1,0,0,0,v,MISS Ford 21' Jump Shot,Missed Shot,Jump Shot,0,0
+65,59,PT04M17.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+66,60,PT04M08.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+67,61,PT04M08.00S,1,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,SUB: Bogut FOR Magloire,Substitution,,0,0
+68,62,PT03M51.00S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus P.FOUL (P1.T2),Foul,Personal,0,0
+69,63,PT03M51.00S,1,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,SUB: Kukoc FOR Smith,Substitution,,0,0
+70,64,PT03M47.00S,1,1610612749,MIL,389,Kukoc,T. Kukoc,-161,54,17,Made,1,12,19,31,v,Kukoc 17' Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,0
+71,65,PT03M24.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0
+72,65,PT03M24.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut STEAL (1 STL),,,0,0
+73,66,PT03M17.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle S.FOUL (P1.T3),Foul,Shooting,0,0
+74,67,PT03M17.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,12,20,32,v,Simmons Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+75,68,PT03M17.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,SUB: Fisher FOR Richardson,Substitution,,0,0
+76,69,PT03M17.00S,1,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,SUB: Dunleavy FOR Foyle,Substitution,,0,0
+77,70,PT03M17.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,12,21,33,v,Simmons Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+78,71,PT03M00.00S,1,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams S.FOUL (P1.T4),Foul,Shooting,0,0
+79,72,PT03M00.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+80,74,PT03M00.00S,1,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,SUB: Welsch FOR Simmons,Substitution,,0,0
+81,75,PT03M00.00S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,13,21,34,h,Pietrus Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+82,76,PT03M00.00S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,14,21,35,h,Pietrus Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+83,77,PT02M47.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+84,77,PT02M47.00S,1,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy STEAL (1 STL),,,0,0
+85,78,PT02M42.00S,1,1610612744,GSW,965,Fisher,D. Fisher,-156,26,16,Made,1,16,21,37,h,Fisher 16' Jump Shot (2 PTS) (Dunleavy 3 AST),Made Shot,Jump Shot,0,0
+86,79,PT02M23.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,-46,18,5,Missed,1,0,0,0,v,MISS Bogut 5' Jump Shot,Missed Shot,Jump Shot,0,0
+87,79,PT02M23.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy BLOCK (1 BLK),,,0,0
+88,80,PT02M21.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+89,81,PT02M18.00S,1,1610612749,MIL,2412,Welsch,J. Welsch,0,0,0,,0,0,0,0,v,Welsch Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+90,81,PT02M18.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis STEAL (1 STL),,,0,0
+91,82,PT02M07.00S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus Traveling Turnover (P1.T5),Turnover,Traveling,0,0
+92,83,PT01M46.00S,1,1610612749,MIL,2551,Ford,T. Ford,-33,166,17,Missed,1,0,0,0,v,MISS Ford 17' Jump Shot,Missed Shot,Jump Shot,0,0
+93,84,PT01M42.00S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+94,85,PT01M30.00S,1,1610612749,MIL,2590,Williams,M. Williams,-26,245,25,Missed,1,0,0,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+95,86,PT01M25.00S,1,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+96,87,PT01M19.00S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,-21,12,2,Made,1,18,21,39,h,Pietrus 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+97,88,PT00M57.00S,1,1610612749,MIL,2412,Welsch,J. Welsch,-200,61,21,Made,1,18,23,41,v,Welsch 21' Jump Shot (2 PTS) (Kukoc 1 AST),Made Shot,Jump Shot,0,0
+98,89,PT00M48.90S,1,1610612744,GSW,2554,Pietrus,M. Pietrus,233,-8,0,Made,1,21,23,44,h,Pietrus  3PT Jump Shot (7 PTS) (Fisher 1 AST),Made Shot,Jump Shot,0,0
+99,90,PT00M32.90S,1,1610612749,MIL,2412,Welsch,J. Welsch,-237,-18,24,Made,1,21,26,47,v,Welsch 24' 3PT Jump Shot (5 PTS) (Ford 3 AST),Made Shot,Jump Shot,0,0
+100,91,PT00M23.90S,1,1610612744,GSW,1884,Davis,B. Davis,200,148,25,Missed,1,0,0,0,h,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+101,92,PT00M19.90S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+102,93,PT00M00.90S,1,1610612749,MIL,2551,Ford,T. Ford,5,28,3,Missed,1,0,0,0,v,MISS Ford 3' Layup,Missed Shot,Layup Shot,0,0
+103,94,PT00M00.20S,1,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+104,95,PT00M00.20S,1,1610612749,MIL,101106,Bogut,A. Bogut,-11,22,2,Missed,1,0,0,0,v,MISS Bogut 2' Tip Shot,Missed Shot,Tip Shot,0,0
+105,96,PT00M00.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+106,97,PT00M00.00S,1,0,,0,,,0,0,0,,0,21,26,47,,End of 1st Period (11:04 PM EST),period,end,0,0
+107,99,PT12M00.00S,2,0,,0,,,0,0,0,,0,21,26,47,,Start of 2nd Period (11:07 PM EST),period,start,0,0
+108,100,PT11M36.00S,2,1610612744,GSW,965,Fisher,D. Fisher,-191,3,19,Missed,1,0,0,0,h,MISS Fisher 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+109,101,PT11M33.00S,2,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+110,102,PT11M17.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,-38,15,4,Missed,1,0,0,0,v,MISS Bogut 4' Jump Shot,Missed Shot,Jump Shot,0,0
+111,104,PT11M16.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:4 Def:1),Rebound,Unknown,0,0
+112,103,PT11M16.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,Missed,1,0,0,0,v,MISS Bogut  Tip Shot,Missed Shot,Tip Shot,0,0
+113,105,PT11M15.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+114,106,PT11M10.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,-238,-11,24,Missed,1,0,0,0,h,MISS Pietrus 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+115,107,PT11M08.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+116,108,PT10M52.00S,2,1610612749,MIL,2072,Redd,M. Redd,-20,12,2,Made,1,21,28,49,v,Redd 2' Layup (7 PTS) (Bogut 1 AST),Made Shot,Layup Shot,0,0
+117,109,PT10M35.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,-18,219,22,Made,1,23,28,51,h,Richardson 22' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+118,110,PT10M22.00S,2,1610612749,MIL,389,Kukoc,T. Kukoc,20,20,3,Missed,1,0,0,0,v,MISS Kukoc 3' Layup,Missed Shot,Layup Shot,0,0
+119,111,PT10M20.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+120,112,PT10M20.00S,2,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Magloire FOR Bogut,Substitution,,0,0
+121,113,PT10M05.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,107,137,17,Made,1,25,28,53,h,Richardson 17' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,0,0
+122,114,PT09M46.00S,2,1610612749,MIL,389,Kukoc,T. Kukoc,187,163,25,Missed,1,0,0,0,v,MISS Kukoc 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+123,115,PT09M41.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+124,116,PT09M37.00S,2,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0,0,0,v,Kukoc S.FOUL (P1.T1),Foul,Shooting,0,0
+125,117,PT09M37.00S,2,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0,0,0,v,SUB: Smith FOR Kukoc,Substitution,,0,0
+126,118,PT09M37.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,MISS Pietrus Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+127,119,PT09M37.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+128,120,PT09M37.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,MISS Pietrus Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+129,121,PT09M35.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+130,122,PT09M19.00S,2,1610612749,MIL,2590,Williams,M. Williams,80,15,8,Missed,1,0,0,0,v,MISS Williams 8' Jump Shot,Missed Shot,Jump Shot,0,0
+131,123,PT09M16.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+132,124,PT09M12.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,13,20,2,Made,1,27,28,55,h,Pietrus 2' Driving Layup (9 PTS) (Richardson 1 AST),Made Shot,Driving Layup Shot,0,0
+133,125,PT08M52.00S,2,1610612749,MIL,2072,Redd,M. Redd,-6,0,1,Missed,1,0,0,0,v,MISS Redd 1' Driving Dunk,Missed Shot,Driving Dunk Shot,0,0
+134,125,PT08M52.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle BLOCK (4 BLK),,,0,0
+135,126,PT08M50.00S,2,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+136,127,PT08M48.00S,2,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams S.FOUL (P2.T2),Foul,Shooting,0,0
+137,128,PT08M48.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+138,130,PT08M48.00S,2,1610612749,MIL,2412,Welsch,J. Welsch,0,0,0,,0,0,0,0,v,SUB: Simmons FOR Welsch,Substitution,,0,0
+139,131,PT08M48.00S,2,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,28,28,56,h,Fisher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+140,132,PT08M48.00S,2,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,29,28,57,h,Fisher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+141,133,PT08M29.00S,2,1610612749,MIL,693,Smith,J. Smith,-130,2,13,Missed,1,0,0,0,v,MISS Smith 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+142,133,PT08M29.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy BLOCK (1 BLK),,,0,0
+143,134,PT08M28.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,Redd REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+144,135,PT08M28.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle S.FOUL (P2.T1),Foul,Shooting,0,0
+145,136,PT08M28.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,29,29,58,v,Redd Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+146,137,PT08M28.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,29,30,59,v,Redd Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+147,138,PT08M12.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire S.FOUL (P1.T3),Foul,Shooting,0,0
+148,139,PT08M12.00S,2,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,SUB: Taft FOR Foyle,Substitution,,0,0
+149,140,PT08M12.00S,2,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,SUB: Ford FOR Williams,Substitution,,0,0
+150,141,PT08M12.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,MISS Pietrus Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+151,142,PT08M12.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+152,143,PT08M12.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,MISS Pietrus Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+153,144,PT08M10.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+154,145,PT08M02.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,Redd Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0
+155,145,PT08M02.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson STEAL (2 STL),,,0,0
+156,146,PT07M59.00S,2,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford S.FOUL (P1.T4),Foul,Shooting,0,0
+157,147,PT07M59.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,30,30,60,h,Richardson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+158,148,PT07M59.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,31,30,61,h,Richardson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+159,149,PT07M50.00S,2,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher P.FOUL (P1.T2),Foul,Personal,0,0
+160,150,PT07M44.00S,2,1610612749,MIL,2072,Redd,M. Redd,-25,7,3,Made,1,31,32,63,v,Redd 3' Driving Layup (11 PTS) (Smith 1 AST),Made Shot,Driving Layup Shot,0,0
+161,151,PT07M24.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,-117,233,26,Made,1,34,32,66,h,Richardson 26' 3PT Jump Shot (11 PTS) (Fisher 2 AST),Made Shot,Jump Shot,0,0
+162,152,PT07M05.00S,2,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+163,152,PT07M05.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus STEAL (1 STL),,,0,0
+164,153,PT07M00.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,-5,5,1,Made,1,36,32,68,h,Pietrus 1' Slam Dunk (11 PTS),Made Shot,Slam Dunk Shot,0,0
+165,154,PT06M48.00S,2,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher P.FOUL (P2.T3),Foul,Personal,0,0
+166,155,PT06M48.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,SUB: Murphy FOR Pietrus,Substitution,,0,0
+167,156,PT06M46.00S,2,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons OFF.Foul (P1),Foul,Offensive,0,0
+168,157,PT06M46.00S,2,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons Foul Turnover (P1.T6),Turnover,Foul,0,0
+169,158,PT06M32.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0
+170,158,PT06M32.00S,2,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons STEAL (2 STL),,,0,0
+171,159,PT06M26.00S,2,1610612749,MIL,2250,Simmons,B. Simmons,18,23,3,Made,1,36,34,70,v,Simmons 3' Driving Layup (12 PTS) (Redd 2 AST),Made Shot,Driving Layup Shot,0,0
+172,160,PT06M06.00S,2,1610612744,GSW,965,Fisher,D. Fisher,-21,43,5,Missed,1,0,0,0,h,MISS Fisher 5' Jump Shot,Missed Shot,Jump Shot,0,0
+173,161,PT06M04.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+174,162,PT06M04.00S,2,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons P.FOUL (P2.PN),Foul,Personal,0,0
+175,163,PT06M04.00S,2,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,SUB: Davis FOR Fisher,Substitution,,0,0
+176,164,PT06M04.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,37,34,71,h,Richardson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+177,165,PT06M04.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,38,34,72,h,Richardson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+178,166,PT05M47.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,18,41,4,Missed,1,0,0,0,v,MISS Magloire 4' Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+179,167,PT05M44.00S,2,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+180,168,PT05M42.00S,2,1610612749,MIL,693,Smith,J. Smith,-18,10,2,Made,1,38,36,74,v,Smith 2' Layup (4 PTS),Made Shot,Layup Shot,0,0
+181,169,PT05M22.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,-122,233,26,Missed,1,0,0,0,h,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+182,170,PT05M19.00S,2,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+183,171,PT05M10.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,120,7,12,Missed,1,0,0,0,h,MISS Dunleavy 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+184,171,PT05M10.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire BLOCK (1 BLK),,,0,0
+185,172,PT05M08.00S,2,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+186,173,PT05M03.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson S.FOUL (P1.T4),Foul,Shooting,0,0
+187,174,PT05M03.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+188,176,PT05M03.00S,2,1610612744,GSW,101147,Taft,C. Taft,0,0,0,,0,0,0,0,h,SUB: Biedrins FOR Taft,Substitution,,0,0
+189,177,PT05M03.00S,2,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,38,37,75,v,Ford Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+190,178,PT05M03.00S,2,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,38,38,76,v,Ford Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+191,179,PT04M53.00S,2,1610612744,GSW,1884,Davis,B. Davis,13,257,26,Missed,1,0,0,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+192,180,PT04M50.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,Redd REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+193,181,PT04M31.00S,2,1610612749,MIL,2250,Simmons,B. Simmons,-110,3,11,Made,1,38,40,78,v,Simmons 11' Jump Shot (14 PTS) (Ford 4 AST),Made Shot,Jump Shot,0,0
+194,182,PT04M31.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy S.FOUL (P1.PN),Foul,Shooting,0,0
+195,183,PT04M31.00S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Cheaney FOR Dunleavy,Substitution,,0,0
+196,184,PT04M31.00S,2,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,38,41,79,v,Simmons Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+197,185,PT04M15.00S,2,1610612744,GSW,384,Cheaney,C. Cheaney,187,-16,19,Made,1,40,41,81,h,Cheaney 19' Jump Shot (2 PTS) (Davis 3 AST),Made Shot,Jump Shot,0,0
+198,186,PT03M45.00S,2,1610612749,MIL,693,Smith,J. Smith,-56,30,6,Missed,1,0,0,0,v,MISS Smith 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+199,187,PT03M43.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+200,188,PT03M38.00S,2,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith P.FOUL (P2.PN),Foul,Personal,0,0
+201,189,PT03M38.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,41,41,82,h,Murphy Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+202,190,PT03M38.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,42,41,83,h,Murphy Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+203,191,PT03M29.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,-5,0,1,Made,1,42,43,85,v,Magloire 1' Slam Dunk (2 PTS) (Ford 5 AST),Made Shot,Slam Dunk Shot,0,0
+204,192,PT03M14.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,125,158,20,Missed,1,0,0,0,h,MISS Richardson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+205,193,PT03M10.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+206,194,PT03M09.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson P.FOUL (P2.PN),Foul,Personal,0,0
+207,195,PT03M09.00S,2,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,42,44,86,v,Ford Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+208,196,PT03M09.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Richardson,Substitution,,0,0
+209,197,PT03M09.00S,2,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,42,45,87,v,Ford Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+210,198,PT02M58.00S,2,1610612744,GSW,1884,Davis,B. Davis,-153,79,17,Missed,1,0,0,0,h,MISS Davis 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+211,199,PT02M55.00S,2,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+212,200,PT02M40.00S,2,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0
+213,201,PT02M40.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+214,203,PT02M40.00S,2,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,SUB: Kukoc FOR Smith,Substitution,,0,0
+215,204,PT02M27.00S,2,1610612744,GSW,1884,Davis,B. Davis,-225,109,25,Missed,1,0,0,0,h,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+216,205,PT02M24.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+217,206,PT02M22.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0
+218,206,PT02M22.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire STEAL (1 STL),,,0,0
+219,207,PT02M16.00S,2,1610612749,MIL,2551,Ford,T. Ford,28,18,3,Missed,1,0,0,0,v,MISS Ford 3' Layup,Missed Shot,Layup Shot,0,0
+220,208,PT02M14.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+221,209,PT02M14.00S,2,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford P.FOUL (P2.PN),Foul,Personal,0,0
+222,210,PT02M14.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,MISS Biedrins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+223,211,PT02M14.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+224,212,PT02M14.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,43,45,88,h,Biedrins Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+225,213,PT02M01.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins P.FOUL (P1.PN),Foul,Personal,0,0
+226,214,PT02M01.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,43,46,89,v,Magloire Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+227,215,PT02M01.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,MISS Magloire Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+228,216,PT01M59.00S,2,1610612744,GSW,384,Cheaney,C. Cheaney,0,0,0,,0,0,0,0,h,Cheaney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+229,217,PT01M42.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,-11,253,25,Missed,1,0,0,0,h,MISS Pietrus 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+230,218,PT01M39.00S,2,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+231,219,PT01M36.00S,2,1610612744,GSW,1884,Davis,B. Davis,233,-13,0,Missed,1,0,0,0,h,MISS Davis  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+232,220,PT01M34.00S,2,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+233,221,PT01M30.00S,2,1610612744,GSW,384,Cheaney,C. Cheaney,-197,45,20,Missed,1,0,0,0,h,MISS Cheaney 20' Jump Shot,Missed Shot,Jump Shot,0,0
+234,222,PT01M28.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+235,223,PT01M08.00S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire Traveling Turnover (P1.T8),Turnover,Traveling,0,0
+236,224,PT00M59.90S,2,1610612744,GSW,1884,Davis,B. Davis,62,18,6,Missed,1,0,0,0,h,MISS Davis 6' Jump Shot,Missed Shot,Jump Shot,0,0
+237,225,PT00M57.90S,2,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:9),Rebound,Unknown,0,0
+238,226,PT00M43.70S,2,1610612744,GSW,384,Cheaney,C. Cheaney,0,0,0,,0,0,0,0,h,Cheaney P.FOUL (P1.PN),Foul,Personal,0,0
+239,227,PT00M43.70S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,43,47,90,v,Redd Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+240,228,PT00M43.70S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,SUB: Dunleavy FOR Biedrins,Substitution,,0,0
+241,229,PT00M43.70S,2,1610612744,GSW,384,Cheaney,C. Cheaney,0,0,0,,0,0,0,0,h,SUB: Richardson FOR Cheaney,Substitution,,0,0
+242,230,PT00M43.70S,2,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,SUB: Bell FOR Simmons,Substitution,,0,0
+243,231,PT00M43.70S,2,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,SUB: Williams FOR Ford,Substitution,,0,0
+244,232,PT00M43.70S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,43,48,91,v,Redd Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+245,233,PT00M25.90S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,-16,17,2,Made,1,45,48,93,h,Dunleavy 2' Layup (2 PTS) (Murphy 1 AST),Made Shot,Layup Shot,0,0
+246,234,PT00M05.80S,2,1610612749,MIL,2072,Redd,M. Redd,-16,23,3,Missed,1,0,0,0,v,MISS Redd 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+247,235,PT00M03.60S,2,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+248,236,PT00M01.10S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus OFF.Foul (P2),Foul,Offensive,0,0
+249,237,PT00M01.10S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus Foul Turnover (P2.T8),Turnover,Foul,0,0
+250,238,PT00M01.10S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+251,240,PT00M00.20S,2,1610612749,MIL,2048,Magloire,J. Magloire,15,54,6,Missed,1,0,0,0,v,MISS Magloire 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+252,241,PT00M00.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+253,242,PT00M00.00S,2,0,,0,,,0,0,0,,0,45,48,93,,End of 2nd Period (11:39 PM EST),period,end,0,0
+254,244,PT12M00.00S,3,0,,0,,,0,0,0,,0,45,48,93,,Start of 3rd Period (11:55 PM EST),period,start,0,0
+255,245,PT11M47.00S,3,1610612744,GSW,1884,Davis,B. Davis,67,243,25,Missed,1,0,0,0,h,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+256,246,PT11M44.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+257,247,PT11M43.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,-153,104,19,Missed,1,0,0,0,h,MISS Murphy 19' Jump Shot,Missed Shot,Jump Shot,0,0
+258,248,PT11M40.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+259,249,PT11M35.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,100,243,26,Missed,1,0,0,0,h,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+260,250,PT11M32.00S,3,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+261,251,PT11M11.00S,3,1610612749,MIL,2250,Simmons,B. Simmons,-238,63,25,Made,1,45,51,96,v,Simmons 25' 3PT Jump Shot (18 PTS) (Magloire 1 AST),Made Shot,Jump Shot,0,0
+262,252,PT10M52.00S,3,1610612744,GSW,1884,Davis,B. Davis,-135,219,26,Missed,1,0,0,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+263,253,PT10M49.00S,3,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+264,254,PT10M49.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle L.B.FOUL (P3.T1),Foul,Loose Ball,0,0
+265,255,PT10M33.00S,3,1610612749,MIL,2048,Magloire,J. Magloire,0,43,4,Missed,1,0,0,0,v,MISS Magloire 4' Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+266,256,PT10M30.00S,3,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+267,257,PT10M23.00S,3,1610612749,MIL,2551,Ford,T. Ford,-141,222,26,Missed,1,0,0,0,v,MISS Ford 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+268,258,PT10M20.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+269,259,PT10M20.00S,3,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire P.FOUL (P2.T1),Foul,Personal,0,0
+270,260,PT10M09.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,153,125,20,Made,1,47,51,98,h,Richardson 20' Jump Shot (15 PTS) (Davis 4 AST),Made Shot,Jump Shot,0,0
+271,261,PT09M53.00S,3,1610612749,MIL,2072,Redd,M. Redd,-130,105,17,Missed,1,0,0,0,v,MISS Redd 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+272,262,PT09M50.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+273,263,PT09M32.00S,3,1610612744,GSW,1884,Davis,B. Davis,-146,0,15,Missed,1,0,0,0,h,MISS Davis 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+274,264,PT09M30.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+275,265,PT09M24.00S,3,1610612749,MIL,2072,Redd,M. Redd,-28,18,3,Missed,1,0,0,0,v,MISS Redd 3' Layup,Missed Shot,Layup Shot,0,0
+276,265,PT09M24.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy BLOCK (2 BLK),,,0,0
+277,266,PT09M22.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+278,267,PT09M19.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+279,268,PT09M05.00S,3,1610612749,MIL,2250,Simmons,B. Simmons,148,117,19,Made,1,47,53,100,v,Simmons 19' Jump Shot (20 PTS) (Ford 6 AST),Made Shot,Jump Shot,0,0
+280,269,PT08M43.00S,3,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons S.FOUL (P3.T2),Foul,Shooting,0,0
+281,270,PT08M43.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,MISS Dunleavy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+282,271,PT08M43.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+283,272,PT08M43.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,48,53,101,h,Dunleavy Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+284,273,PT08M25.00S,3,1610612749,MIL,2072,Redd,M. Redd,177,2,18,Missed,1,0,0,0,v,MISS Redd 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+285,274,PT08M24.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+286,275,PT08M24.00S,3,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire L.B.FOUL (P3.T3),Foul,Loose Ball,0,0
+287,276,PT08M14.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,176,77,19,Missed,1,0,0,0,h,MISS Richardson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+288,277,PT08M11.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+289,278,PT07M59.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0
+290,278,PT07M59.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis STEAL (2 STL),,,0,0
+291,279,PT07M55.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,7,1,Made,1,50,53,103,h,Richardson 1' Driving Layup (17 PTS) (Davis 5 AST),Made Shot,Driving Layup Shot,0,0
+292,280,PT07M38.00S,3,1610612749,MIL,2048,Magloire,J. Magloire,-38,23,4,Made,1,50,55,105,v,Magloire 4' Driving Hook Shot (5 PTS) (Ford 7 AST),Made Shot,Driving Hook Shot,0,0
+293,281,PT07M16.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,-25,35,4,Missed,1,0,0,0,h,MISS Foyle 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+294,282,PT07M14.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+295,283,PT07M05.00S,3,1610612749,MIL,2551,Ford,T. Ford,-87,114,14,Missed,1,0,0,0,v,MISS Ford 14' Jump Shot,Missed Shot,Jump Shot,0,0
+296,284,PT07M02.00S,3,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+297,285,PT06M43.00S,3,1610612749,MIL,2250,Simmons,B. Simmons,-18,23,3,Missed,1,0,0,0,v,MISS Simmons 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+298,286,PT06M42.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+299,287,PT06M42.00S,3,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons P.FOUL (P4.T4),Foul,Personal,0,0
+300,288,PT06M42.00S,3,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,SUB: Welsch FOR Simmons,Substitution,,0,0
+301,289,PT06M30.00S,3,1610612744,GSW,1884,Davis,B. Davis,21,22,3,Missed,1,0,0,0,h,MISS Davis 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+302,291,PT06M28.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+303,290,PT06M28.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,-18,8,2,Missed,1,0,0,0,h,MISS Foyle 2' Tip Shot,Missed Shot,Tip Shot,0,0
+304,292,PT06M25.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+305,293,PT06M22.00S,3,1610612749,MIL,2048,Magloire,J. Magloire,-10,5,1,Made,1,50,57,107,v,Magloire 1' Reverse Dunk (7 PTS) (Ford 8 AST),Made Shot,Reverse Dunk Shot,0,0
+306,294,PT06M06.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,-128,146,19,Missed,1,0,0,0,h,MISS Dunleavy 19' Jump Shot,Missed Shot,Jump Shot,0,0
+307,295,PT06M03.00S,3,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+308,296,PT05M57.00S,3,1610612749,MIL,2072,Redd,M. Redd,-100,233,25,Made,1,50,60,110,v,Redd 25' 3PT Jump Shot (16 PTS) (Ford 9 AST),Made Shot,Jump Shot,0,0
+309,297,PT05M53.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+310,299,PT05M53.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Richardson,Substitution,,0,0
+311,300,PT05M53.00S,3,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,SUB: Bogut FOR Magloire,Substitution,,0,0
+312,301,PT05M35.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy OFF.Foul (P1),Foul,Offensive,0,0
+313,302,PT05M35.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy Foul Turnover (P1.T10),Turnover,Foul,0,0
+314,303,PT05M21.00S,3,1610612749,MIL,2412,Welsch,J. Welsch,34,31,5,Missed,1,0,0,0,v,MISS Welsch 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+315,304,PT05M19.00S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+316,305,PT05M11.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut P.FOUL (P1.PN),Foul,Personal,0,0
+317,306,PT05M11.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+318,307,PT05M11.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+319,308,PT05M11.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+320,309,PT05M09.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+321,310,PT04M54.00S,3,1610612749,MIL,693,Smith,J. Smith,23,51,6,Made,1,50,62,112,v,Smith 6' Jump Hook Shot (6 PTS) (Welsch 1 AST),Made Shot,Jump Hook Shot,0,0
+322,311,PT04M41.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,-158,0,16,Missed,1,0,0,0,h,MISS Dunleavy 16' Jump Shot,Missed Shot,Jump Shot,0,0
+323,312,PT04M39.00S,3,1610612749,MIL,2412,Welsch,J. Welsch,0,0,0,,0,0,0,0,v,Welsch REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+324,313,PT04M35.00S,3,1610612749,MIL,2412,Welsch,J. Welsch,-16,10,2,Missed,1,0,0,0,v,MISS Welsch 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+325,314,PT04M33.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,Dunleavy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+326,315,PT04M17.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,151,20,15,Missed,1,0,0,0,h,MISS Murphy 15' Jump Shot,Missed Shot,Jump Shot,0,0
+327,316,PT04M15.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+328,317,PT04M13.00S,3,1610612749,MIL,2072,Redd,M. Redd,197,156,25,Made,1,50,65,115,v,Redd 25' 3PT Jump Shot (19 PTS) (Ford 10 AST),Made Shot,Jump Shot,0,0
+329,318,PT04M13.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis S.FOUL (P2.T2),Foul,Shooting,0,0
+330,319,PT04M13.00S,3,1610612744,GSW,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,h,SUB: Fisher FOR Dunleavy,Substitution,,0,0
+331,320,PT04M13.00S,3,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,SUB: Biedrins FOR Foyle,Substitution,,0,0
+332,321,PT04M13.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,50,66,116,v,Redd Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0
+333,322,PT04M02.00S,3,1610612744,GSW,1884,Davis,B. Davis,-34,257,26,Missed,1,0,0,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+334,323,PT03M59.00S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+335,324,PT03M57.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,98,153,18,Made,1,52,66,118,h,Murphy 18' Jump Shot (9 PTS) (Pietrus 1 AST),Made Shot,Jump Shot,0,0
+336,325,PT03M37.00S,3,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher S.FOUL (P3.T3),Foul,Shooting,0,0
+337,326,PT03M37.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy T.FOUL (P1.T3),Foul,Technical,0,0
+338,327,PT03M37.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,52,67,119,v,Redd Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,0
+339,328,PT03M37.00S,3,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,SUB: Richardson FOR Davis,Substitution,,0,0
+340,329,PT03M37.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,MISS Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+341,330,PT03M37.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+342,331,PT03M37.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,52,68,120,v,Smith Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+343,332,PT03M18.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith P.FOUL (P3.PN),Foul,Personal,0,0
+344,333,PT03M18.00S,3,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,SUB: Kukoc FOR Smith,Substitution,,0,0
+345,334,PT03M18.00S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,53,68,121,h,Pietrus Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+346,335,PT03M18.00S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,54,68,122,h,Pietrus Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+347,336,PT03M08.00S,3,1610612749,MIL,2072,Redd,M. Redd,-33,59,7,Made,1,54,70,124,v,Redd 7' Running Jump Shot (23 PTS),Made Shot,Running Jump Shot,0,0
+348,337,PT02M46.00S,3,1610612744,GSW,965,Fisher,D. Fisher,-235,36,24,Missed,1,0,0,0,h,MISS Fisher 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+349,338,PT02M44.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+350,339,PT02M35.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,-3,8,1,Made,1,54,72,126,v,Bogut 1' Slam Dunk (2 PTS) (Ford 11 AST),Made Shot,Slam Dunk Shot,0,0
+351,340,PT02M21.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,-75,243,25,Made,1,57,72,129,h,Murphy 25' 3PT Jump Shot (12 PTS) (Fisher 3 AST),Made Shot,Jump Shot,0,0
+352,341,PT02M01.00S,3,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford OFF.Foul (P3),Foul,Offensive,0,0
+353,342,PT02M01.00S,3,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford Foul Turnover (P2.T10),Turnover,Foul,0,0
+354,343,PT02M01.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+355,345,PT02M01.00S,3,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,SUB: Cabarkapa FOR Murphy,Substitution,,0,0
+356,346,PT02M01.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,SUB: Williams FOR Redd,Substitution,,0,0
+357,347,PT01M47.00S,3,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams S.FOUL (P3.PN),Foul,Shooting,0,0
+358,348,PT01M47.00S,3,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,58,72,130,h,Fisher Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+359,349,PT01M47.00S,3,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,59,72,131,h,Fisher Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+360,350,PT01M32.00S,3,1610612749,MIL,101106,Bogut,A. Bogut,-5,5,1,Made,1,59,74,133,v,Bogut 1' Slam Dunk (4 PTS) (Ford 12 AST),Made Shot,Slam Dunk Shot,0,0
+361,351,PT01M15.00S,3,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0,0,0,v,Kukoc S.FOUL (P2.PN),Foul,Shooting,0,0
+362,352,PT01M15.00S,3,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,60,74,134,h,Cabarkapa Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+363,353,PT01M15.00S,3,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,0,0,0,h,MISS Cabarkapa Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+364,354,PT01M13.00S,3,1610612749,MIL,2412,Welsch,J. Welsch,0,0,0,,0,0,0,0,v,Welsch REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+365,355,PT01M03.00S,3,1610612749,MIL,389,Kukoc,T. Kukoc,-20,191,19,Missed,1,0,0,0,v,MISS Kukoc 19' Jump Shot,Missed Shot,Jump Shot,0,0
+366,356,PT01M00.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+367,357,PT00M45.70S,3,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher OFF.Foul (P4),Foul,Offensive,0,0
+368,358,PT00M45.70S,3,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher Foul Turnover (P1.T11),Turnover,Foul,0,0
+369,360,PT00M30.90S,3,1610612749,MIL,101106,Bogut,A. Bogut,6,8,1,Missed,1,0,0,0,v,MISS Bogut 1' Layup,Missed Shot,Layup Shot,0,0
+370,360,PT00M30.90S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus BLOCK (1 BLK),,,0,0
+371,361,PT00M28.80S,3,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+372,362,PT00M23.90S,3,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,143,140,20,Missed,1,0,0,0,h,MISS Cabarkapa 20' Jump Shot,Missed Shot,Jump Shot,0,0
+373,363,PT00M20.90S,3,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+374,364,PT00M02.60S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus S.FOUL (P3.T4),Foul,Shooting,0,0
+375,365,PT00M02.60S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,MISS Bogut Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+376,366,PT00M02.60S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+377,367,PT00M02.60S,3,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,SUB: Bell FOR Ford,Substitution,,0,0
+378,368,PT00M02.60S,3,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,60,75,135,v,Bogut Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+379,369,PT00M00.20S,3,1610612744,GSW,965,Fisher,D. Fisher,-146,381,41,Missed,1,0,0,0,h,MISS Fisher 41' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+380,370,PT00M00.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+381,371,PT00M00.00S,3,0,,0,,,0,0,0,,0,60,75,135,,End of 3rd Period (12:20 PM EST),period,end,0,0
+382,373,PT12M00.00S,4,0,,0,,,0,0,0,,0,60,75,135,,Start of 4th Period (12:23 PM EST),period,start,0,0
+383,374,PT11M48.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,-31,20,4,Missed,1,0,0,0,v,MISS Bogut 4' Jump Shot,Missed Shot,Jump Shot,0,0
+384,374,PT11M48.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle BLOCK (5 BLK),,,0,0
+385,375,PT11M46.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:5 Def:4),Rebound,Unknown,0,0
+386,376,PT11M45.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,-20,17,3,Made,1,60,77,137,v,Bogut 3' Layup (7 PTS),Made Shot,Layup Shot,0,0
+387,377,PT11M33.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0,0,0,v,Kukoc Violation:Kicked Ball,Violation,Kicked Ball,0,0
+388,378,PT11M26.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,-138,209,25,Made,1,63,77,140,h,Pietrus 25' 3PT Jump Shot (16 PTS) (Richardson 2 AST),Made Shot,Jump Shot,0,0
+389,379,PT10M56.00S,4,1610612749,MIL,2250,Simmons,B. Simmons,-158,-5,16,Missed,1,0,0,0,v,MISS Simmons 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+390,380,PT10M54.00S,4,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+391,381,PT10M54.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus P.FOUL (P4.T1),Foul,Personal,0,0
+392,382,PT10M47.00S,4,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons Traveling Turnover (P2.T11),Turnover,Traveling,0,0
+393,383,PT10M34.00S,4,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,-194,3,19,Missed,1,0,0,0,h,MISS Cabarkapa 19' Jump Shot,Missed Shot,Jump Shot,0,0
+394,384,PT10M32.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0
+395,385,PT10M32.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle L.B.FOUL (P4.T2),Foul,Loose Ball,0,0
+396,386,PT10M13.00S,4,1610612749,MIL,2250,Simmons,B. Simmons,-148,0,15,Missed,1,0,0,0,v,MISS Simmons 15' Jump Shot,Missed Shot,Jump Shot,0,0
+397,388,PT10M11.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:6 Def:4),Rebound,Unknown,0,0
+398,387,PT10M11.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,-2,2,0,Missed,1,0,0,0,v,MISS Bogut  Tip Shot,Missed Shot,Tip Shot,0,0
+399,390,PT10M09.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0,0,0,v,Kukoc REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+400,389,PT10M09.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,Missed,1,0,0,0,v,MISS Kukoc  Tip Shot,Missed Shot,Tip Shot,0,0
+401,391,PT10M07.00S,4,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+402,392,PT09M56.00S,4,1610612749,MIL,2294,Bell,C. Bell,5,13,1,Made,1,63,79,142,v,Bell 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+403,393,PT09M41.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,140,237,28,Missed,1,0,0,0,h,MISS Richardson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+404,394,PT09M38.00S,4,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+405,395,PT09M21.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,-3,53,5,Missed,1,0,0,0,v,MISS Bogut 5' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+406,396,PT09M19.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,Foyle REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+407,397,PT09M06.00S,4,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,13,26,3,Missed,1,0,0,0,h,MISS Cabarkapa 3' Running Layup,Missed Shot,Running Layup Shot,0,0
+408,398,PT09M05.00S,4,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+409,399,PT08M48.00S,4,1610612749,MIL,2294,Bell,C. Bell,13,22,3,Missed,1,0,0,0,v,MISS Bell 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+410,400,PT08M45.00S,4,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,0,0,0,h,Cabarkapa REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+411,401,PT08M40.00S,4,1610612744,GSW,965,Fisher,D. Fisher,-21,257,26,Made,1,66,79,145,h,Fisher 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+412,402,PT08M22.00S,4,1610612749,MIL,2250,Simmons,B. Simmons,-23,10,3,Missed,1,0,0,0,v,MISS Simmons 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+413,403,PT08M21.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:7 Def:4),Rebound,Unknown,0,0
+414,404,PT08M19.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,8,10,1,Made,1,66,81,147,v,Bogut 1' Layup (9 PTS),Made Shot,Layup Shot,0,0
+415,405,PT08M04.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,12,1,Made,1,68,81,149,h,Richardson 1' Driving Layup (19 PTS) (Fisher 4 AST),Made Shot,Driving Layup Shot,0,0
+416,406,PT07M55.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+417,408,PT07M55.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,SUB: Murphy FOR Foyle,Substitution,,0,0
+418,409,PT07M55.00S,4,1610612744,GSW,2560,Cabarkapa,Z. Cabarkapa,0,0,0,,0,0,0,0,h,SUB: Davis FOR Cabarkapa,Substitution,,0,0
+419,410,PT07M55.00S,4,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,SUB: Ford FOR Williams,Substitution,,0,0
+420,411,PT07M55.00S,4,1610612749,MIL,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Smith FOR Bogut,Substitution,,0,0
+421,412,PT07M55.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0,0,0,v,SUB: Magloire FOR Kukoc,Substitution,,0,0
+422,413,PT07M55.00S,4,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,v,SUB: Redd FOR Bell,Substitution,,0,0
+423,414,PT07M42.00S,4,1610612749,MIL,2072,Redd,M. Redd,-159,0,16,Made,1,68,83,151,v,Redd 16' Jump Shot (25 PTS) (Simmons 2 AST),Made Shot,Jump Shot,0,0
+424,415,PT07M27.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,167,191,25,Missed,1,0,0,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+425,416,PT07M24.00S,4,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+426,417,PT07M18.00S,4,1610612744,GSW,1884,Davis,B. Davis,161,207,26,Made,1,71,83,154,h,Davis 26' 3PT Jump Shot (6 PTS) (Fisher 5 AST),Made Shot,Jump Shot,0,0
+427,418,PT07M02.00S,4,1610612749,MIL,2072,Redd,M. Redd,38,151,16,Missed,1,0,0,0,v,MISS Redd 16' Jump Shot,Missed Shot,Jump Shot,0,0
+428,419,PT06M59.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+429,420,PT06M53.00S,4,1610612744,GSW,965,Fisher,D. Fisher,232,-6,0,Made,1,74,83,157,h,Fisher  3PT Jump Shot (12 PTS) (Davis 6 AST),Made Shot,Jump Shot,0,0
+430,421,PT06M24.00S,4,1610612749,MIL,2072,Redd,M. Redd,-16,12,2,Missed,1,0,0,0,v,MISS Redd 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+431,423,PT06M22.00S,4,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:3 Def:8),Rebound,Unknown,0,0
+432,422,PT06M22.00S,4,1610612749,MIL,693,Smith,J. Smith,0,0,0,Made,1,74,85,159,v,Smith  Tip Shot (9 PTS),Made Shot,Tip Shot,0,0
+433,424,PT06M14.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,6,5,1,Made,1,76,85,161,h,Richardson 1' Alley Oop Dunk (21 PTS) (Davis 7 AST),Made Shot,Alley Oop Dunk Shot,0,0
+434,425,PT05M47.00S,4,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0
+435,425,PT05M47.00S,4,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis STEAL (3 STL),,,0,0
+436,426,PT05M39.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,-235,45,24,Missed,1,0,0,0,h,MISS Richardson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+437,427,PT05M38.00S,4,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+438,428,PT05M15.00S,4,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,0
+439,428,PT05M15.00S,4,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis STEAL (4 STL),,,0,0
+440,429,PT04M59.00S,4,1610612744,GSW,1884,Davis,B. Davis,20,13,2,Missed,1,0,0,0,h,MISS Davis 2' Layup,Missed Shot,Layup Shot,0,0
+441,430,PT04M57.00S,4,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+442,431,PT04M54.00S,4,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford Lost Ball Turnover (P5.T14),Turnover,Lost Ball,0,0
+443,431,PT04M54.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus STEAL (2 STL),,,0,0
+444,432,PT04M41.00S,4,1610612744,GSW,1884,Davis,B. Davis,-13,7,1,Made,1,78,85,163,h,Davis 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+445,433,PT04M25.00S,4,1610612749,MIL,2072,Redd,M. Redd,153,95,18,Missed,1,0,0,0,v,MISS Redd 18' Jump Shot,Missed Shot,Jump Shot,0,0
+446,434,PT04M23.00S,4,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+447,435,PT04M18.00S,4,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith P.FOUL (P4.T1),Foul,Personal,0,0
+448,436,PT04M18.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+449,438,PT04M18.00S,4,1610612749,MIL,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,SUB: Williams FOR Magloire,Substitution,,0,0
+450,439,PT04M01.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,-230,17,0,Missed,1,0,0,0,h,MISS Pietrus  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+451,440,PT03M56.00S,4,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:3 Def:9),Rebound,Unknown,0,0
+452,441,PT03M56.00S,4,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy P.FOUL (P2.T3),Foul,Personal,0,0
+453,442,PT03M45.00S,4,1610612749,MIL,2072,Redd,M. Redd,-235,7,24,Missed,1,0,0,0,v,MISS Redd 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+454,443,PT03M42.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+455,444,PT03M36.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,3,12,1,Made,1,80,85,165,h,Pietrus 1' Layup (18 PTS) (Fisher 6 AST),Made Shot,Layup Shot,0,0
+456,445,PT03M17.00S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher P.FOUL (P5.T4),Foul,Personal,0,0
+457,446,PT03M09.00S,4,1610612749,MIL,693,Smith,J. Smith,-26,204,21,Missed,1,0,0,0,v,MISS Smith 21' Jump Shot,Missed Shot,Jump Shot,0,0
+458,447,PT03M06.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+459,448,PT02M58.00S,4,1610612744,GSW,1884,Davis,B. Davis,13,3,1,Missed,1,0,0,0,h,MISS Davis 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+460,449,PT02M55.00S,4,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,Ford REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+461,450,PT02M51.00S,4,1610612749,MIL,2072,Redd,M. Redd,-2,15,2,Made,1,80,87,167,v,Redd 2' Layup (27 PTS) (Ford 13 AST),Made Shot,Layup Shot,0,0
+462,451,PT02M22.00S,4,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith S.FOUL (P5.T2),Foul,Shooting,0,0
+463,452,PT02M22.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+464,454,PT02M22.00S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,81,87,168,h,Fisher Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+465,455,PT02M22.00S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,82,87,169,h,Fisher Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+466,456,PT02M07.00S,4,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0,0,0,v,Redd Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0
+467,456,PT02M07.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus STEAL (3 STL),,,0,0
+468,457,PT01M45.00S,4,1610612744,GSW,965,Fisher,D. Fisher,-61,112,13,Missed,1,0,0,0,h,MISS Fisher 13' Jump Shot,Missed Shot,Jump Shot,0,0
+469,458,PT01M42.00S,4,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+470,459,PT01M24.00S,4,1610612749,MIL,2590,Williams,M. Williams,-107,114,16,Missed,1,0,0,0,v,MISS Williams 16' Jump Shot,Missed Shot,Jump Shot,0,0
+471,460,PT01M21.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+472,461,PT01M16.00S,4,1610612749,MIL,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams P.FOUL (P4.T3),Foul,Personal,0,0
+473,462,PT01M09.00S,4,1610612744,GSW,2211,Murphy,T. Murphy,11,255,26,Missed,1,0,0,0,h,MISS Murphy 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+474,463,PT01M07.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Unknown,0,0
+475,464,PT00M59.90S,4,1610612744,GSW,1884,Davis,B. Davis,149,220,27,Made,1,85,87,172,h,Davis 27' 3PT Jump Shot (11 PTS) (Pietrus 2 AST),Made Shot,Jump Shot,0,0
+476,465,PT00M35.90S,4,1610612749,MIL,2250,Simmons,B. Simmons,-66,22,7,Missed,1,0,0,0,v,MISS Simmons 7' Jump Shot,Missed Shot,Jump Shot,0,0
+477,465,PT00M35.90S,4,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy BLOCK (2 BLK),,,0,0
+478,466,PT00M34.80S,4,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:4 Def:9),Rebound,Unknown,0,0
+479,468,PT00M34.80S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+480,470,PT00M34.80S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,SUB: Foyle FOR Pietrus,Substitution,,0,0
+481,471,PT00M34.80S,4,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Jump Ball Davis vs. Smith: Tip to Ford,Jump Ball,,0,0
+482,472,PT00M29.80S,4,1610612749,MIL,2551,Ford,T. Ford,-56,49,7,Made,1,85,89,174,v,Ford 7' Running Jump Shot (8 PTS),Made Shot,Running Jump Shot,0,0
+483,473,PT00M29.80S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+484,475,PT00M29.80S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Foyle,Substitution,,0,0
+485,476,PT00M18.80S,4,1610612744,GSW,2211,Murphy,T. Murphy,0,45,5,Made,1,87,89,176,h,Murphy 5' Running Jump Shot (14 PTS),Made Shot,Running Jump Shot,0,0
+486,477,PT00M14.20S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher P.FOUL (P6.PN),Foul,Personal,0,0
+487,479,PT00M14.20S,4,1610612744,GSW,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,SUB: Dunleavy FOR Fisher,Substitution,,0,0
+488,480,PT00M14.20S,4,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,0,0,0,v,MISS Ford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+489,481,PT00M14.20S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+490,482,PT00M14.20S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,SUB: Foyle FOR Richardson,Substitution,,0,0
+491,483,PT00M14.20S,4,1610612749,MIL,2551,Ford,T. Ford,0,0,0,,0,87,90,177,v,Ford Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+492,484,PT00M14.20S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+493,486,PT00M14.20S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0,0,0,h,SUB: Richardson FOR Foyle,Substitution,,0,0
+494,487,PT00M14.20S,4,1610612749,MIL,693,Smith,J. Smith,0,0,0,,0,0,0,0,v,SUB: Bell FOR Smith,Substitution,,0,0
+495,488,PT00M09.90S,4,1610612744,GSW,2202,Richardson,J. Richardson,174,197,26,Missed,1,0,0,0,h,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+496,489,PT00M06.90S,4,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+497,490,PT00M06.90S,4,1610612744,GSW,2211,Murphy,T. Murphy,0,0,0,,0,0,0,0,h,Murphy P.FOUL (P3.PN),Foul,Personal,0,0
+498,491,PT00M06.90S,4,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,MISS Simmons Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+499,492,PT00M06.90S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0
+500,493,PT00M06.90S,4,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,MISS Simmons Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+501,494,PT00M06.30S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+502,495,PT00M06.30S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Short (Full 6 Short 1),Timeout,Short,0,0
+503,497,PT00M03.90S,4,1610612744,GSW,1884,Davis,B. Davis,-38,204,21,Missed,1,0,0,0,h,MISS Davis 21' Jump Shot,Missed Shot,Jump Shot,0,0
+504,498,PT00M00.00S,4,1610612749,MIL,2250,Simmons,B. Simmons,0,0,0,,0,0,0,0,v,Simmons REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+505,499,PT00M00.00S,4,0,,0,,,0,0,0,,0,87,90,177,,End of 4th Period (12:57 PM EST),period,end,0,0

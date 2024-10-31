@@ -1,0 +1,535 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,1,0
+2,4,PT12M00.00S,1,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Jump Ball Poeltl vs. Ayton: Tip to K. Johnson,Jump Ball,,1,0
+3,7,PT11M48.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,1,0
+4,9,PT11M38.00S,1,1610612759,SAS,1627751,Poeltl,J. Poeltl,2,85,9,Missed,1,,,0,h,MISS Poeltl 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+5,10,PT11M35.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+6,11,PT11M31.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,-170,200,26,Made,1,0,3,3,v,Bridges 26' 3PT Pullup Jump Shot (3 PTS) (Paul 1 AST),Made Shot,Pullup Jump shot,1,0
+7,13,PT11M12.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,-15,15,2,Missed,1,,,0,h,MISS K. Johnson 2' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+8,14,PT11M12.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+9,15,PT11M06.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,158,193,25,Missed,1,,,0,v,MISS Bridges 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+10,16,PT11M04.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+11,17,PT10M51.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+12,17,PT10M51.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges STEAL (1 STL),,,1,0
+13,19,PT10M47.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+14,19,PT10M47.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,1,0
+15,21,PT10M43.00S,1,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,-223,-22,0,Missed,1,,,0,h,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+16,22,PT10M41.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0
+17,24,PT10M30.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,67,104,12,Missed,1,,,0,h,MISS Sochan 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+18,25,PT10M28.00S,1,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+19,26,PT10M25.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0
+20,28,PT10M25.00S,1,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,1,3,4,h,Bates-Diop Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+21,29,PT10M25.00S,1,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,2,3,5,h,Bates-Diop Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+22,30,PT09M59.00S,1,1610612756,PHX,101108,Paul,C. Paul,44,94,10,Made,1,2,5,7,v,Paul 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+23,31,PT09M48.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,-2,79,8,Missed,1,,,0,h,MISS Sochan 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+24,32,PT09M46.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+25,33,PT09M46.00S,1,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0
+26,34,PT09M33.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,97,130,16,Missed,1,,,0,v,MISS Johnson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+27,35,PT09M30.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+28,36,PT09M27.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,2,50,5,Missed,1,,,0,v,MISS Ayton 5' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+29,37,PT09M27.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+30,38,PT09M19.00S,1,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,-2,72,7,Missed,1,,,0,h,MISS Bates-Diop 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+31,39,PT09M15.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+32,40,PT09M15.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,Missed,1,,,0,h,MISS Sochan Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+33,41,PT09M14.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+34,42,PT09M08.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,26,3,Made,1,2,7,9,v,Ayton 3' Hook Shot (2 PTS) (Paul 2 AST),Made Shot,Hook Shot,1,0
+35,44,PT08M58.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,1,0
+36,46,PT08M58.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+37,47,PT08M58.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0
+38,48,PT08M58.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,3,7,10,h,Jones Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0
+39,49,PT08M42.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,5,1,Made,1,3,9,12,v,Ayton 1' Alley Oop Dunk (4 PTS) (Bridges 1 AST),Made Shot,Alley Oop Dunk Shot,1,0
+40,51,PT08M41.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+41,52,PT08M22.00S,1,1610612759,SAS,1627751,Poeltl,J. Poeltl,5,25,3,Made,1,5,9,14,h,Poeltl 3' Hook Shot (2 PTS) (K. Johnson 1 AST),Made Shot,Hook Shot,1,0
+42,54,PT08M08.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,4,85,9,Made,1,5,11,16,v,Ayton 9' Floating Jump Shot (6 PTS) (Paul 3 AST),Made Shot,Floating Jump shot,1,0
+43,56,PT07M49.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,-103,21,11,Made,1,7,11,18,h,K. Johnson 11' Pullup Jump Shot (2 PTS) (Jones 1 AST),Made Shot,Pullup Jump shot,1,0
+44,58,PT07M36.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-11,90,9,Missed,1,,,0,v,MISS Ayton 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+45,59,PT07M33.00S,1,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+46,60,PT07M20.00S,1,1610612759,SAS,1630200,Jones,T. Jones,131,-13,13,Made,1,9,11,20,h,Jones 13' Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,0
+47,61,PT07M09.00S,1,1610612756,PHX,1628470,Craig,T. Craig,-29,149,15,Missed,1,,,0,v,MISS Craig 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+48,62,PT07M05.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+49,63,PT06M56.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,-6,1,1,Made,1,11,11,22,h,K. Johnson 1' Driving Finger Roll Layup (4 PTS) (Jones 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+50,65,PT06M37.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,87,95,13,Made,1,11,13,24,v,Bridges 13' Pullup Jump Shot (5 PTS) (Ayton 1 AST),Made Shot,Pullup Jump shot,1,0
+51,68,PT06M17.00S,1,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl OFF.Foul (P1) (P.Ransom),Foul,Offensive,1,0
+52,70,PT06M17.00S,1,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,1,0
+53,71,PT06M07.00S,1,1610612756,PHX,101108,Paul,C. Paul,26,109,11,Made,1,11,15,26,v,Paul 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+54,72,PT05M53.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,-222,106,25,Missed,1,,,0,h,MISS K. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+55,73,PT05M53.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0
+56,74,PT05M53.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton L.B.FOUL (P2.T4) (P.Ransom),Foul,Loose Ball,1,0
+57,76,PT05M53.00S,1,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,SUB: Branham FOR Bates-Diop,Substitution,,0,0
+58,78,PT05M42.00S,1,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl Traveling Turnover (P3.T4),Turnover,Traveling,1,0
+59,79,PT05M30.00S,1,1610612756,PHX,101108,Paul,C. Paul,83,104,13,Made,1,11,17,28,v,Paul 13' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+60,80,PT05M12.00S,1,1610612759,SAS,1630200,Jones,T. Jones,72,124,14,Missed,1,,,0,h,MISS Jones 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+61,81,PT05M10.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+62,82,PT05M02.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,1,0
+63,84,PT05M02.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,11,18,29,v,Johnson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+64,85,PT05M02.00S,1,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,SUB: McDermott FOR Poeltl,Substitution,,0,0
+65,86,PT05M02.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Collins FOR Jones,Substitution,,0,0
+66,87,PT05M02.00S,1,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,SUB: D. Lee FOR Craig,Substitution,,0,0
+67,91,PT05M02.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,11,19,30,v,Johnson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+68,92,PT04M37.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,7,269,27,Made,1,14,19,33,h,K. Johnson 27' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,0
+69,93,PT04M24.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,-216,130,25,Made,1,14,22,36,v,Johnson 25' 3PT Jump Shot (5 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,0
+70,95,PT04M13.00S,1,1610612759,SAS,203926,McDermott,D. McDermott,50,248,25,Missed,1,,,0,h,MISS McDermott 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+71,96,PT04M10.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+72,97,PT03M59.00S,1,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,D. Lee Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+73,97,PT03M59.00S,1,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott STEAL (1 STL),,,1,0
+74,99,PT03M55.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,-16,1,2,Made,1,16,22,38,h,Sochan 2' Cutting Layup Shot (2 PTS) (McDermott 1 AST),Made Shot,Cutting Layup Shot,1,0
+75,101,PT03M55.00S,1,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+76,102,PT03M55.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,SUB: Saric FOR Ayton,Substitution,,0,0
+77,103,PT03M55.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Biyombo FOR Johnson,Substitution,,0,0
+78,106,PT03M44.00S,1,1610612756,PHX,1627814,Lee,D. Lee,-237,49,24,Missed,1,,,0,v,MISS D. Lee 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+79,107,PT03M42.00S,1,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+80,108,PT03M42.00S,1,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,1,0
+81,110,PT03M42.00S,1,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,16,23,39,v,Biyombo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+82,111,PT03M42.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,SUB: S. Lee FOR Paul,Substitution,,0,0
+83,113,PT03M42.00S,1,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,16,24,40,v,Biyombo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+84,114,PT03M30.00S,1,1610612759,SAS,1631103,Branham,M. Branham,181,199,27,Missed,1,,,0,h,MISS Branham 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+85,115,PT03M26.00S,1,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+86,116,PT03M16.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,33,142,15,Missed,1,,,0,v,MISS Bridges 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+87,117,PT03M12.00S,1,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+88,118,PT03M07.00S,1,1610612756,PHX,203967,Saric,D. Saric,-61,-1,6,Missed,1,,,0,v,MISS Saric 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+89,119,PT03M02.00S,1,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+90,120,PT03M02.00S,1,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,Missed,1,,,0,v,MISS Biyombo Putback Layup,Missed Shot,Putback Layup Shot,1,0
+91,121,PT03M02.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+92,122,PT02M47.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,227,34,0,Missed,1,,,0,h,MISS Sochan 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+93,123,PT02M45.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+94,124,PT02M42.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,-1,6,1,Made,1,18,24,42,h,Sochan 1' Cutting Dunk Shot (4 PTS) (Collins 1 AST),Made Shot,Cutting Dunk Shot,1,0
+95,126,PT02M19.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,-16,1,2,Made,1,18,26,44,v,Bridges 2' Cutting Layup Shot (7 PTS) (S. Lee 1 AST),Made Shot,Cutting Layup Shot,1,0
+96,128,PT02M04.00S,1,1610612759,SAS,203926,McDermott,D. McDermott,-234,-10,0,Missed,1,,,0,h,MISS McDermott 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+97,129,PT02M01.00S,1,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,D. Lee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+98,130,PT01M49.00S,1,1610612756,PHX,1630240,Lee,S. Lee,-67,247,26,Made,1,18,29,47,v,S. Lee 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,0
+99,131,PT01M35.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,54,15,6,Made,1,20,29,49,h,K. Johnson 6' Driving Layup (9 PTS) (Sochan 1 AST),Made Shot,Driving Layup Shot,1,0
+100,133,PT01M12.00S,1,1610612756,PHX,203967,Saric,D. Saric,37,193,20,Missed,1,,,0,v,MISS Saric 20' Jump Shot,Missed Shot,Jump Shot,1,0
+101,134,PT01M10.00S,1,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,D. Lee REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+102,135,PT01M08.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,-235,5,24,Missed,1,,,0,v,MISS Bridges 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+103,136,PT01M04.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+104,137,PT00M54.90S,1,1610612759,SAS,1629640,Johnson,K. Johnson,-12,263,26,Made,1,23,29,52,h,K. Johnson 26' 3PT Jump Shot (12 PTS) (Sochan 2 AST),Made Shot,Jump Shot,1,0
+105,139,PT00M38.00S,1,1610612756,PHX,202687,Biyombo,B. Biyombo,28,65,7,Made,1,23,31,54,v,Biyombo 7' Turnaround Hook Shot (4 PTS) (S. Lee 2 AST),Made Shot,Turnaround Hook Shot,1,0
+106,141,PT00M31.80S,1,1610612759,SAS,1631110,Sochan,J. Sochan,16,13,2,Made,1,25,31,56,h,Sochan 2' Driving Finger Roll Layup (6 PTS) (K. Johnson 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+107,154,PT00M31.80S,1,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Defensive Goaltending,Violation,Defensive Goaltending,1,0
+108,143,PT00M31.80S,1,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,1,0
+109,145,PT00M31.80S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: S. Johnson FOR K. Johnson,Substitution,,0,0
+110,146,PT00M31.80S,1,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,SUB: Wesley FOR McDermott,Substitution,,0,0
+111,149,PT00M31.80S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,SUB: Okogie FOR Bridges,Substitution,,0,0
+112,151,PT00M31.80S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,26,31,57,h,Sochan Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0
+113,152,PT00M14.40S,1,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,1,0
+114,155,PT00M14.40S,1,1610612756,PHX,1630240,Lee,S. Lee,0,0,0,,0,26,32,58,v,S. Lee Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0
+115,156,PT00M14.40S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,SUB: McDermott FOR Sochan,Substitution,,0,0
+116,158,PT00M14.40S,1,1610612756,PHX,1630240,Lee,S. Lee,0,0,0,,0,26,33,59,v,S. Lee Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0
+117,159,PT00M00.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,-28,63,7,Missed,1,,,0,h,MISS Collins 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+118,160,PT00M00.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0
+119,161,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,33,59,,End of 1st Period (8:37 PM EST),period,end,1,0
+120,162,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,33,59,,Start of 2nd Period (8:40 PM EST),period,start,0,0
+121,163,PT11M46.00S,2,1610612756,PHX,1627814,Lee,D. Lee,28,157,16,Made,1,26,35,61,v,D. Lee 16' Pullup Jump Shot (2 PTS) (Biyombo 1 AST),Made Shot,Pullup Jump shot,1,0
+122,165,PT11M21.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+123,165,PT11M21.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo STEAL (1 STL),,,1,0
+124,167,PT11M12.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,-168,196,26,Missed,1,,,0,v,MISS Okogie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+125,168,PT11M08.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+126,169,PT11M08.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,Missed,1,,,0,v,MISS Saric Putback Layup,Missed Shot,Putback Layup Shot,1,0
+127,170,PT11M08.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+128,171,PT10M59.00S,2,1610612759,SAS,1626169,Johnson,S. Johnson,-76,43,9,Missed,1,,,0,h,MISS S. Johnson 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+129,172,PT10M59.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+130,173,PT10M52.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,6,2,1,Made,1,26,37,63,v,Biyombo 1' Layup (6 PTS) (Saric 1 AST),Made Shot,Layup Shot,1,0
+131,175,PT10M38.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,50,155,16,Missed,1,,,0,h,MISS Wesley 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+132,176,PT10M38.00S,2,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0
+133,178,PT10M18.00S,2,1610612756,PHX,203967,Saric,D. Saric,-28,8,3,Missed,1,,,0,v,MISS Saric 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+134,178,PT10M18.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins BLOCK (1 BLK),,,1,0
+135,180,PT10M14.00S,2,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+136,181,PT10M10.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,-120,220,25,Made,1,29,37,66,h,McDermott 25' 3PT Pullup Jump Shot (3 PTS) (S. Johnson 1 AST),Made Shot,Pullup Jump shot,1,0
+137,183,PT09M55.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,D. Lee Out of Bounds Lost Ball Turnover (P2.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0
+138,184,PT09M42.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,26,5,3,Made,1,31,37,68,h,McDermott 3' Driving Finger Roll Layup (5 PTS) (Collins 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+139,186,PT09M42.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,v,Okogie Violation:Defensive Goaltending (P.Ransom),Violation,Defensive Goaltending,1,0
+140,187,PT09M30.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,22,107,11,Made,1,31,39,70,v,Biyombo 11' Floating Jump Shot (8 PTS) (Okogie 1 AST),Made Shot,Floating Jump shot,1,0
+141,190,PT09M18.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,1,0
+142,192,PT09M07.00S,2,1610612759,SAS,1631103,Branham,M. Branham,12,9,2,Missed,1,,,0,h,MISS Branham 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+143,193,PT09M04.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+144,194,PT09M00.00S,2,1610612759,SAS,1631103,Branham,M. Branham,18,57,6,Missed,1,,,0,h,MISS Branham 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+145,195,PT09M00.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+146,196,PT08M57.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,1,0
+147,198,PT08M50.00S,2,1610612756,PHX,1627814,Lee,D. Lee,-15,75,8,Made,1,31,41,72,v,D. Lee 8' Floating Jump Shot (4 PTS) (Biyombo 2 AST),Made Shot,Floating Jump shot,1,0
+148,200,PT08M40.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0
+149,200,PT08M40.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,D. Lee STEAL (1 STL),,,1,0
+150,202,PT08M34.00S,2,1610612756,PHX,1627814,Lee,D. Lee,13,2,1,Missed,1,,,0,v,MISS D. Lee 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,0
+151,203,PT08M30.00S,2,1610612756,PHX,1630240,Lee,S. Lee,0,0,0,,0,,,0,v,S. Lee REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+152,204,PT08M30.00S,2,1610612756,PHX,1630240,Lee,S. Lee,0,0,0,Missed,1,,,0,v,MISS S. Lee Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+153,205,PT08M29.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+154,206,PT08M26.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,-9,9,1,Missed,1,,,0,h,MISS McDermott 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+155,207,PT08M26.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+156,208,PT08M26.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,Missed,1,,,0,h,MISS Wesley Putback Layup,Missed Shot,Putback Layup Shot,1,0
+157,208,PT08M26.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric BLOCK (1 BLK),,,1,0
+158,210,PT08M26.00S,2,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0
+159,212,PT08M26.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,SUB: Jones FOR Wesley,Substitution,,0,0
+160,214,PT08M08.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,1,0
+161,216,PT08M08.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,v,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+162,217,PT08M08.00S,2,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Normal Rebound,0,0
+163,218,PT08M08.00S,2,1610612756,PHX,1630240,Lee,S. Lee,0,0,0,,0,,,0,v,SUB: Ayton FOR S. Lee,Substitution,,0,0
+164,219,PT08M08.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Paul FOR Biyombo,Substitution,,0,0
+165,222,PT08M08.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,v,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+166,223,PT08M03.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+167,224,PT08M03.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,Missed,1,,,0,v,MISS Saric Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+168,225,PT08M02.00S,2,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+169,226,PT07M48.00S,2,1610612759,SAS,1630200,Jones,T. Jones,1,73,7,Missed,1,,,0,h,MISS Jones 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+170,227,PT07M45.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+171,228,PT07M37.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-104,136,17,Missed,1,,,0,v,MISS Ayton 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+172,229,PT07M36.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+173,230,PT07M32.00S,2,1610612756,PHX,1627814,Lee,D. Lee,222,52,0,Missed,1,,,0,v,MISS D. Lee 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+174,231,PT07M30.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+175,232,PT07M28.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,-189,167,25,Missed,1,,,0,h,MISS McDermott 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+176,233,PT07M24.00S,2,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+177,234,PT07M22.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,1,0
+178,235,PT07M22.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,SUB: Poeltl FOR Collins,Substitution,,0,0
+179,237,PT07M08.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-32,38,5,Made,1,31,43,74,v,Ayton 5' Floating Jump Shot (8 PTS) (Okogie 2 AST),Made Shot,Floating Jump shot,1,0
+180,239,PT06M52.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,-16,50,5,Made,1,33,43,76,h,McDermott 5' Cutting Layup Shot (7 PTS) (Poeltl 1 AST),Made Shot,Cutting Layup Shot,1,0
+181,241,PT06M38.00S,2,1610612756,PHX,101108,Paul,C. Paul,27,141,14,Missed,1,,,0,v,MISS Paul 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+182,242,PT06M34.00S,2,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+183,243,PT06M25.00S,2,1610612759,SAS,1627751,Poeltl,J. Poeltl,82,25,9,Missed,1,,,0,h,MISS Poeltl 9' Jump Shot,Missed Shot,Jump Shot,1,0
+184,244,PT06M24.00S,2,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+185,245,PT06M22.00S,2,1610612759,SAS,1626169,Johnson,S. Johnson,-27,247,25,Missed,1,,,0,h,MISS S. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+186,246,PT06M18.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+187,247,PT06M07.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-38,57,7,Made,1,33,45,78,v,Ayton 7' Turnaround Jump Shot (10 PTS) (Paul 4 AST),Made Shot,Turnaround Jump Shot,1,0
+188,249,PT05M53.00S,2,1610612759,SAS,1630200,Jones,T. Jones,72,14,7,Made,1,35,45,80,h,Jones 7' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,1,0
+189,250,PT05M33.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,v,Okogie Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+190,250,PT05M33.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham STEAL (1 STL),,,1,0
+191,252,PT05M26.00S,2,1610612759,SAS,1631103,Branham,M. Branham,-5,35,4,Missed,1,,,0,h,MISS Branham 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+192,253,PT05M24.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+193,254,PT05M22.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott S.FOUL (P3.T3) (P.Ransom),Foul,Shooting,1,0
+194,256,PT05M22.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+195,257,PT05M22.00S,2,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,SUB: K. Johnson FOR McDermott,Substitution,,0,0
+196,258,PT05M22.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,SUB: Sochan FOR Branham,Substitution,,0,0
+197,259,PT05M22.00S,2,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,SUB: Bates-Diop FOR S. Johnson,Substitution,,0,0
+198,260,PT05M22.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,v,SUB: Johnson FOR Okogie,Substitution,,0,0
+199,261,PT05M22.00S,2,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,SUB: Craig FOR Saric,Substitution,,0,0
+200,267,PT05M22.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,MISS D. Lee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+201,268,PT05M22.00S,2,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Normal Rebound,0,0
+202,269,PT05M22.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,35,46,81,v,D. Lee Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0
+203,270,PT05M06.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,62,98,12,Made,1,37,46,83,h,Sochan 12' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,1,0
+204,271,PT04M42.00S,2,1610612756,PHX,101108,Paul,C. Paul,99,0,10,Made,1,37,48,85,v,Paul 10' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,0
+205,274,PT04M36.00S,2,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0
+206,276,PT04M36.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,38,48,86,h,Sochan Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+207,277,PT04M36.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,SUB: Bridges FOR D. Lee,Substitution,,0,0
+208,279,PT04M36.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,39,48,87,h,Sochan Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+209,280,PT04M16.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-22,49,5,Missed,1,,,0,v,MISS Ayton 5' Hook Shot,Missed Shot,Hook Shot,1,0
+210,281,PT04M14.00S,2,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+211,282,PT04M09.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-235,-2,24,Missed,1,,,0,h,MISS K. Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+212,283,PT04M07.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+213,284,PT04M06.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+214,284,PT04M06.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones STEAL (2 STL),,,1,0
+215,286,PT04M06.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,13,1,1,Missed,1,,,0,h,MISS Sochan 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+216,286,PT04M06.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul BLOCK (1 BLK),,,1,0
+217,288,PT04M06.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0
+218,291,PT03M49.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,22,19,3,Missed,1,,,0,h,MISS Sochan 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,0
+219,292,PT03M46.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+220,293,PT03M46.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,Missed,1,,,0,h,MISS Sochan Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+221,294,PT03M46.00S,2,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+222,295,PT03M35.00S,2,1610612756,PHX,1628470,Craig,T. Craig,-232,18,0,Made,1,39,51,90,v,Craig 3PT Jump Shot (3 PTS) (Paul 5 AST),Made Shot,Jump Shot,1,0
+223,297,PT03M19.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,28,4,3,Missed,1,,,0,h,MISS Sochan 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+224,298,PT03M15.00S,2,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+225,299,PT03M15.00S,2,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,Made,1,41,51,92,h,Poeltl Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,0
+226,300,PT03M06.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-36,43,6,Missed,1,,,0,v,MISS Ayton 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+227,301,PT03M04.00S,2,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+228,302,PT02M58.00S,2,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,31,13,3,Made,1,43,51,94,h,Bates-Diop 3' Driving Layup (4 PTS) (K. Johnson 3 AST),Made Shot,Driving Layup Shot,1,0
+229,304,PT02M58.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton S.FOUL (P3.T3) (B.Nansel),Foul,Shooting,1,0
+230,306,PT02M58.00S,2,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+231,307,PT02M58.00S,2,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,44,51,95,h,Bates-Diop Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0
+232,308,PT02M42.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,-22,2,2,Missed,1,,,0,v,MISS Bridges 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+233,308,PT02M42.00S,2,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl BLOCK (1 BLK),,,1,0
+234,310,PT02M34.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+235,311,PT02M20.00S,2,1610612759,SAS,1630200,Jones,T. Jones,50,131,14,Missed,1,,,0,h,MISS Jones 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+236,312,PT02M16.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+237,313,PT02M07.00S,2,1610612756,PHX,101108,Paul,C. Paul,92,4,9,Missed,1,,,0,v,MISS Paul 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+238,314,PT02M04.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+239,315,PT01M58.00S,2,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,Bates-Diop Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0
+240,315,PT01M58.00S,2,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig STEAL (1 STL),,,1,0
+241,317,PT01M42.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-152,22,15,Made,1,44,53,97,v,Ayton 15' Jump Shot (12 PTS) (Craig 1 AST),Made Shot,Jump Shot,1,0
+242,319,PT01M29.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+243,319,PT01M29.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton STEAL (1 STL),,,1,0
+244,321,PT01M22.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan P.FOUL (P1.T4) (P.Ransom),Foul,Personal,1,0
+245,324,PT01M16.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,75,27,8,Missed,1,,,0,v,MISS Ayton 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+246,325,PT01M12.00S,2,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+247,326,PT01M04.00S,2,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,-1,6,1,Made,1,46,53,99,h,Bates-Diop 1' Driving Layup (7 PTS) (K. Johnson 4 AST),Made Shot,Driving Layup Shot,1,0
+248,328,PT00M52.70S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-9,4,1,Made,1,46,55,101,v,Ayton 1' Cutting Dunk Shot (14 PTS) (Johnson 1 AST),Made Shot,Cutting Dunk Shot,1,0
+249,330,PT00M27.50S,2,1610612759,SAS,1629640,Johnson,K. Johnson,27,173,18,Made,1,48,55,103,h,K. Johnson 18' Jump Shot (14 PTS),Made Shot,Jump Shot,1,0
+250,331,PT00M02.50S,2,1610612756,PHX,1629661,Johnson,C. Johnson,45,260,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+251,332,PT00M02.50S,2,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+252,333,PT00M00.00S,2,0,,0,,,0,0,0,,0,48,55,103,,End of 2nd Period (9:04 PM EST),period,end,1,0
+253,334,PT12M00.00S,3,0,,0,,,0,0,0,,0,48,55,103,,Start of 3rd Period (9:21 PM EST),period,start,0,0
+254,335,PT11M44.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,-5,8,1,Made,1,48,57,105,v,Ayton 1' Dunk (16 PTS) (Bridges 3 AST),Made Shot,Dunk Shot,1,0
+255,337,PT11M22.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P2.T1) (P.Ransom),Foul,Personal,1,0
+256,339,PT11M09.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,-5,46,5,Missed,1,,,0,h,MISS Sochan 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+257,339,PT11M09.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig BLOCK (1 BLK),,,1,0
+258,341,PT11M07.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+259,342,PT11M05.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,-10,16,2,Made,1,48,59,107,v,Johnson 2' Running Dunk (7 PTS) (Paul 6 AST),Made Shot,Running Dunk Shot,1,0
+260,344,PT10M52.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,-15,2,2,Made,1,50,59,109,h,Sochan 2' Driving Reverse Layup (13 PTS) (Jones 3 AST),Made Shot,Driving Reverse Layup Shot,1,0
+261,346,PT10M47.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan P.FOUL (P2.T1) (B.Nansel),Foul,Personal,1,0
+262,348,PT10M35.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,66,88,11,Missed,1,,,0,v,MISS Bridges 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+263,349,PT10M34.00S,3,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+264,350,PT10M30.00S,3,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,-1,-3,0,Missed,1,,,0,h,MISS Bates-Diop Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+265,351,PT10M29.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0
+266,353,PT10M25.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,196,93,22,Missed,1,,,0,h,MISS Sochan 22' Jump Shot,Missed Shot,Jump Shot,1,0
+267,354,PT10M21.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+268,355,PT10M13.00S,3,1610612756,PHX,101108,Paul,C. Paul,-58,137,15,Missed,1,,,0,v,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+269,356,PT10M11.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+270,357,PT09M58.00S,3,1610612759,SAS,1627751,Poeltl,J. Poeltl,-1,60,6,Made,1,52,59,111,h,Poeltl 6' Hook Shot (6 PTS),Made Shot,Hook Shot,1,0
+271,358,PT09M53.00S,3,1610612756,PHX,1628470,Craig,T. Craig,16,11,2,Missed,1,,,0,v,MISS Craig 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+272,358,PT09M53.00S,3,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl BLOCK (2 BLK),,,1,0
+273,360,PT09M53.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0
+274,362,PT09M43.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,-121,213,24,Made,1,52,62,114,v,Johnson 24' 3PT Jump Shot (10 PTS) (Bridges 4 AST),Made Shot,Jump Shot,1,0
+275,364,PT09M26.00S,3,1610612759,SAS,1627751,Poeltl,J. Poeltl,-1,83,8,Made,1,54,62,116,h,Poeltl 8' Driving Hook Shot (8 PTS) (Jones 4 AST),Made Shot,Driving Hook Shot,1,0
+276,366,PT09M16.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,-127,127,18,Missed,1,,,0,v,MISS Bridges 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+277,367,PT09M13.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+278,368,PT09M13.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,Missed,1,,,0,v,MISS Johnson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+279,369,PT09M13.00S,3,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+280,370,PT09M06.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,75,76,11,Missed,1,,,0,h,MISS K. Johnson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+281,371,PT09M06.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+282,372,PT08M56.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,26,6,3,Made,1,54,64,118,v,Johnson 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+283,373,PT08M56.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+284,374,PT08M34.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,97,113,15,Made,1,56,64,120,h,Sochan 15' Jump Shot (15 PTS) (Bates-Diop 1 AST),Made Shot,Jump Shot,1,0
+285,376,PT08M19.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P2.T2) (M.Lindsay),Foul,Shooting,1,0
+286,378,PT08M19.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,56,65,121,v,Ayton Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0
+287,379,PT08M19.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,MISS Ayton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+288,380,PT08M14.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+289,381,PT08M10.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,-115,227,25,Missed,1,,,0,v,MISS Bridges 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+290,382,PT08M09.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+291,383,PT08M07.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,2,37,4,Made,1,56,67,123,v,Ayton 4' Hook Shot (19 PTS),Made Shot,Hook Shot,1,0
+292,385,PT07M48.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,23,13,3,Made,1,58,67,125,h,Sochan 3' Layup (17 PTS) (Poeltl 2 AST),Made Shot,Layup Shot,1,0
+293,387,PT07M35.00S,3,1610612756,PHX,101108,Paul,C. Paul,86,78,12,Made,1,58,69,127,v,Paul 12' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,0
+294,388,PT07M13.00S,3,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,7,6,1,Made,1,60,69,129,h,Bates-Diop 1' Reverse Layup (9 PTS) (Poeltl 3 AST),Made Shot,Reverse Layup Shot,1,0
+295,390,PT06M57.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,-72,4,7,Missed,1,,,0,v,MISS Bridges 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+296,391,PT06M54.00S,3,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+297,392,PT06M52.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan Out of Bounds Lost Ball Turnover (P3.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0
+298,393,PT06M47.00S,3,1610612756,PHX,1628470,Craig,T. Craig,-203,150,25,Missed,1,,,0,v,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+299,394,PT06M44.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+300,395,PT06M39.00S,3,1610612759,SAS,1630200,Jones,T. Jones,-16,60,6,Missed,1,,,0,h,MISS Jones 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+301,395,PT06M39.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul BLOCK (2 BLK),,,1,0
+302,397,PT06M39.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+303,398,PT06M25.00S,3,1610612756,PHX,101108,Paul,C. Paul,-92,119,15,Made,1,60,71,131,v,Paul 15' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+304,399,PT06M00.00S,3,1610612759,SAS,1627751,Poeltl,J. Poeltl,-75,31,8,Missed,1,,,0,h,MISS Poeltl 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+305,400,PT06M00.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,1,0
+306,402,PT06M00.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Branham FOR Jones,Substitution,,0,0
+307,403,PT06M00.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Saric FOR Johnson,Substitution,,0,0
+308,406,PT06M00.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+309,407,PT06M00.00S,3,0,,401,,,0,0,0,,0,60,71,131,,Instant Replay3rd Period (9:33 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0
+310,408,PT05M46.00S,3,1610612756,PHX,101108,Paul,C. Paul,22,41,5,Missed,1,,,0,v,MISS Paul 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+311,409,PT05M43.00S,3,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+312,410,PT05M32.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,197,138,24,Made,1,63,71,134,h,Sochan 24' 3PT Jump Shot (20 PTS) (Bates-Diop 2 AST),Made Shot,Jump Shot,1,0
+313,412,PT05M11.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,7,56,6,Missed,1,,,0,v,MISS Ayton 6' Hook Shot,Missed Shot,Hook Shot,1,0
+314,413,PT05M09.00S,3,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+315,414,PT05M00.00S,3,1610612759,SAS,1631103,Branham,M. Branham,-12,5,1,Made,1,65,71,136,h,Branham 1' Reverse Layup (2 PTS) (Sochan 3 AST),Made Shot,Reverse Layup Shot,1,0
+316,416,PT04M47.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,-109,121,16,Made,1,65,73,138,v,Bridges 16' Fadeaway Jumper (9 PTS) (Paul 7 AST),Made Shot,Fadeaway Jump Shot,1,0
+317,418,PT04M26.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,54,256,26,Missed,1,,,0,h,MISS K. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+318,419,PT04M24.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+319,420,PT04M09.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+320,420,PT04M09.00S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham STEAL (2 STL),,,1,0
+321,422,PT04M06.00S,3,1610612759,SAS,1631103,Branham,M. Branham,-27,38,5,Made,1,67,73,140,h,Branham 5' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,0
+322,423,PT04M06.00S,3,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric S.FOUL (P2.T2) (P.Ransom),Foul,Shooting,1,0
+323,425,PT04M06.00S,3,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,SUB: Collins FOR Poeltl,Substitution,,0,0
+324,426,PT04M06.00S,3,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,SUB: McDermott FOR Bates-Diop,Substitution,,0,0
+325,427,PT04M06.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,SUB: D. Lee FOR Craig,Substitution,,0,0
+326,431,PT04M06.00S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,68,73,141,h,Branham Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0
+327,432,PT03M50.00S,3,1610612756,PHX,101108,Paul,C. Paul,89,124,15,Made,1,68,75,143,v,Paul 15' Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,1,0
+328,433,PT03M28.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,107,233,26,Made,1,71,75,146,h,Sochan 26' 3PT Pullup Jump Shot (23 PTS) (Collins 3 AST),Made Shot,Pullup Jump shot,1,0
+329,435,PT03M13.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,6,67,7,Made,1,71,77,148,v,Ayton 7' Turnaround Hook Shot (21 PTS) (Paul 8 AST),Made Shot,Turnaround Hook Shot,1,0
+330,437,PT03M05.00S,3,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric S.FOUL (P3.T3) (B.Nansel),Foul,Shooting,1,0
+331,439,PT03M05.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,72,77,149,h,Sochan Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0
+332,440,PT03M05.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,SUB: Biyombo FOR Ayton,Substitution,,0,0
+333,442,PT03M05.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,73,77,150,h,Sochan Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0
+334,443,PT02M53.00S,3,1610612756,PHX,101108,Paul,C. Paul,147,105,18,Made,1,73,79,152,v,Paul 18' Fadeaway Jumper (16 PTS),Made Shot,Fadeaway Jump Shot,1,0
+335,444,PT02M33.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,142,210,25,Missed,1,,,0,h,MISS Sochan 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+336,445,PT02M31.00S,3,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+337,446,PT02M26.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,1,0
+338,448,PT02M26.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,73,80,153,v,Bridges Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+339,449,PT02M26.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: S. Johnson FOR K. Johnson,Substitution,,0,0
+340,450,PT02M26.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,SUB: Jones FOR Sochan,Substitution,,0,0
+341,453,PT02M26.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,73,81,154,v,Bridges Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+342,454,PT02M09.00S,3,1610612759,SAS,1631103,Branham,M. Branham,-184,189,26,Missed,1,,,0,h,MISS Branham 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+343,455,PT02M07.00S,3,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+344,456,PT01M54.00S,3,1610612756,PHX,101108,Paul,C. Paul,13,198,20,Made,1,73,83,156,v,Paul 20' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,0
+345,457,PT01M40.00S,3,1610612759,SAS,203926,McDermott,D. McDermott,28,258,26,Made,1,76,83,159,h,McDermott 26' 3PT Jump Shot (10 PTS) (Branham 1 AST),Made Shot,Jump Shot,1,0
+346,459,PT01M16.00S,3,1610612756,PHX,101108,Paul,C. Paul,7,158,16,Missed,1,,,0,v,MISS Paul 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+347,460,PT01M13.00S,3,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+348,461,PT01M07.00S,3,1610612756,PHX,1627814,Lee,D. Lee,15,3,2,Made,1,76,85,161,v,D. Lee 2' Driving Finger Roll Layup (7 PTS) (Biyombo 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+349,462,PT00M56.30S,3,1610612759,SAS,1628380,Collins,Z. Collins,-13,-5,1,Missed,1,,,0,h,MISS Collins 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+350,463,PT00M55.90S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+351,464,PT00M55.90S,3,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric P.FOUL (P4.T4) (M.Lindsay),Foul,Personal,1,0
+352,466,PT00M46.40S,3,1610612759,SAS,1626169,Johnson,S. Johnson,-20,0,2,Missed,1,,,0,h,MISS S. Johnson 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+353,467,PT00M44.30S,3,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+354,468,PT00M31.60S,3,1610612756,PHX,101108,Paul,C. Paul,107,129,17,Made,1,76,87,163,v,Paul 17' Fadeaway Jumper (20 PTS),Made Shot,Fadeaway Jump Shot,1,0
+355,469,PT00M09.50S,3,1610612759,SAS,1630200,Jones,T. Jones,43,50,7,Missed,1,,,0,h,MISS Jones 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+356,470,PT00M07.40S,3,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,D. Lee REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+357,471,PT00M00.00S,3,1610612756,PHX,101108,Paul,C. Paul,-134,225,26,Missed,1,,,0,v,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+358,472,PT00M00.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,1,0
+359,473,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,87,163,,End of 3rd Period (9:45 PM EST),period,end,1,0
+360,479,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,87,163,,Start of 4th Period (9:47 PM EST),period,start,0,0
+361,480,PT11M44.00S,4,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0
+362,480,PT11M44.00S,4,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo STEAL (2 STL),,,1,0
+363,482,PT11M31.00S,4,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott S.FOUL (P4.T1) (P.Ransom),Foul,Shooting,1,0
+364,484,PT11M31.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,76,88,164,v,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+365,485,PT11M31.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,76,89,165,v,Okogie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+366,486,PT11M20.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,v,Okogie P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,1,0
+367,488,PT11M13.00S,4,1610612759,SAS,1631103,Branham,M. Branham,223,32,0,Missed,1,,,0,h,MISS Branham 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+368,489,PT11M11.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0
+369,490,PT11M11.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,v,Okogie L.B.FOUL (P2.T2) (P.Ransom),Foul,Loose Ball,1,0
+370,492,PT11M02.00S,4,1610612759,SAS,1630200,Jones,T. Jones,4,21,2,Missed,1,,,0,h,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+371,492,PT11M02.00S,4,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,0
+372,494,PT10M59.00S,4,1610612756,PHX,1630240,Lee,S. Lee,0,0,0,,0,,,0,v,S. Lee REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+373,495,PT10M52.00S,4,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+374,496,PT10M34.00S,4,1610612759,SAS,1630200,Jones,T. Jones,1,144,14,Missed,1,,,0,h,MISS Jones 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+375,497,PT10M30.00S,4,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:4 Def:6),Rebound,Unknown,1,0
+376,498,PT10M26.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham P.FOUL (P2.T2) (P.Ransom),Foul,Personal,1,0
+377,500,PT10M21.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,184,197,27,Missed,1,,,0,v,MISS Okogie 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+378,501,PT10M17.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+379,502,PT10M07.00S,4,1610612759,SAS,203926,McDermott,D. McDermott,65,10,7,Missed,1,,,0,h,MISS McDermott 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+380,503,PT10M05.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,D. Lee REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+381,504,PT09M55.00S,4,1610612756,PHX,1627814,Lee,D. Lee,112,22,11,Missed,1,,,0,v,MISS D. Lee 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+382,505,PT09M54.00S,4,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+383,506,PT09M48.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,13,41,4,Made,1,78,89,167,h,Collins 4' Hook Shot (2 PTS) (S. Johnson 2 AST),Made Shot,Hook Shot,1,0
+384,508,PT09M34.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,D. Lee Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0
+385,508,PT09M34.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones STEAL (3 STL),,,1,0
+386,510,PT09M32.00S,4,1610612759,SAS,1630200,Jones,T. Jones,-16,2,2,Made,1,80,89,169,h,Jones 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,0
+387,511,PT09M32.00S,4,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+388,512,PT09M32.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,SUB: K. Johnson FOR Branham,Substitution,,0,0
+389,514,PT09M14.00S,4,1610612756,PHX,203967,Saric,D. Saric,-81,11,8,Missed,1,,,0,v,MISS Saric 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+390,515,PT09M13.00S,4,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:5 Def:6),Rebound,Unknown,1,0
+391,516,PT09M09.00S,4,1610612756,PHX,1627814,Lee,D. Lee,-43,247,25,Missed,1,,,0,v,MISS D. Lee 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+392,517,PT09M07.00S,4,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:6 Def:6),Rebound,Unknown,1,0
+393,518,PT08M59.00S,4,1610612756,PHX,203967,Saric,D. Saric,5,24,2,Made,1,80,91,171,v,Saric 2' Layup (2 PTS) (S. Lee 3 AST),Made Shot,Layup Shot,1,0
+394,519,PT08M36.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,-78,25,8,Missed,1,,,0,h,MISS Collins 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+395,520,PT08M34.00S,4,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+396,521,PT08M20.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,-104,73,13,Missed,1,,,0,v,MISS Okogie 13' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+397,522,PT08M17.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+398,523,PT08M11.00S,4,1610612759,SAS,203926,McDermott,D. McDermott,212,134,25,Missed,1,,,0,h,MISS McDermott 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+399,524,PT08M10.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+400,525,PT08M08.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,78,-5,8,Made,1,82,91,173,h,S. Johnson 8' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+401,526,PT07M51.00S,4,1610612756,PHX,1630240,Lee,S. Lee,-17,6,2,Made,1,82,93,175,v,S. Lee 2' Reverse Layup (7 PTS) (D. Lee 1 AST),Made Shot,Reverse Layup Shot,1,0
+402,528,PT07M51.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,1,0
+403,531,PT07M51.00S,4,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,SUB: Bates-Diop FOR McDermott,Substitution,,0,0
+404,532,PT07M51.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Sochan FOR Jones,Substitution,,0,0
+405,533,PT07M51.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,v,SUB: Johnson FOR Okogie,Substitution,,0,0
+406,534,PT07M51.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,,,0,v,SUB: Bridges FOR D. Lee,Substitution,,0,0
+407,539,PT07M51.00S,4,1610612756,PHX,1630240,Lee,S. Lee,0,0,0,,0,,,0,v,MISS S. Lee Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+408,540,PT07M50.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+409,541,PT07M46.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,1,0
+410,543,PT07M46.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,MISS S. Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+411,544,PT07M46.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0
+412,545,PT07M46.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,MISS S. Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+413,546,PT07M43.00S,4,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,Saric REBOUND (Off:6 Def:7),Rebound,Unknown,1,0
+414,547,PT07M25.00S,4,1610612756,PHX,203967,Saric,D. Saric,126,25,13,Missed,1,,,0,v,MISS Saric 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+415,548,PT07M23.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+416,549,PT07M18.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,222,-13,0,Missed,1,,,0,h,MISS K. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+417,550,PT07M16.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+418,551,PT07M12.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,-132,189,23,Made,1,84,93,177,h,S. Johnson 23' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+419,552,PT07M01.00S,4,1610612756,PHX,1629661,Johnson,C. Johnson,135,220,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+420,553,PT06M59.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+421,554,PT06M51.00S,4,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P2.T4) (P.Ransom),Foul,Shooting,1,0
+422,556,PT06M51.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,85,93,178,h,Collins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+423,557,PT06M51.00S,4,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Ayton FOR Biyombo,Substitution,,0,0
+424,559,PT06M51.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,MISS Collins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+425,560,PT06M51.00S,4,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0
+426,565,PT06M51.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,0
+427,561,PT06M51.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,SUB: Poeltl FOR Collins,Substitution,,0,0
+428,563,PT06M41.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,22,3,2,Made,1,85,95,180,v,Bridges 2' Reverse Layup (13 PTS) (Johnson 2 AST),Made Shot,Reverse Layup Shot,1,0
+429,566,PT06M17.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,228,85,24,Made,1,88,95,183,h,S. Johnson 24' 3PT Jump Shot (7 PTS) (K. Johnson 5 AST),Made Shot,Jump Shot,1,0
+430,568,PT06M03.00S,4,1610612756,PHX,1629661,Johnson,C. Johnson,-103,93,14,Missed,1,,,0,v,MISS Johnson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+431,569,PT06M00.00S,4,1610612756,PHX,1630240,Lee,S. Lee,0,0,0,,0,,,0,v,S. Lee REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+432,570,PT05M57.00S,4,1610612756,PHX,1629661,Johnson,C. Johnson,-230,10,0,Missed,1,,,0,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+433,571,PT05M57.00S,4,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,0,0,0,,0,,,0,h,Bates-Diop REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+434,572,PT05M50.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-6,16,2,Made,1,90,95,185,h,K. Johnson 2' Running Finger Roll Layup (16 PTS) (Bates-Diop 3 AST),Made Shot,Running Finger Roll Layup Shot,1,0
+435,574,PT05M48.00S,4,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+436,575,PT05M48.00S,4,1610612756,PHX,1630240,Lee,S. Lee,0,0,0,,0,,,0,v,SUB: Paul FOR S. Lee,Substitution,,0,0
+437,577,PT05M30.00S,4,1610612756,PHX,1629661,Johnson,C. Johnson,-176,173,25,Made,1,90,98,188,v,Johnson 25' 3PT Jump Shot (15 PTS) (Paul 9 AST),Made Shot,Jump Shot,1,0
+438,579,PT05M30.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+439,580,PT05M30.00S,4,1610612756,PHX,203967,Saric,D. Saric,0,0,0,,0,,,0,v,SUB: Craig FOR Saric,Substitution,,0,0
+440,582,PT05M18.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,-7,123,12,Made,1,92,98,190,h,Sochan 12' Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,1,0
+441,583,PT04M50.00S,4,1610612756,PHX,101108,Paul,C. Paul,-186,171,25,Made,1,92,101,193,v,Paul 25' 3PT Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,0
+442,584,PT04M36.00S,4,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,21,252,25,Made,1,95,101,196,h,Bates-Diop 25' 3PT Jump Shot (12 PTS) (Sochan 4 AST),Made Shot,Jump Shot,1,0
+443,586,PT04M09.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,-5,21,2,Made,1,95,103,198,v,Bridges 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,0
+444,587,PT03M59.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-173,191,26,Made,1,98,103,201,h,K. Johnson 26' 3PT Jump Shot (19 PTS) (Bates-Diop 4 AST),Made Shot,Jump Shot,1,0
+445,589,PT03M46.00S,4,1610612756,PHX,101108,Paul,C. Paul,109,256,28,Missed,1,,,0,v,MISS Paul 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+446,590,PT03M39.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+447,591,PT03M35.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-21,2,2,Made,1,100,103,203,h,K. Johnson 2' Running Finger Roll Layup (21 PTS),Made Shot,Running Finger Roll Layup Shot,1,0
+448,592,PT03M07.00S,4,1610612756,PHX,1628470,Craig,T. Craig,-17,17,2,Missed,1,,,0,v,MISS Craig 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+449,592,PT03M07.00S,4,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl BLOCK (3 BLK),,,1,0
+450,594,PT03M04.00S,4,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+451,595,PT03M01.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-18,10,2,Made,1,102,103,205,h,K. Johnson 2' Reverse Layup (23 PTS) (Sochan 5 AST),Made Shot,Reverse Layup Shot,1,0
+452,597,PT02M37.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,13,0,1,Missed,1,,,0,v,MISS Ayton 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+453,598,PT02M34.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+454,599,PT02M32.00S,4,1610612756,PHX,1628470,Craig,T. Craig,-2,26,3,Made,1,102,105,207,v,Craig 3' Floating Jump Shot (5 PTS) (Ayton 2 AST),Made Shot,Floating Jump shot,1,0
+455,601,PT02M18.00S,4,1610612759,SAS,1628966,Bates-Diop,K. Bates-Diop,21,44,5,Made,1,104,105,209,h,Bates-Diop 5' Hook Shot (14 PTS) (Poeltl 4 AST),Made Shot,Hook Shot,1,0
+456,604,PT01M52.00S,4,1610612756,PHX,1628470,Craig,T. Craig,-85,253,27,Made,1,104,108,212,v,Craig 27' 3PT Step Back Jump Shot (8 PTS) (Ayton 3 AST),Made Shot,Step Back Jump shot,1,0
+457,607,PT01M27.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,-58,257,26,Made,1,107,108,215,h,Sochan 26' 3PT Pullup Jump Shot (30 PTS) (Poeltl 5 AST),Made Shot,Pullup Jump shot,1,0
+458,609,PT01M08.00S,4,1610612756,PHX,1629661,Johnson,C. Johnson,129,232,27,Missed,1,,,0,v,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+459,610,PT01M08.00S,4,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,1,0
+460,611,PT01M08.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan L.B.FOUL (P3.T4) (B.Nansel),Foul,Loose Ball,1,0
+461,615,PT01M05.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0
+462,616,PT01M05.00S,4,0,,613,,,0,0,0,,0,107,108,215,,Instant Replay4th Period (10:13 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0
+463,617,PT00M59.40S,4,1610612756,PHX,1628969,Bridges,M. Bridges,-100,53,11,Made,1,107,110,217,v,Bridges 11' Pullup Jump Shot (17 PTS) (Paul 10 AST),Made Shot,Pullup Jump shot,1,0
+464,619,PT00M47.80S,4,1610612759,SAS,1629640,Johnson,K. Johnson,18,8,2,Made,1,109,110,219,h,K. Johnson 2' Driving Finger Roll Layup (25 PTS) (Poeltl 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+465,621,PT00M47.80S,4,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,1,0
+466,623,PT00M47.80S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,110,110,220,h,K. Johnson Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,1,0
+467,624,PT00M31.10S,4,1610612756,PHX,1629028,Ayton,D. Ayton,66,43,8,Missed,1,,,0,v,MISS Ayton 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+468,625,PT00M28.80S,4,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+469,626,PT00M23.90S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+470,627,PT00M05.50S,4,1610612759,SAS,1629640,Johnson,K. Johnson,1,59,6,Missed,1,,,0,h,MISS K. Johnson 6' Hook Shot,Missed Shot,Hook Shot,1,0
+471,628,PT00M03.60S,4,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:3 Def:9),Rebound,Unknown,1,0
+472,629,PT00M02.60S,4,1610612759,SAS,1627751,Poeltl,J. Poeltl,-33,32,5,Missed,1,,,0,h,MISS Poeltl 5' Layup,Missed Shot,Layup Shot,1,0
+473,630,PT00M00.80S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+474,631,PT00M00.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,192,53,20,Missed,1,,,0,h,MISS K. Johnson 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+475,632,PT00M00.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0
+476,633,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,110,220,,End of 4th Period (10:20 PM EST),period,end,1,0
+477,634,PT05M00.00S,5,0,,0,,,0,0,0,,0,110,110,220,,Start of 1st OT (10:23 PM EST),period,start,0,0
+478,636,PT05M00.00S,5,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Jump Ball Poeltl vs. Ayton: Tip to Paul,Jump Ball,,1,0
+479,639,PT04M45.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton Traveling Turnover (P2.T9),Turnover,Traveling,1,0
+480,640,PT04M33.00S,5,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0
+481,640,PT04M33.00S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul STEAL (1 STL),,,1,0
+482,642,PT04M22.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,20,22,3,Made,1,110,112,222,v,Ayton 3' Hook Shot (23 PTS) (Paul 11 AST),Made Shot,Hook Shot,1,0
+483,644,PT04M07.00S,5,1610612759,SAS,1631110,Sochan,J. Sochan,-38,49,6,Missed,1,,,0,h,MISS Sochan 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+484,645,PT04M06.00S,5,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0
+485,647,PT03M58.00S,5,1610612759,SAS,1631110,Sochan,J. Sochan,92,123,15,Missed,1,,,0,h,MISS Sochan 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+486,648,PT03M56.00S,5,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl REBOUND (Off:4 Def:9),Rebound,Unknown,1,0
+487,649,PT03M53.00S,5,1610612759,SAS,1629640,Johnson,K. Johnson,-7,259,26,Missed,1,,,0,h,MISS K. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+488,650,PT03M49.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+489,651,PT03M36.00S,5,1610612756,PHX,101108,Paul,C. Paul,-1,147,15,Made,1,110,114,224,v,Paul 15' Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,1,0
+490,652,PT03M14.00S,5,1610612759,SAS,1629640,Johnson,K. Johnson,-9,81,8,Made,1,112,114,226,h,K. Johnson 8' Driving Floating Jump Shot (28 PTS),Made Shot,Driving Floating Jump Shot,1,0
+491,653,PT02M58.00S,5,1610612756,PHX,101108,Paul,C. Paul,-199,167,26,Missed,1,,,0,v,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+492,654,PT02M56.00S,5,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:3 Def:8),Rebound,Unknown,1,0
+493,655,PT02M46.00S,5,1610612759,SAS,1629640,Johnson,K. Johnson,18,1,2,Missed,1,,,0,h,MISS K. Johnson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+494,656,PT02M45.00S,5,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson REBOUND (Off:4 Def:8),Rebound,Unknown,1,0
+495,657,PT02M43.00S,5,1610612759,SAS,1626169,Johnson,S. Johnson,58,4,6,Missed,1,,,0,h,MISS S. Johnson 6' Layup,Missed Shot,Layup Shot,1,0
+496,659,PT02M38.00S,5,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+497,660,PT02M27.00S,5,1610612756,PHX,1628969,Bridges,M. Bridges,125,3,13,Made,1,112,116,228,v,Bridges 13' Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,1,0
+498,661,PT02M08.00S,5,1610612759,SAS,1626169,Johnson,S. Johnson,-120,231,26,Missed,1,,,0,h,MISS S. Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+499,662,PT02M06.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,Ayton REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+500,663,PT01M57.00S,5,1610612756,PHX,1628969,Bridges,M. Bridges,-115,-2,12,Made,1,112,118,230,v,Bridges 12' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,0
+501,664,PT01M47.00S,5,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges P.FOUL (P3.T1) (P.Ransom),Foul,Personal,1,0
+502,666,PT01M40.00S,5,1610612759,SAS,1629640,Johnson,K. Johnson,-4,36,4,Made,1,114,118,232,h,K. Johnson 4' Driving Floating Jump Shot (30 PTS),Made Shot,Driving Floating Jump Shot,1,0
+503,667,PT01M22.00S,5,1610612756,PHX,1628969,Bridges,M. Bridges,-17,8,2,Made,1,114,120,234,v,Bridges 2' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+504,668,PT01M22.00S,5,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl S.FOUL (P2.T1) (P.Ransom),Foul,Shooting,1,0
+505,670,PT01M22.00S,5,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,114,121,235,v,Bridges Free Throw 1 of 1 (24 PTS),Free Throw,Free Throw 1 of 1,1,0
+506,671,PT01M11.00S,5,1610612759,SAS,1629640,Johnson,K. Johnson,-23,29,4,Made,1,116,121,237,h,K. Johnson 4' Driving Floating Jump Shot (32 PTS),Made Shot,Driving Floating Jump Shot,1,0
+507,672,PT00M56.10S,5,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,Poeltl S.FOUL (P3.PN) (B.Nansel),Foul,Shooting,1,0
+508,674,PT00M56.10S,5,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,MISS Bridges Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+509,675,PT00M56.10S,5,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Normal Rebound,0,0
+510,677,PT00M56.10S,5,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,116,122,238,v,Bridges Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0
+511,678,PT00M44.90S,5,1610612759,SAS,1631110,Sochan,J. Sochan,-7,257,26,Missed,1,,,0,h,MISS Sochan 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+512,678,PT00M44.90S,5,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges BLOCK (1 BLK),,,1,0
+513,680,PT00M41.60S,5,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+514,681,PT00M38.80S,5,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,S. Johnson P.FOUL (P1.PN) (P.Ransom),Foul,Personal,1,0
+515,683,PT00M38.80S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,116,123,239,v,Paul Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0
+516,684,PT00M38.80S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,116,124,240,v,Paul Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0
+517,685,PT00M38.80S,5,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+518,686,PT00M38.80S,5,1610612759,SAS,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,h,SUB: Collins FOR Poeltl,Substitution,,0,0
+519,687,PT00M38.80S,5,1610612759,SAS,1626169,Johnson,S. Johnson,0,0,0,,0,,,0,h,SUB: McDermott FOR S. Johnson,Substitution,,0,0
+520,690,PT00M36.30S,5,1610612759,SAS,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott Double Dribble Turnover (P3.T13),Turnover,Double Dribble,1,0
+521,691,PT00M26.40S,5,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan P.FOUL (P4.PN) (P.Ransom),Foul,Personal,1,0
+522,693,PT00M26.40S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,116,125,241,v,Paul Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0
+523,694,PT00M26.40S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,v,SUB: Okogie FOR Ayton,Substitution,,0,0
+524,696,PT00M26.40S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,116,126,242,v,Paul Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0
+525,697,PT00M21.80S,5,1610612759,SAS,1629640,Johnson,K. Johnson,17,10,2,Made,1,118,126,244,h,K. Johnson 2' Driving Layup (34 PTS) (Collins 4 AST),Made Shot,Driving Layup Shot,1,0
+526,698,PT00M21.80S,5,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P3.PN) (P.Ransom),Foul,Shooting,1,0
+527,701,PT00M21.80S,5,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,MISS K. Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+528,702,PT00M19.90S,5,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+529,703,PT00M19.00S,5,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson P.FOUL (P1.PN) (M.Lindsay),Foul,Personal,1,0
+530,705,PT00M19.00S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,118,127,245,v,Paul Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0
+531,706,PT00M19.00S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,118,128,246,v,Paul Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0
+532,707,PT00M13.60S,5,1610612759,SAS,1629640,Johnson,K. Johnson,-165,214,27,Missed,1,,,0,h,MISS K. Johnson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+533,708,PT00M09.40S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,,,0,v,Paul REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+534,709,PT00M00.00S,5,0,,0,,,0,0,0,,0,118,128,246,,End of 1st OT (10:38 PM EST),period,end,1,0

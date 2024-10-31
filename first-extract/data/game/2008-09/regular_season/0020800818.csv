@@ -1,0 +1,501 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:42 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Jump Ball Elson vs. Ilgauskas: Tip to Wallace,Jump Ball,,0,0
+3,2,PT11M45.00S,1,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,Wallace Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+4,3,PT11M36.00S,1,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+5,3,PT11M36.00S,1,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (1 STL),,,0,0
+6,4,PT11M21.00S,1,1610612739,CLE,200814,Kinsey,T. Kinsey,-235,0,24,Missed,1,0,0,0,v,MISS Kinsey 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+7,5,PT11M19.00S,1,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+8,6,PT11M15.00S,1,1610612739,CLE,2590,Williams,M. Williams,0,0,0,Missed,1,0,0,0,v,MISS Williams  Layup,Missed Shot,Layup Shot,0,0
+9,6,PT11M15.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva BLOCK (1 BLK),,,0,0
+10,7,PT11M15.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+11,8,PT11M14.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute P.FOUL (P1.T1),Foul,Personal,0,0
+12,9,PT11M02.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-106,151,18,Made,1,0,2,2,v,Ilgauskas 18' Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,0
+13,10,PT10M48.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,147,104,18,Missed,1,0,0,0,h,MISS Jefferson 18' Jump Shot,Missed Shot,Jump Shot,0,0
+14,11,PT10M48.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+15,12,PT10M39.00S,1,1610612749,MIL,1922,Elson,F. Elson,102,107,15,Made,1,2,2,4,h,Elson 15' Jump Shot (2 PTS) (Villanueva 1 AST),Made Shot,Jump Shot,0,0
+16,13,PT10M26.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,Made,1,2,4,6,v,Ilgauskas  Layup (4 PTS) (James 1 AST),Made Shot,Layup Shot,0,0
+17,14,PT10M04.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas S.FOUL (P1.T1),Foul,Shooting,0,0
+18,15,PT10M04.00S,1,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,MISS Sessions Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+19,16,PT10M04.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0
+20,17,PT10M04.00S,1,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,MISS Sessions Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+21,19,PT10M03.00S,1,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+22,20,PT09M47.00S,1,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,Wallace Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0
+23,20,PT09M47.00S,1,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson STEAL (1 STL),,,0,0
+24,21,PT09M36.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,116,228,26,Missed,1,0,0,0,h,MISS Villanueva 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+25,22,PT09M34.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+26,24,PT09M26.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+27,23,PT09M26.00S,1,1610612739,CLE,2544,James,L. James,64,22,7,Made,1,2,6,8,v,James 7' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+28,25,PT09M06.00S,1,1610612749,MIL,1922,Elson,F. Elson,-138,94,17,Made,1,4,6,10,h,Elson 17' Jump Shot (4 PTS) (Jefferson 1 AST),Made Shot,Jump Shot,0,0
+29,26,PT08M50.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James OFF.Foul (P1),Foul,Offensive,0,0
+30,27,PT08M50.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James Foul Turnover (P1.T3),Turnover,Foul,0,0
+31,28,PT08M33.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,2,56,6,Made,1,6,6,12,h,Villanueva 6' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+32,29,PT08M12.00S,1,1610612739,CLE,2544,James,L. James,37,48,6,Made,1,6,8,14,v,James 6' Running Hook Shot (4 PTS),Made Shot,Running Hook Shot,0,0
+33,30,PT07M58.00S,1,1610612749,MIL,201196,Sessions,R. Sessions,-73,172,19,Made,1,8,8,16,h,Sessions 19' Jump Shot (2 PTS) (Villanueva 2 AST),Made Shot,Jump Shot,0,0
+34,31,PT07M39.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas Traveling Turnover (P1.T4),Turnover,Traveling,0,0
+35,32,PT07M29.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Made,1,10,8,18,h,Villanueva  Running Dunk (4 PTS) (Sessions 1 AST),Made Shot,Running Dunk Shot,0,0
+36,33,PT07M00.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva S.FOUL (P1.T2),Foul,Shooting,0,0
+37,34,PT07M00.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,10,9,19,v,James Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+38,36,PT07M00.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,10,10,20,v,James Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+39,38,PT06M48.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,Made,1,12,10,22,h,Jefferson  Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,0
+40,39,PT06M18.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,116,140,18,Made,1,12,12,24,v,Ilgauskas 18' Jump Shot (6 PTS) (Williams 2 AST),Made Shot,Jump Shot,0,0
+41,44,PT05M56.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Missed,1,0,0,0,h,MISS Villanueva  Driving Slam Dunk,Missed Shot,Driving Slam Dunk Shot,0,0
+42,44,PT05M56.00S,1,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,Wallace BLOCK (1 BLK),,,0,0
+43,45,PT05M55.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+44,40,PT05M54.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Made,1,14,12,26,h,Villanueva  Layup (6 PTS),Made Shot,Layup Shot,0,0
+45,41,PT05M45.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,Missed,1,0,0,0,v,MISS Ilgauskas  Layup,Missed Shot,Layup Shot,0,0
+46,42,PT05M44.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+47,43,PT05M37.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,Made,1,16,12,28,h,Jefferson  Layup (4 PTS),Made Shot,Layup Shot,0,0
+48,46,PT05M34.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+49,48,PT05M19.00S,1,1610612739,CLE,200814,Kinsey,T. Kinsey,239,-5,24,Made,1,16,15,31,v,Kinsey 24' 3PT Jump Shot (3 PTS) (James 2 AST),Made Shot,Jump Shot,0,0
+50,49,PT05M09.00S,1,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams P.FOUL (P1.T2),Foul,Personal,0,0
+51,50,PT05M09.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,SUB: Varejao FOR Ilgauskas,Substitution,,0,0
+52,51,PT05M09.00S,1,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,SUB: Szczerbiak FOR Wallace,Substitution,,0,0
+53,52,PT04M58.00S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,-34,184,19,Made,1,18,15,33,h,Jefferson 19' Jump Shot (6 PTS) (Elson 1 AST),Made Shot,Jump Shot,0,0
+54,53,PT04M38.00S,1,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,-174,-8,17,Missed,1,0,0,0,v,MISS Szczerbiak 17' Jump Shot,Missed Shot,Jump Shot,0,0
+55,54,PT04M37.00S,1,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+56,55,PT04M29.00S,1,1610612749,MIL,1922,Elson,F. Elson,0,0,0,Made,1,20,15,35,h,Elson  Layup (6 PTS) (Villanueva 3 AST),Made Shot,Layup Shot,0,0
+57,56,PT04M04.00S,1,1610612739,CLE,200814,Kinsey,T. Kinsey,170,-3,17,Missed,1,0,0,0,v,MISS Kinsey 17' Jump Shot,Missed Shot,Jump Shot,0,0
+58,57,PT04M03.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+59,58,PT03M54.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva OFF.Foul (P2),Foul,Offensive,0,0
+60,59,PT03M54.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva Foul Turnover (P1.T2),Turnover,Foul,0,0
+61,60,PT03M54.00S,1,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,SUB: Bell FOR Villanueva,Substitution,,0,0
+62,61,PT03M37.00S,1,1610612739,CLE,2760,Varejao,A. Varejao,-40,19,4,Made,1,20,17,37,v,Varejao 4' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+63,62,PT03M26.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute OFF.Foul (P2),Foul,Offensive,0,0
+64,63,PT03M26.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute Foul Turnover (P1.T3),Turnover,Foul,0,0
+65,64,PT03M26.00S,1,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,SUB: Ridnour FOR Sessions,Substitution,,0,0
+66,65,PT03M26.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Bogans FOR Mbah a Moute,Substitution,,0,0
+67,66,PT03M09.00S,1,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,-119,160,20,Made,1,20,19,39,v,Szczerbiak 20' Jump Shot (2 PTS) (James 3 AST),Made Shot,Jump Shot,0,0
+68,67,PT02M52.00S,1,1610612749,MIL,2294,Bell,C. Bell,108,121,16,Missed,1,0,0,0,h,MISS Bell 16' Jump Shot,Missed Shot,Jump Shot,0,0
+69,68,PT02M51.00S,1,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+70,69,PT02M49.00S,1,1610612749,MIL,1922,Elson,F. Elson,0,0,0,Made,1,22,19,41,h,Elson  Layup (8 PTS),Made Shot,Layup Shot,0,0
+71,70,PT02M31.00S,1,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell P.FOUL (P1.T3),Foul,Personal,0,0
+72,71,PT02M31.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+73,73,PT02M31.00S,1,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,SUB: Hickson FOR Kinsey,Substitution,,0,0
+74,74,PT02M31.00S,1,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,SUB: Gibson FOR Williams,Substitution,,0,0
+75,75,PT02M16.00S,1,1610612739,CLE,2760,Varejao,A. Varejao,-109,127,17,Missed,1,0,0,0,v,MISS Varejao 17' Jump Shot,Missed Shot,Jump Shot,0,0
+76,76,PT02M15.00S,1,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,Szczerbiak REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+77,77,PT02M04.00S,1,1610612739,CLE,2760,Varejao,A. Varejao,-92,34,10,Missed,1,0,0,0,v,MISS Varejao 10' Jump Shot,Missed Shot,Jump Shot,0,0
+78,78,PT02M02.00S,1,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+79,79,PT01M58.00S,1,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,118,225,25,Missed,1,0,0,0,v,MISS Szczerbiak 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+80,80,PT01M57.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+81,81,PT01M53.00S,1,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,56,66,9,Made,1,22,21,43,v,Szczerbiak 9' Jump Shot (4 PTS) (James 4 AST),Made Shot,Jump Shot,0,0
+82,82,PT01M34.00S,1,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,Missed,1,0,0,0,h,MISS Bogans  Layup,Missed Shot,Layup Shot,0,0
+83,83,PT01M34.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+84,84,PT01M34.00S,1,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,SUB: Gadzuric FOR Elson,Substitution,,0,0
+85,85,PT01M09.00S,1,1610612739,CLE,2544,James,L. James,170,-2,17,Missed,1,0,0,0,v,MISS James 17' Jump Shot,Missed Shot,Jump Shot,0,0
+86,86,PT01M09.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+87,87,PT01M09.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+88,88,PT00M59.90S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,83,183,20,Missed,1,0,0,0,h,MISS Ridnour 20' Jump Shot,Missed Shot,Jump Shot,0,0
+89,89,PT00M57.90S,1,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+90,90,PT00M52.00S,1,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0,0,0,h,Gadzuric S.FOUL (P1.T4),Foul,Shooting,0,0
+91,91,PT00M52.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+92,92,PT00M52.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0
+93,93,PT00M52.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,22,22,44,v,James Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+94,95,PT00M41.30S,1,1610612749,MIL,2294,Bell,C. Bell,43,252,26,Made,1,25,22,47,h,Bell 26' 3PT Jump Shot (3 PTS) (Ridnour 1 AST),Made Shot,Jump Shot,0,0
+95,96,PT00M34.60S,1,1610612739,CLE,2544,James,L. James,220,156,27,Made,1,25,25,50,v,James 27' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+96,97,PT00M18.50S,1,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,Szczerbiak P.FOUL (P1.T3),Foul,Personal,0,0
+97,98,PT00M10.90S,1,1610612749,MIL,2210,Jefferson,R. Jefferson,-182,197,27,Missed,1,0,0,0,h,MISS Jefferson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+98,99,PT00M09.30S,1,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+99,100,PT00M00.70S,1,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,Made,1,27,25,52,h,Ridnour  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+100,101,PT00M00.30S,1,1610612739,CLE,2544,James,L. James,176,845,86,Missed,1,0,0,0,v,MISS James 86' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+101,102,PT00M00.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+102,103,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,25,52,,End of 1st Period (9:07 PM EST),period,end,0,0
+103,105,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,25,52,,Start of 2nd Period (9:10 PM EST),period,start,0,0
+104,106,PT11M48.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,0,0,0,v,Gibson S.FOUL (P1.T1),Foul,Shooting,0,0
+105,107,PT11M48.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,MISS Bell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+106,108,PT11M48.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0
+107,109,PT11M48.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,28,25,53,h,Bell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+108,111,PT11M29.00S,2,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,-139,-11,14,Missed,1,0,0,0,v,MISS Szczerbiak 14' Jump Shot,Missed Shot,Jump Shot,0,0
+109,112,PT11M28.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+110,113,PT11M21.00S,2,1610612739,CLE,2590,Williams,M. Williams,-150,208,26,Missed,1,0,0,0,v,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+111,114,PT11M20.00S,2,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+112,115,PT11M09.00S,2,1610612749,MIL,2586,Bogans,K. Bogans,-122,228,26,Made,1,31,25,56,h,Bogans 26' 3PT Jump Shot (3 PTS) (Bell 1 AST),Made Shot,Jump Shot,0,0
+113,116,PT10M40.00S,2,1610612739,CLE,2590,Williams,M. Williams,149,-16,15,Made,1,31,27,58,v,Williams 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+114,117,PT10M30.00S,2,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson P.FOUL (P1.T2),Foul,Personal,0,0
+115,118,PT10M16.00S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,-157,6,16,Missed,1,0,0,0,h,MISS Ridnour 16' Jump Shot,Missed Shot,Jump Shot,0,0
+116,120,PT10M15.00S,2,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0,0,0,h,Gadzuric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+117,119,PT10M15.00S,2,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,Made,1,33,27,60,h,Gadzuric  Dunk (2 PTS),Made Shot,Dunk Shot,0,0
+118,121,PT09M56.00S,2,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams OFF.Foul (P2),Foul,Offensive,0,0
+119,122,PT09M56.00S,2,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams Foul Turnover (P1.T6),Turnover,Foul,0,0
+120,123,PT09M44.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,-158,1,16,Made,1,35,27,62,h,Villanueva 16' Jump Shot (8 PTS) (Bell 2 AST),Made Shot,Jump Shot,0,0
+121,124,PT09M29.00S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour P.FOUL (P1.T1),Foul,Personal,0,0
+122,125,PT09M21.00S,2,1610612739,CLE,2590,Williams,M. Williams,-229,12,0,Made,1,35,30,65,v,Williams  3PT Jump Shot (5 PTS) (Gibson 1 AST),Made Shot,Jump Shot,0,0
+123,126,PT09M10.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,0,0,0,v,Gibson P.FOUL (P2.T3),Foul,Personal,0,0
+124,127,PT09M08.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao P.FOUL (P1.T4),Foul,Personal,0,0
+125,128,PT09M07.00S,2,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0,0,0,h,Gadzuric OFF.Foul (P2),Foul,Offensive,0,0
+126,129,PT09M07.00S,2,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0,0,0,h,Gadzuric Foul Turnover (P1.T4),Turnover,Foul,0,0
+127,130,PT08M51.00S,2,1610612739,CLE,201581,Hickson,J. Hickson,72,47,9,Made,1,35,32,67,v,Hickson 9' Jump Shot (2 PTS) (Williams 3 AST),Made Shot,Jump Shot,0,0
+128,131,PT08M37.00S,2,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,Szczerbiak P.FOUL (P2.PN),Foul,Personal,0,0
+129,132,PT08M37.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+130,134,PT08M37.00S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,SUB: Sessions FOR Ridnour,Substitution,,0,0
+131,135,PT08M37.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,36,32,68,h,Villanueva Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+132,137,PT08M37.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,MISS Villanueva Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+133,139,PT08M36.00S,2,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+134,140,PT08M22.00S,2,1610612739,CLE,2590,Williams,M. Williams,-138,91,17,Missed,1,0,0,0,v,MISS Williams 17' Jump Shot,Missed Shot,Jump Shot,0,0
+135,141,PT08M20.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+136,142,PT08M12.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao OFF.Foul (P2),Foul,Offensive,0,0
+137,143,PT08M12.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao Foul Turnover (P1.T7),Turnover,Foul,0,0
+138,144,PT07M58.00S,2,1610612749,MIL,2294,Bell,C. Bell,-179,23,18,Missed,1,0,0,0,h,MISS Bell 18' Jump Shot,Missed Shot,Jump Shot,0,0
+139,145,PT07M56.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+140,146,PT07M36.00S,2,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson Traveling Turnover (P1.T8),Turnover,Traveling,0,0
+141,147,PT07M23.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,-90,28,9,Missed,1,0,0,0,h,MISS Villanueva 9' Jump Shot,Missed Shot,Jump Shot,0,0
+142,148,PT07M22.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+143,149,PT07M14.00S,2,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+144,149,PT07M14.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions STEAL (1 STL),,,0,0
+145,150,PT07M09.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,Made,1,38,32,70,h,Sessions  Layup (4 PTS),Made Shot,Layup Shot,0,0
+146,151,PT06M50.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions P.FOUL (P1.T2),Foul,Personal,0,0
+147,152,PT06M50.00S,2,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,SUB: Ilgauskas FOR Hickson,Substitution,,0,0
+148,153,PT06M50.00S,2,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0,0,0,h,SUB: Elson FOR Gadzuric,Substitution,,0,0
+149,154,PT06M50.00S,2,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,SUB: Jefferson FOR Bogans,Substitution,,0,0
+150,155,PT06M50.00S,2,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,SUB: James FOR Williams,Substitution,,0,0
+151,156,PT06M41.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions P.FOUL (P2.T3),Foul,Personal,0,0
+152,157,PT06M41.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,SUB: Ridnour FOR Sessions,Substitution,,0,0
+153,158,PT06M32.00S,2,1610612739,CLE,2544,James,L. James,132,56,14,Missed,1,0,0,0,v,MISS James 14' Jump Shot,Missed Shot,Jump Shot,0,0
+154,159,PT06M31.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+155,160,PT06M27.00S,2,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0
+156,160,PT06M27.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas STEAL (1 STL),,,0,0
+157,161,PT06M20.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,Made,1,38,34,72,v,James  Layup (12 PTS) (Gibson 2 AST),Made Shot,Layup Shot,0,0
+158,162,PT06M20.00S,2,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson S.FOUL (P1.T4),Foul,Shooting,0,0
+159,163,PT06M20.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,38,35,73,v,James Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0
+160,165,PT05M58.00S,2,1610612749,MIL,2294,Bell,C. Bell,-215,131,25,Made,1,41,35,76,h,Bell 25' 3PT Jump Shot (7 PTS) (Jefferson 2 AST),Made Shot,Jump Shot,0,0
+161,166,PT05M38.00S,2,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,64,89,11,Missed,1,0,0,0,v,MISS Szczerbiak 11' Jump Shot,Missed Shot,Jump Shot,0,0
+162,167,PT05M38.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+163,168,PT05M38.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao L.B.FOUL (P3.PN),Foul,Loose Ball,0,0
+164,169,PT05M38.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+165,171,PT05M38.00S,2,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,SUB: Kinsey FOR Szczerbiak,Substitution,,0,0
+166,172,PT05M38.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,SUB: Wallace FOR Varejao,Substitution,,0,0
+167,173,PT05M38.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,42,35,77,h,Villanueva Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+168,175,PT05M38.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,43,35,78,h,Villanueva Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+169,177,PT05M37.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James Poss Lost Ball Turnover (P2.T10),Turnover,Poss Lost Ball Turnover,0,0
+170,178,PT05M37.00S,2,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey Violation:Kicked Ball,Violation,Kicked Ball,0,0
+171,179,PT05M32.00S,2,1610612749,MIL,1922,Elson,F. Elson,0,0,0,Missed,1,0,0,0,h,MISS Elson  Layup,Missed Shot,Layup Shot,0,0
+172,181,PT05M31.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+173,180,PT05M31.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Made,1,45,35,80,h,Villanueva  Tip Shot (13 PTS),Made Shot,Tip Shot,0,0
+174,182,PT05M25.00S,2,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson P.FOUL (P1.PN),Foul,Personal,0,0
+175,183,PT05M25.00S,2,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,SUB: Allen FOR Elson,Substitution,,0,0
+176,184,PT05M25.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+177,185,PT05M25.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0
+178,186,PT05M25.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+179,188,PT05M24.00S,2,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+180,189,PT05M09.00S,2,1610612749,MIL,2294,Bell,C. Bell,-235,-11,24,Made,1,48,35,83,h,Bell 24' 3PT Jump Shot (10 PTS) (Villanueva 4 AST),Made Shot,Jump Shot,0,0
+181,190,PT04M53.00S,2,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson P.FOUL (P2.PN),Foul,Personal,0,0
+182,191,PT04M53.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+183,192,PT04M53.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0
+184,193,PT04M53.00S,2,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Jefferson,Substitution,,0,0
+185,194,PT04M53.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,48,36,84,v,James Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+186,196,PT04M41.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell Traveling Turnover (P1.T6),Turnover,Traveling,0,0
+187,197,PT04M29.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,Made,1,48,38,86,v,James  Layup (16 PTS),Made Shot,Layup Shot,0,0
+188,198,PT04M29.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell S.FOUL (P2.PN),Foul,Shooting,0,0
+189,199,PT04M29.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,48,39,87,v,James Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0
+190,201,PT04M17.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,-142,134,20,Missed,1,0,0,0,h,MISS Villanueva 20' Jump Shot,Missed Shot,Jump Shot,0,0
+191,202,PT04M16.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,0,0,0,v,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+192,203,PT04M00.00S,2,1610612739,CLE,2544,James,L. James,118,108,16,Missed,1,0,0,0,v,MISS James 16' Jump Shot,Missed Shot,Jump Shot,0,0
+193,204,PT03M59.00S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+194,205,PT03M52.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,18,266,27,Missed,1,0,0,0,h,MISS Villanueva 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+195,206,PT03M51.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+196,207,PT03M30.00S,2,1610612739,CLE,2544,James,L. James,113,131,17,Missed,1,0,0,0,v,MISS James 17' Jump Shot,Missed Shot,Jump Shot,0,0
+197,208,PT03M29.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+198,209,PT03M11.00S,2,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey P.FOUL (P1.PN),Foul,Personal,0,0
+199,210,PT03M11.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,49,39,88,h,Bell Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+200,212,PT03M11.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,0,0,0,v,SUB: Williams FOR Gibson,Substitution,,0,0
+201,213,PT03M11.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,50,39,89,h,Bell Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+202,215,PT02M52.00S,2,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,Made,1,50,41,91,v,Kinsey  Layup (5 PTS) (James 5 AST),Made Shot,Layup Shot,0,0
+203,216,PT02M28.00S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,-23,134,14,Made,1,52,41,93,h,Villanueva 14' Jump Shot (15 PTS) (Bell 3 AST),Made Shot,Jump Shot,0,0
+204,217,PT02M07.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell S.FOUL (P3.PN),Foul,Shooting,0,0
+205,218,PT02M07.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+206,220,PT02M07.00S,2,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,SUB: Bogans FOR Bell,Substitution,,0,0
+207,221,PT02M07.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,52,42,94,v,James Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+208,223,PT02M07.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,52,43,95,v,James Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+209,225,PT01M51.00S,2,1610612749,MIL,2124,Allen,M. Allen,-90,45,10,Missed,1,0,0,0,h,MISS Allen 10' Jump Shot,Missed Shot,Jump Shot,0,0
+210,226,PT01M50.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+211,227,PT01M49.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0
+212,228,PT01M46.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas P.FOUL (P2.PN),Foul,Personal,0,0
+213,229,PT01M46.00S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,53,43,96,h,Ridnour Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+214,231,PT01M46.00S,2,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,54,43,97,h,Ridnour Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+215,233,PT01M34.00S,2,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans S.FOUL (P1.PN),Foul,Shooting,0,0
+216,234,PT01M34.00S,2,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,54,44,98,v,Kinsey Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+217,236,PT01M34.00S,2,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,54,45,99,v,Kinsey Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+218,238,PT01M15.00S,2,1610612749,MIL,2586,Bogans,K. Bogans,-234,112,26,Missed,1,0,0,0,h,MISS Bogans 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+219,239,PT01M14.00S,2,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+220,240,PT00M59.90S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,231,-5,0,Missed,1,0,0,0,v,MISS Ilgauskas  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+221,241,PT00M58.90S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+222,242,PT00M53.40S,2,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams Violation:Kicked Ball,Violation,Kicked Ball,0,0
+223,243,PT00M48.90S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,Missed,1,0,0,0,h,MISS Mbah a Moute  Layup,Missed Shot,Layup Shot,0,0
+224,244,PT00M47.90S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+225,245,PT00M45.70S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0
+226,245,PT00M45.70S,2,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans STEAL (1 STL),,,0,0
+227,246,PT00M45.70S,2,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans Poss Lost Ball Turnover (P1.T7),Turnover,Poss Lost Ball Turnover,0,0
+228,247,PT00M45.70S,2,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,SUB: Gibson FOR Williams,Substitution,,0,0
+229,248,PT00M45.70S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,SUB: Szczerbiak FOR Ilgauskas,Substitution,,0,0
+230,249,PT00M45.70S,2,1610612749,MIL,2124,Allen,M. Allen,0,0,0,,0,0,0,0,h,SUB: Elson FOR Allen,Substitution,,0,0
+231,250,PT00M37.90S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,0
+232,250,PT00M37.90S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute STEAL (1 STL),,,0,0
+233,251,PT00M35.60S,2,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,Made,1,56,45,101,h,Mbah a Moute  Dunk (2 PTS),Made Shot,Dunk Shot,0,0
+234,252,PT00M22.80S,2,1610612739,CLE,2544,James,L. James,125,252,28,Made,1,56,48,104,v,James 28' 3PT Jump Shot (22 PTS),Made Shot,Jump Shot,0,0
+235,253,PT00M06.40S,2,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,Szczerbiak P.FOUL (P3.PN),Foul,Personal,0,0
+236,254,PT00M06.40S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,57,48,105,h,Villanueva Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+237,256,PT00M06.40S,2,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,SUB: Williams FOR Szczerbiak,Substitution,,0,0
+238,257,PT00M06.40S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+239,259,PT00M06.40S,2,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,MISS Villanueva Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+240,261,PT00M04.90S,2,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+241,262,PT00M00.00S,2,1610612739,CLE,2544,James,L. James,189,265,33,Made,1,57,51,108,v,James 33' 3PT Jump Bank Shot (25 PTS),Made Shot,Jump Bank Shot,0,0
+242,263,PT00M00.00S,2,0,,0,,,0,0,0,,0,57,51,108,,Instant Replay2nd Period (9:45 PM EST),Instant Replay,Support Ruling,0,0
+243,264,PT00M00.00S,2,0,,0,,,0,0,0,,0,57,51,108,,End of 2nd Period (9:45 PM EST),period,end,0,0
+244,265,PT12M00.00S,3,0,,0,,,0,0,0,,0,57,51,108,,Start of 3rd Period (10:01 PM EST),period,start,0,0
+245,266,PT11M47.00S,3,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+246,266,PT11M47.00S,3,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (2 STL),,,0,0
+247,267,PT11M44.00S,3,1610612739,CLE,2590,Williams,M. Williams,0,0,0,Made,1,57,53,110,v,Williams  Layup (7 PTS),Made Shot,Layup Shot,0,0
+248,268,PT11M34.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,-78,252,26,Missed,1,0,0,0,h,MISS Villanueva 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+249,269,PT11M33.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+250,270,PT11M26.00S,3,1610612739,CLE,2544,James,L. James,-152,25,15,Made,1,57,55,112,v,James 15' Jump Shot (27 PTS),Made Shot,Jump Shot,0,0
+251,271,PT11M15.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas P.FOUL (P3.T1),Foul,Personal,0,0
+252,272,PT11M06.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+253,272,PT11M06.00S,3,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (3 STL),,,0,0
+254,273,PT11M03.00S,3,1610612739,CLE,2590,Williams,M. Williams,0,0,0,Missed,1,0,0,0,v,MISS Williams  Layup,Missed Shot,Layup Shot,0,0
+255,274,PT11M02.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+256,275,PT10M56.00S,3,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,Made,1,59,55,114,h,Sessions  Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,0,0
+257,276,PT10M47.00S,3,1610612739,CLE,2544,James,L. James,-175,200,27,Made,1,59,58,117,v,James 27' 3PT Jump Shot (30 PTS),Made Shot,Jump Shot,0,0
+258,277,PT10M32.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,106,159,19,Made,1,61,58,119,h,Jefferson 19' Jump Shot (8 PTS) (Sessions 2 AST),Made Shot,Jump Shot,0,0
+259,278,PT10M23.00S,3,1610612739,CLE,2544,James,L. James,152,213,26,Made,1,61,61,122,v,James 26' 3PT Jump Shot (33 PTS),Made Shot,Jump Shot,0,0
+260,279,PT10M06.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+261,280,PT10M00.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson S.FOUL (P3.T1),Foul,Shooting,0,0
+262,281,PT10M00.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+263,282,PT10M00.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0
+264,283,PT10M00.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+265,285,PT09M58.00S,3,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+266,286,PT09M51.00S,3,1610612739,CLE,2544,James,L. James,-209,162,26,Made,1,61,64,125,v,James 26' 3PT Jump Shot (36 PTS),Made Shot,Jump Shot,0,0
+267,287,PT09M35.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,45,142,15,Missed,1,0,0,0,h,MISS Villanueva 15' Jump Shot,Missed Shot,Jump Shot,0,0
+268,288,PT09M34.00S,3,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+269,289,PT09M29.00S,3,1610612739,CLE,2544,James,L. James,129,219,25,Made,1,61,67,128,v,James 25' 3PT Jump Shot (39 PTS),Made Shot,Jump Shot,0,0
+270,290,PT09M18.00S,3,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson OFF.Foul (P2),Foul,Offensive,0,0
+271,291,PT09M18.00S,3,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson Foul Turnover (P1.T11),Turnover,Foul,0,0
+272,292,PT09M10.00S,3,1610612739,CLE,2544,James,L. James,-37,138,14,Made,1,61,69,130,v,James 14' Jump Shot (41 PTS),Made Shot,Jump Shot,0,0
+273,293,PT09M10.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+274,295,PT09M02.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas P.FOUL (P4.T2),Foul,Personal,0,0
+275,296,PT09M02.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,SUB: Varejao FOR Ilgauskas,Substitution,,0,0
+276,297,PT08M49.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson OFF.Foul (P4),Foul,Offensive,0,0
+277,298,PT08M49.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson Foul Turnover (P3.T12),Turnover,Foul,0,0
+278,299,PT08M49.00S,3,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,SUB: Bell FOR Jefferson,Substitution,,0,0
+279,300,PT08M37.00S,3,1610612739,CLE,2544,James,L. James,-190,39,19,Missed,1,0,0,0,v,MISS James 19' Jump Shot,Missed Shot,Jump Shot,0,0
+280,301,PT08M37.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+281,302,PT08M37.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva L.B.FOUL (P3.T2),Foul,Loose Ball,0,0
+282,303,PT08M30.00S,3,1610612739,CLE,2590,Williams,M. Williams,242,4,24,Made,1,61,72,133,v,Williams 24' 3PT Jump Shot (10 PTS) (James 6 AST),Made Shot,Jump Shot,0,0
+283,304,PT08M18.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James P.FOUL (P2.T3),Foul,Personal,0,0
+284,305,PT08M14.00S,3,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao P.FOUL (P4.T4),Foul,Personal,0,0
+285,306,PT08M14.00S,3,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,SUB: Szczerbiak FOR Varejao,Substitution,,0,0
+286,307,PT08M13.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0
+287,307,PT08M13.00S,3,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (4 STL),,,0,0
+288,308,PT08M10.00S,3,1610612739,CLE,2590,Williams,M. Williams,0,0,0,Made,1,61,74,135,v,Williams  Layup (12 PTS),Made Shot,Layup Shot,0,0
+289,309,PT07M55.00S,3,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell OFF.Foul (P4),Foul,Offensive,0,0
+290,310,PT07M55.00S,3,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell Foul Turnover (P2.T14),Turnover,Foul,0,0
+291,311,PT07M55.00S,3,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,SUB: Ridnour FOR Elson,Substitution,,0,0
+292,312,PT07M55.00S,3,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,SUB: Bogans FOR Sessions,Substitution,,0,0
+293,313,PT07M55.00S,3,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,SUB: Alexander FOR Bell,Substitution,,0,0
+294,314,PT07M44.00S,3,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander S.FOUL (P1.T3),Foul,Shooting,0,0
+295,315,PT07M44.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,61,75,136,v,James Free Throw 1 of 2 (42 PTS),Free Throw,Free Throw 1 of 2,0,0
+296,317,PT07M44.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+297,319,PT07M43.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+298,320,PT07M29.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Missed,1,0,0,0,h,MISS Villanueva  Layup,Missed Shot,Layup Shot,0,0
+299,322,PT07M27.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+300,321,PT07M27.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,Missed,1,0,0,0,h,MISS Mbah a Moute  Tip Shot,Missed Shot,Tip Shot,0,0
+301,324,PT07M26.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+302,323,PT07M26.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Made,1,63,75,138,h,Villanueva  Tip Shot (18 PTS),Made Shot,Tip Shot,0,0
+303,325,PT07M01.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James Lost Ball Turnover (P5.T14),Turnover,Lost Ball,0,0
+304,325,PT07M01.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute STEAL (2 STL),,,0,0
+305,326,PT06M56.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,Missed,1,0,0,0,h,MISS Mbah a Moute  Layup,Missed Shot,Layup Shot,0,0
+306,328,PT06M55.00S,3,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+307,327,PT06M55.00S,3,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,Made,1,65,75,140,h,Bogans  Tip Shot (5 PTS),Made Shot,Tip Shot,0,0
+308,329,PT06M31.00S,3,1610612739,CLE,2544,James,L. James,-155,-2,16,Made,1,65,77,142,v,James 16' Jump Shot (44 PTS),Made Shot,Jump Shot,0,0
+309,330,PT06M18.00S,3,1610612749,MIL,2586,Bogans,K. Bogans,231,34,0,Made,1,68,77,145,h,Bogans  3PT Jump Shot (8 PTS) (Ridnour 2 AST),Made Shot,Jump Shot,0,0
+310,331,PT06M18.00S,3,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander P.FOUL (P2.T4),Foul,Personal,0,0
+311,332,PT06M03.00S,3,1610612739,CLE,200814,Kinsey,T. Kinsey,231,63,24,Missed,1,0,0,0,v,MISS Kinsey 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+312,333,PT06M02.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+313,334,PT05M53.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,-68,238,25,Made,1,71,77,148,h,Villanueva 25' 3PT Jump Shot (21 PTS) (Bogans 1 AST),Made Shot,Jump Shot,0,0
+314,335,PT05M42.00S,3,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey Palming Turnover (P1.T15),Turnover,Palming Turnover,0,0
+315,336,PT05M42.00S,3,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,SUB: Gibson FOR Kinsey,Substitution,,0,0
+316,337,PT05M42.00S,3,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,SUB: Hickson FOR Wallace,Substitution,,0,0
+317,338,PT05M35.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,2,228,23,Missed,1,0,0,0,h,MISS Ridnour 23' Jump Shot,Missed Shot,Jump Shot,0,0
+318,339,PT05M33.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+319,340,PT05M29.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,110,246,27,Missed,1,0,0,0,h,MISS Villanueva 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+320,341,PT05M29.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+321,342,PT05M13.00S,3,1610612739,CLE,2590,Williams,M. Williams,-144,-19,15,Missed,1,0,0,0,v,MISS Williams 15' Jump Shot,Missed Shot,Jump Shot,0,0
+322,343,PT05M12.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:3 Def:8),Rebound,Unknown,0,0
+323,344,PT05M02.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Made,1,73,77,150,h,Villanueva  Reverse Layup (23 PTS) (Bogans 2 AST),Made Shot,Reverse Layup Shot,0,0
+324,345,PT04M37.00S,3,1610612739,CLE,2544,James,L. James,141,217,26,Made,1,73,80,153,v,James 26' 3PT Jump Shot (47 PTS) (Williams 4 AST),Made Shot,Jump Shot,0,0
+325,346,PT04M22.00S,3,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams S.FOUL (P3.PN),Foul,Shooting,0,0
+326,348,PT04M22.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,MISS Villanueva Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+327,349,PT04M22.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0
+328,350,PT04M22.00S,3,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,SUB: D. Jackson FOR Williams,Substitution,,0,0
+329,351,PT04M22.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,SUB: Wallace FOR Hickson,Substitution,,0,0
+330,352,PT04M22.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,74,80,154,h,Villanueva Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0
+331,354,PT04M04.00S,3,1610612739,CLE,2544,James,L. James,89,261,28,Missed,1,0,0,0,v,MISS James 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+332,355,PT04M03.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:3 Def:9),Rebound,Unknown,0,0
+333,356,PT03M59.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0
+334,357,PT03M44.00S,3,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,0,0,0,v,Gibson OFF.Foul (P3),Foul,Offensive,0,0
+335,358,PT03M44.00S,3,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,0,0,0,v,Gibson Foul Turnover (P1.T16),Turnover,Foul,0,0
+336,359,PT03M27.00S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,Made,1,76,80,156,h,Villanueva  Layup (26 PTS),Made Shot,Layup Shot,0,0
+337,360,PT03M12.00S,3,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,Missed,1,0,0,0,v,MISS Gibson  Layup,Missed Shot,Layup Shot,0,0
+338,361,PT03M11.00S,3,1610612749,MIL,201570,Alexander,J. Alexander,0,0,0,,0,0,0,0,h,Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+339,362,PT02M58.00S,3,1610612749,MIL,201570,Alexander,J. Alexander,-30,36,5,Missed,1,0,0,0,h,MISS Alexander 5' Hook Shot,Missed Shot,Hook Shot,0,0
+340,363,PT02M56.00S,3,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+341,364,PT02M49.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+342,366,PT02M31.00S,3,1610612739,CLE,2544,James,L. James,97,181,21,Missed,1,0,0,0,v,MISS James 21' Jump Shot,Missed Shot,Jump Shot,0,0
+343,367,PT02M30.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,h,Ridnour REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+344,368,PT02M19.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,80,195,21,Missed,1,0,0,0,h,MISS Ridnour 21' Jump Shot,Missed Shot,Jump Shot,0,0
+345,369,PT02M18.00S,3,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+346,370,PT02M12.00S,3,1610612739,CLE,201616,Jackson,D. Jackson,0,0,0,,0,0,0,0,v,D. Jackson P.FOUL (P1.PN),Foul,Personal,0,0
+347,371,PT02M12.00S,3,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,77,80,157,h,Bogans Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+348,373,PT02M12.00S,3,1610612739,CLE,201616,Jackson,D. Jackson,0,0,0,,0,0,0,0,v,SUB: Hickson FOR D. Jackson,Substitution,,0,0
+349,374,PT02M12.00S,3,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,78,80,158,h,Bogans Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+350,376,PT01M50.00S,3,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,152,-6,15,Made,1,78,82,160,v,Szczerbiak 15' Jump Shot (6 PTS) (James 7 AST),Made Shot,Jump Shot,0,0
+351,377,PT01M39.00S,3,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,Szczerbiak S.FOUL (P4.PN),Foul,Shooting,0,0
+352,378,PT01M39.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,79,82,161,h,Ridnour Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+353,380,PT01M39.00S,3,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,80,82,162,h,Ridnour Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+354,382,PT01M24.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James Bad Pass Turnover (P6.T17),Turnover,Bad Pass,0,0
+355,382,PT01M24.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute STEAL (3 STL),,,0,0
+356,383,PT01M12.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,Made,1,82,82,164,h,Mbah a Moute  Layup (4 PTS) (Villanueva 5 AST),Made Shot,Layup Shot,0,0
+357,384,PT01M12.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson S.FOUL (P2.PN),Foul,Shooting,0,0
+358,385,PT01M12.00S,3,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,MISS Mbah a Moute Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+359,387,PT01M10.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+360,388,PT00M57.80S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,Made,1,82,84,166,v,Hickson  Dunk (4 PTS) (James 8 AST),Made Shot,Dunk Shot,0,0
+361,389,PT00M43.90S,3,1610612749,MIL,101111,Villanueva,C. Villanueva,-23,41,5,Missed,1,0,0,0,h,MISS Villanueva 5' Hook Shot,Missed Shot,Hook Shot,0,0
+362,390,PT00M42.50S,3,1610612739,CLE,1112,Wallace,B. Wallace,0,0,0,,0,0,0,0,v,Wallace REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+363,393,PT00M27.50S,3,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans P.FOUL (P2.PN),Foul,Personal,0,0
+364,394,PT00M27.50S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,82,85,167,v,James Free Throw 1 of 2 (48 PTS),Free Throw,Free Throw 1 of 2,0,0
+365,396,PT00M27.50S,3,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,SUB: Kinsey FOR Szczerbiak,Substitution,,0,0
+366,397,PT00M27.50S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,82,86,168,v,James Free Throw 2 of 2 (49 PTS),Free Throw,Free Throw 2 of 2,0,0
+367,399,PT00M05.90S,3,1610612749,MIL,201570,Alexander,J. Alexander,-234,-10,0,Missed,1,0,0,0,h,MISS Alexander  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+368,400,PT00M03.90S,3,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+369,401,PT00M03.20S,3,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans Step Out of Bounds Turnover (P2.T16),Turnover,Step Out of Bounds Turnover,0,0
+370,402,PT00M03.20S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,SUB: Williams FOR Hickson,Substitution,,0,0
+371,403,PT00M03.20S,3,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,SUB: Szczerbiak FOR Kinsey,Substitution,,0,0
+372,404,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,86,168,,Instant Replay3rd Period (10:31 PM EST),Instant Replay,Support Ruling,0,0
+373,405,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,86,168,,End of 3rd Period (10:31 PM EST),period,end,0,0
+374,407,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,86,168,,Start of 4th Period (10:33 PM EST),period,start,0,0
+375,408,PT11M47.00S,4,1610612739,CLE,2590,Williams,M. Williams,0,0,0,Made,1,82,88,170,v,Williams  Layup (14 PTS),Made Shot,Layup Shot,0,0
+376,409,PT11M32.00S,4,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,Szczerbiak P.FOUL (P5.T1),Foul,Personal,0,0
+377,410,PT11M32.00S,4,1610612739,CLE,1887,Szczerbiak,W. Szczerbiak,0,0,0,,0,0,0,0,v,SUB: Kinsey FOR Szczerbiak,Substitution,,0,0
+378,411,PT11M28.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson Out of Bounds Lost Ball Turnover (P2.T17),Turnover,Out of Bounds Lost Ball Turnover,0,0
+379,412,PT11M08.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-182,-3,18,Made,1,82,90,172,v,Ilgauskas 18' Jump Shot (8 PTS) (Williams 5 AST),Made Shot,Jump Shot,0,0
+380,413,PT10M49.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,-226,-2,0,Missed,1,0,0,0,h,MISS Jefferson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+381,414,PT10M48.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva REBOUND (Off:4 Def:9),Rebound,Unknown,0,0
+382,415,PT10M44.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,121,12,Made,1,84,90,174,h,Sessions 12' Jump Shot (8 PTS) (Villanueva 6 AST),Made Shot,Jump Shot,0,0
+383,416,PT10M23.00S,4,1610612739,CLE,2590,Williams,M. Williams,114,176,21,Missed,1,0,0,0,v,MISS Williams 21' Jump Shot,Missed Shot,Jump Shot,0,0
+384,417,PT10M21.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+385,418,PT10M04.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,94,50,11,Missed,1,0,0,0,h,MISS Villanueva 11' Jump Shot,Missed Shot,Jump Shot,0,0
+386,419,PT10M02.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+387,420,PT09M57.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,162,209,26,Made,1,87,90,177,h,Jefferson 26' 3PT Jump Shot (11 PTS) (Ridnour 3 AST),Made Shot,Jump Shot,0,0
+388,421,PT09M33.00S,4,1610612739,CLE,2590,Williams,M. Williams,-169,44,17,Missed,1,0,0,0,v,MISS Williams 17' Jump Shot,Missed Shot,Jump Shot,0,0
+389,422,PT09M32.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+390,423,PT09M14.00S,4,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,SUB: James FOR Kinsey,Substitution,,0,0
+391,424,PT09M08.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,Made,1,89,90,179,h,Elson  Layup (10 PTS) (Ridnour 4 AST),Made Shot,Layup Shot,0,0
+392,425,PT08M48.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,Made,1,89,92,181,v,Varejao  Dunk (4 PTS) (Williams 6 AST),Made Shot,Dunk Shot,0,0
+393,426,PT08M35.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,Sessions Poss Lost Ball Turnover (P3.T18),Turnover,Poss Lost Ball Turnover,0,0
+394,427,PT08M35.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+395,429,PT08M35.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,h,SUB: Bell FOR Sessions,Substitution,,0,0
+396,430,PT08M28.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson P.FOUL (P5.T1),Foul,Personal,0,0
+397,431,PT08M28.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Jefferson,Substitution,,0,0
+398,432,PT08M16.00S,4,1610612739,CLE,2590,Williams,M. Williams,239,17,24,Missed,1,0,0,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+399,433,PT08M15.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,0,0,0,v,Gibson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+400,434,PT07M56.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,Missed,1,0,0,0,v,MISS James  Layup,Missed Shot,Layup Shot,0,0
+401,434,PT07M56.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson BLOCK (1 BLK),,,0,0
+402,435,PT07M54.00S,4,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+403,436,PT07M33.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,-146,52,15,Missed,1,0,0,0,h,MISS Villanueva 15' Jump Shot,Missed Shot,Jump Shot,0,0
+404,437,PT07M32.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+405,438,PT07M28.00S,4,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams Out of Bounds Lost Ball Turnover (P3.T18),Turnover,Out of Bounds Lost Ball Turnover,0,0
+406,439,PT07M11.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson Traveling Turnover (P3.T19),Turnover,Traveling,0,0
+407,440,PT06M54.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-235,-5,24,Missed,1,0,0,0,v,MISS Ilgauskas 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+408,441,PT06M54.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+409,442,PT06M54.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva FLAGRANT.FOUL.TYPE2 (P4.T2),Foul,Flagrant Type 2,0,0
+410,446,PT06M54.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,Villanueva Ejection:First Flagrant Type 2,Ejection,First Flagrant Type 2,0,0
+411,443,PT06M54.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas T.FOUL (P4.T1),Foul,Technical,0,0
+412,447,PT06M54.00S,4,1610612749,MIL,2557,Ridnour,L. Ridnour,0,0,0,,0,90,92,182,h,Ridnour Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0
+413,449,PT06M54.00S,4,1610612749,MIL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,h,SUB: Jefferson FOR Villanueva,Substitution,,0,0
+414,450,PT06M54.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,90,93,183,v,Varejao Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0
+415,452,PT06M54.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,MISS Varejao Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0
+416,453,PT06M54.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0
+417,454,PT06M46.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson S.FOUL (P3.T3),Foul,Shooting,0,0
+418,456,PT06M46.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,90,94,184,v,James Free Throw 1 of 2 (50 PTS),Free Throw,Free Throw 1 of 2,0,0
+419,458,PT06M46.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,90,95,185,v,James Free Throw 2 of 2 (51 PTS),Free Throw,Free Throw 2 of 2,0,0
+420,460,PT06M26.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,Made,1,92,95,187,h,Jefferson  Running Dunk (13 PTS) (Ridnour 5 AST),Made Shot,Running Dunk Shot,0,0
+421,461,PT06M06.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,237,20,24,Made,1,92,98,190,v,Ilgauskas 24' 3PT Jump Shot (11 PTS) (James 9 AST),Made Shot,Jump Shot,0,0
+422,462,PT05M51.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James S.FOUL (P3.T2),Foul,Shooting,0,0
+423,463,PT05M51.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+424,465,PT05M51.00S,4,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Bogans FOR Mbah a Moute,Substitution,,0,0
+425,466,PT05M51.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+426,467,PT05M51.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0
+427,468,PT05M51.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,93,98,191,h,Jefferson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+428,470,PT05M25.00S,4,1610612739,CLE,2544,James,L. James,-8,78,8,Made,1,93,100,193,v,James 8' Jump Shot (53 PTS),Made Shot,Jump Shot,0,0
+429,471,PT05M12.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,165,56,17,Missed,1,0,0,0,h,MISS Jefferson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+430,472,PT05M10.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,Varejao REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+431,473,PT04M48.00S,4,1610612739,CLE,2544,James,L. James,-169,268,32,Missed,1,0,0,0,v,MISS James 32' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+432,474,PT04M47.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+433,475,PT04M40.00S,4,1610612749,MIL,2294,Bell,C. Bell,-171,206,27,Missed,1,0,0,0,h,MISS Bell 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+434,476,PT04M39.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+435,477,PT04M26.00S,4,1610612739,CLE,2590,Williams,M. Williams,-90,254,27,Made,1,93,103,196,v,Williams 27' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,0,0
+436,478,PT04M14.00S,4,1610612749,MIL,2586,Bogans,K. Bogans,-56,26,6,Missed,1,0,0,0,h,MISS Bogans 6' Jump Shot,Missed Shot,Jump Shot,0,0
+437,479,PT04M12.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+438,480,PT04M00.00S,4,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams Palming Turnover (P4.T19),Turnover,Palming Turnover,0,0
+439,481,PT04M00.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Short (Full 4 Short 1),Timeout,Short,0,0
+440,483,PT04M00.00S,4,1610612749,MIL,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,SUB: Sessions FOR Bogans,Substitution,,0,0
+441,484,PT03M46.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,-112,124,17,Made,1,95,103,198,h,Sessions 17' Jump Shot (10 PTS) (Jefferson 3 AST),Made Shot,Jump Shot,0,0
+442,485,PT03M19.00S,4,1610612739,CLE,2544,James,L. James,-150,72,17,Missed,1,0,0,0,v,MISS James 17' Jump Shot,Missed Shot,Jump Shot,0,0
+443,486,PT03M19.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+444,487,PT03M19.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson L.B.FOUL (P4.T4),Foul,Loose Ball,0,0
+445,488,PT03M19.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,SUB: Kinsey FOR Varejao,Substitution,,0,0
+446,489,PT03M07.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,-207,151,26,Missed,1,0,0,0,v,MISS Gibson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+447,490,PT03M06.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+448,491,PT02M57.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,99,164,19,Missed,1,0,0,0,h,MISS Jefferson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+449,492,PT02M56.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+450,493,PT02M36.00S,4,1610612739,CLE,2544,James,L. James,121,-8,12,Missed,1,0,0,0,v,MISS James 12' Jump Shot,Missed Shot,Jump Shot,0,0
+451,494,PT02M34.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,0,0,0,v,Gibson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+452,495,PT02M30.00S,4,1610612739,CLE,2590,Williams,M. Williams,-179,181,25,Missed,1,0,0,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+453,496,PT02M29.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,Ilgauskas REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+454,497,PT02M08.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,-235,102,26,Missed,1,0,0,0,v,MISS Gibson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+455,498,PT02M07.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+456,499,PT01M59.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,95,115,15,Missed,1,0,0,0,h,MISS Sessions 15' Jump Shot,Missed Shot,Jump Shot,0,0
+457,500,PT01M59.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Unknown,0,0
+458,501,PT01M59.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+459,503,PT01M51.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,Missed,1,0,0,0,h,MISS Jefferson  Layup,Missed Shot,Layup Shot,0,0
+460,505,PT01M50.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+461,504,PT01M50.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,Missed,1,0,0,0,h,MISS Elson  Tip Shot,Missed Shot,Tip Shot,0,0
+462,506,PT01M50.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,Jefferson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+463,507,PT01M50.00S,4,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey S.FOUL (P2.T3),Foul,Shooting,0,0
+464,508,PT01M50.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+465,509,PT01M50.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0
+466,510,PT01M50.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,96,103,199,h,Jefferson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+467,512,PT01M28.00S,4,1610612739,CLE,2590,Williams,M. Williams,-187,-24,19,Made,1,96,105,201,v,Williams 19' Jump Shot (19 PTS),Made Shot,Jump Shot,0,0
+468,513,PT01M15.00S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,193,173,26,Missed,1,0,0,0,h,MISS Jefferson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+469,514,PT01M14.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0,0,0,v,James REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+470,515,PT01M05.00S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,Elson P.FOUL (P5.PN),Foul,Personal,0,0
+471,516,PT01M05.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,96,106,202,v,James Free Throw 1 of 2 (54 PTS),Free Throw,Free Throw 1 of 2,0,0
+472,518,PT01M05.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,SUB: Varejao FOR Ilgauskas,Substitution,,0,0
+473,519,PT01M05.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,96,107,203,v,James Free Throw 2 of 2 (55 PTS),Free Throw,Free Throw 2 of 2,0,0
+474,521,PT00M56.50S,4,1610612739,CLE,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey P.FOUL (P3.PN),Foul,Personal,0,0
+475,522,PT00M56.50S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,97,107,204,h,Jefferson Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+476,524,PT00M56.50S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,98,107,205,h,Jefferson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+477,526,PT00M56.50S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Short (Reg.4 Short 2),Timeout,Short,0,0
+478,528,PT00M56.50S,4,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,SUB: Ilgauskas FOR Varejao,Substitution,,0,0
+479,529,PT00M52.60S,4,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell P.FOUL (P5.PN),Foul,Personal,0,0
+480,530,PT00M52.60S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0,0,0,v,SUB: Varejao FOR Ilgauskas,Substitution,,0,0
+481,531,PT00M52.60S,4,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,98,108,206,v,Williams Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+482,533,PT00M52.60S,4,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,98,109,207,v,Williams Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+483,535,PT00M52.60S,4,0,,1610612749,,,0,0,0,,0,0,0,0,h,BUCKS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+484,536,PT00M47.50S,4,1610612749,MIL,2294,Bell,C. Bell,234,-3,0,Made,1,101,109,210,h,Bell  3PT Jump Shot (15 PTS) (Ridnour 6 AST),Made Shot,Jump Shot,0,0
+485,537,PT00M46.90S,4,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,Bell P.FOUL (P6.PN),Foul,Personal,0,0
+486,538,PT00M46.90S,4,1610612749,MIL,2294,Bell,C. Bell,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Bell,Substitution,,0,0
+487,539,PT00M46.90S,4,1610612749,MIL,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,h,SUB: Bogans FOR Jefferson,Substitution,,0,0
+488,540,PT00M46.90S,4,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,101,110,211,v,Williams Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0
+489,542,PT00M46.90S,4,1610612739,CLE,2590,Williams,M. Williams,0,0,0,,0,101,111,212,v,Williams Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+490,544,PT00M46.90S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,," Foul : Double Personal - Elson (6 PF), Varejao (5 PF)",Foul,Double Personal,0,0
+491,546,PT00M46.90S,4,1610612749,MIL,1922,Elson,F. Elson,0,0,0,,0,0,0,0,h,SUB: Alexander FOR Elson,Substitution,,0,0
+492,547,PT00M46.90S,4,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0,0,0,v,SUB: Wallace FOR Varejao,Substitution,,0,0
+493,548,PT00M37.90S,4,1610612749,MIL,2586,Bogans,K. Bogans,212,153,26,Missed,1,0,0,0,h,MISS Bogans 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+494,549,PT00M36.70S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0
+495,550,PT00M11.80S,4,1610612739,CLE,2544,James,L. James,-123,170,21,Missed,1,0,0,0,v,MISS James 21' Jump Shot,Missed Shot,Jump Shot,0,0
+496,551,PT00M09.90S,4,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+497,552,PT00M05.50S,4,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,0,0,0,v,Gibson S.FOUL (P4.PN),Foul,Shooting,0,0
+498,553,PT00M05.50S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,102,111,213,h,Sessions Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+499,555,PT00M05.50S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,103,111,214,h,Sessions Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+500,557,PT00M00.00S,4,0,,0,,,0,0,0,,0,103,111,214,,End of 4th Period (11:14 PM EST),period,end,0,0

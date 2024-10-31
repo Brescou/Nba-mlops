@@ -1,0 +1,446 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:59 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Jump Ball Noah vs. Okafor: Tip to Rose,Jump Ball,,0,0
+3,2,PT11M41.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+4,2,PT11M41.00S,1,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli STEAL (1 STL),,,0,0
+5,3,PT11M26.00S,1,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0
+6,4,PT11M09.00S,1,1610612741,CHI,201149,Noah,J. Noah,18,19,3,Made,1,2,0,2,h,Noah 3' Layup (2 PTS) (Deng 1 AST),Made Shot,Layup Shot,0,0
+7,5,PT10M39.00S,1,1610612740,NOH,201158,Belinelli,M. Belinelli,-89,197,22,Made,1,2,2,4,v,Belinelli 22' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,0
+8,6,PT10M15.00S,1,1610612741,CHI,201149,Noah,J. Noah,-101,12,10,Missed,1,0,0,0,h,MISS Noah 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+9,7,PT10M14.00S,1,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,8,PT10M05.00S,1,1610612740,NOH,101127,Jack,J. Jack,0,28,3,Missed,1,0,0,0,v,MISS Jack 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+11,9,PT10M03.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+12,10,PT09M48.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+13,10,PT09M48.00S,1,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West STEAL (1 STL),,,0,0
+14,11,PT09M38.00S,1,1610612740,NOH,2731,Okafor,E. Okafor,-30,77,8,Made,1,2,4,6,v,Okafor 8' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,0,0
+15,12,PT09M20.00S,1,1610612741,CHI,201565,Rose,D. Rose,-57,135,15,Made,1,4,4,8,h,Rose 15' Jump Shot (2 PTS) (Boozer 1 AST),Made Shot,Jump Shot,0,0
+16,13,PT09M06.00S,1,1610612740,NOH,2561,West,D. West,56,74,9,Missed,1,0,0,0,v,MISS West 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+17,13,PT09M06.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah BLOCK (1 BLK),,,0,0
+18,14,PT09M05.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+19,15,PT08M54.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,118,34,12,Made,1,6,4,10,h,Boozer 12' Fadeaway Jumper (2 PTS) (Bogans 1 AST),Made Shot,Fadeaway Jump Shot,0,0
+20,16,PT08M37.00S,1,1610612740,NOH,202347,Pondexter,Q. Pondexter,20,25,3,Made,1,6,6,12,v,Pondexter 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+21,17,PT08M27.00S,1,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West P.FOUL (P1.T1),Foul,Personal,0,0
+22,18,PT08M21.00S,1,1610612741,CHI,201565,Rose,D. Rose,-155,137,21,Made,1,8,6,14,h,Rose 21' Jump Shot (4 PTS) (Deng 2 AST),Made Shot,Jump Shot,0,0
+23,19,PT08M03.00S,1,1610612740,NOH,2731,Okafor,E. Okafor,4,101,10,Made,1,8,8,16,v,Okafor 10' Jump Shot (4 PTS) (West 1 AST),Made Shot,Jump Shot,0,0
+24,20,PT07M42.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,168,184,25,Made,1,11,8,19,h,Bogans 25' 3PT Jump Shot (3 PTS) (Noah 1 AST),Made Shot,Jump Shot,0,0
+25,21,PT07M22.00S,1,1610612740,NOH,201158,Belinelli,M. Belinelli,9,22,2,Made,1,11,10,21,v,Belinelli 2' Layup (4 PTS) (Okafor 1 AST),Made Shot,Layup Shot,0,0
+26,22,PT07M05.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,2,22,2,Made,1,13,10,23,h,Boozer 2' Layup (4 PTS) (Rose 1 AST),Made Shot,Layup Shot,0,0
+27,23,PT06M45.00S,1,1610612740,NOH,2561,West,D. West,10,82,8,Missed,1,0,0,0,v,MISS West 8' Jump Shot,Missed Shot,Jump Shot,0,0
+28,24,PT06M45.00S,1,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+29,25,PT06M31.00S,1,1610612740,NOH,2561,West,D. West,95,183,21,Missed,1,0,0,0,v,MISS West 21' Jump Shot,Missed Shot,Jump Shot,0,0
+30,26,PT06M30.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+31,27,PT06M12.00S,1,1610612740,NOH,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,v,Pondexter S.FOUL (P1.T2),Foul,Shooting,0,0
+32,28,PT06M12.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,14,10,24,h,Deng Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+33,30,PT06M12.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,15,10,25,h,Deng Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+34,32,PT06M03.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans P.FOUL (P1.T1),Foul,Personal,0,0
+35,33,PT05M55.00S,1,1610612740,NOH,101127,Jack,J. Jack,61,203,21,Made,1,15,12,27,v,Jack 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,0
+36,34,PT05M28.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,236,-10,24,Missed,1,0,0,0,h,MISS Bogans 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+37,35,PT05M27.00S,1,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+38,36,PT05M20.00S,1,1610612740,NOH,201158,Belinelli,M. Belinelli,141,77,16,Missed,1,0,0,0,v,MISS Belinelli 16' Jump Shot,Missed Shot,Jump Shot,0,0
+39,37,PT05M19.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+40,38,PT05M12.00S,1,1610612741,CHI,201565,Rose,D. Rose,32,242,24,Missed,1,0,0,0,h,MISS Rose 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+41,39,PT05M11.00S,1,1610612740,NOH,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,v,Pondexter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+42,40,PT05M06.00S,1,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+43,44,PT04M51.00S,1,1610612740,NOH,101127,Jack,J. Jack,-13,1,1,Made,1,15,14,29,v,Jack 1' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,0,0
+44,45,PT04M51.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose S.FOUL (P1.T2),Foul,Shooting,0,0
+45,46,PT04M51.00S,1,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,15,15,30,v,Jack Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+46,48,PT04M27.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-7,19,2,Made,1,17,15,32,h,Boozer 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+47,49,PT04M11.00S,1,1610612740,NOH,2731,Okafor,E. Okafor,17,3,2,Missed,1,0,0,0,v,MISS Okafor 2' Layup,Missed Shot,Layup Shot,0,0
+48,50,PT04M09.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+49,51,PT04M03.00S,1,1610612741,CHI,2736,Deng,L. Deng,-183,156,24,Made,1,20,15,35,h,Deng 24' 3PT Jump Shot (5 PTS) (Rose 2 AST),Made Shot,Jump Shot,0,0
+50,52,PT03M42.00S,1,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+51,52,PT03M42.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer STEAL (1 STL),,,0,0
+52,53,PT03M36.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,26,4,3,Made,1,22,15,37,h,Boozer 3' Layup (8 PTS) (Rose 3 AST),Made Shot,Layup Shot,0,0
+53,54,PT03M17.00S,1,1610612740,NOH,101127,Jack,J. Jack,-136,39,14,Missed,1,0,0,0,v,MISS Jack 14' Jump Shot,Missed Shot,Jump Shot,0,0
+54,55,PT03M16.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+55,56,PT03M09.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,-122,94,15,Missed,1,0,0,0,h,MISS Bogans 15' Jump Shot,Missed Shot,Jump Shot,0,0
+56,57,PT03M07.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+57,58,PT03M05.00S,1,1610612741,CHI,201565,Rose,D. Rose,17,14,2,Missed,1,0,0,0,h,MISS Rose 2' Layup,Missed Shot,Layup Shot,0,0
+58,58,PT03M05.00S,1,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor BLOCK (1 BLK),,,0,0
+59,59,PT03M03.00S,1,1610612740,NOH,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,v,Pondexter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+60,60,PT02M56.00S,1,1610612740,NOH,202347,Pondexter,Q. Pondexter,-144,200,25,Missed,1,0,0,0,v,MISS Pondexter 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+61,62,PT02M55.00S,1,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+62,61,PT02M55.00S,1,1610612740,NOH,2731,Okafor,E. Okafor,10,23,3,Made,1,22,17,39,v,Okafor 3' Layup (6 PTS),Made Shot,Layup Shot,0,0
+63,63,PT02M36.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-19,9,2,Missed,1,0,0,0,h,MISS Boozer 2' Layup,Missed Shot,Layup Shot,0,0
+64,63,PT02M36.00S,1,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor BLOCK (2 BLK),,,0,0
+65,64,PT02M36.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+66,65,PT02M36.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+67,66,PT02M36.00S,1,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,SUB: Green FOR West,Substitution,,0,0
+68,67,PT02M36.00S,1,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,SUB: Landry FOR Belinelli,Substitution,,0,0
+69,68,PT02M36.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Boozer,Substitution,,0,0
+70,69,PT02M36.00S,1,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Bogans,Substitution,,0,0
+71,70,PT02M34.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+72,70,PT02M34.00S,1,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack STEAL (1 STL),,,0,0
+73,71,PT02M29.00S,1,1610612740,NOH,201171,Landry,C. Landry,12,11,2,Made,1,22,19,41,v,Landry 2' Layup (2 PTS) (Jack 1 AST),Made Shot,Layup Shot,0,0
+74,73,PT02M13.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0
+75,73,PT02M13.00S,1,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack STEAL (2 STL),,,0,0
+76,74,PT01M48.00S,1,1610612740,NOH,201171,Landry,C. Landry,92,145,17,Made,1,22,21,43,v,Landry 17' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+77,75,PT01M32.00S,1,1610612741,CHI,2736,Deng,L. Deng,15,6,2,Missed,1,0,0,0,h,MISS Deng 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+78,77,PT01M31.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+79,76,PT01M30.00S,1,1610612741,CHI,201149,Noah,J. Noah,4,25,3,Missed,1,0,0,0,h,MISS Noah 3' Tip Shot,Missed Shot,Tip Shot,0,0
+80,78,PT01M29.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+81,79,PT01M29.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,SUB: Asik FOR Noah,Substitution,,0,0
+82,80,PT01M29.00S,1,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,SUB: Gray FOR Okafor,Substitution,,0,0
+83,81,PT01M18.00S,1,1610612741,CHI,2736,Deng,L. Deng,-141,60,15,Missed,1,0,0,0,h,MISS Deng 15' Jump Shot,Missed Shot,Jump Shot,0,0
+84,82,PT01M16.00S,1,1610612740,NOH,201189,Gray,A. Gray,0,0,0,,0,0,0,0,v,Gray REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+85,83,PT01M12.00S,1,1610612740,NOH,202347,Pondexter,Q. Pondexter,10,19,2,Missed,1,0,0,0,v,MISS Pondexter 2' Layup,Missed Shot,Layup Shot,0,0
+86,84,PT01M10.00S,1,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+87,86,PT00M56.90S,1,1610612741,CHI,2736,Deng,L. Deng,-27,260,26,Missed,1,0,0,0,h,MISS Deng 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+88,87,PT00M54.90S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+89,88,PT00M45.20S,1,1610612741,CHI,200758,Brewer,R. Brewer,135,137,19,Made,1,24,21,45,h,Brewer 19' Jump Shot (2 PTS) (Rose 4 AST),Made Shot,Jump Shot,0,0
+90,89,PT00M35.20S,1,1610612740,NOH,2584,Green,W. Green,171,91,19,Made,1,24,23,47,v,Green 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+91,90,PT00M20.20S,1,1610612741,CHI,201565,Rose,D. Rose,159,12,16,Made,1,26,23,49,h,Rose 16' Jump Shot (6 PTS) (Gibson 1 AST),Made Shot,Jump Shot,0,0
+92,91,PT00M02.40S,1,1610612740,NOH,101127,Jack,J. Jack,19,9,2,Missed,1,0,0,0,v,MISS Jack 2' Layup,Missed Shot,Layup Shot,0,0
+93,93,PT00M01.00S,1,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+94,92,PT00M00.50S,1,1610612740,NOH,201171,Landry,C. Landry,-19,6,2,Missed,1,0,0,0,v,MISS Landry 2' Tip Shot,Missed Shot,Tip Shot,0,0
+95,95,PT00M00.10S,1,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+96,94,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,23,49,,End of 1st Period (8:21 PM EST),period,end,0,0
+97,97,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,23,49,,Start of 2nd Period (8:23 PM EST),period,start,0,0
+98,98,PT11M35.00S,2,1610612740,NOH,101127,Jack,J. Jack,103,190,22,Missed,1,0,0,0,v,MISS Jack 22' Jump Shot,Missed Shot,Jump Shot,0,0
+99,99,PT11M33.00S,2,1610612740,NOH,201189,Gray,A. Gray,0,0,0,,0,0,0,0,v,Gray REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+100,100,PT11M29.00S,2,1610612740,NOH,2584,Green,W. Green,-133,146,20,Missed,1,0,0,0,v,MISS Green 20' Jump Shot,Missed Shot,Jump Shot,0,0
+101,101,PT11M28.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+102,102,PT11M14.00S,2,1610612741,CHI,2736,Deng,L. Deng,51,85,10,Missed,1,0,0,0,h,MISS Deng 10' Jump Shot,Missed Shot,Jump Shot,0,0
+103,102,PT11M14.00S,2,1610612740,NOH,201189,Gray,A. Gray,0,0,0,,0,0,0,0,v,Gray BLOCK (1 BLK),,,0,0
+104,103,PT11M13.00S,2,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+105,104,PT10M54.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer S.FOUL (P1.T1),Foul,Shooting,0,0
+106,105,PT10M54.00S,2,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,26,24,50,v,Landry Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+107,107,PT10M54.00S,2,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,26,25,51,v,Landry Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+108,109,PT10M44.00S,2,1610612740,NOH,2584,Green,W. Green,0,0,0,,0,0,0,0,v,Green S.FOUL (P1.T1),Foul,Shooting,0,0
+109,110,PT10M44.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,27,25,52,h,Watson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+110,112,PT10M44.00S,2,1610612740,NOH,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,v,SUB: Belinelli FOR Pondexter,Substitution,,0,0
+111,113,PT10M44.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,28,25,53,h,Watson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+112,115,PT10M20.00S,2,1610612740,NOH,101127,Jack,J. Jack,-134,205,24,Missed,1,0,0,0,v,MISS Jack 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+113,116,PT10M19.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+114,117,PT10M03.00S,2,1610612740,NOH,2584,Green,W. Green,0,0,0,,0,0,0,0,v,Green S.FOUL (P2.T2),Foul,Shooting,0,0
+115,118,PT10M03.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,MISS Asik Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+116,119,PT10M03.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+117,120,PT10M03.00S,2,1610612740,NOH,201189,Gray,A. Gray,0,0,0,,0,0,0,0,v,SUB: West FOR Gray,Substitution,,0,0
+118,121,PT10M03.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,29,25,54,h,Asik Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+119,123,PT09M39.00S,2,1610612740,NOH,201158,Belinelli,M. Belinelli,20,94,10,Missed,1,0,0,0,v,MISS Belinelli 10' Jump Shot,Missed Shot,Jump Shot,0,0
+120,124,PT09M38.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+121,125,PT09M32.00S,2,1610612741,CHI,201228,Watson,C. Watson,40,249,25,Missed,1,0,0,0,h,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+122,126,PT09M30.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+123,127,PT09M26.00S,2,1610612741,CHI,2736,Deng,L. Deng,144,195,24,Missed,1,0,0,0,h,MISS Deng 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+124,128,PT09M26.00S,2,1610612740,NOH,2584,Green,W. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+125,129,PT09M16.00S,2,1610612740,NOH,2584,Green,W. Green,21,67,7,Missed,1,0,0,0,v,MISS Green 7' Jump Shot,Missed Shot,Jump Shot,0,0
+126,129,PT09M16.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik BLOCK (1 BLK),,,0,0
+127,130,PT09M14.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+128,131,PT09M11.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,20,7,2,Made,1,31,25,56,h,Brewer 2' Dunk (4 PTS) (Watson 1 AST),Made Shot,Dunk Shot,0,0
+129,132,PT09M06.00S,2,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+130,134,PT09M06.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,SUB: Korver FOR Deng,Substitution,,0,0
+131,136,PT08M51.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson S.FOUL (P1.T2),Foul,Shooting,0,0
+132,137,PT08M51.00S,2,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,31,26,57,v,Jack Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+133,139,PT08M51.00S,2,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,MISS Jack Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+134,141,PT08M49.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+135,142,PT08M37.00S,2,1610612741,CHI,2594,Korver,K. Korver,-150,88,17,Made,1,33,26,59,h,Korver 17' Jump Shot (2 PTS) (Asik 1 AST),Made Shot,Jump Shot,0,0
+136,143,PT08M22.00S,2,1610612740,NOH,201171,Landry,C. Landry,80,179,20,Missed,1,0,0,0,v,MISS Landry 20' Jump Shot,Missed Shot,Jump Shot,0,0
+137,144,PT08M21.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+138,145,PT07M57.00S,2,1610612741,CHI,201228,Watson,C. Watson,140,200,24,Missed,1,0,0,0,h,MISS Watson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+139,146,PT07M56.00S,2,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+140,147,PT07M43.00S,2,1610612740,NOH,101127,Jack,J. Jack,-19,19,3,Made,1,33,28,61,v,Jack 3' Layup (8 PTS),Made Shot,Layup Shot,0,0
+141,148,PT07M25.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-51,164,17,Missed,1,0,0,0,h,MISS Gibson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+142,150,PT07M23.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+143,149,PT07M23.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,25,3,Missed,1,0,0,0,h,MISS Asik 3' Putback Layup,Missed Shot,Putback Layup Shot,0,0
+144,151,PT07M21.00S,2,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+145,152,PT07M08.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Jump Ball Watson vs. Jack: Tip to Asik,Jump Ball,,0,0
+146,153,PT07M08.00S,2,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0
+147,153,PT07M08.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson STEAL (1 STL),,,0,0
+148,154,PT06M53.00S,2,1610612741,CHI,2594,Korver,K. Korver,-141,131,19,Made,1,35,28,63,h,Korver 19' Jump Shot (4 PTS) (Watson 2 AST),Made Shot,Jump Shot,0,0
+149,155,PT06M44.00S,2,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+150,157,PT06M44.00S,2,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,SUB: Pondexter FOR Jack,Substitution,,0,0
+151,158,PT06M30.00S,2,1610612740,NOH,2584,Green,W. Green,-136,159,21,Missed,1,0,0,0,v,MISS Green 21' Jump Shot,Missed Shot,Jump Shot,0,0
+152,159,PT06M29.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+153,160,PT06M20.00S,2,1610612741,CHI,2594,Korver,K. Korver,-226,-16,0,Missed,1,0,0,0,h,MISS Korver  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+154,161,PT06M19.00S,2,1610612740,NOH,2584,Green,W. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+155,162,PT05M56.00S,2,1610612740,NOH,202347,Pondexter,Q. Pondexter,-52,63,8,Missed,1,0,0,0,v,MISS Pondexter 8' Jump Shot,Missed Shot,Jump Shot,0,0
+156,164,PT05M55.00S,2,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+157,163,PT05M55.00S,2,1610612740,NOH,201171,Landry,C. Landry,28,3,3,Made,1,35,30,65,v,Landry 3' Tip Shot (8 PTS),Made Shot,Tip Shot,0,0
+158,165,PT05M43.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,-19,6,2,Missed,1,0,0,0,h,MISS Brewer 2' Layup,Missed Shot,Layup Shot,0,0
+159,165,PT05M43.00S,2,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West BLOCK (1 BLK),,,0,0
+160,166,PT05M41.00S,2,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+161,167,PT05M31.00S,2,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,BULLS T.Foul (Def. 3 Sec Korver ),Foul,Defense 3 Second,0,0
+162,168,PT05M31.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+163,170,PT05M31.00S,2,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,SUB: Rose FOR Asik,Substitution,,0,0
+164,171,PT05M31.00S,2,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,SUB: Boozer FOR Watson,Substitution,,0,0
+165,173,PT05M31.00S,2,1610612740,NOH,2561,West,D. West,0,0,0,,0,35,31,66,v,West Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+166,175,PT05M17.00S,2,1610612740,NOH,201171,Landry,C. Landry,97,162,19,Missed,1,0,0,0,v,MISS Landry 19' Jump Shot,Missed Shot,Jump Shot,0,0
+167,176,PT05M16.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+168,177,PT05M00.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,129,162,21,Made,1,37,31,68,h,Brewer 21' Jump Shot (6 PTS) (Rose 5 AST),Made Shot,Jump Shot,0,0
+169,178,PT04M32.00S,2,1610612740,NOH,201158,Belinelli,M. Belinelli,-123,277,30,Made,1,37,34,71,v,Belinelli 30' 3PT Jump Shot (7 PTS) (Pondexter 1 AST),Made Shot,Jump Shot,0,0
+170,179,PT04M18.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,10,17,2,Made,1,39,34,73,h,Brewer 2' Reverse Layup (8 PTS) (Korver 1 AST),Made Shot,Reverse Layup Shot,0,0
+171,180,PT03M56.00S,2,1610612740,NOH,201171,Landry,C. Landry,106,28,11,Missed,1,0,0,0,v,MISS Landry 11' Jump Shot,Missed Shot,Jump Shot,0,0
+172,182,PT03M55.00S,2,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+173,181,PT03M55.00S,2,1610612740,NOH,2561,West,D. West,-13,12,2,Made,1,39,36,75,v,West 2' Putback Layup (3 PTS),Made Shot,Putback Layup Shot,0,0
+174,183,PT03M36.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,-35,154,16,Missed,1,0,0,0,h,MISS Boozer 16' Jump Shot,Missed Shot,Jump Shot,0,0
+175,184,PT03M35.00S,2,1610612740,NOH,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,v,Pondexter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+176,185,PT03M22.00S,2,1610612740,NOH,2584,Green,W. Green,-35,143,15,Missed,1,0,0,0,v,MISS Green 15' Jump Shot,Missed Shot,Jump Shot,0,0
+177,186,PT03M20.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+178,187,PT03M01.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-27,15,3,Missed,1,0,0,0,h,MISS Gibson 3' Layup,Missed Shot,Layup Shot,0,0
+179,187,PT03M01.00S,2,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West BLOCK (2 BLK),,,0,0
+180,188,PT02M59.00S,2,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+181,189,PT02M53.00S,2,1610612740,NOH,201158,Belinelli,M. Belinelli,174,183,25,Made,1,39,39,78,v,Belinelli 25' 3PT Jump Shot (10 PTS) (Green 1 AST),Made Shot,Jump Shot,0,0
+182,190,PT02M29.00S,2,1610612741,CHI,201565,Rose,D. Rose,-144,112,18,Missed,1,0,0,0,h,MISS Rose 18' Jump Shot,Missed Shot,Jump Shot,0,0
+183,191,PT02M28.00S,2,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+184,192,PT02M06.00S,2,1610612740,NOH,2584,Green,W. Green,-136,153,20,Missed,1,0,0,0,v,MISS Green 20' Jump Shot,Missed Shot,Jump Shot,0,0
+185,192,PT02M06.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose BLOCK (1 BLK),,,0,0
+186,207,PT02M04.00S,2,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+187,194,PT02M04.00S,2,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,0
+188,198,PT02M04.00S,2,0,,194,Bowie,A. Bowie,0,0,0,,0,0,0,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0
+189,195,PT01M56.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+190,196,PT01M56.00S,2,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,SUB: Noah FOR Brewer,Substitution,,0,0
+191,197,PT01M56.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Deng FOR Gibson,Substitution,,0,0
+192,199,PT01M56.00S,2,1610612740,NOH,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,v,SUB: Okafor FOR Pondexter,Substitution,,0,0
+193,200,PT01M56.00S,2,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,SUB: Jack FOR Landry,Substitution,,0,0
+194,201,PT01M48.00S,2,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West S.FOUL (P2.T3),Foul,Shooting,0,0
+195,203,PT01M48.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,40,39,79,h,Boozer Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+196,205,PT01M48.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,41,39,80,h,Boozer Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+197,209,PT01M30.00S,2,1610612740,NOH,2561,West,D. West,-2,15,2,Made,1,41,41,82,v,West 2' Layup (5 PTS),Made Shot,Layup Shot,0,0
+198,211,PT01M15.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,-119,115,17,Missed,1,0,0,0,h,MISS Boozer 17' Jump Shot,Missed Shot,Jump Shot,0,0
+199,212,PT01M13.00S,2,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+200,213,PT00M48.70S,2,1610612740,NOH,101127,Jack,J. Jack,-137,42,14,Missed,1,0,0,0,v,MISS Jack 14' Jump Shot,Missed Shot,Jump Shot,0,0
+201,213,PT00M48.70S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose BLOCK (2 BLK),,,0,0
+202,214,PT00M45.10S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+203,215,PT00M44.90S,2,1610612741,CHI,201149,Noah,J. Noah,-11,19,2,Made,1,43,41,84,h,Noah 2' Layup (4 PTS) (Korver 2 AST),Made Shot,Layup Shot,0,0
+204,217,PT00M29.80S,2,1610612740,NOH,101127,Jack,J. Jack,92,116,15,Made,1,43,43,86,v,Jack 15' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+205,218,PT00M12.60S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng Offensive Charge Foul (P1.T3),Foul,Offensive Charge,0,0
+206,219,PT00M12.60S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng Foul Turnover (P1.T5),Turnover,Foul,0,0
+207,220,PT00M01.40S,2,1610612740,NOH,101127,Jack,J. Jack,121,50,13,Missed,1,0,0,0,v,MISS Jack 13' Jump Shot,Missed Shot,Jump Shot,0,0
+208,222,PT00M00.00S,2,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+209,221,PT00M00.00S,2,0,,0,,,0,0,0,,0,43,43,86,,End of 2nd Period (8:51 PM EST),period,end,0,0
+210,226,PT12M00.00S,3,0,,0,,,0,0,0,,0,43,43,86,,Start of 3rd Period (9:07 PM EST),period,start,0,0
+211,227,PT11M41.00S,3,1610612740,NOH,2561,West,D. West,10,53,5,Missed,1,0,0,0,v,MISS West 5' Jump Shot,Missed Shot,Jump Shot,0,0
+212,228,PT11M40.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+213,229,PT11M26.00S,3,1610612741,CHI,2736,Deng,L. Deng,-130,129,18,Missed,1,0,0,0,h,MISS Deng 18' Jump Shot,Missed Shot,Jump Shot,0,0
+214,230,PT11M24.00S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+215,231,PT11M24.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng P.FOUL (P2.T1),Foul,Personal,0,0
+216,232,PT11M06.00S,3,1610612740,NOH,101127,Jack,J. Jack,-15,85,9,Missed,1,0,0,0,v,MISS Jack 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+217,233,PT11M05.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+218,234,PT10M54.00S,3,1610612741,CHI,2736,Deng,L. Deng,26,11,3,Made,1,45,43,88,h,Deng 3' Layup (7 PTS),Made Shot,Layup Shot,0,0
+219,235,PT10M54.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor S.FOUL (P1.T1),Foul,Shooting,0,0
+220,236,PT10M54.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,46,43,89,h,Deng Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0
+221,238,PT10M36.00S,3,1610612740,NOH,2561,West,D. West,-108,47,12,Missed,1,0,0,0,v,MISS West 12' Jump Shot,Missed Shot,Jump Shot,0,0
+222,239,PT10M35.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+223,240,PT10M21.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+224,241,PT10M08.00S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,113,225,25,Missed,1,0,0,0,v,MISS Belinelli 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+225,242,PT10M07.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+226,244,PT10M00.00S,3,1610612741,CHI,201565,Rose,D. Rose,-157,187,24,Missed,1,0,0,0,h,MISS Rose 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+227,245,PT09M58.00S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+228,246,PT09M47.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,51,88,10,Missed,1,0,0,0,v,MISS Okafor 10' Jump Shot,Missed Shot,Jump Shot,0,0
+229,247,PT09M46.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+230,248,PT09M27.00S,3,1610612741,CHI,201565,Rose,D. Rose,-168,184,25,Missed,1,0,0,0,h,MISS Rose 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+231,249,PT09M26.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+232,250,PT09M03.00S,3,1610612741,CHI,2736,Deng,L. Deng,108,55,12,Missed,1,0,0,0,h,MISS Deng 12' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+233,251,PT09M01.00S,3,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+234,252,PT08M57.00S,3,1610612740,NOH,101127,Jack,J. Jack,10,25,3,Missed,1,0,0,0,v,MISS Jack 3' Layup,Missed Shot,Layup Shot,0,0
+235,253,PT08M57.00S,3,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+236,254,PT08M57.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer L.B.FOUL (P1.T2),Foul,Loose Ball,0,0
+237,255,PT08M47.00S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,-21,7,2,Made,1,46,45,91,v,Belinelli 2' Reverse Layup (12 PTS) (West 2 AST),Made Shot,Reverse Layup Shot,0,0
+238,256,PT08M31.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose Step Out of Bounds Turnover (P3.T7),Turnover,Step Out of Bounds Turnover,0,0
+239,257,PT08M16.00S,3,1610612740,NOH,101127,Jack,J. Jack,149,137,20,Made,1,46,47,93,v,Jack 20' Jump Shot (12 PTS),Made Shot,Jump Shot,0,0
+240,258,PT07M58.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Offensive Charge Foul (P2.T3),Foul,Offensive Charge,0,0
+241,259,PT07M58.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Foul Turnover (P3.T8),Turnover,Foul,0,0
+242,260,PT07M48.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah S.FOUL (P1.T4),Foul,Shooting,0,0
+243,261,PT07M48.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,46,48,94,v,Okafor Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+244,263,PT07M48.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,46,49,95,v,Okafor Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+245,265,PT07M31.00S,3,1610612741,CHI,2736,Deng,L. Deng,-158,187,24,Missed,1,0,0,0,h,MISS Deng 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+246,266,PT07M30.00S,3,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+247,267,PT07M20.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor Traveling Turnover (P1.T5),Turnover,Traveling,0,0
+248,268,PT07M01.00S,3,1610612741,CHI,2586,Bogans,K. Bogans,121,176,21,Made,1,48,49,97,h,Bogans 21' Jump Shot (5 PTS) (Noah 2 AST),Made Shot,Jump Shot,0,0
+249,269,PT06M50.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose S.FOUL (P2.PN),Foul,Shooting,0,0
+250,270,PT06M50.00S,3,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,48,50,98,v,Jack Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+251,272,PT06M50.00S,3,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,48,51,99,v,Jack Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+252,274,PT06M36.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,29,11,3,Made,1,50,51,101,h,Boozer 3' Driving Layup (12 PTS) (Rose 6 AST),Made Shot,Driving Layup Shot,0,0
+253,275,PT06M36.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor S.FOUL (P2.T2),Foul,Shooting,0,0
+254,276,PT06M36.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,51,51,102,h,Boozer Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0
+255,278,PT06M29.00S,3,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans P.FOUL (P2.PN),Foul,Personal,0,0
+256,279,PT06M29.00S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,51,52,103,v,Belinelli Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+257,281,PT06M29.00S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,51,53,104,v,Belinelli Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+258,283,PT06M10.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,108,19,11,Made,1,53,53,106,h,Boozer 11' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,0,0
+259,284,PT05M56.00S,3,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,0
+260,284,PT05M56.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer STEAL (2 STL),,,0,0
+261,285,PT05M50.00S,3,1610612741,CHI,201565,Rose,D. Rose,1,19,2,Made,1,55,53,108,h,Rose 2' Reverse Layup (8 PTS) (Deng 3 AST),Made Shot,Reverse Layup Shot,0,0
+262,286,PT05M43.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,1,22,2,Missed,1,0,0,0,v,MISS Okafor 2' Layup,Missed Shot,Layup Shot,0,0
+263,286,PT05M43.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah BLOCK (2 BLK),,,0,0
+264,287,PT05M42.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+265,288,PT05M42.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer S.FOUL (P3.PN),Foul,Shooting,0,0
+266,289,PT05M42.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+267,291,PT05M42.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,MISS Okafor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+268,292,PT05M42.00S,3,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Normal Rebound,0,0
+269,293,PT05M42.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,MISS Okafor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+270,297,PT05M40.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+271,299,PT05M27.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-13,14,2,Missed,1,0,0,0,h,MISS Boozer 2' Layup,Missed Shot,Layup Shot,0,0
+272,299,PT05M27.00S,3,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West BLOCK (3 BLK),,,0,0
+273,300,PT05M25.00S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+274,301,PT05M08.00S,3,1610612740,NOH,2561,West,D. West,-153,0,15,Missed,1,0,0,0,v,MISS West 15' Jump Shot,Missed Shot,Jump Shot,0,0
+275,302,PT05M07.00S,3,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+276,303,PT04M56.00S,3,1610612741,CHI,201149,Noah,J. Noah,1,28,3,Missed,1,0,0,0,h,MISS Noah 3' Layup,Missed Shot,Layup Shot,0,0
+277,303,PT04M56.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor BLOCK (3 BLK),,,0,0
+278,304,PT04M56.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Jump Ball Noah vs. Okafor: Tip to Bogans,Jump Ball,,0,0
+279,305,PT04M56.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+280,306,PT04M47.00S,3,1610612741,CHI,201565,Rose,D. Rose,-112,178,21,Missed,1,0,0,0,h,MISS Rose 21' Jump Shot,Missed Shot,Jump Shot,0,0
+281,307,PT04M46.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+282,308,PT04M45.00S,3,1610612740,NOH,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,v,SUB: Green FOR Pondexter,Substitution,,0,0
+283,310,PT04M33.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-11,159,16,Made,1,57,53,110,h,Boozer 16' Jump Shot (17 PTS) (Deng 4 AST),Made Shot,Jump Shot,0,0
+284,311,PT04M12.00S,3,1610612740,NOH,2561,West,D. West,-67,159,17,Missed,1,0,0,0,v,MISS West 17' Jump Shot,Missed Shot,Jump Shot,0,0
+285,312,PT04M11.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+286,313,PT04M02.00S,3,1610612741,CHI,201565,Rose,D. Rose,-183,165,25,Made,1,60,53,113,h,Rose 25' 3PT Jump Shot (11 PTS) (Bogans 2 AST),Made Shot,Jump Shot,0,0
+287,314,PT03M32.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,118,94,15,Missed,1,0,0,0,v,MISS Okafor 15' Jump Shot,Missed Shot,Jump Shot,0,0
+288,316,PT03M30.00S,3,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+289,315,PT03M30.00S,3,1610612740,NOH,2561,West,D. West,-10,20,2,Made,1,60,55,115,v,West 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0
+290,317,PT03M11.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor S.FOUL (P3.T3),Foul,Shooting,0,0
+291,318,PT03M11.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,MISS Rose Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+292,319,PT03M11.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0
+293,320,PT03M11.00S,3,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,SUB: Landry FOR Okafor,Substitution,,0,0
+294,321,PT03M11.00S,3,1610612741,CHI,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Bogans,Substitution,,0,0
+295,322,PT03M11.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Boozer,Substitution,,0,0
+296,323,PT03M11.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,61,55,116,h,Rose Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+297,325,PT02M55.00S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,-112,225,25,Made,1,61,58,119,v,Belinelli 25' 3PT Jump Shot (17 PTS) (Jack 2 AST),Made Shot,Jump Shot,0,0
+298,326,PT02M32.00S,3,1610612741,CHI,200758,Brewer,R. Brewer,152,198,25,Missed,1,0,0,0,h,MISS Brewer 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+299,327,PT02M31.00S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+300,328,PT02M20.00S,3,1610612740,NOH,2561,West,D. West,-52,127,14,Missed,1,0,0,0,v,MISS West 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+301,329,PT02M19.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+302,330,PT02M04.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,23,2,Missed,1,0,0,0,h,MISS Noah 2' Layup,Missed Shot,Layup Shot,0,0
+303,331,PT02M03.00S,3,1610612740,NOH,2584,Green,W. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+304,332,PT01M54.00S,3,1610612740,NOH,2584,Green,W. Green,62,211,22,Missed,1,0,0,0,v,MISS Green 22' Jump Shot,Missed Shot,Jump Shot,0,0
+305,333,PT01M53.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+306,334,PT01M44.00S,3,1610612741,CHI,201565,Rose,D. Rose,-2,34,3,Missed,1,0,0,0,h,MISS Rose 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+307,334,PT01M44.00S,3,1610612740,NOH,2584,Green,W. Green,0,0,0,,0,0,0,0,v,Green BLOCK (1 BLK),,,0,0
+308,335,PT01M42.00S,3,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+309,336,PT01M39.00S,3,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer S.FOUL (P2.PN),Foul,Shooting,0,0
+310,337,PT01M39.00S,3,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+311,339,PT01M39.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,SUB: Asik FOR Noah,Substitution,,0,0
+312,340,PT01M39.00S,3,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,61,59,120,v,Jack Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+313,342,PT01M39.00S,3,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,61,60,121,v,Jack Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+314,344,PT01M12.00S,3,1610612741,CHI,201565,Rose,D. Rose,-193,9,19,Missed,1,0,0,0,h,MISS Rose 19' Jump Shot,Missed Shot,Jump Shot,0,0
+315,345,PT01M10.00S,3,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+316,346,PT00M56.90S,3,1610612740,NOH,201158,Belinelli,M. Belinelli,36,242,24,Missed,1,0,0,0,v,MISS Belinelli 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+317,347,PT00M54.80S,3,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+318,348,PT00M41.90S,3,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry 3 Second Violation Turnover (P1.T7),Turnover,3 Second Violation,0,0
+319,349,PT00M30.10S,3,1610612741,CHI,201565,Rose,D. Rose,-7,11,1,Made,1,63,60,123,h,Rose 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,0
+320,350,PT00M30.10S,3,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West S.FOUL (P3.T4),Foul,Shooting,0,0
+321,351,PT00M30.10S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,64,60,124,h,Rose Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+322,353,PT00M08.90S,3,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Bad Pass Turnover (P4.T8),Turnover,Bad Pass,0,0
+323,353,PT00M08.90S,3,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer STEAL (1 STL),,,0,0
+324,354,PT00M02.60S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,9,1,Made,1,66,60,126,h,Gibson 1' Slam Dunk (2 PTS) (Rose 7 AST),Made Shot,Slam Dunk Shot,0,0
+325,355,PT00M00.10S,3,1610612740,NOH,2584,Green,W. Green,146,408,43,Missed,1,0,0,0,v,MISS Green 43' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+326,357,PT00M00.00S,3,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+327,356,PT00M00.00S,3,0,,0,,,0,0,0,,0,66,60,126,,End of 3rd Period (9:33 PM EST),period,end,0,0
+328,359,PT12M00.00S,4,0,,0,,,0,0,0,,0,66,60,126,,Start of 4th Period (9:35 PM EST),period,start,0,0
+329,360,PT11M47.00S,4,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry S.FOUL (P1.T1),Foul,Shooting,0,0
+330,361,PT11M47.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,67,60,127,h,Rose Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+331,363,PT11M47.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,68,60,128,h,Rose Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+332,365,PT11M32.00S,4,1610612740,NOH,201171,Landry,C. Landry,102,140,17,Made,1,68,62,130,v,Landry 17' Jump Shot (10 PTS) (Green 2 AST),Made Shot,Jump Shot,0,0
+333,366,PT11M17.00S,4,1610612741,CHI,200758,Brewer,R. Brewer,18,6,2,Made,1,70,62,132,h,Brewer 2' Dunk (10 PTS) (Rose 8 AST),Made Shot,Dunk Shot,0,0
+334,367,PT11M05.00S,4,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer P.FOUL (P3.T1),Foul,Personal,0,0
+335,368,PT10M55.00S,4,1610612740,NOH,101127,Jack,J. Jack,-7,250,25,Made,1,70,65,135,v,Jack 25' 3PT Jump Shot (19 PTS) (West 3 AST),Made Shot,Jump Shot,0,0
+336,369,PT10M35.00S,4,1610612741,CHI,2736,Deng,L. Deng,-174,123,21,Missed,1,0,0,0,h,MISS Deng 21' Jump Shot,Missed Shot,Jump Shot,0,0
+337,370,PT10M33.00S,4,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+338,371,PT10M18.00S,4,1610612740,NOH,2561,West,D. West,-127,80,15,Missed,1,0,0,0,v,MISS West 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+339,372,PT10M17.00S,4,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+340,373,PT09M58.00S,4,1610612741,CHI,201565,Rose,D. Rose,-18,203,20,Made,1,72,65,137,h,Rose 20' Jump Shot (19 PTS),Made Shot,Jump Shot,0,0
+341,375,PT09M29.00S,4,1610612740,NOH,2561,West,D. West,138,216,26,Missed,1,0,0,0,v,MISS West 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+342,376,PT09M29.00S,4,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+343,377,PT09M16.00S,4,1610612740,NOH,101127,Jack,J. Jack,-71,80,11,Missed,1,0,0,0,v,MISS Jack 11' Jump Shot,Missed Shot,Jump Shot,0,0
+344,378,PT09M15.00S,4,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:4 Def:6),Rebound,Unknown,0,0
+345,379,PT09M13.00S,4,1610612740,NOH,2561,West,D. West,13,63,6,Missed,1,0,0,0,v,MISS West 6' Jump Shot,Missed Shot,Jump Shot,0,0
+346,380,PT09M12.00S,4,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+347,381,PT09M06.00S,4,1610612741,CHI,201565,Rose,D. Rose,-142,203,25,Made,1,75,65,140,h,Rose 25' 3PT Jump Shot (22 PTS),Made Shot,Jump Shot,0,0
+348,382,PT09M03.00S,4,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+349,383,PT09M03.00S,4,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,SUB: Okafor FOR West,Substitution,,0,0
+350,384,PT09M03.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,SUB: Watson FOR Deng,Substitution,,0,0
+351,396,PT08M47.00S,4,1610612740,NOH,201158,Belinelli,M. Belinelli,204,-1,20,Missed,1,0,0,0,v,MISS Belinelli 20' Jump Shot,Missed Shot,Jump Shot,0,0
+352,396,PT08M47.00S,4,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,Asik BLOCK (2 BLK),,,0,0
+353,402,PT08M47.00S,4,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+354,386,PT08M41.00S,4,1610612740,NOH,101127,Jack,J. Jack,36,63,7,Made,1,75,67,142,v,Jack 7' Jump Shot (21 PTS),Made Shot,Jump Shot,0,0
+355,387,PT08M17.00S,4,1610612741,CHI,201565,Rose,D. Rose,69,197,21,Missed,1,0,0,0,h,MISS Rose 21' Jump Shot,Missed Shot,Jump Shot,0,0
+356,388,PT08M14.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+357,389,PT08M04.00S,4,1610612741,CHI,201600,Asik,O. Asik,13,19,2,Missed,1,0,0,0,h,MISS Asik 2' Layup,Missed Shot,Layup Shot,0,0
+358,389,PT08M04.00S,4,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor BLOCK (4 BLK),,,0,0
+359,390,PT08M03.00S,4,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+360,391,PT07M54.00S,4,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry Traveling Turnover (P2.T9),Turnover,Traveling,0,0
+361,392,PT07M54.00S,4,1610612741,CHI,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,SUB: Korver FOR Brewer,Substitution,,0,0
+362,393,PT07M54.00S,4,1610612741,CHI,201600,Asik,O. Asik,0,0,0,,0,0,0,0,h,SUB: Noah FOR Asik,Substitution,,0,0
+363,394,PT07M42.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah OFF.Foul (P2),Foul,Offensive,0,0
+364,395,PT07M42.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah Foul Turnover (P1.T9),Turnover,Foul,0,0
+365,397,PT07M28.00S,4,1610612740,NOH,2584,Green,W. Green,-4,22,2,Made,1,75,69,144,v,Green 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,0,0
+366,399,PT07M12.00S,4,1610612741,CHI,201228,Watson,C. Watson,24,1,2,Missed,1,0,0,0,h,MISS Watson 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+367,400,PT07M10.00S,4,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+368,401,PT07M06.00S,4,1610612741,CHI,201565,Rose,D. Rose,-158,194,25,Missed,1,0,0,0,h,MISS Rose 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+369,403,PT07M03.00S,4,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+370,404,PT06M52.00S,4,1610612740,NOH,2584,Green,W. Green,67,66,9,Missed,1,0,0,0,v,MISS Green 9' Jump Shot,Missed Shot,Jump Shot,0,0
+371,405,PT06M52.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+372,407,PT06M52.00S,4,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry L.B.FOUL (P2.T2),Foul,Loose Ball,0,0
+373,409,PT06M52.00S,4,1610612740,NOH,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,SUB: West FOR Landry,Substitution,,0,0
+374,411,PT06M41.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,SUB: Boozer FOR Gibson,Substitution,,0,0
+375,412,PT06M41.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,SUB: Deng FOR Rose,Substitution,,0,0
+376,413,PT06M34.00S,4,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli P.FOUL (P1.T3),Foul,Personal,0,0
+377,415,PT06M24.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,-10,129,13,Missed,1,0,0,0,h,MISS Boozer 13' Jump Shot,Missed Shot,Jump Shot,0,0
+378,416,PT06M22.00S,4,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West REBOUND (Off:4 Def:7),Rebound,Unknown,0,0
+379,418,PT06M07.00S,4,1610612740,NOH,2584,Green,W. Green,99,168,20,Made,1,75,71,146,v,Green 20' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+380,419,PT05M59.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+381,420,PT05M59.00S,4,1610612741,CHI,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,SUB: Rose FOR Watson,Substitution,,0,0
+382,422,PT05M42.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,10,31,3,Missed,1,0,0,0,h,MISS Boozer 3' Jump Shot,Missed Shot,Jump Shot,0,0
+383,422,PT05M42.00S,4,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor BLOCK (5 BLK),,,0,0
+384,423,PT05M40.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+385,424,PT05M38.00S,4,1610612741,CHI,2736,Deng,L. Deng,-243,9,24,Missed,1,0,0,0,h,MISS Deng 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+386,425,PT05M36.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:4 Def:7),Rebound,Unknown,0,0
+387,426,PT05M34.00S,4,1610612741,CHI,2594,Korver,K. Korver,-30,246,25,Missed,1,0,0,0,h,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+388,427,PT05M31.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+389,428,PT05M29.00S,4,1610612741,CHI,2594,Korver,K. Korver,151,203,25,Missed,1,0,0,0,h,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+390,429,PT05M29.00S,4,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+391,430,PT05M14.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah P.FOUL (P3.T2),Foul,Personal,0,0
+392,431,PT05M08.00S,4,1610612740,NOH,2584,Green,W. Green,111,222,25,Missed,1,0,0,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+393,432,PT05M07.00S,4,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,h,Korver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+394,433,PT04M52.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,116,31,12,Made,1,77,71,148,h,Boozer 12' Fadeaway Jumper (19 PTS) (Rose 9 AST),Made Shot,Fadeaway Jump Shot,0,0
+395,434,PT04M30.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah S.FOUL (P4.T3),Foul,Shooting,0,0
+396,435,PT04M30.00S,4,1610612740,NOH,2561,West,D. West,0,0,0,,0,77,72,149,v,West Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+397,437,PT04M30.00S,4,1610612740,NOH,2561,West,D. West,0,0,0,,0,77,73,150,v,West Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+398,439,PT04M17.00S,4,1610612741,CHI,2594,Korver,K. Korver,-157,39,16,Missed,1,0,0,0,h,MISS Korver 16' Jump Shot,Missed Shot,Jump Shot,0,0
+399,440,PT04M17.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0
+400,441,PT04M11.00S,4,1610612741,CHI,2594,Korver,K. Korver,-160,186,25,Missed,1,0,0,0,h,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+401,442,PT04M10.00S,4,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+402,443,PT03M54.00S,4,1610612740,NOH,2561,West,D. West,75,153,17,Made,1,77,75,152,v,West 17' Jump Shot (11 PTS) (Jack 3 AST),Made Shot,Jump Shot,0,0
+403,444,PT03M34.00S,4,1610612741,CHI,2594,Korver,K. Korver,-150,167,22,Missed,1,0,0,0,h,MISS Korver 22' Jump Shot,Missed Shot,Jump Shot,0,0
+404,445,PT03M33.00S,4,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+405,446,PT03M19.00S,4,1610612740,NOH,101127,Jack,J. Jack,-11,20,2,Made,1,77,77,154,v,Jack 2' Layup (23 PTS),Made Shot,Layup Shot,0,0
+406,447,PT03M15.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+407,449,PT03M01.00S,4,1610612741,CHI,201565,Rose,D. Rose,4,26,3,Missed,1,0,0,0,h,MISS Rose 3' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+408,449,PT03M01.00S,4,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West BLOCK (4 BLK),,,0,0
+409,450,PT03M00.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:5 Def:7),Rebound,Unknown,0,0
+410,452,PT03M00.00S,4,1610612741,CHI,201149,Noah,J. Noah,17,11,2,Made,1,79,77,156,h,Noah 2' Layup (6 PTS),Made Shot,Layup Shot,0,0
+411,453,PT03M00.00S,4,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack S.FOUL (P1.T4),Foul,Shooting,0,0
+412,454,PT03M00.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,MISS Noah Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+413,456,PT02M58.00S,4,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli REBOUND (Off:0 Def:9),Rebound,Unknown,0,0
+414,457,PT02M34.00S,4,1610612740,NOH,201158,Belinelli,M. Belinelli,-150,198,25,Missed,1,0,0,0,v,MISS Belinelli 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+415,458,PT02M33.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+416,459,PT02M15.00S,4,1610612740,NOH,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,v,Belinelli S.FOUL (P2.PN),Foul,Shooting,0,0
+417,461,PT02M15.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,80,77,157,h,Deng Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+418,464,PT02M15.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,81,77,158,h,Deng Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+419,466,PT01M54.00S,4,1610612740,NOH,2561,West,D. West,-226,-13,0,Missed,1,0,0,0,v,MISS West  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+420,467,PT01M54.00S,4,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Rebound,Rebound,Unknown,0,0
+421,469,PT01M54.00S,4,0,,466,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+422,470,PT01M50.00S,4,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+423,470,PT01M50.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,0,0,0,h,Rose STEAL (1 STL),,,0,0
+424,471,PT01M25.00S,4,1610612741,CHI,201565,Rose,D. Rose,-111,108,15,Missed,1,0,0,0,h,MISS Rose 15' Jump Shot,Missed Shot,Jump Shot,0,0
+425,472,PT01M23.00S,4,1610612740,NOH,2731,Okafor,E. Okafor,0,0,0,,0,0,0,0,v,Okafor REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+426,473,PT01M12.00S,4,1610612740,NOH,2561,West,D. West,136,53,15,Missed,1,0,0,0,v,MISS West 15' Jump Shot,Missed Shot,Jump Shot,0,0
+427,474,PT01M11.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+428,475,PT00M53.90S,4,1610612741,CHI,201565,Rose,D. Rose,29,11,3,Missed,1,0,0,0,h,MISS Rose 3' Layup,Missed Shot,Layup Shot,0,0
+429,476,PT00M50.90S,4,1610612740,NOH,2584,Green,W. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+430,477,PT00M43.90S,4,1610612740,NOH,2584,Green,W. Green,28,227,23,Missed,1,0,0,0,v,MISS Green 23' Jump Shot,Missed Shot,Jump Shot,0,0
+431,478,PT00M42.60S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:5 Def:8),Rebound,Unknown,0,0
+432,479,PT00M35.00S,4,1610612740,NOH,2561,West,D. West,0,0,0,,0,0,0,0,v,West Personal Take Foul (P4.PN),Foul,Personal Take,0,0
+433,480,PT00M35.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,82,77,159,h,Rose Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0
+434,482,PT00M35.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Boozer,Substitution,,0,0
+435,483,PT00M35.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,83,77,160,h,Rose Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0
+436,485,PT00M35.00S,4,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+437,491,PT00M27.90S,4,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Lost Ball Turnover (P5.T11),Turnover,Lost Ball,0,0
+438,491,PT00M27.90S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah STEAL (1 STL),,,0,0
+439,492,PT00M25.40S,4,1610612740,NOH,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Personal Take Foul (P2.PN),Foul,Personal Take,0,0
+440,493,PT00M25.40S,4,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,84,77,161,h,Korver Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+441,495,PT00M25.40S,4,1610612741,CHI,2594,Korver,K. Korver,0,0,0,,0,85,77,162,h,Korver Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+442,498,PT00M25.40S,4,0,,1610612740,,,0,0,0,,0,0,0,0,v,Hornets Timeout: Short (Reg.5 Short 2),Timeout,Short,0,0
+443,501,PT00M17.90S,4,1610612740,NOH,101127,Jack,J. Jack,124,44,13,Missed,1,0,0,0,v,MISS Jack 13' Jump Shot,Missed Shot,Jump Shot,0,0
+444,502,PT00M16.90S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+445,503,PT00M00.00S,4,0,,0,,,0,0,0,,0,85,77,162,,End of 4th Period (10:11 PM EST),period,end,0,0

@@ -1,0 +1,424 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Jump Ball Vucevic vs. Gortat: Tip to Dudley,Jump Ball,,1,0
+3,2,PT11M33.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,-58,56,8,Missed,1,0,0,0,v,MISS Gortat 8' Hook Shot,Missed Shot,Hook Shot,1,0
+4,3,PT11M33.00S,1,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,h,Frye REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+5,4,PT11M14.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,133,38,14,Made,1,2,0,2,h,Oladipo 14' Pullup Bank Shot (2 PTS),Made Shot,Pullup Bank shot,1,0
+6,5,PT11M00.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+7,5,PT11M00.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo STEAL (1 STL),,,1,0
+8,6,PT10M51.00S,1,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,h,Frye Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+9,6,PT10M51.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. STEAL (1 STL),,,1,0
+10,7,PT10M44.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,161,41,17,Made,1,2,2,4,v,Dudley 17' Running Jump Shot (2 PTS) (Temple 1 AST),Made Shot,Running Jump Shot,1,0
+11,8,PT10M29.00S,1,1610612753,ORL,202699,Harris,T. Harris,158,193,25,Missed,1,0,0,0,h,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+12,9,PT10M29.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+13,10,PT10M18.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,112,0,11,Made,1,2,4,6,v,Gortat 11' Jump Shot (2 PTS) (Wall 1 AST),Made Shot,Jump Shot,1,0
+14,11,PT10M18.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+15,12,PT10M03.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,-12,203,20,Missed,1,0,0,0,h,MISS Oladipo 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+16,13,PT10M01.00S,1,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,h,Frye REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+17,15,PT09M50.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,186,13,19,Made,1,4,4,8,h,Vucevic 19' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+18,16,PT09M43.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0
+19,18,PT09M43.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,4,5,9,v,Gortat Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+20,20,PT09M43.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,4,6,10,v,Gortat Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+21,23,PT09M27.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+22,23,PT09M27.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall STEAL (1 STL),,,1,0
+23,24,PT09M21.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,15,-5,2,Made,1,4,8,12,v,Porter Jr. 2' Running Layup (2 PTS) (Wall 2 AST),Made Shot,Running Layup Shot,1,0
+24,25,PT09M05.00S,1,1610612753,ORL,202699,Harris,T. Harris,2,7,1,Missed,1,0,0,0,h,MISS Harris 1' Layup,Missed Shot,Layup Shot,1,0
+25,25,PT09M05.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat BLOCK (1 BLK),,,1,0
+26,26,PT09M05.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+27,27,PT08M55.00S,1,1610612753,ORL,101112,Frye,C. Frye,0,1,0,Made,1,6,8,14,h,Frye  Dunk (2 PTS) (Vucevic 1 AST),Made Shot,Dunk Shot,1,0
+28,29,PT08M38.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,-112,51,12,Missed,1,0,0,0,v,MISS Gortat 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+29,30,PT08M38.00S,1,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,h,Frye REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+30,31,PT08M21.00S,1,1610612753,ORL,203095,Fournier,E. Fournier,-228,120,26,Made,1,9,8,17,h,Fournier 26' 3PT Jump Shot (3 PTS) (Vucevic 2 AST),Made Shot,Jump Shot,1,0
+31,32,PT08M01.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0
+32,33,PT07M51.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,6,247,25,Missed,1,0,0,0,h,MISS Oladipo 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+33,34,PT07M51.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+34,35,PT07M41.00S,1,1610612764,WAS,202322,Wall,J. Wall,12,169,17,Made,1,9,10,19,v,Wall 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+35,37,PT07M17.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+36,37,PT07M17.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. STEAL (2 STL),,,1,0
+37,38,PT07M15.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo Shooting Block Foul (P1.T2) (M.Smith),Foul,Shooting Block,1,0
+38,39,PT07M15.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,9,11,20,v,Porter Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+39,40,PT07M15.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,9,12,21,v,Porter Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+40,42,PT06M52.00S,1,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,h,Fournier Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+41,42,PT06M52.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall STEAL (2 STL),,,1,0
+42,43,PT06M47.00S,1,1610612764,WAS,202322,Wall,J. Wall,1,2,0,Made,1,9,14,23,v,Wall  Running Layup (4 PTS),Made Shot,Running Layup Shot,1,0
+43,44,PT06M36.00S,1,1610612753,ORL,101112,Frye,C. Frye,0,1,0,Made,1,11,14,25,h,Frye  Cutting Dunk Shot (4 PTS) (Vucevic 3 AST),Made Shot,Cutting Dunk Shot,1,0
+44,45,PT06M18.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,-109,41,12,Made,1,11,16,27,v,Gortat 12' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,0
+45,46,PT05M50.00S,1,1610612753,ORL,203095,Fournier,E. Fournier,-37,174,18,Missed,1,0,0,0,h,MISS Fournier 18' Jump Shot,Missed Shot,Jump Shot,1,0
+46,47,PT05M50.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+47,48,PT05M48.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,-9,21,2,Missed,1,0,0,0,h,MISS Oladipo 2' Layup,Missed Shot,Layup Shot,1,0
+48,49,PT05M48.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+49,50,PT05M48.00S,1,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,h,Fournier Personal Take Foul (P1.T3) (M.Smith),Foul,Personal Take,1,0
+50,52,PT05M48.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+51,55,PT05M34.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+52,55,PT05M34.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic STEAL (1 STL),,,1,0
+53,56,PT05M11.00S,1,1610612753,ORL,203095,Fournier,E. Fournier,-16,208,21,Missed,1,0,0,0,h,MISS Fournier 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+54,57,PT05M11.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+55,58,PT05M04.00S,1,1610612764,WAS,202066,Temple,G. Temple,-178,-21,18,Made,1,11,18,29,v,Temple 18' Running Jump Shot (2 PTS) (Wall 3 AST),Made Shot,Running Jump Shot,1,0
+56,59,PT04M52.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0
+57,60,PT04M52.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,12,18,30,h,Oladipo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+58,62,PT04M52.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,SUB: Oubre Jr. FOR Porter Jr.,Substitution,,0,0
+59,63,PT04M52.00S,1,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,h,SUB: Gordon FOR Frye,Substitution,,0,0
+60,64,PT04M52.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,13,18,31,h,Oladipo Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+61,66,PT04M38.00S,1,1610612764,WAS,202322,Wall,J. Wall,81,151,17,Missed,1,0,0,0,v,MISS Wall 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+62,67,PT04M37.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+63,68,PT04M28.00S,1,1610612764,WAS,202066,Temple,G. Temple,225,-11,0,Made,1,13,21,34,v,Temple  3PT Jump Shot (5 PTS) (Wall 4 AST),Made Shot,Jump Shot,1,0
+64,69,PT04M13.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,15,185,19,Made,1,15,21,36,h,Vucevic 19' Jump Shot (4 PTS) (Fournier 1 AST),Made Shot,Jump Shot,1,0
+65,70,PT04M04.00S,1,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+66,70,PT04M04.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris STEAL (1 STL),,,1,0
+67,71,PT04M00.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,1,0,Made,1,17,21,38,h,Oladipo  Running Dunk (6 PTS),Made Shot,Running Dunk Shot,1,0
+68,72,PT03M37.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,233,-6,0,Missed,1,0,0,0,v,MISS Dudley  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+69,73,PT03M35.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+70,74,PT03M16.00S,1,1610612753,ORL,203095,Fournier,E. Fournier,92,144,17,Missed,1,0,0,0,h,MISS Fournier 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+71,75,PT03M15.00S,1,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+72,76,PT03M08.00S,1,1610612764,WAS,202066,Temple,G. Temple,4,11,1,Missed,1,0,0,0,v,MISS Temple 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+73,76,PT03M08.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo BLOCK (1 BLK),,,1,0
+74,77,PT03M07.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+75,78,PT02M58.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0
+76,79,PT02M58.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+77,81,PT02M58.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,SUB: Sessions FOR Wall,Substitution,,0,0
+78,83,PT02M58.00S,1,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,h,SUB: Hezonja FOR Fournier,Substitution,,0,0
+79,84,PT02M58.00S,1,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,SUB: Napier FOR Oladipo,Substitution,,0,0
+80,85,PT02M53.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0
+81,85,PT02M53.00S,1,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,Oubre Jr. STEAL (1 STL),,,1,0
+82,86,PT02M38.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,71,129,15,Missed,1,0,0,0,v,MISS Dudley 15' Jump Shot,Missed Shot,Jump Shot,1,0
+83,87,PT02M37.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+84,88,PT02M36.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,-11,-1,1,Made,1,17,23,40,v,Gortat 1' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,0
+85,89,PT02M16.00S,1,1610612753,ORL,203894,Napier,S. Napier,51,61,8,Missed,1,0,0,0,h,MISS Napier 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+86,90,PT02M15.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+87,110,PT02M11.00S,1,1610612764,WAS,202066,Temple,G. Temple,-12,-1,1,Missed,1,0,0,0,v,MISS Temple 1' Layup,Missed Shot,Layup Shot,1,0
+88,110,PT02M11.00S,1,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja BLOCK (1 BLK),,,1,0
+89,91,PT02M10.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+90,92,PT02M10.00S,1,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,SUB: Smith FOR Vucevic,Substitution,,0,0
+91,93,PT02M10.00S,1,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,SUB: Porter Jr. FOR Dudley,Substitution,,0,0
+92,94,PT02M10.00S,1,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,SUB: Neal FOR Temple,Substitution,,0,0
+93,96,PT01M59.00S,1,1610612764,WAS,201196,Sessions,R. Sessions,69,87,11,Missed,1,0,0,0,v,MISS Sessions 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+94,97,PT01M59.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+95,98,PT01M35.00S,1,1610612753,ORL,203894,Napier,S. Napier,0,0,0,,0,0,0,0,h,Napier Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0
+96,98,PT01M35.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat STEAL (1 STL),,,1,0
+97,99,PT01M30.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,9,-15,2,Made,1,17,25,42,v,Porter Jr. 2' Running Layup (6 PTS) (Sessions 1 AST),Made Shot,Running Layup Shot,1,0
+98,100,PT01M13.00S,1,1610612753,ORL,201160,Smith,J. Smith,99,154,18,Missed,1,0,0,0,h,MISS Smith 18' Jump Shot,Missed Shot,Jump Shot,1,0
+99,101,PT01M12.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+100,103,PT00M54.90S,1,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,Oubre Jr. Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0
+101,103,PT00M54.90S,1,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon STEAL (1 STL),,,1,0
+102,104,PT00M48.80S,1,1610612753,ORL,1626209,Hezonja,M. Hezonja,10,23,3,Missed,1,0,0,0,h,MISS Hezonja 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+103,104,PT00M48.80S,1,1610612764,WAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,v,Neal BLOCK (1 BLK),,,1,0
+104,105,PT00M46.90S,1,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+105,106,PT00M33.90S,1,1610612753,ORL,203894,Napier,S. Napier,-12,259,26,Missed,1,0,0,0,h,MISS Napier 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+106,107,PT00M31.90S,1,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+107,108,PT00M25.90S,1,1610612753,ORL,203932,Gordon,A. Gordon,235,11,24,Missed,1,0,0,0,h,MISS Gordon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+108,109,PT00M25.80S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+109,111,PT00M02.30S,1,1610612764,WAS,202390,Neal,G. Neal,-16,213,21,Made,1,17,27,44,v,Neal 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+110,112,PT00M00.00S,1,1610612753,ORL,203894,Napier,S. Napier,205,159,26,Missed,1,0,0,0,h,MISS Napier 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+111,113,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+112,114,PT00M00.00S,1,0,,0,,,0,0,0,,0,17,27,44,,End of 1st Period (7:33 PM EST),period,end,0,0
+113,117,PT12M00.00S,2,0,,0,,,0,0,0,,0,17,27,44,,Start of 2nd Period (7:35 PM EST),period,start,0,0
+114,118,PT11M43.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,Oubre Jr. P.FOUL (P1.T1) (M.Kogut),Foul,Personal,1,0
+115,119,PT11M43.00S,2,1610612753,ORL,201160,Smith,J. Smith,0,0,0,,0,18,27,45,h,Smith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+116,121,PT11M43.00S,2,1610612753,ORL,201160,Smith,J. Smith,0,0,0,,0,19,27,46,h,Smith Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+117,123,PT11M27.00S,2,1610612764,WAS,201196,Sessions,R. Sessions,-1,51,5,Missed,1,0,0,0,v,MISS Sessions 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+118,124,PT11M27.00S,2,1610612753,ORL,203894,Napier,S. Napier,0,0,0,,0,0,0,0,h,Napier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+119,125,PT11M17.00S,2,1610612764,WAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,v,Neal P.FOUL (P1.T2) (M.Kogut),Foul,Personal,1,0
+120,127,PT11M09.00S,2,1610612753,ORL,201160,Smith,J. Smith,25,183,18,Missed,1,0,0,0,h,MISS Smith 18' Jump Shot,Missed Shot,Jump Shot,1,0
+121,128,PT11M09.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+122,129,PT10M58.00S,2,1610612753,ORL,201160,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0
+123,130,PT10M58.00S,2,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,19,28,47,v,Sessions Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+124,132,PT10M58.00S,2,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,19,29,48,v,Sessions Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+125,135,PT10M45.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,Oubre Jr. S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,1,0
+126,136,PT10M45.00S,2,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,20,29,49,h,Hezonja Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+127,138,PT10M45.00S,2,1610612753,ORL,203894,Napier,S. Napier,0,0,0,,0,0,0,0,h,SUB: Oladipo FOR Napier,Substitution,,0,0
+128,139,PT10M45.00S,2,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,21,29,50,h,Hezonja Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+129,141,PT10M24.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,-207,0,21,Made,1,21,31,52,v,Gooden 21' Jump Shot (2 PTS) (Neal 1 AST),Made Shot,Jump Shot,1,0
+130,142,PT10M05.00S,2,1610612753,ORL,201160,Smith,J. Smith,28,110,11,Made,1,23,31,54,h,Smith 11' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,0
+131,143,PT09M54.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,58,237,24,Made,1,23,34,57,v,Gooden 24' 3PT Jump Shot (5 PTS) (Sessions 2 AST),Made Shot,Jump Shot,1,0
+132,144,PT09M38.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden P.FOUL (P1.T4) (M.Kogut),Foul,Personal,1,0
+133,145,PT09M29.00S,2,1610612753,ORL,201160,Smith,J. Smith,-25,198,20,Missed,1,0,0,0,h,MISS Smith 20' Jump Shot,Missed Shot,Jump Shot,1,0
+134,147,PT09M27.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+135,146,PT09M27.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,-11,8,1,Made,1,25,34,59,h,Gordon 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,0
+136,148,PT09M14.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,30,247,25,Missed,1,0,0,0,v,MISS Gooden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+137,149,PT09M13.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+138,150,PT09M07.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,4,8,1,Made,1,27,34,61,h,Gordon 1' Running Layup (4 PTS) (Hezonja 1 AST),Made Shot,Running Layup Shot,1,0
+139,151,PT09M00.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+140,153,PT09M00.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,SUB: Temple FOR Oubre Jr.,Substitution,,0,0
+141,155,PT08M55.00S,2,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,Sessions Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0
+142,155,PT08M55.00S,2,1610612753,ORL,201160,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith STEAL (1 STL),,,1,0
+143,156,PT08M49.00S,2,1610612764,WAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,v,Neal S.FOUL (P2.PN) (M.Smith),Foul,Shooting,1,0
+144,157,PT08M49.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,MISS Oladipo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+145,158,PT08M49.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+146,159,PT08M49.00S,2,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,SUB: Wall FOR Sessions,Substitution,,0,0
+147,160,PT08M49.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,28,34,62,h,Oladipo Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+148,162,PT08M28.00S,2,1610612764,WAS,202322,Wall,J. Wall,233,-1,0,Made,1,28,37,65,v,Wall  3PT Jump Shot (7 PTS) (Temple 2 AST),Made Shot,Jump Shot,1,0
+149,163,PT08M11.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,17,7,2,Missed,1,0,0,0,h,MISS Oladipo 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+150,163,PT08M11.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden BLOCK (1 BLK),,,1,0
+151,164,PT08M10.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+152,165,PT08M03.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,235,-15,24,Made,1,28,40,68,v,Porter Jr. 24' 3PT Jump Shot (9 PTS) (Neal 2 AST),Made Shot,Jump Shot,1,0
+153,166,PT07M42.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,227,8,0,Made,1,31,40,71,h,Gordon  3PT Jump Shot (7 PTS) (Hezonja 2 AST),Made Shot,Jump Shot,1,0
+154,168,PT07M38.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Jump Ball Gordon vs. Neal: Tip to Smith,Jump Ball,,1,0
+155,170,PT07M38.00S,2,1610612764,WAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,v,Neal Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0
+156,170,PT07M38.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon STEAL (2 STL),,,1,0
+157,171,PT07M26.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple P.FOUL (P1.PN) (M.Smith),Foul,Personal,1,0
+158,172,PT07M26.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,32,40,72,h,Oladipo Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+159,175,PT07M26.00S,2,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,SUB: Harris FOR Hezonja,Substitution,,0,0
+160,176,PT07M26.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,33,40,73,h,Oladipo Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+161,179,PT07M04.00S,2,1610612764,WAS,202322,Wall,J. Wall,32,273,27,Missed,1,0,0,0,v,MISS Wall 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+162,180,PT07M03.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+163,181,PT07M03.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,SUB: Dudley FOR Porter Jr.,Substitution,,0,0
+164,182,PT06M47.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,17,36,4,Missed,1,0,0,0,h,MISS Gordon 4' Hook Shot,Missed Shot,Hook Shot,1,0
+165,183,PT06M46.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+166,184,PT06M34.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,-6,214,21,Made,1,33,42,75,v,Dudley 21' Jump Shot (4 PTS) (Neal 3 AST),Made Shot,Jump Shot,1,0
+167,185,PT06M09.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,-84,227,24,Missed,1,0,0,0,h,MISS Gordon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+168,186,PT06M08.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+169,188,PT05M59.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+170,190,PT05M59.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,SUB: Gortat FOR Gooden,Substitution,,0,0
+171,191,PT05M59.00S,2,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,SUB: Frye FOR Gordon,Substitution,,0,0
+172,192,PT05M59.00S,2,1610612753,ORL,201160,Smith,J. Smith,0,0,0,,0,0,0,0,h,SUB: Vucevic FOR Smith,Substitution,,0,0
+173,193,PT05M51.00S,2,1610612764,WAS,202390,Neal,G. Neal,-97,178,20,Made,1,33,44,77,v,Neal 20' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,0
+174,194,PT05M47.00S,2,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0
+175,194,PT05M47.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall STEAL (3 STL),,,0,0
+176,195,PT05M40.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+177,196,PT05M30.00S,2,1610612753,ORL,101112,Frye,C. Frye,-184,180,26,Made,1,36,44,80,h,Frye 26' 3PT Jump Shot (7 PTS) (Vucevic 4 AST),Made Shot,Jump Shot,1,0
+178,197,PT05M12.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,94,232,25,Made,1,36,47,83,v,Dudley 25' 3PT Jump Shot (7 PTS) (Temple 3 AST),Made Shot,Jump Shot,1,0
+179,198,PT04M47.00S,2,1610612753,ORL,203095,Fournier,E. Fournier,-11,105,11,Made,1,38,47,85,h,Fournier 11' Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+180,199,PT04M37.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,6,262,26,Made,1,38,50,88,v,Dudley 26' 3PT Running Jump Shot (10 PTS) (Wall 5 AST),Made Shot,Running Jump Shot,1,0
+181,200,PT04M21.00S,2,1610612753,ORL,101112,Frye,C. Frye,146,61,16,Made,1,40,50,90,h,Frye 16' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,0
+182,201,PT04M01.00S,2,1610612764,WAS,202066,Temple,G. Temple,20,-1,2,Made,1,40,52,92,v,Temple 2' Reverse Layup (7 PTS) (Dudley 1 AST),Made Shot,Reverse Layup Shot,1,0
+183,203,PT03M50.00S,2,1610612753,ORL,202696,Vucevic,N. Vucevic,-110,164,20,Missed,1,0,0,0,h,MISS Vucevic 20' Jump Shot,Missed Shot,Jump Shot,1,0
+184,204,PT03M49.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+185,205,PT03M42.00S,2,1610612764,WAS,202322,Wall,J. Wall,-11,-5,1,Made,1,40,54,94,v,Wall 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,0
+186,207,PT03M18.00S,2,1610612753,ORL,101112,Frye,C. Frye,187,-6,19,Made,1,42,54,96,h,Frye 19' Jump Shot (11 PTS),Made Shot,Jump Shot,1,0
+187,208,PT03M03.00S,2,1610612764,WAS,202322,Wall,J. Wall,104,146,18,Missed,1,0,0,0,v,MISS Wall 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+188,209,PT03M02.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+189,211,PT02M56.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+190,216,PT02M44.00S,2,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley P.FOUL (P2.PN) (J.Williams),Foul,Personal,1,0
+191,217,PT02M44.00S,2,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,h,MISS Frye Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+192,218,PT02M44.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+193,219,PT02M44.00S,2,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,43,54,97,h,Frye Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+194,221,PT02M29.00S,2,1610612764,WAS,202390,Neal,G. Neal,56,21,6,Missed,1,0,0,0,v,MISS Neal 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+195,222,PT02M29.00S,2,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,h,Frye REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+196,223,PT02M14.00S,2,1610612753,ORL,202699,Harris,T. Harris,4,-6,1,Missed,1,0,0,0,h,MISS Harris 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+197,225,PT02M14.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+198,224,PT02M14.00S,2,1610612753,ORL,202699,Harris,T. Harris,-1,7,1,Made,1,45,54,99,h,Harris 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,0
+199,226,PT01M56.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Backcourt Turnover (P4.T9),Turnover,Backcourt Turnover,1,0
+200,227,PT01M56.00S,2,1610612764,WAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,v,SUB: Porter Jr. FOR Neal,Substitution,,0,0
+201,229,PT01M40.00S,2,1610612753,ORL,203095,Fournier,E. Fournier,1,11,1,Made,1,47,54,101,h,Fournier 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,0
+202,230,PT01M29.00S,2,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,h,Frye P.FOUL (P1.T2) (J.Williams),Foul,Personal,1,0
+203,231,PT01M22.00S,2,1610612764,WAS,202322,Wall,J. Wall,207,131,24,Missed,1,0,0,0,v,MISS Wall 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+204,232,PT01M21.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+205,233,PT01M02.00S,2,1610612753,ORL,202699,Harris,T. Harris,-194,-6,19,Made,1,49,54,103,h,Harris 19' Jump Shot (4 PTS) (Fournier 2 AST),Made Shot,Jump Shot,1,0
+206,234,PT00M39.10S,2,1610612764,WAS,202322,Wall,J. Wall,2,7,1,Made,1,49,56,105,v,Wall 1' Driving Layup (11 PTS) (Dudley 2 AST),Made Shot,Driving Layup Shot,1,0
+207,235,PT00M39.10S,2,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,1,0
+208,237,PT00M39.10S,2,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,SUB: Oubre Jr. FOR Dudley,Substitution,,0,0
+209,239,PT00M39.10S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,49,57,106,v,Wall Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0
+210,241,PT00M24.30S,2,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic Offensive Goaltending Turnover (P1.T8),Turnover,Offensive Goaltending,1,0
+211,242,PT00M24.30S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+212,245,PT00M24.30S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,SUB: Neal FOR Oubre Jr.,Substitution,,0,0
+213,247,PT00M02.90S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,233,11,0,Missed,1,0,0,0,v,MISS Porter Jr.  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+214,248,PT00M01.90S,2,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+215,249,PT00M00.00S,2,1610612764,WAS,202390,Neal,G. Neal,12,252,25,Made,1,49,60,109,v,Neal 25' 3PT Jump Shot (7 PTS) (Gortat 1 AST),Made Shot,Jump Shot,1,0
+216,251,PT00M00.00S,2,0,,249,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+217,252,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,60,109,,End of 2nd Period (8:05 PM EST),period,end,0,0
+218,255,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,60,109,,Start of 3rd Period (8:20 PM EST),period,start,0,0
+219,256,PT11M48.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,-9,174,17,Missed,1,0,0,0,h,MISS Oladipo 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+220,258,PT11M47.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+221,257,PT11M47.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,6,-1,1,Missed,1,0,0,0,h,MISS Vucevic 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+222,259,PT11M45.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+223,260,PT11M29.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,15,139,14,Made,1,49,62,111,v,Gortat 14' Jump Shot (10 PTS) (Wall 6 AST),Made Shot,Jump Shot,1,0
+224,261,PT11M08.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0
+225,262,PT11M08.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,50,62,112,h,Harris Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+226,264,PT11M08.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,51,62,113,h,Harris Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+227,266,PT10M54.00S,3,1610612764,WAS,202066,Temple,G. Temple,2,11,1,Made,1,51,64,115,v,Temple 1' Reverse Layup (9 PTS) (Wall 7 AST),Made Shot,Reverse Layup Shot,1,0
+228,267,PT10M37.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,120,178,21,Made,1,53,64,117,h,Vucevic 21' Jump Shot (6 PTS) (Oladipo 1 AST),Made Shot,Jump Shot,1,0
+229,268,PT10M18.00S,3,1610612764,WAS,201162,Dudley,J. Dudley,127,141,19,Missed,1,0,0,0,v,MISS Dudley 19' Jump Shot,Missed Shot,Jump Shot,1,0
+230,269,PT10M17.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+231,273,PT10M03.00S,3,1610612753,ORL,101112,Frye,C. Frye,43,183,19,Missed,1,0,0,0,h,MISS Frye 19' Jump Shot,Missed Shot,Jump Shot,1,0
+232,274,PT10M02.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+233,275,PT09M43.00S,3,1610612764,WAS,202322,Wall,J. Wall,181,183,26,Missed,1,0,0,0,v,MISS Wall 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+234,276,PT09M43.00S,3,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,h,Fournier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+235,277,PT09M22.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,61,208,22,Made,1,55,64,119,h,Vucevic 22' Jump Shot (8 PTS) (Fournier 3 AST),Made Shot,Jump Shot,1,0
+236,278,PT09M09.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,1,0,Made,1,55,66,121,v,Temple  Cutting Dunk Shot (11 PTS) (Dudley 3 AST),Made Shot,Cutting Dunk Shot,1,0
+237,279,PT08M54.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0
+238,279,PT08M54.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall STEAL (4 STL),,,1,0
+239,280,PT08M49.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,1,0,Made,1,55,68,123,v,Wall  Running Dunk (14 PTS) (Porter Jr. 1 AST),Made Shot,Running Dunk Shot,1,0
+240,281,PT08M49.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+241,284,PT08M38.00S,3,1610612753,ORL,203095,Fournier,E. Fournier,28,183,19,Missed,1,0,0,0,h,MISS Fournier 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+242,285,PT08M37.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+243,286,PT08M35.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,15,-11,2,Made,1,57,68,125,h,Vucevic 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,0
+244,287,PT08M15.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-2,28,3,Missed,1,0,0,0,v,MISS Porter Jr. 3' Layup,Missed Shot,Layup Shot,1,0
+245,288,PT08M14.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+246,289,PT08M10.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0
+247,290,PT08M03.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,89,165,19,Missed,1,0,0,0,h,MISS Vucevic 19' Jump Shot,Missed Shot,Jump Shot,1,0
+248,291,PT08M01.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+249,292,PT07M48.00S,3,1610612764,WAS,201162,Dudley,J. Dudley,240,-11,24,Made,1,57,71,128,v,Dudley 24' 3PT Jump Shot (13 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,1,0
+250,294,PT07M23.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo Traveling Turnover (P5.T10),Turnover,Traveling,1,0
+251,295,PT07M23.00S,3,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,h,SUB: Hezonja FOR Fournier,Substitution,,0,0
+252,296,PT07M11.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic FLAGRANT.FOUL.TYPE1 (P2.T1) (M.Smith),Foul,Flagrant Type 1,1,0
+253,297,PT07M11.00S,3,0,,296,Fox,R. Fox,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+254,298,PT07M11.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,MISS Gortat Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,0,0
+255,299,PT07M11.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+256,300,PT07M11.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,MISS Gortat Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0
+257,301,PT07M11.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+258,303,PT06M57.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo P.FOUL (P2.T2) (J.Williams),Foul,Personal,1,0
+259,304,PT06M54.00S,3,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja P.FOUL (P1.T3) (J.Williams),Foul,Personal,1,0
+260,305,PT06M54.00S,3,1610612753,ORL,101112,Frye,C. Frye,0,0,0,,0,0,0,0,h,SUB: Gordon FOR Frye,Substitution,,0,0
+261,307,PT06M41.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Backcourt Turnover (P5.T10),Turnover,Backcourt Turnover,1,0
+262,308,PT06M30.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,65,7,Missed,1,0,0,0,h,MISS Vucevic 7' Hook Shot,Missed Shot,Hook Shot,1,0
+263,309,PT06M29.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+264,310,PT06M10.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-237,31,24,Made,1,57,74,131,v,Porter Jr. 24' 3PT Jump Shot (12 PTS) (Wall 8 AST),Made Shot,Jump Shot,1,0
+265,311,PT05M59.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple P.FOUL (P2.T3) (M.Smith),Foul,Personal,1,0
+266,312,PT05M43.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,110,169,20,Made,1,59,74,133,h,Vucevic 20' Jump Shot (12 PTS) (Oladipo 2 AST),Made Shot,Jump Shot,1,0
+267,313,PT05M39.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Bad Pass Turnover (P6.T11),Turnover,Bad Pass,0,0
+268,313,PT05M39.00S,3,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja STEAL (1 STL),,,0,0
+269,314,PT05M17.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-155,95,18,Made,1,61,74,135,h,Vucevic 18' Jump Shot (14 PTS) (Hezonja 3 AST),Made Shot,Jump Shot,1,0
+270,315,PT04M57.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,-7,13,1,Made,1,61,76,137,v,Gortat 1' Layup (12 PTS) (Dudley 4 AST),Made Shot,Layup Shot,1,0
+271,316,PT04M47.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo Out of Bounds Lost Ball Turnover (P6.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0
+272,317,PT04M29.00S,3,1610612764,WAS,202066,Temple,G. Temple,9,259,26,Missed,1,0,0,0,v,MISS Temple 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+273,318,PT04M29.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+274,319,PT04M23.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall P.FOUL (P2.T4) (M.Kogut),Foul,Personal,1,0
+275,320,PT04M10.00S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,-89,228,24,Made,1,64,76,140,h,Oladipo 24' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,1,0
+276,321,PT03M53.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,-165,-10,17,Missed,1,0,0,0,v,MISS Gortat 17' Jump Shot,Missed Shot,Jump Shot,1,0
+277,322,PT03M52.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+278,323,PT03M40.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. P.FOUL (P2.PN) (M.Kogut),Foul,Personal,1,0
+279,324,PT03M40.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+280,325,PT03M40.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+281,326,PT03M40.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,65,76,141,h,Harris Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+282,328,PT03M28.00S,3,1610612764,WAS,202322,Wall,J. Wall,176,2,18,Missed,1,0,0,0,v,MISS Wall 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+283,329,PT03M27.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+284,330,PT03M19.00S,3,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley P.FOUL (P3.PN) (M.Smith),Foul,Personal,1,0
+285,331,PT03M19.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,MISS Gordon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+286,332,PT03M19.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+287,333,PT03M19.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,66,76,142,h,Gordon Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+288,335,PT03M01.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,117,139,18,Made,1,66,78,144,v,Porter Jr. 18' Turnaround Jump Shot (14 PTS) (Wall 9 AST),Made Shot,Turnaround Jump Shot,1,0
+289,336,PT02M46.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-79,61,10,Missed,1,0,0,0,h,MISS Vucevic 10' Hook Shot,Missed Shot,Hook Shot,1,0
+290,337,PT02M46.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+291,338,PT02M41.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,12,16,2,Made,1,66,80,146,v,Porter Jr. 2' Running Layup (16 PTS) (Temple 4 AST),Made Shot,Running Layup Shot,1,0
+292,339,PT02M18.00S,3,1610612753,ORL,202699,Harris,T. Harris,-233,-11,0,Missed,1,0,0,0,h,MISS Harris  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+293,340,PT02M18.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+294,342,PT02M13.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple OFF.Foul (P3) (J.Williams),Foul,Offensive,1,0
+295,343,PT02M13.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple Foul Turnover (P2.T12),Turnover,Foul,1,0
+296,344,PT02M13.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+297,346,PT02M13.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,SUB: Oubre Jr. FOR Temple,Substitution,,0,0
+298,347,PT02M13.00S,3,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,SUB: Sessions FOR Dudley,Substitution,,0,0
+299,348,PT02M13.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,SUB: Neal FOR Wall,Substitution,,0,0
+300,351,PT02M03.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat P.FOUL (P2.PN) (M.Kogut),Foul,Personal,1,0
+301,352,PT02M03.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,67,80,147,h,Vucevic Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+302,355,PT02M03.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,68,80,148,h,Vucevic Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+303,358,PT01M50.00S,3,1610612764,WAS,202390,Neal,G. Neal,-163,-1,16,Missed,1,0,0,0,v,MISS Neal 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+304,359,PT01M49.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+305,360,PT01M30.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0
+306,360,PT01M30.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. STEAL (3 STL),,,1,0
+307,361,PT01M15.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,130,51,14,Missed,1,0,0,0,v,MISS Gortat 14' Jump Shot,Missed Shot,Jump Shot,1,0
+308,362,PT01M15.00S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+309,363,PT01M02.00S,3,1610612753,ORL,202699,Harris,T. Harris,9,-10,1,Missed,1,0,0,0,h,MISS Harris 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+310,364,PT01M02.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+311,365,PT01M02.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,SUB: Fournier FOR Harris,Substitution,,0,0
+312,366,PT00M50.20S,3,1610612764,WAS,202390,Neal,G. Neal,169,188,25,Made,1,68,83,151,v,Neal 25' 3PT Jump Shot (10 PTS) (Sessions 3 AST),Made Shot,Jump Shot,1,0
+313,367,PT00M31.90S,3,1610612753,ORL,203506,Oladipo,V. Oladipo,28,247,25,Missed,1,0,0,0,h,MISS Oladipo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+314,368,PT00M31.50S,3,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+315,369,PT00M27.90S,3,1610612753,ORL,203095,Fournier,E. Fournier,-197,169,26,Missed,1,0,0,0,h,MISS Fournier 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+316,370,PT00M25.90S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+317,371,PT00M05.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,-27,72,8,Made,1,70,83,153,h,Vucevic 8' Jump Shot (18 PTS) (Fournier 4 AST),Made Shot,Jump Shot,1,0
+318,372,PT00M05.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. S.FOUL (P3.PN) (M.Kogut),Foul,Shooting,1,0
+319,373,PT00M05.00S,3,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,SUB: Wall FOR Oubre Jr.,Substitution,,0,0
+320,374,PT00M05.00S,3,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,MISS Vucevic Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+321,376,PT00M04.80S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+322,377,PT00M00.00S,3,1610612764,WAS,202322,Wall,J. Wall,-147,144,21,Made,1,70,85,155,v,Wall 21' Running Jump Shot (16 PTS),Made Shot,Running Jump Shot,1,0
+323,379,PT00M00.00S,3,0,,377,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+324,380,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,85,155,,End of 3rd Period (8:49 PM EST),period,end,0,0
+325,382,PT12M00.00S,4,0,,0,,,0,0,0,,0,70,85,155,,Start of 4th Period (8:51 PM EST),period,start,0,0
+326,383,PT11M40.00S,4,1610612764,WAS,202390,Neal,G. Neal,87,56,10,Missed,1,0,0,0,v,MISS Neal 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+327,384,PT11M40.00S,4,1610612753,ORL,201160,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+328,385,PT11M28.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,Oubre Jr. P.FOUL (P3.T1) (M.Kogut),Foul,Personal,1,0
+329,386,PT11M28.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,SUB: Gooden FOR Gortat,Substitution,,0,0
+330,387,PT11M20.00S,4,1610612753,ORL,201160,Smith,J. Smith,-151,110,19,Made,1,72,85,157,h,Smith 19' Jump Shot (6 PTS) (Napier 1 AST),Made Shot,Jump Shot,1,0
+331,388,PT10M57.00S,4,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,Gooden Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0
+332,388,PT10M57.00S,4,1610612753,ORL,201160,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith STEAL (2 STL),,,1,0
+333,389,PT10M52.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,-11,11,2,Made,1,74,85,159,h,Fournier 2' Running Layup (9 PTS) (Gordon 1 AST),Made Shot,Running Layup Shot,1,0
+334,390,PT10M36.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,56,100,11,Made,1,74,87,161,v,Sessions 11' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,0
+335,391,PT10M36.00S,4,1610612753,ORL,203894,Napier,S. Napier,0,0,0,,0,0,0,0,h,Napier S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0
+336,392,PT10M36.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,74,88,162,v,Sessions Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+337,394,PT10M11.00S,4,1610612753,ORL,201160,Smith,J. Smith,-119,139,18,Missed,1,0,0,0,h,MISS Smith 18' Jump Shot,Missed Shot,Jump Shot,1,0
+338,395,PT10M10.00S,4,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+339,396,PT09M57.00S,4,1610612753,ORL,203932,Gordon,A. Gordon,0,1,0,Made,1,76,88,164,h,Gordon  Reverse Dunk (10 PTS),Made Shot,Reverse Dunk Shot,1,0
+340,397,PT09M42.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,120,56,13,Missed,1,0,0,0,v,MISS Sessions 13' Jump Shot,Missed Shot,Jump Shot,1,0
+341,398,PT09M41.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0
+342,399,PT09M31.00S,4,1610612764,WAS,202390,Neal,G. Neal,61,21,6,Made,1,76,90,166,v,Neal 6' Driving Hook Shot (12 PTS) (Sessions 4 AST),Made Shot,Driving Hook Shot,1,0
+343,400,PT09M12.00S,4,1610612753,ORL,201160,Smith,J. Smith,24,198,20,Made,1,78,90,168,h,Smith 20' Jump Shot (8 PTS) (Napier 2 AST),Made Shot,Jump Shot,1,0
+344,401,PT08M52.00S,4,1610612764,WAS,202390,Neal,G. Neal,-88,16,9,Made,1,78,92,170,v,Neal 9' Floating Jump Shot (14 PTS),Made Shot,Floating Jump shot,1,0
+345,402,PT08M41.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,Sessions P.FOUL (P1.T2) (M.Kogut),Foul,Personal,1,0
+346,403,PT08M41.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+347,405,PT08M41.00S,4,1610612753,ORL,203894,Napier,S. Napier,0,0,0,,0,0,0,0,h,SUB: Oladipo FOR Napier,Substitution,,0,0
+348,407,PT08M32.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,-12,11,2,Made,1,80,92,172,h,Fournier 2' Cutting Layup Shot (11 PTS) (Oladipo 3 AST),Made Shot,Cutting Layup Shot,1,0
+349,408,PT08M09.00S,4,1610612764,WAS,202390,Neal,G. Neal,-143,131,19,Made,1,80,94,174,v,Neal 19' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,0
+350,409,PT07M54.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+351,410,PT07M44.00S,4,1610612764,WAS,201162,Dudley,J. Dudley,123,213,25,Missed,1,0,0,0,v,MISS Dudley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+352,411,PT07M43.00S,4,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,Oladipo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+353,412,PT07M27.00S,4,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley S.FOUL (P4.T3) (J.Williams),Foul,Shooting,1,0
+354,413,PT07M27.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,MISS Hezonja Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+355,415,PT07M27.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+356,414,PT07M27.00S,4,1610612753,ORL,201160,Smith,J. Smith,0,0,0,,0,0,0,0,h,SUB: Vucevic FOR Smith,Substitution,,0,0
+357,416,PT07M27.00S,4,1610612764,WAS,201196,Sessions,R. Sessions,0,0,0,,0,0,0,0,v,SUB: Wall FOR Sessions,Substitution,,0,0
+358,417,PT07M27.00S,4,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0,0,0,v,SUB: Gortat FOR Gooden,Substitution,,0,0
+359,418,PT07M27.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,81,94,175,h,Hezonja Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+360,421,PT07M02.00S,4,1610612764,WAS,202390,Neal,G. Neal,171,100,20,Missed,1,0,0,0,v,MISS Neal 20' Jump Shot,Missed Shot,Jump Shot,1,0
+361,422,PT07M01.00S,4,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+362,424,PT06M50.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,v,SUB: Porter Jr. FOR Oubre Jr.,Substitution,,0,0
+363,425,PT06M50.00S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,SUB: Harris FOR Hezonja,Substitution,,0,0
+364,426,PT06M39.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,-110,80,14,Missed,1,0,0,0,h,MISS Vucevic 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+365,427,PT06M38.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+366,428,PT06M28.00S,4,1610612764,WAS,202322,Wall,J. Wall,-63,193,20,Missed,1,0,0,0,v,MISS Wall 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+367,429,PT06M28.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+368,430,PT06M22.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Bad Pass Turnover (P7.T14),Turnover,Bad Pass,1,0
+369,430,PT06M22.00S,4,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,Harris STEAL (2 STL),,,1,0
+370,431,PT06M14.00S,4,1610612753,ORL,203506,Oladipo,V. Oladipo,73,239,25,Made,1,84,94,178,h,Oladipo 25' 3PT Jump Shot (15 PTS) (Harris 1 AST),Made Shot,Jump Shot,1,0
+371,432,PT05M52.00S,4,1610612764,WAS,202390,Neal,G. Neal,-52,165,17,Missed,1,0,0,0,v,MISS Neal 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+372,433,PT05M51.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+373,434,PT05M41.00S,4,1610612753,ORL,203506,Oladipo,V. Oladipo,12,170,17,Missed,1,0,0,0,h,MISS Oladipo 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+374,435,PT05M41.00S,4,1610612764,WAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,v,Neal REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+375,436,PT05M27.00S,4,1610612764,WAS,202390,Neal,G. Neal,156,67,17,Missed,1,0,0,0,v,MISS Neal 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+376,437,PT05M26.00S,4,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+377,438,PT05M14.00S,4,1610612753,ORL,202699,Harris,T. Harris,10,8,1,Made,1,86,94,180,h,Harris 1' Layup (9 PTS) (Vucevic 5 AST),Made Shot,Layup Shot,1,0
+378,439,PT05M14.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+379,441,PT05M14.00S,4,1610612764,WAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,v,SUB: Temple FOR Neal,Substitution,,0,0
+380,444,PT05M00.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat Offensive Charge Foul (P3.T4) (J.Williams),Foul,Offensive Charge,1,0
+381,445,PT05M00.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,Gortat Foul Turnover (P1.T15),Turnover,Foul,1,0
+382,446,PT04M51.00S,4,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple P.FOUL (P4.PN) (J.Williams),Foul,Personal,1,0
+383,447,PT04M48.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic OFF.Foul (P3) (M.Kogut),Foul,Offensive,1,0
+384,448,PT04M48.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic Foul Turnover (P2.T14),Turnover,Foul,1,0
+385,449,PT04M48.00S,4,0,,447,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+386,451,PT04M48.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,v,SUB: Gooden FOR Gortat,Substitution,,0,0
+387,452,PT04M34.00S,4,1610612764,WAS,201162,Dudley,J. Dudley,-104,214,24,Made,1,86,97,183,v,Dudley 24' 3PT Jump Shot (16 PTS) (Wall 10 AST),Made Shot,Jump Shot,1,0
+388,453,PT04M09.00S,4,1610612753,ORL,202699,Harris,T. Harris,-12,43,4,Made,1,88,97,185,h,Harris 4' Turnaround Jump Shot (11 PTS) (Oladipo 4 AST),Made Shot,Turnaround Jump Shot,1,0
+389,454,PT03M50.00S,4,1610612764,WAS,202322,Wall,J. Wall,37,252,25,Made,1,88,100,188,v,Wall 25' 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,1,0
+390,455,PT03M37.00S,4,1610612753,ORL,203506,Oladipo,V. Oladipo,-137,164,21,Made,1,90,100,190,h,Oladipo 21' Jump Shot (17 PTS),Made Shot,Jump Shot,1,0
+391,456,PT03M11.00S,4,1610612764,WAS,2400,Gooden,D. Gooden,-2,195,20,Missed,1,0,0,0,v,MISS Gooden 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+392,457,PT03M10.00S,4,1610612753,ORL,203932,Gordon,A. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+393,458,PT02M57.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,-140,106,18,Missed,1,0,0,0,h,MISS Vucevic 18' Jump Shot,Missed Shot,Jump Shot,1,0
+394,459,PT02M56.00S,4,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+395,460,PT02M35.00S,4,1610612764,WAS,202322,Wall,J. Wall,-24,296,30,Made,1,90,103,193,v,Wall 30' 3PT Jump Shot (22 PTS) (Gooden 1 AST),Made Shot,Jump Shot,1,0
+396,461,PT02M35.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+397,465,PT02M11.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,h,Fournier Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0
+398,465,PT02M11.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,v,Porter Jr. STEAL (4 STL),,,1,0
+399,466,PT01M53.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-225,2,0,Missed,1,0,0,0,v,MISS Porter Jr.  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+400,467,PT01M52.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,Vucevic REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+401,468,PT01M45.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,-55,36,7,Made,1,92,103,195,h,Vucevic 7' Hook Shot (20 PTS) (Oladipo 5 AST),Made Shot,Hook Shot,1,0
+402,469,PT01M45.00S,4,1610612764,WAS,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,v,Dudley S.FOUL (P5.PN) (M.Kogut),Foul,Shooting,1,0
+403,470,PT01M45.00S,4,1610612753,ORL,203095,Fournier,E. Fournier,0,0,0,,0,0,0,0,h,SUB: Hezonja FOR Fournier,Substitution,,0,0
+404,471,PT01M45.00S,4,1610612753,ORL,203506,Oladipo,V. Oladipo,0,0,0,,0,0,0,0,h,SUB: Napier FOR Oladipo,Substitution,,0,0
+405,472,PT01M45.00S,4,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,h,SUB: Nicholson FOR Harris,Substitution,,0,0
+406,473,PT01M45.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,93,103,196,h,Vucevic Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,0
+407,477,PT01M20.00S,4,1610612764,WAS,2400,Gooden,D. Gooden,-237,-5,24,Missed,1,0,0,0,v,MISS Gooden 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+408,478,PT01M20.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,h,Nicholson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+409,479,PT01M00.00S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,-27,65,7,Made,1,95,103,198,h,Vucevic 7' Hook Shot (23 PTS),Made Shot,Hook Shot,1,0
+410,480,PT00M36.60S,4,1610612764,WAS,202322,Wall,J. Wall,78,183,20,Made,1,95,105,200,v,Wall 20' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,0
+411,481,PT00M36.60S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Short (Full 4 Short 1),Timeout,Short,0,0
+412,483,PT00M36.60S,4,1610612753,ORL,202696,Vucevic,N. Vucevic,0,0,0,,0,0,0,0,h,SUB: Dedmon FOR Vucevic,Substitution,,0,0
+413,485,PT00M32.80S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,10,11,1,Made,1,97,105,202,h,Hezonja 1' Driving Layup (5 PTS) (Dedmon 1 AST),Made Shot,Driving Layup Shot,1,0
+414,486,PT00M28.60S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Short (Reg.4 Short 2),Timeout,Short,0,0
+415,487,PT00M28.60S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Short (Reg.4 Short 3),Timeout,Short,0,0
+416,488,PT00M28.60S,4,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,SUB: Neal FOR Temple,Substitution,,0,0
+417,489,PT00M28.60S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.5 Short 3),Timeout,Regular,0,0
+418,491,PT00M23.10S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,h,Nicholson Personal Take Foul (P1.T2) (M.Smith),Foul,Personal Take,1,0
+419,493,PT00M06.90S,4,1610612764,WAS,201162,Dudley,J. Dudley,76,159,18,Missed,1,0,0,0,v,MISS Dudley 18' Jump Shot,Missed Shot,Jump Shot,1,0
+420,494,PT00M06.60S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+421,496,PT00M00.90S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Violation:Defensive Goaltending (M.Kogut),Violation,Defensive Goaltending,0,0
+422,495,PT00M00.90S,4,1610612753,ORL,1626209,Hezonja,M. Hezonja,-17,13,2,Made,1,99,105,204,h,Hezonja 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,0
+423,497,PT00M00.00S,4,0,,0,,,0,0,0,,0,99,105,204,,End of 4th Period (9:24 PM EST),period,end,0,0

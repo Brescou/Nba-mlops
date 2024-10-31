@@ -1,0 +1,456 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (4:00 AM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Jump Ball Kaman vs. Garnett: Tip to Blount,Jump Ball,,0,0
+3,2,PT11M44.00S,1,1610612750,MIN,1729,Davis,R. Davis,66,128,14,Missed,1,0,0,0,v,MISS Davis 14' Jump Shot,Missed Shot,Jump Shot,0,0
+4,3,PT11M42.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+5,4,PT11M37.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,h,MISS Mobley  Layup,Missed Shot,Layup Shot,0,0
+6,5,PT11M35.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+7,6,PT11M29.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,2,0,2,h,Kaman  Layup (2 PTS) (Mobley 1 AST),Made Shot,Layup Shot,0,0
+8,7,PT11M11.00S,1,1610612750,MIN,1548,Blount,M. Blount,-136,2,14,Missed,1,0,0,0,v,MISS Blount 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+9,8,PT11M09.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+10,9,PT10M55.00S,1,1610612746,LAC,208,Cassell,S. Cassell,15,26,3,Missed,1,0,0,0,h,MISS Cassell 3' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+11,10,PT10M55.00S,1,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0
+12,11,PT10M36.00S,1,1610612750,MIN,2239,Hassell,T. Hassell,-141,12,14,Missed,1,0,0,0,v,MISS Hassell 14' Jump Shot,Missed Shot,Jump Shot,0,0
+13,12,PT10M34.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+14,13,PT10M24.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,5,58,6,Missed,1,0,0,0,h,MISS Kaman 6' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+15,14,PT10M22.00S,1,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+16,15,PT10M10.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,Made,1,2,2,4,v,Blount  Slam Dunk (2 PTS) (Davis 1 AST),Made Shot,Slam Dunk Shot,0,0
+17,16,PT09M48.00S,1,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,Hassell S.FOUL (P1.T1),Foul,Shooting,0,0
+18,17,PT09M48.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,3,2,5,h,Kaman Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+19,18,PT09M48.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,4,2,6,h,Kaman Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+20,19,PT09M34.00S,1,1610612750,MIN,708,Garnett,K. Garnett,98,100,14,Missed,1,0,0,0,v,MISS Garnett 14' Jump Shot,Missed Shot,Jump Shot,0,0
+21,20,PT09M32.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+22,21,PT09M16.00S,1,1610612746,LAC,2624,Ross,Q. Ross,85,169,19,Missed,1,0,0,0,h,MISS Ross 19' Jump Shot,Missed Shot,Jump Shot,0,0
+23,22,PT09M14.00S,1,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+24,23,PT09M07.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman S.FOUL (P1.T1),Foul,Shooting,0,0
+25,24,PT09M07.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,4,3,7,v,Blount Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+26,25,PT09M07.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,4,4,8,v,Blount Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+27,26,PT08M53.00S,1,1610612746,LAC,1882,Brand,E. Brand,-92,97,13,Made,1,6,4,10,h,Brand 13' Turnaround Jump Shot (2 PTS) (Ross 1 AST),Made Shot,Turnaround Jump Shot,0,0
+28,27,PT08M38.00S,1,1610612750,MIN,708,Garnett,K. Garnett,34,109,11,Made,1,6,6,12,v,Garnett 11' Turnaround Jump Shot (2 PTS) (Hassell 1 AST),Made Shot,Turnaround Jump Shot,0,0
+29,28,PT08M27.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+30,28,PT08M27.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount STEAL (1 STL),,,0,0
+31,29,PT08M20.00S,1,1610612750,MIN,2556,Banks,M. Banks,49,125,13,Missed,1,0,0,0,v,MISS Banks 13' Jump Shot,Missed Shot,Jump Shot,0,0
+32,30,PT08M18.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+33,31,PT07M56.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,h,MISS Mobley  Layup,Missed Shot,Layup Shot,0,0
+34,31,PT07M56.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount BLOCK (1 BLK),,,0,0
+35,32,PT07M54.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+36,33,PT07M54.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0
+37,34,PT07M38.00S,1,1610612750,MIN,1729,Davis,R. Davis,0,0,0,Made,1,6,8,14,v,Davis  Driving Layup (2 PTS) (Banks 1 AST),Made Shot,Driving Layup Shot,0,0
+38,35,PT07M19.00S,1,1610612746,LAC,1882,Brand,E. Brand,67,109,13,Missed,1,0,0,0,h,MISS Brand 13' Jump Shot,Missed Shot,Jump Shot,0,0
+39,36,PT07M19.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+40,37,PT07M19.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount L.B.FOUL (P1.T2),Foul,Loose Ball,0,0
+41,38,PT07M14.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+42,38,PT07M14.00S,1,1610612750,MIN,2556,Banks,M. Banks,0,0,0,,0,0,0,0,v,Banks STEAL (1 STL),,,0,0
+43,39,PT07M08.00S,1,1610612750,MIN,1729,Davis,R. Davis,133,91,16,Made,1,6,10,16,v,Davis 16' Jump Shot (4 PTS) (Banks 2 AST),Made Shot,Jump Shot,0,0
+44,40,PT06M53.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,h,MISS Mobley  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+45,41,PT06M52.00S,1,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+46,42,PT06M48.00S,1,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+47,42,PT06M48.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman STEAL (1 STL),,,0,0
+48,43,PT06M36.00S,1,1610612746,LAC,2624,Ross,Q. Ross,-148,141,20,Made,1,8,10,18,h,Ross 20' Jump Shot (2 PTS) (Mobley 2 AST),Made Shot,Jump Shot,0,0
+49,44,PT06M13.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,Made,1,8,12,20,v,Blount  Layup (6 PTS) (Davis 2 AST),Made Shot,Layup Shot,0,0
+50,45,PT06M07.00S,1,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,Hassell S.FOUL (P2.T3),Foul,Shooting,0,0
+51,46,PT06M07.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,9,12,21,h,Cassell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+52,47,PT06M07.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,10,12,22,h,Cassell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+53,48,PT05M54.00S,1,1610612750,MIN,708,Garnett,K. Garnett,64,199,21,Missed,1,0,0,0,v,MISS Garnett 21' Jump Shot,Missed Shot,Jump Shot,0,0
+54,49,PT05M52.00S,1,1610612750,MIN,2556,Banks,M. Banks,0,0,0,,0,0,0,0,v,Banks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+55,50,PT05M50.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,Made,1,10,14,24,v,Blount  Slam Dunk (8 PTS) (Banks 3 AST),Made Shot,Slam Dunk Shot,0,0
+56,51,PT05M36.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Missed,1,0,0,0,h,MISS Ross  Layup,Missed Shot,Layup Shot,0,0
+57,52,PT05M35.00S,1,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+58,53,PT05M29.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell S.FOUL (P1.T2),Foul,Shooting,0,0
+59,54,PT05M29.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+60,56,PT05M29.00S,1,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,10,15,25,v,Hassell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+61,57,PT05M29.00S,1,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,MISS Hassell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+62,58,PT05M27.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+63,59,PT05M11.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,12,15,27,h,Kaman  Layup (6 PTS) (Ross 2 AST),Made Shot,Layup Shot,0,0
+64,60,PT05M02.00S,1,1610612750,MIN,1729,Davis,R. Davis,-25,28,4,Made,1,12,17,29,v,Davis 4' Driving Layup (6 PTS) (Banks 4 AST),Made Shot,Driving Layup Shot,0,0
+65,61,PT04M48.00S,1,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett P.FOUL (P1.T4),Foul,Personal,0,0
+66,62,PT04M48.00S,1,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,SUB: Jaric FOR Hassell,Substitution,,0,0
+67,63,PT04M38.00S,1,1610612746,LAC,1882,Brand,E. Brand,-141,22,14,Made,1,14,17,31,h,Brand 14' Jump Shot (4 PTS) (Ross 3 AST),Made Shot,Jump Shot,0,0
+68,64,PT04M26.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand P.FOUL (P1.T3),Foul,Personal,0,0
+69,65,PT04M13.00S,1,1610612750,MIN,1548,Blount,M. Blount,-82,89,12,Missed,1,0,0,0,v,MISS Blount 12' Jump Shot,Missed Shot,Jump Shot,0,0
+70,66,PT04M12.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+71,67,PT03M59.00S,1,1610612746,LAC,208,Cassell,S. Cassell,66,160,17,Made,1,16,17,33,h,Cassell 17' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,0,0
+72,68,PT03M42.00S,1,1610612750,MIN,1729,Davis,R. Davis,51,161,17,Made,1,16,19,35,v,Davis 17' Turnaround Jump Shot (8 PTS) (Banks 5 AST),Made Shot,Turnaround Jump Shot,0,0
+73,69,PT03M34.00S,1,1610612746,LAC,208,Cassell,S. Cassell,-186,-6,19,Missed,1,0,0,0,h,MISS Cassell 19' Jump Shot,Missed Shot,Jump Shot,0,0
+74,70,PT03M32.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+75,71,PT03M24.00S,1,1610612750,MIN,2556,Banks,M. Banks,89,233,25,Missed,1,0,0,0,v,MISS Banks 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+76,72,PT03M22.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+77,73,PT03M13.00S,1,1610612750,MIN,2556,Banks,M. Banks,0,0,0,,0,0,0,0,v,SUB: McCants FOR Banks,Substitution,,0,0
+78,74,PT03M12.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Maggette FOR Ross,Substitution,,0,0
+79,75,PT03M00.00S,1,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,McCants S.FOUL (P1.PN),Foul,Shooting,0,0
+80,77,PT03M00.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,17,19,36,h,Kaman Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+81,78,PT03M00.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,18,19,37,h,Kaman Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+82,79,PT02M43.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,Made,1,18,21,39,v,Blount  Driving Dunk (10 PTS) (Davis 3 AST),Made Shot,Driving Dunk Shot,0,0
+83,80,PT02M28.00S,1,1610612746,LAC,1882,Brand,E. Brand,-108,114,16,Made,1,20,21,41,h,Brand 16' Turnaround Jump Shot (6 PTS) (Mobley 3 AST),Made Shot,Turnaround Jump Shot,0,0
+84,81,PT02M17.00S,1,1610612750,MIN,708,Garnett,K. Garnett,56,112,13,Made,1,20,23,43,v,Garnett 13' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,0,0
+85,82,PT01M58.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+86,82,PT01M58.00S,1,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric STEAL (1 STL),,,0,0
+87,83,PT01M53.00S,1,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0
+88,84,PT01M53.00S,1,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+89,86,PT01M35.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,-228,20,0,Missed,1,0,0,0,h,MISS Mobley  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+90,87,PT01M35.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+91,88,PT01M35.00S,1,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis L.B.FOUL (P1.PN),Foul,Loose Ball,0,0
+92,89,PT01M35.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,21,23,44,h,Kaman Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+93,90,PT01M35.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,22,23,45,h,Kaman Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+94,91,PT01M20.00S,1,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+95,91,PT01M20.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman STEAL (2 STL),,,0,0
+96,92,PT01M15.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0,0,0,h,MISS Kaman  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+97,93,PT01M15.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+98,94,PT01M07.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,141,79,16,Missed,1,0,0,0,h,MISS Maggette 16' Jump Shot,Missed Shot,Jump Shot,0,0
+99,94,PT01M07.00S,1,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,McCants BLOCK (1 BLK),,,0,0
+100,95,PT01M04.00S,1,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+101,96,PT00M57.00S,1,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount 3 Second Violation Turnover (P1.T4),Turnover,3 Second Violation,0,0
+102,97,PT00M47.10S,1,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,McCants S.FOUL (P2.PN),Foul,Shooting,0,0
+103,98,PT00M47.10S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,23,23,46,h,Maggette Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+104,99,PT00M47.10S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,24,23,47,h,Maggette Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+105,100,PT00M32.90S,1,1610612750,MIN,1729,Davis,R. Davis,230,30,0,Missed,1,0,0,0,v,MISS Davis  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+106,101,PT00M29.90S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+107,102,PT00M24.40S,1,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric Violation:Kicked Ball,Violation,Kicked Ball,0,0
+108,103,PT00M15.90S,1,1610612746,LAC,2549,Kaman,C. Kaman,-94,59,11,Missed,1,0,0,0,h,MISS Kaman 11' Jump Shot,Missed Shot,Jump Shot,0,0
+109,104,PT00M14.40S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+110,105,PT00M03.90S,1,1610612746,LAC,208,Cassell,S. Cassell,-117,89,15,Missed,1,0,0,0,h,MISS Cassell 15' Jump Shot,Missed Shot,Jump Shot,0,0
+111,106,PT00M01.90S,1,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,McCants REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+112,107,PT00M00.40S,1,1610612750,MIN,101119,McCants,R. McCants,33,562,56,Missed,1,0,0,0,v,MISS McCants 56' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+113,108,PT00M00.00S,1,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0
+114,109,PT00M00.00S,1,0,,0,,,0,0,0,,0,24,23,47,,End of 1st Period (11:16 PM EST),period,end,0,0
+115,111,PT12M00.00S,2,0,,0,,,0,0,0,,0,24,23,47,,Start of 2nd Period (11:19 PM EST),period,start,0,0
+116,112,PT11M47.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Made,1,26,23,49,h,Maggette  Driving Layup (4 PTS) (Livingston 1 AST),Made Shot,Driving Layup Shot,0,0
+117,113,PT11M33.00S,2,1610612750,MIN,101119,McCants,R. McCants,79,235,25,Made,1,26,26,52,v,McCants 25' 3PT Jump Shot (3 PTS) (Jaric 1 AST),Made Shot,Jump Shot,0,0
+118,114,PT11M16.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Made,1,28,26,54,h,Maggette  Slam Dunk (6 PTS) (Brand 1 AST),Made Shot,Slam Dunk Shot,0,0
+119,115,PT10M59.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic P.FOUL (P1.T1),Foul,Personal,0,0
+120,116,PT10M59.00S,2,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,SUB: Reed FOR Blount,Substitution,,0,0
+121,117,PT10M49.00S,2,1610612750,MIN,1729,Davis,R. Davis,0,0,0,Made,1,28,28,56,v,Davis  Layup (10 PTS),Made Shot,Layup Shot,0,0
+122,118,PT10M35.00S,2,1610612746,LAC,1882,Brand,E. Brand,87,161,18,Missed,1,0,0,0,h,MISS Brand 18' Jump Shot,Missed Shot,Jump Shot,0,0
+123,119,PT10M33.00S,2,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,McCants REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+124,120,PT10M24.00S,2,1610612750,MIN,2770,Reed,J. Reed,-13,82,8,Missed,1,0,0,0,v,MISS Reed 8' Jump Shot,Missed Shot,Jump Shot,0,0
+125,121,PT10M22.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+126,122,PT10M13.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,39,181,19,Missed,1,0,0,0,h,MISS Maggette 19' Jump Shot,Missed Shot,Jump Shot,0,0
+127,123,PT10M11.00S,2,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,McCants REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+128,124,PT10M07.00S,2,1610612750,MIN,101119,McCants,R. McCants,0,0,0,Made,1,28,30,58,v,McCants  Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,0
+129,125,PT10M07.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette S.FOUL (P1.T2),Foul,Shooting,0,0
+130,126,PT10M07.00S,2,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,28,31,59,v,McCants Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0
+131,127,PT09M52.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,-200,13,20,Missed,1,0,0,0,h,MISS Maggette 20' Jump Shot,Missed Shot,Jump Shot,0,0
+132,128,PT09M50.00S,2,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+133,129,PT09M39.00S,2,1610612750,MIN,1729,Davis,R. Davis,-112,109,16,Made,1,28,33,61,v,Davis 16' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,0,0
+134,130,PT09M17.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,-6,94,9,Made,1,30,33,63,h,Mobley 9' Fadeaway Jumper (2 PTS) (Radmanovic 1 AST),Made Shot,Fadeaway Jump Shot,0,0
+135,131,PT08M57.00S,2,1610612750,MIN,101119,McCants,R. McCants,-136,217,26,Missed,1,0,0,0,v,MISS McCants 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+136,132,PT08M55.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+137,133,PT08M50.00S,2,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,McCants P.FOUL (P3.T1),Foul,Personal,0,0
+138,134,PT08M50.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+139,135,PT08M50.00S,2,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,SUB: Hassell FOR McCants,Substitution,,0,0
+140,136,PT08M42.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,49,261,27,Missed,1,0,0,0,h,MISS Radmanovic 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+141,137,PT08M40.00S,2,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,0,0,0,v,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+142,138,PT08M29.00S,2,1610612750,MIN,1729,Davis,R. Davis,-84,112,14,Made,1,30,35,65,v,Davis 14' Jump Shot (14 PTS) (Garnett 1 AST),Made Shot,Jump Shot,0,0
+143,139,PT08M12.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,Missed,1,0,0,0,h,MISS Radmanovic  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+144,140,PT08M12.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+145,141,PT08M12.00S,2,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,0,0,0,v,Reed P.FOUL (P1.T2),Foul,Personal,0,0
+146,142,PT08M12.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,SUB: Cassell FOR Mobley,Substitution,,0,0
+147,143,PT08M12.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,SUB: Kaman FOR Brand,Substitution,,0,0
+148,144,PT08M02.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Made,1,32,35,67,h,Maggette  Driving Layup (8 PTS) (Cassell 1 AST),Made Shot,Driving Layup Shot,0,0
+149,145,PT07M39.00S,2,1610612750,MIN,2239,Hassell,T. Hassell,187,58,20,Made,1,32,37,69,v,Hassell 20' Jump Shot (3 PTS) (Davis 4 AST),Made Shot,Jump Shot,0,0
+150,146,PT07M16.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0,0,0,h,MISS Kaman  Layup,Missed Shot,Layup Shot,0,0
+151,147,PT07M15.00S,2,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+152,148,PT07M00.00S,2,1610612750,MIN,2770,Reed,J. Reed,0,0,0,Missed,1,0,0,0,v,MISS Reed  Layup,Missed Shot,Layup Shot,0,0
+153,148,PT07M00.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman BLOCK (1 BLK),,,0,0
+154,149,PT06M58.00S,2,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,0,0,0,v,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+155,150,PT06M57.00S,2,1610612750,MIN,2770,Reed,J. Reed,0,0,0,Missed,1,0,0,0,v,MISS Reed  Layup,Missed Shot,Layup Shot,0,0
+156,152,PT06M56.00S,2,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+157,151,PT06M56.00S,2,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,Made,1,32,39,71,v,Jaric  Tip Shot (2 PTS),Made Shot,Tip Shot,0,0
+158,153,PT06M47.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,-225,92,24,Missed,1,0,0,0,h,MISS Maggette 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+159,154,PT06M45.00S,2,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,Hassell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+160,155,PT06M43.00S,2,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell S.FOUL (P2.T3),Foul,Shooting,0,0
+161,156,PT06M43.00S,2,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,32,40,72,v,Reed Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+162,158,PT06M43.00S,2,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,SUB: Blount FOR Garnett,Substitution,,0,0
+163,159,PT06M43.00S,2,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,32,41,73,v,Reed Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+164,160,PT06M22.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,-113,151,19,Made,1,34,41,75,h,Maggette 19' Jump Shot (10 PTS) (Cassell 2 AST),Made Shot,Jump Shot,0,0
+165,161,PT06M03.00S,2,1610612750,MIN,2239,Hassell,T. Hassell,23,77,8,Made,1,34,43,77,v,Hassell 8' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,0,0
+166,162,PT05M49.00S,2,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric S.FOUL (P1.T3),Foul,Shooting,0,0
+167,163,PT05M49.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+168,165,PT05M49.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,35,43,78,h,Livingston Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+169,166,PT05M49.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,36,43,79,h,Livingston Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+170,167,PT05M28.00S,2,1610612750,MIN,1729,Davis,R. Davis,33,173,18,Missed,1,0,0,0,v,MISS Davis 18' Jump Shot,Missed Shot,Jump Shot,0,0
+171,167,PT05M28.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston BLOCK (1 BLK),,,0,0
+172,168,PT05M26.00S,2,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+173,169,PT05M22.00S,2,1610612750,MIN,1729,Davis,R. Davis,8,197,20,Made,1,36,45,81,v,Davis 20' Fadeaway Jumper (16 PTS),Made Shot,Fadeaway Jump Shot,0,0
+174,170,PT05M08.00S,2,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,0,0,0,v,Reed S.FOUL (P2.T4),Foul,Shooting,0,0
+175,171,PT05M08.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,37,45,82,h,Livingston Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+176,172,PT05M08.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,38,45,83,h,Livingston Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+177,173,PT04M51.00S,2,1610612750,MIN,2060,Jaric,M. Jaric,62,263,27,Missed,1,0,0,0,v,MISS Jaric 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+178,174,PT04M50.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+179,175,PT04M35.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,225,110,25,Missed,1,0,0,0,h,MISS Radmanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+180,176,PT04M33.00S,2,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,Hassell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+181,177,PT04M15.00S,2,1610612750,MIN,1548,Blount,M. Blount,-90,79,12,Made,1,38,47,85,v,Blount 12' Jump Bank Shot (12 PTS),Made Shot,Jump Bank Shot,0,0
+182,178,PT03M58.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+183,178,PT03M58.00S,2,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis STEAL (1 STL),,,0,0
+184,179,PT03M48.00S,2,1610612750,MIN,1729,Davis,R. Davis,61,247,25,Missed,1,0,0,0,v,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+185,180,PT03M46.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+186,181,PT03M29.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,40,47,87,h,Kaman  Driving Dunk (12 PTS) (Cassell 3 AST),Made Shot,Driving Dunk Shot,0,0
+187,182,PT03M21.00S,2,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+188,184,PT03M21.00S,2,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,SUB: Banks FOR Jaric,Substitution,,0,0
+189,185,PT03M21.00S,2,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,0,0,0,v,SUB: Garnett FOR Reed,Substitution,,0,0
+190,186,PT03M21.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,SUB: Mobley FOR Livingston,Substitution,,0,0
+191,187,PT03M21.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,SUB: Brand FOR Maggette,Substitution,,0,0
+192,188,PT03M02.00S,2,1610612750,MIN,2239,Hassell,T. Hassell,-191,184,27,Made,1,40,50,90,v,Hassell 27' 3PT Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,0
+193,189,PT02M36.00S,2,1610612746,LAC,1882,Brand,E. Brand,-51,115,13,Missed,1,0,0,0,h,MISS Brand 13' Jump Shot,Missed Shot,Jump Shot,0,0
+194,190,PT02M35.00S,2,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+195,191,PT02M32.00S,2,1610612750,MIN,2556,Banks,M. Banks,-74,145,16,Missed,1,0,0,0,v,MISS Banks 16' Jump Shot,Missed Shot,Jump Shot,0,0
+196,192,PT02M29.00S,2,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+197,193,PT02M17.00S,2,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+198,193,PT02M17.00S,2,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett STEAL (1 STL),,,0,0
+199,194,PT01M56.00S,2,1610612750,MIN,2556,Banks,M. Banks,-102,163,19,Missed,1,0,0,0,v,MISS Banks 19' Jump Shot,Missed Shot,Jump Shot,0,0
+200,195,PT01M55.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+201,196,PT01M45.00S,2,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount S.FOUL (P2.PN),Foul,Shooting,0,0
+202,197,PT01M45.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,41,50,91,h,Kaman Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+203,198,PT01M45.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,SUB: Ross FOR Radmanovic,Substitution,,0,0
+204,199,PT01M45.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,MISS Kaman Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+205,200,PT01M44.00S,2,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+206,201,PT01M33.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross S.FOUL (P1.T4),Foul,Shooting,0,0
+207,202,PT01M33.00S,2,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,41,51,92,v,Davis Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+208,203,PT01M33.00S,2,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,41,52,93,v,Davis Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+209,204,PT01M17.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,125,0,13,Missed,1,0,0,0,h,MISS Kaman 13' Jump Shot,Missed Shot,Jump Shot,0,0
+210,205,PT01M15.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+211,206,PT01M05.00S,2,1610612746,LAC,208,Cassell,S. Cassell,-143,224,27,Made,1,44,52,96,h,Cassell 27' 3PT Jump Shot (7 PTS) (Mobley 4 AST),Made Shot,Jump Shot,0,0
+212,207,PT00M46.40S,2,1610612750,MIN,708,Garnett,K. Garnett,-123,143,19,Made,1,44,54,98,v,Garnett 19' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+213,208,PT00M35.20S,2,1610612746,LAC,208,Cassell,S. Cassell,-100,114,15,Made,1,46,54,100,h,Cassell 15' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,0,0
+214,209,PT00M19.90S,2,1610612750,MIN,1548,Blount,M. Blount,-99,91,13,Missed,1,0,0,0,v,MISS Blount 13' Jump Shot,Missed Shot,Jump Shot,0,0
+215,210,PT00M18.50S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+216,211,PT00M14.30S,2,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,Hassell P.FOUL (P3.PN),Foul,Personal,0,0
+217,212,PT00M14.30S,2,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,47,54,101,h,Cassell Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+218,213,PT00M14.30S,2,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,48,54,102,h,Cassell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+219,214,PT00M00.30S,2,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,Missed,1,0,0,0,v,MISS Hassell  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+220,214,PT00M00.30S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman BLOCK (2 BLK),,,0,0
+221,215,PT00M00.30S,2,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0
+222,216,PT00M00.30S,2,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+223,220,PT00M00.30S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+224,221,PT00M00.30S,2,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,SUB: N'Dong FOR Cassell,Substitution,,0,0
+225,222,PT00M00.00S,2,0,,0,,,0,0,0,,0,48,54,102,,End of 2nd Period (11:49 PM EST),period,end,0,0
+226,224,PT12M00.00S,3,0,,0,,,0,0,0,,0,48,54,102,,Start of 3rd Period (12:06 PM EST),period,start,0,0
+227,225,PT11M42.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,Missed,1,0,0,0,h,MISS Cassell  Layup,Missed Shot,Layup Shot,0,0
+228,227,PT11M41.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+229,226,PT11M41.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,-10,26,3,Missed,1,0,0,0,h,MISS Kaman 3' Layup,Missed Shot,Layup Shot,0,0
+230,228,PT11M37.00S,3,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+231,229,PT11M17.00S,3,1610612750,MIN,2556,Banks,M. Banks,108,150,18,Made,1,48,56,104,v,Banks 18' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+232,230,PT10M57.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,h,MISS Mobley  Layup,Missed Shot,Layup Shot,0,0
+233,231,PT10M55.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+234,232,PT10M51.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,-204,13,20,Made,1,50,56,106,h,Mobley 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+235,233,PT10M36.00S,3,1610612750,MIN,708,Garnett,K. Garnett,57,100,12,Made,1,50,58,108,v,Garnett 12' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,0
+236,234,PT10M22.00S,3,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett P.FOUL (P2.T1),Foul,Personal,0,0
+237,235,PT10M16.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand Traveling Turnover (P1.T7),Turnover,Traveling,0,0
+238,236,PT10M01.00S,3,1610612750,MIN,708,Garnett,K. Garnett,-61,92,11,Made,1,50,60,110,v,Garnett 11' Turnaround Jump Shot (10 PTS) (Davis 5 AST),Made Shot,Turnaround Jump Shot,0,0
+239,237,PT09M48.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+240,237,PT09M48.00S,3,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis STEAL (2 STL),,,0,0
+241,238,PT09M27.00S,3,1610612750,MIN,1548,Blount,M. Blount,-145,3,15,Missed,1,0,0,0,v,MISS Blount 15' Jump Shot,Missed Shot,Jump Shot,0,0
+242,239,PT09M26.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+243,240,PT09M13.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,44,18,5,Missed,1,0,0,0,h,MISS Kaman 5' Jump Shot,Missed Shot,Jump Shot,0,0
+244,241,PT09M11.00S,3,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+245,242,PT08M47.00S,3,1610612750,MIN,708,Garnett,K. Garnett,43,258,26,Missed,1,0,0,0,v,MISS Garnett 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+246,243,PT08M46.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+247,244,PT08M36.00S,3,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis S.FOUL (P2.T2),Foul,Shooting,0,0
+248,245,PT08M36.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,MISS Kaman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+249,246,PT08M36.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+250,247,PT08M36.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,51,60,111,h,Kaman Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+251,248,PT08M24.00S,3,1610612750,MIN,1548,Blount,M. Blount,54,-1,5,Missed,1,0,0,0,v,MISS Blount 5' Jump Shot,Missed Shot,Jump Shot,0,0
+252,248,PT08M24.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman BLOCK (3 BLK),,,0,0
+253,249,PT08M22.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:1 Def:9),Rebound,Unknown,0,0
+254,250,PT08M18.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,h,MISS Mobley  Layup,Missed Shot,Layup Shot,0,0
+255,251,PT08M17.00S,3,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:9),Rebound,Unknown,0,0
+256,252,PT08M10.00S,3,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,Hassell Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+257,252,PT08M10.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman STEAL (3 STL),,,0,0
+258,253,PT08M02.00S,3,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount P.FOUL (P3.T3),Foul,Personal,0,0
+259,254,PT07M50.00S,3,1610612746,LAC,1882,Brand,E. Brand,54,38,7,Made,1,53,60,113,h,Brand 7' Running Jump Shot (8 PTS),Made Shot,Running Jump Shot,0,0
+260,255,PT07M25.00S,3,1610612750,MIN,2239,Hassell,T. Hassell,-94,0,9,Missed,1,0,0,0,v,MISS Hassell 9' Jump Shot,Missed Shot,Jump Shot,0,0
+261,256,PT07M24.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+262,258,PT07M20.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0
+263,258,PT07M20.00S,3,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis STEAL (3 STL),,,0,0
+264,259,PT07M18.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell P.FOUL (P3.T1),Foul,Personal,0,0
+265,260,PT07M09.00S,3,1610612750,MIN,2556,Banks,M. Banks,123,141,19,Missed,1,0,0,0,v,MISS Banks 19' Jump Shot,Missed Shot,Jump Shot,0,0
+266,261,PT07M07.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:1 Def:10),Rebound,Unknown,0,0
+267,262,PT06M54.00S,3,1610612750,MIN,2556,Banks,M. Banks,0,0,0,,0,0,0,0,v,Banks S.FOUL (P1.T4),Foul,Shooting,0,0
+268,263,PT06M54.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,54,60,114,h,Mobley Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+269,265,PT06M54.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+270,266,PT06M53.00S,3,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:10),Rebound,Unknown,0,0
+271,267,PT06M34.00S,3,1610612750,MIN,1548,Blount,M. Blount,-125,18,13,Missed,1,0,0,0,v,MISS Blount 13' Jump Shot,Missed Shot,Jump Shot,0,0
+272,268,PT06M32.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:1 Def:11),Rebound,Unknown,0,0
+273,269,PT06M27.00S,3,1610612746,LAC,208,Cassell,S. Cassell,-107,41,11,Made,1,56,60,116,h,Cassell 11' Running Jump Shot (13 PTS),Made Shot,Running Jump Shot,0,0
+274,270,PT06M20.00S,3,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+275,274,PT06M04.00S,3,1610612750,MIN,1548,Blount,M. Blount,0,0,0,Made,1,56,62,118,v,Blount  Layup (14 PTS),Made Shot,Layup Shot,0,0
+276,275,PT05M40.00S,3,1610612746,LAC,1882,Brand,E. Brand,-143,117,18,Missed,1,0,0,0,h,MISS Brand 18' Jump Shot,Missed Shot,Jump Shot,0,0
+277,276,PT05M39.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:11),Rebound,Unknown,0,0
+278,277,PT05M37.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,28,3,Made,1,58,62,120,h,Kaman 3' Jump Hook Shot (16 PTS),Made Shot,Jump Hook Shot,0,0
+279,278,PT05M17.00S,3,1610612750,MIN,2239,Hassell,T. Hassell,46,84,10,Missed,1,0,0,0,v,MISS Hassell 10' Jump Shot,Missed Shot,Jump Shot,0,0
+280,278,PT05M17.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley BLOCK (1 BLK),,,0,0
+281,279,PT05M15.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+282,280,PT05M10.00S,3,1610612746,LAC,208,Cassell,S. Cassell,-13,168,17,Missed,1,0,0,0,h,MISS Cassell 17' Jump Shot,Missed Shot,Jump Shot,0,0
+283,281,PT05M08.00S,3,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0
+284,282,PT04M52.00S,3,1610612750,MIN,1729,Davis,R. Davis,28,151,15,Made,1,58,64,122,v,Davis 15' Jump Shot (20 PTS),Made Shot,Jump Shot,0,0
+285,283,PT04M26.00S,3,1610612746,LAC,2624,Ross,Q. Ross,146,33,15,Missed,1,0,0,0,h,MISS Ross 15' Jump Shot,Missed Shot,Jump Shot,0,0
+286,284,PT04M24.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:5 Def:3),Rebound,Unknown,0,0
+287,285,PT04M22.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,-168,92,19,Made,1,60,64,124,h,Mobley 19' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+288,286,PT03M53.00S,3,1610612750,MIN,2239,Hassell,T. Hassell,-128,0,13,Made,1,60,66,126,v,Hassell 13' Jump Shot (10 PTS) (Garnett 2 AST),Made Shot,Jump Shot,0,0
+289,287,PT03M36.00S,3,1610612746,LAC,1882,Brand,E. Brand,-49,43,7,Made,1,62,66,128,h,Brand 7' Jump Shot (10 PTS) (Cassell 4 AST),Made Shot,Jump Shot,0,0
+290,288,PT03M20.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross P.FOUL (P2.T2),Foul,Personal,0,0
+291,289,PT03M20.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Livingston FOR Ross,Substitution,,0,0
+292,290,PT03M20.00S,3,1610612750,MIN,2556,Banks,M. Banks,0,0,0,,0,0,0,0,v,SUB: Jaric FOR Banks,Substitution,,0,0
+293,291,PT03M20.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,SUB: Maggette FOR Cassell,Substitution,,0,0
+294,292,PT03M06.00S,3,1610612750,MIN,2239,Hassell,T. Hassell,146,104,18,Missed,1,0,0,0,v,MISS Hassell 18' Jump Shot,Missed Shot,Jump Shot,0,0
+295,293,PT03M04.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:12),Rebound,Unknown,0,0
+296,295,PT02M52.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,-16,166,17,Missed,1,0,0,0,h,MISS Kaman 17' Jump Shot,Missed Shot,Jump Shot,0,0
+297,296,PT02M49.00S,3,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:11),Rebound,Unknown,0,0
+298,297,PT02M31.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand S.FOUL (P2.T3),Foul,Shooting,0,0
+299,298,PT02M31.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+300,302,PT02M31.00S,3,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,SUB: Reed FOR Hassell,Substitution,,0,0
+301,300,PT02M31.00S,3,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,62,67,129,v,Garnett Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+302,301,PT02M31.00S,3,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,62,68,130,v,Garnett Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+303,303,PT02M14.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,236,28,24,Missed,1,0,0,0,h,MISS Mobley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+304,304,PT02M12.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:6 Def:3),Rebound,Unknown,0,0
+305,305,PT02M10.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Made,1,64,68,132,h,Mobley  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,0
+306,306,PT01M49.00S,3,1610612750,MIN,1548,Blount,M. Blount,0,0,0,Made,1,64,70,134,v,Blount  Slam Dunk (16 PTS) (Davis 6 AST),Made Shot,Slam Dunk Shot,0,0
+307,307,PT01M29.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,-177,196,26,Made,1,67,70,137,h,Mobley 26' 3PT Jump Shot (12 PTS) (Livingston 2 AST),Made Shot,Jump Shot,0,0
+308,308,PT01M09.00S,3,1610612750,MIN,2060,Jaric,M. Jaric,-215,15,22,Made,1,67,72,139,v,Jaric 22' Jump Shot (4 PTS) (Garnett 3 AST),Made Shot,Jump Shot,0,0
+309,309,PT00M51.50S,3,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,0,0,0,v,Reed S.FOUL (P3.PN),Foul,Shooting,0,0
+310,311,PT00M51.50S,3,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,SUB: McCants FOR Davis,Substitution,,0,0
+311,312,PT00M51.50S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,68,72,140,h,Maggette Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+312,313,PT00M51.50S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,69,72,141,h,Maggette Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+313,314,PT00M31.90S,3,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,McCants Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0
+314,314,PT00M31.90S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman STEAL (4 STL),,,0,0
+315,315,PT00M22.30S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley Poss Lost Ball Turnover (P2.T10),Turnover,Poss Lost Ball Turnover,0,0
+316,316,PT00M04.40S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley P.FOUL (P1.T4),Foul,Personal,0,0
+317,317,PT00M00.30S,3,1610612750,MIN,2060,Jaric,M. Jaric,-72,268,28,Missed,1,0,0,0,v,MISS Jaric 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+318,318,PT00M00.00S,3,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0
+319,319,PT00M00.00S,3,0,,0,,,0,0,0,,0,69,72,141,,End of 3rd Period (12:30 PM EST),period,end,0,0
+320,321,PT12M00.00S,4,0,,0,,,0,0,0,,0,69,72,141,,Start of 4th Period (12:34 PM EST),period,start,0,0
+321,322,PT11M41.00S,4,1610612750,MIN,2770,Reed,J. Reed,159,36,16,Missed,1,0,0,0,v,MISS Reed 16' Jump Shot,Missed Shot,Jump Shot,0,0
+322,323,PT11M39.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:13),Rebound,Unknown,0,0
+323,324,PT11M27.00S,4,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,0,0,0,v,Reed P.FOUL (P4.T1),Foul,Personal,0,0
+324,325,PT11M17.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,-82,135,16,Missed,1,0,0,0,h,MISS Mobley 16' Jump Shot,Missed Shot,Jump Shot,0,0
+325,326,PT11M15.00S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:12),Rebound,Unknown,0,0
+326,327,PT10M59.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman S.FOUL (P2.T1),Foul,Shooting,0,0
+327,328,PT10M59.00S,4,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,69,73,142,v,Blount Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+328,329,PT10M59.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,SUB: Radmanovic FOR Mobley,Substitution,,0,0
+329,330,PT10M59.00S,4,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,69,74,143,v,Blount Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+330,331,PT10M38.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Missed,1,0,0,0,h,MISS Brand  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+331,332,PT10M36.00S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:13),Rebound,Unknown,0,0
+332,333,PT10M14.00S,4,1610612750,MIN,1548,Blount,M. Blount,159,18,16,Missed,1,0,0,0,v,MISS Blount 16' Jump Shot,Missed Shot,Jump Shot,0,0
+333,334,PT10M13.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0
+334,335,PT10M13.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,0
+335,336,PT10M00.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,223,23,0,Missed,1,0,0,0,h,MISS Radmanovic  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+336,337,PT09M58.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:3 Def:13),Rebound,Unknown,0,0
+337,338,PT09M57.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,71,74,145,h,Kaman  Layup (18 PTS),Made Shot,Layup Shot,0,0
+338,339,PT09M31.00S,4,1610612750,MIN,708,Garnett,K. Garnett,113,-11,11,Missed,1,0,0,0,v,MISS Garnett 11' Jump Shot,Missed Shot,Jump Shot,0,0
+339,340,PT09M29.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+340,341,PT09M25.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Palming Turnover (P2.T11),Turnover,Palming Turnover,0,0
+341,342,PT09M06.00S,4,1610612750,MIN,708,Garnett,K. Garnett,69,199,21,Missed,1,0,0,0,v,MISS Garnett 21' Jump Shot,Missed Shot,Jump Shot,0,0
+342,343,PT09M04.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+343,344,PT08M54.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,-16,53,6,Missed,1,0,0,0,h,MISS Livingston 6' Hook Shot,Missed Shot,Hook Shot,0,0
+344,345,PT08M52.00S,4,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+345,346,PT08M47.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman S.FOUL (P3.T2),Foul,Shooting,0,0
+346,347,PT08M47.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+347,349,PT08M47.00S,4,1610612750,MIN,101119,McCants,R. McCants,0,0,0,,0,0,0,0,v,SUB: Davis FOR McCants,Substitution,,0,0
+348,350,PT08M47.00S,4,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,71,75,146,v,Reed Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+349,351,PT08M47.00S,4,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,71,76,147,v,Reed Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+350,352,PT08M31.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,Missed,1,0,0,0,h,MISS Livingston  Layup,Missed Shot,Layup Shot,0,0
+351,353,PT08M29.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+352,354,PT08M28.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,Made,1,73,76,149,h,Livingston  Layup (6 PTS),Made Shot,Layup Shot,0,0
+353,355,PT08M05.00S,4,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+354,355,PT08M05.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston STEAL (1 STL),,,0,0
+355,356,PT08M01.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,75,76,151,h,Brand  Slam Dunk (12 PTS) (Radmanovic 2 AST),Made Shot,Slam Dunk Shot,0,0
+356,357,PT07M37.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman S.FOUL (P4.T3),Foul,Shooting,0,0
+357,358,PT07M37.00S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,75,77,152,v,Garnett Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+358,359,PT07M37.00S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,MISS Garnett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+359,360,PT07M35.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:3 Def:14),Rebound,Unknown,0,0
+360,361,PT07M25.00S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett P.FOUL (P3.T2),Foul,Personal,0,0
+361,362,PT07M20.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,77,77,154,h,Kaman  Slam Dunk (20 PTS) (Livingston 3 AST),Made Shot,Slam Dunk Shot,0,0
+362,363,PT07M03.00S,4,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0
+363,363,PT07M03.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston STEAL (2 STL),,,0,0
+364,364,PT07M03.00S,4,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis Violation:Kicked Ball,Violation,Kicked Ball,0,0
+365,365,PT06M53.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,227,30,0,Made,1,80,77,157,h,Radmanovic  3PT Jump Shot (3 PTS) (Livingston 4 AST),Made Shot,Jump Shot,0,0
+366,366,PT06M35.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,-8,199,20,Missed,1,0,0,0,v,MISS Jaric 20' Jump Shot,Missed Shot,Jump Shot,0,0
+367,367,PT06M33.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0
+368,369,PT06M33.00S,4,1610612750,MIN,2770,Reed,J. Reed,0,0,0,,0,0,0,0,v,SUB: Hassell FOR Reed,Substitution,,0,0
+369,370,PT06M21.00S,4,1610612750,MIN,1729,Davis,R. Davis,223,38,0,Missed,1,0,0,0,v,MISS Davis  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+370,371,PT06M19.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:3 Def:15),Rebound,Unknown,0,0
+371,372,PT06M03.00S,4,1610612746,LAC,1882,Brand,E. Brand,-113,10,11,Missed,1,0,0,0,h,MISS Brand 11' Jump Shot,Missed Shot,Jump Shot,0,0
+372,373,PT06M01.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+373,374,PT05M56.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand P.FOUL (P3.T4),Foul,Personal,0,0
+374,376,PT05M56.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+375,380,PT05M40.00S,4,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,Hassell Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+376,380,PT05M40.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston STEAL (3 STL),,,0,0
+377,381,PT05M21.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0
+378,381,PT05M21.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric STEAL (2 STL),,,0,0
+379,382,PT05M11.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette P.FOUL (P2.PN),Foul,Personal,0,0
+380,383,PT05M11.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,80,78,158,v,Jaric Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+381,384,PT05M11.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,80,79,159,v,Jaric Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+382,385,PT04M56.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,Missed,1,0,0,0,h,MISS Livingston  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+383,386,PT04M55.00S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:14),Rebound,Unknown,0,0
+384,387,PT04M42.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,Made,1,80,81,161,v,Jaric  Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+385,388,PT04M25.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Jump Ball Livingston vs. Garnett: Tip to Radmanovic,Jump Ball,,0,0
+386,389,PT04M17.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0
+387,390,PT03M58.00S,4,1610612750,MIN,1729,Davis,R. Davis,0,0,0,Missed,1,0,0,0,v,MISS Davis  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+388,391,PT03M56.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:3 Def:16),Rebound,Unknown,0,0
+389,392,PT03M52.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+390,394,PT03M52.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,SUB: Cassell FOR Livingston,Substitution,,0,0
+391,396,PT03M47.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,29,25,4,Made,1,82,81,163,h,Maggette 4' Running Jump Shot (14 PTS) (Kaman 1 AST),Made Shot,Running Jump Shot,0,0
+392,397,PT03M47.00S,4,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount S.FOUL (P4.T3),Foul,Shooting,0,0
+393,398,PT03M47.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,83,81,164,h,Maggette Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+394,399,PT03M34.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,84,145,17,Made,1,83,83,166,v,Jaric 17' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+395,400,PT03M20.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,67,10,7,Missed,1,0,0,0,h,MISS Radmanovic 7' Jump Shot,Missed Shot,Jump Shot,0,0
+396,400,PT03M20.00S,4,1610612750,MIN,1729,Davis,R. Davis,0,0,0,,0,0,0,0,v,Davis BLOCK (1 BLK),,,0,0
+397,401,PT03M17.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+398,402,PT03M10.00S,4,1610612746,LAC,208,Cassell,S. Cassell,-110,245,27,Missed,1,0,0,0,h,MISS Cassell 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+399,403,PT03M08.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:4 Def:16),Rebound,Unknown,0,0
+400,404,PT03M08.00S,4,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount S.FOUL (P5.T4),Foul,Shooting,0,0
+401,405,PT03M08.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,SUB: Mobley FOR Maggette,Substitution,,0,0
+402,406,PT03M08.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,84,83,167,h,Kaman Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0
+403,407,PT03M08.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,85,83,168,h,Kaman Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0
+404,408,PT03M08.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+405,410,PT02M56.00S,4,1610612750,MIN,2239,Hassell,T. Hassell,-171,56,18,Made,1,85,85,170,v,Hassell 18' Jump Shot (12 PTS) (Jaric 2 AST),Made Shot,Jump Shot,0,0
+406,411,PT02M37.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,87,85,172,h,Kaman  Reverse Layup (24 PTS) (Brand 2 AST),Made Shot,Reverse Layup Shot,0,0
+407,412,PT02M20.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,Missed,1,0,0,0,v,MISS Jaric  Layup,Missed Shot,Layup Shot,0,0
+408,412,PT02M20.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic BLOCK (1 BLK),,,0,0
+409,413,PT02M18.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:4 Def:17),Rebound,Unknown,0,0
+410,414,PT02M01.00S,4,1610612746,LAC,208,Cassell,S. Cassell,-92,91,13,Made,1,89,85,174,h,Cassell 13' Fadeaway Jumper (15 PTS),Made Shot,Fadeaway Jump Shot,0,0
+411,415,PT01M47.00S,4,1610612750,MIN,708,Garnett,K. Garnett,-10,164,16,Missed,1,0,0,0,v,MISS Garnett 16' Jump Shot,Missed Shot,Jump Shot,0,0
+412,416,PT01M45.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+413,417,PT01M30.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0
+414,417,PT01M30.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric STEAL (3 STL),,,0,0
+415,418,PT01M30.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell P.FOUL (P4.PN),Foul,Personal,0,0
+416,419,PT01M30.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,89,86,175,v,Jaric Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+417,420,PT01M30.00S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,MISS Jaric Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+418,421,PT01M28.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:4 Def:18),Rebound,Unknown,0,0
+419,423,PT01M12.00S,4,1610612746,LAC,1882,Brand,E. Brand,-143,15,14,Made,1,91,86,177,h,Brand 14' Jump Shot (14 PTS) (Cassell 5 AST),Made Shot,Jump Shot,0,0
+420,424,PT01M07.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+421,426,PT01M07.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,SUB: Ross FOR Cassell,Substitution,,0,0
+422,427,PT00M57.90S,4,1610612750,MIN,2060,Jaric,M. Jaric,-135,84,16,Missed,1,0,0,0,v,MISS Jaric 16' Jump Shot,Missed Shot,Jump Shot,0,0
+423,428,PT00M56.70S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+424,429,PT00M55.80S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 5 Short 2),Timeout,Regular,0,0
+425,432,PT00M55.80S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Cassell FOR Ross,Substitution,,0,0
+426,433,PT00M39.90S,4,1610612746,LAC,1882,Brand,E. Brand,-84,91,12,Missed,1,0,0,0,h,MISS Brand 12' Jump Shot,Missed Shot,Jump Shot,0,0
+427,434,PT00M37.90S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:15),Rebound,Unknown,0,0
+428,435,PT00M37.50S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,0
+429,437,PT00M37.50S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,SUB: Ross FOR Radmanovic,Substitution,,0,0
+430,438,PT00M35.90S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0
+431,438,PT00M35.90S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross STEAL (1 STL),,,0,0
+432,439,PT00M33.90S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Made,1,93,86,179,h,Ross  Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,0,0
+433,440,PT00M24.90S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley P.FOUL (P2.PN),Foul,Personal,0,0
+434,442,PT00M24.90S,4,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,MISS Hassell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+435,443,PT00M24.90S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0
+436,444,PT00M24.90S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Radmanovic FOR Ross,Substitution,,0,0
+437,445,PT00M24.90S,4,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,93,87,180,v,Hassell Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+438,446,PT00M24.50S,4,1610612750,MIN,2060,Jaric,M. Jaric,0,0,0,,0,0,0,0,v,Jaric P.FOUL (P2.PN),Foul,Personal,0,0
+439,448,PT00M24.50S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,MISS Mobley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+440,449,PT00M24.50S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+441,450,PT00M24.50S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,SUB: Ross FOR Radmanovic,Substitution,,0,0
+442,451,PT00M24.50S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+443,452,PT00M23.90S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett REBOUND (Off:0 Def:16),Rebound,Unknown,0,0
+444,453,PT00M17.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Short (Reg.6 Short 2),Timeout,Short,0,0
+445,457,PT00M17.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,SUB: Radmanovic FOR Brand,Substitution,,0,0
+446,455,PT00M17.00S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett OFF.Foul (P4),Foul,Offensive,0,0
+447,456,PT00M17.00S,4,1610612750,MIN,708,Garnett,K. Garnett,0,0,0,,0,0,0,0,v,Garnett Foul Turnover (P1.T12),Turnover,Foul,0,0
+448,458,PT00M16.50S,4,1610612750,MIN,2239,Hassell,T. Hassell,0,0,0,,0,0,0,0,v,Hassell P.FOUL (P4.PN),Foul,Personal,0,0
+449,460,PT00M16.50S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,94,87,181,h,Cassell Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+450,461,PT00M16.50S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,95,87,182,h,Cassell Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+451,463,PT00M07.90S,4,1610612750,MIN,2060,Jaric,M. Jaric,-176,207,27,Missed,1,0,0,0,v,MISS Jaric 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+452,464,PT00M05.90S,4,1610612750,MIN,1548,Blount,M. Blount,0,0,0,,0,0,0,0,v,Blount REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+453,465,PT00M02.90S,4,1610612750,MIN,708,Garnett,K. Garnett,-82,252,27,Missed,1,0,0,0,v,MISS Garnett 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+454,466,PT00M00.90S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:4 Def:19),Rebound,Unknown,0,0
+455,468,PT00M00.00S,4,0,,0,,,0,0,0,,0,95,87,182,,End of 4th Period (13:15 PM EST),period,end,0,0

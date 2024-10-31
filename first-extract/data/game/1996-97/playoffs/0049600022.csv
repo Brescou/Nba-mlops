@@ -1,0 +1,485 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (11:41 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Jump Ball Williams vs. Kemp: Tip to Tisdale,Jump Ball,,0,0
+3,2,PT11M47.00S,1,1610612756,PHX,47,Tisdale,W. Tisdale,0,0,0,Made,1,2,0,2,h,Tisdale  Dunk (2 PTS) (Johnson 1 AST),Made Shot,Dunk Shot,0,0
+4,3,PT11M26.00S,1,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,Chapman S.FOUL (P1.T1),Foul,Shooting,0,0
+5,4,PT11M26.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,2,1,3,v,Payton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+6,5,PT11M26.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,MISS Payton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+7,6,PT11M26.00S,1,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+8,7,PT11M15.00S,1,1610612756,PHX,134,Johnson,K. Johnson,127,114,17,Missed,1,0,0,0,h,MISS Johnson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+9,8,PT11M13.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,9,PT11M02.00S,1,1610612760,SEA,431,Kemp,S. Kemp,-60,190,20,Missed,1,0,0,0,v,MISS Kemp 20' Jump Shot,Missed Shot,Jump Shot,0,0
+11,10,PT11M00.00S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+12,11,PT10M57.00S,1,1610612756,PHX,47,Tisdale,W. Tisdale,0,0,0,,0,0,0,0,h,Tisdale S.FOUL (P1.T2),Foul,Shooting,0,0
+13,12,PT10M57.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,2,2,4,v,Kemp Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+14,13,PT10M57.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,2,3,5,v,Kemp Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+15,14,PT10M43.00S,1,1610612756,PHX,47,Tisdale,W. Tisdale,14,45,5,Missed,1,0,0,0,h,MISS Tisdale 5' Hook Shot,Missed Shot,Hook Shot,0,0
+16,15,PT10M42.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+17,16,PT10M29.00S,1,1610612760,SEA,431,Kemp,S. Kemp,120,-1,12,Made,1,2,5,7,v,Kemp 12' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+18,17,PT10M20.00S,1,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,Chapman Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+19,17,PT10M20.00S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings STEAL (1 STL),,,0,0
+20,18,PT10M14.00S,1,1610612760,SEA,765,Hawkins,H. Hawkins,220,41,0,Made,1,2,8,10,v,Hawkins  3PT Jump Shot (3 PTS) (Schrempf 1 AST),Made Shot,Jump Shot,0,0
+21,19,PT09M52.00S,1,1610612756,PHX,47,Tisdale,W. Tisdale,-114,56,13,Made,1,4,8,12,h,Tisdale 13' Jump Shot (4 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,0
+22,20,PT09M43.00S,1,1610612760,SEA,56,Payton,G. Payton,-172,145,0,Made,1,4,11,15,v,Payton  3PT Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+23,21,PT09M29.00S,1,1610612756,PHX,467,Kidd,J. Kidd,201,106,0,Made,1,7,11,18,h,Kidd  3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,0
+24,22,PT09M01.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,40,194,20,Missed,1,0,0,0,v,MISS Schrempf 20' Jump Shot,Missed Shot,Jump Shot,0,0
+25,23,PT09M00.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+26,24,PT08M53.00S,1,1610612756,PHX,47,Tisdale,W. Tisdale,155,-9,16,Missed,1,0,0,0,h,MISS Tisdale 16' Jump Shot,Missed Shot,Jump Shot,0,0
+27,25,PT08M50.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+28,26,PT08M50.00S,1,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,SUB: Bryant FOR Williams,Substitution,,0,0
+29,27,PT08M50.00S,1,1610612756,PHX,47,Tisdale,W. Tisdale,0,0,0,,0,0,0,0,h,SUB: Manning FOR Tisdale,Substitution,,0,0
+30,28,PT08M39.00S,1,1610612756,PHX,364,Chapman,R. Chapman,-29,140,14,Missed,1,0,0,0,h,MISS Chapman 14' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+31,29,PT08M37.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+32,30,PT08M33.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd S.FOUL (P1.T3),Foul,Shooting,0,0
+33,31,PT08M33.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,7,12,19,v,Schrempf Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+34,32,PT08M33.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,7,13,20,v,Schrempf Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+35,33,PT08M21.00S,1,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+36,34,PT08M10.00S,1,1610612760,SEA,56,Payton,G. Payton,162,160,0,Made,1,7,16,23,v,Payton  3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+37,35,PT08M03.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,Made,1,9,16,25,h,Manning  Layup (2 PTS) (Chapman 1 AST),Made Shot,Layup Shot,0,0
+38,36,PT07M54.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,14,52,5,Made,1,9,18,27,v,Schrempf 5' Jump Shot (4 PTS) (Hawkins 1 AST),Made Shot,Jump Shot,0,0
+39,37,PT07M41.00S,1,1610612756,PHX,134,Johnson,K. Johnson,99,-3,10,Made,1,11,18,29,h,Johnson 10' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+40,38,PT07M24.00S,1,1610612760,SEA,56,Payton,G. Payton,198,103,0,Made,1,11,21,32,v,Payton  3PT Jump Shot (10 PTS) (Kemp 1 AST),Made Shot,Jump Shot,0,0
+41,39,PT07M11.00S,1,1610612756,PHX,95,Bryant,M. Bryant,0,0,0,Missed,1,0,0,0,h,MISS Bryant  Layup,Missed Shot,Layup Shot,0,0
+42,40,PT07M08.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+43,41,PT07M04.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,Made,1,13,21,34,h,Manning  Layup (4 PTS) (Johnson 2 AST),Made Shot,Layup Shot,0,0
+44,42,PT06M48.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,34,78,9,Made,1,13,23,36,v,Schrempf 9' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+45,43,PT06M24.00S,1,1610612756,PHX,95,Bryant,M. Bryant,40,36,5,Missed,1,0,0,0,h,MISS Bryant 5' Jump Shot,Missed Shot,Jump Shot,0,0
+46,44,PT06M22.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+47,45,PT06M15.00S,1,1610612760,SEA,56,Payton,G. Payton,-12,220,0,Missed,1,0,0,0,v,MISS Payton  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+48,46,PT06M13.00S,1,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,Chapman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+49,47,PT06M11.00S,1,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,Chapman Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0
+50,48,PT06M11.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+51,49,PT05M47.00S,1,1610612760,SEA,56,Payton,G. Payton,-166,181,25,Made,1,13,26,39,v,Payton 25' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+52,50,PT05M33.00S,1,1610612756,PHX,364,Chapman,R. Chapman,-185,162,25,Made,1,16,26,42,h,Chapman 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,0
+53,51,PT05M21.00S,1,1610612760,SEA,431,Kemp,S. Kemp,68,34,8,Made,1,16,28,44,v,Kemp 8' Jump Shot (6 PTS) (Cummings 1 AST),Made Shot,Jump Shot,0,0
+54,52,PT04M55.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+55,53,PT04M45.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Made,1,16,30,46,v,Kemp  Layup (8 PTS) (Payton 1 AST),Made Shot,Layup Shot,0,0
+56,54,PT04M45.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning S.FOUL (P1.T4),Foul,Shooting,0,0
+57,55,PT04M45.00S,1,1610612756,PHX,95,Bryant,M. Bryant,0,0,0,,0,0,0,0,h,SUB: Person FOR Bryant,Substitution,,0,0
+58,56,PT04M45.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,16,31,47,v,Kemp Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+59,57,PT04M34.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf P.FOUL (P1.T1),Foul,Personal,0,0
+60,58,PT04M28.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton Violation:Double Lane,Violation,Double Lane,0,0
+61,59,PT04M19.00S,1,1610612756,PHX,445,Person,W. Person,138,184,0,Made,1,19,31,50,h,Person  3PT Jump Shot (3 PTS) (Johnson 3 AST),Made Shot,Jump Shot,0,0
+62,60,PT03M59.00S,1,1610612760,SEA,187,Cummings,T. Cummings,-34,49,6,Missed,1,0,0,0,v,MISS Cummings 6' Jump Shot,Missed Shot,Jump Shot,0,0
+63,61,PT03M58.00S,1,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+64,62,PT03M50.00S,1,1610612756,PHX,134,Johnson,K. Johnson,-226,41,0,Missed,1,0,0,0,h,MISS Johnson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+65,63,PT03M49.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+66,64,PT03M42.00S,1,1610612760,SEA,187,Cummings,T. Cummings,175,0,18,Made,1,19,33,52,v,Cummings 18' Jump Shot (2 PTS) (Hawkins 2 AST),Made Shot,Jump Shot,0,0
+67,65,PT03M29.00S,1,1610612756,PHX,467,Kidd,J. Kidd,203,41,21,Missed,1,0,0,0,h,MISS Kidd 21' Jump Shot,Missed Shot,Jump Shot,0,0
+68,66,PT03M28.00S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+69,67,PT03M16.00S,1,1610612760,SEA,765,Hawkins,H. Hawkins,49,43,7,Missed,1,0,0,0,v,MISS Hawkins 7' Jump Shot,Missed Shot,Jump Shot,0,0
+70,68,PT03M15.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+71,69,PT03M13.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Missed,1,0,0,0,v,MISS Kemp  Layup,Missed Shot,Layup Shot,0,0
+72,69,PT03M13.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning BLOCK (1 BLK),,,0,0
+73,71,PT03M10.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+74,70,PT03M10.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Missed,1,0,0,0,v,MISS Kemp  Layup,Missed Shot,Layup Shot,0,0
+75,70,PT03M10.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning BLOCK (2 BLK),,,0,0
+76,72,PT03M08.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+77,73,PT03M05.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+78,73,PT03M05.00S,1,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins STEAL (1 STL),,,0,0
+79,74,PT03M03.00S,1,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0
+80,74,PT03M03.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd STEAL (1 STL),,,0,0
+81,75,PT02M58.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,Made,1,21,33,54,h,Manning  Layup (6 PTS),Made Shot,Layup Shot,0,0
+82,76,PT02M43.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,Made,1,21,35,56,v,Payton  Dunk (15 PTS) (Kemp 2 AST),Made Shot,Dunk Shot,0,0
+83,77,PT02M28.00S,1,1610612756,PHX,445,Person,W. Person,-192,136,24,Missed,1,0,0,0,h,MISS Person 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+84,78,PT02M26.00S,1,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+85,79,PT02M25.00S,1,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,Made,1,23,35,58,h,Johnson  Layup (4 PTS),Made Shot,Layup Shot,0,0
+86,80,PT02M12.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Missed,1,0,0,0,v,MISS Kemp  Layup,Missed Shot,Layup Shot,0,0
+87,81,PT02M09.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+88,82,PT02M06.00S,1,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,Made,1,25,35,60,h,Johnson  Layup (6 PTS),Made Shot,Layup Shot,0,0
+89,83,PT01M54.00S,1,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+90,84,PT01M54.00S,1,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,SUB: McMillan FOR Hawkins,Substitution,,0,0
+91,85,PT01M54.00S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,SUB: Graham FOR Cummings,Substitution,,0,0
+92,86,PT01M40.00S,1,1610612760,SEA,431,Kemp,S. Kemp,27,162,16,Missed,1,0,0,0,v,MISS Kemp 16' Jump Shot,Missed Shot,Jump Shot,0,0
+93,87,PT01M39.00S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+94,88,PT01M33.00S,1,1610612756,PHX,134,Johnson,K. Johnson,-179,151,0,Missed,1,0,0,0,h,MISS Johnson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+95,89,PT01M31.00S,1,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+96,90,PT01M28.00S,1,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,Made,1,27,35,62,h,Chapman  Layup (5 PTS) (Person 1 AST),Made Shot,Layup Shot,0,0
+97,91,PT01M07.00S,1,1610612760,SEA,56,Payton,G. Payton,177,153,0,Made,1,27,38,65,v,Payton  3PT Jump Shot (18 PTS) (McMillan 1 AST),Made Shot,Jump Shot,0,0
+98,92,PT00M49.90S,1,1610612756,PHX,445,Person,W. Person,3,97,10,Made,1,29,38,67,h,Person 10' Running Jump Shot (5 PTS) (Johnson 4 AST),Made Shot,Running Jump Shot,0,0
+99,93,PT00M35.90S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+100,93,PT00M35.90S,1,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson STEAL (1 STL),,,0,0
+101,94,PT00M31.20S,1,1610612760,SEA,203,McMillan,N. McMillan,0,0,0,,0,0,0,0,v,McMillan S.FOUL (P1.T2),Foul,Shooting,0,0
+102,95,PT00M31.20S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,SUB: Perkins FOR Kemp,Substitution,,0,0
+103,96,PT00M31.20S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,SUB: Wingate FOR Schrempf,Substitution,,0,0
+104,97,PT00M31.20S,1,1610612756,PHX,445,Person,W. Person,0,0,0,,0,30,38,68,h,Person Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+105,98,PT00M31.20S,1,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,SUB: Williams FOR Manning,Substitution,,0,0
+106,99,PT00M31.20S,1,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,MISS Person Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+107,100,PT00M29.60S,1,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Rebound,Rebound,Unknown,0,0
+108,101,PT00M08.90S,1,1610612760,SEA,37,Graham,G. Graham,0,0,0,Made,1,30,40,70,v,Graham  Layup (2 PTS) (Perkins 1 AST),Made Shot,Layup Shot,0,0
+109,102,PT00M02.90S,1,1610612756,PHX,134,Johnson,K. Johnson,-185,145,24,Missed,1,0,0,0,h,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+110,103,PT00M00.20S,1,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+111,104,PT00M00.00S,1,1610612756,PHX,445,Person,W. Person,0,0,0,Missed,1,0,0,0,h,MISS Person  Layup,Missed Shot,Layup Shot,0,0
+112,106,PT00M00.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+113,105,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,40,70,,End of 1st Period (12:03 PM EST),period,end,0,0
+114,107,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,40,70,,Start of 2nd Period (12:06 PM EST),period,start,0,0
+115,108,PT11M48.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos S.FOUL (P1.T1),Foul,Shooting,0,0
+116,109,PT11M48.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,30,41,71,v,Perkins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+117,110,PT11M48.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,MISS Perkins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+118,111,PT11M47.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+119,112,PT11M34.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,Missed,1,0,0,0,h,MISS Johnson  Layup,Missed Shot,Layup Shot,0,0
+120,113,PT11M31.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Jump Ball Ceballos vs. McMillan: Tip to Chapman,Jump Ball,,0,0
+121,114,PT11M31.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+122,115,PT11M18.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,0
+123,116,PT11M13.00S,2,1610612760,SEA,203,McMillan,N. McMillan,0,0,0,,0,0,0,0,v,McMillan S.FOUL (P2.T1),Foul,Shooting,0,0
+124,117,PT11M13.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,31,41,72,h,Johnson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+125,118,PT11M13.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,32,41,73,h,Johnson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+126,119,PT10M54.00S,2,1610612760,SEA,56,Payton,G. Payton,-133,181,0,Missed,1,0,0,0,v,MISS Payton  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+127,120,PT10M52.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+128,121,PT10M42.00S,2,1610612756,PHX,134,Johnson,K. Johnson,222,49,0,Missed,1,0,0,0,h,MISS Johnson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+129,122,PT10M40.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+130,123,PT10M36.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton Traveling Turnover (P2.T3),Turnover,Traveling,0,0
+131,124,PT10M19.00S,2,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0,0,0,v,Wingate S.FOUL (P1.T2),Foul,Shooting,0,0
+132,125,PT10M19.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,SUB: Hawkins FOR Payton,Substitution,,0,0
+133,126,PT10M19.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,33,41,74,h,Johnson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+134,127,PT10M19.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+135,128,PT10M17.00S,2,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+136,129,PT10M08.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins S.FOUL (P1.T3),Foul,Shooting,0,0
+137,130,PT10M08.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,34,41,75,h,Johnson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+138,131,PT10M08.00S,2,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,SUB: Kidd FOR Chapman,Substitution,,0,0
+139,132,PT10M08.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,35,41,76,h,Johnson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+140,133,PT09M54.00S,2,1610612760,SEA,64,Perkins,S. Perkins,34,41,5,Made,1,35,43,78,v,Perkins 5' Hook Shot (3 PTS),Made Shot,Hook Shot,0,0
+141,134,PT09M33.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,-57,47,7,Missed,1,0,0,0,h,MISS Ceballos 7' Jump Shot,Missed Shot,Jump Shot,0,0
+142,135,PT09M31.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+143,136,PT09M22.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,Missed,1,0,0,0,v,MISS Perkins  Layup,Missed Shot,Layup Shot,0,0
+144,137,PT09M20.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+145,138,PT09M07.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,Missed,1,0,0,0,h,MISS Johnson  Layup,Missed Shot,Layup Shot,0,0
+146,139,PT09M06.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+147,140,PT09M05.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0
+148,140,PT09M05.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson STEAL (2 STL),,,0,0
+149,141,PT09M01.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,Made,1,37,43,80,h,Ceballos  Dunk (2 PTS) (Johnson 5 AST),Made Shot,Dunk Shot,0,0
+150,142,PT08M36.00S,2,1610612760,SEA,766,Wingate,D. Wingate,-86,153,18,Made,1,37,45,82,v,Wingate 18' Jump Shot (2 PTS) (Graham 1 AST),Made Shot,Jump Shot,0,0
+151,143,PT08M11.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,Missed,1,0,0,0,h,MISS Kidd  Layup,Missed Shot,Layup Shot,0,0
+152,143,PT08M11.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins BLOCK (1 BLK),,,0,0
+153,144,PT08M11.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+154,145,PT08M11.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official TV,Timeout,Official TV,0,0
+155,146,PT08M11.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,SUB: Kemp FOR Perkins,Substitution,,0,0
+156,147,PT08M11.00S,2,1610612760,SEA,203,McMillan,N. McMillan,0,0,0,,0,0,0,0,v,SUB: Payton FOR McMillan,Substitution,,0,0
+157,148,PT08M09.00S,2,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Williams Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+158,148,PT08M09.00S,2,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0,0,0,v,Wingate STEAL (1 STL),,,0,0
+159,149,PT08M07.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd C.P.FOUL (P2.T2),Foul,Clear Path,0,0
+160,150,PT08M07.00S,2,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0,0,0,v,MISS Wingate Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+161,151,PT08M07.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Rebound,Rebound,Unknown,0,0
+162,152,PT08M07.00S,2,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,37,46,83,v,Wingate Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+163,153,PT07M49.00S,2,1610612756,PHX,445,Person,W. Person,153,168,0,Made,1,40,46,86,h,Person  3PT Jump Shot (9 PTS) (Kidd 1 AST),Made Shot,Jump Shot,0,0
+164,154,PT07M38.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,Missed,1,0,0,0,v,MISS Hawkins  Layup,Missed Shot,Layup Shot,0,0
+165,154,PT07M38.00S,2,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person BLOCK (1 BLK),,,0,0
+166,155,PT07M35.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Rebound,Rebound,Unknown,0,0
+167,156,PT07M31.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,Made,1,40,48,88,v,Payton  Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,0
+168,157,PT07M12.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton P.FOUL (P1.T4),Foul,Personal,0,0
+169,158,PT07M12.00S,2,1610612760,SEA,37,Graham,G. Graham,0,0,0,,0,0,0,0,v,SUB: Schrempf FOR Graham,Substitution,,0,0
+170,159,PT07M04.00S,2,1610612756,PHX,73,Williams,H. Williams,0,0,0,Made,1,42,48,90,h,Williams  Layup (2 PTS) (Kidd 2 AST),Made Shot,Layup Shot,0,0
+171,160,PT06M45.00S,2,1610612760,SEA,56,Payton,G. Payton,211,45,0,Missed,1,0,0,0,v,MISS Payton  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+172,161,PT06M44.00S,2,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0,0,0,v,Wingate REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+173,162,PT06M40.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0
+174,162,PT06M40.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd STEAL (2 STL),,,0,0
+175,163,PT06M36.00S,2,1610612756,PHX,445,Person,W. Person,0,0,0,Made,1,44,48,92,h,Person  Layup (11 PTS) (Johnson 6 AST),Made Shot,Layup Shot,0,0
+176,164,PT06M15.00S,2,1610612760,SEA,56,Payton,G. Payton,8,65,7,Missed,1,0,0,0,v,MISS Payton 7' Jump Shot,Missed Shot,Jump Shot,0,0
+177,165,PT06M14.00S,2,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+178,166,PT06M06.00S,2,1610612756,PHX,73,Williams,H. Williams,0,0,0,Made,1,46,48,94,h,Williams  Dunk (4 PTS) (Kidd 3 AST),Made Shot,Dunk Shot,0,0
+179,167,PT06M02.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Timeout: Short (Reg.1 Short 1),Timeout,Short,0,0
+180,168,PT06M02.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+181,169,PT05M42.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos P.FOUL (P2.T3),Foul,Personal,0,0
+182,170,PT05M33.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+183,170,PT05M33.00S,2,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person STEAL (1 STL),,,0,0
+184,171,PT05M27.00S,2,1610612756,PHX,445,Person,W. Person,140,171,0,Missed,1,0,0,0,h,MISS Person  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+185,172,PT05M25.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+186,173,PT05M25.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+187,174,PT05M14.00S,2,1610612756,PHX,445,Person,W. Person,-155,17,16,Missed,1,0,0,0,h,MISS Person 16' Jump Shot,Missed Shot,Jump Shot,0,0
+188,175,PT05M12.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+189,176,PT05M01.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,201,20,Made,1,48,48,96,h,Johnson 20' Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+190,177,PT04M41.00S,2,1610612760,SEA,96,Schrempf,D. Schrempf,170,-22,17,Missed,1,0,0,0,v,MISS Schrempf 17' Jump Shot,Missed Shot,Jump Shot,0,0
+191,178,PT04M38.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+192,179,PT04M33.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins S.FOUL (P1.PN),Foul,Shooting,0,0
+193,180,PT04M33.00S,2,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0,0,0,v,SUB: Cummings FOR Wingate,Substitution,,0,0
+194,181,PT04M33.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,49,48,97,h,Johnson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+195,183,PT04M33.00S,2,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,SUB: Manning FOR Williams,Substitution,,0,0
+196,184,PT04M33.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,50,48,98,h,Johnson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+197,185,PT04M17.00S,2,1610612760,SEA,431,Kemp,S. Kemp,-34,147,15,Made,1,50,50,100,v,Kemp 15' Jump Shot (11 PTS) (Schrempf 2 AST),Made Shot,Jump Shot,0,0
+198,186,PT03M52.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0
+199,186,PT03M52.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins STEAL (2 STL),,,0,0
+200,187,PT03M44.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Made,1,50,52,102,v,Kemp  Dunk (13 PTS) (Payton 2 AST),Made Shot,Dunk Shot,0,0
+201,188,PT03M25.00S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings S.FOUL (P1.PN),Foul,Shooting,0,0
+202,189,PT03M25.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,51,52,103,h,Ceballos Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+203,190,PT03M25.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,52,52,104,h,Ceballos Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+204,191,PT03M10.00S,2,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person P.FOUL (P1.T4),Foul,Personal,0,0
+205,192,PT02M53.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,80,8,Made,1,52,54,106,v,Hawkins 8' Jump Shot (5 PTS) (Cummings 2 AST),Made Shot,Jump Shot,0,0
+206,193,PT02M35.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,Missed,1,0,0,0,h,MISS Ceballos  Layup,Missed Shot,Layup Shot,0,0
+207,193,PT02M35.00S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings BLOCK (1 BLK),,,0,0
+208,194,PT02M33.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+209,195,PT02M33.00S,2,0,,1315,,,0,0,0,,0,0,0,0,, Foul:T.FOUL,Foul,Technical,0,0
+210,196,PT02M33.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,52,55,107,v,Hawkins Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0
+211,197,PT02M33.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,0
+212,198,PT02M14.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,27,69,7,Missed,1,0,0,0,v,MISS Hawkins 7' Jump Shot,Missed Shot,Jump Shot,0,0
+213,199,PT02M12.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+214,200,PT02M09.00S,2,1610612760,SEA,96,Schrempf,D. Schrempf,-135,4,14,Missed,1,0,0,0,v,MISS Schrempf 14' Jump Shot,Missed Shot,Jump Shot,0,0
+215,201,PT02M08.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+216,202,PT02M06.00S,2,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning S.FOUL (P2.PN),Foul,Shooting,0,0
+217,203,PT02M06.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,52,56,108,v,Kemp Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+218,204,PT02M06.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,MISS Kemp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+219,205,PT02M04.00S,2,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+220,206,PT01M46.00S,2,1610612756,PHX,76,Ceballos,C. Ceballos,233,2,0,Missed,1,0,0,0,h,MISS Ceballos  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+221,207,PT01M44.00S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+222,208,PT01M39.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,-209,93,0,Missed,1,0,0,0,v,MISS Hawkins  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+223,209,PT01M37.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+224,210,PT01M30.00S,2,1610612756,PHX,330,Manning,D. Manning,0,0,0,Missed,1,0,0,0,h,MISS Manning  Layup,Missed Shot,Layup Shot,0,0
+225,211,PT01M28.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+226,212,PT01M20.00S,2,1610612760,SEA,187,Cummings,T. Cummings,12,82,8,Made,1,52,58,110,v,Cummings 8' Jump Shot (4 PTS) (Payton 3 AST),Made Shot,Jump Shot,0,0
+227,213,PT01M04.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp P.FOUL (P1.PN),Foul,Personal,0,0
+228,214,PT01M04.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,53,58,111,h,Johnson Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+229,215,PT01M04.00S,2,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,SUB: Williams FOR Manning,Substitution,,0,0
+230,217,PT01M04.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,SUB: Nash FOR Kidd,Substitution,,0,0
+231,218,PT01M04.00S,2,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,54,58,112,h,Johnson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+232,219,PT00M47.10S,2,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,Made,1,54,60,114,v,Schrempf  Layup (8 PTS) (Hawkins 3 AST),Made Shot,Layup Shot,0,0
+233,220,PT00M37.90S,2,1610612756,PHX,959,Nash,S. Nash,-226,-7,0,Missed,1,0,0,0,h,MISS Nash  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+234,221,PT00M36.90S,2,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+235,222,PT00M23.90S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos P.FOUL (P3.PN),Foul,Personal,0,0
+236,223,PT00M23.90S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,54,61,115,v,Kemp Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+237,224,PT00M23.90S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,SUB: Wingate FOR Cummings,Substitution,,0,0
+238,225,PT00M23.90S,2,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,SUB: Kidd FOR Williams,Substitution,,0,0
+239,226,PT00M23.90S,2,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,0,0,0,h,SUB: Manning FOR Nash,Substitution,,0,0
+240,227,PT00M23.90S,2,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,SUB: Chapman FOR Ceballos,Substitution,,0,0
+241,228,PT00M23.90S,2,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,SUB: Graham FOR Schrempf,Substitution,,0,0
+242,229,PT00M23.90S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,54,62,116,v,Kemp Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+243,230,PT00M00.00S,2,1610612756,PHX,445,Person,W. Person,-66,214,0,Made,1,57,62,119,h,Person  3PT Jump Shot (14 PTS) (Kidd 4 AST),Made Shot,Jump Shot,0,0
+244,231,PT00M00.00S,2,0,,0,,,0,0,0,,0,57,62,119,,End of 2nd Period (12:38 PM EST),period,end,0,0
+245,232,PT12M00.00S,3,0,,0,,,0,0,0,,0,57,62,119,,Start of 3rd Period (12:56 PM EST),period,start,0,0
+246,233,PT11M39.00S,3,1610612760,SEA,56,Payton,G. Payton,-107,201,0,Missed,1,0,0,0,v,MISS Payton  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+247,234,PT11M37.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+248,235,PT11M25.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf S.FOUL (P2.T1),Foul,Shooting,0,0
+249,236,PT11M25.00S,3,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,58,62,120,h,Chapman Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+250,237,PT11M25.00S,3,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,MISS Chapman Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+251,238,PT11M24.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+252,239,PT11M11.00S,3,1610612760,SEA,431,Kemp,S. Kemp,-105,71,13,Missed,1,0,0,0,v,MISS Kemp 13' Jump Shot,Missed Shot,Jump Shot,0,0
+253,241,PT11M08.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+254,240,PT11M08.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,Made,1,58,64,122,v,Cummings  Layup (6 PTS),Made Shot,Layup Shot,0,0
+255,242,PT10M56.00S,3,1610612756,PHX,445,Person,W. Person,224,-1,0,Made,1,61,64,125,h,Person  3PT Jump Shot (17 PTS) (Kidd 5 AST),Made Shot,Jump Shot,0,0
+256,243,PT10M34.00S,3,1610612760,SEA,431,Kemp,S. Kemp,-14,153,15,Missed,1,0,0,0,v,MISS Kemp 15' Jump Shot,Missed Shot,Jump Shot,0,0
+257,244,PT10M33.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+258,245,PT10M30.00S,3,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson S.FOUL (P1.T1),Foul,Shooting,0,0
+259,246,PT10M30.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,61,65,126,v,Cummings Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+260,247,PT10M30.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,61,66,127,v,Cummings Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+261,248,PT10M17.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins P.FOUL (P2.T2),Foul,Personal,0,0
+262,249,PT10M11.00S,3,1610612756,PHX,73,Williams,H. Williams,0,0,0,Made,1,63,66,129,h,Williams  Dunk (6 PTS) (Chapman 2 AST),Made Shot,Dunk Shot,0,0
+263,250,PT09M51.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,Missed,1,0,0,0,v,MISS Payton  Layup,Missed Shot,Layup Shot,0,0
+264,250,PT09M51.00S,3,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person BLOCK (2 BLK),,,0,0
+265,251,PT09M50.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+266,252,PT09M50.00S,3,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Williams S.FOUL (P1.T2),Foul,Shooting,0,0
+267,253,PT09M50.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,63,67,130,v,Kemp Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+268,254,PT09M50.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,63,68,131,v,Kemp Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+269,255,PT09M41.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf S.FOUL (P3.T3),Foul,Shooting,0,0
+270,256,PT09M41.00S,3,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,64,68,132,h,Johnson Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+271,257,PT09M41.00S,3,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+272,258,PT09M40.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:4 Def:5),Rebound,Unknown,0,0
+273,259,PT09M30.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0
+274,259,PT09M30.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd STEAL (3 STL),,,0,0
+275,260,PT09M13.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp P.FOUL (P2.T4),Foul,Personal,0,0
+276,261,PT09M07.00S,3,1610612756,PHX,445,Person,W. Person,105,225,25,Made,1,67,68,135,h,Person 25' 3PT Jump Shot (20 PTS) (Kidd 6 AST),Made Shot,Jump Shot,0,0
+277,262,PT08M51.00S,3,1610612760,SEA,187,Cummings,T. Cummings,181,-14,18,Missed,1,0,0,0,v,MISS Cummings 18' Jump Shot,Missed Shot,Jump Shot,0,0
+278,263,PT08M49.00S,3,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+279,264,PT08M41.00S,3,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+280,264,PT08M41.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf STEAL (1 STL),,,0,0
+281,265,PT08M37.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd P.FOUL (P3.T3),Foul,Personal,0,0
+282,266,PT08M23.00S,3,1610612760,SEA,431,Kemp,S. Kemp,90,4,9,Made,1,67,70,137,v,Kemp 9' Jump Shot (20 PTS) (Schrempf 3 AST),Made Shot,Jump Shot,0,0
+283,269,PT08M04.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0
+284,269,PT08M04.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins STEAL (3 STL),,,0,0
+285,270,PT07M58.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,Missed,1,0,0,0,v,MISS Payton  Layup,Missed Shot,Layup Shot,0,0
+286,270,PT07M58.00S,3,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Williams BLOCK (1 BLK),,,0,0
+287,271,PT07M55.00S,3,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+288,272,PT07M50.00S,3,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,Made,1,69,70,139,h,Chapman  Layup (8 PTS),Made Shot,Layup Shot,0,0
+289,273,PT07M45.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+290,273,PT07M45.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd STEAL (4 STL),,,0,0
+291,274,PT07M38.00S,3,1610612756,PHX,445,Person,W. Person,-229,-9,0,Made,1,72,70,142,h,Person  3PT Jump Shot (23 PTS) (Kidd 7 AST),Made Shot,Jump Shot,0,0
+292,275,PT07M14.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,-10,36,4,Missed,1,0,0,0,v,MISS Schrempf 4' Hook Shot,Missed Shot,Hook Shot,0,0
+293,276,PT07M12.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+294,277,PT07M10.00S,3,1610612760,SEA,187,Cummings,T. Cummings,60,23,6,Made,1,72,72,144,v,Cummings 6' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+295,278,PT06M41.00S,3,1610612756,PHX,364,Chapman,R. Chapman,-157,175,24,Missed,1,0,0,0,h,MISS Chapman 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+296,279,PT06M38.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+297,280,PT06M33.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,-196,134,24,Missed,1,0,0,0,v,MISS Hawkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+298,281,PT06M31.00S,3,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,Chapman REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+299,282,PT06M25.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp S.FOUL (P3.PN),Foul,Shooting,0,0
+300,283,PT06M25.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+301,284,PT06M25.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,SUB: Perkins FOR Cummings,Substitution,,0,0
+302,285,PT06M25.00S,3,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,SUB: Manning FOR Williams,Substitution,,0,0
+303,286,PT06M25.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,73,72,145,h,Kidd Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+304,287,PT06M25.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,74,72,146,h,Kidd Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+305,288,PT06M06.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,-142,179,0,Missed,1,0,0,0,v,MISS Schrempf  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+306,289,PT06M04.00S,3,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,Chapman REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+307,290,PT05M59.00S,3,1610612756,PHX,134,Johnson,K. Johnson,125,112,17,Made,1,76,72,148,h,Johnson 17' Jump Shot (20 PTS),Made Shot,Jump Shot,0,0
+308,291,PT05M34.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,Missed,1,0,0,0,v,MISS Payton  Layup,Missed Shot,Layup Shot,0,0
+309,292,PT05M33.00S,3,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+310,293,PT05M26.00S,3,1610612756,PHX,445,Person,W. Person,229,21,0,Missed,1,0,0,0,h,MISS Person  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+311,294,PT05M24.00S,3,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+312,295,PT05M21.00S,3,1610612756,PHX,364,Chapman,R. Chapman,-170,153,0,Missed,1,0,0,0,h,MISS Chapman  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+313,296,PT05M18.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+314,297,PT05M15.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0
+315,297,PT05M15.00S,3,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,Chapman STEAL (1 STL),,,0,0
+316,298,PT05M10.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp S.FOUL (P4.PN),Foul,Shooting,0,0
+317,300,PT05M10.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,SUB: Wingate FOR Kemp,Substitution,,0,0
+318,301,PT05M10.00S,3,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,MISS Manning Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+319,302,PT05M10.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+320,303,PT05M10.00S,3,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,77,72,149,h,Manning Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+321,304,PT04M48.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,-164,138,21,Missed,1,0,0,0,v,MISS Hawkins 21' Jump Shot,Missed Shot,Jump Shot,0,0
+322,305,PT04M45.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+323,306,PT04M42.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,0
+324,306,PT04M42.00S,3,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins STEAL (1 STL),,,0,0
+325,307,PT04M38.00S,3,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person S.FOUL (P2.T4),Foul,Shooting,0,0
+326,308,PT04M38.00S,3,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,77,73,150,v,Wingate Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+327,309,PT04M38.00S,3,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,77,74,151,v,Wingate Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+328,310,PT04M16.00S,3,1610612756,PHX,330,Manning,D. Manning,0,0,0,Missed,1,0,0,0,h,MISS Manning  Layup,Missed Shot,Layup Shot,0,0
+329,310,PT04M16.00S,3,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins BLOCK (2 BLK),,,0,0
+330,311,PT04M13.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+331,312,PT04M12.00S,3,1610612756,PHX,134,Johnson,K. Johnson,222,45,0,Missed,1,0,0,0,h,MISS Johnson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+332,313,PT04M09.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+333,314,PT03M51.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,99,-5,10,Missed,1,0,0,0,v,MISS Hawkins 10' Jump Shot,Missed Shot,Jump Shot,0,0
+334,315,PT03M49.00S,3,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+335,316,PT03M31.00S,3,1610612756,PHX,364,Chapman,R. Chapman,222,2,0,Made,1,80,74,154,h,Chapman  3PT Jump Shot (11 PTS) (Kidd 8 AST),Made Shot,Jump Shot,0,0
+336,317,PT03M12.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd S.FOUL (P4.PN),Foul,Shooting,0,0
+337,318,PT03M12.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,80,75,155,v,Payton Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0
+338,319,PT03M12.00S,3,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,SUB: Ceballos FOR Chapman,Substitution,,0,0
+339,320,PT03M12.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,MISS Payton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+340,321,PT03M10.00S,3,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+341,322,PT02M49.00S,3,1610612756,PHX,76,Ceballos,C. Ceballos,-16,78,8,Missed,1,0,0,0,h,MISS Ceballos 8' Jump Shot,Missed Shot,Jump Shot,0,0
+342,323,PT02M47.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+343,324,PT02M23.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,227,-7,0,Made,1,80,78,158,v,Hawkins  3PT Jump Shot (9 PTS) (Payton 4 AST),Made Shot,Jump Shot,0,0
+344,325,PT02M04.00S,3,1610612756,PHX,134,Johnson,K. Johnson,-166,155,0,Missed,1,0,0,0,h,MISS Johnson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+345,326,PT02M02.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+346,327,PT01M46.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+347,328,PT01M40.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,14,225,0,Missed,1,0,0,0,v,MISS Schrempf  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+348,329,PT01M37.00S,3,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0,0,0,v,Wingate REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+349,330,PT01M35.00S,3,1610612760,SEA,56,Payton,G. Payton,155,166,0,Made,1,80,81,161,v,Payton  3PT Jump Shot (24 PTS) (Wingate 1 AST),Made Shot,Jump Shot,0,0
+350,331,PT01M11.00S,3,1610612756,PHX,467,Kidd,J. Kidd,6,220,0,Missed,1,0,0,0,h,MISS Kidd  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+351,332,PT01M09.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+352,333,PT00M57.90S,3,1610612760,SEA,64,Perkins,S. Perkins,114,203,0,Missed,1,0,0,0,v,MISS Perkins  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+353,334,PT00M56.20S,3,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+354,335,PT00M49.90S,3,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,Missed,1,0,0,0,h,MISS Ceballos  Layup,Missed Shot,Layup Shot,0,0
+355,335,PT00M49.90S,3,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins BLOCK (3 BLK),,,0,0
+356,336,PT00M48.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+357,337,PT00M26.90S,3,1610612760,SEA,64,Perkins,S. Perkins,-21,75,8,Missed,1,0,0,0,v,MISS Perkins 8' Jump Shot,Missed Shot,Jump Shot,0,0
+358,338,PT00M24.80S,3,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+359,339,PT00M03.90S,3,1610612756,PHX,467,Kidd,J. Kidd,-83,153,17,Made,1,82,81,163,h,Kidd 17' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+360,340,PT00M00.00S,3,1610612760,SEA,56,Payton,G. Payton,101,290,31,Missed,1,0,0,0,v,MISS Payton 31' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+361,342,PT00M00.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Rebound,Rebound,Unknown,0,0
+362,341,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,81,163,,End of 3rd Period (13:20 PM EST),period,end,0,0
+363,343,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,81,163,,Start of 4th Period (13:23 PM EST),period,start,0,0
+364,344,PT11M47.00S,4,1610612756,PHX,330,Manning,D. Manning,0,0,0,Missed,1,0,0,0,h,MISS Manning  Layup,Missed Shot,Layup Shot,0,0
+365,344,PT11M47.00S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins BLOCK (4 BLK),,,0,0
+366,345,PT11M45.00S,4,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+367,346,PT11M43.00S,4,1610612756,PHX,134,Johnson,K. Johnson,-92,47,10,Made,1,84,81,165,h,Johnson 10' Jump Shot (22 PTS),Made Shot,Jump Shot,0,0
+368,347,PT11M30.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,162,153,0,Missed,1,0,0,0,v,MISS Hawkins  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+369,348,PT11M28.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings REBOUND (Off:5 Def:2),Rebound,Unknown,0,0
+370,349,PT11M25.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings OFF.Foul (P2),Foul,Offensive,0,0
+371,350,PT11M25.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings Foul Turnover (P1.T10),Turnover,Foul,0,0
+372,351,PT11M03.00S,4,1610612756,PHX,134,Johnson,K. Johnson,211,75,0,Missed,1,0,0,0,h,MISS Johnson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+373,353,PT10M59.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+374,352,PT10M59.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,Missed,1,0,0,0,h,MISS Ceballos  Tip Shot,Missed Shot,Tip Shot,0,0
+375,354,PT10M58.00S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+376,355,PT10M53.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,Missed,1,0,0,0,v,MISS Payton  Layup,Missed Shot,Layup Shot,0,0
+377,356,PT10M51.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Rebound,Rebound,Unknown,0,0
+378,357,PT10M44.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,0
+379,358,PT10M31.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,Missed,1,0,0,0,v,MISS Hawkins  Layup,Missed Shot,Layup Shot,0,0
+380,358,PT10M31.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos BLOCK (1 BLK),,,0,0
+381,359,PT10M30.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Rebound,Rebound,Unknown,0,0
+382,360,PT10M23.00S,4,1610612760,SEA,766,Wingate,D. Wingate,-170,149,0,Missed,1,0,0,0,v,MISS Wingate  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+383,361,PT10M21.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+384,362,PT10M12.00S,4,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0
+385,362,PT10M12.00S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,Perkins STEAL (2 STL),,,0,0
+386,363,PT09M57.00S,4,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,Missed,1,0,0,0,v,MISS Wingate  Layup,Missed Shot,Layup Shot,0,0
+387,363,PT09M57.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos BLOCK (2 BLK),,,0,0
+388,364,PT09M56.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Rebound,Rebound,Unknown,0,0
+389,365,PT09M56.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official TV,Timeout,Official TV,0,0
+390,366,PT09M56.00S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,SUB: Kemp FOR Perkins,Substitution,,0,0
+391,367,PT09M50.00S,4,1610612760,SEA,56,Payton,G. Payton,-10,227,0,Made,1,84,84,168,v,Payton  3PT Jump Shot (27 PTS) (Cummings 3 AST),Made Shot,Jump Shot,0,0
+392,368,PT09M23.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings P.FOUL (P3.T1),Foul,Personal,0,0
+393,369,PT09M08.00S,4,1610612756,PHX,134,Johnson,K. Johnson,55,58,8,Missed,1,0,0,0,h,MISS Johnson 8' Jump Shot,Missed Shot,Jump Shot,0,0
+394,370,PT09M06.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:4 Def:6),Rebound,Unknown,0,0
+395,371,PT08M56.00S,4,1610612760,SEA,187,Cummings,T. Cummings,-25,158,16,Missed,1,0,0,0,v,MISS Cummings 16' Jump Shot,Missed Shot,Jump Shot,0,0
+396,372,PT08M54.00S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+397,373,PT08M49.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0
+398,374,PT08M36.00S,4,1610612760,SEA,766,Wingate,D. Wingate,-161,162,0,Missed,1,0,0,0,v,MISS Wingate  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+399,375,PT08M33.00S,4,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+400,376,PT08M33.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp P.FOUL (P5.T2),Foul,Personal,0,0
+401,377,PT08M33.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,SUB: Schrempf FOR Kemp,Substitution,,0,0
+402,378,PT08M22.00S,4,1610612756,PHX,330,Manning,D. Manning,-101,129,16,Made,1,86,84,170,h,Manning 16' Jump Shot (9 PTS) (Johnson 7 AST),Made Shot,Jump Shot,0,0
+403,379,PT08M02.00S,4,1610612760,SEA,56,Payton,G. Payton,84,10,8,Made,1,86,86,172,v,Payton 8' Running Jump Shot (29 PTS) (Wingate 2 AST),Made Shot,Running Jump Shot,0,0
+404,380,PT07M42.00S,4,1610612756,PHX,330,Manning,D. Manning,-70,15,7,Made,1,88,86,174,h,Manning 7' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+405,381,PT07M23.00S,4,1610612760,SEA,766,Wingate,D. Wingate,-224,-1,0,Made,1,88,89,177,v,Wingate  3PT Jump Shot (8 PTS) (Schrempf 4 AST),Made Shot,Jump Shot,0,0
+406,382,PT07M01.00S,4,1610612756,PHX,364,Chapman,R. Chapman,118,199,0,Made,1,91,89,180,h,Chapman  3PT Jump Shot (14 PTS) (Johnson 8 AST),Made Shot,Jump Shot,0,0
+407,383,PT06M44.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton Lost Ball Turnover (P5.T11),Turnover,Lost Ball,0,0
+408,383,PT06M44.00S,4,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning STEAL (1 STL),,,0,0
+409,384,PT06M40.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf S.FOUL (P4.T3),Foul,Shooting,0,0
+410,385,PT06M40.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+411,386,PT06M40.00S,4,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,SUB: Kidd FOR Johnson,Substitution,,0,0
+412,387,PT06M40.00S,4,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0,0,0,v,SUB: Perkins FOR Wingate,Substitution,,0,0
+413,388,PT06M40.00S,4,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,SUB: Williams FOR Manning,Substitution,,0,0
+414,389,PT06M40.00S,4,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,92,89,181,h,Chapman Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+415,390,PT06M40.00S,4,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,MISS Chapman Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+416,391,PT06M40.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+417,392,PT06M27.00S,4,1610612760,SEA,64,Perkins,S. Perkins,220,28,0,Missed,1,0,0,0,v,MISS Perkins  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+418,393,PT06M25.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+419,394,PT06M17.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,Missed,1,0,0,0,h,MISS Ceballos  Layup,Missed Shot,Layup Shot,0,0
+420,394,PT06M17.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings BLOCK (2 BLK),,,0,0
+421,395,PT06M16.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+422,396,PT06M11.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,Made,1,92,91,183,v,Hawkins  Layup (11 PTS) (Payton 5 AST),Made Shot,Layup Shot,0,0
+423,397,PT05M55.00S,4,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,Made,1,94,91,185,h,Chapman  Layup (17 PTS) (Kidd 9 AST),Made Shot,Layup Shot,0,0
+424,398,PT05M46.00S,4,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,Chapman P.FOUL (P2.T1),Foul,Personal,0,0
+425,399,PT05M32.00S,4,1610612760,SEA,56,Payton,G. Payton,166,151,0,Made,1,94,94,188,v,Payton  3PT Jump Shot (32 PTS) (Perkins 2 AST),Made Shot,Jump Shot,0,0
+426,400,PT05M13.00S,4,1610612756,PHX,364,Chapman,R. Chapman,6,227,0,Missed,1,0,0,0,h,MISS Chapman  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+427,401,PT05M11.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+428,402,PT05M00.00S,4,1610612760,SEA,187,Cummings,T. Cummings,-153,52,16,Missed,1,0,0,0,v,MISS Cummings 16' Jump Shot,Missed Shot,Jump Shot,0,0
+429,403,PT04M58.00S,4,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+430,404,PT04M51.00S,4,1610612756,PHX,364,Chapman,R. Chapman,-192,121,0,Made,1,97,94,191,h,Chapman  3PT Jump Shot (20 PTS) (Kidd 10 AST),Made Shot,Jump Shot,0,0
+431,405,PT04M28.00S,4,1610612760,SEA,56,Payton,G. Payton,-170,160,0,Missed,1,0,0,0,v,MISS Payton  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+432,406,PT04M25.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+433,407,PT04M23.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,Missed,1,0,0,0,v,MISS Payton  Layup,Missed Shot,Layup Shot,0,0
+434,407,PT04M23.00S,4,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Williams BLOCK (2 BLK),,,0,0
+435,408,PT04M21.00S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+436,409,PT04M03.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,Cummings S.FOUL (P4.T4),Foul,Shooting,0,0
+437,410,PT04M03.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+438,412,PT04M03.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0,0,0,v,SUB: Kemp FOR Cummings,Substitution,,0,0
+439,413,PT04M03.00S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,98,94,192,h,Person Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0
+440,414,PT04M03.00S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,99,94,193,h,Person Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+441,415,PT03M43.00S,4,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Williams S.FOUL (P2.T2),Foul,Shooting,0,0
+442,416,PT03M43.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,99,95,194,v,Kemp Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0
+443,417,PT03M43.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,99,96,195,v,Kemp Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0
+444,418,PT03M21.00S,4,1610612756,PHX,445,Person,W. Person,-140,179,0,Missed,1,0,0,0,h,MISS Person  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+445,420,PT03M20.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,Ceballos REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+446,419,PT03M20.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,Made,1,101,96,197,h,Ceballos  Layup (6 PTS),Made Shot,Layup Shot,0,0
+447,421,PT03M04.00S,4,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,Chapman P.FOUL (P3.T3),Foul,Personal,0,0
+448,422,PT02M51.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,-88,216,0,Missed,1,0,0,0,v,MISS Schrempf  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+449,423,PT02M49.00S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+450,424,PT02M29.00S,4,1610612756,PHX,467,Kidd,J. Kidd,140,168,22,Missed,1,0,0,0,h,MISS Kidd 22' Jump Shot,Missed Shot,Jump Shot,0,0
+451,425,PT02M27.00S,4,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+452,426,PT02M26.00S,4,1610612756,PHX,73,Williams,H. Williams,0,0,0,Made,1,103,96,199,h,Williams  Layup (8 PTS),Made Shot,Layup Shot,0,0
+453,427,PT02M18.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,168,151,0,Made,1,103,99,202,v,Hawkins  3PT Jump Shot (14 PTS) (Payton 6 AST),Made Shot,Jump Shot,0,0
+454,428,PT01M57.00S,4,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,Made,1,105,99,204,h,Chapman  Driving Layup (22 PTS),Made Shot,Driving Layup Shot,0,0
+455,429,PT01M57.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+456,430,PT01M57.00S,4,1610612756,PHX,76,Ceballos,C. Ceballos,0,0,0,,0,0,0,0,h,SUB: Manning FOR Ceballos,Substitution,,0,0
+457,431,PT01M56.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton Lost Ball Turnover (P6.T12),Turnover,Lost Ball,0,0
+458,432,PT01M41.00S,4,1610612756,PHX,364,Chapman,R. Chapman,-90,197,0,Missed,1,0,0,0,h,MISS Chapman  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+459,433,PT01M39.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0,0,0,v,Schrempf REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+460,434,PT01M34.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp Out Of Bounds Turnover (P3.T13),Turnover,Out Of Bounds,0,0
+461,435,PT01M34.00S,4,1610612756,PHX,73,Williams,H. Williams,0,0,0,,0,0,0,0,h,SUB: Johnson FOR Williams,Substitution,,0,0
+462,436,PT01M16.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0,0,0,v,Payton P.FOUL (P2.PN),Foul,Personal,0,0
+463,437,PT01M16.00S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,106,99,205,h,Person Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0
+464,438,PT01M16.00S,4,1610612756,PHX,134,Johnson,K. Johnson,0,0,0,,0,0,0,0,h,SUB: Williams FOR Johnson,Substitution,,0,0
+465,439,PT01M16.00S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,107,99,206,h,Person Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0
+466,440,PT01M05.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,168,147,0,Missed,1,0,0,0,v,MISS Hawkins  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+467,441,PT01M00.00S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,0,0,0,h,Person REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+468,442,PT00M42.90S,4,1610612756,PHX,364,Chapman,R. Chapman,107,39,11,Missed,1,0,0,0,h,MISS Chapman 11' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+469,443,PT00M41.20S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0,0,0,h,Kidd REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+470,444,PT00M30.70S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0,0,0,v,Hawkins P.FOUL (P3.PN),Foul,Personal,0,0
+471,445,PT00M30.70S,4,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,0,0,0,h,MISS Chapman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+472,446,PT00M30.70S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+473,447,PT00M30.70S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0,0,0,v,SUB: Wingate FOR Perkins,Substitution,,0,0
+474,448,PT00M30.70S,4,1610612756,PHX,364,Chapman,R. Chapman,0,0,0,,0,108,99,207,h,Chapman Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+475,449,PT00M30.70S,4,0,,1610612760,,,0,0,0,,0,0,0,0,v,SuperSonics Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,0
+476,450,PT00M20.90S,4,1610612760,SEA,431,Kemp,S. Kemp,-138,177,0,Missed,1,0,0,0,v,MISS Kemp  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+477,450,PT00M20.90S,4,1610612756,PHX,330,Manning,D. Manning,0,0,0,,0,0,0,0,h,Manning BLOCK (3 BLK),,,0,0
+478,451,PT00M18.50S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0,0,0,v,Kemp REBOUND (Off:5 Def:6),Rebound,Unknown,0,0
+479,452,PT00M17.50S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Made,1,108,101,209,v,Kemp  Layup (24 PTS),Made Shot,Layup Shot,0,0
+480,453,PT00M12.20S,4,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0,0,0,v,Wingate P.FOUL (P2.PN),Foul,Personal,0,0
+481,454,PT00M12.20S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,109,101,210,h,Person Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,0
+482,455,PT00M12.20S,4,1610612756,PHX,445,Person,W. Person,0,0,0,,0,110,101,211,h,Person Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,0
+483,456,PT00M03.60S,4,1610612760,SEA,56,Payton,G. Payton,-75,21,8,Made,1,110,103,213,v,Payton 8' Jump Shot (34 PTS),Made Shot,Jump Shot,0,0
+484,457,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,103,213,,End of 4th Period (13:54 PM EST),period,end,0,0

@@ -1,0 +1,479 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:41 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,Jump Ball Pachulia vs. Howard: Tip to Beverley,Jump Ball,,1,0
+3,2,PT11M34.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0
+4,3,PT11M34.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley IN.FOUL (P1.T1) (L.Richardson),Foul,Inbound,1,0
+5,4,PT11M34.00S,1,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,1,0,1,h,Barea Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+6,6,PT11M34.00S,1,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,2,0,2,h,Barea Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+7,8,PT11M15.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,-4,-6,1,Made,1,2,2,4,v,Ariza 1' Driving Layup (2 PTS) (McDaniels 1 AST),Made Shot,Driving Layup Shot,1,0
+8,9,PT10M57.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,120,3,12,Made,1,4,2,6,h,Nowitzki 12' Turnaround Jump Shot (2 PTS) (Barea 1 AST),Made Shot,Turnaround Jump Shot,1,0
+9,10,PT10M51.00S,1,1610612745,HOU,203909,McDaniels,K. McDaniels,4,3,1,Made,1,4,4,8,v,McDaniels 1' Running Layup (2 PTS) (Harden 1 AST),Made Shot,Running Layup Shot,1,0
+10,11,PT10M25.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0
+11,12,PT10M10.00S,1,1610612745,HOU,201935,Harden,J. Harden,-56,139,15,Missed,1,0,0,0,v,MISS Harden 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+12,13,PT10M09.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+13,14,PT09M54.00S,1,1610612742,DAL,200826,Barea,J. Barea,-143,139,20,Made,1,6,4,10,h,Barea 20' Pullup Jump Shot (4 PTS) (Anderson 1 AST),Made Shot,Pullup Jump shot,1,0
+14,15,PT09M39.00S,1,1610612745,HOU,201935,Harden,J. Harden,-210,131,25,Made,1,6,7,13,v,Harden 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,0
+15,16,PT09M25.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,227,16,0,Missed,1,0,0,0,h,MISS Anderson  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+16,17,PT09M24.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+17,18,PT09M17.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,Anderson S.FOUL (P1.T1) (L.Richardson),Foul,Shooting,1,0
+18,19,PT09M17.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,6,8,14,v,Harden Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0
+19,21,PT09M17.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,6,9,15,v,Harden Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0
+20,23,PT09M17.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,6,10,16,v,Harden Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0
+21,27,PT09M00.00S,1,1610612742,DAL,200826,Barea,J. Barea,45,33,6,Missed,1,0,0,0,h,MISS Barea 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+22,27,PT09M00.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard BLOCK (1 BLK),,,1,0
+23,28,PT09M00.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+24,29,PT08M54.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,Anderson Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+25,29,PT08M54.00S,1,1610612745,HOU,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,v,McDaniels STEAL (1 STL),,,1,0
+26,30,PT08M49.00S,1,1610612745,HOU,203909,McDaniels,K. McDaniels,0,1,0,Made,1,6,12,18,v,McDaniels  Alley Oop Dunk (4 PTS) (Ariza 1 AST),Made Shot,Alley Oop Dunk Shot,1,0
+27,31,PT08M48.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+28,34,PT08M28.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-97,16,10,Missed,1,0,0,0,h,MISS Nowitzki 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+29,35,PT08M27.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+30,36,PT08M18.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,-148,7,15,Missed,1,0,0,0,h,MISS Anderson 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+31,37,PT08M17.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+32,38,PT08M10.00S,1,1610612745,HOU,201935,Harden,J. Harden,45,247,25,Missed,1,0,0,0,v,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+33,39,PT08M10.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+34,40,PT08M00.00S,1,1610612742,DAL,200826,Barea,J. Barea,-145,129,19,Missed,1,0,0,0,h,MISS Barea 19' Jump Shot,Missed Shot,Jump Shot,1,0
+35,41,PT07M59.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+36,42,PT07M52.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,9,2,1,Made,1,6,14,20,v,Beverley 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,0
+37,43,PT07M36.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,-122,21,12,Missed,1,0,0,0,h,MISS Matthews 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+38,44,PT07M35.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+39,45,PT07M30.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0
+40,46,PT07M19.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,-7,2,1,Made,1,8,14,22,h,Pachulia 1' Cutting Finger Roll Layup Shot (2 PTS) (Barea 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,0
+41,47,PT06M59.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+42,47,PT06M59.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,Pachulia STEAL (1 STL),,,1,0
+43,48,PT06M51.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,-210,124,24,Missed,1,0,0,0,h,MISS Matthews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+44,49,PT06M50.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+45,50,PT06M42.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,Pachulia P.FOUL (P1.T2) (M.McCutchen),Foul,Personal,1,0
+46,51,PT06M42.00S,1,1610612745,HOU,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,v,SUB: Brewer FOR McDaniels,Substitution,,0,0
+47,52,PT06M42.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,SUB: Harris FOR Anderson,Substitution,,0,0
+48,53,PT06M42.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,SUB: Lee FOR Nowitzki,Substitution,,0,0
+49,54,PT06M34.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,1,0,Made,1,8,16,24,v,Howard  Dunk (2 PTS) (Beverley 1 AST),Made Shot,Dunk Shot,1,0
+50,55,PT06M16.00S,1,1610612742,DAL,101135,Lee,D. Lee,9,-6,1,Made,1,10,16,26,h,Lee 1' Cutting Layup Shot (2 PTS) (Pachulia 1 AST),Made Shot,Cutting Layup Shot,1,0
+51,56,PT05M52.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,-42,47,6,Missed,1,0,0,0,v,MISS Brewer 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+52,57,PT05M51.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+53,59,PT05M47.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,SUB: Terry FOR Beverley,Substitution,,0,0
+54,61,PT05M31.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,-228,41,0,Missed,1,0,0,0,h,MISS Matthews  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+55,61,PT05M31.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden BLOCK (1 BLK),,,1,0
+56,62,PT05M30.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+57,64,PT05M16.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0
+58,64,PT05M16.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,Pachulia STEAL (2 STL),,,1,0
+59,65,PT05M04.00S,1,1610612742,DAL,200826,Barea,J. Barea,184,160,24,Made,1,13,16,29,h,Barea 24' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,0
+60,66,PT04M53.00S,1,1610612745,HOU,201935,Harden,J. Harden,-11,23,3,Missed,1,0,0,0,v,MISS Harden 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+61,67,PT04M52.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+62,68,PT04M52.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,SUB: Capela FOR Ariza,Substitution,,0,0
+63,69,PT04M52.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,SUB: Beasley FOR Howard,Substitution,,0,0
+64,70,PT04M52.00S,1,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,SUB: Felton FOR Barea,Substitution,,0,0
+65,72,PT04M38.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee OFF.Foul (P1) (M.McCutchen),Foul,Offensive,1,0
+66,73,PT04M38.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee Foul Turnover (P1.T3),Turnover,Foul,1,0
+67,74,PT04M20.00S,1,1610612745,HOU,201563,Beasley,M. Beasley,25,56,6,Made,1,13,18,31,v,Beasley 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,0
+68,75,PT04M05.00S,1,1610612742,DAL,2734,Harris,D. Harris,-202,154,25,Missed,1,0,0,0,h,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+69,76,PT04M04.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+70,77,PT03M57.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+71,77,PT03M57.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews STEAL (1 STL),,,1,0
+72,78,PT03M52.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,11,1,Missed,1,0,0,0,h,MISS Pachulia 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,0
+73,79,PT03M50.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,Capela REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+74,80,PT03M43.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,-232,16,0,Missed,1,0,0,0,v,MISS Brewer  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+75,81,PT03M42.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+76,82,PT03M33.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,Capela Shooting Block Foul (P1.T2) (L.Richardson),Foul,Shooting Block,1,0
+77,83,PT03M33.00S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,MISS Felton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+78,84,PT03M33.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,0
+79,85,PT03M33.00S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,14,18,32,h,Felton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+80,87,PT03M18.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,Harris P.FOUL (P1.T3) (M.McCutchen),Foul,Personal,1,0
+81,88,PT03M04.00S,1,1610612745,HOU,201935,Harden,J. Harden,87,228,24,Missed,1,0,0,0,v,MISS Harden 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+82,89,PT03M03.00S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+83,90,PT02M57.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,v,Brewer P.FOUL (P1.T3) (L.Richardson),Foul,Personal,1,0
+84,91,PT02M57.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+85,94,PT02M57.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,SUB: Nowitzki FOR Pachulia,Substitution,,0,0
+86,95,PT02M49.00S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+87,95,PT02M49.00S,1,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley STEAL (1 STL),,,1,0
+88,96,PT02M43.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,-7,8,1,Missed,1,0,0,0,v,MISS Brewer 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+89,107,PT02M43.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,Capela REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+90,106,PT02M43.00S,1,1610612745,HOU,203991,Capela,C. Capela,-19,2,2,Missed,1,0,0,0,v,MISS Capela 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+91,97,PT02M42.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+92,98,PT02M26.00S,1,1610612742,DAL,2734,Harris,D. Harris,-25,82,9,Missed,1,0,0,0,h,MISS Harris 9' Jump Shot,Missed Shot,Jump Shot,1,0
+93,99,PT02M25.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+94,100,PT02M23.00S,1,1610612742,DAL,101135,Lee,D. Lee,1,-1,0,Made,1,16,18,34,h,Lee  Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,0
+95,101,PT02M02.00S,1,1610612745,HOU,1891,Terry,J. Terry,30,242,24,Missed,1,0,0,0,v,MISS Terry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+96,102,PT02M01.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+97,103,PT01M52.00S,1,1610612742,DAL,101109,Felton,R. Felton,38,257,26,Missed,1,0,0,0,h,MISS Felton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+98,104,PT01M51.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,Capela REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+99,105,PT01M47.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,42,16,4,Made,1,16,20,36,v,Brewer 4' Driving Bank Shot (2 PTS) (Harden 2 AST),Made Shot,Driving Bank shot,1,0
+100,108,PT01M22.00S,1,1610612742,DAL,2734,Harris,D. Harris,92,228,25,Missed,1,0,0,0,h,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+101,110,PT01M21.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+102,111,PT01M15.00S,1,1610612742,DAL,2734,Harris,D. Harris,30,23,4,Missed,1,0,0,0,h,MISS Harris 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+103,111,PT01M15.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,Capela BLOCK (1 BLK),,,1,0
+104,112,PT01M15.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+105,113,PT01M15.00S,1,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,SUB: Ariza FOR Beasley,Substitution,,0,0
+106,114,PT01M13.00S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+107,114,PT01M13.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,Capela STEAL (1 STL),,,1,0
+108,115,PT01M02.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,v,Brewer Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0
+109,116,PT00M39.90S,1,1610612742,DAL,101135,Lee,D. Lee,-43,21,5,Missed,1,0,0,0,h,MISS Lee 5' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,0
+110,117,PT00M39.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+111,118,PT00M39.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki L.B.FOUL (P1.T4) (M.McCutchen),Foul,Loose Ball,1,0
+112,123,PT00M29.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee S.FOUL (P2.PN) (L.Richardson),Foul,Shooting,1,0
+113,124,PT00M29.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,16,21,37,v,Brewer Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+114,126,PT00M29.00S,1,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,SUB: McDaniels FOR Terry,Substitution,,0,0
+115,127,PT00M29.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,SUB: Howard FOR Capela,Substitution,,0,0
+116,128,PT00M29.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,SUB: Anderson FOR Lee,Substitution,,0,0
+117,129,PT00M29.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,16,22,38,v,Brewer Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+118,131,PT00M08.80S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard S.FOUL (P1.T4) (M.McCutchen),Foul,Shooting,1,0
+119,132,PT00M08.80S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,17,22,39,h,Nowitzki Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+120,135,PT00M08.80S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,SUB: Villanueva FOR Felton,Substitution,,0,0
+121,136,PT00M08.80S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,SUB: Beasley FOR Howard,Substitution,,0,0
+122,137,PT00M08.80S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,18,22,40,h,Nowitzki Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+123,139,PT00M01.00S,1,1610612745,HOU,201935,Harden,J. Harden,-63,28,7,Missed,1,0,0,0,v,MISS Harden 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+124,140,PT00M00.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+125,141,PT00M00.00S,1,0,,0,,,0,0,0,,0,18,22,40,,End of 1st Period (10:10 PM EST),period,end,0,0
+126,143,PT12M00.00S,2,0,,0,,,0,0,0,,0,18,22,40,,Start of 2nd Period (10:14 PM EST),period,start,0,0
+127,144,PT11M38.00S,2,1610612742,DAL,2734,Harris,D. Harris,232,41,24,Made,1,21,22,43,h,Harris 24' 3PT Jump Shot (3 PTS) (Nowitzki 1 AST),Made Shot,Jump Shot,1,0
+128,145,PT11M28.00S,2,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,Terry Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+129,145,PT11M28.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton STEAL (1 STL),,,1,0
+130,146,PT11M24.00S,2,1610612742,DAL,101109,Felton,R. Felton,-11,0,1,Made,1,23,22,45,h,Felton 1' Running Layup (3 PTS),Made Shot,Running Layup Shot,1,0
+131,147,PT11M10.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki S.FOUL (P2.T1) (M.McCutchen),Foul,Shooting,1,0
+132,148,PT11M10.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+133,149,PT11M10.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0
+134,150,PT11M10.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+135,152,PT11M10.00S,2,1610612745,HOU,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,v,McDaniels REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+136,153,PT11M02.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,236,31,24,Missed,1,0,0,0,v,MISS Ariza 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+137,154,PT11M02.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+138,155,PT11M02.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard L.B.FOUL (P2.T1) (M.McCutchen),Foul,Loose Ball,1,0
+139,156,PT10M38.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,94,28,10,Missed,1,0,0,0,h,MISS Nowitzki 10' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+140,157,PT10M37.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+141,158,PT10M37.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0
+142,159,PT10M29.00S,2,1610612745,HOU,1891,Terry,J. Terry,25,7,3,Missed,1,0,0,0,v,MISS Terry 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+143,160,PT10M28.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+144,161,PT10M19.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-153,8,15,Made,1,25,22,47,h,Nowitzki 15' Jump Shot (6 PTS) (Barea 3 AST),Made Shot,Jump Shot,1,0
+145,162,PT10M18.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+146,165,PT10M18.00S,2,1610612745,HOU,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,v,SUB: Beasley FOR McDaniels,Substitution,,0,0
+147,166,PT10M18.00S,2,1610612745,HOU,202726,Goudelock,A. Goudelock,0,0,0,,0,0,0,0,v,SUB: Beverley FOR Goudelock,Substitution,,0,0
+148,167,PT10M06.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,10,51,5,Made,1,25,24,49,v,Beverley 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,0
+149,168,PT09M47.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+150,169,PT09M27.00S,2,1610612745,HOU,2730,Howard,D. Howard,-66,13,7,Made,1,25,26,51,v,Howard 7' Turnaround Hook Shot (4 PTS) (Ariza 2 AST),Made Shot,Turnaround Hook Shot,1,0
+151,170,PT09M16.00S,2,1610612742,DAL,200826,Barea,J. Barea,-115,111,16,Made,1,27,26,53,h,Barea 16' Jump Shot (9 PTS),Made Shot,Jump Shot,1,0
+152,171,PT09M08.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,-168,141,22,Missed,1,0,0,0,v,MISS Ariza 22' Jump Shot,Missed Shot,Jump Shot,1,0
+153,172,PT09M06.00S,2,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+154,173,PT09M01.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,153,200,25,Made,1,27,29,56,v,Beverley 25' 3PT Jump Shot (7 PTS) (Beasley 1 AST),Made Shot,Jump Shot,1,0
+155,176,PT08M38.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard Violation:Defensive Goaltending (L.Richardson),Violation,Defensive Goaltending,0,0
+156,174,PT08M38.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,4,21,2,Made,1,29,29,58,h,Mejri 2' Turnaround Hook Shot (2 PTS) (Felton 1 AST),Made Shot,Turnaround Hook Shot,1,0
+157,177,PT08M27.00S,2,1610612745,HOU,201563,Beasley,M. Beasley,69,82,11,Made,1,29,31,60,v,Beasley 11' Turnaround Jump Shot (4 PTS) (Beverley 2 AST),Made Shot,Turnaround Jump Shot,1,0
+158,178,PT08M27.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,Harris S.FOUL (P2.T2) (M.McCutchen),Foul,Shooting,1,0
+159,179,PT08M27.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,SUB: Anderson FOR Harris,Substitution,,0,0
+160,180,PT08M27.00S,2,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,29,32,61,v,Beasley Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+161,182,PT08M09.00S,2,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,Anderson Traveling Turnover (P2.T8),Turnover,Traveling,1,0
+162,183,PT08M00.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,-165,13,17,Missed,1,0,0,0,v,MISS Beverley 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+163,184,PT07M59.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+164,185,PT07M57.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley Personal Block Foul (P2.T2) (L.Richardson),Foul,Personal Block,1,0
+165,186,PT07M57.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,SUB: Matthews FOR Felton,Substitution,,0,0
+166,187,PT07M57.00S,2,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,SUB: Harden FOR Terry,Substitution,,0,0
+167,189,PT07M49.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,1,0,Made,1,31,32,63,h,Mejri  Cutting Dunk Shot (4 PTS) (Barea 4 AST),Made Shot,Cutting Dunk Shot,1,0
+168,190,PT07M27.00S,2,1610612745,HOU,201563,Beasley,M. Beasley,-115,36,12,Made,1,31,34,65,v,Beasley 12' Turnaround Jump Shot (7 PTS) (Harden 3 AST),Made Shot,Turnaround Jump Shot,1,0
+169,191,PT07M03.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,213,129,25,Made,1,34,34,68,h,Matthews 25' 3PT Jump Shot (3 PTS) (Anderson 2 AST),Made Shot,Jump Shot,1,0
+170,192,PT06M35.00S,2,1610612745,HOU,2730,Howard,D. Howard,17,13,2,Missed,1,0,0,0,v,MISS Howard 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+171,193,PT06M34.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+172,195,PT06M34.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+173,197,PT06M34.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,SUB: Lee FOR Nowitzki,Substitution,,0,0
+174,199,PT06M17.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+175,200,PT05M55.00S,2,1610612745,HOU,201563,Beasley,M. Beasley,55,82,10,Made,1,34,36,70,v,Beasley 10' Driving Floating Jump Shot (9 PTS) (Ariza 3 AST),Made Shot,Driving Floating Jump Shot,1,0
+176,201,PT05M41.00S,2,1610612742,DAL,1626147,Anderson,J. Anderson,10,178,18,Missed,1,0,0,0,h,MISS Anderson 18' Jump Shot,Missed Shot,Jump Shot,1,0
+177,202,PT05M40.00S,2,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+178,203,PT05M26.00S,2,1610612745,HOU,201563,Beasley,M. Beasley,-11,43,4,Missed,1,0,0,0,v,MISS Beasley 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+179,203,PT05M26.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri BLOCK (1 BLK),,,1,0
+180,204,PT05M25.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+181,205,PT05M20.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,202,134,24,Missed,1,0,0,0,h,MISS Matthews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+182,206,PT05M19.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+183,207,PT05M14.00S,2,1610612742,DAL,200826,Barea,J. Barea,-232,16,0,Made,1,37,36,73,h,Barea  3PT Jump Shot (12 PTS) (Mejri 1 AST),Made Shot,Jump Shot,1,0
+184,208,PT05M02.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0
+185,208,PT05M02.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee STEAL (1 STL),,,1,0
+186,209,PT04M46.00S,2,1610612742,DAL,200826,Barea,J. Barea,-196,139,24,Made,1,40,36,76,h,Barea 24' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,0
+187,210,PT04M45.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+188,212,PT04M45.00S,2,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,SUB: Felton FOR Anderson,Substitution,,0,0
+189,213,PT04M45.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,SUB: Harris FOR Barea,Substitution,,0,0
+190,214,PT04M45.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,SUB: Capela FOR Howard,Substitution,,0,0
+191,215,PT04M33.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee P.FOUL (P3.T3) (M.Smith),Foul,Personal,1,0
+192,216,PT04M27.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0
+193,216,PT04M27.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews STEAL (2 STL),,,1,0
+194,217,PT04M26.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden P.FOUL (P1.T3) (L.Richardson),Foul,Personal,1,0
+195,218,PT04M16.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,223,33,0,Made,1,43,36,79,h,Matthews  3PT Jump Shot (6 PTS) (Felton 2 AST),Made Shot,Jump Shot,1,0
+196,219,PT03M59.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Bad Pass Turnover (P5.T10),Turnover,Bad Pass,1,0
+197,219,PT03M59.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee STEAL (2 STL),,,1,0
+198,220,PT03M51.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,-227,19,0,Made,1,46,36,82,h,Matthews  3PT Jump Shot (9 PTS) (Felton 3 AST),Made Shot,Jump Shot,1,0
+199,221,PT03M41.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+200,223,PT03M41.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,SUB: Pachulia FOR Mejri,Substitution,,0,0
+201,224,PT03M41.00S,2,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,SUB: McDaniels FOR Beasley,Substitution,,0,0
+202,225,PT03M33.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,17,0,2,Made,1,46,38,84,v,Ariza 2' Driving Finger Roll Layup (4 PTS) (Capela 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+203,226,PT03M14.00S,2,1610612742,DAL,101135,Lee,D. Lee,14,0,1,Made,1,48,38,86,h,Lee 1' Cutting Finger Roll Layup Shot (6 PTS) (Pachulia 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,0
+204,227,PT02M59.00S,2,1610612745,HOU,203991,Capela,C. Capela,-14,46,5,Made,1,48,40,88,v,Capela 5' Jump Shot (2 PTS) (McDaniels 2 AST),Made Shot,Jump Shot,1,0
+205,228,PT02M36.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,181,110,21,Missed,1,0,0,0,h,MISS Matthews 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+206,229,PT02M35.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+207,230,PT02M26.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,30,82,9,Missed,1,0,0,0,v,MISS Beverley 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,0
+208,231,PT02M25.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+209,232,PT02M10.00S,2,1610612742,DAL,101109,Felton,R. Felton,76,21,8,Missed,1,0,0,0,h,MISS Felton 8' Driving Bank Shot,Missed Shot,Driving Bank shot,1,0
+210,233,PT02M09.00S,2,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,Pachulia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+211,234,PT02M00.00S,2,1610612742,DAL,101109,Felton,R. Felton,158,100,19,Missed,1,0,0,0,h,MISS Felton 19' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+212,236,PT01M59.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+213,235,PT01M59.00S,2,1610612742,DAL,101135,Lee,D. Lee,-2,16,2,Missed,1,0,0,0,h,MISS Lee 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+214,238,PT01M58.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+215,237,PT01M58.00S,2,1610612742,DAL,101135,Lee,D. Lee,15,-1,2,Made,1,50,40,90,h,Lee 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,0
+216,239,PT01M42.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza OFF.Foul (P1) (L.Richardson),Foul,Offensive,1,0
+217,240,PT01M42.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza Foul Turnover (P1.T11),Turnover,Foul,1,0
+218,241,PT01M42.00S,2,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,SUB: Howard FOR Capela,Substitution,,0,0
+219,243,PT01M42.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,SUB: Barea FOR Lee,Substitution,,0,0
+220,244,PT01M42.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,SUB: Nowitzki FOR Felton,Substitution,,0,0
+221,246,PT01M23.00S,2,1610612742,DAL,200826,Barea,J. Barea,1,11,1,Made,1,52,40,92,h,Barea 1' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+222,247,PT01M10.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,228,0,0,Missed,1,0,0,0,v,MISS Beverley  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+223,248,PT01M09.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+224,249,PT01M04.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,Harris Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+225,249,PT01M04.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza STEAL (1 STL),,,1,0
+226,250,PT00M41.90S,2,1610612745,HOU,201935,Harden,J. Harden,-4,190,19,Made,1,52,42,94,v,Harden 19' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,0
+227,251,PT00M32.90S,2,1610612742,DAL,200826,Barea,J. Barea,-122,218,25,Missed,1,0,0,0,h,MISS Barea 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+228,252,PT00M31.60S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+229,253,PT00M23.90S,2,1610612745,HOU,201935,Harden,J. Harden,-96,92,13,Made,1,52,44,96,v,Harden 13' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,0
+230,255,PT00M00.00S,2,0,,0,,,0,0,0,,0,52,44,96,,End of 2nd Period (10:41 PM EST),period,end,0,0
+231,256,PT12M00.00S,3,0,,0,,,0,0,0,,0,52,44,96,,Start of 3rd Period (10:58 PM EST),period,start,0,0
+232,257,PT11M50.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley P.FOUL (P3.T1) (L.Richardson),Foul,Personal,1,0
+233,258,PT11M40.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,138,203,25,Missed,1,0,0,0,h,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+234,259,PT11M40.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+235,260,PT11M33.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,-88,223,24,Made,1,52,47,99,v,Ariza 24' 3PT Jump Shot (7 PTS) (Beverley 3 AST),Made Shot,Jump Shot,1,0
+236,261,PT11M23.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,-12,-6,1,Made,1,54,47,101,h,Anderson 1' Cutting Layup Shot (2 PTS) (Barea 5 AST),Made Shot,Cutting Layup Shot,1,0
+237,262,PT10M57.00S,3,1610612745,HOU,201935,Harden,J. Harden,228,-6,0,Made,1,54,50,104,v,Harden  3PT Jump Shot (13 PTS),Made Shot,Jump Shot,1,0
+238,263,PT10M47.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden S.FOUL (P2.T2) (M.Smith),Foul,Shooting,1,0
+239,264,PT10M47.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,55,50,105,h,Pachulia Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+240,266,PT10M47.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,56,50,106,h,Pachulia Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+241,268,PT10M30.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,1,0,Made,1,56,52,108,v,Howard  Running Alley Oop Dunk Shot (6 PTS) (Ariza 4 AST),Made Shot,Running Alley Oop Dunk Shot,1,0
+242,269,PT10M05.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,-187,151,24,Made,1,59,52,111,h,Matthews 24' 3PT Jump Shot (12 PTS) (Barea 6 AST),Made Shot,Jump Shot,1,0
+243,270,PT09M52.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+244,273,PT09M27.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,-94,100,14,Missed,1,0,0,0,h,MISS Pachulia 14' Jump Shot,Missed Shot,Jump Shot,1,0
+245,274,PT09M26.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+246,275,PT09M18.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,137,159,21,Missed,1,0,0,0,v,MISS Ariza 21' Jump Shot,Missed Shot,Jump Shot,1,0
+247,276,PT09M17.00S,3,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,Barea REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+248,277,PT08M53.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,96,31,10,Made,1,61,52,113,h,Anderson 10' Driving Bank Shot (4 PTS),Made Shot,Driving Bank shot,1,0
+249,278,PT08M38.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki P.FOUL (P3.T1) (L.Richardson),Foul,Personal,1,0
+250,279,PT08M38.00S,3,1610612745,HOU,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,v,SUB: Brewer FOR McDaniels,Substitution,,0,0
+251,280,PT08M24.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,235,-1,24,Missed,1,0,0,0,v,MISS Brewer 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+252,281,PT08M23.00S,3,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,Barea REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+253,282,PT08M14.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley P.FOUL (P4.T3) (M.McCutchen),Foul,Personal,1,0
+254,283,PT07M59.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+255,285,PT07M40.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,-58,43,7,Missed,1,0,0,0,v,MISS Brewer 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,0
+256,286,PT07M40.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+257,287,PT07M40.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,Pachulia P.FOUL (P2.T2) (M.McCutchen),Foul,Personal,1,0
+258,288,PT07M33.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,-6,11,1,Made,1,61,54,115,v,Ariza 1' Cutting Layup Shot (9 PTS) (Howard 1 AST),Made Shot,Cutting Layup Shot,1,0
+259,289,PT07M22.00S,3,1610612742,DAL,200826,Barea,J. Barea,168,144,22,Missed,1,0,0,0,h,MISS Barea 22' Jump Shot,Missed Shot,Jump Shot,1,0
+260,290,PT07M20.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,Pachulia REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+261,291,PT07M19.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,-11,7,1,Made,1,63,54,117,h,Pachulia 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,0
+262,292,PT07M05.00S,3,1610612745,HOU,201935,Harden,J. Harden,-104,223,25,Missed,1,0,0,0,v,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+263,293,PT07M04.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+264,294,PT07M02.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,1,0,Made,1,63,56,119,v,Howard  Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,1,0
+265,295,PT06M33.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,122,208,24,Missed,1,0,0,0,h,MISS Nowitzki 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+266,296,PT06M32.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+267,297,PT06M18.00S,3,1610612745,HOU,2730,Howard,D. Howard,73,18,8,Missed,1,0,0,0,v,MISS Howard 8' Hook Shot,Missed Shot,Hook Shot,1,0
+268,298,PT06M18.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+269,299,PT06M02.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,163,21,16,Made,1,65,56,121,h,Matthews 16' Jump Shot (14 PTS) (Pachulia 3 AST),Made Shot,Jump Shot,1,0
+270,300,PT05M47.00S,3,1610612745,HOU,201935,Harden,J. Harden,-24,75,8,Missed,1,0,0,0,v,MISS Harden 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+271,302,PT05M46.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+272,301,PT05M46.00S,3,1610612745,HOU,2730,Howard,D. Howard,-6,-6,1,Made,1,65,58,123,v,Howard 1' Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,0
+273,303,PT05M45.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+274,305,PT05M45.00S,3,0,,262,Cage,M. Cage,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+275,306,PT05M45.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,SUB: Harris FOR Anderson,Substitution,,0,0
+276,307,PT05M45.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,SUB: Lee FOR Nowitzki,Substitution,,0,0
+277,308,PT05M45.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,SUB: Beasley FOR Beverley,Substitution,,0,0
+278,309,PT05M22.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,-9,-11,1,Missed,1,0,0,0,h,MISS Pachulia 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+279,310,PT05M21.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+280,311,PT05M11.00S,3,1610612745,HOU,201563,Beasley,M. Beasley,107,26,11,Missed,1,0,0,0,v,MISS Beasley 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+281,312,PT05M10.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+282,313,PT05M09.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,1,0,Made,1,65,60,125,v,Howard  Putback Dunk (12 PTS),Made Shot,Putback Dunk Shot,1,0
+283,314,PT04M46.00S,3,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,Barea Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0
+284,314,PT04M46.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden STEAL (1 STL),,,1,0
+285,315,PT04M38.00S,3,1610612745,HOU,201935,Harden,J. Harden,-24,11,3,Missed,1,0,0,0,v,MISS Harden 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+286,316,PT04M37.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:5 Def:5),Rebound,Unknown,1,0
+287,317,PT04M29.00S,3,1610612745,HOU,201563,Beasley,M. Beasley,104,8,10,Made,1,65,62,127,v,Beasley 10' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,0
+288,318,PT04M09.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,-37,223,23,Made,1,67,62,129,h,Matthews 23' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,0
+289,319,PT03M54.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard Out of Bounds - Bad Pass Turnover Turnover (P4.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+290,320,PT03M54.00S,3,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,SUB: Felton FOR Barea,Substitution,,0,0
+291,322,PT03M41.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,-45,239,24,Missed,1,0,0,0,h,MISS Matthews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+292,323,PT03M40.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:5 Def:6),Rebound,Unknown,1,0
+293,324,PT03M30.00S,3,1610612745,HOU,201563,Beasley,M. Beasley,-53,41,7,Missed,1,0,0,0,v,MISS Beasley 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+294,325,PT03M29.00S,3,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+295,326,PT03M28.00S,3,1610612745,HOU,201563,Beasley,M. Beasley,-7,3,1,Made,1,67,64,131,v,Beasley 1' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,0
+296,327,PT03M27.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Timeout: Short (Full 3 Short 1),Timeout,Short,0,0
+297,329,PT03M27.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,SUB: Mejri FOR Pachulia,Substitution,,0,0
+298,330,PT03M27.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,SUB: McDaniels FOR Ariza,Substitution,,0,0
+299,331,PT03M27.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,SUB: Capela FOR Howard,Substitution,,0,0
+300,332,PT03M08.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,156,100,19,Missed,1,0,0,0,h,MISS Matthews 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+301,333,PT03M07.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+302,334,PT02M56.00S,3,1610612745,HOU,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,v,McDaniels Traveling Turnover (P1.T14),Turnover,Traveling,1,0
+303,335,PT02M56.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+304,339,PT02M56.00S,3,1610612745,HOU,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,v,SUB: Terry FOR McDaniels,Substitution,,0,0
+305,340,PT02M31.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,-225,54,0,Missed,1,0,0,0,h,MISS Matthews  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+306,341,PT02M30.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,v,Brewer REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+307,342,PT02M24.00S,3,1610612745,HOU,1891,Terry,J. Terry,-214,115,24,Missed,1,0,0,0,v,MISS Terry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+308,343,PT02M23.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+309,344,PT02M00.00S,3,1610612742,DAL,101109,Felton,R. Felton,-9,82,8,Missed,1,0,0,0,h,MISS Felton 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+310,345,PT01M58.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,v,Brewer REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+311,346,PT01M51.00S,3,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton S.FOUL (P1.T3) (M.McCutchen),Foul,Shooting,1,0
+312,347,PT01M51.00S,3,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,67,65,132,v,Beasley Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+313,349,PT01M51.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,SUB: Nowitzki FOR Matthews,Substitution,,0,0
+314,350,PT01M51.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,SUB: Barea FOR Lee,Substitution,,0,0
+315,351,PT01M51.00S,3,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,67,66,133,v,Beasley Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+316,354,PT01M37.00S,3,1610612742,DAL,2734,Harris,D. Harris,-12,-1,1,Made,1,69,66,135,h,Harris 1' Driving Reverse Layup (5 PTS) (Barea 7 AST),Made Shot,Driving Reverse Layup Shot,1,0
+317,355,PT01M21.00S,3,1610612745,HOU,1891,Terry,J. Terry,-7,134,13,Made,1,69,68,137,v,Terry 13' Pullup Jump Shot (2 PTS) (Harden 4 AST),Made Shot,Pullup Jump shot,1,0
+318,356,PT01M00.00S,3,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,Rockets T.Foul (Def. 3 Sec Capela ) (M.McCutchen),Foul,Defense 3 Second,1,0
+319,357,PT01M00.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,70,68,138,h,Nowitzki Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0
+320,359,PT01M00.00S,3,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,SUB: Ariza FOR Beasley,Substitution,,0,0
+321,360,PT00M45.90S,3,1610612742,DAL,101109,Felton,R. Felton,-20,242,24,Missed,1,0,0,0,h,MISS Felton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+322,361,PT00M44.90S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,v,Brewer REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+323,362,PT00M32.50S,3,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton S.FOUL (P2.PN) (M.Smith),Foul,Shooting,1,0
+324,363,PT00M32.50S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,70,69,139,v,Harden Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+325,365,PT00M32.50S,3,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,SUB: McDaniels FOR Terry,Substitution,,0,0
+326,366,PT00M32.50S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+327,368,PT00M31.90S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+328,369,PT00M14.80S,3,1610612742,DAL,2734,Harris,D. Harris,-11,239,24,Missed,1,0,0,0,h,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+329,370,PT00M13.90S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+330,372,PT00M13.30S,3,1610612745,HOU,203909,McDaniels,K. McDaniels,0,0,0,,0,0,0,0,v,SUB: Terry FOR McDaniels,Substitution,,0,0
+331,373,PT00M13.30S,3,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,SUB: Beasley FOR Capela,Substitution,,0,0
+332,374,PT00M13.30S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,SUB: Anderson FOR Nowitzki,Substitution,,0,0
+333,375,PT00M00.20S,3,1610612745,HOU,201935,Harden,J. Harden,-89,26,9,Missed,1,0,0,0,v,MISS Harden 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+334,375,PT00M00.20S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri BLOCK (2 BLK),,,1,0
+335,376,PT00M00.20S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+336,377,PT00M00.20S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,,"Double Technical - Mejri, Harden (M.McCutchen)",Foul,Double Technical,0,0
+337,378,PT00M00.20S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,v,SUB: Howard FOR Brewer,Substitution,,0,0
+338,379,PT00M00.10S,3,1610612745,HOU,2730,Howard,D. Howard,-7,16,2,Made,1,70,71,141,v,Howard 2' Alley Oop Layup (14 PTS) (Terry 1 AST),Made Shot,Alley Oop Layup shot,1,0
+339,381,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,71,141,,End of 3rd Period (11:25 PM EST),period,end,0,0
+340,383,PT12M00.00S,4,0,,0,,,0,0,0,,0,70,71,141,,Start of 4th Period (11:28 PM EST),period,start,0,0
+341,384,PT11M38.00S,4,1610612745,HOU,201935,Harden,J. Harden,-181,170,25,Made,1,70,74,144,v,Harden 25' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,1,0
+342,385,PT11M15.00S,4,1610612742,DAL,200826,Barea,J. Barea,-99,223,24,Made,1,73,74,147,h,Barea 24' 3PT Jump Shot (20 PTS) (Harris 1 AST),Made Shot,Jump Shot,1,0
+343,386,PT10M50.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,-151,95,18,Missed,1,0,0,0,v,MISS Brewer 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+344,387,PT10M49.00S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,Terry REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+345,388,PT10M45.00S,4,1610612745,HOU,201935,Harden,J. Harden,64,237,25,Made,1,73,77,150,v,Harden 25' 3PT Jump Shot (20 PTS) (Terry 2 AST),Made Shot,Jump Shot,1,0
+346,389,PT10M29.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden P.FOUL (P3.T1) (M.McCutchen),Foul,Personal,1,0
+347,390,PT10M29.00S,4,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,SUB: Matthews FOR Felton,Substitution,,0,0
+348,392,PT10M18.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,187,159,25,Missed,1,0,0,0,h,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+349,393,PT10M17.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+350,394,PT09M56.00S,4,1610612745,HOU,201935,Harden,J. Harden,-91,28,10,Missed,1,0,0,0,v,MISS Harden 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+351,394,PT09M56.00S,4,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri BLOCK (3 BLK),,,1,0
+352,395,PT09M54.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,Barea REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+353,396,PT09M47.00S,4,1610612742,DAL,2734,Harris,D. Harris,-227,2,0,Made,1,76,77,153,h,Harris  3PT Jump Shot (8 PTS) (Barea 8 AST),Made Shot,Jump Shot,1,0
+354,397,PT09M26.00S,4,1610612745,HOU,1891,Terry,J. Terry,69,110,13,Missed,1,0,0,0,v,MISS Terry 13' Jump Shot,Missed Shot,Jump Shot,1,0
+355,398,PT09M25.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+356,399,PT09M25.00S,4,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri P.FOUL (P1.T1) (M.McCutchen),Foul,Personal,1,0
+357,400,PT09M16.00S,4,1610612745,HOU,201935,Harden,J. Harden,-17,13,2,Made,1,76,79,155,v,Harden 2' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,0
+358,401,PT09M16.00S,4,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri S.FOUL (P2.T2) (M.Smith),Foul,Shooting,1,0
+359,402,PT09M16.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,76,80,156,v,Harden Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,0,0
+360,404,PT09M08.00S,4,1610612742,DAL,200826,Barea,J. Barea,176,193,26,Missed,1,0,0,0,h,MISS Barea 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+361,405,PT09M07.00S,4,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,Mejri REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+362,406,PT09M02.00S,4,1610612742,DAL,200826,Barea,J. Barea,20,-1,2,Made,1,78,80,158,h,Barea 2' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,0
+363,407,PT08M40.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,228,26,0,Missed,1,0,0,0,v,MISS Ariza  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+364,408,PT08M39.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+365,409,PT08M24.00S,4,1610612742,DAL,2734,Harris,D. Harris,-227,16,0,Missed,1,0,0,0,h,MISS Harris  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+366,410,PT08M23.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:5 Def:7),Rebound,Unknown,1,0
+367,411,PT08M14.00S,4,1610612745,HOU,201935,Harden,J. Harden,-92,224,24,Missed,1,0,0,0,v,MISS Harden 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+368,412,PT08M12.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+369,413,PT07M57.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,192,169,26,Missed,1,0,0,0,h,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+370,414,PT07M56.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:5 Def:8),Rebound,Unknown,1,0
+371,415,PT07M54.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+372,417,PT07M54.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,SUB: Lee FOR Nowitzki,Substitution,,0,0
+373,418,PT07M54.00S,4,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,h,SUB: Pachulia FOR Mejri,Substitution,,0,0
+374,420,PT07M54.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,v,SUB: Beasley FOR Brewer,Substitution,,0,0
+375,421,PT07M36.00S,4,1610612745,HOU,1891,Terry,J. Terry,232,8,0,Missed,1,0,0,0,v,MISS Terry  3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+376,422,PT07M34.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+377,424,PT07M10.00S,4,1610612742,DAL,2585,Pachulia,Z. Pachulia,-22,0,2,Made,1,80,80,160,h,Pachulia 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,0
+378,425,PT06M46.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,28,8,3,Missed,1,0,0,0,v,MISS Ariza 3' Driving Bank Shot,Missed Shot,Driving Bank shot,1,0
+379,426,PT06M44.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+380,427,PT06M42.00S,4,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0
+381,428,PT06M42.00S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,SUB: Beverley FOR Terry,Substitution,,0,0
+382,429,PT06M26.00S,4,1610612742,DAL,200826,Barea,J. Barea,164,101,19,Made,1,82,80,162,h,Barea 19' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,0
+383,431,PT06M10.00S,4,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee Violation:Kicked Ball (M.Smith),Violation,Kicked Ball,0,0
+384,432,PT05M56.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,-150,110,19,Missed,1,0,0,0,v,MISS Beverley 19' Jump Shot,Missed Shot,Jump Shot,1,0
+385,433,PT05M55.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:6 Def:8),Rebound,Unknown,1,0
+386,434,PT05M44.00S,4,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0
+387,434,PT05M44.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews STEAL (3 STL),,,1,0
+388,435,PT05M30.00S,4,1610612742,DAL,2734,Harris,D. Harris,-151,188,24,Missed,1,0,0,0,h,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+389,436,PT05M29.00S,4,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee REBOUND (Off:5 Def:3),Rebound,Unknown,1,0
+390,437,PT05M26.00S,4,1610612742,DAL,200826,Barea,J. Barea,166,178,24,Missed,1,0,0,0,h,MISS Barea 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+391,438,PT05M24.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+392,439,PT05M19.00S,4,1610612745,HOU,201935,Harden,J. Harden,14,23,3,Made,1,82,82,164,v,Harden 3' Driving Layup (25 PTS) (Ariza 5 AST),Made Shot,Driving Layup Shot,1,0
+393,440,PT05M19.00S,4,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,Lee S.FOUL (P4.T3) (L.Richardson),Foul,Shooting,1,0
+394,441,PT05M19.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+395,443,PT05M19.00S,4,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,SUB: Felton FOR Pachulia,Substitution,,0,0
+396,444,PT05M19.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,SUB: Nowitzki FOR Barea,Substitution,,0,0
+397,445,PT05M19.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,SUB: Capela FOR Howard,Substitution,,0,0
+398,446,PT05M19.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,82,83,165,v,Harden Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,0,0
+399,448,PT05M08.00S,4,1610612742,DAL,101109,Felton,R. Felton,64,120,14,Missed,1,0,0,0,h,MISS Felton 14' Jump Shot,Missed Shot,Jump Shot,1,0
+400,450,PT05M07.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+401,449,PT05M07.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-16,13,2,Missed,1,0,0,0,h,MISS Nowitzki 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+402,451,PT05M06.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+403,452,PT05M03.00S,4,1610612742,DAL,2734,Harris,D. Harris,169,174,24,Missed,1,0,0,0,h,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+404,453,PT05M03.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+405,454,PT04M39.00S,4,1610612745,HOU,201563,Beasley,M. Beasley,58,208,22,Missed,1,0,0,0,v,MISS Beasley 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+406,455,PT04M38.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,Harris REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+407,456,PT04M14.00S,4,1610612742,DAL,2734,Harris,D. Harris,232,0,0,Missed,1,0,0,0,h,MISS Harris  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+408,457,PT04M13.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+409,458,PT04M12.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews Personal Take Foul (P1.T4) (L.Richardson),Foul,Personal Take,1,0
+410,459,PT04M12.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,SUB: Anderson FOR Harris,Substitution,,0,0
+411,460,PT04M12.00S,4,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,SUB: Barea FOR Felton,Substitution,,0,0
+412,461,PT03M54.00S,4,1610612745,HOU,201935,Harden,J. Harden,-96,115,15,Missed,1,0,0,0,v,MISS Harden 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+413,462,PT03M53.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+414,463,PT03M44.00S,4,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley P.FOUL (P2.T3) (M.McCutchen),Foul,Personal,1,0
+415,464,PT03M44.00S,4,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,0,0,0,v,SUB: Howard FOR Capela,Substitution,,0,0
+416,465,PT03M44.00S,4,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,SUB: Brewer FOR Beasley,Substitution,,0,0
+417,467,PT03M31.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+418,471,PT03M28.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,159,7,16,Missed,1,0,0,0,h,MISS Matthews 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+419,471,PT03M28.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden BLOCK (2 BLK),,,1,0
+420,472,PT03M27.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:6 Def:9),Rebound,Unknown,1,0
+421,473,PT03M22.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,Barea Personal Take Foul (P1.PN) (M.McCutchen),Foul,Personal Take,1,0
+422,474,PT03M22.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+423,475,PT03M22.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0
+424,476,PT03M22.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+425,479,PT03M20.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+426,478,PT03M20.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,3,0,Made,1,82,85,167,v,Beverley  Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,0
+427,480,PT03M06.00S,4,1610612742,DAL,200826,Barea,J. Barea,2,61,6,Made,1,84,85,169,h,Barea 6' Driving Floating Jump Shot (26 PTS),Made Shot,Driving Floating Jump Shot,1,0
+428,481,PT03M06.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley S.FOUL (P5.T4) (M.Smith),Foul,Shooting,1,0
+429,482,PT03M06.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,SUB: Beasley FOR Howard,Substitution,,0,0
+430,483,PT03M06.00S,4,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,h,SUB: Harris FOR Lee,Substitution,,0,0
+431,484,PT03M06.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,85,85,170,h,Barea Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,0,0
+432,486,PT02M52.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,166,38,17,Missed,1,0,0,0,v,MISS Brewer 17' Jump Shot,Missed Shot,Jump Shot,1,0
+433,487,PT02M51.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+434,488,PT02M51.00S,4,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley L.B.FOUL (P3.PN) (M.Smith),Foul,Loose Ball,1,0
+435,489,PT02M51.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,MISS Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+436,490,PT02M51.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,0
+437,491,PT02M51.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,86,85,171,h,Anderson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+438,493,PT02M28.00S,4,1610612745,HOU,201935,Harden,J. Harden,-150,237,28,Missed,1,0,0,0,v,MISS Harden 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+439,494,PT02M27.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+440,495,PT02M15.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,Barea Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0
+441,495,PT02M15.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza STEAL (2 STL),,,1,0
+442,496,PT01M53.00S,4,1610612745,HOU,201935,Harden,J. Harden,114,228,25,Missed,1,0,0,0,v,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+443,497,PT01M52.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,Barea REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+444,498,PT01M41.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,135,213,25,Missed,1,0,0,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+445,499,PT01M40.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+446,500,PT01M35.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,10,7,1,Missed,1,0,0,0,v,MISS Ariza 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+447,500,PT01M35.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,Anderson BLOCK (1 BLK),,,1,0
+448,501,PT01M33.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,Barea REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+449,502,PT01M19.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews OFF.Foul (P2) (M.McCutchen),Foul,Offensive,1,0
+450,503,PT01M19.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews Foul Turnover (P2.T14),Turnover,Foul,1,0
+451,504,PT01M19.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,0
+452,506,PT01M19.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,SUB: Pachulia FOR Harris,Substitution,,0,0
+453,507,PT01M19.00S,4,1610612745,HOU,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,SUB: Howard FOR Beasley,Substitution,,0,0
+454,508,PT00M55.90S,4,1610612745,HOU,201147,Brewer,C. Brewer,-174,11,17,Missed,1,0,0,0,v,MISS Brewer 17' Jump Shot,Missed Shot,Jump Shot,1,0
+455,509,PT00M54.10S,4,0,,1610612742,,,0,0,0,,0,0,0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0
+456,510,PT00M54.10S,4,0,,509,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+457,512,PT00M54.10S,4,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,h,SUB: Harris FOR Pachulia,Substitution,,0,0
+458,514,PT00M29.90S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,148,2,15,Missed,1,0,0,0,h,MISS Nowitzki 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+459,515,PT00M29.30S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,Howard REBOUND (Off:6 Def:10),Rebound,Unknown,1,0
+460,516,PT00M05.80S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Lost Ball Turnover (P6.T16),Turnover,Lost Ball,1,0
+461,516,PT00M05.80S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,Nowitzki STEAL (1 STL),,,1,0
+462,517,PT00M05.40S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Personal Take Foul (P4.PN) (M.McCutchen),Foul,Personal Take,1,0
+463,518,PT00M05.40S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,87,85,172,h,Harris Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0
+464,520,PT00M05.40S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,v,SUB: Beasley FOR Brewer,Substitution,,0,0
+465,521,PT00M05.40S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,h,SUB: Felton FOR Nowitzki,Substitution,,0,0
+466,522,PT00M05.40S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,88,85,173,h,Harris Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0
+467,524,PT00M05.40S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Short (Reg.6 Short 2),Timeout,Short,0,0
+468,527,PT00M05.40S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,v,SUB: Terry FOR Howard,Substitution,,0,0
+469,528,PT00M02.60S,4,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,h,Felton Personal Take Foul (P3.PN) (M.McCutchen),Foul,Personal Take,1,0
+470,529,PT00M02.60S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,88,86,174,v,Terry Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+471,531,PT00M02.60S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,h,SUB: Pachulia FOR Anderson,Substitution,,0,0
+472,532,PT00M02.60S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,h,SUB: Nowitzki FOR Barea,Substitution,,0,0
+473,533,PT00M02.60S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,h,SUB: Lee FOR Harris,Substitution,,0,0
+474,534,PT00M02.60S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,SUB: Capela FOR Ariza,Substitution,,0,0
+475,535,PT00M02.60S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,SUB: Howard FOR Beverley,Substitution,,0,0
+476,536,PT00M02.60S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,MISS Terry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+477,538,PT00M02.50S,4,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,h,Matthews REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+478,540,PT00M00.00S,4,0,,0,,,0,0,0,,0,88,86,174,,End of 4th Period (12:05 AM EST),period,end,0,0

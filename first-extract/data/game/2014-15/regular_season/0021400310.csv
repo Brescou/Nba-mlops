@@ -1,0 +1,467 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Jump Ball Gasol vs. Chandler: Tip to Nelson,Jump Ball,,1,0
+3,2,PT11M32.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,-117,164,20,Missed,1,0,0,0,v,MISS Ellis 20' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+4,3,PT11M31.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+5,4,PT11M09.00S,1,1610612763,MEM,201144,Conley,M. Conley,-8,254,25,Missed,1,0,0,0,h,MISS Conley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+6,5,PT11M09.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+7,6,PT11M04.00S,1,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,Lee S.FOUL (P1.T1),Foul,Shooting,1,0
+8,7,PT11M04.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,1,1,v,Nelson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+9,9,PT11M04.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,2,2,v,Nelson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+10,11,PT10M48.00S,1,0,,201220,,,0,0,0,,0,0,0,0,,David Joerger Foul:T.FOUL,Foul,Technical,0,0
+11,12,PT10M48.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,3,3,v,Nowitzki Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+12,14,PT10M41.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,91,146,17,Missed,1,0,0,0,h,MISS Randolph 17' Jump Shot,Missed Shot,Jump Shot,1,0
+13,15,PT10M40.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,Ellis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+14,16,PT10M30.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,-183,190,26,Made,1,0,6,6,v,Parsons 26' 3PT Jump Shot (3 PTS) (Nowitzki 1 AST),Made Shot,Jump Shot,1,0
+15,17,PT10M18.00S,1,1610612763,MEM,201144,Conley,M. Conley,-101,219,24,Made,1,3,6,9,h,Conley 24' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,0
+16,19,PT09M52.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,10,254,25,Made,1,3,9,12,v,Nelson 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+17,21,PT09M30.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,Ellis S.FOUL (P1.T1),Foul,Shooting,1,0
+18,22,PT09M30.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,4,9,13,h,Gasol Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+19,24,PT09M30.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,MISS Gasol Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+20,26,PT09M30.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+21,29,PT09M18.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler Offensive Goaltending Turnover (P1.T1),Turnover,Offensive Goaltending,1,0
+22,31,PT09M04.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki S.FOUL (P1.T2),Foul,Shooting,1,0
+23,32,PT09M04.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,5,9,14,h,Gasol Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+24,34,PT09M04.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,6,9,15,h,Gasol Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+25,36,PT08M54.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,226,52,0,Missed,1,0,0,0,v,MISS Ellis  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+26,37,PT08M53.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+27,38,PT08M50.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,26,9,3,Made,1,6,11,17,v,Ellis 3' Layup (2 PTS) (Parsons 1 AST),Made Shot,Layup Shot,1,0
+28,39,PT08M32.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,-144,14,14,Made,1,8,11,19,h,Gasol 14' Jump Shot (5 PTS) (Lee 1 AST),Made Shot,Jump Shot,1,0
+29,40,PT08M15.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-49,200,21,Missed,1,0,0,0,v,MISS Nowitzki 21' Jump Shot,Missed Shot,Jump Shot,1,0
+30,41,PT08M14.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+31,42,PT08M05.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson S.FOUL (P1.T3),Foul,Shooting,1,0
+32,43,PT08M05.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,9,11,20,h,Gasol Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+33,45,PT08M05.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,10,11,21,h,Gasol Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+34,47,PT07M51.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,56,55,8,Made,1,10,13,23,v,Parsons 8' Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+35,48,PT07M38.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,-23,6,2,Missed,1,0,0,0,h,MISS Randolph 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+36,49,PT07M36.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+37,50,PT07M17.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,-183,184,26,Made,1,10,16,26,v,Parsons 26' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+38,51,PT07M03.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,32,3,3,Missed,1,0,0,0,h,MISS Randolph 3' Jump Shot,Missed Shot,Jump Shot,1,0
+39,51,PT07M03.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons BLOCK (1 BLK),,,1,0
+40,52,PT07M01.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+41,53,PT06M59.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,-16,0,2,Made,1,12,16,28,h,Randolph 2' Layup (2 PTS),Made Shot,Layup Shot,1,0
+42,54,PT06M51.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph P.FOUL (P1.T2),Foul,Personal,1,0
+43,55,PT06M51.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Wright FOR Nowitzki,Substitution,,0,0
+44,56,PT06M41.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,84,236,25,Made,1,12,19,31,v,Nelson 25' 3PT Jump Shot (8 PTS) (Ellis 1 AST),Made Shot,Jump Shot,1,0
+45,57,PT06M22.00S,1,1610612763,MEM,201144,Conley,M. Conley,72,96,12,Made,1,14,19,33,h,Conley 12' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,1,0
+46,58,PT06M00.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,Ellis Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+47,58,PT06M00.00S,1,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,Lee STEAL (1 STL),,,1,0
+48,60,PT05M57.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+49,59,PT05M57.00S,1,1610612763,MEM,2754,Allen,T. Allen,-23,4,2,Made,1,16,19,35,h,Allen 2' Layup (2 PTS) (Lee 2 AST),Made Shot,Layup Shot,1,0
+50,61,PT05M45.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,10,224,22,Made,1,16,21,37,v,Nelson 22' Jump Shot (10 PTS),Made Shot,Jump Shot,1,0
+51,62,PT05M29.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,10,7,1,Made,1,18,21,39,h,Gasol 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+52,63,PT05M29.00S,1,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,Wright S.FOUL (P1.T4),Foul,Shooting,1,0
+53,64,PT05M29.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+54,65,PT05M29.00S,1,0,,17,Drexler,C. Drexler,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+55,69,PT05M29.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,19,21,40,h,Gasol Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0
+56,71,PT05M19.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,-68,269,28,Made,1,19,24,43,v,Nelson 28' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,1,0
+57,72,PT05M00.00S,1,1610612763,MEM,201584,Lee,C. Lee,-30,183,19,Missed,1,0,0,0,h,MISS Lee 19' Jump Shot,Missed Shot,Jump Shot,1,0
+58,73,PT05M00.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+59,74,PT04M50.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,-32,38,5,Missed,1,0,0,0,v,MISS Parsons 5' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+60,76,PT04M49.00S,1,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+61,75,PT04M49.00S,1,1610612742,DAL,201148,Wright,B. Wright,10,4,1,Made,1,19,26,45,v,Wright 1' Layup (2 PTS),Made Shot,Layup Shot,1,0
+62,77,PT04M31.00S,1,1610612763,MEM,201144,Conley,M. Conley,-122,148,19,Made,1,21,26,47,h,Conley 19' Pullup Jump Shot (7 PTS) (Gasol 1 AST),Made Shot,Pullup Jump shot,1,0
+63,78,PT04M17.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,-158,197,25,Made,1,21,29,50,v,Parsons 25' 3PT Jump Shot (11 PTS) (Wright 1 AST),Made Shot,Jump Shot,1,0
+64,79,PT03M58.00S,1,1610612763,MEM,201144,Conley,M. Conley,-147,205,25,Missed,1,0,0,0,h,MISS Conley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+65,80,PT03M57.00S,1,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+66,81,PT03M46.00S,1,1610612742,DAL,201148,Wright,B. Wright,-13,4,1,Made,1,21,31,52,v,Wright 1' Layup (4 PTS) (Nelson 1 AST),Made Shot,Layup Shot,1,0
+67,82,PT03M31.00S,1,1610612763,MEM,201584,Lee,C. Lee,-54,118,13,Made,1,23,31,54,h,Lee 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+68,83,PT03M16.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+69,83,PT03M16.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol STEAL (1 STL),,,1,0
+70,84,PT03M11.00S,1,1610612763,MEM,201584,Lee,C. Lee,1,3,0,Made,1,25,31,56,h,Lee  Layup (4 PTS) (Allen 1 AST),Made Shot,Layup Shot,1,0
+71,86,PT03M10.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+72,87,PT03M10.00S,1,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,SUB: Prince FOR Lee,Substitution,,0,0
+73,88,PT03M10.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,SUB: Harris FOR Chandler,Substitution,,0,0
+74,89,PT03M10.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,SUB: Nowitzki FOR Ellis,Substitution,,0,0
+75,90,PT02M52.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen S.FOUL (P1.T3),Foul,Shooting,1,0
+76,91,PT02M52.00S,1,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,MISS Wright Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+77,92,PT02M52.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+78,93,PT02M52.00S,1,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,SUB: Crowder FOR Parsons,Substitution,,0,0
+79,94,PT02M52.00S,1,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,25,32,57,v,Wright Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+80,96,PT02M40.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,15,0,2,Missed,1,0,0,0,h,MISS Gasol 2' Layup,Missed Shot,Layup Shot,1,0
+81,96,PT02M40.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder BLOCK (1 BLK),,,1,0
+82,97,PT02M38.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+83,98,PT02M33.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,195,-22,20,Made,1,27,32,59,h,Gasol 20' Jump Shot (12 PTS) (Prince 1 AST),Made Shot,Jump Shot,1,0
+84,99,PT02M17.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,17,252,25,Made,1,27,35,62,v,Crowder 25' 3PT Jump Shot (3 PTS) (Nelson 2 AST),Made Shot,Jump Shot,1,0
+85,100,PT02M05.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+86,100,PT02M05.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder STEAL (1 STL),,,1,0
+87,101,PT02M05.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph L.B.FOUL (P2.T4),Foul,Loose Ball,1,0
+88,102,PT02M05.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,SUB: Leuer FOR Randolph,Substitution,,0,0
+89,103,PT01M56.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,-133,211,25,Missed,1,0,0,0,v,MISS Nelson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+90,104,PT01M56.00S,1,1610612763,MEM,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+91,105,PT01M47.00S,1,1610612763,MEM,201144,Conley,M. Conley,20,4,2,Made,1,29,35,64,h,Conley 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+92,106,PT01M26.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-141,1,14,Made,1,29,37,66,v,Nowitzki 14' Turnaround Fadeaway (3 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+93,107,PT01M15.00S,1,1610612763,MEM,2419,Prince,T. Prince,-136,175,22,Missed,1,0,0,0,h,MISS Prince 22' Jump Shot,Missed Shot,Jump Shot,1,0
+94,108,PT01M13.00S,1,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+95,109,PT00M57.90S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,133,56,14,Missed,1,0,0,0,v,MISS Nowitzki 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+96,110,PT00M54.80S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+97,111,PT00M37.10S,1,1610612763,MEM,2754,Allen,T. Allen,67,30,7,Made,1,31,37,68,h,Allen 7' Running Bank Shot (4 PTS) (Conley 1 AST),Made Shot,Running Bank shot,1,0
+98,112,PT00M37.10S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris S.FOUL (P1.PN),Foul,Shooting,1,0
+99,113,PT00M37.10S,1,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,SUB: Barea FOR Nelson,Substitution,,0,0
+100,114,PT00M37.10S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,SUB: Udrih FOR Conley,Substitution,,0,0
+101,115,PT00M37.10S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,32,37,69,h,Allen Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+102,117,PT00M28.90S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-89,236,25,Missed,1,0,0,0,v,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+103,118,PT00M28.50S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+104,119,PT00M07.90S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,1,0,Made,1,34,37,71,h,Gasol  Slam Dunk (14 PTS) (Allen 2 AST),Made Shot,Slam Dunk Shot,1,0
+105,120,PT00M00.40S,1,1610612742,DAL,200826,Barea,J. Barea,103,254,27,Missed,1,0,0,0,v,MISS Barea 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+106,123,PT00M00.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+107,122,PT00M00.00S,1,0,,0,,,0,0,0,,0,34,37,71,,End of 1st Period (8:36 PM EST),period,end,0,0
+108,125,PT12M00.00S,2,0,,0,,,0,0,0,,0,34,37,71,,Start of 2nd Period (8:39 PM EST),period,start,0,0
+109,126,PT11M46.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,1,0,Made,1,36,37,73,h,Gasol  Dunk (16 PTS) (Udrih 1 AST),Made Shot,Dunk Shot,1,0
+110,128,PT11M28.00S,2,1610612742,DAL,2734,Harris,D. Harris,233,61,24,Missed,1,0,0,0,v,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+111,129,PT11M26.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+112,130,PT11M21.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+113,132,PT10M58.00S,2,1610612742,DAL,200826,Barea,J. Barea,-229,101,25,Made,1,36,40,76,v,Barea 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,0
+114,133,PT10M37.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,45,5,Missed,1,0,0,0,h,MISS Gasol 5' Running Hook Shot,Missed Shot,Running Hook Shot,1,0
+115,134,PT10M34.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+116,135,PT10M29.00S,2,1610612742,DAL,200826,Barea,J. Barea,24,15,3,Missed,1,0,0,0,v,MISS Barea 3' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+117,136,PT10M22.00S,2,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+118,137,PT10M19.00S,2,1610612763,MEM,1713,Carter,V. Carter,203,162,26,Missed,1,0,0,0,h,MISS Carter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+119,138,PT10M17.00S,2,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+120,139,PT10M14.00S,2,1610612763,MEM,2419,Prince,T. Prince,237,-8,24,Made,1,39,40,79,h,Prince 24' 3PT Jump Shot (3 PTS) (Udrih 2 AST),Made Shot,Jump Shot,1,0
+121,140,PT09M54.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-138,20,14,Missed,1,0,0,0,v,MISS Nowitzki 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+122,141,PT09M53.00S,2,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0,0,0,h,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+123,142,PT09M43.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder P.FOUL (P1.T1),Foul,Personal,1,0
+124,143,PT09M43.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,SUB: Koufos FOR Gasol,Substitution,,0,0
+125,144,PT09M33.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki S.FOUL (P2.T2),Foul,Shooting,1,0
+126,145,PT09M33.00S,2,1610612763,MEM,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,MISS Udrih Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+127,146,PT09M33.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,0
+128,147,PT09M33.00S,2,1610612763,MEM,2757,Udrih,B. Udrih,0,0,0,,0,40,40,80,h,Udrih Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+129,149,PT09M20.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+130,149,PT09M20.00S,2,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince STEAL (1 STL),,,1,0
+131,150,PT09M14.00S,2,1610612763,MEM,1713,Carter,V. Carter,-183,164,25,Made,1,43,40,83,h,Carter 25' 3PT Jump Shot (3 PTS) (Udrih 3 AST),Made Shot,Jump Shot,1,0
+132,151,PT09M13.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+133,153,PT09M13.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Wright,Substitution,,0,0
+134,155,PT08M59.00S,2,1610612742,DAL,2734,Harris,D. Harris,28,1,3,Made,1,43,42,85,v,Harris 3' Layup (2 PTS) (Nowitzki 2 AST),Made Shot,Layup Shot,1,0
+135,156,PT08M45.00S,2,1610612763,MEM,202720,Leuer,J. Leuer,-229,1,0,Made,1,46,42,88,h,Leuer  3PT Jump Shot (3 PTS) (Udrih 4 AST),Made Shot,Jump Shot,1,0
+136,157,PT08M26.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-133,25,14,Made,1,46,44,90,v,Nowitzki 14' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,1,0
+137,158,PT08M07.00S,2,1610612763,MEM,2419,Prince,T. Prince,223,-17,0,Missed,1,0,0,0,h,MISS Prince  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+138,159,PT08M06.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+139,160,PT07M46.00S,2,1610612742,DAL,200826,Barea,J. Barea,-15,4,2,Made,1,46,46,92,v,Barea 2' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+140,161,PT07M28.00S,2,1610612763,MEM,1713,Carter,V. Carter,13,0,1,Missed,1,0,0,0,h,MISS Carter 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+141,162,PT07M25.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+142,163,PT07M20.00S,2,1610612742,DAL,200826,Barea,J. Barea,218,116,25,Missed,1,0,0,0,v,MISS Barea 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+143,164,PT07M19.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+144,165,PT07M19.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Parsons FOR Nowitzki,Substitution,,0,0
+145,166,PT07M19.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,SUB: Ellis FOR Barea,Substitution,,0,0
+146,167,PT07M12.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,-231,-13,0,Made,1,46,49,95,v,Crowder  3PT Jump Shot (6 PTS) (Harris 1 AST),Made Shot,Jump Shot,1,0
+147,168,PT06M52.00S,2,1610612763,MEM,202720,Leuer,J. Leuer,95,1,10,Missed,1,0,0,0,h,MISS Leuer 10' Jump Shot,Missed Shot,Jump Shot,1,0
+148,169,PT06M50.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+149,170,PT06M35.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,15,1,2,Missed,1,0,0,0,v,MISS Chandler 2' Layup,Missed Shot,Layup Shot,1,0
+150,170,PT06M35.00S,2,1610612763,MEM,201585,Koufos,K. Koufos,0,0,0,,0,0,0,0,h,Koufos BLOCK (1 BLK),,,1,0
+151,171,PT06M35.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+152,172,PT06M35.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler T.FOUL (P0.T2),Foul,Technical,0,0
+153,173,PT06M35.00S,2,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,47,49,96,h,Prince Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0
+154,175,PT06M27.00S,2,1610612742,DAL,202718,Parsons,C. Parsons,125,219,25,Missed,1,0,0,0,v,MISS Parsons 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+155,176,PT06M27.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+156,178,PT06M27.00S,2,1610612763,MEM,201585,Koufos,K. Koufos,0,0,0,,0,0,0,0,h,Koufos L.B.FOUL (P1.T1),Foul,Loose Ball,1,0
+157,180,PT06M14.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,26,11,3,Missed,1,0,0,0,v,MISS Ellis 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+158,181,PT06M12.00S,2,1610612763,MEM,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+159,182,PT06M06.00S,2,1610612763,MEM,1713,Carter,V. Carter,220,112,25,Missed,1,0,0,0,h,MISS Carter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+160,183,PT06M04.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+161,184,PT06M02.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+162,185,PT06M02.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+163,187,PT06M02.00S,2,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,SUB: Allen FOR Prince,Substitution,,0,0
+164,189,PT05M50.00S,2,1610612763,MEM,2757,Udrih,B. Udrih,-41,26,5,Missed,1,0,0,0,h,MISS Udrih 5' Jump Shot,Missed Shot,Jump Shot,1,0
+165,189,PT05M50.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler BLOCK (1 BLK),,,1,0
+166,190,PT05M47.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+167,191,PT05M33.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,114,91,15,Missed,1,0,0,0,v,MISS Ellis 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+168,192,PT05M32.00S,2,1610612763,MEM,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+169,193,PT05M23.00S,2,1610612763,MEM,1713,Carter,V. Carter,-142,4,14,Missed,1,0,0,0,h,MISS Carter 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+170,194,PT05M22.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+171,195,PT05M18.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,-11,12,2,Missed,1,0,0,0,v,MISS Ellis 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,0
+172,196,PT05M15.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+173,197,PT05M07.00S,2,1610612742,DAL,202718,Parsons,C. Parsons,-38,20,4,Missed,1,0,0,0,v,MISS Parsons 4' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,0
+174,198,PT05M02.00S,2,1610612763,MEM,201585,Koufos,K. Koufos,0,0,0,,0,0,0,0,h,Koufos REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+175,199,PT04M56.00S,2,1610612763,MEM,2757,Udrih,B. Udrih,-149,148,21,Missed,1,0,0,0,h,MISS Udrih 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+176,200,PT04M55.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+177,201,PT04M55.00S,2,1610612763,MEM,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,SUB: Conley FOR Udrih,Substitution,,0,0
+178,202,PT04M55.00S,2,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0,0,0,h,SUB: Lee FOR Carter,Substitution,,0,0
+179,203,PT04M36.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,54,85,10,Missed,1,0,0,0,v,MISS Ellis 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+180,204,PT04M33.00S,2,1610612763,MEM,201585,Koufos,K. Koufos,0,0,0,,0,0,0,0,h,Koufos REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+181,205,PT04M23.00S,2,1610612763,MEM,202720,Leuer,J. Leuer,-54,-6,5,Missed,1,0,0,0,h,MISS Leuer 5' Jump Shot,Missed Shot,Jump Shot,1,0
+182,206,PT04M23.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+183,207,PT04M20.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+184,207,PT04M20.00S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen STEAL (1 STL),,,1,0
+185,208,PT04M17.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris S.FOUL (P2.T3),Foul,Shooting,1,0
+186,209,PT04M17.00S,2,1610612763,MEM,201585,Koufos,K. Koufos,0,0,0,,0,0,0,0,h,MISS Koufos Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+187,210,PT04M17.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,0
+188,211,PT04M17.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,SUB: Nelson FOR Harris,Substitution,,0,0
+189,212,PT04M17.00S,2,1610612763,MEM,201585,Koufos,K. Koufos,0,0,0,,0,48,49,97,h,Koufos Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+190,215,PT04M03.00S,2,1610612763,MEM,201585,Koufos,K. Koufos,0,0,0,,0,0,0,0,h,Koufos Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+191,214,PT04M03.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,-15,-5,2,Made,1,48,51,99,v,Crowder 2' Reverse Layup (8 PTS) (Parsons 2 AST),Made Shot,Reverse Layup Shot,1,0
+192,216,PT03M48.00S,2,1610612763,MEM,202720,Leuer,J. Leuer,37,1,4,Missed,1,0,0,0,h,MISS Leuer 4' Jump Shot,Missed Shot,Jump Shot,1,0
+193,216,PT03M48.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler BLOCK (2 BLK),,,1,0
+194,217,PT03M46.00S,2,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+195,218,PT03M39.00S,2,1610612763,MEM,201585,Koufos,K. Koufos,0,0,0,,0,0,0,0,h,Koufos S.FOUL (P2.T2),Foul,Shooting,1,0
+196,219,PT03M39.00S,2,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,48,52,100,v,Parsons Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+197,222,PT03M39.00S,2,1610612763,MEM,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,SUB: Randolph FOR Leuer,Substitution,,0,0
+198,223,PT03M39.00S,2,1610612763,MEM,201585,Koufos,K. Koufos,0,0,0,,0,0,0,0,h,SUB: Gasol FOR Koufos,Substitution,,0,0
+199,221,PT03M39.00S,2,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,48,53,101,v,Parsons Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+200,224,PT03M23.00S,2,1610612763,MEM,2754,Allen,T. Allen,1,25,3,Missed,1,0,0,0,h,MISS Allen 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+201,225,PT03M20.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+202,226,PT03M08.00S,2,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+203,226,PT03M08.00S,2,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,Lee STEAL (2 STL),,,1,0
+204,227,PT02M56.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder S.FOUL (P2.T4),Foul,Shooting,1,0
+205,228,PT02M56.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+206,230,PT02M56.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,SUB: Nowitzki FOR Chandler,Substitution,,0,0
+207,231,PT02M56.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,SUB: Wright FOR Crowder,Substitution,,0,0
+208,233,PT02M56.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,49,53,102,h,Gasol Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+209,235,PT02M56.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,50,53,103,h,Gasol Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+210,237,PT02M34.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,Ellis Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0
+211,237,PT02M34.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph STEAL (1 STL),,,1,0
+212,238,PT02M30.00S,2,1610612763,MEM,2754,Allen,T. Allen,7,1,1,Made,1,52,53,105,h,Allen 1' Layup (7 PTS),Made Shot,Layup Shot,1,0
+213,239,PT02M12.00S,2,1610612742,DAL,2749,Nelson,J. Nelson,-43,0,4,Made,1,52,55,107,v,Nelson 4' Turnaround Bank Shot (15 PTS),Made Shot,Turnaround Bank shot,1,0
+214,240,PT01M57.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+215,240,PT01M57.00S,2,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons STEAL (1 STL),,,1,0
+216,241,PT01M53.00S,2,1610612742,DAL,202718,Parsons,C. Parsons,1,22,2,Made,1,52,57,109,v,Parsons 2' Finger Roll Layup (15 PTS) (Nowitzki 3 AST),Made Shot,Finger Roll Layup Shot,1,0
+217,242,PT01M26.00S,2,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,Lee Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+218,242,PT01M26.00S,2,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons STEAL (2 STL),,,1,0
+219,243,PT01M22.00S,2,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,Lee P.FOUL (P2.T3),Foul,Personal,1,0
+220,245,PT01M11.00S,2,1610612742,DAL,202718,Parsons,C. Parsons,24,11,3,Made,1,52,59,111,v,Parsons 3' Reverse Layup (17 PTS) (Nelson 3 AST),Made Shot,Reverse Layup Shot,1,0
+221,246,PT00M46.10S,2,1610612763,MEM,201584,Lee,C. Lee,116,105,16,Missed,1,0,0,0,h,MISS Lee 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+222,247,PT00M46.10S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+223,248,PT00M46.10S,2,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson L.B.FOUL (P2.PN),Foul,Loose Ball,1,0
+224,249,PT00M46.10S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,53,59,112,h,Randolph Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+225,250,PT00M46.10S,2,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,SUB: Harris FOR Ellis,Substitution,,0,0
+226,251,PT00M46.10S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Wright,Substitution,,0,0
+227,252,PT00M46.10S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,54,59,113,h,Randolph Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+228,254,PT00M30.90S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+229,254,PT00M30.90S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen STEAL (2 STL),,,1,0
+230,255,PT00M27.70S,2,1610612763,MEM,2754,Allen,T. Allen,-10,12,2,Made,1,56,59,115,h,Allen 2' Layup (9 PTS),Made Shot,Layup Shot,1,0
+231,256,PT00M08.40S,2,1610612742,DAL,2749,Nelson,J. Nelson,0,241,24,Made,1,56,62,118,v,Nelson 24' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,0
+232,257,PT00M00.50S,2,1610612763,MEM,201584,Lee,C. Lee,89,225,24,Missed,1,0,0,0,h,MISS Lee 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+233,259,PT00M00.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0
+234,258,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,62,118,,End of 2nd Period (9:07 PM EST),period,end,0,0
+235,262,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,62,118,,Start of 3rd Period (9:24 PM EST),period,start,0,0
+236,263,PT11M44.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-4,22,2,Made,1,58,62,120,h,Randolph 2' Layup (6 PTS) (Gasol 2 AST),Made Shot,Layup Shot,1,0
+237,264,PT11M26.00S,3,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,Lee P.FOUL (P3.T1),Foul,Personal,1,0
+238,265,PT11M20.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,45,192,20,Missed,1,0,0,0,v,MISS Ellis 20' Jump Shot,Missed Shot,Jump Shot,1,0
+239,266,PT11M20.00S,3,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,Lee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+240,267,PT11M03.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-116,63,13,Made,1,60,62,122,h,Gasol 13' Turnaround Jump Shot (20 PTS) (Conley 2 AST),Made Shot,Turnaround Jump Shot,1,0
+241,268,PT10M47.00S,3,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+242,269,PT10M33.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,154,82,17,Missed,1,0,0,0,h,MISS Randolph 17' Jump Shot,Missed Shot,Jump Shot,1,0
+243,270,PT10M33.00S,3,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+244,271,PT10M15.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-128,211,25,Missed,1,0,0,0,v,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+245,272,PT10M14.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+246,273,PT10M09.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,141,206,25,Missed,1,0,0,0,v,MISS Ellis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+247,274,PT10M09.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0
+248,275,PT09M54.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-32,184,19,Missed,1,0,0,0,h,MISS Gasol 19' Jump Shot,Missed Shot,Jump Shot,1,0
+249,276,PT09M53.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:4 Def:0),Rebound,Unknown,1,0
+250,278,PT09M32.00S,3,1610612763,MEM,2754,Allen,T. Allen,12,11,2,Made,1,62,62,124,h,Allen 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,0
+251,279,PT09M20.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,225,96,24,Made,1,62,65,127,v,Parsons 24' 3PT Jump Shot (20 PTS) (Nelson 4 AST),Made Shot,Jump Shot,1,0
+252,280,PT09M06.00S,3,1610612763,MEM,201144,Conley,M. Conley,-76,154,17,Made,1,64,65,129,h,Conley 17' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,0
+253,281,PT08M54.00S,3,1610612742,DAL,2749,Nelson,J. Nelson,171,175,24,Missed,1,0,0,0,v,MISS Nelson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+254,282,PT08M53.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+255,283,PT08M48.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,173,44,18,Missed,1,0,0,0,v,MISS Ellis 18' Jump Shot,Missed Shot,Jump Shot,0,0
+256,284,PT08M48.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+257,285,PT08M39.00S,3,1610612763,MEM,201144,Conley,M. Conley,-71,154,17,Missed,1,0,0,0,h,MISS Conley 17' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+258,287,PT08M36.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:5 Def:0),Rebound,Unknown,1,0
+259,286,PT08M36.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-2,-2,0,Made,1,66,65,131,h,Randolph  Layup (8 PTS),Made Shot,Layup Shot,1,0
+260,288,PT08M17.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,135,86,16,Made,1,66,67,133,v,Nowitzki 16' Jump Shot (7 PTS) (Parsons 3 AST),Made Shot,Jump Shot,1,0
+261,289,PT08M07.00S,3,1610612763,MEM,201144,Conley,M. Conley,-10,-3,1,Made,1,68,67,135,h,Conley 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,0
+262,290,PT07M55.00S,3,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,Lee P.FOUL (P4.T2),Foul,Personal,1,0
+263,291,PT07M55.00S,3,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,SUB: Prince FOR Lee,Substitution,,0,0
+264,292,PT07M39.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,-239,77,25,Missed,1,0,0,0,v,MISS Ellis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+265,293,PT07M39.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+266,294,PT07M30.00S,3,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson S.FOUL (P3.T1),Foul,Shooting,1,0
+267,295,PT07M30.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,69,67,136,h,Conley Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+268,299,PT07M30.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,SUB: Harris FOR Ellis,Substitution,,0,0
+269,300,PT07M30.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,70,67,137,h,Conley Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+270,302,PT07M24.00S,3,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince P.FOUL (P1.T3),Foul,Personal,1,0
+271,303,PT07M17.00S,3,1610612742,DAL,2749,Nelson,J. Nelson,-78,216,23,Missed,1,0,0,0,v,MISS Nelson 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+272,304,PT07M16.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:5 Def:1),Rebound,Unknown,1,0
+273,305,PT07M01.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-21,17,3,Made,1,72,67,139,h,Randolph 3' Finger Roll Layup (10 PTS) (Prince 2 AST),Made Shot,Finger Roll Layup Shot,1,0
+274,307,PT07M00.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+275,310,PT06M50.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris OFF.Foul (P3),Foul,Offensive,1,0
+276,311,PT06M50.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris Foul Turnover (P2.T11),Turnover,Foul,1,0
+277,312,PT06M36.00S,3,1610612763,MEM,201144,Conley,M. Conley,7,258,26,Made,1,75,67,142,h,Conley 26' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,0
+278,313,PT06M18.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph S.FOUL (P3.T4),Foul,Shooting,1,0
+279,314,PT06M18.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,75,68,143,v,Nowitzki Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+280,316,PT06M18.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,75,69,144,v,Nowitzki Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+281,318,PT06M04.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris P.FOUL (P4.T2),Foul,Personal,1,0
+282,319,PT05M56.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-23,34,4,Missed,1,0,0,0,h,MISS Randolph 4' Jump Shot,Missed Shot,Jump Shot,1,0
+283,320,PT05M55.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+284,321,PT05M46.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-7,241,24,Missed,1,0,0,0,v,MISS Nowitzki 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+285,322,PT05M46.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:5 Def:2),Rebound,Unknown,1,0
+286,323,PT05M38.00S,3,1610612763,MEM,2419,Prince,T. Prince,-130,102,17,Missed,1,0,0,0,h,MISS Prince 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+287,324,PT05M36.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+288,325,PT05M26.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen S.FOUL (P2.PN),Foul,Shooting,1,0
+289,326,PT05M26.00S,3,0,,325,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+290,327,PT05M26.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,75,70,145,v,Parsons Free Throw 1 of 3 (21 PTS),Free Throw,Free Throw 1 of 3,0,0
+291,329,PT05M26.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,MISS Parsons Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0
+292,330,PT05M26.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+293,332,PT05M26.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Ellis FOR Nowitzki,Substitution,,0,0
+294,333,PT05M26.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,75,71,146,v,Parsons Free Throw 3 of 3 (22 PTS),Free Throw,Free Throw 3 of 3,0,0
+295,335,PT05M14.00S,3,1610612763,MEM,2754,Allen,T. Allen,-32,-5,3,Missed,1,0,0,0,h,MISS Allen 3' Jump Shot,Missed Shot,Jump Shot,1,0
+296,337,PT05M12.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:6 Def:2),Rebound,Unknown,1,0
+297,336,PT05M12.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,20,2,Made,1,77,71,148,h,Randolph 2' Layup (12 PTS),Made Shot,Layup Shot,1,0
+298,338,PT04M47.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,51,252,26,Made,1,77,74,151,v,Parsons 26' 3PT Jump Shot (25 PTS) (Ellis 2 AST),Made Shot,Jump Shot,1,0
+299,339,PT04M26.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler S.FOUL (P1.T3),Foul,Shooting,1,0
+300,340,PT04M26.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,78,74,152,h,Gasol Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0
+301,342,PT04M26.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,SUB: Wright FOR Harris,Substitution,,0,0
+302,343,PT04M26.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,79,74,153,h,Gasol Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0
+303,345,PT04M17.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,Ellis Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0
+304,345,PT04M17.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley STEAL (1 STL),,,1,0
+305,347,PT04M13.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+306,346,PT04M13.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,19,2,Made,1,81,74,155,h,Conley 2' Layup (20 PTS),Made Shot,Layup Shot,1,0
+307,348,PT04M04.00S,3,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson Step Out of Bounds Turnover (P3.T13),Turnover,Step Out of Bounds Turnover,1,0
+308,349,PT03M41.00S,3,1610612763,MEM,2419,Prince,T. Prince,-4,165,17,Missed,1,0,0,0,h,MISS Prince 17' Jump Shot,Missed Shot,Jump Shot,1,0
+309,349,PT03M41.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,Wright BLOCK (1 BLK),,,1,0
+310,350,PT03M39.00S,3,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+311,351,PT03M33.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,-183,195,27,Missed,1,0,0,0,v,MISS Parsons 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+312,352,PT03M32.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+313,353,PT03M26.00S,3,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,Nelson P.FOUL (P4.T4),Foul,Personal,1,0
+314,354,PT03M26.00S,3,1610612742,DAL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,v,SUB: Barea FOR Nelson,Substitution,,0,0
+315,355,PT03M26.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,SUB: Nowitzki FOR Chandler,Substitution,,0,0
+316,356,PT03M14.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,17,30,3,Missed,1,0,0,0,h,MISS Randolph 3' Jump Shot,Missed Shot,Jump Shot,1,0
+317,357,PT03M14.00S,3,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+318,358,PT03M07.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,-139,201,24,Missed,1,0,0,0,v,MISS Parsons 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+319,359,PT03M06.00S,3,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+320,360,PT02M52.00S,3,1610612763,MEM,2419,Prince,T. Prince,0,1,0,Made,1,83,74,157,h,Prince  Slam Dunk (6 PTS) (Gasol 3 AST),Made Shot,Slam Dunk Shot,1,0
+321,361,PT02M40.00S,3,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea Double Dribble Turnover (P1.T14),Turnover,Double Dribble,1,0
+322,362,PT02M40.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+323,364,PT02M40.00S,3,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,SUB: Crowder FOR Parsons,Substitution,,0,0
+324,365,PT02M40.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,SUB: Carter FOR Allen,Substitution,,0,0
+325,366,PT02M23.00S,3,1610612763,MEM,2419,Prince,T. Prince,-64,0,6,Made,1,85,74,159,h,Prince 6' Turnaround Bank Shot (8 PTS),Made Shot,Turnaround Bank shot,1,0
+326,367,PT01M55.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-116,22,12,Made,1,85,76,161,v,Nowitzki 12' Jump Shot (11 PTS) (Barea 1 AST),Made Shot,Jump Shot,1,0
+327,368,PT01M43.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,9,39,4,Missed,1,0,0,0,h,MISS Gasol 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+328,369,PT01M41.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:7 Def:2),Rebound,Unknown,1,0
+329,370,PT01M39.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-7,22,2,Missed,1,0,0,0,h,MISS Randolph 2' Layup,Missed Shot,Layup Shot,1,0
+330,370,PT01M39.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki BLOCK (1 BLK),,,1,0
+331,372,PT01M37.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:8 Def:2),Rebound,Unknown,1,0
+332,371,PT01M37.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-19,-5,2,Missed,1,0,0,0,h,MISS Randolph 2' Layup,Missed Shot,Layup Shot,1,0
+333,374,PT01M33.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+334,373,PT01M33.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-7,3,1,Made,1,87,76,163,h,Gasol 1' Tip Shot (24 PTS),Made Shot,Tip Shot,1,0
+335,375,PT01M26.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-70,249,26,Missed,1,0,0,0,v,MISS Nowitzki 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+336,376,PT01M26.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+337,377,PT01M22.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,-172,186,25,Made,1,87,79,166,v,Crowder 25' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,1,0
+338,378,PT01M07.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-10,20,2,Missed,1,0,0,0,h,MISS Randolph 2' Layup,Missed Shot,Layup Shot,1,0
+339,379,PT01M06.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:9 Def:2),Rebound,Unknown,1,0
+340,380,PT01M06.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder S.FOUL (P3.PN),Foul,Shooting,1,0
+341,381,PT01M06.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,88,79,167,h,Randolph Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+342,383,PT01M06.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,SUB: Leuer FOR Gasol,Substitution,,0,0
+343,384,PT01M06.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,MISS Randolph Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+344,386,PT01M05.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+345,387,PT00M47.80S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-123,80,15,Missed,1,0,0,0,v,MISS Nowitzki 15' Jump Shot,Missed Shot,Jump Shot,1,0
+346,388,PT00M47.30S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:9 Def:3),Rebound,Unknown,1,0
+347,389,PT00M38.10S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-26,12,3,Made,1,90,79,169,h,Randolph 3' Layup (15 PTS) (Conley 3 AST),Made Shot,Layup Shot,1,0
+348,390,PT00M29.90S,3,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0
+349,390,PT00M29.90S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley STEAL (2 STL),,,1,0
+350,391,PT00M08.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,Wright S.FOUL (P2.PN),Foul,Shooting,1,0
+351,392,PT00M08.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,91,79,170,h,Randolph Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+352,394,PT00M08.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,SUB: Allen FOR Conley,Substitution,,0,0
+353,395,PT00M08.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,92,79,171,h,Randolph Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+354,397,PT00M00.00S,3,1610612742,DAL,203109,Crowder,J. Crowder,200,45,21,Missed,1,0,0,0,v,MISS Crowder 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+355,398,PT00M00.00S,3,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+356,399,PT00M00.00S,3,0,,0,,,0,0,0,,0,92,79,171,,End of 3rd Period (9:51 PM EST),period,end,0,0
+357,401,PT12M00.00S,4,0,,0,,,0,0,0,,0,92,79,171,,Start of 4th Period (9:54 PM EST),period,start,0,0
+358,402,PT11M43.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,110,78,13,Missed,1,0,0,0,v,MISS Nowitzki 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+359,403,PT11M41.00S,4,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0,0,0,h,Carter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+360,404,PT11M23.00S,4,1610612763,MEM,2757,Udrih,B. Udrih,0,91,9,Missed,1,0,0,0,h,MISS Udrih 9' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+361,405,PT11M21.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+362,406,PT11M06.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,100,17,10,Missed,1,0,0,0,v,MISS Nowitzki 10' Jump Shot,Missed Shot,Jump Shot,1,0
+363,407,PT11M06.00S,4,1610612763,MEM,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+364,408,PT10M56.00S,4,1610612763,MEM,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+365,408,PT10M56.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder STEAL (2 STL),,,1,0
+366,409,PT10M45.00S,4,1610612742,DAL,200826,Barea,J. Barea,-147,165,22,Made,1,92,81,173,v,Barea 22' Jump Shot (7 PTS),Made Shot,Jump Shot,1,0
+367,410,PT10M25.00S,4,1610612763,MEM,2757,Udrih,B. Udrih,12,242,24,Made,1,95,81,176,h,Udrih 24' 3PT Jump Shot (4 PTS) (Carter 1 AST),Made Shot,Jump Shot,1,0
+368,411,PT10M14.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,2,257,26,Missed,1,0,0,0,v,MISS Nowitzki 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+369,412,PT10M12.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+370,413,PT10M05.00S,4,1610612742,DAL,200826,Barea,J. Barea,-18,67,7,Missed,1,0,0,0,v,MISS Barea 7' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+371,414,PT10M05.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+372,415,PT10M05.00S,4,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0,0,0,h,Carter L.B.FOUL (P1.T1),Foul,Loose Ball,1,0
+373,416,PT09M54.00S,4,1610612742,DAL,200826,Barea,J. Barea,-231,12,0,Made,1,95,84,179,v,Barea  3PT Jump Shot (10 PTS) (Nowitzki 4 AST),Made Shot,Jump Shot,1,0
+374,417,PT09M29.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,-23,12,3,Missed,1,0,0,0,h,MISS Randolph 3' Layup,Missed Shot,Layup Shot,1,0
+375,418,PT09M29.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+376,419,PT09M19.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-46,102,11,Missed,1,0,0,0,v,MISS Nowitzki 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+377,420,PT09M17.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+378,421,PT09M09.00S,4,1610612742,DAL,200826,Barea,J. Barea,-87,19,9,Missed,1,0,0,0,v,MISS Barea 9' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+379,423,PT09M08.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+380,422,PT09M08.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,-8,6,1,Made,1,95,86,181,v,Crowder 1' Tip Shot (13 PTS),Made Shot,Tip Shot,1,0
+381,424,PT09M08.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+382,425,PT09M08.00S,4,0,,409,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+383,428,PT08M47.00S,4,1610612763,MEM,1713,Carter,V. Carter,15,250,25,Missed,1,0,0,0,h,MISS Carter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+384,429,PT08M47.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+385,430,PT08M28.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0
+386,430,PT08M28.00S,4,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0,0,0,h,Carter STEAL (1 STL),,,1,0
+387,431,PT08M18.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,-16,26,3,Missed,1,0,0,0,h,MISS Randolph 3' Jump Shot,Missed Shot,Jump Shot,1,0
+388,431,PT08M18.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,Wright BLOCK (2 BLK),,,1,0
+389,432,PT08M18.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0
+390,433,PT08M18.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,SUB: Gasol FOR Randolph,Substitution,,0,0
+391,434,PT08M18.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Chandler FOR Nowitzki,Substitution,,0,0
+392,435,PT08M18.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,SUB: Parsons FOR Wright,Substitution,,0,0
+393,436,PT08M18.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+394,437,PT08M09.00S,4,1610612763,MEM,1713,Carter,V. Carter,-84,159,18,Missed,1,0,0,0,h,MISS Carter 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+395,438,PT08M08.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+396,439,PT08M00.00S,4,1610612742,DAL,200826,Barea,J. Barea,77,184,20,Made,1,95,88,183,v,Barea 20' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+397,440,PT07M46.00S,4,1610612763,MEM,2757,Udrih,B. Udrih,-49,127,14,Made,1,97,88,185,h,Udrih 14' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,0
+398,441,PT07M22.00S,4,1610612742,DAL,200826,Barea,J. Barea,154,203,25,Made,1,97,91,188,v,Barea 25' 3PT Jump Shot (15 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,0
+399,442,PT07M00.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,-93,0,9,Made,1,99,91,190,h,Gasol 9' Turnaround Fadeaway (26 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+400,443,PT06M39.00S,4,1610612742,DAL,202718,Parsons,C. Parsons,58,44,7,Made,1,99,93,192,v,Parsons 7' Turnaround Fadeaway (27 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+401,444,PT06M21.00S,4,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0,0,0,," Foul : Double Personal - Carter (2 PF), Chandler (2 PF)",Foul,Double Personal,1,0
+402,446,PT06M21.00S,4,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0,0,0,h,SUB: Lee FOR Carter,Substitution,,0,0
+403,447,PT06M16.00S,4,1610612763,MEM,2757,Udrih,B. Udrih,86,145,17,Made,1,101,93,194,h,Udrih 17' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,0
+404,448,PT06M04.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,250,25,Missed,1,0,0,0,v,MISS Barea 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+405,449,PT06M03.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+406,450,PT05M58.00S,4,1610612742,DAL,202718,Parsons,C. Parsons,234,28,24,Missed,1,0,0,0,v,MISS Parsons 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+407,451,PT05M57.00S,4,1610612763,MEM,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,Leuer REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+408,452,PT05M39.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,45,154,16,Missed,1,0,0,0,h,MISS Gasol 16' Jump Shot,Missed Shot,Jump Shot,1,0
+409,453,PT05M39.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+410,454,PT05M33.00S,4,1610612742,DAL,2734,Harris,D. Harris,-168,189,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+411,455,PT05M32.00S,4,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+412,456,PT05M27.00S,4,1610612742,DAL,202718,Parsons,C. Parsons,-229,17,0,Made,1,101,96,197,v,Parsons  3PT Jump Shot (30 PTS) (Chandler 1 AST),Made Shot,Jump Shot,1,0
+413,457,PT05M06.00S,4,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler P.FOUL (P3.T1),Foul,Personal,1,0
+414,458,PT05M06.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+415,459,PT05M06.00S,4,1610612763,MEM,201584,Lee,C. Lee,0,0,0,,0,0,0,0,h,SUB: Conley FOR Lee,Substitution,,0,0
+416,461,PT04M56.00S,4,1610612763,MEM,201144,Conley,M. Conley,48,183,19,Missed,1,0,0,0,h,MISS Conley 19' Jump Shot,Missed Shot,Jump Shot,1,0
+417,462,PT04M55.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+418,463,PT04M40.00S,4,1610612742,DAL,202718,Parsons,C. Parsons,24,19,3,Missed,1,0,0,0,v,MISS Parsons 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,0
+419,464,PT04M39.00S,4,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,Chandler REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+420,465,PT04M39.00S,4,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince L.B.FOUL (P2.T2),Foul,Loose Ball,1,0
+421,466,PT04M32.00S,4,1610612742,DAL,2734,Harris,D. Harris,177,172,25,Made,1,101,99,200,v,Harris 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,0
+422,467,PT04M05.00S,4,1610612763,MEM,2419,Prince,T. Prince,-85,97,13,Missed,1,0,0,0,h,MISS Prince 13' Jump Shot,Missed Shot,Jump Shot,1,0
+423,468,PT04M04.00S,4,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+424,469,PT03M43.00S,4,1610612742,DAL,200826,Barea,J. Barea,179,190,26,Missed,1,0,0,0,v,MISS Barea 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+425,470,PT03M42.00S,4,1610612763,MEM,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,Udrih REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+426,471,PT03M27.00S,4,1610612763,MEM,2757,Udrih,B. Udrih,-21,11,2,Made,1,103,99,202,h,Udrih 2' Driving Layup (10 PTS) (Gasol 4 AST),Made Shot,Driving Layup Shot,1,0
+427,473,PT03M27.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+428,475,PT03M27.00S,4,1610612763,MEM,202720,Leuer,J. Leuer,0,0,0,,0,0,0,0,h,SUB: Allen FOR Leuer,Substitution,,0,0
+429,476,PT03M27.00S,4,1610612763,MEM,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,h,SUB: Randolph FOR Udrih,Substitution,,0,0
+430,477,PT03M27.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,SUB: Nowitzki FOR Crowder,Substitution,,0,0
+431,478,PT03M06.00S,4,1610612742,DAL,200826,Barea,J. Barea,233,-11,0,Missed,1,0,0,0,v,MISS Barea  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+432,479,PT03M05.00S,4,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+433,480,PT02M47.00S,4,1610612763,MEM,2419,Prince,T. Prince,226,41,0,Made,1,106,99,205,h,Prince  3PT Jump Shot (11 PTS) (Gasol 5 AST),Made Shot,Jump Shot,1,0
+434,481,PT02M24.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol S.FOUL (P1.T3),Foul,Shooting,1,0
+435,482,PT02M24.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+436,483,PT02M24.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+437,484,PT02M24.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,106,100,206,v,Harris Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+438,486,PT02M08.00S,4,1610612763,MEM,201144,Conley,M. Conley,-157,148,22,Made,1,108,100,208,h,Conley 22' Jump Shot (22 PTS) (Gasol 6 AST),Made Shot,Jump Shot,1,0
+439,487,PT02M01.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol P.FOUL (P2.T4),Foul,Personal,1,0
+440,488,PT01M50.00S,4,1610612742,DAL,200826,Barea,J. Barea,-21,60,6,Made,1,108,102,210,v,Barea 6' Jump Shot (17 PTS),Made Shot,Jump Shot,1,0
+441,489,PT01M29.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,6,39,4,Missed,1,0,0,0,h,MISS Randolph 4' Jump Shot,Missed Shot,Jump Shot,1,0
+442,490,PT01M28.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+443,491,PT01M28.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,26,3,Made,1,110,102,212,h,Gasol 3' Layup (28 PTS),Made Shot,Layup Shot,1,0
+444,492,PT01M28.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+445,497,PT01M21.00S,4,1610612742,DAL,202718,Parsons,C. Parsons,71,80,11,Missed,1,0,0,0,v,MISS Parsons 11' Jump Shot,Missed Shot,Jump Shot,1,0
+446,498,PT01M21.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:9 Def:4),Rebound,Unknown,1,0
+447,499,PT01M04.00S,4,1610612763,MEM,2754,Allen,T. Allen,-101,0,10,Missed,1,0,0,0,h,MISS Allen 10' Jump Shot,Missed Shot,Jump Shot,1,0
+448,500,PT01M04.00S,4,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+449,501,PT00M57.90S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,69,238,25,Missed,1,0,0,0,v,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+450,502,PT00M57.20S,4,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+451,503,PT00M52.20S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea Personal Take Foul (P1.T2),Foul,Personal Take,1,0
+452,504,PT00M52.20S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Crowder FOR Nowitzki,Substitution,,0,0
+453,505,PT00M52.20S,4,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0,0,0,v,SUB: Wright FOR Chandler,Substitution,,0,0
+454,506,PT00M48.80S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0,0,0,v,Crowder Personal Take Foul (P4.PN),Foul,Personal Take,1,0
+455,507,PT00M48.80S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,111,102,213,h,Allen Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+456,509,PT00M48.80S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,SUB: Villanueva FOR Harris,Substitution,,0,0
+457,510,PT00M48.80S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,112,102,214,h,Allen Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+458,512,PT00M33.80S,4,1610612742,DAL,200826,Barea,J. Barea,94,3,9,Missed,1,0,0,0,v,MISS Barea 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+459,513,PT00M32.90S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+460,514,PT00M32.80S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0,0,0,v,Wright Personal Take Foul (P3.PN),Foul,Personal Take,1,0
+461,515,PT00M32.80S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,113,102,215,h,Gasol Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0
+462,517,PT00M32.80S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,SUB: Calathes FOR Randolph,Substitution,,0,0
+463,518,PT00M32.80S,4,1610612742,DAL,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,SUB: Smith FOR Parsons,Substitution,,0,0
+464,519,PT00M32.80S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,114,102,216,h,Gasol Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0
+465,521,PT00M21.30S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,72,236,25,Made,1,114,105,219,v,Villanueva 25' 3PT Jump Shot (3 PTS) (Crowder 1 AST),Made Shot,Jump Shot,1,0
+466,522,PT00M00.00S,4,0,,0,,,0,0,0,,0,114,105,219,,End of 4th Period (10:22 PM EST),period,end,0,0

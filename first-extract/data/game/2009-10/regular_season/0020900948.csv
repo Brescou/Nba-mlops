@@ -1,0 +1,474 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:14 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,Jump Ball McGee vs. Scola: Tip to Foye,Jump Ball,,0,0
+3,2,PT11M43.00S,1,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,h,Foye Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+4,2,PT11M43.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola STEAL (1 STL),,,0,0
+5,3,PT11M28.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+6,3,PT11M28.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche STEAL (1 STL),,,0,0
+7,4,PT11M15.00S,1,1610612764,WAS,201154,Thornton,A. Thornton,-30,244,25,Missed,1,0,0,0,h,MISS Thornton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+8,5,PT11M13.00S,1,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,Battier REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+9,6,PT11M06.00S,1,1610612745,HOU,2755,Martin,K. Martin,237,-21,24,Made,1,0,3,3,v,Martin 24' 3PT Jump Shot (3 PTS) (Brooks 1 AST),Made Shot,Jump Shot,0,0
+10,7,PT10M52.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,-157,101,19,Missed,1,0,0,0,h,MISS Blatche 19' Jump Shot,Missed Shot,Jump Shot,0,0
+11,8,PT10M51.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+12,9,PT10M42.00S,1,1610612745,HOU,2755,Martin,K. Martin,-79,156,17,Made,1,0,5,5,v,Martin 17' Jump Shot (5 PTS),Made Shot,Jump Shot,0,0
+13,10,PT10M33.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Short (Full 0 Short 1),Timeout,Short,0,0
+14,11,PT10M20.00S,1,1610612764,WAS,2034,Miller,M. Miller,-171,-5,17,Missed,1,0,0,0,h,MISS Miller 17' Jump Shot,Missed Shot,Jump Shot,0,0
+15,12,PT10M19.00S,1,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+16,13,PT10M16.00S,1,1610612764,WAS,201154,Thornton,A. Thornton,-43,30,5,Missed,1,0,0,0,h,MISS Thornton 5' Jump Shot,Missed Shot,Jump Shot,0,0
+17,14,PT10M16.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+18,15,PT10M04.00S,1,1610612764,WAS,2034,Miller,M. Miller,157,113,19,Made,1,2,5,7,h,Miller 19' Jump Shot (2 PTS) (Foye 1 AST),Made Shot,Jump Shot,0,0
+19,16,PT09M47.00S,1,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee S.FOUL (P1.T1),Foul,Shooting,0,0
+20,20,PT09M47.00S,1,0,,0,,,0,0,0,,0,2,5,7,,Instant Replay1st Period (7:18 PM EST),Instant Replay,Overturn Ruling,0,0
+21,17,PT09M47.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,2,6,8,v,Martin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+22,21,PT09M47.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,2,7,9,v,Martin Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+23,23,PT09M30.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,-158,63,17,Made,1,4,7,11,h,Blatche 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+24,25,PT09M13.00S,1,1610612745,HOU,2755,Martin,K. Martin,-175,181,25,Missed,1,0,0,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+25,26,PT09M12.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+26,27,PT09M01.00S,1,1610612764,WAS,2034,Miller,M. Miller,132,113,17,Missed,1,0,0,0,h,MISS Miller 17' Jump Shot,Missed Shot,Jump Shot,0,0
+27,28,PT09M00.00S,1,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+28,29,PT08M55.00S,1,1610612745,HOU,2449,Scola,L. Scola,-29,11,3,Missed,1,0,0,0,v,MISS Scola 3' Jump Shot,Missed Shot,Jump Shot,0,0
+29,30,PT08M52.00S,1,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+30,31,PT08M51.00S,1,1610612745,HOU,2755,Martin,K. Martin,144,198,24,Missed,1,0,0,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+31,32,PT08M51.00S,1,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,h,Foye REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+32,35,PT08M50.00S,1,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,Hayes P.FOUL (P1.T1),Foul,Personal,0,0
+33,36,PT08M37.00S,1,1610612764,WAS,2034,Miller,M. Miller,-7,6,1,Made,1,6,7,13,h,Miller 1' Layup (4 PTS) (Foye 2 AST),Made Shot,Layup Shot,0,0
+34,37,PT08M29.00S,1,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee S.FOUL (P2.T2),Foul,Shooting,0,0
+35,38,PT08M29.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,6,8,14,v,Scola Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+36,40,PT08M29.00S,1,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,SUB: Oberto FOR McGee,Substitution,,0,0
+37,41,PT08M29.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,6,9,15,v,Scola Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+38,44,PT08M11.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,-155,7,16,Made,1,8,9,17,h,Blatche 16' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,0,0
+39,45,PT07M45.00S,1,1610612745,HOU,2449,Scola,L. Scola,7,69,7,Made,1,8,11,19,v,Scola 7' Hook Shot (4 PTS),Made Shot,Hook Shot,0,0
+40,46,PT07M28.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,-185,-22,19,Made,1,10,11,21,h,Blatche 19' Jump Shot (6 PTS) (Foye 3 AST),Made Shot,Jump Shot,0,0
+41,47,PT07M15.00S,1,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0
+42,48,PT06M56.00S,1,1610612764,WAS,200751,Foye,R. Foye,-228,113,25,Missed,1,0,0,0,h,MISS Foye 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+43,49,PT06M55.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+44,50,PT06M40.00S,1,1610612745,HOU,2449,Scola,L. Scola,-123,131,18,Missed,1,0,0,0,v,MISS Scola 18' Jump Shot,Missed Shot,Jump Shot,0,0
+45,51,PT06M39.00S,1,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+46,52,PT06M25.00S,1,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+47,52,PT06M25.00S,1,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks STEAL (1 STL),,,0,0
+48,53,PT06M20.00S,1,1610612745,HOU,201166,Brooks,A. Brooks,-114,137,18,Made,1,10,13,23,v,Brooks 18' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+49,54,PT05M59.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,-153,34,16,Missed,1,0,0,0,h,MISS Blatche 16' Jump Shot,Missed Shot,Jump Shot,0,0
+50,55,PT05M58.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+51,56,PT05M57.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 1 Short 1),Timeout,Regular,0,0
+52,58,PT05M41.00S,1,1610612745,HOU,2203,Battier,S. Battier,-237,-13,24,Missed,1,0,0,0,v,MISS Battier 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+53,59,PT05M40.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+54,60,PT05M28.00S,1,1610612764,WAS,201154,Thornton,A. Thornton,-123,69,14,Made,1,12,13,25,h,Thornton 14' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,0
+55,61,PT05M21.00S,1,1610612745,HOU,2203,Battier,S. Battier,-46,17,5,Missed,1,0,0,0,v,MISS Battier 5' Jump Shot,Missed Shot,Jump Shot,0,0
+56,61,PT05M21.00S,1,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton BLOCK (1 BLK),,,0,0
+57,62,PT05M19.00S,1,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+58,63,PT05M13.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,130,112,17,Made,1,14,13,27,h,Blatche 17' Jump Shot (8 PTS) (Miller 1 AST),Made Shot,Jump Shot,0,0
+59,64,PT05M02.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,Martin Traveling Turnover (P1.T3),Turnover,Traveling,0,0
+60,65,PT04M43.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,-75,39,8,Made,1,16,13,29,h,Oberto 8' Jump Hook Shot (2 PTS) (Thornton 1 AST),Made Shot,Jump Hook Shot,0,0
+61,66,PT04M23.00S,1,1610612745,HOU,101236,Hayes,C. Hayes,0,86,9,Missed,1,0,0,0,v,MISS Hayes 9' Jump Shot,Missed Shot,Jump Shot,0,0
+62,67,PT04M21.00S,1,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+63,68,PT04M12.00S,1,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+64,68,PT04M12.00S,1,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,Hayes STEAL (1 STL),,,0,0
+65,69,PT04M07.00S,1,1610612745,HOU,2449,Scola,L. Scola,-7,20,2,Missed,1,0,0,0,v,MISS Scola 2' Layup,Missed Shot,Layup Shot,0,0
+66,70,PT04M02.00S,1,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+67,71,PT03M50.00S,1,1610612764,WAS,201154,Thornton,A. Thornton,151,-14,15,Missed,1,0,0,0,h,MISS Thornton 15' Jump Shot,Missed Shot,Jump Shot,0,0
+68,76,PT03M50.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+69,73,PT03M48.00S,1,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,SUB: Ariza FOR Battier,Substitution,,0,0
+70,74,PT03M48.00S,1,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,SUB: Ross FOR Thornton,Substitution,,0,0
+71,77,PT03M34.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,0,6,1,Made,1,18,13,31,h,Oberto 1' Reverse Layup (4 PTS) (Miller 2 AST),Made Shot,Reverse Layup Shot,0,0
+72,78,PT03M20.00S,1,1610612745,HOU,201166,Brooks,A. Brooks,206,134,25,Missed,1,0,0,0,v,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+73,79,PT03M19.00S,1,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+74,81,PT03M04.00S,1,1610612764,WAS,2034,Miller,M. Miller,138,153,21,Missed,1,0,0,0,h,MISS Miller 21' Jump Shot,Missed Shot,Jump Shot,0,0
+75,82,PT03M03.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,h,Oberto REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+76,83,PT02M55.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,-158,0,16,Missed,1,0,0,0,h,MISS Blatche 16' Jump Shot,Missed Shot,Jump Shot,0,0
+77,84,PT02M54.00S,1,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+78,85,PT02M48.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,Martin Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0
+79,85,PT02M48.00S,1,1610612764,WAS,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross STEAL (1 STL),,,0,0
+80,86,PT02M41.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,-5,1,Made,1,20,13,33,h,Blatche 1' Driving Dunk (10 PTS) (Ross 1 AST),Made Shot,Driving Dunk Shot,0,0
+81,87,PT02M33.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+82,89,PT02M33.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,SUB: Budinger FOR Martin,Substitution,,0,0
+83,90,PT02M33.00S,1,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,SUB: Lowry FOR Brooks,Substitution,,0,0
+84,91,PT02M33.00S,1,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,SUB: Hill FOR Hayes,Substitution,,0,0
+85,92,PT02M20.00S,1,1610612764,WAS,101177,Oberto,F. Oberto,0,0,0,,0,0,0,0,h,Oberto S.FOUL (P1.T3),Foul,Shooting,0,0
+86,93,PT02M20.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,20,14,34,v,Scola Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+87,95,PT02M20.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,20,15,35,v,Scola Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+88,97,PT02M10.00S,1,1610612764,WAS,200751,Foye,R. Foye,0,135,14,Made,1,22,15,37,h,Foye 14' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+89,98,PT01M57.00S,1,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,h,Foye P.FOUL (P1.T4),Foul,Personal,0,0
+90,99,PT01M57.00S,1,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,h,SUB: Boykins FOR Foye,Substitution,,0,0
+91,100,PT01M46.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,-166,184,25,Missed,1,0,0,0,v,MISS Lowry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+92,101,PT01M45.00S,1,1610612764,WAS,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+93,102,PT01M33.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,195,20,Missed,1,0,0,0,h,MISS Blatche 20' Jump Shot,Missed Shot,Jump Shot,0,0
+94,103,PT01M32.00S,1,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+95,104,PT01M25.00S,1,1610612745,HOU,201978,Budinger,C. Budinger,-10,3,1,Made,1,22,17,39,v,Budinger 1' Layup (2 PTS) (Lowry 1 AST),Made Shot,Layup Shot,0,0
+96,105,PT01M08.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche OFF.Foul (P1),Foul,Offensive,0,0
+97,106,PT01M08.00S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche Foul Turnover (P1.T4),Turnover,Foul,0,0
+98,107,PT00M53.90S,1,1610612745,HOU,2772,Ariza,T. Ariza,53,30,6,Missed,1,0,0,0,v,MISS Ariza 6' Jump Shot,Missed Shot,Jump Shot,0,0
+99,108,PT00M52.90S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+100,109,PT00M52.90S,1,1610612745,HOU,2449,Scola,L. Scola,7,-11,1,Missed,1,0,0,0,v,MISS Scola 1' Layup,Missed Shot,Layup Shot,0,0
+101,110,PT00M51.90S,1,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+102,111,PT00M49.90S,1,1610612745,HOU,201941,Hill,J. Hill,13,-6,1,Made,1,22,19,41,v,Hill 1' Layup (2 PTS),Made Shot,Layup Shot,0,0
+103,112,PT00M41.70S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0
+104,113,PT00M35.90S,1,1610612745,HOU,201978,Budinger,C. Budinger,-82,236,25,Missed,1,0,0,0,v,MISS Budinger 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+105,114,PT00M34.80S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,Lowry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+106,115,PT00M26.90S,1,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,SUB: Singleton FOR Blatche,Substitution,,0,0
+107,116,PT00M24.90S,1,1610612745,HOU,201978,Budinger,C. Budinger,244,-13,24,Missed,1,0,0,0,v,MISS Budinger 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+108,117,PT00M21.90S,1,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+109,118,PT00M21.60S,1,1610612745,HOU,201941,Hill,J. Hill,1,-6,1,Made,1,22,21,43,v,Hill 1' Putback Slam Dunk (4 PTS),Made Shot,Putback Slam Dunk Shot,0,0
+110,119,PT00M01.90S,1,1610612764,WAS,1863,Boykins,E. Boykins,138,45,15,Missed,1,0,0,0,h,MISS Boykins 15' Jump Shot,Missed Shot,Jump Shot,0,0
+111,120,PT00M00.40S,1,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+112,121,PT00M00.00S,1,0,,0,,,0,0,0,,0,22,21,43,,End of 1st Period (7:39 PM EST),period,end,0,0
+113,123,PT12M00.00S,2,0,,0,,,0,0,0,,0,22,21,43,,Start of 2nd Period (7:42 PM EST),period,start,0,0
+114,124,PT11M41.00S,2,1610612745,HOU,2449,Scola,L. Scola,-16,0,2,Made,1,22,23,45,v,Scola 2' Finger Roll Layup (8 PTS),Made Shot,Finger Roll Layup Shot,0,0
+115,125,PT11M28.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,h,Boykins Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+116,125,PT11M28.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza STEAL (1 STL),,,0,0
+117,126,PT11M22.00S,2,1610612745,HOU,2449,Scola,L. Scola,28,-14,3,Missed,1,0,0,0,v,MISS Scola 3' Jump Shot,Missed Shot,Jump Shot,0,0
+118,126,PT11M22.00S,2,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton BLOCK (1 BLK),,,0,0
+119,127,PT11M19.00S,2,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+120,128,PT11M12.00S,2,1610612764,WAS,201580,McGee,J. McGee,-15,-10,2,Made,1,24,23,47,h,McGee 2' Alley Oop Layup (2 PTS) (Boykins 1 AST),Made Shot,Alley Oop Layup shot,0,0
+121,130,PT10M57.00S,2,1610612764,WAS,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross S.FOUL (P1.T1),Foul,Shooting,0,0
+122,131,PT10M57.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,24,24,48,v,Hill Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+123,133,PT10M57.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,MISS Hill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+124,135,PT10M57.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+125,136,PT10M40.00S,2,1610612764,WAS,201154,Thornton,A. Thornton,-174,36,18,Missed,1,0,0,0,h,MISS Thornton 18' Jump Shot,Missed Shot,Jump Shot,0,0
+126,137,PT10M39.00S,2,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+127,138,PT10M18.00S,2,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton S.FOUL (P1.T2),Foul,Shooting,0,0
+128,139,PT10M18.00S,2,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,24,25,49,v,Scola Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+129,141,PT10M18.00S,2,1610612764,WAS,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Young FOR Ross,Substitution,,0,0
+130,142,PT10M18.00S,2,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,24,26,50,v,Scola Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+131,145,PT10M00.00S,2,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0
+132,146,PT09M46.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,-45,214,22,Missed,1,0,0,0,v,MISS Ariza 22' Jump Shot,Missed Shot,Jump Shot,0,0
+133,147,PT09M45.00S,2,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+134,148,PT09M42.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill S.FOUL (P1.T1),Foul,Shooting,0,0
+135,149,PT09M42.00S,2,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,25,26,51,h,Singleton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+136,151,PT09M42.00S,2,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,26,26,52,h,Singleton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+137,154,PT09M31.00S,2,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,Budinger Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+138,154,PT09M31.00S,2,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton STEAL (1 STL),,,0,0
+139,155,PT09M09.00S,2,1610612764,WAS,201156,Young,N. Young,122,115,17,Made,1,28,26,54,h,Young 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+140,156,PT08M47.00S,2,1610612745,HOU,2449,Scola,L. Scola,102,34,11,Made,1,28,28,56,v,Scola 11' Hook Shot (12 PTS) (Ariza 1 AST),Made Shot,Hook Shot,0,0
+141,157,PT08M34.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,Lowry S.FOUL (P1.T2),Foul,Shooting,0,0
+142,158,PT08M34.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+143,160,PT08M34.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,0,0,0,,0,29,28,57,h,Boykins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+144,162,PT08M34.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,0,0,0,,0,30,28,58,h,Boykins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+145,164,PT08M20.00S,2,1610612745,HOU,201941,Hill,J. Hill,43,50,7,Made,1,30,30,60,v,Hill 7' Jump Hook Shot (7 PTS) (Ariza 2 AST),Made Shot,Jump Hook Shot,0,0
+146,165,PT08M04.00S,2,1610612764,WAS,201154,Thornton,A. Thornton,1,209,21,Made,1,32,30,62,h,Thornton 21' Jump Shot (4 PTS) (Boykins 2 AST),Made Shot,Jump Shot,0,0
+147,166,PT07M40.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,-240,99,26,Made,1,32,33,65,v,Ariza 26' 3PT Jump Shot (3 PTS) (Hill 1 AST),Made Shot,Jump Shot,0,0
+148,167,PT07M27.00S,2,1610612764,WAS,201156,Young,N. Young,-239,-14,24,Missed,1,0,0,0,h,MISS Young 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+149,168,PT07M26.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+150,169,PT07M11.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,185,102,21,Missed,1,0,0,0,v,MISS Lowry 21' Jump Shot,Missed Shot,Jump Shot,0,0
+151,170,PT07M10.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+152,171,PT07M09.00S,2,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton S.FOUL (P1.T3),Foul,Shooting,0,0
+153,172,PT07M09.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,32,34,66,v,Hill Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+154,174,PT07M09.00S,2,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,SUB: Blatche FOR McGee,Substitution,,0,0
+155,175,PT07M09.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,32,35,67,v,Hill Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+156,178,PT06M50.00S,2,1610612764,WAS,201156,Young,N. Young,-2,19,2,Missed,1,0,0,0,h,MISS Young 2' Layup,Missed Shot,Layup Shot,0,0
+157,179,PT06M49.00S,2,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+158,180,PT06M44.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,-198,154,25,Missed,1,0,0,0,h,MISS Boykins 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+159,181,PT06M43.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+160,182,PT06M35.00S,2,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola OFF.Foul (P1),Foul,Offensive,0,0
+161,183,PT06M35.00S,2,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola Foul Turnover (P2.T6),Turnover,Foul,0,0
+162,184,PT06M35.00S,2,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,SUB: Jeffries FOR Scola,Substitution,,0,0
+163,185,PT06M27.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,21,-6,2,Made,1,34,35,69,h,Boykins 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+164,186,PT06M06.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche S.FOUL (P2.T4),Foul,Shooting,0,0
+165,187,PT06M06.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,34,36,70,v,Lowry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+166,189,PT06M06.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,34,37,71,v,Lowry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+167,191,PT05M55.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill S.FOUL (P2.T3),Foul,Shooting,0,0
+168,192,PT05M55.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,0
+169,194,PT05M55.00S,2,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,35,37,72,h,Singleton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+170,196,PT05M55.00S,2,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,36,37,73,h,Singleton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+171,199,PT05M40.00S,2,1610612745,HOU,201978,Budinger,C. Budinger,1,9,1,Made,1,36,39,75,v,Budinger 1' Layup (4 PTS) (Hill 2 AST),Made Shot,Layup Shot,0,0
+172,200,PT05M26.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,h,Boykins Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+173,200,PT05M26.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza STEAL (2 STL),,,0,0
+174,201,PT05M22.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,13,6,1,Missed,1,0,0,0,v,MISS Ariza 1' Layup,Missed Shot,Layup Shot,0,0
+175,202,PT05M21.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,Lowry REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+176,203,PT05M19.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,Made,1,36,41,77,v,Lowry  Layup (4 PTS),Made Shot,Layup Shot,0,0
+177,204,PT05M02.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,-10,129,13,Missed,1,0,0,0,h,MISS Blatche 13' Jump Shot,Missed Shot,Jump Shot,0,0
+178,205,PT05M01.00S,2,1610612745,HOU,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+179,206,PT04M56.00S,2,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,h,SUB: Miller FOR Young,Substitution,,0,0
+180,207,PT04M56.00S,2,1610612764,WAS,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,h,SUB: Foye FOR Boykins,Substitution,,0,0
+181,208,PT04M49.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,223,97,24,Missed,1,0,0,0,v,MISS Ariza 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+182,209,PT04M48.00S,2,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+183,210,PT04M38.00S,2,1610612764,WAS,101189,Singleton,J. Singleton,-139,129,19,Made,1,38,41,79,h,Singleton 19' Jump Shot (6 PTS) (Miller 3 AST),Made Shot,Jump Shot,0,0
+184,211,PT04M08.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,179,181,25,Missed,1,0,0,0,v,MISS Ariza 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+185,212,PT04M08.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+186,213,PT04M08.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,0
+187,214,PT04M08.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,SUB: Brooks FOR Lowry,Substitution,,0,0
+188,215,PT04M08.00S,2,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,SUB: Battier FOR Budinger,Substitution,,0,0
+189,217,PT03M47.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,7,175,18,Missed,1,0,0,0,h,MISS Blatche 18' Jump Shot,Missed Shot,Jump Shot,0,0
+190,218,PT03M46.00S,2,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,Battier REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+191,219,PT03M41.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,13,-2,1,Missed,1,0,0,0,v,MISS Ariza 1' Layup,Missed Shot,Layup Shot,0,0
+192,219,PT03M41.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche BLOCK (1 BLK),,,0,0
+193,220,PT03M39.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+194,221,PT03M31.00S,2,1610612745,HOU,201166,Brooks,A. Brooks,0,1,0,Made,1,38,43,81,v,Brooks  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+195,222,PT03M18.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,SUB: Martin FOR Ariza,Substitution,,0,0
+196,224,PT03M09.00S,2,1610612764,WAS,200751,Foye,R. Foye,-49,7,5,Missed,1,0,0,0,h,MISS Foye 5' Jump Shot,Missed Shot,Jump Shot,0,0
+197,225,PT03M08.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+198,226,PT03M01.00S,2,1610612745,HOU,2407,Jeffries,J. Jeffries,-13,12,2,Missed,1,0,0,0,v,MISS Jeffries 2' Layup,Missed Shot,Layup Shot,0,0
+199,227,PT03M00.00S,2,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+200,228,PT02M58.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+201,230,PT02M44.00S,2,1610612764,WAS,201154,Thornton,A. Thornton,4,102,10,Missed,1,0,0,0,h,MISS Thornton 10' Jump Shot,Missed Shot,Jump Shot,0,0
+202,231,PT02M42.00S,2,1610612745,HOU,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+203,232,PT02M27.00S,2,1610612745,HOU,201166,Brooks,A. Brooks,206,131,24,Made,1,38,46,84,v,Brooks 24' 3PT Jump Shot (7 PTS) (Battier 1 AST),Made Shot,Jump Shot,0,0
+204,233,PT02M01.00S,2,1610612764,WAS,101154,Blatche,A. Blatche,-78,45,9,Made,1,40,46,86,h,Blatche 9' Hook Shot (12 PTS),Made Shot,Hook Shot,0,0
+205,235,PT01M47.00S,2,1610612745,HOU,2755,Martin,K. Martin,-152,89,18,Missed,1,0,0,0,v,MISS Martin 18' Jump Shot,Missed Shot,Jump Shot,0,0
+206,236,PT01M46.00S,2,1610612745,HOU,2407,Jeffries,J. Jeffries,0,0,0,,0,0,0,0,v,Jeffries REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+207,237,PT01M41.00S,2,1610612745,HOU,2407,Jeffries,J. Jeffries,-5,17,2,Missed,1,0,0,0,v,MISS Jeffries 2' Layup,Missed Shot,Layup Shot,0,0
+208,237,PT01M41.00S,2,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton BLOCK (2 BLK),,,0,0
+209,238,PT01M40.00S,2,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,h,Foye REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+210,239,PT01M40.00S,2,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+211,240,PT01M15.00S,2,1610612745,HOU,2407,Jeffries,J. Jeffries,201,4,20,Made,1,40,48,88,v,Jeffries 20' Jump Shot (2 PTS) (Battier 2 AST),Made Shot,Jump Shot,0,0
+212,241,PT01M03.00S,2,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton OFF.Foul (P2),Foul,Offensive,0,0
+213,242,PT01M03.00S,2,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton Foul Turnover (P2.T10),Turnover,Foul,0,0
+214,243,PT00M46.90S,2,1610612745,HOU,201166,Brooks,A. Brooks,-79,249,26,Missed,1,0,0,0,v,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+215,244,PT00M45.90S,2,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+216,245,PT00M34.90S,2,1610612764,WAS,101154,Blatche,A. Blatche,-16,105,11,Missed,1,0,0,0,h,MISS Blatche 11' Jump Shot,Missed Shot,Jump Shot,0,0
+217,246,PT00M33.40S,2,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,Battier REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+218,247,PT00M25.90S,2,1610612745,HOU,2755,Martin,K. Martin,-166,-24,17,Missed,1,0,0,0,v,MISS Martin 17' Jump Shot,Missed Shot,Jump Shot,0,0
+219,248,PT00M23.90S,2,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+220,250,PT00M05.10S,2,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks P.FOUL (P1.T4),Foul,Personal,0,0
+221,251,PT00M03.80S,2,1610612764,WAS,200751,Foye,R. Foye,106,77,13,Missed,1,0,0,0,h,MISS Foye 13' Jump Shot,Missed Shot,Jump Shot,0,0
+222,251,PT00M03.80S,2,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,Battier BLOCK (1 BLK),,,0,0
+223,252,PT00M01.80S,2,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+224,253,PT00M01.30S,2,1610612745,HOU,201166,Brooks,A. Brooks,-5,407,41,Missed,1,0,0,0,v,MISS Brooks 41' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+225,254,PT00M00.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+226,255,PT00M00.00S,2,0,,0,,,0,0,0,,0,40,48,88,,End of 2nd Period (8:10 PM EST),period,end,0,0
+227,257,PT12M00.00S,3,0,,0,,,0,0,0,,0,40,48,88,,Start of 3rd Period (8:25 PM EST),period,start,0,0
+228,258,PT11M46.00S,3,1610612745,HOU,201166,Brooks,A. Brooks,118,153,19,Made,1,40,50,90,v,Brooks 19' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+229,259,PT11M22.00S,3,1610612764,WAS,200751,Foye,R. Foye,-210,164,27,Missed,1,0,0,0,h,MISS Foye 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+230,260,PT11M21.00S,3,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+231,261,PT11M06.00S,3,1610612745,HOU,2449,Scola,L. Scola,40,12,4,Missed,1,0,0,0,v,MISS Scola 4' Jump Shot,Missed Shot,Jump Shot,0,0
+232,262,PT11M05.00S,3,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+233,263,PT10M52.00S,3,1610612764,WAS,201154,Thornton,A. Thornton,40,-2,4,Missed,1,0,0,0,h,MISS Thornton 4' Jump Shot,Missed Shot,Jump Shot,0,0
+234,263,PT10M52.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola BLOCK (1 BLK),,,0,0
+235,264,PT10M51.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+236,265,PT10M48.00S,3,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,h,Foye S.FOUL (P2.T1),Foul,Shooting,0,0
+237,266,PT10M48.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,40,51,91,v,Martin Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+238,268,PT10M48.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,40,52,92,v,Martin Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+239,271,PT10M27.00S,3,1610612764,WAS,201154,Thornton,A. Thornton,56,242,25,Missed,1,0,0,0,h,MISS Thornton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+240,272,PT10M26.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+241,273,PT10M09.00S,3,1610612745,HOU,2449,Scola,L. Scola,54,0,5,Missed,1,0,0,0,v,MISS Scola 5' Jump Shot,Missed Shot,Jump Shot,0,0
+242,274,PT10M08.00S,3,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+243,275,PT09M49.00S,3,1610612764,WAS,2034,Miller,M. Miller,-21,4,2,Missed,1,0,0,0,h,MISS Miller 2' Layup,Missed Shot,Layup Shot,0,0
+244,276,PT09M48.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+245,277,PT09M47.00S,3,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller P.FOUL (P1.T2),Foul,Personal,0,0
+246,278,PT09M35.00S,3,1610612745,HOU,2755,Martin,K. Martin,-205,134,24,Missed,1,0,0,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+247,279,PT09M33.00S,3,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+248,280,PT09M26.00S,3,1610612764,WAS,200751,Foye,R. Foye,23,0,2,Missed,1,0,0,0,h,MISS Foye 2' Layup,Missed Shot,Layup Shot,0,0
+249,281,PT09M25.00S,3,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+250,282,PT09M22.00S,3,1610612764,WAS,201580,McGee,J. McGee,-106,41,11,Missed,1,0,0,0,h,MISS McGee 11' Jump Shot,Missed Shot,Jump Shot,0,0
+251,283,PT09M21.00S,3,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,Battier REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+252,284,PT09M15.00S,3,1610612745,HOU,2755,Martin,K. Martin,34,0,3,Missed,1,0,0,0,v,MISS Martin 3' Jump Shot,Missed Shot,Jump Shot,0,0
+253,284,PT09M15.00S,3,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller BLOCK (1 BLK),,,0,0
+254,285,PT09M13.00S,3,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+255,286,PT09M08.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,-11,1,1,Made,1,42,52,94,h,Blatche 1' Slam Dunk (14 PTS) (Thornton 2 AST),Made Shot,Slam Dunk Shot,0,0
+256,287,PT08M57.00S,3,1610612745,HOU,2755,Martin,K. Martin,157,201,26,Missed,1,0,0,0,v,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+257,288,PT08M54.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+258,289,PT08M52.00S,3,1610612745,HOU,2449,Scola,L. Scola,4,11,1,Made,1,42,54,96,v,Scola 1' Layup (14 PTS),Made Shot,Layup Shot,0,0
+259,291,PT08M36.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0
+260,292,PT08M20.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola Traveling Turnover (P3.T8),Turnover,Traveling,0,0
+261,293,PT08M07.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche Lost Ball Turnover (P4.T12),Turnover,Lost Ball,0,0
+262,293,PT08M07.00S,3,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,Hayes STEAL (2 STL),,,0,0
+263,294,PT08M02.00S,3,1610612745,HOU,2755,Martin,K. Martin,13,-3,1,Made,1,42,56,98,v,Martin 1' Alley Oop Dunk (11 PTS) (Brooks 2 AST),Made Shot,Alley Oop Dunk Shot,0,0
+264,296,PT08M02.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+265,297,PT08M02.00S,3,1610612764,WAS,200751,Foye,R. Foye,0,0,0,,0,0,0,0,h,SUB: Livingston FOR Foye,Substitution,,0,0
+266,298,PT07M45.00S,3,1610612764,WAS,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0
+267,298,PT07M45.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,Martin STEAL (1 STL),,,0,0
+268,299,PT07M42.00S,3,1610612745,HOU,2755,Martin,K. Martin,24,20,3,Missed,1,0,0,0,v,MISS Martin 3' Jump Shot,Missed Shot,Jump Shot,0,0
+269,299,PT07M42.00S,3,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller BLOCK (2 BLK),,,0,0
+270,300,PT07M42.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+271,301,PT07M38.00S,3,1610612745,HOU,201166,Brooks,A. Brooks,-229,-24,0,Made,1,42,59,101,v,Brooks  3PT Jump Shot (12 PTS) (Battier 3 AST),Made Shot,Jump Shot,0,0
+272,302,PT07M20.00S,3,1610612764,WAS,201580,McGee,J. McGee,-8,19,2,Missed,1,0,0,0,h,MISS McGee 2' Layup,Missed Shot,Layup Shot,0,0
+273,303,PT07M19.00S,3,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+274,304,PT07M17.00S,3,1610612764,WAS,201154,Thornton,A. Thornton,-5,-16,2,Made,1,44,59,103,h,Thornton 2' Tip Shot (6 PTS),Made Shot,Tip Shot,0,0
+275,305,PT07M03.00S,3,1610612745,HOU,2755,Martin,K. Martin,-101,1,10,Made,1,44,61,105,v,Martin 10' Running Jump Shot (13 PTS),Made Shot,Running Jump Shot,0,0
+276,306,PT06M45.00S,3,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller OFF.Foul (P2),Foul,Offensive,0,0
+277,307,PT06M45.00S,3,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller Foul Turnover (P3.T14),Turnover,Foul,0,0
+278,308,PT06M26.00S,3,1610612745,HOU,201166,Brooks,A. Brooks,185,-28,19,Missed,1,0,0,0,v,MISS Brooks 19' Jump Shot,Missed Shot,Jump Shot,0,0
+279,309,PT06M25.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+280,310,PT06M16.00S,3,1610612764,WAS,2034,Miller,M. Miller,7,242,24,Missed,1,0,0,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+281,311,PT06M15.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+282,312,PT06M03.00S,3,1610612745,HOU,2449,Scola,L. Scola,149,131,20,Missed,1,0,0,0,v,MISS Scola 20' Jump Shot,Missed Shot,Jump Shot,0,0
+283,313,PT06M02.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+284,314,PT05M48.00S,3,1610612764,WAS,201154,Thornton,A. Thornton,50,48,7,Missed,1,0,0,0,h,MISS Thornton 7' Jump Shot,Missed Shot,Jump Shot,0,0
+285,315,PT05M47.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+286,316,PT05M38.00S,3,1610612745,HOU,2203,Battier,S. Battier,-215,137,25,Missed,1,0,0,0,v,MISS Battier 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+287,317,PT05M37.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+288,318,PT05M27.00S,3,1610612764,WAS,2034,Miller,M. Miller,233,72,24,Made,1,47,61,108,h,Miller 24' 3PT Jump Shot (7 PTS) (Blatche 1 AST),Made Shot,Jump Shot,0,0
+289,319,PT05M21.00S,3,1610612745,HOU,201166,Brooks,A. Brooks,77,3,8,Missed,1,0,0,0,v,MISS Brooks 8' Jump Shot,Missed Shot,Jump Shot,0,0
+290,319,PT05M21.00S,3,1610612764,WAS,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston BLOCK (1 BLK),,,0,0
+291,320,PT05M21.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+292,321,PT05M21.00S,3,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,SUB: Young FOR Thornton,Substitution,,0,0
+293,322,PT05M21.00S,3,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton T.FOUL (P2.T2),Foul,Technical,0,0
+294,323,PT05M21.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,MISS Martin Free Throw Technical,Free Throw,Free Throw Technical,0,0
+295,324,PT05M21.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0
+296,326,PT05M15.00S,3,1610612745,HOU,2755,Martin,K. Martin,133,154,20,Made,1,47,63,110,v,Martin 20' Jump Shot (15 PTS) (Scola 1 AST),Made Shot,Jump Shot,0,0
+297,327,PT04M59.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,-8,-6,1,Missed,1,0,0,0,h,MISS Blatche 1' Layup,Missed Shot,Layup Shot,0,0
+298,328,PT04M58.00S,3,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+299,329,PT04M55.00S,3,1610612764,WAS,201580,McGee,J. McGee,6,-8,1,Made,1,49,63,112,h,McGee 1' Slam Dunk (4 PTS),Made Shot,Slam Dunk Shot,0,0
+300,331,PT04M44.00S,3,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+301,330,PT04M44.00S,3,1610612745,HOU,2755,Martin,K. Martin,32,11,3,Made,1,49,65,114,v,Martin 3' Jump Shot (17 PTS) (Hayes 1 AST),Made Shot,Jump Shot,0,0
+302,333,PT04M31.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,-164,11,16,Missed,1,0,0,0,h,MISS Blatche 16' Jump Shot,Missed Shot,Jump Shot,0,0
+303,334,PT04M30.00S,3,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,McGee REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+304,335,PT04M29.00S,3,1610612764,WAS,201580,McGee,J. McGee,21,14,3,Missed,1,0,0,0,h,MISS McGee 3' Layup,Missed Shot,Layup Shot,0,0
+305,336,PT04M29.00S,3,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+306,337,PT04M29.00S,3,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks Traveling Turnover (P2.T9),Turnover,Traveling,0,0
+307,338,PT04M19.00S,3,1610612764,WAS,201156,Young,N. Young,48,7,5,Missed,1,0,0,0,h,MISS Young 5' Jump Shot,Missed Shot,Jump Shot,0,0
+308,339,PT04M18.00S,3,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,Hayes REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+309,340,PT04M13.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+310,342,PT03M54.00S,3,1610612745,HOU,2203,Battier,S. Battier,0,254,25,Missed,1,0,0,0,v,MISS Battier 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+311,343,PT03M53.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+312,344,PT03M28.00S,3,1610612764,WAS,2733,Livingston,S. Livingston,-125,113,17,Missed,1,0,0,0,h,MISS Livingston 17' Jump Shot,Missed Shot,Jump Shot,0,0
+313,345,PT03M27.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+314,346,PT03M16.00S,3,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller OFF.Foul (P3),Foul,Offensive,0,0
+315,347,PT03M16.00S,3,1610612764,WAS,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller Foul Turnover (P4.T15),Turnover,Foul,0,0
+316,348,PT03M16.00S,3,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,SUB: Ariza FOR Battier,Substitution,,0,0
+317,349,PT03M16.00S,3,1610612764,WAS,201580,McGee,J. McGee,0,0,0,,0,0,0,0,h,SUB: Singleton FOR McGee,Substitution,,0,0
+318,351,PT03M04.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,-27,0,3,Missed,1,0,0,0,v,MISS Ariza 3' Layup,Missed Shot,Layup Shot,0,0
+319,352,PT03M03.00S,3,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+320,353,PT03M01.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza P.FOUL (P1.T1),Foul,Personal,0,0
+321,354,PT03M01.00S,3,1610612745,HOU,101236,Hayes,C. Hayes,0,0,0,,0,0,0,0,v,SUB: Hill FOR Hayes,Substitution,,0,0
+322,355,PT03M01.00S,3,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,SUB: Lowry FOR Brooks,Substitution,,0,0
+323,356,PT02M50.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche Bad Pass Turnover (P5.T16),Turnover,Bad Pass,0,0
+324,357,PT02M28.00S,3,1610612745,HOU,201941,Hill,J. Hill,-4,4,1,Made,1,49,67,116,v,Hill 1' Slam Dunk (11 PTS) (Lowry 2 AST),Made Shot,Slam Dunk Shot,0,0
+325,358,PT02M09.00S,3,1610612764,WAS,101154,Blatche,A. Blatche,-46,4,5,Made,1,51,67,118,h,Blatche 5' Running Bank Shot (16 PTS),Made Shot,Running Bank shot,0,0
+326,359,PT01M59.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,Martin OFF.Foul (P1),Foul,Offensive,0,0
+327,360,PT01M59.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,Martin Foul Turnover (P3.T10),Turnover,Foul,0,0
+328,361,PT01M49.00S,3,1610612764,WAS,101189,Singleton,J. Singleton,-7,-8,1,Made,1,53,67,120,h,Singleton 1' Layup (8 PTS) (Livingston 1 AST),Made Shot,Layup Shot,0,0
+329,362,PT01M27.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola 3 Second Violation Turnover (P4.T11),Turnover,3 Second Violation,0,0
+330,363,PT01M12.00S,3,1610612764,WAS,201156,Young,N. Young,130,124,18,Made,1,55,67,122,h,Young 18' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+331,364,PT00M58.90S,3,1610612745,HOU,2755,Martin,K. Martin,-223,115,25,Missed,1,0,0,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+332,365,PT00M57.60S,3,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+333,366,PT00M55.90S,3,1610612745,HOU,201941,Hill,J. Hill,6,14,2,Missed,1,0,0,0,v,MISS Hill 2' Layup,Missed Shot,Layup Shot,0,0
+334,367,PT00M54.90S,3,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+335,368,PT00M54.80S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,Martin P.FOUL (P2.T2),Foul,Personal,0,0
+336,369,PT00M54.80S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0,0,0,v,SUB: Budinger FOR Martin,Substitution,,0,0
+337,371,PT00M44.90S,3,1610612764,WAS,101189,Singleton,J. Singleton,-5,-3,1,Made,1,57,67,124,h,Singleton 1' Layup (10 PTS) (Livingston 2 AST),Made Shot,Layup Shot,0,0
+338,372,PT00M36.90S,3,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton S.FOUL (P2.T3),Foul,Shooting,0,0
+339,373,PT00M36.90S,3,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,MISS Lowry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+340,374,PT00M36.90S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0
+341,376,PT00M36.90S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+342,377,PT00M36.90S,3,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,57,68,125,v,Lowry Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+343,380,PT00M28.90S,3,1610612764,WAS,201156,Young,N. Young,-223,131,26,Made,1,60,68,128,h,Young 26' 3PT Jump Shot (7 PTS) (Singleton 1 AST),Made Shot,Jump Shot,0,0
+344,381,PT00M09.90S,3,1610612745,HOU,200768,Lowry,K. Lowry,140,97,17,Missed,1,0,0,0,v,MISS Lowry 17' Jump Shot,Missed Shot,Jump Shot,0,0
+345,382,PT00M08.90S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+346,383,PT00M08.10S,3,1610612764,WAS,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston P.FOUL (P1.PN),Foul,Personal,0,0
+347,384,PT00M08.10S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,60,69,129,v,Scola Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+348,386,PT00M08.10S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,MISS Scola Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+349,388,PT00M07.50S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+350,389,PT00M05.40S,3,1610612745,HOU,2772,Ariza,T. Ariza,1,-3,0,Made,1,60,71,131,v,Ariza  Layup (5 PTS),Made Shot,Layup Shot,0,0
+351,390,PT00M01.90S,3,1610612764,WAS,2733,Livingston,S. Livingston,-10,159,16,Missed,1,0,0,0,h,MISS Livingston 16' Jump Shot,Missed Shot,Jump Shot,0,0
+352,391,PT00M00.70S,3,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,Budinger REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+353,392,PT00M00.00S,3,0,,0,,,0,0,0,,0,60,71,131,,End of 3rd Period (8:52 PM EST),period,end,0,0
+354,394,PT12M00.00S,4,0,,0,,,0,0,0,,0,60,71,131,,Start of 4th Period (8:55 PM EST),period,start,0,0
+355,395,PT11M42.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,Missed,1,0,0,0,h,MISS Blatche  Layup,Missed Shot,Layup Shot,0,0
+356,396,PT11M42.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+357,399,PT11M42.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton P.FOUL (P3.T1),Foul,Personal,0,0
+358,400,PT11M29.00S,4,1610612745,HOU,201978,Budinger,C. Budinger,209,142,25,Missed,1,0,0,0,v,MISS Budinger 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+359,401,PT11M28.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+360,402,PT11M17.00S,4,1610612764,WAS,2733,Livingston,S. Livingston,106,85,14,Made,1,62,71,133,h,Livingston 14' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,0
+361,403,PT11M09.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,-201,159,26,Made,1,62,74,136,v,Ariza 26' 3PT Jump Shot (8 PTS) (Budinger 1 AST),Made Shot,Jump Shot,0,0
+362,404,PT10M51.00S,4,1610612764,WAS,201156,Young,N. Young,-117,131,18,Missed,1,0,0,0,h,MISS Young 18' Jump Shot,Missed Shot,Jump Shot,0,0
+363,405,PT10M50.00S,4,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,Lowry REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+364,406,PT10M46.00S,4,1610612745,HOU,201978,Budinger,C. Budinger,1,0,0,Made,1,62,76,138,v,Budinger  Alley Oop Dunk (6 PTS) (Lowry 3 AST),Made Shot,Alley Oop Dunk Shot,0,0
+365,407,PT10M33.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola S.FOUL (P2.T1),Foul,Shooting,0,0
+366,408,PT10M33.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,63,76,139,h,Thornton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+367,410,PT10M33.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,64,76,140,h,Thornton Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+368,413,PT10M11.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola Lost Ball Turnover (P5.T12),Turnover,Lost Ball,0,0
+369,413,PT10M11.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton STEAL (2 STL),,,0,0
+370,414,PT10M07.00S,4,1610612764,WAS,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0
+371,415,PT10M00.00S,4,1610612745,HOU,201978,Budinger,C. Budinger,236,0,24,Missed,1,0,0,0,v,MISS Budinger 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+372,416,PT09M59.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+373,417,PT09M55.00S,4,1610612745,HOU,2449,Scola,L. Scola,-15,-6,2,Made,1,64,78,142,v,Scola 2' Layup (17 PTS),Made Shot,Layup Shot,0,0
+374,418,PT09M49.00S,4,0,,847,,,0,0,0,,0,0,0,0,,Phillip Saunders Foul:T.FOUL,Foul,Technical,0,0
+375,419,PT09M49.00S,4,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,64,79,143,v,Lowry Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0
+376,421,PT09M49.00S,4,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,SUB: Battier FOR Budinger,Substitution,,0,0
+377,423,PT09M43.00S,4,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,Lowry P.FOUL (P2.T2),Foul,Personal,0,0
+378,424,PT09M27.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,135,-35,14,Made,1,66,79,145,h,Blatche 14' Fadeaway Jumper (18 PTS) (Thornton 3 AST),Made Shot,Fadeaway Jump Shot,0,0
+379,425,PT09M05.00S,4,1610612745,HOU,2449,Scola,L. Scola,7,3,1,Made,1,66,81,147,v,Scola 1' Layup (19 PTS) (Lowry 4 AST),Made Shot,Layup Shot,0,0
+380,426,PT08M43.00S,4,1610612764,WAS,201156,Young,N. Young,119,110,16,Made,1,68,81,149,h,Young 16' Jump Shot (9 PTS) (Blatche 2 AST),Made Shot,Jump Shot,0,0
+381,427,PT08M35.00S,4,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,Lowry OFF.Foul (P3),Foul,Offensive,0,0
+382,428,PT08M35.00S,4,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,Lowry Foul Turnover (P1.T13),Turnover,Foul,0,0
+383,429,PT08M35.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+384,431,PT08M23.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola S.FOUL (P3.T3),Foul,Shooting,0,0
+385,432,PT08M23.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,69,81,150,h,Young Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+386,434,PT08M23.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,70,81,151,h,Young Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+387,436,PT08M03.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,231,15,0,Made,1,70,84,154,v,Ariza  3PT Jump Shot (11 PTS) (Scola 2 AST),Made Shot,Jump Shot,0,0
+388,437,PT07M49.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola S.FOUL (P4.T4),Foul,Shooting,0,0
+389,438,PT07M49.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,71,84,155,h,Young Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+390,440,PT07M49.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,72,84,156,h,Young Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+391,442,PT07M38.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola Bad Pass Turnover (P6.T14),Turnover,Bad Pass,0,0
+392,442,PT07M38.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche STEAL (2 STL),,,0,0
+393,443,PT07M31.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,185,44,19,Missed,1,0,0,0,h,MISS Blatche 19' Jump Shot,Missed Shot,Jump Shot,0,0
+394,444,PT07M30.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+395,445,PT07M24.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton Lost Ball Turnover (P1.T18),Turnover,Lost Ball,0,0
+396,445,PT07M24.00S,4,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,Lowry STEAL (1 STL),,,0,0
+397,446,PT07M16.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young P.FOUL (P1.T2),Foul,Personal,0,0
+398,447,PT07M09.00S,4,1610612745,HOU,200768,Lowry,K. Lowry,132,217,25,Missed,1,0,0,0,v,MISS Lowry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+399,448,PT07M08.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+400,449,PT07M08.00S,4,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill P.FOUL (P3.PN),Foul,Personal,0,0
+401,450,PT07M08.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,73,84,157,h,Singleton Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+402,452,PT07M08.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,74,84,158,h,Singleton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+403,454,PT06M47.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0
+404,454,PT06M47.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton STEAL (1 STL),,,0,0
+405,455,PT06M40.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,2,12,1,Missed,1,0,0,0,h,MISS Blatche 1' Layup,Missed Shot,Layup Shot,0,0
+406,455,PT06M40.00S,4,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,Battier BLOCK (2 BLK),,,0,0
+407,456,PT06M40.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0
+408,457,PT06M29.00S,4,1610612745,HOU,2449,Scola,L. Scola,12,-6,1,Made,1,74,86,160,v,Scola 1' Layup (21 PTS),Made Shot,Layup Shot,0,0
+409,458,PT06M12.00S,4,1610612764,WAS,201156,Young,N. Young,149,89,17,Missed,1,0,0,0,h,MISS Young 17' Jump Shot,Missed Shot,Jump Shot,0,0
+410,459,PT06M11.00S,4,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,Battier REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+411,460,PT06M05.00S,4,1610612745,HOU,200768,Lowry,K. Lowry,23,-6,2,Missed,1,0,0,0,v,MISS Lowry 2' Layup,Missed Shot,Layup Shot,0,0
+412,461,PT06M03.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:5 Def:3),Rebound,Unknown,0,0
+413,462,PT06M01.00S,4,1610612745,HOU,2449,Scola,L. Scola,12,-3,1,Made,1,74,88,162,v,Scola 1' Tip Shot (23 PTS),Made Shot,Tip Shot,0,0
+414,463,PT06M01.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+415,465,PT06M01.00S,4,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,SUB: Martin FOR Battier,Substitution,,0,0
+416,466,PT06M01.00S,4,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,v,SUB: Brooks FOR Lowry,Substitution,,0,0
+417,467,PT05M45.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,-134,26,14,Missed,1,0,0,0,h,MISS Blatche 14' Jump Shot,Missed Shot,Jump Shot,0,0
+418,468,PT05M44.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:5 Def:4),Rebound,Unknown,0,0
+419,469,PT05M30.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton P.FOUL (P4.T3),Foul,Personal,0,0
+420,470,PT05M19.00S,4,1610612745,HOU,2755,Martin,K. Martin,-169,52,18,Made,1,74,90,164,v,Martin 18' Jump Shot (19 PTS) (Scola 3 AST),Made Shot,Jump Shot,0,0
+421,471,PT05M01.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,-193,-27,19,Made,1,76,90,166,h,Thornton 19' Jump Shot (10 PTS) (Livingston 3 AST),Made Shot,Jump Shot,0,0
+422,472,PT04M36.00S,4,1610612745,HOU,201166,Brooks,A. Brooks,78,190,21,Missed,1,0,0,0,v,MISS Brooks 21' Jump Shot,Missed Shot,Jump Shot,0,0
+423,472,PT04M36.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton BLOCK (3 BLK),,,0,0
+424,473,PT04M34.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+425,474,PT04M34.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,v,Ariza P.FOUL (P2.PN),Foul,Personal,0,0
+426,475,PT04M34.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,MISS Thornton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+427,476,PT04M34.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0
+428,477,PT04M34.00S,4,1610612764,WAS,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,SUB: Miller FOR Blatche,Substitution,,0,0
+429,478,PT04M34.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,77,90,167,h,Thornton Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+430,480,PT04M23.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola OFF.Foul (P5),Foul,Offensive,0,0
+431,481,PT04M23.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola Foul Turnover (P7.T16),Turnover,Foul,0,0
+432,482,PT04M12.00S,4,1610612764,WAS,2733,Livingston,S. Livingston,151,-30,15,Missed,1,0,0,0,h,MISS Livingston 15' Jump Shot,Missed Shot,Jump Shot,0,0
+433,483,PT04M11.00S,4,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,Hill REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+434,484,PT04M03.00S,4,1610612745,HOU,2755,Martin,K. Martin,-240,71,25,Missed,1,0,0,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+435,485,PT04M02.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+436,486,PT03M55.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,-8,7,1,Made,1,79,90,169,h,Thornton 1' Dunk (13 PTS) (Livingston 4 AST),Made Shot,Dunk Shot,0,0
+437,487,PT03M31.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,SUB: Battier FOR Scola,Substitution,,0,0
+438,489,PT03M28.00S,4,1610612745,HOU,201166,Brooks,A. Brooks,182,-32,18,Missed,1,0,0,0,v,MISS Brooks 18' Jump Shot,Missed Shot,Jump Shot,0,0
+439,490,PT03M27.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+440,491,PT03M18.00S,4,1610612764,WAS,201156,Young,N. Young,-237,45,24,Made,1,82,90,172,h,Young 24' 3PT Jump Shot (16 PTS) (Miller 4 AST),Made Shot,Jump Shot,0,0
+441,492,PT03M03.00S,4,1610612764,WAS,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston S.FOUL (P2.T4),Foul,Shooting,0,0
+442,493,PT03M03.00S,4,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0,0,0,v,SUB: Scola FOR Hill,Substitution,,0,0
+443,494,PT03M03.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,82,91,173,v,Ariza Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+444,496,PT03M03.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,82,92,174,v,Ariza Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+445,499,PT02M49.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,1,-21,2,Made,1,84,92,176,h,Thornton 2' Reverse Layup (15 PTS) (Miller 5 AST),Made Shot,Reverse Layup Shot,0,0
+446,500,PT02M29.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,241,47,25,Missed,1,0,0,0,v,MISS Ariza 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+447,501,PT02M29.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+448,502,PT02M29.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+449,504,PT02M20.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,-40,12,4,Missed,1,0,0,0,h,MISS Singleton 4' Jump Shot,Missed Shot,Jump Shot,0,0
+450,505,PT02M19.00S,4,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,Battier REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+451,506,PT01M55.00S,4,1610612745,HOU,2755,Martin,K. Martin,53,170,18,Missed,1,0,0,0,v,MISS Martin 18' Jump Shot,Missed Shot,Jump Shot,0,0
+452,507,PT01M54.00S,4,1610612764,WAS,101189,Singleton,J. Singleton,0,0,0,,0,0,0,0,h,Singleton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+453,508,PT01M48.00S,4,1610612764,WAS,2034,Miller,M. Miller,217,123,25,Missed,1,0,0,0,h,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+454,509,PT01M47.00S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+455,510,PT01M44.00S,4,1610612764,WAS,201156,Young,N. Young,1,19,2,Missed,1,0,0,0,h,MISS Young 2' Layup,Missed Shot,Layup Shot,0,0
+456,511,PT01M42.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0,0,0,v,Scola REBOUND (Off:5 Def:5),Rebound,Unknown,0,0
+457,512,PT01M23.00S,4,1610612745,HOU,201166,Brooks,A. Brooks,127,137,19,Missed,1,0,0,0,v,MISS Brooks 19' Jump Shot,Missed Shot,Jump Shot,0,0
+458,513,PT01M22.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+459,514,PT01M12.00S,4,1610612764,WAS,2733,Livingston,S. Livingston,12,159,16,Made,1,86,92,178,h,Livingston 16' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+460,515,PT00M55.60S,4,1610612764,WAS,201156,Young,N. Young,0,0,0,,0,0,0,0,h,Young P.FOUL (P2.PN),Foul,Personal,0,0
+461,516,PT00M55.60S,4,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,86,93,179,v,Martin Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+462,518,PT00M55.60S,4,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,86,94,180,v,Martin Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+463,520,PT00M55.60S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 6 Short 1),Timeout,Regular,0,0
+464,522,PT00M48.80S,4,1610612764,WAS,201156,Young,N. Young,159,-35,16,Made,1,88,94,182,h,Young 16' Jump Shot (18 PTS) (Livingston 5 AST),Made Shot,Jump Shot,0,0
+465,523,PT00M40.00S,4,1610612764,WAS,201154,Thornton,A. Thornton,0,0,0,,0,0,0,0,h,Thornton P.FOUL (P3.PN),Foul,Personal,0,0
+466,524,PT00M40.00S,4,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,88,95,183,v,Brooks Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+467,526,PT00M40.00S,4,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,88,96,184,v,Brooks Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+468,528,PT00M40.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Short (Full 6 Short 2),Timeout,Short,0,0
+469,530,PT00M35.80S,4,1610612764,WAS,201156,Young,N. Young,151,201,25,Missed,1,0,0,0,h,MISS Young 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+470,531,PT00M33.80S,4,1610612745,HOU,201166,Brooks,A. Brooks,0,0,0,,0,0,0,0,v,Brooks REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+471,532,PT00M07.80S,4,1610612745,HOU,2772,Ariza,T. Ariza,47,272,28,Missed,1,0,0,0,v,MISS Ariza 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+472,533,PT00M06.70S,4,1610612745,HOU,2203,Battier,S. Battier,0,0,0,,0,0,0,0,v,Battier REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+473,534,PT00M00.00S,4,0,,0,,,0,0,0,,0,88,96,184,,End of 4th Period (9:29 PM EST),period,end,0,0

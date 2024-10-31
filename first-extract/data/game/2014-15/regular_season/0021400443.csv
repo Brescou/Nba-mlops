@@ -1,0 +1,455 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (3:42 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jump Ball Jordan vs. Valanciunas: Tip to Lowry,Jump Ball,,1,0
+3,3,PT11M36.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,1,34,3,Missed,1,,,0,v,MISS Valanciunas 3' Jump Shot,Missed Shot,Jump Shot,1,0
+4,4,PT11M35.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+5,5,PT11M33.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+6,5,PT11M33.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson STEAL (1 STL),,,1,0
+7,6,PT11M29.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-187,186,26,Made,1,0,3,3,v,Lowry 26' 3PT Jump Shot (3 PTS) (J. Johnson 1 AST),Made Shot,Jump Shot,1,0
+8,7,PT11M14.00S,1,1610612746,LAC,200755,Redick,J. Redick,-122,235,26,Made,1,3,3,6,h,Redick 26' 3PT Jump Shot (3 PTS) (Paul 1 AST),Made Shot,Jump Shot,1,0
+9,8,PT10M48.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,95,4,10,Missed,1,,,0,v,MISS Lowry 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+10,9,PT10M48.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+11,10,PT10M48.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0
+12,12,PT10M36.00S,1,1610612746,LAC,200755,Redick,J. Redick,-59,172,18,Missed,1,,,0,h,MISS Redick 18' Jump Shot,Missed Shot,Jump Shot,1,0
+13,13,PT10M34.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+14,14,PT10M22.00S,1,1610612761,TOR,203082,Ross,T. Ross,217,131,25,Missed,1,,,0,v,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+15,15,PT10M21.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+16,16,PT10M17.00S,1,1610612761,TOR,203082,Ross,T. Ross,26,12,3,Missed,1,,,0,v,MISS Ross 3' Layup,Missed Shot,Layup Shot,1,0
+17,17,PT10M16.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+18,18,PT10M16.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul S.FOUL (P1.T1),Foul,Shooting,1,0
+19,19,PT10M16.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,3,4,7,v,Valanciunas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+20,21,PT10M16.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+21,23,PT10M15.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+22,24,PT10M00.00S,1,1610612746,LAC,101108,Paul,C. Paul,-18,154,16,Missed,1,,,0,h,MISS Paul 16' Jump Shot,Missed Shot,Jump Shot,1,0
+23,26,PT09M59.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+24,25,PT09M59.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,13,-10,2,Missed,1,,,0,h,MISS Jordan 2' Tip Shot,Missed Shot,Tip Shot,1,0
+25,27,PT09M58.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+26,28,PT09M44.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,47,29,6,Missed,1,,,0,v,MISS Valanciunas 6' Running Hook Shot,Missed Shot,Running Hook Shot,1,0
+27,29,PT09M42.00S,1,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,,,0,h,Redick REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+28,30,PT09M28.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson P.FOUL (P1.T1),Foul,Personal,1,0
+29,31,PT09M23.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,97,12,10,Missed,1,,,0,h,MISS Griffin 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+30,32,PT09M22.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+31,33,PT09M06.00S,1,1610612761,TOR,203082,Ross,T. Ross,32,-3,3,Missed,1,,,0,v,MISS Ross 3' Jump Shot,Missed Shot,Jump Shot,1,0
+32,33,PT09M06.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan BLOCK (1 BLK),,,1,0
+33,34,PT09M04.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+34,35,PT09M00.00S,1,1610612746,LAC,200755,Redick,J. Redick,192,181,26,Missed,1,,,0,h,MISS Redick 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+35,36,PT08M58.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+36,37,PT08M42.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,125,23,13,Made,1,3,6,9,v,J. Johnson 13' Turnaround Jump Shot (2 PTS) (Lowry 1 AST),Made Shot,Turnaround Jump Shot,1,0
+37,38,PT08M27.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,159,107,19,Made,1,5,6,11,h,Griffin 19' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+38,39,PT08M13.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,1,0,Missed,1,,,0,v,MISS Valanciunas Dunk,Missed Shot,Dunk Shot,1,0
+39,39,PT08M13.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin BLOCK (1 BLK),,,1,0
+40,40,PT08M11.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+41,41,PT08M09.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-15,-2,2,Made,1,5,8,13,v,Valanciunas 2' Layup (3 PTS),Made Shot,Layup Shot,1,0
+42,42,PT08M00.00S,1,1610612746,LAC,101108,Paul,C. Paul,160,60,17,Missed,1,,,0,h,MISS Paul 17' Jump Shot,Missed Shot,Jump Shot,1,0
+43,43,PT07M59.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+44,44,PT07M54.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,160,213,27,Missed,1,,,0,v,MISS Lowry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+45,45,PT07M51.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+46,46,PT07M41.00S,1,1610612746,LAC,101108,Paul,C. Paul,108,88,14,Missed,1,,,0,h,MISS Paul 14' Jump Shot,Missed Shot,Jump Shot,1,0
+47,47,PT07M40.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+48,48,PT07M31.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson OFF.Foul (P1),Foul,Offensive,1,0
+49,49,PT07M31.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson Foul Turnover (P1.T2),Turnover,Foul,1,0
+50,50,PT07M12.00S,1,1610612746,LAC,200755,Redick,J. Redick,187,186,26,Missed,1,,,0,h,MISS Redick 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+51,51,PT07M11.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+52,52,PT06M57.00S,1,1610612761,TOR,203082,Ross,T. Ross,173,201,27,Missed,1,,,0,v,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+53,53,PT06M55.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+54,54,PT06M47.00S,1,1610612746,LAC,101108,Paul,C. Paul,174,200,27,Missed,1,,,0,h,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+55,55,PT06M45.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+56,56,PT06M36.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+57,57,PT06M16.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,133,137,19,Made,1,7,8,15,h,Griffin 19' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+58,58,PT06M03.00S,1,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,,,0,h,Barnes P.FOUL (P1.T2),Foul,Personal,1,0
+59,59,PT05M50.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0
+60,59,PT05M50.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin STEAL (1 STL),,,1,0
+61,60,PT05M47.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin Offensive Charge Foul (P1),Foul,Offensive Charge,1,0
+62,61,PT05M47.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin Foul Turnover (P1.T2),Turnover,Foul,1,0
+63,62,PT05M47.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+64,64,PT05M30.00S,1,1610612761,TOR,203082,Ross,T. Ross,129,154,20,Made,1,7,10,17,v,Ross 20' Step Back Jump Shot (2 PTS) (J. Johnson 2 AST),Made Shot,Step Back Jump shot,1,0
+65,65,PT05M12.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson Violation:Kicked Ball,Violation,Kicked Ball,0,0
+66,66,PT05M12.00S,1,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,,,0,h,SUB: Crawford FOR Redick,Substitution,,0,0
+67,67,PT05M12.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Patterson FOR A. Johnson,Substitution,,0,0
+68,68,PT05M05.00S,1,1610612746,LAC,2440,Barnes,M. Barnes,212,146,26,Made,1,10,10,20,h,Barnes 26' 3PT Jump Shot (3 PTS) (Griffin 1 AST),Made Shot,Jump Shot,1,0
+69,69,PT04M45.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,-11,67,7,Made,1,10,12,22,v,J. Johnson 7' Running Bank Shot (4 PTS),Made Shot,Running Bank shot,1,0
+70,70,PT04M29.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-123,127,18,Made,1,12,12,24,h,Griffin 18' Step Back Jump Shot (6 PTS) (Crawford 1 AST),Made Shot,Step Back Jump shot,1,0
+71,71,PT04M06.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-8,-3,1,Made,1,12,14,26,v,Lowry 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+72,72,PT03M47.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,6,11,1,Missed,1,,,0,h,MISS Griffin 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+73,74,PT03M44.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+74,73,PT03M44.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-5,-2,1,Missed,1,,,0,h,MISS Griffin 1' Tip Shot,Missed Shot,Tip Shot,1,0
+75,75,PT03M43.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+76,76,PT03M36.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,218,121,25,Made,1,12,17,29,v,Patterson 25' 3PT Jump Shot (3 PTS) (Ross 1 AST),Made Shot,Jump Shot,1,0
+77,77,PT03M15.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,,,0,h,Crawford Traveling Turnover (P1.T3),Turnover,Traveling,1,0
+78,78,PT03M15.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Williams FOR J. Johnson,Substitution,,0,0
+79,79,PT03M15.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,SUB: Davis FOR Jordan,Substitution,,0,0
+80,81,PT03M06.00S,1,1610612761,TOR,203082,Ross,T. Ross,160,213,27,Missed,1,,,0,v,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+81,82,PT03M04.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+82,83,PT03M02.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-7,0,1,Made,1,12,19,31,v,Lowry 1' Layup (7 PTS),Made Shot,Layup Shot,1,0
+83,84,PT02M50.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,4,80,8,Missed,1,,,0,h,MISS Griffin 8' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,0
+84,85,PT02M48.00S,1,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+85,86,PT02M47.00S,1,1610612746,LAC,201175,Davis,G. Davis,-13,0,1,Made,1,14,19,33,h,Davis 1' Layup (2 PTS),Made Shot,Layup Shot,1,0
+86,87,PT02M38.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,,,0,h,Crawford S.FOUL (P1.T3),Foul,Shooting,1,0
+87,88,PT02M38.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+88,90,PT02M38.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Hansbrough FOR Valanciunas,Substitution,,0,0
+89,91,PT02M38.00S,1,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,,,0,h,SUB: Bullock FOR Barnes,Substitution,,0,0
+90,92,PT02M38.00S,1,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: Vasquez FOR Ross,Substitution,,0,0
+91,93,PT02M38.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,SUB: Farmar FOR Paul,Substitution,,0,0
+92,94,PT02M38.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,MISS Lowry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+93,95,PT02M38.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,0
+94,96,PT02M38.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,14,20,34,v,Lowry Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+95,99,PT02M16.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,-199,148,25,Made,1,17,20,37,h,Crawford 25' 3PT Jump Shot (3 PTS) (Griffin 2 AST),Made Shot,Jump Shot,1,0
+96,100,PT01M56.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-4,149,15,Missed,1,,,0,v,MISS Lowry 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+97,101,PT01M55.00S,1,1610612746,LAC,203493,Bullock,R. Bullock,0,0,0,,0,,,0,h,Bullock REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+98,102,PT01M34.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,141,151,21,Made,1,19,20,39,h,Griffin 21' Jump Shot (8 PTS) (Crawford 2 AST),Made Shot,Jump Shot,1,0
+99,103,PT01M14.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+100,103,PT01M14.00S,1,1610612746,LAC,203493,Bullock,R. Bullock,0,0,0,,0,,,0,h,Bullock STEAL (1 STL),,,1,0
+101,104,PT01M05.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,133,235,27,Made,1,22,20,42,h,Crawford 27' 3PT Jump Shot (6 PTS) (Griffin 3 AST),Made Shot,Jump Shot,1,0
+102,105,PT00M55.90S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Short (Reg.1 Short 1),Timeout,Short,0,0
+103,107,PT00M55.90S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: J. Johnson FOR Lowry,Substitution,,0,0
+104,109,PT00M46.40S,1,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P1.T4),Foul,Shooting,1,0
+105,110,PT00M46.40S,1,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,22,21,43,v,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+106,112,PT00M46.40S,1,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,22,22,44,v,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+107,115,PT00M29.40S,1,1610612746,LAC,2037,Crawford,J. Crawford,-146,119,19,Made,1,24,22,46,h,Crawford 19' Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+108,117,PT00M05.90S,1,1610612761,TOR,101150,Williams,L. Williams,-175,222,28,Missed,1,,,0,v,MISS Williams 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+109,118,PT00M04.50S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+110,119,PT00M01.00S,1,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough S.FOUL (P1.T2),Foul,Shooting,1,0
+111,120,PT00M01.00S,1,0,,119,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+112,121,PT00M01.00S,1,0,,119,,,0,0,0,,0,,,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0
+113,122,PT00M01.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,MISS Griffin Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0
+114,123,PT00M01.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+115,124,PT00M01.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,25,22,47,h,Griffin Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,0,0
+116,126,PT00M01.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,26,22,48,h,Griffin Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,0
+117,127,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,22,48,,End of 1st Period (4:07 PM EST),period,end,0,0
+118,131,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,22,48,,Start of 2nd Period (4:10 PM EST),period,start,0,0
+119,132,PT11M46.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson P.FOUL (P1.T1),Foul,Personal,1,0
+120,133,PT11M40.00S,2,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson P.FOUL (P2.T2),Foul,Personal,1,0
+121,135,PT11M35.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,SUB: Jordan FOR Griffin,Substitution,,0,0
+122,138,PT11M30.00S,2,1610612746,LAC,203493,Bullock,R. Bullock,26,-6,3,Made,1,28,22,50,h,Bullock 3' Layup (2 PTS) (Jordan 1 AST),Made Shot,Layup Shot,1,0
+123,139,PT11M09.00S,2,1610612761,TOR,201949,Johnson,J. Johnson,-231,9,0,Missed,1,,,0,v,MISS J. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+124,140,PT11M08.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,0
+125,142,PT10M59.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,89,14,9,Missed,1,,,0,v,MISS Vasquez 9' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+126,142,PT10M59.00S,2,1610612746,LAC,200770,Farmar,J. Farmar,0,0,0,,0,,,0,h,Farmar BLOCK (1 BLK),,,1,0
+127,143,PT10M59.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,0
+128,144,PT10M49.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0
+129,145,PT10M33.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,207,154,26,Missed,1,,,0,h,MISS Crawford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+130,146,PT10M32.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+131,147,PT10M23.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,-157,195,25,Made,1,28,25,53,v,Vasquez 25' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,0
+132,148,PT10M08.00S,2,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson S.FOUL (P3.T3),Foul,Shooting,1,0
+133,149,PT10M08.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,29,25,54,h,Crawford Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+134,151,PT10M08.00S,2,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Ross FOR J. Johnson,Substitution,,0,0
+135,152,PT10M08.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,30,25,55,h,Crawford Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+136,154,PT09M56.00S,2,1610612761,TOR,101150,Williams,L. Williams,-190,168,25,Missed,1,,,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+137,155,PT09M55.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+138,156,PT09M49.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,99,3,10,Missed,1,,,0,v,MISS Patterson 10' Hook Shot,Missed Shot,Hook Shot,1,0
+139,158,PT09M47.00S,2,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+140,157,PT09M47.00S,2,1610612761,TOR,201946,Hansbrough,T. Hansbrough,9,-2,1,Made,1,30,27,57,v,Hansbrough 1' Tip Shot (2 PTS),Made Shot,Tip Shot,1,0
+141,159,PT09M32.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,133,132,19,Made,1,32,27,59,h,Crawford 19' Jump Shot (12 PTS),Made Shot,Jump Shot,1,0
+142,160,PT09M18.00S,2,1610612761,TOR,203082,Ross,T. Ross,226,93,24,Missed,1,,,0,v,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+143,161,PT09M17.00S,2,1610612746,LAC,203493,Bullock,R. Bullock,0,0,0,,0,,,0,h,Bullock REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+144,162,PT09M11.00S,2,1610612746,LAC,200770,Farmar,J. Farmar,0,0,0,,0,,,0,h,Farmar Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0
+145,163,PT09M11.00S,2,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,SUB: A. Johnson FOR Hansbrough,Substitution,,0,0
+146,164,PT08M56.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,-19,61,6,Missed,1,,,0,v,MISS A. Johnson 6' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,0
+147,165,PT08M55.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+148,166,PT08M47.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+149,168,PT08M47.00S,2,1610612746,LAC,203493,Bullock,R. Bullock,0,0,0,,0,,,0,h,SUB: Redick FOR Bullock,Substitution,,0,0
+150,169,PT08M47.00S,2,1610612746,LAC,200770,Farmar,J. Farmar,0,0,0,,0,,,0,h,SUB: Paul FOR Farmar,Substitution,,0,0
+151,171,PT08M41.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Raptors T.Foul (Def. 3 Sec Patterson ),Foul,Defense 3 Second,1,0
+152,172,PT08M41.00S,2,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,,,0,h,MISS Redick Free Throw Technical,Free Throw,Free Throw Technical,0,0
+153,173,PT08M41.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+154,175,PT08M30.00S,2,1610612746,LAC,201175,Davis,G. Davis,53,28,6,Missed,1,,,0,h,MISS Davis 6' Hook Shot,Missed Shot,Hook Shot,1,0
+155,176,PT08M30.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+156,177,PT08M30.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez L.B.FOUL (P1.T4),Foul,Loose Ball,1,0
+157,178,PT08M21.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,,,0,h,Crawford Discontinue Dribble Turnover (P2.T5),Turnover,Discontinue Dribble,1,0
+158,179,PT08M08.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,-26,3,3,Made,1,32,29,61,v,A. Johnson 3' Layup (2 PTS) (Patterson 1 AST),Made Shot,Layup Shot,1,0
+159,180,PT07M51.00S,2,1610612746,LAC,201175,Davis,G. Davis,-10,1,1,Made,1,34,29,63,h,Davis 1' Layup (4 PTS) (Paul 2 AST),Made Shot,Layup Shot,1,0
+160,181,PT07M40.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,-54,110,12,Made,1,34,31,65,v,Patterson 12' Jump Shot (5 PTS) (Vasquez 1 AST),Made Shot,Jump Shot,1,0
+161,182,PT07M13.00S,2,1610612746,LAC,201175,Davis,G. Davis,-7,0,1,Missed,1,,,0,h,MISS Davis 1' Running Hook Shot,Missed Shot,Running Hook Shot,1,0
+162,183,PT07M12.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+163,184,PT07M08.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,12,0,1,Missed,1,,,0,v,MISS Vasquez 1' Layup,Missed Shot,Layup Shot,1,0
+164,185,PT07M05.00S,2,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+165,186,PT07M00.00S,2,1610612746,LAC,200755,Redick,J. Redick,-158,200,25,Made,1,37,31,68,h,Redick 25' 3PT Jump Shot (6 PTS) (Paul 3 AST),Made Shot,Jump Shot,1,0
+166,187,PT06M52.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,0
+167,189,PT06M52.00S,2,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,SUB: Griffin FOR Davis,Substitution,,0,0
+168,190,PT06M52.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,,,0,h,SUB: Barnes FOR Crawford,Substitution,,0,0
+169,191,PT06M52.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,SUB: Lowry FOR Patterson,Substitution,,0,0
+170,192,PT06M52.00S,2,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Williams,Substitution,,0,0
+171,193,PT06M36.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,179,190,26,Missed,1,,,0,v,MISS Vasquez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+172,194,PT06M35.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+173,195,PT06M21.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+174,195,PT06M21.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry STEAL (1 STL),,,1,0
+175,196,PT06M15.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,-179,186,26,Missed,1,,,0,v,MISS Vasquez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+176,197,PT06M12.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+177,198,PT06M08.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0
+178,198,PT06M08.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson STEAL (1 STL),,,1,0
+179,199,PT06M02.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,1,0,Made,1,37,33,70,v,Ross Alley Oop Dunk (4 PTS) (Vasquez 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+180,200,PT05M43.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson P.FOUL (P2.PN),Foul,Personal,1,0
+181,201,PT05M43.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,38,33,71,h,Griffin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+182,203,PT05M43.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,39,33,72,h,Griffin Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+183,205,PT05M21.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul S.FOUL (P2.T1),Foul,Shooting,1,0
+184,206,PT05M21.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,39,34,73,v,Vasquez Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+185,208,PT05M21.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,39,35,74,v,Vasquez Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+186,211,PT05M07.00S,2,1610612746,LAC,200755,Redick,J. Redick,212,153,26,Made,1,42,35,77,h,Redick 26' 3PT Jump Shot (9 PTS) (Griffin 4 AST),Made Shot,Jump Shot,1,0
+187,212,PT04M39.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,106,74,13,Missed,1,,,0,v,MISS Lowry 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+188,213,PT04M37.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+189,214,PT04M36.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas P.FOUL (P1.PN),Foul,Personal,1,0
+190,215,PT04M36.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,43,35,78,h,Paul Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+191,217,PT04M36.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,MISS Paul Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+192,219,PT04M35.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+193,220,PT04M18.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan S.FOUL (P1.T2),Foul,Shooting,1,0
+194,221,PT04M18.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,43,36,79,v,Valanciunas Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+195,223,PT04M18.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,SUB: Williams FOR Vasquez,Substitution,,0,0
+196,224,PT04M18.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Patterson FOR A. Johnson,Substitution,,0,0
+197,225,PT04M18.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,43,37,80,v,Valanciunas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+198,227,PT03M54.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,88,31,9,Missed,1,,,0,h,MISS Barnes 9' Jump Shot,Missed Shot,Jump Shot,1,0
+199,228,PT03M54.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+200,229,PT03M54.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0
+201,230,PT03M46.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+202,230,PT03M46.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,,,0,h,Barnes STEAL (1 STL),,,1,0
+203,231,PT03M39.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin OFF.Foul (P2),Foul,Offensive,1,0
+204,232,PT03M39.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin Foul Turnover (P4.T9),Turnover,Foul,1,0
+205,233,PT03M35.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,,,0,h,Barnes P.FOUL (P2.T3),Foul,Personal,1,0
+206,234,PT03M24.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,1,0,Made,1,43,39,82,v,Valanciunas Dunk (7 PTS) (Lowry 2 AST),Made Shot,Dunk Shot,1,0
+207,235,PT03M17.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross P.FOUL (P1.PN),Foul,Personal,1,0
+208,236,PT03M17.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,44,39,83,h,Paul Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+209,238,PT03M17.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,,,0,h,SUB: Crawford FOR Barnes,Substitution,,0,0
+210,239,PT03M17.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: Vasquez FOR Ross,Substitution,,0,0
+211,240,PT03M17.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,45,39,84,h,Paul Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+212,242,PT03M03.00S,2,1610612761,TOR,101150,Williams,L. Williams,-139,63,15,Missed,1,,,0,v,MISS Williams 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+213,243,PT03M01.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+214,244,PT02M52.00S,2,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,,,0,h,Redick Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0
+215,244,PT02M52.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry STEAL (2 STL),,,1,0
+216,245,PT02M49.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,13,-6,1,Made,1,45,41,86,v,Lowry 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,0
+217,246,PT02M35.00S,2,1610612746,LAC,101108,Paul,C. Paul,-7,82,8,Made,1,47,41,88,h,Paul 8' Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+218,247,PT02M15.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,1,0,Made,1,47,43,90,v,Valanciunas Dunk (9 PTS) (Williams 2 AST),Made Shot,Dunk Shot,1,0
+219,248,PT01M49.00S,2,1610612746,LAC,200755,Redick,J. Redick,32,82,9,Missed,1,,,0,h,MISS Redick 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+220,249,PT01M48.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+221,250,PT01M42.00S,2,1610612761,TOR,101150,Williams,L. Williams,-232,6,0,Missed,1,,,0,v,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+222,251,PT01M41.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+223,252,PT01M33.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson S.FOUL (P2.PN),Foul,Shooting,1,0
+224,253,PT01M33.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+225,255,PT01M33.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,48,43,91,h,Crawford Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+226,257,PT01M33.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,49,43,92,h,Crawford Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+227,260,PT01M16.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,124,231,26,Made,1,49,46,95,v,Vasquez 26' 3PT Jump Shot (8 PTS) (Patterson 2 AST),Made Shot,Jump Shot,1,0
+228,261,PT00M55.90S,2,1610612746,LAC,201933,Griffin,B. Griffin,143,110,18,Missed,1,,,0,h,MISS Griffin 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+229,262,PT00M53.90S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,0
+230,263,PT00M53.70S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,SUB: Farmar FOR Paul,Substitution,,0,0
+231,264,PT00M36.90S,2,1610612761,TOR,200768,Lowry,K. Lowry,53,55,8,Missed,1,,,0,v,MISS Lowry 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+232,264,PT00M36.90S,2,1610612746,LAC,200770,Farmar,J. Farmar,0,0,0,,0,,,0,h,Farmar BLOCK (2 BLK),,,1,0
+233,265,PT00M35.80S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:3 Def:7),Rebound,Unknown,1,0
+234,266,PT00M30.90S,2,1610612746,LAC,201933,Griffin,B. Griffin,-21,-3,2,Missed,1,,,0,h,MISS Griffin 2' Layup,Missed Shot,Layup Shot,1,0
+235,267,PT00M29.60S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+236,268,PT00M26.00S,2,1610612746,LAC,200770,Farmar,J. Farmar,0,0,0,,0,,,0,h,Farmar S.FOUL (P1.T4),Foul,Shooting,1,0
+237,269,PT00M26.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,49,47,96,v,Valanciunas Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+238,271,PT00M26.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,SUB: A. Johnson FOR Patterson,Substitution,,0,0
+239,273,PT00M26.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,SUB: Barnes FOR Jordan,Substitution,,0,0
+240,274,PT00M26.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+241,276,PT00M25.70S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+242,277,PT00M22.90S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+243,280,PT00M22.90S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Ross FOR Valanciunas,Substitution,,0,0
+244,281,PT00M14.80S,2,1610612746,LAC,200770,Farmar,J. Farmar,0,0,0,,0,,,0,h,Farmar Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0
+245,281,PT00M14.80S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry STEAL (3 STL),,,1,0
+246,282,PT00M12.60S,2,1610612746,LAC,200770,Farmar,J. Farmar,0,0,0,,0,,,0,h,Farmar S.FOUL (P2.PN),Foul,Shooting,1,0
+247,283,PT00M12.60S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,49,48,97,v,Lowry Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+248,285,PT00M12.60S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,,,0,h,SUB: Paul FOR Barnes,Substitution,,0,0
+249,286,PT00M12.60S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,49,49,98,v,Lowry Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+250,288,PT00M01.30S,2,1610612746,LAC,101108,Paul,C. Paul,133,121,18,Missed,1,,,0,h,MISS Paul 18' Jump Shot,Missed Shot,Jump Shot,1,0
+251,288,PT00M01.30S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross BLOCK (1 BLK),,,1,0
+252,289,PT00M00.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+253,290,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,49,98,,End of 2nd Period (4:44 PM EST),period,end,0,0
+254,292,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,49,98,,Start of 3rd Period (5:01 PM EST),period,start,0,0
+255,293,PT11M45.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,45,14,5,Missed,1,,,0,h,MISS Griffin 5' Hook Shot,Missed Shot,Hook Shot,1,0
+256,294,PT11M45.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+257,295,PT11M45.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson L.B.FOUL (P3.T1),Foul,Loose Ball,1,0
+258,296,PT11M38.00S,3,1610612746,LAC,2440,Barnes,M. Barnes,231,19,0,Made,1,52,49,101,h,Barnes 3PT Jump Shot (6 PTS) (Paul 4 AST),Made Shot,Jump Shot,1,0
+259,297,PT11M12.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-127,4,13,Made,1,52,51,103,v,Valanciunas 13' Turnaround Jump Shot (12 PTS),Made Shot,Turnaround Jump Shot,1,0
+260,298,PT10M57.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-150,77,17,Made,1,54,51,105,h,Griffin 17' Jump Shot (14 PTS) (Redick 1 AST),Made Shot,Jump Shot,1,0
+261,299,PT10M39.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-15,-2,2,Made,1,54,53,107,v,Valanciunas 2' Layup (14 PTS) (Ross 2 AST),Made Shot,Layup Shot,1,0
+262,300,PT10M19.00S,3,1610612746,LAC,200755,Redick,J. Redick,-108,145,18,Missed,1,,,0,h,MISS Redick 18' Jump Shot,Missed Shot,Jump Shot,1,0
+263,301,PT10M18.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+264,302,PT10M15.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-144,213,26,Made,1,54,56,110,v,Lowry 26' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,0
+265,303,PT10M15.00S,3,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,,,0,h,Redick S.FOUL (P1.T1),Foul,Shooting,1,0
+266,304,PT10M15.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,54,57,111,v,Lowry Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0
+267,306,PT10M00.00S,3,1610612746,LAC,101108,Paul,C. Paul,228,9,0,Made,1,57,57,114,h,Paul 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,1,0
+268,307,PT09M39.00S,3,1610612761,TOR,203082,Ross,T. Ross,127,131,18,Made,1,57,59,116,v,Ross 18' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,0
+269,308,PT09M33.00S,3,1610612746,LAC,101108,Paul,C. Paul,-130,94,16,Missed,1,,,0,h,MISS Paul 16' Jump Shot,Missed Shot,Jump Shot,1,0
+270,309,PT09M32.00S,3,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+271,310,PT09M18.00S,3,1610612761,TOR,203082,Ross,T. Ross,-164,205,26,Made,1,57,62,119,v,Ross 26' 3PT Jump Shot (9 PTS) (Valanciunas 1 AST),Made Shot,Jump Shot,1,0
+272,311,PT08M58.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-34,37,5,Made,1,59,62,121,h,Griffin 5' Hook Shot (16 PTS),Made Shot,Hook Shot,1,0
+273,312,PT08M31.00S,3,1610612761,TOR,203082,Ross,T. Ross,184,189,26,Missed,1,,,0,v,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+274,313,PT08M30.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+275,314,PT08M27.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-21,33,4,Missed,1,,,0,v,MISS Valanciunas 4' Hook Shot,Missed Shot,Hook Shot,1,0
+276,315,PT08M25.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:3 Def:8),Rebound,Unknown,1,0
+277,316,PT08M16.00S,3,1610612746,LAC,200755,Redick,J. Redick,-204,145,25,Missed,1,,,0,h,MISS Redick 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+278,317,PT08M16.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:4 Def:8),Rebound,Unknown,1,0
+279,318,PT08M11.00S,3,1610612746,LAC,200755,Redick,J. Redick,-239,7,24,Made,1,62,62,124,h,Redick 24' 3PT Jump Shot (12 PTS) (Griffin 5 AST),Made Shot,Jump Shot,1,0
+280,319,PT07M43.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,28,-2,3,Made,1,62,64,126,v,A. Johnson 3' Layup (4 PTS),Made Shot,Layup Shot,1,0
+281,320,PT07M31.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross P.FOUL (P2.T2),Foul,Personal,1,0
+282,321,PT07M22.00S,3,1610612746,LAC,2440,Barnes,M. Barnes,-30,42,5,Missed,1,,,0,h,MISS Barnes 5' Hook Shot,Missed Shot,Hook Shot,1,0
+283,322,PT07M20.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+284,323,PT07M13.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,1,0,Made,1,62,66,128,v,Valanciunas Alley Oop Dunk (16 PTS) (Lowry 3 AST),Made Shot,Alley Oop Dunk Shot,1,0
+285,324,PT06M47.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-5,0,1,Made,1,64,66,130,h,Griffin 1' Driving Layup (18 PTS) (Paul 5 AST),Made Shot,Driving Layup Shot,1,0
+286,325,PT06M25.00S,3,1610612761,TOR,201949,Johnson,J. Johnson,-231,26,0,Made,1,64,69,133,v,J. Johnson 3PT Jump Shot (7 PTS) (Lowry 4 AST),Made Shot,Jump Shot,1,0
+287,326,PT06M11.00S,3,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,,,0,h,Redick Traveling Turnover (P2.T12),Turnover,Traveling,1,0
+288,327,PT05M52.00S,3,1610612761,TOR,201949,Johnson,J. Johnson,1,146,15,Missed,1,,,0,v,MISS J. Johnson 15' Jump Shot,Missed Shot,Jump Shot,1,0
+289,328,PT05M51.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:4 Def:9),Rebound,Unknown,1,0
+290,329,PT05M37.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-41,37,6,Missed,1,,,0,h,MISS Griffin 6' Hook Shot,Missed Shot,Hook Shot,1,0
+291,331,PT05M35.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:5 Def:9),Rebound,Unknown,1,0
+292,330,PT05M35.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,1,4,0,Made,1,66,69,135,h,Jordan Tip Shot (2 PTS),Made Shot,Tip Shot,1,0
+293,332,PT05M15.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-89,0,9,Missed,1,,,0,v,MISS Valanciunas 9' Jump Shot,Missed Shot,Jump Shot,1,0
+294,334,PT05M13.00S,3,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+295,333,PT05M13.00S,3,1610612761,TOR,201949,Johnson,J. Johnson,10,0,1,Missed,1,,,0,v,MISS J. Johnson 1' Tip Shot,Missed Shot,Tip Shot,1,0
+296,335,PT05M11.00S,3,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+297,336,PT04M57.00S,3,1610612746,LAC,101108,Paul,C. Paul,234,9,0,Missed,1,,,0,h,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+298,337,PT04M56.00S,3,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+299,338,PT04M52.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+300,340,PT04M41.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Jump Ball Paul vs. Lowry: Tip to Griffin,Jump Ball,,1,0
+301,341,PT04M41.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0
+302,341,PT04M41.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul STEAL (1 STL),,,0,0
+303,342,PT04M23.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-111,181,21,Missed,1,,,0,h,MISS Griffin 21' Jump Shot,Missed Shot,Jump Shot,1,0
+304,343,PT04M22.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+305,344,PT04M12.00S,3,1610612761,TOR,201949,Johnson,J. Johnson,237,-3,24,Missed,1,,,0,v,MISS J. Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+306,345,PT04M10.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:5 Def:10),Rebound,Unknown,1,0
+307,346,PT04M03.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0
+308,346,PT04M03.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross STEAL (1 STL),,,1,0
+309,347,PT03M58.00S,3,1610612761,TOR,203082,Ross,T. Ross,-24,0,2,Missed,1,,,0,v,MISS Ross 2' Layup,Missed Shot,Layup Shot,1,0
+310,348,PT03M56.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+311,349,PT03M56.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross P.FOUL (P3.T3),Foul,Personal,1,0
+312,350,PT03M56.00S,3,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,,,0,h,SUB: Crawford FOR Barnes,Substitution,,0,0
+313,351,PT03M56.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Patterson FOR A. Johnson,Substitution,,0,0
+314,352,PT03M56.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: Williams FOR Ross,Substitution,,0,0
+315,353,PT03M41.00S,3,1610612746,LAC,101108,Paul,C. Paul,95,149,18,Made,1,68,69,137,h,Paul 18' Jump Shot (10 PTS),Made Shot,Jump Shot,1,0
+316,354,PT03M24.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,189,194,27,Made,1,68,72,140,v,Lowry 27' 3PT Jump Shot (19 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,0
+317,355,PT03M08.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,10,0,1,Missed,1,,,0,h,MISS Griffin 1' Layup,Missed Shot,Layup Shot,1,0
+318,356,PT03M07.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+319,357,PT02M53.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,26,0,3,Made,1,68,74,142,v,Lowry 3' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,0
+320,358,PT02M44.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,177,198,27,Missed,1,,,0,h,MISS Crawford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+321,359,PT02M43.00S,3,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+322,360,PT02M34.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-150,113,19,Made,1,68,76,144,v,Lowry 19' Jump Shot (23 PTS),Made Shot,Jump Shot,1,0
+323,361,PT02M33.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+324,363,PT02M33.00S,3,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Vasquez FOR J. Johnson,Substitution,,0,0
+325,364,PT02M33.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,SUB: Farmar FOR Paul,Substitution,,0,0
+326,365,PT02M19.00S,3,1610612746,LAC,200755,Redick,J. Redick,106,145,18,Made,1,70,76,146,h,Redick 18' Jump Shot (14 PTS) (Crawford 3 AST),Made Shot,Jump Shot,1,0
+327,366,PT01M59.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-108,238,26,Missed,1,,,0,v,MISS Lowry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+328,367,PT01M58.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,,,0,h,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+329,368,PT01M50.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,-45,189,19,Missed,1,,,0,h,MISS Crawford 19' Jump Shot,Missed Shot,Jump Shot,1,0
+330,369,PT01M49.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:6 Def:10),Rebound,Unknown,1,0
+331,370,PT01M44.00S,3,1610612746,LAC,200755,Redick,J. Redick,-127,126,18,Made,1,72,76,148,h,Redick 18' Jump Shot (16 PTS) (Jordan 2 AST),Made Shot,Jump Shot,1,0
+332,371,PT01M33.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan P.FOUL (P2.T2),Foul,Personal,1,0
+333,372,PT01M33.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Ross FOR Lowry,Substitution,,0,0
+334,373,PT01M33.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry T.FOUL (P0.T3),Foul,Technical,0,0
+335,374,PT01M33.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,73,76,149,h,Crawford Free Throw Technical (15 PTS),Free Throw,Free Throw Technical,0,0
+336,376,PT01M18.00S,3,1610612761,TOR,101150,Williams,L. Williams,32,276,28,Missed,1,,,0,v,MISS Williams 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+337,377,PT01M18.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:6 Def:11),Rebound,Unknown,1,0
+338,379,PT01M11.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez P.FOUL (P2.T4),Foul,Personal,1,0
+339,380,PT00M57.40S,3,1610612746,LAC,201933,Griffin,B. Griffin,-7,63,6,Made,1,75,76,151,h,Griffin 6' Floating Jump Shot (20 PTS),Made Shot,Floating Jump shot,1,0
+340,381,PT00M41.20S,3,1610612761,TOR,202335,Patterson,P. Patterson,-150,28,15,Made,1,75,78,153,v,Patterson 15' Jump Shot (7 PTS) (Vasquez 3 AST),Made Shot,Jump Shot,1,0
+341,382,PT00M33.90S,3,1610612746,LAC,2037,Crawford,J. Crawford,94,241,26,Missed,1,,,0,h,MISS Crawford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+342,383,PT00M32.80S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:7 Def:11),Rebound,Unknown,1,0
+343,384,PT00M27.90S,3,1610612746,LAC,200755,Redick,J. Redick,236,-10,24,Made,1,78,78,156,h,Redick 24' 3PT Jump Shot (19 PTS) (Crawford 4 AST),Made Shot,Jump Shot,1,0
+344,385,PT00M05.70S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-5,-8,1,Made,1,78,80,158,v,Valanciunas 1' Layup (18 PTS) (Vasquez 4 AST),Made Shot,Layup Shot,1,0
+345,386,PT00M00.40S,3,1610612746,LAC,200770,Farmar,J. Farmar,190,168,25,Missed,1,,,0,h,MISS Farmar 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+346,387,PT00M00.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+347,388,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,80,158,,End of 3rd Period (5:23 PM EST),period,end,0,0
+348,390,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,80,158,,Start of 4th Period (5:26 PM EST),period,start,0,0
+349,391,PT11M42.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,17,-3,2,Missed,1,,,0,v,MISS A. Johnson 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+350,391,PT11M42.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin BLOCK (2 BLK),,,1,0
+351,393,PT11M39.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+352,392,PT11M39.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,1,1,0,Made,1,78,82,160,v,A. Johnson Tip Shot (6 PTS),Made Shot,Tip Shot,1,0
+353,394,PT11M27.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan OFF.Foul (P3),Foul,Offensive,1,0
+354,395,PT11M27.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan Foul Turnover (P2.T14),Turnover,Foul,1,0
+355,396,PT11M27.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,SUB: Davis FOR Jordan,Substitution,,0,0
+356,397,PT11M27.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,,,0,h,SUB: Bullock FOR Redick,Substitution,,0,0
+357,398,PT11M17.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,-153,216,26,Made,1,78,85,163,v,Patterson 26' 3PT Jump Shot (10 PTS) (Vasquez 5 AST),Made Shot,Jump Shot,1,0
+358,399,PT10M57.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,24,269,27,Missed,1,,,0,h,MISS Crawford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+359,400,PT10M56.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+360,401,PT10M50.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin P.FOUL (P3.T1),Foul,Personal,1,0
+361,402,PT10M50.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,SUB: Turkoglu FOR Griffin,Substitution,,0,0
+362,403,PT10M36.00S,4,1610612761,TOR,101150,Williams,L. Williams,-82,139,16,Missed,1,,,0,v,MISS Williams 16' Jump Shot,Missed Shot,Jump Shot,1,0
+363,403,PT10M36.00S,4,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,Davis BLOCK (1 BLK),,,1,0
+364,404,PT10M34.00S,4,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+365,405,PT10M32.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,15,-16,2,Made,1,80,85,165,h,Crawford 2' Driving Layup (17 PTS) (Davis 1 AST),Made Shot,Driving Layup Shot,1,0
+366,406,PT10M20.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,-152,209,26,Made,1,80,88,168,v,Vasquez 26' 3PT Jump Shot (11 PTS) (Ross 3 AST),Made Shot,Jump Shot,1,0
+367,407,PT10M03.00S,4,1610612746,LAC,203493,Bullock,R. Bullock,0,0,0,,0,,,0,h,Bullock Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0
+368,407,PT10M03.00S,4,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,1,0
+369,408,PT09M57.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,-101,239,26,Missed,1,,,0,v,MISS Vasquez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+370,409,PT09M54.00S,4,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+371,410,PT09M34.00S,4,1610612746,LAC,203493,Bullock,R. Bullock,234,-5,0,Missed,1,,,0,h,MISS Bullock 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+372,411,PT09M34.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,0
+373,412,PT09M23.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,165,12,17,Made,1,80,90,170,v,Vasquez 17' Jump Shot (13 PTS),Made Shot,Jump Shot,1,0
+374,413,PT09M09.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,21,0,2,Missed,1,,,0,h,MISS Crawford 2' Layup,Missed Shot,Layup Shot,1,0
+375,414,PT09M08.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+376,415,PT09M03.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,193,165,25,Made,1,80,93,173,v,Vasquez 25' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,1,0
+377,416,PT09M00.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+378,418,PT09M00.00S,4,1610612746,LAC,200770,Farmar,J. Farmar,0,0,0,,0,,,0,h,SUB: Paul FOR Farmar,Substitution,,0,0
+379,419,PT09M00.00S,4,1610612746,LAC,203493,Bullock,R. Bullock,0,0,0,,0,,,0,h,SUB: Redick FOR Bullock,Substitution,,0,0
+380,420,PT08M49.00S,4,1610612746,LAC,201175,Davis,G. Davis,21,-5,2,Made,1,82,93,175,h,Davis 2' Layup (6 PTS) (Paul 6 AST),Made Shot,Layup Shot,1,0
+381,421,PT08M31.00S,4,1610612761,TOR,203082,Ross,T. Ross,-204,153,26,Missed,1,,,0,v,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+382,422,PT08M30.00S,4,1610612746,LAC,2045,Turkoglu,H. Turkoglu,0,0,0,,0,,,0,h,Turkoglu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+383,423,PT08M11.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-237,1,24,Missed,1,,,0,h,MISS Crawford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+384,424,PT08M10.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+385,425,PT07M52.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,-7,61,6,Missed,1,,,0,v,MISS Vasquez 6' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+386,426,PT07M51.00S,4,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+387,427,PT07M41.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez P.FOUL (P3.T1),Foul,Personal,1,0
+388,428,PT07M34.00S,4,1610612746,LAC,101108,Paul,C. Paul,-117,126,17,Missed,1,,,0,h,MISS Paul 17' Jump Shot,Missed Shot,Jump Shot,1,0
+389,429,PT07M33.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+390,430,PT07M24.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul P.FOUL (P3.T2),Foul,Personal,1,0
+391,431,PT07M19.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,18,-6,2,Made,1,82,95,177,v,A. Johnson 2' Layup (8 PTS) (Vasquez 6 AST),Made Shot,Layup Shot,1,0
+392,432,PT07M19.00S,4,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P2.T3),Foul,Shooting,1,0
+393,433,PT07M19.00S,4,1610612746,LAC,201175,Davis,G. Davis,0,0,0,,0,,,0,h,SUB: Jordan FOR Davis,Substitution,,0,0
+394,434,PT07M19.00S,4,1610612746,LAC,2045,Turkoglu,H. Turkoglu,0,0,0,,0,,,0,h,SUB: Griffin FOR Turkoglu,Substitution,,0,0
+395,436,PT07M19.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: Lowry FOR Ross,Substitution,,0,0
+396,437,PT07M19.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,MISS A. Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+397,439,PT07M18.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:7 Def:12),Rebound,Unknown,1,0
+398,440,PT07M05.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,1,0,Missed,1,,,0,h,MISS Jordan Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,0
+399,441,PT07M02.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+400,442,PT06M53.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,-127,224,26,Missed,1,,,0,v,MISS Vasquez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+401,443,PT06M52.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:7 Def:13),Rebound,Unknown,1,0
+402,444,PT06M45.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,21,1,2,Missed,1,,,0,h,MISS Crawford 2' Layup,Missed Shot,Layup Shot,1,0
+403,445,PT06M44.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+404,447,PT06M26.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson OFF.Foul (P3),Foul,Offensive,1,0
+405,448,PT06M26.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson Foul Turnover (P1.T9),Turnover,Foul,1,0
+406,449,PT06M26.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Patterson,Substitution,,0,0
+407,450,PT06M08.00S,4,1610612746,LAC,200755,Redick,J. Redick,165,0,17,Made,1,84,95,179,h,Redick 17' Jump Shot (21 PTS) (Crawford 5 AST),Made Shot,Jump Shot,1,0
+408,451,PT05M55.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,,,0,h,Crawford P.FOUL (P2.T4),Foul,Personal,1,0
+409,452,PT05M55.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+410,454,PT05M55.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,SUB: Ross FOR Vasquez,Substitution,,0,0
+411,455,PT05M49.00S,4,1610612761,TOR,101150,Williams,L. Williams,173,228,29,Made,1,84,98,182,v,Williams 29' 3PT Jump Shot (5 PTS) (Lowry 5 AST),Made Shot,Jump Shot,1,0
+412,456,PT05M33.00S,4,1610612746,LAC,200755,Redick,J. Redick,-54,52,7,Made,1,86,98,184,h,Redick 7' Floating Jump Shot (23 PTS) (Paul 7 AST),Made Shot,Floating Jump shot,1,0
+413,457,PT05M18.00S,4,1610612761,TOR,101150,Williams,L. Williams,-177,190,26,Made,1,86,101,187,v,Williams 26' 3PT Jump Shot (8 PTS) (Lowry 6 AST),Made Shot,Jump Shot,1,0
+414,458,PT05M01.00S,4,1610612746,LAC,101108,Paul,C. Paul,47,42,6,Missed,1,,,0,h,MISS Paul 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+415,459,PT04M58.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+416,460,PT04M55.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,1,0,Made,1,86,103,189,v,Valanciunas Alley Oop Dunk (20 PTS) (Lowry 7 AST),Made Shot,Alley Oop Dunk Shot,1,0
+417,461,PT04M32.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,236,-10,24,Made,1,89,103,192,h,Crawford 24' 3PT Jump Shot (20 PTS) (Paul 8 AST),Made Shot,Jump Shot,1,0
+418,462,PT04M08.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0
+419,463,PT03M59.00S,4,1610612746,LAC,200755,Redick,J. Redick,-153,209,26,Missed,1,,,0,h,MISS Redick 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+420,464,PT03M58.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:4 Def:5),Rebound,Unknown,1,0
+421,465,PT03M55.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin T.FOUL (P3.T4),Foul,Technical,0,0
+422,466,PT03M55.00S,4,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,89,104,193,v,Williams Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0
+423,469,PT03M39.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-15,260,26,Missed,1,,,0,v,MISS Lowry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+424,470,PT03M39.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:3 Def:8),Rebound,Unknown,1,0
+425,471,PT03M21.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,28,0,3,Missed,1,,,0,v,MISS A. Johnson 3' Layup,Missed Shot,Layup Shot,1,0
+426,471,PT03M21.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,,,0,h,Redick BLOCK (1 BLK),,,1,0
+427,472,PT03M19.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+428,473,PT03M15.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,1,0,Made,1,91,104,195,h,Jordan Alley Oop Dunk (4 PTS) (Redick 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+429,474,PT03M12.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+430,476,PT02M55.00S,4,1610612761,TOR,101150,Williams,L. Williams,65,20,7,Missed,1,,,0,v,MISS Williams 7' Jump Shot,Missed Shot,Jump Shot,1,0
+431,477,PT02M54.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:5 Def:5),Rebound,Unknown,1,0
+432,478,PT02M54.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,Griffin S.FOUL (P4.PN),Foul,Shooting,1,0
+433,479,PT02M54.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,91,105,196,v,Valanciunas Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0
+434,481,PT02M54.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,91,106,197,v,Valanciunas Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0
+435,484,PT02M40.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,-7,-2,1,Made,1,93,106,199,h,Griffin 1' Layup (22 PTS) (Redick 3 AST),Made Shot,Layup Shot,1,0
+436,485,PT02M19.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,21,-2,2,Made,1,93,108,201,v,Lowry 2' Driving Finger Roll Layup (25 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+437,486,PT02M01.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,21,-3,2,Missed,1,,,0,h,MISS Griffin 2' Layup,Missed Shot,Layup Shot,1,0
+438,487,PT02M00.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:5 Def:6),Rebound,Unknown,1,0
+439,488,PT01M43.00S,4,1610612761,TOR,203082,Ross,T. Ross,-158,26,16,Made,1,93,110,203,v,Ross 16' Pullup Jump Shot (11 PTS) (A. Johnson 1 AST),Made Shot,Pullup Jump shot,1,0
+440,489,PT01M42.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+441,492,PT01M42.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,,,0,h,SUB: Farmar FOR Griffin,Substitution,,0,0
+442,493,PT01M42.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,SUB: Bullock FOR Jordan,Substitution,,0,0
+443,494,PT01M42.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,,,0,h,SUB: Cunningham FOR Redick,Substitution,,0,0
+444,495,PT01M42.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,,,0,h,SUB: Douglas-Roberts FOR Paul,Substitution,,0,0
+445,496,PT01M42.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,,,0,h,SUB: Udoh FOR Crawford,Substitution,,0,0
+446,498,PT01M29.00S,4,1610612746,LAC,203099,Cunningham,J. Cunningham,-35,34,5,Made,1,95,110,205,h,Cunningham 5' Jump Shot (2 PTS) (Farmar 1 AST),Made Shot,Jump Shot,1,0
+447,499,PT01M11.00S,4,1610612761,TOR,203082,Ross,T. Ross,-232,7,0,Missed,1,,,0,v,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+448,500,PT01M10.00S,4,1610612746,LAC,200770,Farmar,J. Farmar,0,0,0,,0,,,0,h,Farmar REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+449,501,PT00M58.90S,4,1610612746,LAC,203099,Cunningham,J. Cunningham,0,37,4,Missed,1,,,0,h,MISS Cunningham 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+450,502,PT00M56.50S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:3 Def:9),Rebound,Unknown,1,0
+451,503,PT00M35.90S,4,1610612761,TOR,200768,Lowry,K. Lowry,-149,214,26,Missed,1,,,0,v,MISS Lowry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+452,504,PT00M34.90S,4,1610612746,LAC,203493,Bullock,R. Bullock,0,0,0,,0,,,0,h,Bullock REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+453,505,PT00M18.10S,4,1610612746,LAC,203099,Cunningham,J. Cunningham,-15,274,27,Made,1,98,110,208,h,Cunningham 27' 3PT Jump Shot (5 PTS) (Udoh 1 AST),Made Shot,Jump Shot,1,0
+454,507,PT00M00.00S,4,0,,0,,,0,0,0,,0,98,110,208,,End of 4th Period (5:53 PM EST),period,end,0,0

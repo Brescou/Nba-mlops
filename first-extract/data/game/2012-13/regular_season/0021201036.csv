@@ -1,0 +1,505 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:09 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Jump Ball Davis vs. Green: Tip to Davis,Jump Ball,,0,0
+3,2,PT11M33.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,-98,12,10,Missed,1,0,0,0,h,MISS Arthur 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,0
+4,3,PT11M31.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+5,4,PT11M30.00S,1,1610612763,MEM,2754,Allen,T. Allen,10,0,1,Made,1,2,0,2,h,Allen 1' Layup (2 PTS),Made Shot,Layup Shot,0,0
+6,5,PT11M08.00S,1,1610612738,BOS,101138,Bass,B. Bass,-190,-2,19,Made,1,2,2,4,v,Bass 19' Jump Shot (2 PTS) (Pierce 1 AST),Made Shot,Jump Shot,0,0
+7,6,PT10M54.00S,1,1610612763,MEM,201144,Conley,M. Conley,-10,15,2,Missed,1,0,0,0,h,MISS Conley 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+8,6,PT10M54.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley BLOCK (1 BLK),,,0,0
+9,7,PT10M51.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,8,PT10M43.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,GRIZZLIES T.Foul (Def. 3 Sec Allen ),Foul,Defense 3 Second,0,0
+11,9,PT10M43.00S,1,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,2,3,5,v,Terry Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+12,11,PT10M34.00S,1,1610612738,BOS,201145,Green,J. Green,6,-3,1,Missed,1,0,0,0,v,MISS Green 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+13,11,PT10M34.00S,1,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (1 BLK),,,0,0
+14,12,PT10M34.00S,1,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Unknown,0,0
+15,13,PT10M29.00S,1,1610612738,BOS,201145,Green,J. Green,-144,208,25,Made,1,2,6,8,v,Green 25' 3PT Jump Shot (3 PTS) (Bass 1 AST),Made Shot,Jump Shot,0,0
+16,14,PT10M11.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,6,80,8,Missed,1,0,0,0,h,MISS Arthur 8' Jump Shot,Missed Shot,Jump Shot,0,0
+17,15,PT10M10.00S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+18,16,PT10M01.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley S.FOUL (P1.T1),Foul,Shooting,0,0
+19,17,PT10M01.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,2,7,9,v,Bradley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+20,19,PT10M01.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,2,8,10,v,Bradley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+21,21,PT09M42.00S,1,1610612763,MEM,2419,Prince,T. Prince,48,85,10,Missed,1,0,0,0,h,MISS Prince 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+22,22,PT09M39.00S,1,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+23,23,PT09M26.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,7,11,1,Made,1,2,10,12,v,Pierce 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+24,24,PT09M20.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+25,26,PT09M03.00S,1,1610612763,MEM,2754,Allen,T. Allen,141,153,21,Missed,1,0,0,0,h,MISS Allen 21' Jump Shot,Missed Shot,Jump Shot,0,0
+26,27,PT09M01.00S,1,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Unknown,0,0
+27,28,PT08M47.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-141,110,18,Made,1,2,12,14,v,Pierce 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,0
+28,29,PT08M31.00S,1,1610612763,MEM,2754,Allen,T. Allen,-30,44,5,Missed,1,0,0,0,h,MISS Allen 5' Jump Shot,Missed Shot,Jump Shot,0,0
+29,30,PT08M29.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+30,31,PT08M21.00S,1,1610612738,BOS,1891,Terry,J. Terry,225,1,0,Missed,1,0,0,0,v,MISS Terry  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+31,32,PT08M20.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+32,33,PT08M11.00S,1,1610612763,MEM,2754,Allen,T. Allen,-141,143,20,Made,1,4,12,16,h,Allen 20' Jump Shot (4 PTS) (Conley 1 AST),Made Shot,Jump Shot,0,0
+33,34,PT07M52.00S,1,1610612738,BOS,101138,Bass,B. Bass,20,20,3,Missed,1,0,0,0,v,MISS Bass 3' Layup,Missed Shot,Layup Shot,0,0
+34,34,PT07M52.00S,1,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (2 BLK),,,0,0
+35,35,PT07M51.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+36,36,PT07M44.00S,1,1610612763,MEM,201144,Conley,M. Conley,13,4,1,Made,1,6,12,18,h,Conley 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+37,37,PT07M27.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,73,195,21,Missed,1,0,0,0,v,MISS Bradley 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+38,38,PT07M24.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+39,39,PT07M10.00S,1,1610612763,MEM,2419,Prince,T. Prince,135,162,21,Made,1,8,12,20,h,Prince 21' Jump Shot (2 PTS) (Conley 2 AST),Made Shot,Jump Shot,0,0
+40,40,PT06M48.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,-2,3,0,Made,1,8,14,22,v,Bradley  Slam Dunk (4 PTS) (Pierce 2 AST),Made Shot,Slam Dunk Shot,0,0
+41,41,PT06M36.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,-4,1,0,Made,1,10,14,24,h,Arthur  Layup (2 PTS) (Conley 3 AST),Made Shot,Layup Shot,0,0
+42,42,PT06M14.00S,1,1610612738,BOS,201145,Green,J. Green,170,131,21,Made,1,10,16,26,v,Green 21' Jump Shot (5 PTS) (Pierce 3 AST),Made Shot,Jump Shot,0,0
+43,43,PT05M59.00S,1,1610612763,MEM,2419,Prince,T. Prince,91,19,9,Missed,1,0,0,0,h,MISS Prince 9' Jump Shot,Missed Shot,Jump Shot,0,0
+44,44,PT05M58.00S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+45,45,PT05M57.00S,1,1610612763,MEM,2419,Prince,T. Prince,59,26,6,Missed,1,0,0,0,h,MISS Prince 6' Hook Shot,Missed Shot,Hook Shot,0,0
+46,47,PT05M55.00S,1,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+47,46,PT05M55.00S,1,1610612763,MEM,202334,Davis,E. Davis,13,0,1,Made,1,12,16,28,h,Davis 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,0
+48,48,PT05M46.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,-15,9,2,Missed,1,0,0,0,v,MISS Bradley 2' Running Layup,Missed Shot,Running Layup Shot,0,0
+49,48,PT05M46.00S,1,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (3 BLK),,,0,0
+50,49,PT05M44.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+51,50,PT05M37.00S,1,1610612763,MEM,201144,Conley,M. Conley,6,11,1,Missed,1,0,0,0,h,MISS Conley 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+52,52,PT05M36.00S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+53,51,PT05M36.00S,1,1610612763,MEM,2419,Prince,T. Prince,6,6,1,Made,1,14,16,30,h,Prince 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,0
+54,53,PT05M18.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,189,19,Made,1,14,18,32,v,Pierce 19' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,0,0
+55,54,PT05M02.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+56,54,PT05M02.00S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green STEAL (1 STL),,,0,0
+57,55,PT05M01.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley Personal Take Foul (P2.T2),Foul,Personal Take,0,0
+58,56,PT05M01.00S,1,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,SUB: Randolph FOR Davis,Substitution,,0,0
+59,57,PT05M01.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,SUB: Bayless FOR Allen,Substitution,,0,0
+60,58,PT05M01.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Bass,Substitution,,0,0
+61,59,PT04M51.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+62,59,PT04M51.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley STEAL (1 STL),,,0,0
+63,60,PT04M47.00S,1,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,Bayless Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+64,61,PT04M47.00S,1,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+65,63,PT04M32.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-2,19,2,Missed,1,0,0,0,v,MISS Pierce 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+66,64,PT04M31.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+67,65,PT04M14.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,1,1,0,Made,1,16,18,34,h,Arthur  Dunk (4 PTS) (Conley 4 AST),Made Shot,Dunk Shot,0,0
+68,66,PT04M14.00S,1,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox S.FOUL (P1.T1),Foul,Shooting,0,0
+69,67,PT04M14.00S,1,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Terry,Substitution,,0,0
+70,68,PT04M14.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,17,18,35,h,Arthur Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+71,70,PT03M59.00S,1,1610612738,BOS,201145,Green,J. Green,0,-3,0,Made,1,17,20,37,v,Green  Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,0,0
+72,71,PT03M43.00S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green P.FOUL (P1.T2),Foul,Personal,0,0
+73,72,PT03M43.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,SUB: Pondexter FOR Arthur,Substitution,,0,0
+74,73,PT03M33.00S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+75,73,PT03M33.00S,1,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox STEAL (1 STL),,,0,0
+76,74,PT03M26.00S,1,1610612738,BOS,202348,Crawford,J. Crawford,6,42,4,Missed,1,0,0,0,v,MISS Crawford 4' Jump Shot,Missed Shot,Jump Shot,0,0
+77,75,PT03M25.00S,1,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+78,76,PT03M23.00S,1,1610612738,BOS,202348,Crawford,J. Crawford,6,7,1,Made,1,17,22,39,v,Crawford 1' Layup (2 PTS),Made Shot,Layup Shot,0,0
+79,77,PT03M04.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,133,153,20,Made,1,19,22,41,h,Randolph 20' Jump Shot (2 PTS) (Conley 5 AST),Made Shot,Jump Shot,0,0
+80,78,PT02M47.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-5,6,1,Missed,1,0,0,0,v,MISS Pierce 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+81,79,PT02M45.00S,1,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+82,80,PT02M43.00S,1,1610612738,BOS,2404,Wilcox,C. Wilcox,-2,7,1,Made,1,19,24,43,v,Wilcox 1' Layup (2 PTS) (Crawford 1 AST),Made Shot,Layup Shot,0,0
+83,81,PT02M20.00S,1,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox S.FOUL (P2.T3),Foul,Shooting,0,0
+84,82,PT02M20.00S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,20,24,44,h,Prince Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+85,84,PT02M20.00S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,21,24,45,h,Prince Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+86,86,PT02M02.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-7,255,26,Made,1,21,27,48,v,Pierce 26' 3PT Jump Shot (9 PTS) (Wilcox 1 AST),Made Shot,Jump Shot,0,0
+87,87,PT01M44.00S,1,1610612763,MEM,201573,Bayless,J. Bayless,-93,173,20,Made,1,23,27,50,h,Bayless 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,0
+88,88,PT01M32.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+89,88,PT01M32.00S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince STEAL (1 STL),,,0,0
+90,89,PT01M27.00S,1,1610612763,MEM,201573,Bayless,J. Bayless,9,-8,1,Made,1,25,27,52,h,Bayless 1' Layup (4 PTS) (Prince 1 AST),Made Shot,Layup Shot,0,0
+91,90,PT01M12.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0
+92,90,PT01M12.00S,1,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,h,Pondexter STEAL (1 STL),,,0,0
+93,92,PT01M09.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce C.P.FOUL (P1.T4),Foul,Clear Path,0,0
+94,93,PT01M09.00S,1,0,,92,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+95,94,PT01M09.00S,1,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,26,27,53,h,Bayless Free Throw Clear Path 1 of 2 (5 PTS),Free Throw,Free Throw Clear Path 1 of 2,0,0
+96,96,PT01M09.00S,1,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,27,27,54,h,Bayless Free Throw Clear Path 2 of 2 (6 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,0
+97,98,PT01M09.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,SUB: Williams FOR Bradley,Substitution,,0,0
+98,100,PT01M09.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,SUB: Allen FOR Conley,Substitution,,0,0
+99,99,PT01M00.00S,1,1610612763,MEM,201573,Bayless,J. Bayless,130,164,21,Made,1,29,27,56,h,Bayless 21' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,0,0
+100,101,PT00M45.90S,1,1610612738,BOS,202348,Crawford,J. Crawford,-138,222,26,Missed,1,0,0,0,v,MISS Crawford 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+101,103,PT00M40.10S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+102,102,PT00M40.10S,1,1610612738,BOS,1718,Pierce,P. Pierce,2,75,8,Made,1,29,29,58,v,Pierce 8' Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+103,104,PT00M31.90S,1,1610612763,MEM,201573,Bayless,J. Bayless,-112,179,21,Missed,1,0,0,0,h,MISS Bayless 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+104,105,PT00M29.70S,1,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+105,106,PT00M21.20S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph P.FOUL (P1.T3),Foul,Personal,0,0
+106,107,PT00M21.20S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,SUB: Bass FOR Green,Substitution,,0,0
+107,108,PT00M13.80S,1,1610612738,BOS,1718,Pierce,P. Pierce,-64,89,11,Made,1,29,31,60,v,Pierce 11' Turnaround Fadeaway (13 PTS),Made Shot,Turnaround Fadeaway shot,0,0
+108,110,PT00M01.00S,1,1610612763,MEM,201573,Bayless,J. Bayless,-13,6,1,Missed,1,0,0,0,h,MISS Bayless 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+109,112,PT00M00.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0
+110,111,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,31,60,,End of 1st Period (8:36 PM EST),period,end,0,0
+111,114,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,31,60,,Start of 2nd Period (8:38 PM EST),period,start,0,0
+112,115,PT11M51.00S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen P.FOUL (P1.T1),Foul,Personal,0,0
+113,116,PT11M41.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,-128,11,13,Missed,1,0,0,0,v,MISS Pierce 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,0
+114,117,PT11M39.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+115,118,PT11M24.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass S.FOUL (P1.T1),Foul,Shooting,0,0
+116,119,PT11M24.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,30,31,61,h,Randolph Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+117,122,PT11M24.00S,2,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Green FOR Wilcox,Substitution,,0,0
+118,123,PT11M24.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,31,31,62,h,Randolph Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+119,125,PT11M13.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,92,25,10,Made,1,31,33,64,v,Crawford 10' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,0
+120,126,PT10M53.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,102,44,11,Missed,1,0,0,0,h,MISS Randolph 11' Running Bank Shot,Missed Shot,Running Bank shot,0,0
+121,127,PT10M51.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+122,128,PT10M46.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,-232,19,0,Missed,1,0,0,0,h,MISS Pondexter  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+123,129,PT10M44.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+124,130,PT10M43.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph P.FOUL (P2.T2),Foul,Personal,0,0
+125,131,PT10M43.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Terry FOR Pierce,Substitution,,0,0
+126,132,PT10M27.00S,2,1610612738,BOS,1891,Terry,J. Terry,226,-2,0,Made,1,31,36,67,v,Terry  3PT Jump Shot (4 PTS) (Crawford 2 AST),Made Shot,Jump Shot,0,0
+127,133,PT10M01.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,65,184,20,Made,1,33,36,69,h,Arthur 20' Jump Shot (7 PTS) (Pondexter 1 AST),Made Shot,Jump Shot,0,0
+128,134,PT09M42.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0
+129,134,PT09M42.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur STEAL (1 STL),,,0,0
+130,135,PT09M37.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,-2,-3,0,Made,1,35,36,71,h,Pondexter  Dunk (2 PTS) (Allen 1 AST),Made Shot,Dunk Shot,0,0
+131,136,PT09M20.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,-128,154,20,Missed,1,0,0,0,v,MISS Crawford 20' Jump Shot,Missed Shot,Jump Shot,0,0
+132,137,PT09M19.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+133,138,PT09M05.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,-26,252,25,Made,1,38,36,74,h,Bayless 25' 3PT Jump Shot (11 PTS) (Randolph 1 AST),Made Shot,Jump Shot,0,0
+134,139,PT08M57.00S,2,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+135,141,PT08M43.00S,2,1610612738,BOS,201944,Williams,T. Williams,4,-10,1,Made,1,38,38,76,v,Williams 1' Finger Roll Layup (2 PTS),Made Shot,Finger Roll Layup Shot,0,0
+136,142,PT08M26.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,97,190,21,Made,1,40,38,78,h,Bayless 21' Jump Shot (13 PTS) (Arthur 1 AST),Made Shot,Jump Shot,0,0
+137,143,PT07M59.00S,2,1610612738,BOS,201145,Green,J. Green,119,228,26,Missed,1,0,0,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+138,144,PT07M59.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+139,145,PT07M53.00S,2,1610612738,BOS,1891,Terry,J. Terry,-228,6,0,Missed,1,0,0,0,v,MISS Terry  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+140,146,PT07M51.00S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+141,147,PT07M50.00S,2,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams P.FOUL (P1.T2),Foul,Personal,0,0
+142,148,PT07M50.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,SUB: Davis FOR Randolph,Substitution,,0,0
+143,149,PT07M36.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,-131,220,26,Made,1,43,38,81,h,Bayless 26' 3PT Jump Shot (16 PTS) (Pondexter 2 AST),Made Shot,Jump Shot,0,0
+144,150,PT07M09.00S,2,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+145,151,PT07M09.00S,2,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,SUB: Bradley FOR Williams,Substitution,,0,0
+146,152,PT07M09.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,h,SUB: Conley FOR Pondexter,Substitution,,0,0
+147,153,PT06M55.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,-112,184,22,Missed,1,0,0,0,h,MISS Bayless 22' Jump Shot,Missed Shot,Jump Shot,0,0
+148,154,PT06M54.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+149,155,PT06M44.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,-7,1,1,Missed,1,0,0,0,v,MISS Crawford 1' Layup,Missed Shot,Layup Shot,0,0
+150,156,PT06M43.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+151,157,PT06M39.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,Bayless Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0
+152,157,PT06M39.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass STEAL (1 STL),,,0,0
+153,158,PT06M36.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,Bayless S.FOUL (P1.T3),Foul,Shooting,0,0
+154,159,PT06M36.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,Bayless T.FOUL (P1.T3),Foul,Technical,0,0
+155,160,PT06M36.00S,2,0,,159,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+156,172,PT06M36.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Bass,Substitution,,0,0
+157,161,PT06M36.00S,2,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,43,39,82,v,Terry Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+158,163,PT06M36.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,43,40,83,v,Crawford Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+159,165,PT06M36.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,MISS Crawford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+160,168,PT06M35.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+161,169,PT06M18.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,-116,153,19,Missed,1,0,0,0,h,MISS Arthur 19' Jump Shot,Missed Shot,Jump Shot,0,0
+162,171,PT06M16.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+163,170,PT06M16.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,7,1,Made,1,45,40,85,h,Davis 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0
+164,173,PT05M56.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,-125,157,20,Missed,1,0,0,0,v,MISS Bradley 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+165,174,PT05M56.00S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+166,175,PT05M52.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,-2,0,Made,1,47,40,87,h,Arthur  Dunk (9 PTS) (Conley 6 AST),Made Shot,Dunk Shot,0,0
+167,176,PT05M52.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley S.FOUL (P1.T3),Foul,Shooting,0,0
+168,177,PT05M52.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+169,180,PT05M52.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Pierce FOR Crawford,Substitution,,0,0
+170,181,PT05M52.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,MISS Arthur Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+171,183,PT05M51.00S,2,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+172,184,PT05M40.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,GRIZZLIES T.Foul (Def. 3 Sec Arthur ),Foul,Defense 3 Second,0,0
+173,185,PT05M40.00S,2,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,47,41,88,v,Terry Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0
+174,187,PT05M32.00S,2,1610612738,BOS,2404,Wilcox,C. Wilcox,-8,4,1,Made,1,47,43,90,v,Wilcox 1' Alley Oop Layup (4 PTS) (Pierce 4 AST),Made Shot,Alley Oop Layup shot,0,0
+175,188,PT05M10.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,140,4,14,Made,1,49,43,92,h,Arthur 14' Jump Shot (11 PTS) (Bayless 1 AST),Made Shot,Jump Shot,0,0
+176,189,PT05M10.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce S.FOUL (P2.T4),Foul,Shooting,0,0
+177,190,PT05M10.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,50,43,93,h,Arthur Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0
+178,193,PT04M55.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,21,4,2,Missed,1,0,0,0,v,MISS Pierce 2' Running Layup,Missed Shot,Running Layup Shot,0,0
+179,194,PT04M54.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,Bayless REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+180,196,PT04M49.00S,2,1610612763,MEM,2754,Allen,T. Allen,0,-2,0,Made,1,52,43,95,h,Allen  Layup (6 PTS) (Bayless 2 AST),Made Shot,Layup Shot,0,0
+181,197,PT04M40.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,-144,149,21,Made,1,52,45,97,v,Bradley 21' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+182,198,PT04M26.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,0,-3,0,Made,1,54,45,99,h,Bayless  Alley Oop Dunk (18 PTS) (Conley 7 AST),Made Shot,Alley Oop Dunk Shot,0,0
+183,199,PT04M06.00S,2,1610612738,BOS,1891,Terry,J. Terry,100,230,25,Missed,1,0,0,0,v,MISS Terry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+184,200,PT04M05.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+185,201,PT03M55.00S,2,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox S.FOUL (P3.PN),Foul,Shooting,0,0
+186,202,PT03M55.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+187,203,PT03M55.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,0
+188,204,PT03M55.00S,2,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Bass FOR Wilcox,Substitution,,0,0
+189,205,PT03M55.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,SUB: Randolph FOR Arthur,Substitution,,0,0
+190,206,PT03M55.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,55,45,100,h,Davis Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+191,208,PT03M37.00S,2,1610612738,BOS,201145,Green,J. Green,4,-2,0,Missed,1,0,0,0,v,MISS Green  Layup,Missed Shot,Layup Shot,0,0
+192,208,PT03M37.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (4 BLK),,,0,0
+193,209,PT03M36.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+194,210,PT03M32.00S,2,1610612738,BOS,101138,Bass,B. Bass,-180,-22,18,Missed,1,0,0,0,v,MISS Bass 18' Jump Shot,Missed Shot,Jump Shot,0,0
+195,211,PT03M32.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0
+196,212,PT03M32.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce L.B.FOUL (P3.PN),Foul,Loose Ball,0,0
+197,213,PT03M32.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,56,45,101,h,Davis Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+198,214,PT03M32.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Randolph FOR Pierce,Substitution,,0,0
+199,215,PT03M32.00S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,SUB: Prince FOR Allen,Substitution,,0,0
+200,216,PT03M32.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,57,45,102,h,Davis Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+201,218,PT03M11.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,65,42,8,Missed,1,0,0,0,v,MISS Bradley 8' Running Bank Shot,Missed Shot,Running Bank shot,0,0
+202,219,PT03M09.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+203,220,PT03M02.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,121,194,23,Made,1,59,45,104,h,Bayless 23' Jump Shot (20 PTS) (Conley 8 AST),Made Shot,Jump Shot,0,0
+204,221,PT02M44.00S,2,1610612738,BOS,201145,Green,J. Green,7,0,1,Made,1,59,47,106,v,Green 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,0
+205,222,PT02M21.00S,2,1610612763,MEM,201144,Conley,M. Conley,12,0,1,Made,1,61,47,108,h,Conley 1' Layup (4 PTS) (Randolph 2 AST),Made Shot,Layup Shot,0,0
+206,223,PT02M06.00S,2,1610612738,BOS,1891,Terry,J. Terry,136,209,25,Missed,1,0,0,0,v,MISS Terry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+207,224,PT02M05.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+208,225,PT01M58.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis Offensive Charge Foul (P1.T4),Foul,Offensive Charge,0,0
+209,226,PT01M58.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis Foul Turnover (P1.T5),Turnover,Foul,0,0
+210,228,PT01M58.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+211,231,PT01M32.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,48,72,9,Missed,1,0,0,0,v,MISS Bradley 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+212,232,PT01M31.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+213,233,PT01M12.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,43,86,10,Missed,1,0,0,0,h,MISS Randolph 10' Jump Shot,Missed Shot,Jump Shot,0,0
+214,233,PT01M12.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass BLOCK (1 BLK),,,0,0
+215,234,PT01M11.00S,2,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+216,235,PT01M07.00S,2,1610612738,BOS,1891,Terry,J. Terry,-95,154,18,Made,1,61,49,110,v,Terry 18' Pullup Jump Shot (8 PTS) (Green 1 AST),Made Shot,Pullup Jump shot,0,0
+217,236,PT00M54.90S,2,1610612763,MEM,201144,Conley,M. Conley,72,201,21,Missed,1,0,0,0,h,MISS Conley 21' Jump Shot,Missed Shot,Jump Shot,0,0
+218,237,PT00M54.70S,2,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Unknown,0,0
+219,238,PT00M54.70S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis P.FOUL (P2.PN),Foul,Personal,0,0
+220,239,PT00M54.70S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,SUB: Arthur FOR Davis,Substitution,,0,0
+221,240,PT00M54.70S,2,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,SUB: Allen FOR Conley,Substitution,,0,0
+222,241,PT00M36.90S,2,1610612738,BOS,101138,Bass,B. Bass,7,6,1,Made,1,61,51,112,v,Bass 1' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,0,0
+223,242,PT00M23.90S,2,1610612763,MEM,201589,Arthur,D. Arthur,70,55,9,Missed,1,0,0,0,h,MISS Arthur 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,0
+224,243,PT00M21.90S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+225,244,PT00M02.90S,2,1610612763,MEM,201573,Bayless,J. Bayless,78,238,25,Missed,1,0,0,0,h,MISS Bayless 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+226,245,PT00M01.00S,2,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+227,247,PT00M00.00S,2,0,,0,,,0,0,0,,0,61,51,112,,End of 2nd Period (9:11 PM EST),period,end,0,0
+228,249,PT12M00.00S,3,0,,0,,,0,0,0,,0,61,51,112,,Start of 3rd Period (9:27 PM EST),period,start,0,0
+229,250,PT11M44.00S,3,1610612738,BOS,1891,Terry,J. Terry,100,77,13,Missed,1,0,0,0,v,MISS Terry 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+230,251,PT11M41.00S,3,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,Bayless REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+231,252,PT11M21.00S,3,1610612763,MEM,2754,Allen,T. Allen,-29,34,4,Missed,1,0,0,0,h,MISS Allen 4' Jump Shot,Missed Shot,Jump Shot,0,0
+232,253,PT11M21.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+233,254,PT11M14.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen S.FOUL (P2.T1),Foul,Shooting,0,0
+234,255,PT11M14.00S,3,0,,254,,,0,0,0,,0,0,0,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0
+235,256,PT11M14.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,61,52,113,v,Pierce Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+236,258,PT11M14.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,MISS Pierce Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+237,260,PT11M13.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+238,261,PT10M56.00S,3,1610612763,MEM,2419,Prince,T. Prince,-11,205,21,Made,1,63,52,115,h,Prince 21' Jump Shot (8 PTS) (Allen 2 AST),Made Shot,Jump Shot,0,0
+239,262,PT10M42.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,-21,249,25,Made,1,63,55,118,v,Pierce 25' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,0,0
+240,263,PT10M30.00S,3,1610612763,MEM,2754,Allen,T. Allen,10,9,1,Missed,1,0,0,0,h,MISS Allen 1' Layup,Missed Shot,Layup Shot,0,0
+241,264,PT10M28.00S,3,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+242,265,PT10M22.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,-98,242,26,Missed,1,0,0,0,v,MISS Pierce 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+243,266,PT10M20.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+244,267,PT10M14.00S,3,1610612763,MEM,201144,Conley,M. Conley,-15,3,2,Missed,1,0,0,0,h,MISS Conley 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+245,269,PT10M11.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+246,268,PT10M11.00S,3,1610612763,MEM,2754,Allen,T. Allen,-27,15,3,Made,1,65,55,120,h,Allen 3' Layup (8 PTS),Made Shot,Layup Shot,0,0
+247,270,PT09M51.00S,3,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+248,271,PT09M29.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,119,69,14,Made,1,67,55,122,h,Randolph 14' Jump Shot (6 PTS) (Bayless 3 AST),Made Shot,Jump Shot,0,0
+249,272,PT09M15.00S,3,1610612738,BOS,202340,Bradley,A. Bradley,1,15,2,Made,1,67,57,124,v,Bradley 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+250,273,PT08M57.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-4,36,4,Missed,1,0,0,0,h,MISS Randolph 4' Jump Shot,Missed Shot,Jump Shot,0,0
+251,273,PT08M57.00S,3,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green BLOCK (1 BLK),,,0,0
+252,274,PT08M55.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+253,275,PT08M35.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0
+254,275,PT08M35.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley STEAL (2 STL),,,0,0
+255,276,PT08M14.00S,3,1610612763,MEM,201573,Bayless,J. Bayless,116,181,21,Missed,1,0,0,0,h,MISS Bayless 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+256,277,PT08M11.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+257,278,PT08M11.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass S.FOUL (P2.T1),Foul,Shooting,0,0
+258,279,PT08M11.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,68,57,125,h,Randolph Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+259,281,PT08M11.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,MISS Randolph Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+260,283,PT08M10.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+261,284,PT07M55.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,9,1,Made,1,68,59,127,v,Pierce 1' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,0,0
+262,285,PT07M35.00S,3,1610612763,MEM,201144,Conley,M. Conley,189,159,25,Missed,1,0,0,0,h,MISS Conley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+263,286,PT07M34.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+264,287,PT07M25.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,-41,260,26,Made,1,68,62,130,v,Pierce 26' 3PT Jump Shot (22 PTS) (Terry 1 AST),Made Shot,Jump Shot,0,0
+265,288,PT07M05.00S,3,1610612763,MEM,2419,Prince,T. Prince,-122,154,20,Made,1,70,62,132,h,Prince 20' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+266,289,PT06M50.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Backcourt Turnover (P3.T8),Turnover,Backcourt Turnover,0,0
+267,290,PT06M41.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass P.FOUL (P3.T2),Foul,Personal,0,0
+268,291,PT06M34.00S,3,1610612763,MEM,2754,Allen,T. Allen,206,48,21,Missed,1,0,0,0,h,MISS Allen 21' Jump Shot,Missed Shot,Jump Shot,0,0
+269,292,PT06M33.00S,3,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+270,293,PT06M29.00S,3,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0
+271,293,PT06M29.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen STEAL (1 STL),,,0,0
+272,294,PT06M22.00S,3,1610612763,MEM,201573,Bayless,J. Bayless,-196,12,20,Missed,1,0,0,0,h,MISS Bayless 20' Jump Shot,Missed Shot,Jump Shot,0,0
+273,295,PT06M20.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+274,296,PT06M16.00S,3,1610612763,MEM,201573,Bayless,J. Bayless,-232,-6,0,Made,1,73,62,135,h,Bayless  3PT Jump Shot (23 PTS) (Prince 2 AST),Made Shot,Jump Shot,0,0
+275,297,PT05M44.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,94,96,13,Missed,1,0,0,0,v,MISS Pierce 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,0
+276,298,PT05M41.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+277,299,PT05M29.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-70,28,8,Made,1,75,62,137,h,Randolph 8' Hook Shot (9 PTS) (Prince 3 AST),Made Shot,Hook Shot,0,0
+278,300,PT05M28.00S,3,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+279,304,PT05M12.00S,3,1610612738,BOS,1891,Terry,J. Terry,-10,9,1,Missed,1,0,0,0,v,MISS Terry 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+280,305,PT05M10.00S,3,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,Bayless REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+281,306,PT04M51.00S,3,1610612763,MEM,201144,Conley,M. Conley,62,246,25,Missed,1,0,0,0,h,MISS Conley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+282,307,PT04M50.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+283,309,PT04M45.00S,3,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Terry,Substitution,,0,0
+284,310,PT04M45.00S,3,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,SUB: Williams FOR Bradley,Substitution,,0,0
+285,311,PT04M45.00S,3,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,SUB: Arthur FOR Prince,Substitution,,0,0
+286,312,PT04M36.00S,3,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0
+287,312,PT04M36.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley STEAL (3 STL),,,0,0
+288,313,PT04M17.00S,3,1610612763,MEM,201589,Arthur,D. Arthur,-54,197,20,Made,1,77,62,139,h,Arthur 20' Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+289,314,PT04M06.00S,3,1610612738,BOS,101138,Bass,B. Bass,-2,1,0,Made,1,77,64,141,v,Bass  Slam Dunk (6 PTS) (Williams 1 AST),Made Shot,Slam Dunk Shot,0,0
+290,315,PT03M46.00S,3,1610612763,MEM,201589,Arthur,D. Arthur,-62,168,18,Made,1,79,64,143,h,Arthur 18' Jump Shot (16 PTS) (Conley 9 AST),Made Shot,Jump Shot,0,0
+291,316,PT03M28.00S,3,1610612738,BOS,101138,Bass,B. Bass,-82,187,20,Missed,1,0,0,0,v,MISS Bass 20' Jump Shot,Missed Shot,Jump Shot,0,0
+292,317,PT03M26.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+293,318,PT03M16.00S,3,1610612763,MEM,2754,Allen,T. Allen,-7,3,1,Missed,1,0,0,0,h,MISS Allen 1' Layup,Missed Shot,Layup Shot,0,0
+294,320,PT03M14.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+295,319,PT03M14.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-2,4,0,Missed,1,0,0,0,h,MISS Randolph  Putback Layup,Missed Shot,Putback Layup Shot,0,0
+296,321,PT03M13.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+297,322,PT03M13.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph L.B.FOUL (P3.T2),Foul,Loose Ball,0,0
+298,323,PT03M13.00S,3,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Green,Substitution,,0,0
+299,324,PT03M13.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,SUB: Pondexter FOR Allen,Substitution,,0,0
+300,325,PT02M57.00S,3,1610612738,BOS,2404,Wilcox,C. Wilcox,9,3,1,Made,1,79,66,145,v,Wilcox 1' Layup (6 PTS) (Bass 2 AST),Made Shot,Layup Shot,0,0
+301,326,PT02M38.00S,3,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox P.FOUL (P4.T3),Foul,Personal,0,0
+302,328,PT02M38.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+303,330,PT02M24.00S,3,1610612763,MEM,201573,Bayless,J. Bayless,-98,34,10,Made,1,81,66,147,h,Bayless 10' Floating Jump Shot (25 PTS),Made Shot,Floating Jump shot,0,0
+304,331,PT02M11.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce OFF.Foul (P4),Foul,Offensive,0,0
+305,332,PT02M11.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Foul Turnover (P4.T11),Turnover,Foul,0,0
+306,333,PT01M59.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-15,15,2,Missed,1,0,0,0,h,MISS Randolph 2' Layup,Missed Shot,Layup Shot,0,0
+307,334,PT01M58.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+308,335,PT01M57.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-15,9,2,Missed,1,0,0,0,h,MISS Randolph 2' Layup,Missed Shot,Layup Shot,0,0
+309,336,PT01M55.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+310,337,PT01M50.00S,3,1610612738,BOS,202348,Crawford,J. Crawford,6,0,1,Missed,1,0,0,0,v,MISS Crawford 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+311,338,PT01M46.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+312,339,PT01M42.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,2,15,2,Made,1,83,66,149,h,Randolph 2' Layup (11 PTS),Made Shot,Layup Shot,0,0
+313,340,PT01M29.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,129,230,26,Made,1,83,69,152,v,Pierce 26' 3PT Jump Shot (25 PTS),Made Shot,Jump Shot,0,0
+314,341,PT01M17.00S,3,1610612763,MEM,201144,Conley,M. Conley,9,6,1,Missed,1,0,0,0,h,MISS Conley 1' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+315,342,PT01M15.00S,3,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+316,343,PT01M13.00S,3,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,Bayless S.FOUL (P2.T3),Foul,Shooting,0,0
+317,344,PT01M13.00S,3,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,83,70,153,v,Crawford Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+318,346,PT01M13.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,SUB: Allen FOR Conley,Substitution,,0,0
+319,348,PT01M13.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,SUB: Green FOR Bass,Substitution,,0,0
+320,349,PT01M13.00S,3,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,83,71,154,v,Crawford Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+321,351,PT01M03.00S,3,1610612763,MEM,201573,Bayless,J. Bayless,24,4,2,Missed,1,0,0,0,h,MISS Bayless 2' Running Layup,Missed Shot,Running Layup Shot,0,0
+322,352,PT01M01.00S,3,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+323,353,PT00M57.10S,3,1610612738,BOS,2404,Wilcox,C. Wilcox,4,0,0,Made,1,83,73,156,v,Wilcox  Slam Dunk (8 PTS) (Crawford 3 AST),Made Shot,Slam Dunk Shot,0,0
+324,354,PT00M36.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-56,37,7,Made,1,85,73,158,h,Randolph 7' Hook Shot (13 PTS) (Arthur 2 AST),Made Shot,Hook Shot,0,0
+325,355,PT00M24.80S,3,1610612738,BOS,202348,Crawford,J. Crawford,130,233,27,Missed,1,0,0,0,v,MISS Crawford 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+326,356,PT00M24.20S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+327,357,PT00M05.90S,3,1610612763,MEM,201589,Arthur,D. Arthur,95,195,22,Missed,1,0,0,0,h,MISS Arthur 22' Jump Shot,Missed Shot,Jump Shot,0,0
+328,358,PT00M03.90S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:4 Def:6),Rebound,Unknown,0,0
+329,359,PT00M01.50S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-13,260,26,Missed,1,0,0,0,h,MISS Randolph 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+330,361,PT00M00.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0
+331,360,PT00M00.00S,3,0,,0,,,0,0,0,,0,85,73,158,,End of 3rd Period (9:50 PM EST),period,end,0,0
+332,363,PT12M00.00S,4,0,,0,,,0,0,0,,0,85,73,158,,Start of 4th Period (9:53 PM EST),period,start,0,0
+333,364,PT11M42.00S,4,1610612763,MEM,2754,Allen,T. Allen,-13,0,1,Missed,1,0,0,0,h,MISS Allen 1' Layup,Missed Shot,Layup Shot,0,0
+334,364,PT11M42.00S,4,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green BLOCK (2 BLK),,,0,0
+335,365,PT11M40.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+336,366,PT11M36.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,-2,-2,0,Missed,1,0,0,0,v,MISS Crawford  Layup,Missed Shot,Layup Shot,0,0
+337,366,PT11M36.00S,4,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince BLOCK (1 BLK),,,0,0
+338,367,PT11M34.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+339,368,PT11M34.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford T.FOUL (P0.T0),Foul,Technical,0,0
+340,369,PT11M34.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,MISS Bayless Free Throw Technical,Free Throw,Free Throw Technical,0,0
+341,370,PT11M34.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,0
+342,371,PT11M15.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0
+343,371,PT11M15.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce STEAL (1 STL),,,0,0
+344,372,PT10M51.00S,4,1610612738,BOS,201145,Green,J. Green,190,175,26,Missed,1,0,0,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+345,373,PT10M50.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+346,374,PT10M38.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,111,160,19,Missed,1,0,0,0,h,MISS Bayless 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,0
+347,375,PT10M36.00S,4,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+348,376,PT10M23.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,-125,172,21,Made,1,85,75,160,v,Crawford 21' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,0,0
+349,377,PT09M59.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,-45,246,25,Made,1,88,75,163,h,Bayless 25' 3PT Jump Shot (28 PTS) (Prince 4 AST),Made Shot,Jump Shot,0,0
+350,378,PT09M45.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,149,214,26,Missed,1,0,0,0,v,MISS Pierce 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+351,379,PT09M43.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,Bayless REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+352,380,PT09M22.00S,4,1610612763,MEM,2419,Prince,T. Prince,17,28,3,Made,1,90,75,165,h,Prince 3' Turnaround Jump Shot (12 PTS),Made Shot,Turnaround Jump Shot,0,0
+353,381,PT09M18.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+354,383,PT09M18.00S,4,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Terry FOR Wilcox,Substitution,,0,0
+355,384,PT09M18.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,SUB: Davis FOR Arthur,Substitution,,0,0
+356,385,PT09M18.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,0,0,0,h,SUB: Conley FOR Bayless,Substitution,,0,0
+357,386,PT09M01.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Double Dribble Turnover (P5.T12),Turnover,Double Dribble,0,0
+358,387,PT09M01.00S,4,0,,1941,,,0,0,0,,0,0,0,0,,Glenn Rivers Foul:T.FOUL,Foul,Technical,0,0
+359,388,PT09M01.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,91,75,166,h,Conley Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+360,390,PT08M46.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0
+361,391,PT08M34.00S,4,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince S.FOUL (P1.T1),Foul,Shooting,0,0
+362,392,PT08M34.00S,4,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+363,393,PT08M34.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0
+364,394,PT08M34.00S,4,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,91,76,167,v,Green Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+365,396,PT08M22.00S,4,1610612763,MEM,202334,Davis,E. Davis,-7,7,1,Made,1,93,76,169,h,Davis 1' Layup (9 PTS) (Conley 10 AST),Made Shot,Layup Shot,0,0
+366,397,PT08M15.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0
+367,398,PT07M59.00S,4,1610612763,MEM,2754,Allen,T. Allen,-2,6,1,Made,1,95,76,171,h,Allen 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+368,399,PT07M50.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen S.FOUL (P3.T2),Foul,Shooting,0,0
+369,400,PT07M50.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,MISS Pierce Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+370,401,PT07M50.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0
+371,403,PT07M50.00S,4,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,SUB: White FOR Terry,Substitution,,0,0
+372,404,PT07M50.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,95,77,172,v,Pierce Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0
+373,406,PT07M46.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce Personal Take Foul (P5.T1),Foul,Personal Take,0,0
+374,407,PT07M46.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Randolph FOR Pierce,Substitution,,0,0
+375,408,PT07M37.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+376,408,PT07M37.00S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (1 STL),,,0,0
+377,409,PT07M33.00S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0
+378,409,PT07M33.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley STEAL (4 STL),,,0,0
+379,410,PT07M17.00S,4,1610612763,MEM,2754,Allen,T. Allen,212,44,22,Missed,1,0,0,0,h,MISS Allen 22' Jump Shot,Missed Shot,Jump Shot,0,0
+380,411,PT07M17.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0
+381,412,PT07M16.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,6,1,Made,1,97,77,174,h,Conley 1' Layup (7 PTS) (Allen 3 AST),Made Shot,Layup Shot,0,0
+382,413,PT07M16.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford S.FOUL (P1.T2),Foul,Shooting,0,0
+383,414,PT07M16.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,98,77,175,h,Conley Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0
+384,416,PT07M02.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,56,60,8,Missed,1,0,0,0,v,MISS Crawford 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+385,417,PT07M00.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+386,418,PT06M58.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,-4,6,1,Made,1,98,79,177,v,Randolph 1' Layup (2 PTS),Made Shot,Layup Shot,0,0
+387,419,PT06M36.00S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,23,19,3,Missed,1,0,0,0,h,MISS Pondexter 3' Layup,Missed Shot,Layup Shot,0,0
+388,419,PT06M36.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White BLOCK (1 BLK),,,0,0
+389,420,PT06M35.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+390,421,PT06M24.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,231,-8,0,Made,1,98,82,180,v,Crawford  3PT Jump Shot (12 PTS) (Green 2 AST),Made Shot,Jump Shot,0,0
+391,422,PT06M23.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+392,425,PT06M23.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,SUB: Randolph FOR Allen,Substitution,,0,0
+393,426,PT06M23.00S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0,0,0,h,SUB: Bayless FOR Pondexter,Substitution,,0,0
+394,427,PT06M11.00S,4,1610612763,MEM,202334,Davis,E. Davis,-5,6,1,Missed,1,0,0,0,h,MISS Davis 1' Layup,Missed Shot,Layup Shot,0,0
+395,427,PT06M11.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White BLOCK (2 BLK),,,0,0
+396,429,PT06M07.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+397,428,PT06M07.00S,4,1610612763,MEM,202334,Davis,E. Davis,2,7,1,Missed,1,0,0,0,h,MISS Davis 1' Layup,Missed Shot,Layup Shot,0,0
+398,428,PT06M07.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White BLOCK (3 BLK),,,0,0
+399,430,PT06M04.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+400,431,PT05M56.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,10,20,2,Missed,1,0,0,0,v,MISS Randolph 2' Layup,Missed Shot,Layup Shot,0,0
+401,431,PT05M56.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (5 BLK),,,0,0
+402,432,PT05M56.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Unknown,0,0
+403,433,PT05M48.00S,4,1610612738,BOS,201591,White,D. White,146,66,16,Made,1,98,84,182,v,White 16' Jump Shot (2 PTS) (Green 3 AST),Made Shot,Jump Shot,0,0
+404,434,PT05M21.00S,4,1610612763,MEM,2419,Prince,T. Prince,159,56,17,Missed,1,0,0,0,h,MISS Prince 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+405,436,PT05M19.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+406,435,PT05M19.00S,4,1610612763,MEM,202334,Davis,E. Davis,-2,4,0,Made,1,100,84,184,h,Davis  Tip Shot (11 PTS),Made Shot,Tip Shot,0,0
+407,437,PT05M02.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis S.FOUL (P3.T3),Foul,Shooting,0,0
+408,438,PT05M02.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,MISS Randolph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+409,439,PT05M02.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0
+410,440,PT05M02.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,MISS Randolph Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+411,442,PT05M01.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+412,443,PT04M45.00S,4,1610612763,MEM,202334,Davis,E. Davis,4,3,1,Missed,1,0,0,0,h,MISS Davis 1' Dunk,Missed Shot,Dunk Shot,0,0
+413,443,PT04M45.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph BLOCK (1 BLK),,,0,0
+414,444,PT04M42.00S,4,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+415,445,PT04M37.00S,4,1610612738,BOS,201944,Williams,T. Williams,-188,160,25,Made,1,100,87,187,v,Williams 25' 3PT Jump Shot (5 PTS) (Green 4 AST),Made Shot,Jump Shot,0,0
+416,446,PT04M17.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,-139,209,25,Missed,1,0,0,0,h,MISS Bayless 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+417,447,PT04M16.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Unknown,0,0
+418,448,PT04M16.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,0,0,0,h,SUB: Arthur FOR Davis,Substitution,,0,0
+419,449,PT04M01.00S,4,1610612738,BOS,201944,Williams,T. Williams,140,164,22,Made,1,100,89,189,v,Williams 22' Jump Shot (7 PTS) (White 1 AST),Made Shot,Jump Shot,0,0
+420,450,PT03M44.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph P.FOUL (P1.T3),Foul,Personal,0,0
+421,452,PT03M33.00S,4,1610612763,MEM,201144,Conley,M. Conley,-134,238,27,Missed,1,0,0,0,h,MISS Conley 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+422,453,PT03M32.00S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+423,454,PT03M27.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley S.FOUL (P3.T4),Foul,Shooting,0,0
+424,455,PT03M27.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,100,90,190,v,Crawford Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+425,456,PT03M27.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,100,91,191,v,Crawford Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+426,458,PT03M18.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph P.FOUL (P2.T4),Foul,Personal,0,0
+427,459,PT03M04.00S,4,1610612763,MEM,2419,Prince,T. Prince,195,50,20,Missed,1,0,0,0,h,MISS Prince 20' Jump Shot,Missed Shot,Jump Shot,0,0
+428,460,PT03M03.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,Randolph REBOUND (Off:5 Def:6),Rebound,Unknown,0,0
+429,461,PT03M00.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,1,6,1,Missed,1,0,0,0,h,MISS Randolph 1' Putback Layup,Missed Shot,Putback Layup Shot,0,0
+430,462,PT02M58.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+431,463,PT02M38.00S,4,1610612738,BOS,201145,Green,J. Green,23,307,31,Missed,1,0,0,0,v,MISS Green 31' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+432,464,PT02M37.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0
+433,465,PT02M36.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+434,467,PT02M36.00S,4,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,SUB: Bass FOR Randolph,Substitution,,0,0
+435,468,PT02M23.00S,4,1610612763,MEM,2419,Prince,T. Prince,-103,72,13,Missed,1,0,0,0,h,MISS Prince 13' Jump Shot,Missed Shot,Jump Shot,0,0
+436,469,PT02M21.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+437,470,PT02M12.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,0,0,0,h,Conley P.FOUL (P4.PN),Foul,Personal,0,0
+438,471,PT02M12.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,100,92,192,v,Crawford Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+439,473,PT02M12.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,100,93,193,v,Crawford Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+440,475,PT01M58.00S,4,1610612763,MEM,201144,Conley,M. Conley,32,104,11,Made,1,102,93,195,h,Conley 11' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,0,0
+441,476,PT01M43.00S,4,1610612738,BOS,201145,Green,J. Green,195,50,20,Missed,1,0,0,0,v,MISS Green 20' Jump Shot,Missed Shot,Jump Shot,0,0
+442,477,PT01M42.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+443,478,PT01M40.00S,4,1610612738,BOS,201944,Williams,T. Williams,-183,34,19,Made,1,102,95,197,v,Williams 19' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,0,0
+444,479,PT01M21.00S,4,1610612763,MEM,201144,Conley,M. Conley,18,11,2,Missed,1,0,0,0,h,MISS Conley 2' Layup,Missed Shot,Layup Shot,0,0
+445,479,PT01M21.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White BLOCK (4 BLK),,,0,0
+446,480,PT01M20.00S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+447,481,PT01M14.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,84,280,29,Made,1,102,98,200,v,Crawford 29' 3PT Jump Shot (19 PTS) (Williams 2 AST),Made Shot,Jump Shot,0,0
+448,482,PT01M14.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+449,484,PT00M57.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,10,52,5,Made,1,104,98,202,h,Arthur 5' Running Jump Shot (18 PTS),Made Shot,Running Jump Shot,0,0
+450,485,PT00M42.90S,4,1610612738,BOS,201591,White,D. White,-175,52,18,Made,1,104,100,204,v,White 18' Jump Shot (4 PTS) (Bass 3 AST),Made Shot,Jump Shot,0,0
+451,486,PT00M23.90S,4,1610612763,MEM,201589,Arthur,D. Arthur,7,69,7,Missed,1,0,0,0,h,MISS Arthur 7' Jump Shot,Missed Shot,Jump Shot,0,0
+452,487,PT00M23.30S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Unknown,0,0
+453,490,PT00M23.30S,4,0,,487,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+454,491,PT00M23.30S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+455,493,PT00M23.30S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,SUB: Pierce FOR Williams,Substitution,,0,0
+456,494,PT00M23.30S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,SUB: Terry FOR White,Substitution,,0,0
+457,495,PT00M23.30S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,SUB: Allen FOR Randolph,Substitution,,0,0
+458,496,PT00M18.90S,4,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,0,0,0,h,Arthur S.FOUL (P1.PN),Foul,Shooting,0,0
+459,497,PT00M18.90S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,104,101,205,v,Crawford Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+460,499,PT00M18.90S,4,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,SUB: Williams FOR Terry,Substitution,,0,0
+461,500,PT00M18.90S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,SUB: Randolph FOR Allen,Substitution,,0,0
+462,501,PT00M18.90S,4,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,SUB: Bradley FOR Bass,Substitution,,0,0
+463,502,PT00M18.90S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,104,102,206,v,Crawford Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+464,504,PT00M18.90S,4,0,,1610612763,,,0,0,0,,0,0,0,0,h,GRIZZLIES Timeout: Short (Full 5 Short 1),Timeout,Short,0,0
+465,506,PT00M18.50S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford P.FOUL (P2.PN),Foul,Personal,0,0
+466,507,PT00M18.50S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,105,102,207,h,Bayless Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0
+467,509,PT00M18.50S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Bass FOR Crawford,Substitution,,0,0
+468,510,PT00M18.50S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Williams,Substitution,,0,0
+469,511,PT00M18.50S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,106,102,208,h,Bayless Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0
+470,513,PT00M18.50S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Short (Reg.5 Short 1),Timeout,Short,0,0
+471,514,PT00M18.50S,4,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,SUB: Terry FOR Bradley,Substitution,,0,0
+472,515,PT00M18.50S,4,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Wilcox,Substitution,,0,0
+473,516,PT00M18.50S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,SUB: Allen FOR Randolph,Substitution,,0,0
+474,517,PT00M14.70S,4,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,0,0,0,h,Prince S.FOUL (P2.PN),Foul,Shooting,0,0
+475,518,PT00M14.70S,4,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,106,103,209,v,Green Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+476,520,PT00M14.70S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,SUB: Randolph FOR Allen,Substitution,,0,0
+477,521,PT00M14.70S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Williams FOR Pierce,Substitution,,0,0
+478,523,PT00M14.70S,4,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,SUB: Bradley FOR Terry,Substitution,,0,0
+479,524,PT00M14.70S,4,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,106,104,210,v,Green Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+480,526,PT00M12.10S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford P.FOUL (P3.PN),Foul,Personal,0,0
+481,527,PT00M12.10S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,107,104,211,h,Randolph Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+482,529,PT00M12.10S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Crawford,Substitution,,0,0
+483,530,PT00M12.10S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,108,104,212,h,Randolph Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+484,532,PT00M12.10S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Short (Reg.5 Short 2),Timeout,Short,0,0
+485,533,PT00M12.10S,4,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,SUB: Pierce FOR Bradley,Substitution,,0,0
+486,534,PT00M12.10S,4,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Wilcox,Substitution,,0,0
+487,535,PT00M12.10S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,SUB: Terry FOR Williams,Substitution,,0,0
+488,536,PT00M12.10S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,SUB: Allen FOR Randolph,Substitution,,0,0
+489,537,PT00M08.30S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,Allen S.FOUL (P4.PN),Foul,Shooting,0,0
+490,538,PT00M08.30S,4,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,108,105,213,v,Terry Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0
+491,540,PT00M08.30S,4,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,0,0,0,v,MISS Terry Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0
+492,541,PT00M08.30S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0
+493,542,PT00M08.30S,4,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,SUB: Bradley FOR Bass,Substitution,,0,0
+494,543,PT00M08.30S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Williams FOR Pierce,Substitution,,0,0
+495,544,PT00M08.30S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,SUB: Randolph FOR Allen,Substitution,,0,0
+496,545,PT00M08.30S,4,1610612738,BOS,1891,Terry,J. Terry,0,0,0,,0,108,106,214,v,Terry Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,0
+497,547,PT00M06.60S,4,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Personal Take Foul (P2.PN),Foul,Personal Take,0,0
+498,548,PT00M06.60S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,109,106,215,h,Conley Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+499,550,PT00M06.60S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0,0,0,h,SUB: Allen FOR Randolph,Substitution,,0,0
+500,551,PT00M06.60S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,SUB: Pierce FOR Williams,Substitution,,0,0
+501,552,PT00M06.60S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,110,106,216,h,Conley Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0
+502,554,PT00M02.70S,4,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Out of Bounds Lost Ball Turnover (P2.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0
+503,555,PT00M02.70S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0,0,0,h,SUB: Randolph FOR Allen,Substitution,,0,0
+504,556,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,106,216,,End of 4th Period (10:40 PM EST),period,end,0,0

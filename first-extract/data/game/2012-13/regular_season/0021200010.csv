@@ -1,0 +1,522 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:14 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Jump Ball Gortat vs. Bogut: Tip to Curry,Jump Ball,,0,0
+3,2,PT11M45.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,23,56,6,Missed,1,0,0,0,v,MISS Bogut 6' Hook Shot,Missed Shot,Hook Shot,0,0
+4,3,PT11M44.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+5,4,PT11M30.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,230,-8,0,Missed,1,0,0,0,h,MISS Dudley  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+6,5,PT11M29.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+7,6,PT11M22.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,-56,236,24,Missed,1,0,0,0,h,MISS Dragic 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+8,7,PT11M22.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+9,8,PT11M16.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,9,3,1,Made,1,0,2,2,v,Bogut 1' Layup (2 PTS) (Curry 1 AST),Made Shot,Layup Shot,0,0
+10,9,PT10M57.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,18,9,2,Made,1,2,2,4,h,Dudley 2' Layup (2 PTS),Made Shot,Layup Shot,0,0
+11,10,PT10M57.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut S.FOUL (P1.T1),Foul,Shooting,0,0
+12,11,PT10M57.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,3,2,5,h,Dudley Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+13,13,PT10M42.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,28,26,4,Made,1,3,4,7,v,Barnes 4' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,0
+14,14,PT10M22.00S,1,1610612756,PHX,201563,Beasley,M. Beasley,17,1,2,Made,1,5,4,9,h,Beasley 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+15,15,PT10M05.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-98,0,10,Missed,1,0,0,0,v,MISS Thompson 10' Jump Shot,Missed Shot,Jump Shot,0,0
+16,17,PT10M02.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+17,16,PT10M02.00S,1,1610612744,GSW,101135,Lee,D. Lee,-6,11,1,Missed,1,0,0,0,v,MISS Lee 1' Tip Shot,Missed Shot,Tip Shot,0,0
+18,18,PT09M59.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+19,19,PT09M46.00S,1,1610612756,PHX,2449,Scola,L. Scola,59,6,6,Missed,1,0,0,0,h,MISS Scola 6' Jump Shot,Missed Shot,Jump Shot,0,0
+20,20,PT09M43.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+21,21,PT09M41.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,6,4,1,Missed,1,0,0,0,h,MISS Gortat 1' Layup,Missed Shot,Layup Shot,0,0
+22,22,PT09M38.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+23,23,PT09M32.00S,1,1610612744,GSW,101135,Lee,D. Lee,29,4,3,Missed,1,0,0,0,v,MISS Lee 3' Layup,Missed Shot,Layup Shot,0,0
+24,24,PT09M29.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+25,25,PT09M28.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,v,Barnes S.FOUL (P1.T2),Foul,Shooting,0,0
+26,26,PT09M28.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,6,4,10,h,Dragic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+27,28,PT09M28.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,7,4,11,h,Dragic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+28,30,PT09M06.00S,1,1610612744,GSW,101135,Lee,D. Lee,-89,28,9,Missed,1,0,0,0,v,MISS Lee 9' Jump Shot,Missed Shot,Jump Shot,0,0
+29,31,PT09M04.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+30,32,PT08M51.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,-5,25,3,Made,1,9,4,13,h,Gortat 3' Layup (2 PTS) (Dudley 1 AST),Made Shot,Layup Shot,0,0
+31,33,PT08M31.00S,1,1610612744,GSW,201939,Curry,S. Curry,-45,246,25,Missed,1,0,0,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+32,34,PT08M30.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+33,35,PT08M18.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+34,35,PT08M18.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry STEAL (1 STL),,,0,0
+35,36,PT08M06.00S,1,1610612744,GSW,101135,Lee,D. Lee,-21,7,2,Missed,1,0,0,0,v,MISS Lee 2' Layup,Missed Shot,Layup Shot,0,0
+36,36,PT08M06.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola BLOCK (1 BLK),,,0,0
+37,37,PT08M05.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+38,38,PT07M59.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,228,77,24,Made,1,9,7,16,v,Thompson 24' 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,0,0
+39,39,PT07M43.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat Offensive Charge Foul (P1.T1),Foul,Offensive Charge,0,0
+40,40,PT07M43.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat Foul Turnover (P1.T2),Turnover,Foul,0,0
+41,41,PT07M22.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,-15,7,2,Made,1,9,9,18,v,Bogut 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+42,42,PT07M22.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola S.FOUL (P1.T2),Foul,Shooting,0,0
+43,43,PT07M22.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,MISS Bogut Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+44,45,PT07M22.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+45,46,PT07M09.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,-141,58,15,Missed,1,0,0,0,h,MISS Gortat 15' Jump Shot,Missed Shot,Jump Shot,0,0
+46,47,PT07M06.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+47,48,PT07M00.00S,1,1610612744,GSW,101135,Lee,D. Lee,-11,194,19,Missed,1,0,0,0,v,MISS Lee 19' Jump Shot,Missed Shot,Jump Shot,0,0
+48,49,PT06M57.00S,1,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,Beasley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+49,50,PT06M52.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee S.FOUL (P1.T3),Foul,Shooting,0,0
+50,51,PT06M52.00S,1,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,10,9,19,h,Beasley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+51,53,PT06M52.00S,1,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,MISS Beasley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+52,55,PT06M50.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+53,56,PT06M29.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,73,183,20,Made,1,10,11,21,v,Bogut 20' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+54,58,PT06M11.00S,1,1610612756,PHX,201563,Beasley,M. Beasley,-15,6,2,Missed,1,0,0,0,h,MISS Beasley 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,0
+55,59,PT06M09.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+56,60,PT06M03.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,-49,53,7,Missed,1,0,0,0,v,MISS Barnes 7' Jump Shot,Missed Shot,Jump Shot,0,0
+57,61,PT06M03.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+58,62,PT06M03.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Ezeli FOR Bogut,Substitution,,0,0
+59,63,PT06M03.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,v,SUB: Rush FOR Barnes,Substitution,,0,0
+60,64,PT05M58.00S,1,1610612744,GSW,201939,Curry,S. Curry,-188,102,21,Missed,1,0,0,0,v,MISS Curry 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,0
+61,65,PT05M55.00S,1,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,Ezeli REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+62,66,PT05M42.00S,1,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,Rush OFF.Foul (P1),Foul,Offensive,0,0
+63,67,PT05M42.00S,1,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,Rush Foul Turnover (P1.T1),Turnover,Foul,0,0
+64,68,PT05M42.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+65,72,PT05M30.00S,1,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,Beasley Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+66,72,PT05M30.00S,1,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,Ezeli STEAL (1 STL),,,0,0
+67,73,PT05M13.00S,1,1610612744,GSW,201939,Curry,S. Curry,-237,99,26,Missed,1,0,0,0,v,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+68,74,PT05M10.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+69,75,PT05M03.00S,1,1610612756,PHX,2449,Scola,L. Scola,168,-8,17,Missed,1,0,0,0,h,MISS Scola 17' Jump Shot,Missed Shot,Jump Shot,0,0
+70,76,PT05M00.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+71,77,PT04M50.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+72,78,PT04M33.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,31,30,4,Made,1,12,11,23,h,Dudley 4' Jump Bank Shot (5 PTS) (Scola 1 AST),Made Shot,Jump Bank Shot,0,0
+73,79,PT04M33.00S,1,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,Ezeli S.FOUL (P1.T4),Foul,Shooting,0,0
+74,80,PT04M33.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,SUB: Jack FOR Curry,Substitution,,0,0
+75,81,PT04M33.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,MISS Dudley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+76,83,PT04M32.00S,1,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,Rush REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+77,84,PT04M32.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola P.FOUL (P2.T3),Foul,Personal,0,0
+78,85,PT04M32.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,SUB: Morris FOR Scola,Substitution,,0,0
+79,86,PT04M13.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-171,0,17,Made,1,12,13,25,v,Thompson 17' Jump Shot (5 PTS) (Jack 1 AST),Made Shot,Jump Shot,0,0
+80,87,PT03M56.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,-18,1,2,Missed,1,0,0,0,h,MISS Dragic 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+81,88,PT03M54.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+82,89,PT03M45.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,195,148,24,Made,1,12,16,28,v,Thompson 24' 3PT Jump Shot (8 PTS) (Jack 2 AST),Made Shot,Jump Shot,0,0
+83,90,PT03M37.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,72,231,24,Made,1,15,16,31,h,Dudley 24' 3PT Jump Shot (8 PTS) (Dragic 1 AST),Made Shot,Jump Shot,0,0
+84,91,PT03M24.00S,1,1610612744,GSW,101135,Lee,D. Lee,15,9,2,Made,1,15,18,33,v,Lee 2' Layup (2 PTS) (Thompson 1 AST),Made Shot,Layup Shot,0,0
+85,92,PT03M04.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,-175,7,18,Made,1,17,18,35,h,Dudley 18' Jump Shot (10 PTS) (Dragic 2 AST),Made Shot,Jump Shot,0,0
+86,93,PT02M44.00S,1,1610612744,GSW,201575,Rush,B. Rush,133,175,22,Made,1,17,20,37,v,Rush 22' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,0,0
+87,94,PT02M32.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat Traveling Turnover (P2.T4),Turnover,Traveling,0,0
+88,95,PT02M32.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+89,97,PT02M32.00S,1,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,SUB: O'Neal FOR Beasley,Substitution,,0,0
+90,98,PT02M32.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,SUB: Brown FOR Gortat,Substitution,,0,0
+91,99,PT02M32.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Landry FOR Lee,Substitution,,0,0
+92,100,PT02M32.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: Jefferson FOR Thompson,Substitution,,0,0
+93,101,PT02M18.00S,1,1610612744,GSW,101127,Jack,J. Jack,-84,140,16,Missed,1,0,0,0,v,MISS Jack 16' Jump Shot,Missed Shot,Jump Shot,0,0
+94,101,PT02M18.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic BLOCK (1 BLK),,,0,0
+95,102,PT02M16.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+96,103,PT02M01.00S,1,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0
+97,103,PT02M01.00S,1,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry STEAL (1 STL),,,0,0
+98,104,PT01M52.00S,1,1610612744,GSW,203105,Ezeli,F. Ezeli,36,11,4,Made,1,17,22,39,v,Ezeli 4' Jump Bank Shot (2 PTS) (Jack 3 AST),Made Shot,Jump Bank Shot,0,0
+99,105,PT01M40.00S,1,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,Rush Shooting Block Foul (P2.PN),Foul,Shooting Block,0,0
+100,106,PT01M40.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,18,22,40,h,Dragic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+101,109,PT01M40.00S,1,0,,1243,,,0,0,0,,0,0,0,0,,Alvin Gentry Foul:T.FOUL,Foul,Technical,0,0
+102,110,PT01M40.00S,1,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,18,23,41,v,Rush Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0
+103,112,PT01M40.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,19,23,42,h,Dragic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+104,114,PT01M20.00S,1,1610612744,GSW,101127,Jack,J. Jack,-54,159,17,Missed,1,0,0,0,v,MISS Jack 17' Jump Shot,Missed Shot,Jump Shot,0,0
+105,115,PT01M17.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+106,116,PT01M07.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+107,117,PT01M07.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,SUB: Telfair FOR Dragic,Substitution,,0,0
+108,118,PT00M51.90S,1,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+109,118,PT00M51.90S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Morris STEAL (1 STL),,,0,0
+110,119,PT00M40.90S,1,1610612756,PHX,202693,Morris,M. Morris,86,165,19,Missed,1,0,0,0,h,MISS Morris 19' Jump Shot,Missed Shot,Jump Shot,0,0
+111,120,PT00M38.10S,1,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,Ezeli REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+112,121,PT00M33.10S,1,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,h,Telfair S.FOUL (P1.T4),Foul,Shooting,0,0
+113,122,PT00M33.10S,1,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,19,24,43,v,Jack Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+114,124,PT00M33.10S,1,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Rush,Substitution,,0,0
+115,125,PT00M33.10S,1,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,19,25,44,v,Jack Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+116,127,PT00M16.10S,1,1610612756,PHX,202693,Morris,M. Morris,0,33,3,Made,1,21,25,46,h,Morris 3' Jump Shot (2 PTS) (Brown 1 AST),Made Shot,Jump Shot,0,0
+117,128,PT00M06.40S,1,1610612744,GSW,202691,Thompson,K. Thompson,230,78,24,Missed,1,0,0,0,v,MISS Thompson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+118,129,PT00M01.70S,1,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+119,130,PT00M00.00S,1,0,,0,,,0,0,0,,0,21,25,46,,End of 1st Period (10:39 PM EST),period,end,0,0
+120,132,PT12M00.00S,2,0,,0,,,0,0,0,,0,21,25,46,,Start of 2nd Period (10:42 PM EST),period,start,0,0
+121,133,PT11M53.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,-183,144,23,Missed,1,0,0,0,h,MISS Beasley 23' Jump Shot,Missed Shot,Jump Shot,0,0
+122,134,PT11M52.00S,2,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,Ezeli REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+123,135,PT11M39.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+124,139,PT11M32.00S,2,1610612744,GSW,201575,Rush,B. Rush,18,0,2,Made,1,21,27,48,v,Rush 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,0
+125,140,PT11M20.00S,2,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0,0,0,h,Brown Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+126,140,PT11M20.00S,2,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,Ezeli STEAL (2 STL),,,0,0
+127,141,PT11M16.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Morris S.FOUL (P1.T1),Foul,Shooting,0,0
+128,142,PT11M16.00S,2,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,21,28,49,v,Jefferson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+129,144,PT11M16.00S,2,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,21,29,50,v,Jefferson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+130,146,PT10M57.00S,2,1610612756,PHX,200769,Brown,S. Brown,-29,9,3,Made,1,23,29,52,h,Brown 3' Driving Jump Shot (2 PTS),Made Shot,Driving Jump shot,0,0
+131,147,PT10M39.00S,2,1610612744,GSW,201171,Landry,C. Landry,-175,9,18,Made,1,23,31,54,v,Landry 18' Jump Shot (2 PTS) (Jack 4 AST),Made Shot,Jump Shot,0,0
+132,148,PT10M38.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal T.FOUL (P0.T1),Foul,Technical,0,0
+133,149,PT10M38.00S,2,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,MISS Rush Free Throw Technical,Free Throw,Free Throw Technical,0,0
+134,150,PT10M38.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+135,151,PT10M38.00S,2,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,SUB: Lee FOR Ezeli,Substitution,,0,0
+136,152,PT10M26.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Morris Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+137,153,PT10M14.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Morris Personal Block Foul (P2.T2),Foul,Personal Block,0,0
+138,154,PT10M14.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,SUB: Scola FOR Morris,Substitution,,0,0
+139,155,PT10M06.00S,2,1610612744,GSW,101127,Jack,J. Jack,6,249,25,Made,1,23,34,57,v,Jack 25' 3PT Jump Shot (5 PTS) (Rush 1 AST),Made Shot,Jump Shot,0,0
+140,156,PT09M48.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,-196,34,20,Missed,1,0,0,0,h,MISS Beasley 20' Jump Shot,Missed Shot,Jump Shot,0,0
+141,157,PT09M45.00S,2,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+142,158,PT09M41.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal S.FOUL (P1.T3),Foul,Shooting,0,0
+143,159,PT09M41.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,23,35,58,v,Lee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+144,161,PT09M41.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,SUB: Gortat FOR O'Neal,Substitution,,0,0
+145,162,PT09M41.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,23,36,59,v,Lee Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+146,164,PT09M23.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,Beasley Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+147,164,PT09M23.00S,2,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,v,Jefferson STEAL (1 STL),,,0,0
+148,165,PT09M09.00S,2,1610612744,GSW,101135,Lee,D. Lee,9,15,2,Made,1,23,38,61,v,Lee 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+149,166,PT09M02.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+150,169,PT09M02.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,SUB: Dragic FOR Beasley,Substitution,,0,0
+151,170,PT09M02.00S,2,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,h,SUB: Tucker FOR Telfair,Substitution,,0,0
+152,171,PT08M53.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,32,83,9,Made,1,25,38,63,h,Gortat 9' Jump Shot (4 PTS) (Dragic 3 AST),Made Shot,Jump Shot,0,0
+153,172,PT08M35.00S,2,1610612744,GSW,101135,Lee,D. Lee,-41,14,4,Missed,1,0,0,0,v,MISS Lee 4' Jump Shot,Missed Shot,Jump Shot,0,0
+154,172,PT08M35.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola BLOCK (2 BLK),,,0,0
+155,173,PT08M32.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+156,174,PT08M28.00S,2,1610612756,PHX,200769,Brown,S. Brown,-234,-16,0,Missed,1,0,0,0,h,MISS Brown  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+157,175,PT08M25.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+158,176,PT08M13.00S,2,1610612744,GSW,201575,Rush,B. Rush,-23,11,3,Made,1,25,40,65,v,Rush 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,0
+159,177,PT08M13.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat S.FOUL (P2.T4),Foul,Shooting,0,0
+160,178,PT08M13.00S,2,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,SUB: Bogut FOR Landry,Substitution,,0,0
+161,179,PT08M13.00S,2,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,25,41,66,v,Rush Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0
+162,181,PT08M00.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0
+163,181,PT08M00.00S,2,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,v,Jefferson STEAL (2 STL),,,0,0
+164,182,PT07M56.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,h,Tucker S.FOUL (P1.PN),Foul,Shooting,0,0
+165,183,PT07M56.00S,2,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,25,42,67,v,Jack Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+166,185,PT07M56.00S,2,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0,0,0,h,SUB: Dudley FOR Brown,Substitution,,0,0
+167,186,PT07M56.00S,2,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,MISS Jack Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+168,188,PT07M55.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+169,189,PT07M50.00S,2,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack P.FOUL (P1.T1),Foul,Personal,0,0
+170,190,PT07M50.00S,2,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,SUB: Curry FOR Jack,Substitution,,0,0
+171,191,PT07M36.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,-15,11,2,Missed,1,0,0,0,h,MISS Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+172,193,PT07M33.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+173,192,PT07M33.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,0,9,1,Made,1,27,42,69,h,Gortat 1' Tip Shot (6 PTS),Made Shot,Tip Shot,0,0
+174,194,PT07M17.00S,2,1610612744,GSW,201575,Rush,B. Rush,4,9,1,Made,1,27,44,71,v,Rush 1' Slam Dunk (10 PTS) (Lee 1 AST),Made Shot,Slam Dunk Shot,0,0
+175,195,PT06M55.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,1,15,2,Made,1,29,44,73,h,Dragic 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+176,196,PT06M37.00S,2,1610612744,GSW,201575,Rush,B. Rush,-18,99,10,Made,1,29,46,75,v,Rush 10' Floating Jump Shot (12 PTS),Made Shot,Floating Jump shot,0,0
+177,197,PT06M28.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,135,205,25,Missed,1,0,0,0,h,MISS Dragic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+178,198,PT06M27.00S,2,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+179,199,PT06M18.00S,2,1610612744,GSW,201939,Curry,S. Curry,157,148,22,Missed,1,0,0,0,v,MISS Curry 22' Jump Shot,Missed Shot,Jump Shot,0,0
+180,200,PT06M17.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+181,201,PT06M08.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,-4,162,16,Missed,1,0,0,0,h,MISS Gortat 16' Jump Shot,Missed Shot,Jump Shot,0,0
+182,202,PT06M06.00S,2,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+183,203,PT05M56.00S,2,1610612744,GSW,2210,Jefferson,R. Jefferson,230,-10,0,Missed,1,0,0,0,v,MISS Jefferson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+184,204,PT05M54.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+185,205,PT05M47.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,-65,91,11,Missed,1,0,0,0,h,MISS Dragic 11' Jump Shot,Missed Shot,Jump Shot,0,0
+186,206,PT05M44.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+187,207,PT05M31.00S,2,1610612744,GSW,2210,Jefferson,R. Jefferson,2,9,1,Missed,1,0,0,0,v,MISS Jefferson 1' Layup,Missed Shot,Layup Shot,0,0
+188,208,PT05M30.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+189,209,PT05M25.00S,2,1610612756,PHX,2449,Scola,L. Scola,-179,66,19,Made,1,31,46,77,h,Scola 19' Jump Shot (2 PTS) (Dragic 4 AST),Made Shot,Jump Shot,0,0
+190,210,PT05M10.00S,2,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,Rush OFF.Foul (P3),Foul,Offensive,0,0
+191,211,PT05M10.00S,2,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,Rush Foul Turnover (P2.T4),Turnover,Foul,0,0
+192,212,PT05M10.00S,2,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Rush,Substitution,,0,0
+193,213,PT05M00.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,226,61,0,Missed,1,0,0,0,h,MISS Dudley  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+194,214,PT04M58.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+195,215,PT04M58.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry P.FOUL (P1.T2),Foul,Personal,0,0
+196,216,PT04M58.00S,2,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,v,SUB: Jack FOR Jefferson,Substitution,,0,0
+197,218,PT04M48.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,13,6,1,Missed,1,0,0,0,h,MISS Tucker 1' Layup,Missed Shot,Layup Shot,0,0
+198,219,PT04M48.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+199,220,PT04M38.00S,2,1610612756,PHX,2449,Scola,L. Scola,-71,162,18,Made,1,33,46,79,h,Scola 18' Jump Shot (4 PTS) (Dragic 5 AST),Made Shot,Jump Shot,0,0
+200,221,PT04M20.00S,2,1610612744,GSW,101106,Bogut,A. Bogut,18,4,2,Missed,1,0,0,0,v,MISS Bogut 2' Layup,Missed Shot,Layup Shot,0,0
+201,221,PT04M20.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat BLOCK (1 BLK),,,0,0
+202,222,PT04M18.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+203,223,PT04M07.00S,2,1610612756,PHX,2449,Scola,L. Scola,228,61,24,Made,1,36,46,82,h,Scola 24' 3PT Jump Shot (7 PTS) (Dragic 6 AST),Made Shot,Jump Shot,0,0
+204,224,PT03M58.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+205,228,PT03M50.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,170,113,20,Missed,1,0,0,0,v,MISS Thompson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+206,229,PT03M49.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+207,230,PT03M39.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+208,231,PT03M19.00S,2,1610612756,PHX,2449,Scola,L. Scola,24,165,17,Missed,1,0,0,0,h,MISS Scola 17' Jump Shot,Missed Shot,Jump Shot,0,0
+209,232,PT03M17.00S,2,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+210,234,PT03M01.00S,2,1610612744,GSW,101135,Lee,D. Lee,-73,146,16,Missed,1,0,0,0,v,MISS Lee 16' Jump Shot,Missed Shot,Jump Shot,0,0
+211,235,PT02M59.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+212,236,PT02M50.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,21,0,2,Missed,1,0,0,0,h,MISS Dudley 2' Layup,Missed Shot,Layup Shot,0,0
+213,236,PT02M50.00S,2,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut BLOCK (1 BLK),,,0,0
+214,237,PT02M48.00S,2,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+215,238,PT02M43.00S,2,1610612744,GSW,201939,Curry,S. Curry,-226,-17,0,Missed,1,0,0,0,v,MISS Curry  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+216,239,PT02M42.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+217,240,PT02M31.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,-40,67,8,Missed,1,0,0,0,h,MISS Gortat 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+218,241,PT02M30.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+219,242,PT02M16.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+220,242,PT02M16.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola STEAL (1 STL),,,0,0
+221,243,PT02M12.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,h,Tucker Offensive Charge Foul (P2.PN),Foul,Offensive Charge,0,0
+222,244,PT02M12.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,h,Tucker Foul Turnover (P1.T11),Turnover,Foul,0,0
+223,245,PT02M12.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+224,248,PT02M12.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,SUB: Rush FOR Curry,Substitution,,0,0
+225,249,PT02M02.00S,2,1610612744,GSW,101135,Lee,D. Lee,-2,47,5,Missed,1,0,0,0,v,MISS Lee 5' Jump Shot,Missed Shot,Jump Shot,0,0
+226,250,PT01M59.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+227,251,PT01M58.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,28,3,Missed,1,0,0,0,v,MISS Lee 3' Layup,Missed Shot,Layup Shot,0,0
+228,252,PT01M55.00S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+229,253,PT01M53.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee L.B.FOUL (P2.T3),Foul,Loose Ball,0,0
+230,257,PT01M50.00S,2,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack P.FOUL (P2.PN),Foul,Personal,0,0
+231,258,PT01M50.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,37,46,83,h,Dragic Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+232,260,PT01M50.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,38,46,84,h,Dragic Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+233,262,PT01M30.00S,2,1610612744,GSW,201575,Rush,B. Rush,-11,12,2,Made,1,38,48,86,v,Rush 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,0
+234,263,PT01M13.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,226,-2,0,Missed,1,0,0,0,h,MISS Dragic  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+235,264,PT01M10.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+236,265,PT01M09.00S,2,1610612756,PHX,2449,Scola,L. Scola,7,6,1,Made,1,40,48,88,h,Scola 1' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,0,0
+237,266,PT00M48.90S,2,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+238,266,PT00M48.90S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola STEAL (2 STL),,,0,0
+239,267,PT00M43.90S,2,1610612756,PHX,201609,Dragic,G. Dragic,-16,3,2,Missed,1,0,0,0,h,MISS Dragic 2' Layup,Missed Shot,Layup Shot,0,0
+240,268,PT00M43.60S,2,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+241,269,PT00M39.90S,2,1610612756,PHX,201162,Dudley,J. Dudley,-89,156,18,Missed,1,0,0,0,h,MISS Dudley 18' Jump Shot,Missed Shot,Jump Shot,0,0
+242,270,PT00M37.10S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+243,271,PT00M25.90S,2,1610612744,GSW,101127,Jack,J. Jack,43,97,11,Missed,1,0,0,0,v,MISS Jack 11' Floating Jump Shot,Missed Shot,Floating Jump shot,0,0
+244,272,PT00M23.90S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+245,273,PT00M05.10S,2,1610612756,PHX,201609,Dragic,G. Dragic,-64,101,12,Made,1,42,48,90,h,Dragic 12' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+246,274,PT00M01.10S,2,1610612744,GSW,201575,Rush,B. Rush,159,293,33,Missed,1,0,0,0,v,MISS Rush 33' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+247,276,PT00M00.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+248,275,PT00M00.00S,2,0,,0,,,0,0,0,,0,42,48,90,,End of 2nd Period (11:11 PM EST),period,end,0,0
+249,278,PT12M00.00S,3,0,,0,,,0,0,0,,0,42,48,90,,Start of 3rd Period (11:27 PM EST),period,start,0,0
+250,279,PT11M42.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry P.FOUL (P2.T1),Foul,Personal,0,0
+251,280,PT11M38.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,-95,97,14,Missed,1,0,0,0,h,MISS Beasley 14' Jump Shot,Missed Shot,Jump Shot,0,0
+252,281,PT11M36.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+253,282,PT11M17.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,69,12,7,Made,1,42,50,92,v,Bogut 7' Hook Shot (8 PTS),Made Shot,Hook Shot,0,0
+254,283,PT11M03.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0
+255,284,PT10M45.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,-7,6,1,Missed,1,0,0,0,v,MISS Barnes 1' Reverse Dunk,Missed Shot,Reverse Dunk Shot,0,0
+256,285,PT10M44.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+257,286,PT10M39.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat OFF.Foul (P3),Foul,Offensive,0,0
+258,287,PT10M39.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat Foul Turnover (P3.T13),Turnover,Foul,0,0
+259,288,PT10M22.00S,3,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0
+260,289,PT10M05.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,0
+261,289,PT10M05.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry STEAL (2 STL),,,0,0
+262,290,PT10M01.00S,3,1610612744,GSW,201939,Curry,S. Curry,-18,31,4,Missed,1,0,0,0,v,MISS Curry 4' Jump Shot,Missed Shot,Jump Shot,0,0
+263,290,PT10M01.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat BLOCK (2 BLK),,,0,0
+264,291,PT09M58.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+265,292,PT09M56.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,12,1,Made,1,42,52,94,v,Barnes 1' Dunk (4 PTS),Made Shot,Dunk Shot,0,0
+266,295,PT09M40.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson S.FOUL (P1.T2),Foul,Shooting,0,0
+267,296,PT09M40.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,43,52,95,h,Beasley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+268,298,PT09M40.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,44,52,96,h,Beasley Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+269,300,PT09M23.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0
+270,300,PT09M23.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic STEAL (1 STL),,,0,0
+271,301,PT09M19.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,-2,0,Made,1,46,52,98,h,Dragic  Layup (12 PTS),Made Shot,Layup Shot,0,0
+272,302,PT09M01.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-27,14,3,Made,1,46,54,100,v,Thompson 3' Jump Shot (10 PTS) (Bogut 1 AST),Made Shot,Jump Shot,0,0
+273,303,PT08M47.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,231,1,0,Missed,1,0,0,0,h,MISS Dudley  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+274,304,PT08M44.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+275,305,PT08M44.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic Shooting Block Foul (P1.T1),Foul,Shooting Block,0,0
+276,307,PT08M44.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,46,55,101,v,Barnes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+277,310,PT08M44.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,46,56,102,v,Barnes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+278,313,PT08M33.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson P.FOUL (P2.T3),Foul,Personal,0,0
+279,314,PT08M27.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,-13,145,15,Missed,1,0,0,0,h,MISS Dragic 15' Jump Shot,Missed Shot,Jump Shot,0,0
+280,315,PT08M24.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,Bogut REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+281,316,PT08M17.00S,3,1610612744,GSW,201939,Curry,S. Curry,-48,17,5,Missed,1,0,0,0,v,MISS Curry 5' Jump Shot,Missed Shot,Jump Shot,0,0
+282,316,PT08M17.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat BLOCK (3 BLK),,,0,0
+283,317,PT08M14.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+284,318,PT08M13.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,9,15,2,Missed,1,0,0,0,v,MISS Thompson 2' Layup,Missed Shot,Layup Shot,0,0
+285,319,PT08M13.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,Beasley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+286,320,PT08M05.00S,3,1610612756,PHX,2449,Scola,L. Scola,-5,154,15,Made,1,48,56,104,h,Scola 15' Jump Shot (11 PTS) (Beasley 1 AST),Made Shot,Jump Shot,0,0
+287,321,PT07M50.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0
+288,321,PT07M50.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic STEAL (2 STL),,,0,0
+289,322,PT07M45.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry Violation:Kicked Ball,Violation,Kicked Ball,0,0
+290,323,PT07M42.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic OFF.Foul (P2),Foul,Offensive,0,0
+291,324,PT07M42.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic Foul Turnover (P2.T15),Turnover,Foul,0,0
+292,325,PT07M42.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Ezeli FOR Bogut,Substitution,,0,0
+293,326,PT07M26.00S,3,1610612744,GSW,101135,Lee,D. Lee,-34,23,4,Missed,1,0,0,0,v,MISS Lee 4' Jump Shot,Missed Shot,Jump Shot,0,0
+294,326,PT07M26.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola BLOCK (3 BLK),,,0,0
+295,327,PT07M26.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+296,328,PT07M21.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,230,66,24,Missed,1,0,0,0,v,MISS Thompson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+297,329,PT07M19.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+298,330,PT07M16.00S,3,1610612744,GSW,201939,Curry,S. Curry,-10,39,4,Missed,1,0,0,0,v,MISS Curry 4' Jump Shot,Missed Shot,Jump Shot,0,0
+299,332,PT07M12.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+300,331,PT07M12.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,9,15,2,Missed,1,0,0,0,v,MISS Thompson 2' Putback Layup,Missed Shot,Putback Layup Shot,0,0
+301,333,PT07M09.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+302,334,PT07M05.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,-103,227,25,Made,1,51,56,107,h,Beasley 25' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+303,335,PT06M53.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley P.FOUL (P1.T2),Foul,Personal,0,0
+304,336,PT06M48.00S,3,1610612744,GSW,101135,Lee,D. Lee,34,-2,3,Missed,1,0,0,0,v,MISS Lee 3' Jump Shot,Missed Shot,Jump Shot,0,0
+305,336,PT06M48.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat BLOCK (4 BLK),,,0,0
+306,337,PT06M45.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+307,338,PT06M39.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,13,15,2,Missed,1,0,0,0,h,MISS Gortat 2' Layup,Missed Shot,Layup Shot,0,0
+308,338,PT06M39.00S,3,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee BLOCK (1 BLK),,,0,0
+309,339,PT06M39.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+310,340,PT06M35.00S,3,1610612756,PHX,2449,Scola,L. Scola,185,7,19,Missed,1,0,0,0,h,MISS Scola 19' Jump Shot,Missed Shot,Jump Shot,0,0
+311,341,PT06M34.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+312,343,PT06M28.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+313,344,PT06M17.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-229,50,0,Made,1,51,59,110,v,Thompson  3PT Jump Shot (13 PTS) (Curry 2 AST),Made Shot,Jump Shot,0,0
+314,345,PT06M01.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,65,238,25,Made,1,54,59,113,h,Dragic 25' 3PT Jump Shot (15 PTS) (Dudley 2 AST),Made Shot,Jump Shot,0,0
+315,346,PT05M46.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0
+316,346,PT05M46.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola STEAL (3 STL),,,0,0
+317,347,PT05M43.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry S.FOUL (P3.T4),Foul,Shooting,0,0
+318,348,PT05M43.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+319,350,PT05M43.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,v,SUB: Rush FOR Barnes,Substitution,,0,0
+320,351,PT05M43.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,SUB: Jack FOR Curry,Substitution,,0,0
+321,353,PT05M43.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,MISS Dragic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+322,354,PT05M43.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+323,355,PT05M43.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,55,59,114,h,Dragic Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+324,359,PT05M22.00S,3,1610612744,GSW,203105,Ezeli,F. Ezeli,13,14,2,Missed,1,0,0,0,v,MISS Ezeli 2' Layup,Missed Shot,Layup Shot,0,0
+325,359,PT05M22.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat BLOCK (5 BLK),,,0,0
+326,360,PT05M19.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+327,361,PT05M18.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-228,-5,0,Missed,1,0,0,0,v,MISS Thompson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+328,362,PT05M17.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+329,363,PT04M57.00S,3,1610612756,PHX,2449,Scola,L. Scola,86,9,9,Made,1,57,59,116,h,Scola 9' Turnaround Bank Hook Shot (13 PTS),Made Shot,Turnaround Bank Hook Shot,0,0
+330,364,PT04M45.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola Shooting Block Foul (P3.T3),Foul,Shooting Block,0,0
+331,365,PT04M45.00S,3,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,MISS Ezeli Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+332,366,PT04M45.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Normal Rebound,0,0
+333,367,PT04M45.00S,3,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Landry FOR Lee,Substitution,,0,0
+334,368,PT04M45.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,SUB: Morris FOR Scola,Substitution,,0,0
+335,369,PT04M45.00S,3,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,57,60,117,v,Ezeli Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+336,371,PT04M25.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,-32,34,5,Made,1,59,60,119,h,Gortat 5' Running Jump Shot (8 PTS) (Dragic 7 AST),Made Shot,Running Jump Shot,0,0
+337,372,PT04M03.00S,3,1610612744,GSW,101127,Jack,J. Jack,80,66,10,Made,1,59,62,121,v,Jack 10' Floating Jump Shot (8 PTS) (Landry 1 AST),Made Shot,Floating Jump shot,0,0
+338,373,PT03M47.00S,3,1610612756,PHX,202693,Morris,M. Morris,-4,1,0,Made,1,61,62,123,h,Morris  Dunk (4 PTS) (Gortat 1 AST),Made Shot,Dunk Shot,0,0
+339,375,PT03M33.00S,3,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,SUB: Green FOR Ezeli,Substitution,,0,0
+340,376,PT03M29.00S,3,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0
+341,377,PT03M16.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,225,-3,0,Missed,1,0,0,0,h,MISS Beasley  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+342,379,PT03M13.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+343,378,PT03M13.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,-5,3,1,Made,1,63,62,125,h,Gortat 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0
+344,380,PT02M54.00S,3,1610612744,GSW,201171,Landry,C. Landry,-7,74,7,Missed,1,0,0,0,v,MISS Landry 7' Jump Shot,Missed Shot,Jump Shot,0,0
+345,381,PT02M52.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,Beasley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+346,382,PT02M39.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,-79,209,22,Missed,1,0,0,0,h,MISS Beasley 22' Jump Shot,Missed Shot,Jump Shot,0,0
+347,383,PT02M37.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,Beasley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+348,384,PT02M35.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,122,157,20,Missed,1,0,0,0,h,MISS Beasley 20' Jump Shot,Missed Shot,Jump Shot,0,0
+349,385,PT02M34.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+350,386,PT02M23.00S,3,1610612744,GSW,201575,Rush,B. Rush,-29,9,3,Missed,1,0,0,0,v,MISS Rush 3' Jump Shot,Missed Shot,Jump Shot,0,0
+351,386,PT02M23.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,Beasley BLOCK (1 BLK),,,0,0
+352,387,PT02M20.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+353,388,PT02M18.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,v,Green S.FOUL (P1.PN),Foul,Shooting,0,0
+354,389,PT02M18.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+355,391,PT02M18.00S,3,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,SUB: Ezeli FOR Rush,Substitution,,0,0
+356,392,PT02M18.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0,0,0,v,SUB: Jefferson FOR Green,Substitution,,0,0
+357,393,PT02M18.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,h,SUB: Brown FOR Beasley,Substitution,,0,0
+358,404,PT02M18.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: Rush FOR Thompson,Substitution,,0,0
+359,394,PT02M18.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,MISS Dudley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+360,395,PT02M18.00S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+361,396,PT02M18.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,64,62,126,h,Dudley Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+362,398,PT02M06.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat P.FOUL (P4.T4),Foul,Personal,0,0
+363,399,PT02M06.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,SUB: Tucker FOR Dudley,Substitution,,0,0
+364,400,PT02M06.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,SUB: O'Neal FOR Gortat,Substitution,,0,0
+365,401,PT01M54.00S,3,1610612744,GSW,201171,Landry,C. Landry,-128,115,17,Made,1,64,64,128,v,Landry 17' Jump Shot (4 PTS) (Rush 2 AST),Made Shot,Jump Shot,0,0
+366,402,PT01M42.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0
+367,402,PT01M42.00S,3,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,Ezeli STEAL (3 STL),,,0,0
+368,403,PT01M34.00S,3,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0
+369,403,PT01M34.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic STEAL (3 STL),,,0,0
+370,405,PT01M23.00S,3,1610612756,PHX,202693,Morris,M. Morris,108,225,25,Missed,1,0,0,0,h,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+371,406,PT01M21.00S,3,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,Ezeli REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+372,407,PT01M14.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Morris P.FOUL (P3.PN),Foul,Personal,0,0
+373,408,PT01M14.00S,3,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,64,65,129,v,Landry Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+374,409,PT01M14.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,SUB: Telfair FOR Dragic,Substitution,,0,0
+375,410,PT01M14.00S,3,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,MISS Landry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+376,411,PT01M13.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+377,412,PT00M56.90S,3,1610612756,PHX,200769,Brown,S. Brown,59,208,22,Missed,1,0,0,0,h,MISS Brown 22' Jump Shot,Missed Shot,Jump Shot,0,0
+378,413,PT00M54.40S,3,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+379,414,PT00M52.10S,3,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,Rush Shooting Block Foul (P4.PN),Foul,Shooting Block,0,0
+380,415,PT00M52.10S,3,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,65,65,130,h,Brown Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+381,417,PT00M52.10S,3,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,66,65,131,h,Brown Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+382,419,PT00M36.20S,3,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0
+383,420,PT00M22.00S,3,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Warriors T.Foul (Def. 3 Sec Landry ),Foul,Defense 3 Second,0,0
+384,421,PT00M22.00S,3,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,67,65,132,h,Brown Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+385,423,PT00M07.90S,3,1610612756,PHX,200769,Brown,S. Brown,-172,138,22,Missed,1,0,0,0,h,MISS Brown 22' Jump Shot,Missed Shot,Jump Shot,0,0
+386,424,PT00M07.30S,3,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0,0,0,v,Ezeli REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+387,425,PT00M00.90S,3,1610612744,GSW,101127,Jack,J. Jack,-45,195,20,Missed,1,0,0,0,v,MISS Jack 20' Jump Shot,Missed Shot,Jump Shot,0,0
+388,426,PT00M00.10S,3,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+389,427,PT00M00.00S,3,0,,0,,,0,0,0,,0,67,65,132,,End of 3rd Period (11:56 PM EST),period,end,0,0
+390,429,PT12M00.00S,4,0,,0,,,0,0,0,,0,67,65,132,,Start of 4th Period (11:59 PM EST),period,start,0,0
+391,430,PT11M40.00S,4,1610612744,GSW,101135,Lee,D. Lee,1,8,1,Missed,1,0,0,0,v,MISS Lee 1' Layup,Missed Shot,Layup Shot,0,0
+392,431,PT11M38.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+393,432,PT11M23.00S,4,1610612756,PHX,200769,Brown,S. Brown,73,206,22,Made,1,69,65,134,h,Brown 22' Jump Shot (7 PTS) (Morris 1 AST),Made Shot,Jump Shot,0,0
+394,433,PT11M07.00S,4,1610612744,GSW,101135,Lee,D. Lee,-13,31,3,Missed,1,0,0,0,v,MISS Lee 3' Jump Shot,Missed Shot,Jump Shot,0,0
+395,433,PT11M07.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal BLOCK (1 BLK),,,0,0
+396,434,PT11M03.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,h,Telfair REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+397,435,PT11M02.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,10,23,3,Made,1,71,65,136,h,Tucker 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+398,436,PT11M00.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+399,438,PT11M00.00S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,SUB: Curry FOR Jack,Substitution,,0,0
+400,440,PT10M45.00S,4,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,Rush Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0
+401,440,PT10M45.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0,0,0,h,Brown STEAL (1 STL),,,0,0
+402,441,PT10M43.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,9,14,2,Missed,1,0,0,0,h,MISS Tucker 2' Layup,Missed Shot,Layup Shot,0,0
+403,441,PT10M43.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,v,Jefferson BLOCK (1 BLK),,,0,0
+404,442,PT10M43.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Unknown,0,0
+405,443,PT10M43.00S,4,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,SUB: Barnes FOR Rush,Substitution,,0,0
+406,444,PT10M43.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Jefferson,Substitution,,0,0
+407,445,PT10M39.00S,4,1610612756,PHX,200769,Brown,S. Brown,-98,1,10,Missed,1,0,0,0,h,MISS Brown 10' Jump Shot,Missed Shot,Jump Shot,0,0
+408,446,PT10M37.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+409,447,PT10M20.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,-190,115,22,Missed,1,0,0,0,v,MISS Thompson 22' Jump Shot,Missed Shot,Jump Shot,0,0
+410,448,PT10M17.00S,4,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+411,449,PT10M16.00S,4,1610612744,GSW,101135,Lee,D. Lee,0,12,1,Missed,1,0,0,0,v,MISS Lee 1' Layup,Missed Shot,Layup Shot,0,0
+412,451,PT10M15.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Unknown,0,0
+413,450,PT10M15.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Morris T.FOUL (P3.T0),Foul,Technical,0,0
+414,452,PT10M15.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,71,66,137,v,Curry Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+415,454,PT10M15.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,Jump Ball O'Neal vs. Lee: Tip to,Jump Ball,,0,0
+416,455,PT10M05.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,h,Jump Ball Telfair vs. Curry: Tip to Barnes,Jump Ball,,0,0
+417,456,PT09M57.00S,4,1610612744,GSW,203084,Barnes,H. Barnes,65,48,8,Missed,1,0,0,0,v,MISS Barnes 8' Jump Shot,Missed Shot,Jump Shot,0,0
+418,457,PT09M55.00S,4,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+419,458,PT09M53.00S,4,1610612744,GSW,201939,Curry,S. Curry,136,208,25,Missed,1,0,0,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+420,459,PT09M50.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+421,460,PT09M41.00S,4,1610612744,GSW,201939,Curry,S. Curry,65,242,25,Missed,1,0,0,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+422,461,PT09M38.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+423,462,PT09M20.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,-158,146,22,Made,1,73,66,139,h,Telfair 22' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+424,463,PT09M09.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,h,Telfair P.FOUL (P2.T1),Foul,Personal,0,0
+425,464,PT09M09.00S,4,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0,0,0,v,SUB: Jack FOR Barnes,Substitution,,0,0
+426,465,PT09M00.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson Traveling Turnover (P4.T16),Turnover,Traveling,0,0
+427,466,PT08M41.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Warriors T.Foul (Def. 3 Sec Thompson ),Foul,Defense 3 Second,0,0
+428,467,PT08M41.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,74,66,140,h,Brown Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0
+429,469,PT08M29.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0,0,0,h,Brown Offensive Charge Foul (P1.T2),Foul,Offensive Charge,0,0
+430,470,PT08M29.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0,0,0,h,Brown Foul Turnover (P2.T17),Turnover,Foul,0,0
+431,471,PT08M20.00S,4,1610612744,GSW,201939,Curry,S. Curry,84,183,20,Made,1,74,68,142,v,Curry 20' Jump Shot (3 PTS) (Jack 5 AST),Made Shot,Jump Shot,0,0
+432,472,PT08M05.00S,4,1610612756,PHX,202693,Morris,M. Morris,-146,197,25,Missed,1,0,0,0,h,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+433,473,PT08M04.00S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+434,474,PT07M58.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,h,Telfair P.FOUL (P3.T3),Foul,Personal,0,0
+435,475,PT07M52.00S,4,1610612744,GSW,201939,Curry,S. Curry,81,20,8,Missed,1,0,0,0,v,MISS Curry 8' Jump Shot,Missed Shot,Jump Shot,0,0
+436,477,PT07M50.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+437,476,PT07M50.00S,4,1610612744,GSW,201171,Landry,C. Landry,-10,4,1,Made,1,74,70,144,v,Landry 1' Tip Shot (7 PTS),Made Shot,Tip Shot,0,0
+438,478,PT07M33.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,230,-8,0,Missed,1,0,0,0,h,MISS Telfair  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+439,479,PT07M31.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,h,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+440,480,PT07M29.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,-2,6,1,Made,1,76,70,146,h,Tucker 1' Layup (4 PTS),Made Shot,Layup Shot,0,0
+441,481,PT07M18.00S,4,1610612744,GSW,101127,Jack,J. Jack,32,78,8,Made,1,76,72,148,v,Jack 8' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,0,0
+442,482,PT07M00.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0,0,0,h,Brown Lost Ball Turnover (P3.T18),Turnover,Lost Ball,0,0
+443,482,PT07M00.00S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack STEAL (1 STL),,,0,0
+444,483,PT07M00.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Short (Reg.4 Short 2),Timeout,Short,0,0
+445,486,PT07M00.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,SUB: Scola FOR Morris,Substitution,,0,0
+446,487,PT06M49.00S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,Jack Bad Pass Turnover (P4.T17),Turnover,Bad Pass,0,0
+447,487,PT06M49.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,h,Tucker STEAL (1 STL),,,0,0
+448,488,PT06M28.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,154,201,25,Missed,1,0,0,0,h,MISS Telfair 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+449,489,PT06M27.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,O'Neal REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+450,490,PT06M14.00S,4,1610612756,PHX,200769,Brown,S. Brown,-183,165,25,Missed,1,0,0,0,h,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+451,491,PT06M13.00S,4,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+452,492,PT06M02.00S,4,1610612744,GSW,201171,Landry,C. Landry,20,0,2,Missed,1,0,0,0,v,MISS Landry 2' Layup,Missed Shot,Layup Shot,0,0
+453,493,PT06M02.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry REBOUND (Off:4 Def:1),Rebound,Unknown,0,0
+454,494,PT06M02.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,h,Telfair S.FOUL (P4.T4),Foul,Shooting,0,0
+455,495,PT06M02.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,76,73,149,v,Landry Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+456,497,PT06M02.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0,0,0,h,SUB: Dragic FOR Telfair,Substitution,,0,0
+457,498,PT06M02.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,76,74,150,v,Landry Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+458,500,PT05M45.00S,4,1610612756,PHX,200769,Brown,S. Brown,-188,112,22,Missed,1,0,0,0,h,MISS Brown 22' Jump Shot,Missed Shot,Jump Shot,0,0
+459,501,PT05M45.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+460,502,PT05M32.00S,4,1610612744,GSW,201171,Landry,C. Landry,-5,12,1,Made,1,76,76,152,v,Landry 1' Slam Dunk (11 PTS) (Lee 2 AST),Made Shot,Slam Dunk Shot,0,0
+461,503,PT05M16.00S,4,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee P.FOUL (P3.T1),Foul,Personal,0,0
+462,504,PT05M16.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+463,506,PT05M16.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0,0,0,h,SUB: Dudley FOR Brown,Substitution,,0,0
+464,507,PT05M16.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,h,SUB: Gortat FOR O'Neal,Substitution,,0,0
+465,509,PT05M06.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,-7,9,1,Made,1,78,76,154,h,Tucker 1' Reverse Layup (6 PTS) (Dragic 8 AST),Made Shot,Reverse Layup Shot,0,0
+466,510,PT04M47.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,-95,173,20,Missed,1,0,0,0,v,MISS Thompson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+467,511,PT04M43.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+468,512,PT04M42.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,-141,208,25,Made,1,78,79,157,v,Thompson 25' 3PT Jump Shot (16 PTS) (Curry 3 AST),Made Shot,Jump Shot,0,0
+469,513,PT04M23.00S,4,1610612756,PHX,2449,Scola,L. Scola,231,64,24,Missed,1,0,0,0,h,MISS Scola 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+470,514,PT04M21.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+471,515,PT04M19.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic P.FOUL (P3.PN),Foul,Personal,0,0
+472,516,PT04M10.00S,4,1610612744,GSW,201939,Curry,S. Curry,32,249,25,Missed,1,0,0,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+473,517,PT04M09.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,Dragic REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+474,518,PT03M55.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,-205,44,21,Missed,1,0,0,0,h,MISS Tucker 21' Jump Shot,Missed Shot,Jump Shot,0,0
+475,519,PT03M53.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+476,520,PT03M38.00S,4,1610612744,GSW,201171,Landry,C. Landry,-16,0,2,Made,1,78,81,159,v,Landry 2' Layup (13 PTS) (Jack 6 AST),Made Shot,Layup Shot,0,0
+477,521,PT03M23.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,-30,7,3,Made,1,80,81,161,h,Tucker 3' Dunk (8 PTS) (Dudley 3 AST),Made Shot,Dunk Shot,0,0
+478,522,PT03M01.00S,4,1610612744,GSW,201939,Curry,S. Curry,21,7,2,Made,1,80,83,163,v,Curry 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,0
+479,523,PT02M41.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,230,-8,0,Missed,1,0,0,0,h,MISS Dragic  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+480,524,PT02M40.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,h,Tucker REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+481,525,PT02M38.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,-2,25,3,Made,1,82,83,165,h,Tucker 3' Hook Shot (10 PTS),Made Shot,Hook Shot,0,0
+482,526,PT02M21.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,40,79,9,Missed,1,0,0,0,v,MISS Thompson 9' Jump Shot,Missed Shot,Jump Shot,0,0
+483,526,PT02M21.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,h,Tucker BLOCK (1 BLK),,,0,0
+484,527,PT02M19.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,Landry REBOUND (Off:5 Def:1),Rebound,Unknown,0,0
+485,528,PT02M13.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry Lost Ball Turnover (P4.T18),Turnover,Lost Ball,0,0
+486,528,PT02M13.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley STEAL (1 STL),,,0,0
+487,529,PT02M03.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,-76,241,25,Missed,1,0,0,0,h,MISS Dudley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+488,530,PT02M02.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0,0,0,h,Dudley REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+489,531,PT01M58.00S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+490,533,PT01M58.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: Rush FOR Thompson,Substitution,,0,0
+491,535,PT01M43.00S,4,1610612756,PHX,2449,Scola,L. Scola,83,20,9,Made,1,84,83,167,h,Scola 9' Turnaround Bank Shot (15 PTS),Made Shot,Turnaround Bank shot,0,0
+492,536,PT01M22.00S,4,1610612744,GSW,201171,Landry,C. Landry,23,1,2,Made,1,84,85,169,v,Landry 2' Dunk (15 PTS) (Lee 3 AST),Made Shot,Dunk Shot,0,0
+493,537,PT01M08.00S,4,1610612756,PHX,2449,Scola,L. Scola,-2,189,19,Missed,1,0,0,0,h,MISS Scola 19' Jump Shot,Missed Shot,Jump Shot,0,0
+494,538,PT01M07.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,Curry REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+495,539,PT01M04.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,0
+496,543,PT00M54.00S,4,1610612744,GSW,201171,Landry,C. Landry,110,134,17,Made,1,84,87,171,v,Landry 17' Jump Shot (17 PTS) (Jack 7 AST),Made Shot,Jump Shot,0,0
+497,544,PT00M34.90S,4,1610612756,PHX,201162,Dudley,J. Dudley,32,257,26,Missed,1,0,0,0,h,MISS Dudley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+498,545,PT00M33.70S,4,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+499,546,PT00M09.90S,4,1610612744,GSW,201575,Rush,B. Rush,53,250,26,Missed,1,0,0,0,v,MISS Rush 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+500,547,PT00M08.60S,4,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+501,548,PT00M07.90S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Short (Full 4 Short 1),Timeout,Short,0,0
+502,551,PT00M07.60S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Landry,Substitution,,0,0
+503,552,PT00M07.60S,4,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee P.FOUL (P4.T2),Foul,Personal,0,0
+504,553,PT00M07.60S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+505,555,PT00M07.60S,4,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Jefferson FOR Lee,Substitution,,0,0
+506,556,PT00M07.60S,4,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,SUB: Brown FOR Gortat,Substitution,,0,0
+507,557,PT00M05.60S,4,1610612744,GSW,201575,Rush,B. Rush,0,0,0,,0,0,0,0,v,Rush Personal Take Foul (P5.PN),Foul,Personal Take,0,0
+508,558,PT00M05.60S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0,0,0,h,MISS Dragic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+509,559,PT00M05.60S,4,0,,1610612756,,,0,0,0,,0,0,0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+510,560,PT00M05.60S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0,0,0,v,SUB: Bogut FOR Thompson,Substitution,,0,0
+511,561,PT00M05.60S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0,0,0,v,SUB: Lee FOR Jack,Substitution,,0,0
+512,562,PT00M05.60S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,85,87,172,h,Dragic Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+513,564,PT00M04.40S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0,0,0,h,Brown Personal Take Foul (P2.PN),Foul,Personal Take,0,0
+514,565,PT00M04.40S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,MISS Curry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+515,566,PT00M04.40S,4,0,,1610612744,,,0,0,0,,0,0,0,0,v,Warriors Rebound,Rebound,Normal Rebound,0,0
+516,567,PT00M04.40S,4,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Jack FOR Lee,Substitution,,0,0
+517,568,PT00M04.40S,4,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Bogut,Substitution,,0,0
+518,569,PT00M04.40S,4,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,h,SUB: Telfair FOR Tucker,Substitution,,0,0
+519,570,PT00M04.40S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0,0,0,v,MISS Curry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+520,572,PT00M04.40S,4,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0,0,0,h,Scola REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+521,573,PT00M00.00S,4,0,,0,,,0,0,0,,0,85,87,172,,End of 4th Period (12:35 AM EST),period,end,0,0

@@ -1,0 +1,513 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Jump Ball Gortat vs. Valanciunas: Tip to Wall,Jump Ball,,1,0
+3,2,PT11M47.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,9,-6,1,Missed,1,0,0,0,h,MISS Gortat 1' Layup,Missed Shot,Layup Shot,1,0
+4,2,PT11M47.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Valanciunas BLOCK (1 BLK),,,1,0
+5,3,PT11M46.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+6,4,PT11M43.00S,1,1610612764,WAS,202322,Wall,J. Wall,25,257,26,Made,1,3,0,3,h,Wall 26' 3PT Jump Shot (3 PTS) (Gortat 1 AST),Made Shot,Jump Shot,1,0
+7,5,PT11M23.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-145,7,15,Missed,1,0,0,0,v,MISS Valanciunas 15' Jump Shot,Missed Shot,Jump Shot,1,0
+8,6,PT11M22.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+9,7,PT11M08.00S,1,1610612764,WAS,203078,Beal,B. Beal,-129,208,24,Missed,1,0,0,0,h,MISS Beal 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+10,8,PT11M07.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+11,9,PT11M00.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,2,95,10,Missed,1,0,0,0,v,MISS Ibaka 10' Jump Shot,Missed Shot,Jump Shot,1,0
+12,10,PT11M00.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+13,11,PT10M58.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,9,-1,1,Made,1,3,2,5,v,Ibaka 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,0
+14,12,PT10M40.00S,1,1610612764,WAS,202322,Wall,J. Wall,-16,277,28,Missed,1,0,0,0,h,MISS Wall 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+15,13,PT10M39.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+16,15,PT10M21.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,6,28,3,Made,1,3,4,7,v,Valanciunas 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+17,16,PT10M09.00S,1,1610612764,WAS,202693,Morris,M. Morris,235,110,26,Missed,1,0,0,0,h,MISS Mark Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+18,17,PT10M08.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+19,18,PT09M58.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,-11,3,1,Made,1,3,6,9,v,Carroll 1' Cutting Layup Shot (2 PTS) (DeRozan 1 AST),Made Shot,Cutting Layup Shot,1,0
+20,19,PT09M34.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-168,92,19,Made,1,5,6,11,h,Porter Jr. 19' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+21,20,PT09M17.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,14,223,22,Missed,1,0,0,0,v,MISS Ibaka 22' Jump Shot,Missed Shot,Jump Shot,1,0
+22,21,PT09M17.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+23,22,PT09M09.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Raptors T.Foul (Def. 3 Sec Valanciunas ) (M.Davis),Foul,Defense 3 Second,1,0
+24,23,PT09M09.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,6,6,12,h,Beal Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+25,25,PT09M02.00S,1,1610612764,WAS,202322,Wall,J. Wall,96,200,22,Made,1,8,6,14,h,Wall 22' Pullup Jump Shot (5 PTS) (Beal 1 AST),Made Shot,Pullup Jump shot,1,0
+26,26,PT08M53.00S,1,1610612761,TOR,202709,Joseph,C. Joseph,-9,11,1,Made,1,8,8,16,v,Joseph 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,0
+27,27,PT08M53.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0
+28,28,PT08M53.00S,1,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,8,9,17,v,Joseph Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+29,31,PT08M40.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan P.FOUL (P1.T1) (N.Buchert),Foul,Personal,1,0
+30,32,PT08M27.00S,1,1610612764,WAS,202322,Wall,J. Wall,92,247,26,Made,1,11,9,20,h,Wall 26' 3PT Jump Shot (8 PTS) (Beal 2 AST),Made Shot,Jump Shot,1,0
+31,33,PT08M05.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,-156,218,27,Missed,1,0,0,0,v,MISS Ibaka 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+32,34,PT08M04.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+33,35,PT07M57.00S,1,1610612764,WAS,203078,Beal,B. Beal,-71,185,20,Missed,1,0,0,0,h,MISS Beal 20' Jump Shot,Missed Shot,Jump Shot,1,0
+34,36,PT07M56.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+35,37,PT07M49.00S,1,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,Joseph S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,1,0
+36,38,PT07M49.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,12,9,21,h,Wall Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+37,40,PT07M49.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,MISS Wall Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+38,42,PT07M48.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+39,44,PT07M39.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-76,185,20,Made,1,12,11,23,v,DeRozan 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+40,45,PT07M20.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+41,45,PT07M20.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll STEAL (1 STL),,,1,0
+42,46,PT07M16.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,-12,0,1,Made,1,12,13,25,v,Carroll 1' Layup (4 PTS),Made Shot,Layup Shot,1,0
+43,47,PT07M03.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,12,77,8,Missed,1,0,0,0,h,MISS Gortat 8' Jump Shot,Missed Shot,Jump Shot,1,0
+44,48,PT07M02.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+45,49,PT06M58.00S,1,1610612764,WAS,202322,Wall,J. Wall,117,228,26,Made,1,15,13,28,h,Wall 26' 3PT Jump Shot (12 PTS) (Mark Morris 1 AST),Made Shot,Jump Shot,1,0
+46,50,PT06M36.00S,1,1610612761,TOR,202709,Joseph,C. Joseph,-6,82,8,Missed,1,0,0,0,v,MISS Joseph 8' Jump Shot,Missed Shot,Jump Shot,1,0
+47,51,PT06M35.00S,1,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+48,52,PT06M31.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,328,395,51,Missed,1,0,0,0,h,MISS Gortat 51' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+49,52,PT06M31.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka BLOCK (1 BLK),,,1,0
+50,53,PT06M30.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+51,54,PT06M22.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,204,160,26,Missed,1,0,0,0,v,MISS Carroll 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+52,55,PT06M20.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+53,56,PT06M13.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,207,174,27,Missed,1,0,0,0,v,MISS Carroll 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+54,57,PT06M12.00S,1,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,Joseph REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+55,58,PT06M08.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,-135,242,28,Missed,1,0,0,0,v,MISS Ibaka 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+56,59,PT06M07.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+57,60,PT05M55.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Valanciunas P.FOUL (P1.T3) (J.VanDuyne),Foul,Personal,1,0
+58,61,PT05M55.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+59,63,PT05M50.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Valanciunas S.FOUL (P2.T4) (M.Davis),Foul,Shooting,1,0
+60,64,PT05M50.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,16,13,29,h,Gortat Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+61,66,PT05M50.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,SUB: Patterson FOR Valanciunas,Substitution,,0,0
+62,67,PT05M50.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,17,13,30,h,Gortat Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+63,69,PT05M29.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,155,2,16,Made,1,17,15,32,v,DeRozan 16' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,0
+64,70,PT05M05.00S,1,1610612764,WAS,203078,Beal,B. Beal,43,264,27,Missed,1,0,0,0,h,MISS Beal 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+65,71,PT05M04.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+66,72,PT05M03.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,9,3,1,Missed,1,0,0,0,h,MISS Porter Jr. 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+67,73,PT05M02.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+68,74,PT05M00.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0
+69,75,PT05M00.00S,1,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,SUB: Bogdanovic FOR Mark Morris,Substitution,,0,0
+70,76,PT04M36.00S,1,1610612764,WAS,202322,Wall,J. Wall,115,180,21,Made,1,19,15,34,h,Wall 21' Step Back Jump Shot (14 PTS) (Beal 3 AST),Made Shot,Step Back Jump shot,1,0
+71,77,PT04M25.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,-24,13,3,Made,1,19,17,36,v,Ibaka 3' Reverse Layup (4 PTS) (Joseph 1 AST),Made Shot,Reverse Layup Shot,1,0
+72,78,PT04M10.00S,1,1610612764,WAS,202322,Wall,J. Wall,22,2,2,Missed,1,0,0,0,h,MISS Wall 2' Layup,Missed Shot,Layup Shot,1,0
+73,79,PT04M09.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+74,80,PT04M03.00S,1,1610612761,TOR,202709,Joseph,C. Joseph,-99,0,10,Made,1,19,19,38,v,Joseph 10' Floating Jump Shot (5 PTS) (Carroll 1 AST),Made Shot,Floating Jump shot,1,0
+75,81,PT03M51.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson P.FOUL (P1.PN) (J.VanDuyne),Foul,Personal,1,0
+76,82,PT03M51.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,20,19,39,h,Porter Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+77,84,PT03M51.00S,1,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,SUB: Wright FOR Joseph,Substitution,,0,0
+78,85,PT03M51.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,21,19,40,h,Porter Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+79,88,PT03M36.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,232,62,24,Made,1,21,22,43,v,DeRozan 24' 3PT Jump Shot (7 PTS) (Carroll 2 AST),Made Shot,Jump Shot,1,0
+80,89,PT03M13.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+81,89,PT03M13.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll STEAL (2 STL),,,1,0
+82,90,PT03M03.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,-45,257,26,Made,1,21,25,46,v,Patterson 26' 3PT Jump Shot (3 PTS) (Carroll 3 AST),Made Shot,Jump Shot,1,0
+83,91,PT02M41.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,235,70,25,Missed,1,0,0,0,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+84,92,PT02M40.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+85,93,PT02M32.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,150,223,27,Missed,1,0,0,0,v,MISS Carroll 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+86,94,PT02M31.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+87,95,PT02M26.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+88,96,PT02M26.00S,1,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+89,98,PT02M26.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,SUB: Oubre Jr. FOR Porter Jr.,Substitution,,0,0
+90,99,PT02M26.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,SUB: Satoransky FOR Beal,Substitution,,0,0
+91,100,PT02M26.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,SUB: Powell FOR Carroll,Substitution,,0,0
+92,101,PT02M26.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,SUB: Tucker FOR DeRozan,Substitution,,0,0
+93,102,PT02M16.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,28,257,26,Made,1,21,28,49,v,Ibaka 26' 3PT Jump Shot (7 PTS) (Wright 1 AST),Made Shot,Jump Shot,1,0
+94,103,PT02M07.00S,1,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell P.FOUL (P1.PN) (J.VanDuyne),Foul,Personal,1,0
+95,104,PT02M07.00S,1,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,22,28,50,h,Bogdanovic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+96,106,PT02M07.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,SUB: Mahinmi FOR Gortat,Substitution,,0,0
+97,107,PT02M07.00S,1,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,23,28,51,h,Bogdanovic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+98,110,PT01M57.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,-166,149,22,Made,1,23,30,53,v,Ibaka 22' Jump Shot (9 PTS),Made Shot,Jump Shot,1,0
+99,111,PT01M33.00S,1,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,Oubre Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+100,112,PT01M17.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+101,112,PT01M17.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall STEAL (1 STL),,,1,0
+102,113,PT01M15.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka S.FOUL (P1.PN) (J.VanDuyne),Foul,Shooting,1,0
+103,114,PT01M15.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,24,30,54,h,Wall Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+104,116,PT01M15.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,SUB: Joseph FOR Ibaka,Substitution,,0,0
+105,117,PT01M15.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,25,30,55,h,Wall Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+106,120,PT00M52.20S,1,1610612761,TOR,200782,Tucker,P. Tucker,10,16,2,Made,1,25,32,57,v,Tucker 2' Cutting Finger Roll Layup Shot (2 PTS) (Patterson 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,0
+107,121,PT00M37.90S,1,1610612764,WAS,202322,Wall,J. Wall,-92,52,11,Missed,1,0,0,0,h,MISS Wall 11' Jump Shot,Missed Shot,Jump Shot,1,0
+108,121,PT00M37.90S,1,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright BLOCK (1 BLK),,,1,0
+109,122,PT00M37.20S,1,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+110,123,PT00M37.20S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,SUB: Jennings FOR Wall,Substitution,,0,0
+111,124,PT00M31.70S,1,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,-225,139,26,Missed,1,0,0,0,h,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+112,125,PT00M30.40S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,0,0,0,h,Satoransky REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+113,126,PT00M21.40S,1,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,135,-1,14,Made,1,27,32,59,h,Oubre Jr. 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+114,127,PT00M13.60S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,0,0,0,h,Satoransky P.FOUL (P1.T2) (J.VanDuyne),Foul,Personal,1,0
+115,128,PT00M03.90S,1,1610612761,TOR,202335,Patterson,P. Patterson,74,257,27,Made,1,27,35,62,v,Patterson 27' 3PT Jump Shot (6 PTS) (Joseph 2 AST),Made Shot,Jump Shot,1,0
+116,129,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,35,62,,End of 1st Period (7:36 PM EST),period,end,0,0
+117,131,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,35,62,,Start of 2nd Period (7:38 PM EST),period,start,0,0
+118,132,PT11M42.00S,2,1610612764,WAS,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,h,Jennings P.FOUL (P1.T1) (N.Buchert),Foul,Personal,1,0
+119,133,PT11M32.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,9,57,6,Made,1,27,37,64,v,Joseph 6' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,1,0
+120,134,PT11M20.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,-17,8,2,Missed,1,0,0,0,h,MISS Oubre Jr. 2' Layup,Missed Shot,Layup Shot,1,0
+121,135,PT11M20.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+122,136,PT11M14.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,Oubre Jr. Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+123,136,PT11M14.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright STEAL (1 STL),,,1,0
+124,137,PT11M12.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,Oubre Jr. S.FOUL (P1.T2) (M.Davis),Foul,Shooting,1,0
+125,138,PT11M12.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,MISS Wright Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+126,139,PT11M12.00S,2,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Rebound,Rebound,Normal Rebound,0,0
+127,140,PT11M12.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,27,38,65,v,Wright Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+128,143,PT10M56.00S,2,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,-78,120,14,Missed,1,0,0,0,h,MISS Bogdanovic 14' Jump Shot,Missed Shot,Jump Shot,1,0
+129,144,PT10M56.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,0,0,0,h,Satoransky REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+130,145,PT10M54.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,-1,2,0,Missed,1,0,0,0,h,MISS Satoransky  Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+131,146,PT10M53.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+132,147,PT10M49.00S,2,1610612761,TOR,200782,Tucker,P. Tucker,15,23,3,Made,1,27,40,67,v,Tucker 3' Driving Layup (4 PTS) (Powell 1 AST),Made Shot,Driving Layup Shot,1,0
+133,148,PT10M49.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+134,150,PT10M29.00S,2,1610612764,WAS,101133,Mahinmi,I. Mahinmi,24,51,6,Made,1,29,40,69,h,Mahinmi 6' Driving Hook Shot (2 PTS) (Jennings 1 AST),Made Shot,Driving Hook Shot,1,0
+135,151,PT10M19.00S,2,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi S.FOUL (P1.T3) (M.Davis),Foul,Shooting,1,0
+136,153,PT10M19.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,29,41,70,v,Wright Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+137,155,PT10M19.00S,2,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,SUB: Gortat FOR Mahinmi,Substitution,,0,0
+138,157,PT10M19.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,0,0,0,h,SUB: Mark Morris FOR Satoransky,Substitution,,0,0
+139,158,PT10M19.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,29,42,71,v,Wright Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+140,160,PT10M04.00S,2,1610612764,WAS,202693,Morris,M. Morris,-24,80,8,Missed,1,0,0,0,h,MISS Mark Morris 8' Jump Shot,Missed Shot,Jump Shot,1,0
+141,161,PT10M03.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+142,162,PT09M55.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,Oubre Jr. S.FOUL (P2.T4) (J.VanDuyne),Foul,Shooting,1,0
+143,163,PT09M55.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,29,43,72,v,Wright Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+144,165,PT09M55.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,MISS Wright Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+145,167,PT09M53.00S,2,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+146,168,PT09M49.00S,2,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker S.FOUL (P1.T1) (J.VanDuyne),Foul,Shooting,1,0
+147,169,PT09M49.00S,2,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,30,43,73,h,Bogdanovic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+148,171,PT09M49.00S,2,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,31,43,74,h,Bogdanovic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+149,173,PT09M33.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson Traveling Turnover (P2.T3),Turnover,Traveling,1,0
+150,174,PT09M15.00S,2,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,-63,26,7,Missed,1,0,0,0,h,MISS Bogdanovic 7' Jump Shot,Missed Shot,Jump Shot,1,0
+151,174,PT09M15.00S,2,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker BLOCK (1 BLK),,,1,0
+152,175,PT09M14.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,Joseph REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+153,176,PT09M08.00S,2,1610612761,TOR,1626153,Wright,D. Wright,-12,7,1,Made,1,31,45,76,v,Wright 1' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,1,0
+154,177,PT08M58.00S,2,1610612764,WAS,201943,Jennings,B. Jennings,-140,232,27,Missed,1,0,0,0,h,MISS Jennings 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+155,178,PT08M57.00S,2,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+156,179,PT08M50.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,Oubre Jr. P.FOUL (P3.PN) (N.Buchert),Foul,Personal,1,0
+157,180,PT08M50.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,31,46,77,v,Patterson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+158,182,PT08M50.00S,2,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,SUB: Beal FOR Oubre Jr.,Substitution,,0,0
+159,183,PT08M50.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,31,47,78,v,Patterson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+160,186,PT08M27.00S,2,1610612764,WAS,202693,Morris,M. Morris,-91,174,20,Missed,1,0,0,0,h,MISS Mark Morris 20' Jump Shot,Missed Shot,Jump Shot,1,0
+161,186,PT08M27.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright BLOCK (2 BLK),,,1,0
+162,187,PT08M25.00S,2,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+163,188,PT08M17.00S,2,1610612761,TOR,1626181,Powell,N. Powell,22,272,27,Made,1,31,50,81,v,Powell 27' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,0
+164,189,PT08M16.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+165,191,PT08M16.00S,2,1610612764,WAS,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,h,SUB: Wall FOR Jennings,Substitution,,0,0
+166,192,PT08M16.00S,2,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,h,SUB: Porter Jr. FOR Bogdanovic,Substitution,,0,0
+167,193,PT08M02.00S,2,1610612764,WAS,101162,Gortat,M. Gortat,-6,11,1,Made,1,33,50,83,h,Gortat 1' Cutting Layup Shot (4 PTS) (Mark Morris 2 AST),Made Shot,Cutting Layup Shot,1,0
+168,194,PT07M41.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright Discontinue Dribble Turnover (P1.T4),Turnover,Discontinue Dribble,1,0
+169,195,PT07M27.00S,2,1610612764,WAS,203078,Beal,B. Beal,60,106,12,Missed,1,0,0,0,h,MISS Beal 12' Jump Shot,Missed Shot,Jump Shot,1,0
+170,195,PT07M27.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright BLOCK (3 BLK),,,1,0
+171,196,PT07M25.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+172,197,PT07M22.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,1,0,Made,1,33,52,85,v,Powell  Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,0
+173,198,PT07M03.00S,2,1610612764,WAS,202693,Morris,M. Morris,-73,70,10,Missed,1,0,0,0,h,MISS Mark Morris 10' Jump Shot,Missed Shot,Jump Shot,1,0
+174,199,PT07M01.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,Joseph REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+175,200,PT07M01.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal Personal Block Foul (P1.PN) (J.VanDuyne),Foul,Personal Block,1,0
+176,201,PT07M01.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,MISS Joseph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+177,202,PT07M01.00S,2,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Rebound,Rebound,Normal Rebound,0,0
+178,203,PT07M01.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,SUB: Valanciunas FOR Patterson,Substitution,,0,0
+179,204,PT07M01.00S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,SUB: DeRozan FOR Wright,Substitution,,0,0
+180,208,PT07M01.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Valanciunas Lane Violation Turnover (P1.T5),Turnover,Lane Violation,1,0
+181,209,PT06M43.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,28,65,7,Missed,1,0,0,0,h,MISS Porter Jr. 7' Jump Shot,Missed Shot,Jump Shot,1,0
+182,210,PT06M42.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+183,211,PT06M40.00S,2,1610612764,WAS,202693,Morris,M. Morris,-19,41,5,Made,1,35,52,87,h,Mark Morris 5' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+184,212,PT06M28.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal S.FOUL (P2.PN) (M.Davis),Foul,Shooting,1,0
+185,213,PT06M28.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,35,53,88,v,DeRozan Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+186,215,PT06M28.00S,2,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,SUB: Ibaka FOR Tucker,Substitution,,0,0
+187,216,PT06M28.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,SUB: Carroll FOR Powell,Substitution,,0,0
+188,217,PT06M28.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,35,54,89,v,DeRozan Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+189,220,PT06M11.00S,2,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll Shooting Block Foul (P1.T2) (M.Davis),Foul,Shooting Block,1,0
+190,221,PT06M11.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,36,54,90,h,Wall Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+191,225,PT06M11.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,37,54,91,h,Wall Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+192,227,PT05M53.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,-86,139,16,Missed,1,0,0,0,v,MISS DeRozan 16' Jump Shot,Missed Shot,Jump Shot,1,0
+193,227,PT05M53.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. BLOCK (1 BLK),,,1,0
+194,228,PT05M51.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+195,229,PT05M44.00S,2,1610612764,WAS,203078,Beal,B. Beal,-88,237,25,Made,1,40,54,94,h,Beal 25' 3PT Jump Shot (4 PTS) (Mark Morris 3 AST),Made Shot,Jump Shot,1,0
+196,230,PT05M38.00S,2,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+197,232,PT05M24.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka OFF.Foul (P2) (N.Buchert),Foul,Offensive,1,0
+198,233,PT05M24.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka Foul Turnover (P2.T6),Turnover,Foul,1,0
+199,234,PT05M10.00S,2,1610612764,WAS,203078,Beal,B. Beal,53,65,8,Made,1,42,54,96,h,Beal 8' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,0
+200,236,PT04M52.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,73,190,20,Made,1,42,56,98,v,Joseph 20' Jump Shot (9 PTS),Made Shot,Jump Shot,1,0
+201,237,PT04M32.00S,2,1610612764,WAS,202693,Morris,M. Morris,161,7,16,Missed,1,0,0,0,h,MISS Mark Morris 16' Jump Shot,Missed Shot,Jump Shot,1,0
+202,238,PT04M31.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+203,239,PT04M18.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,156,70,17,Missed,1,0,0,0,v,MISS DeRozan 17' Jump Shot,Missed Shot,Jump Shot,1,0
+204,240,PT04M17.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+205,241,PT04M12.00S,2,1610612764,WAS,203078,Beal,B. Beal,9,2,1,Made,1,44,56,100,h,Beal 1' Running Reverse Layup (8 PTS) (Wall 1 AST),Made Shot,Running Reverse Layup Shot,1,0
+206,242,PT03M55.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,-63,198,21,Missed,1,0,0,0,v,MISS Joseph 21' Jump Shot,Missed Shot,Jump Shot,1,0
+207,243,PT03M54.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+208,244,PT03M48.00S,2,1610612764,WAS,202322,Wall,J. Wall,99,154,18,Missed,1,0,0,0,h,MISS Wall 18' Jump Shot,Missed Shot,Jump Shot,1,0
+209,245,PT03M48.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+210,246,PT03M46.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,0
+211,246,PT03M46.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris STEAL (1 STL),,,1,0
+212,247,PT03M43.00S,2,1610612764,WAS,203078,Beal,B. Beal,-179,205,27,Made,1,47,56,103,h,Beal 27' 3PT Jump Shot (11 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,0
+213,248,PT03M41.00S,2,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+214,250,PT03M41.00S,2,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,SUB: Mahinmi FOR Gortat,Substitution,,0,0
+215,251,PT03M41.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,SUB: Wright FOR Valanciunas,Substitution,,0,0
+216,252,PT03M41.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,SUB: Patterson FOR Joseph,Substitution,,0,0
+217,253,PT03M32.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,-117,90,15,Missed,1,0,0,0,v,MISS DeRozan 15' Jump Shot,Missed Shot,Jump Shot,1,0
+218,253,PT03M32.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris BLOCK (1 BLK),,,1,0
+219,254,PT03M30.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+220,255,PT03M27.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0
+221,255,PT03M27.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. STEAL (1 STL),,,1,0
+222,256,PT03M18.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,220,136,26,Made,1,50,56,106,h,Porter Jr. 26' 3PT Jump Shot (7 PTS) (Beal 4 AST),Made Shot,Jump Shot,1,0
+223,257,PT03M01.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,2,247,25,Missed,1,0,0,0,v,MISS Ibaka 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+224,258,PT03M00.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+225,259,PT02M52.00S,2,1610612764,WAS,202322,Wall,J. Wall,17,-1,2,Missed,1,0,0,0,h,MISS Wall 2' Layup,Missed Shot,Layup Shot,1,0
+226,260,PT02M52.00S,2,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Rebound,Rebound,Unknown,0,0
+227,261,PT02M52.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+228,263,PT02M33.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+229,263,PT02M33.00S,2,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi STEAL (1 STL),,,1,0
+230,264,PT02M26.00S,2,1610612764,WAS,203078,Beal,B. Beal,248,11,25,Missed,1,0,0,0,h,MISS Beal 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+231,265,PT02M25.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+232,266,PT02M22.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-176,190,26,Missed,1,0,0,0,h,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+233,267,PT02M21.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+234,268,PT02M03.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,-78,259,27,Made,1,50,59,109,v,Ibaka 27' 3PT Jump Shot (12 PTS) (Patterson 2 AST),Made Shot,Jump Shot,1,0
+235,269,PT01M35.00S,2,1610612764,WAS,101133,Mahinmi,I. Mahinmi,-12,11,2,Missed,1,0,0,0,h,MISS Mahinmi 2' Layup,Missed Shot,Layup Shot,1,0
+236,270,PT01M34.00S,2,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+237,272,PT01M16.00S,2,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,1,0
+238,273,PT01M16.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,50,60,110,v,DeRozan Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+239,275,PT01M16.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,SUB: Tucker FOR Ibaka,Substitution,,0,0
+240,276,PT01M16.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,50,61,111,v,DeRozan Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+241,279,PT01M07.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan S.FOUL (P2.T3) (J.VanDuyne),Foul,Shooting,1,0
+242,280,PT01M07.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,51,61,112,h,Porter Jr. Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+243,282,PT01M07.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,52,61,113,h,Porter Jr. Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+244,284,PT00M54.30S,2,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi Shooting Block Foul (P2.PN) (N.Buchert),Foul,Shooting Block,1,0
+245,285,PT00M54.30S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,52,62,114,v,DeRozan Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+246,287,PT00M54.30S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,MISS DeRozan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+247,289,PT00M53.90S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+248,291,PT00M41.70S,2,1610612764,WAS,202322,Wall,J. Wall,9,0,1,Missed,1,0,0,0,h,MISS Wall 1' Layup,Missed Shot,Layup Shot,1,0
+249,292,PT00M40.70S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+250,293,PT00M33.90S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,56,18,6,Missed,1,0,0,0,v,MISS DeRozan 6' Jump Shot,Missed Shot,Jump Shot,1,0
+251,294,PT00M32.80S,2,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+252,295,PT00M24.80S,2,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,1,0
+253,296,PT00M24.80S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,MISS Porter Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+254,297,PT00M24.80S,2,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0
+255,298,PT00M24.80S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,SUB: Satoransky FOR Beal,Substitution,,0,0
+256,299,PT00M24.80S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,53,62,115,h,Porter Jr. Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+257,301,PT00M00.80S,2,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0
+258,302,PT00M00.10S,2,1610612764,WAS,202322,Wall,J. Wall,-4,498,50,Missed,1,0,0,0,h,MISS Wall 50' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+259,303,PT00M00.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+260,304,PT00M00.00S,2,0,,0,,,0,0,0,,0,53,62,115,,End of 2nd Period (8:16 PM EST),period,end,0,0
+261,306,PT12M00.00S,3,0,,0,,,0,0,0,,0,53,62,115,,Start of 3rd Period (8:32 PM EST),period,start,0,0
+262,307,PT11M36.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,-130,146,20,Made,1,53,64,117,v,Joseph 20' Jump Shot (11 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,1,0
+263,308,PT11M14.00S,3,1610612764,WAS,203078,Beal,B. Beal,-127,169,21,Missed,1,0,0,0,h,MISS Beal 21' Jump Shot,Missed Shot,Jump Shot,1,0
+264,309,PT11M13.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+265,310,PT11M08.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall P.FOUL (P2.T1) (N.Buchert),Foul,Personal,1,0
+266,311,PT10M55.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,-179,-10,18,Missed,1,0,0,0,v,MISS Joseph 18' Jump Shot,Missed Shot,Jump Shot,1,0
+267,312,PT10M54.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+268,313,PT10M49.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,218,144,26,Made,1,56,64,120,h,Porter Jr. 26' 3PT Pullup Jump Shot (13 PTS) (Wall 2 AST),Made Shot,Pullup Jump shot,1,0
+269,314,PT10M19.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,-89,90,13,Missed,1,0,0,0,v,MISS Joseph 13' Jump Shot,Missed Shot,Jump Shot,1,0
+270,315,PT10M18.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+271,316,PT10M11.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-132,232,27,Missed,1,0,0,0,h,MISS Porter Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+272,317,PT10M10.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+273,318,PT09M58.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,25,46,5,Made,1,58,64,122,h,Gortat 5' Jump Shot (6 PTS) (Mark Morris 4 AST),Made Shot,Jump Shot,1,0
+274,319,PT09M39.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,220,144,26,Made,1,58,67,125,v,Carroll 26' 3PT Jump Shot (7 PTS) (Joseph 3 AST),Made Shot,Jump Shot,1,0
+275,320,PT09M26.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,1,0,Made,1,60,67,127,h,Beal  Alley Oop Dunk (13 PTS) (Wall 3 AST),Made Shot,Alley Oop Dunk Shot,1,0
+276,321,PT09M18.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Valanciunas OFF.Foul (P3) (N.Buchert),Foul,Offensive,1,0
+277,322,PT09M18.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,Valanciunas Foul Turnover (P2.T11),Turnover,Foul,1,0
+278,323,PT09M05.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,146,105,18,Missed,1,0,0,0,h,MISS Gortat 18' Jump Shot,Missed Shot,Jump Shot,1,0
+279,324,PT09M04.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+280,325,PT08M58.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0
+281,325,PT08M58.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. STEAL (2 STL),,,1,0
+282,326,PT08M51.00S,3,1610612764,WAS,202693,Morris,M. Morris,9,-1,1,Missed,1,0,0,0,h,MISS Mark Morris 1' Layup,Missed Shot,Layup Shot,1,0
+283,327,PT08M50.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+284,328,PT08M50.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,9,7,1,Made,1,62,67,129,h,Porter Jr. 1' Putback Layup (15 PTS),Made Shot,Putback Layup Shot,1,0
+285,329,PT08M50.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,1,0
+286,330,PT08M50.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,63,67,130,h,Porter Jr. Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0
+287,334,PT08M34.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,SUB: Powell FOR DeRozan,Substitution,,0,0
+288,335,PT08M34.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0,0,0,v,SUB: Patterson FOR Valanciunas,Substitution,,0,0
+289,336,PT08M31.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,-43,36,6,Missed,1,0,0,0,v,MISS Patterson 6' Jump Shot,Missed Shot,Jump Shot,1,0
+290,336,PT08M31.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall BLOCK (1 BLK),,,1,0
+291,337,PT08M29.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+292,338,PT08M23.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,28,21,4,Missed,1,0,0,0,h,MISS Porter Jr. 4' Jump Shot,Missed Shot,Jump Shot,1,0
+293,339,PT08M22.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+294,340,PT08M16.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,228,129,26,Missed,1,0,0,0,v,MISS Carroll 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+295,340,PT08M16.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall BLOCK (2 BLK),,,1,0
+296,341,PT08M14.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+297,342,PT08M08.00S,3,1610612764,WAS,202693,Morris,M. Morris,138,75,16,Missed,1,0,0,0,h,MISS Mark Morris 16' Jump Shot,Missed Shot,Jump Shot,1,0
+298,343,PT08M07.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+299,344,PT08M02.00S,3,1610612761,TOR,1626181,Powell,N. Powell,1,7,1,Made,1,63,69,132,v,Powell 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,0
+300,345,PT07M45.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,1,0,Made,1,65,69,134,h,Mark Morris  Alley Oop Dunk (4 PTS) (Wall 4 AST),Made Shot,Alley Oop Dunk Shot,1,0
+301,346,PT07M25.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,86,247,26,Missed,1,0,0,0,v,MISS Ibaka 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+302,347,PT07M24.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+303,348,PT07M23.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll P.FOUL (P3.T2) (M.Davis),Foul,Personal,1,0
+304,349,PT07M12.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0
+305,350,PT06M59.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,Joseph Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0
+306,350,PT06M59.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal STEAL (1 STL),,,1,0
+307,351,PT06M54.00S,3,1610612764,WAS,203078,Beal,B. Beal,15,26,3,Missed,1,0,0,0,h,MISS Beal 3' Jump Shot,Missed Shot,Jump Shot,1,0
+308,352,PT06M52.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+309,353,PT06M45.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal P.FOUL (P3.T2) (N.Buchert),Foul,Personal,1,0
+310,354,PT06M41.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,63,247,25,Missed,1,0,0,0,v,MISS Patterson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+311,355,PT06M40.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+312,356,PT06M31.00S,3,1610612764,WAS,202322,Wall,J. Wall,43,164,17,Made,1,67,69,136,h,Wall 17' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,0
+313,357,PT06M16.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,-14,11,2,Missed,1,0,0,0,v,MISS Joseph 2' Layup,Missed Shot,Layup Shot,1,0
+314,358,PT06M15.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+315,359,PT06M08.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,-30,11,3,Missed,1,0,0,0,h,MISS Gortat 3' Jump Shot,Missed Shot,Jump Shot,1,0
+316,359,PT06M08.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson BLOCK (1 BLK),,,1,0
+317,360,PT06M07.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+318,361,PT06M03.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,3,0,Missed,1,0,0,0,v,MISS Joseph  Layup,Missed Shot,Layup Shot,1,0
+319,361,PT06M03.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall BLOCK (3 BLK),,,1,0
+320,362,PT06M02.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,Carroll REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+321,363,PT05M55.00S,3,1610612761,TOR,1626181,Powell,N. Powell,-158,210,26,Missed,1,0,0,0,v,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+322,364,PT05M55.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+323,365,PT05M55.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+324,367,PT05M54.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,SUB: DeRozan FOR Powell,Substitution,,0,0
+325,368,PT05M40.00S,3,1610612764,WAS,202322,Wall,J. Wall,120,139,18,Missed,1,0,0,0,h,MISS Wall 18' Jump Shot,Missed Shot,Jump Shot,1,0
+326,369,PT05M39.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+327,370,PT05M31.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-20,21,3,Missed,1,0,0,0,v,MISS DeRozan 3' Layup,Missed Shot,Layup Shot,1,0
+328,371,PT05M30.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+329,372,PT05M14.00S,3,1610612764,WAS,202693,Morris,M. Morris,-233,43,24,Missed,1,0,0,0,h,MISS Mark Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+330,373,PT05M13.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+331,374,PT05M06.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,-4,21,2,Made,1,67,71,138,v,Joseph 2' Layup (13 PTS),Made Shot,Layup Shot,1,0
+332,375,PT04M40.00S,3,1610612764,WAS,202322,Wall,J. Wall,-7,21,2,Missed,1,0,0,0,h,MISS Wall 2' Layup,Missed Shot,Layup Shot,1,0
+333,376,PT04M39.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+334,377,PT04M38.00S,3,1610612764,WAS,202322,Wall,J. Wall,6,11,1,Made,1,69,71,140,h,Wall 1' Tip Layup Shot (22 PTS),Made Shot,Tip Layup Shot,1,0
+335,378,PT04M14.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,-130,87,16,Missed,1,0,0,0,v,MISS Ibaka 16' Jump Shot,Missed Shot,Jump Shot,1,0
+336,379,PT04M13.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,Joseph REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+337,380,PT04M04.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,Joseph Traveling Turnover (P2.T14),Turnover,Traveling,1,0
+338,381,PT04M04.00S,3,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,SUB: Bogdanovic FOR Mark Morris,Substitution,,0,0
+339,382,PT03M53.00S,3,1610612764,WAS,203078,Beal,B. Beal,-17,-6,2,Missed,1,0,0,0,h,MISS Beal 2' Layup,Missed Shot,Layup Shot,1,0
+340,383,PT03M51.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+341,384,PT03M37.00S,3,1610612764,WAS,202322,Wall,J. Wall,25,2,3,Missed,1,0,0,0,h,MISS Wall 3' Layup,Missed Shot,Layup Shot,1,0
+342,385,PT03M36.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+343,386,PT03M33.00S,3,1610612764,WAS,203078,Beal,B. Beal,-240,8,24,Made,1,72,71,143,h,Beal 24' 3PT Jump Shot (16 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,1,0
+344,387,PT03M06.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,130,291,32,Made,1,72,74,146,v,DeRozan 32' 3PT Jump Shot (15 PTS) (Ibaka 1 AST),Made Shot,Jump Shot,1,0
+345,388,PT02M57.00S,3,1610612764,WAS,203078,Beal,B. Beal,-114,97,15,Made,1,74,74,148,h,Beal 15' Pullup Bank Shot (18 PTS) (Wall 5 AST),Made Shot,Pullup Bank shot,1,0
+346,389,PT02M41.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,101,85,13,Made,1,74,76,150,v,DeRozan 13' Floating Jump Shot (17 PTS),Made Shot,Floating Jump shot,1,0
+347,390,PT02M26.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat OFF.Foul (P1) (N.Buchert),Foul,Offensive,1,0
+348,391,PT02M26.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,Gortat Foul Turnover (P2.T7),Turnover,Foul,1,0
+349,392,PT02M26.00S,3,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+350,394,PT02M26.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,SUB: Oubre Jr. FOR Gortat,Substitution,,0,0
+351,395,PT02M26.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,SUB: Mahinmi FOR Beal,Substitution,,0,0
+352,396,PT02M26.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0,0,0,v,SUB: Tucker FOR Carroll,Substitution,,0,0
+353,397,PT02M26.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,SUB: Powell FOR Ibaka,Substitution,,0,0
+354,398,PT02M26.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,SUB: Wright FOR Joseph,Substitution,,0,0
+355,399,PT02M26.00S,3,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+356,400,PT02M14.00S,3,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi P.FOUL (P3.T3) (J.VanDuyne),Foul,Personal,1,0
+357,401,PT02M08.00S,3,1610612761,TOR,1626153,Wright,D. Wright,-29,277,28,Made,1,74,79,153,v,Wright 28' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1,0
+358,402,PT01M54.00S,3,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker S.FOUL (P2.T3) (J.VanDuyne),Foul,Shooting,1,0
+359,403,PT01M54.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,75,79,154,h,Wall Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0
+360,405,PT01M54.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,76,79,155,h,Wall Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0
+361,407,PT01M36.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,-223,26,0,Missed,1,0,0,0,v,MISS Patterson  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+362,408,PT01M36.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+363,409,PT01M33.00S,3,1610612761,TOR,1626181,Powell,N. Powell,135,62,15,Missed,1,0,0,0,v,MISS Powell 15' Jump Shot,Missed Shot,Jump Shot,1,0
+364,410,PT01M32.00S,3,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+365,411,PT01M23.00S,3,1610612764,WAS,202322,Wall,J. Wall,-17,2,2,Missed,1,0,0,0,h,MISS Wall 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+366,412,PT01M23.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+367,413,PT01M11.00S,3,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright Traveling Turnover (P2.T15),Turnover,Traveling,1,0
+368,414,PT01M11.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,SUB: Jennings FOR Wall,Substitution,,0,0
+369,415,PT01M01.00S,3,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker P.FOUL (P3.PN) (J.VanDuyne),Foul,Personal,1,0
+370,416,PT01M01.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,77,79,156,h,Porter Jr. Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+371,418,PT01M01.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,78,79,157,h,Porter Jr. Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+372,421,PT00M39.90S,3,1610612761,TOR,200782,Tucker,P. Tucker,6,3,1,Missed,1,0,0,0,v,MISS Tucker 1' Layup,Missed Shot,Layup Shot,1,0
+373,422,PT00M38.80S,3,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+374,423,PT00M33.20S,3,1610612764,WAS,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,h,Jennings Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+375,424,PT00M27.80S,3,1610612761,TOR,1626181,Powell,N. Powell,-233,36,24,Missed,1,0,0,0,v,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+376,425,PT00M26.40S,3,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,h,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+377,426,PT00M02.90S,3,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,233,-1,0,Missed,1,0,0,0,h,MISS Oubre Jr.  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+378,427,PT00M01.80S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+379,428,PT00M01.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,0
+380,428,PT00M01.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. STEAL (3 STL),,,1,0
+381,431,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,79,157,,End of 3rd Period (8:55 PM EST),period,end,0,0
+382,433,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,79,157,,Start of 4th Period (8:57 PM EST),period,start,0,0
+383,434,PT11M43.00S,4,1610612764,WAS,201943,Jennings,B. Jennings,145,72,16,Missed,1,0,0,0,h,MISS Jennings 16' Jump Shot,Missed Shot,Jump Shot,1,0
+384,434,PT11M43.00S,4,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright BLOCK (4 BLK),,,1,0
+385,435,PT11M41.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+386,436,PT11M37.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,-9,3,1,Made,1,78,81,159,v,DeRozan 1' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+387,437,PT11M28.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,-125,174,21,Missed,1,0,0,0,h,MISS Oubre Jr. 21' Jump Shot,Missed Shot,Jump Shot,1,0
+388,438,PT11M27.00S,4,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+389,439,PT11M09.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,-84,257,27,Missed,1,0,0,0,v,MISS Patterson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+390,440,PT11M08.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+391,441,PT10M53.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0
+392,441,PT10M53.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker STEAL (1 STL),,,1,0
+393,443,PT10M32.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0
+394,443,PT10M32.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi STEAL (2 STL),,,1,0
+395,444,PT10M21.00S,4,1610612764,WAS,202693,Morris,M. Morris,146,213,26,Made,1,81,81,162,h,Mark Morris 26' 3PT Jump Bank Shot (7 PTS) (Jennings 2 AST),Made Shot,Jump Bank Shot,1,0
+396,445,PT09M57.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,-158,16,16,Made,1,81,83,164,v,DeRozan 16' Turnaround Fadeaway (21 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+397,446,PT09M39.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,1,0,Made,1,83,83,166,h,Mark Morris  Driving Dunk (9 PTS) (Bogdanovic 1 AST),Made Shot,Driving Dunk Shot,1,0
+398,447,PT09M14.00S,4,1610612761,TOR,1626181,Powell,N. Powell,-24,62,7,Missed,1,0,0,0,v,MISS Powell 7' Jump Shot,Missed Shot,Jump Shot,1,0
+399,448,PT09M13.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+400,449,PT09M10.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,-1,2,0,Made,1,83,85,168,v,Tucker  Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,0
+401,450,PT09M08.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris T.FOUL (P1.T0) (M.Davis),Foul,Technical,1,0
+402,451,PT09M08.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,83,86,169,v,DeRozan Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,0,0
+403,453,PT08M53.00S,4,1610612764,WAS,201943,Jennings,B. Jennings,-48,247,25,Missed,1,0,0,0,h,MISS Jennings 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+404,454,PT08M52.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+405,455,PT08M45.00S,4,1610612761,TOR,1626181,Powell,N. Powell,-6,-11,1,Made,1,83,88,171,v,Powell 1' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+406,456,PT08M23.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris Step Out of Bounds Turnover (P2.T10),Turnover,Step Out of Bounds Turnover,1,0
+407,457,PT08M23.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+408,459,PT08M23.00S,4,1610612764,WAS,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,SUB: Beal FOR Oubre Jr.,Substitution,,0,0
+409,460,PT07M58.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,156,0,16,Missed,1,0,0,0,v,MISS Tucker 16' Jump Shot,Missed Shot,Jump Shot,1,0
+410,461,PT07M56.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+411,462,PT07M56.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,9,7,1,Missed,1,0,0,0,v,MISS Patterson 1' Layup,Missed Shot,Layup Shot,1,0
+412,463,PT07M55.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,Patterson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+413,464,PT07M55.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,-7,-10,1,Missed,1,0,0,0,v,MISS Patterson 1' Layup,Missed Shot,Layup Shot,1,0
+414,464,PT07M55.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi BLOCK (1 BLK),,,1,0
+415,465,PT07M54.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+416,467,PT07M45.00S,4,1610612764,WAS,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,h,SUB: Wall FOR Jennings,Substitution,,0,0
+417,468,PT07M39.00S,4,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,-233,33,24,Missed,1,0,0,0,h,MISS Bogdanovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+418,469,PT07M38.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+419,470,PT07M37.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,-12,-11,2,Made,1,85,88,173,h,Mahinmi 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,0
+420,471,PT07M13.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi S.FOUL (P4.T1) (J.VanDuyne),Foul,Shooting,1,0
+421,472,PT07M13.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,85,89,174,v,Powell Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+422,474,PT07M13.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,v,SUB: Ibaka FOR Patterson,Substitution,,0,0
+423,475,PT07M13.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,85,90,175,v,Powell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+424,478,PT06M59.00S,4,1610612764,WAS,203078,Beal,B. Beal,20,7,2,Missed,1,0,0,0,h,MISS Beal 2' Layup,Missed Shot,Layup Shot,1,0
+425,479,PT06M58.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,Mahinmi REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+426,480,PT06M57.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,12,-1,1,Made,1,87,90,177,h,Mahinmi 1' Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,0
+427,481,PT06M42.00S,4,1610612761,TOR,1626181,Powell,N. Powell,27,26,4,Made,1,87,92,179,v,Powell 4' Driving Bank Shot (13 PTS),Made Shot,Driving Bank shot,1,0
+428,482,PT06M42.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,1,0
+429,483,PT06M42.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,87,93,180,v,Powell Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0
+430,485,PT06M29.00S,4,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,153,52,16,Made,1,89,93,182,h,Bogdanovic 16' Jump Bank Shot (6 PTS) (Wall 6 AST),Made Shot,Jump Bank Shot,1,0
+431,486,PT06M13.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,101,120,16,Made,1,89,95,184,v,DeRozan 16' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,0
+432,487,PT06M00.00S,4,1610612764,WAS,203078,Beal,B. Beal,27,41,5,Made,1,91,95,186,h,Beal 5' Driving Bank Shot (20 PTS) (Wall 7 AST),Made Shot,Driving Bank shot,1,0
+433,488,PT06M00.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,1,0
+434,489,PT06M00.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,0,0,0,h,SUB: Gortat FOR Mahinmi,Substitution,,0,0
+435,490,PT06M00.00S,4,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,h,SUB: Porter Jr. FOR Bogdanovic,Substitution,,0,0
+436,491,PT06M00.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,MISS Beal Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+437,493,PT05M58.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+438,494,PT05M46.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,WIZARDS T.Foul (Def. 3 Sec Mark Morris ) (J.VanDuyne),Foul,Defense 3 Second,1,0
+439,495,PT05M46.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+440,497,PT05M46.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,MISS DeRozan Free Throw Technical,Free Throw,Free Throw Technical,0,0
+441,498,PT05M46.00S,4,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Rebound,Rebound,Normal Rebound,0,0
+442,499,PT05M37.00S,4,1610612761,TOR,1626181,Powell,N. Powell,-4,13,1,Missed,1,0,0,0,v,MISS Powell 1' Layup,Missed Shot,Layup Shot,1,0
+443,500,PT05M37.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Unknown,0,0
+444,501,PT05M37.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka L.B.FOUL (P3.T2) (N.Buchert),Foul,Loose Ball,1,0
+445,502,PT05M18.00S,4,1610612764,WAS,202693,Morris,M. Morris,148,134,20,Missed,1,0,0,0,h,MISS Mark Morris 20' Jump Shot,Missed Shot,Jump Shot,1,0
+446,503,PT05M17.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:1 Def:8),Rebound,Unknown,1,0
+447,504,PT05M07.00S,4,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+448,506,PT05M05.00S,4,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0,0,0,v,SUB: Joseph FOR Wright,Substitution,,0,0
+449,507,PT05M00.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,71,170,18,Missed,1,0,0,0,v,MISS DeRozan 18' Jump Shot,Missed Shot,Jump Shot,1,0
+450,508,PT04M59.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+451,509,PT04M45.00S,4,1610612764,WAS,202322,Wall,J. Wall,-1,11,1,Missed,1,0,0,0,h,MISS Wall 1' Layup,Missed Shot,Layup Shot,1,0
+452,510,PT04M44.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:1 Def:9),Rebound,Unknown,1,0
+453,511,PT04M37.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,71,146,16,Made,1,91,97,188,v,Joseph 16' Jump Shot (15 PTS) (DeRozan 3 AST),Made Shot,Jump Shot,1,0
+454,512,PT04M22.00S,4,1610612764,WAS,203078,Beal,B. Beal,4,8,1,Made,1,93,97,190,h,Beal 1' Driving Finger Roll Layup (22 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+455,513,PT03M57.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,58,198,21,Made,1,93,99,192,v,DeRozan 21' Step Back Jump Shot (26 PTS),Made Shot,Step Back Jump shot,1,0
+456,514,PT03M41.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0
+457,514,PT03M41.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell STEAL (1 STL),,,1,0
+458,515,PT03M38.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,Wall S.FOUL (P3.T3) (N.Buchert),Foul,Shooting,1,0
+459,516,PT03M38.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,93,100,193,v,Powell Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+460,518,PT03M38.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,93,101,194,v,Powell Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+461,521,PT03M26.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka S.FOUL (P4.T3) (N.Buchert),Foul,Shooting,1,0
+462,522,PT03M26.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,h,MISS Wall Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+463,523,PT03M26.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0
+464,524,PT03M26.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,94,101,195,h,Wall Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0
+465,527,PT03M18.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,1,7,1,Missed,1,0,0,0,v,MISS DeRozan 1' Layup,Missed Shot,Layup Shot,1,0
+466,528,PT03M17.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,0,0,0,h,Porter Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,1,0
+467,529,PT03M08.00S,4,1610612764,WAS,203078,Beal,B. Beal,232,16,0,Missed,1,0,0,0,h,MISS Beal  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+468,530,PT03M07.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+469,531,PT02M50.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,161,36,16,Missed,1,0,0,0,v,MISS Ibaka 16' Jump Shot,Missed Shot,Jump Shot,1,0
+470,532,PT02M49.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+471,533,PT02M45.00S,4,1610612764,WAS,202322,Wall,J. Wall,-9,7,1,Missed,1,0,0,0,h,MISS Wall 1' Layup,Missed Shot,Layup Shot,1,0
+472,533,PT02M45.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,v,Ibaka BLOCK (2 BLK),,,1,0
+473,534,PT02M43.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+474,535,PT02M42.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell S.FOUL (P3.T4) (M.Davis),Foul,Shooting,1,0
+475,536,PT02M42.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,95,101,196,h,Beal Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0
+476,538,PT02M42.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,96,101,197,h,Beal Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0
+477,541,PT02M24.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,1,0,Made,1,96,103,199,v,Powell  Driving Dunk (18 PTS),Made Shot,Driving Dunk Shot,1,0
+478,543,PT02M11.00S,4,1610612764,WAS,203078,Beal,B. Beal,145,208,25,Missed,1,0,0,0,h,MISS Beal 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+479,544,PT02M10.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,v,Joseph REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+480,545,PT01M51.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,-130,247,28,Missed,1,0,0,0,v,MISS Ibaka 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+481,546,PT01M50.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+482,547,PT01M50.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0,0,0,v,Tucker L.B.FOUL (P4.PN) (M.Davis),Foul,Loose Ball,1,0
+483,548,PT01M50.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,97,103,200,h,Mark Morris Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0
+484,550,PT01M50.00S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,98,103,201,h,Mark Morris Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+485,553,PT01M30.00S,4,1610612761,TOR,1626181,Powell,N. Powell,228,7,0,Made,1,98,106,204,v,Powell  3PT Jump Shot (21 PTS) (DeRozan 4 AST),Made Shot,Jump Shot,1,0
+486,554,PT01M30.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0
+487,556,PT01M30.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0,0,0,h,SUB: Bogdanovic FOR Gortat,Substitution,,0,0
+488,557,PT01M23.00S,4,1610612764,WAS,203078,Beal,B. Beal,-156,139,21,Made,1,100,106,206,h,Beal 21' Jump Shot (26 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,1,0
+489,558,PT01M20.00S,4,0,,1610612761,,,0,0,0,,0,0,0,0,v,Raptors Timeout: Short (Reg.4 Short 2),Timeout,Short,0,0
+490,559,PT01M14.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,-4,-1,0,Made,1,100,108,208,v,Ibaka  Reverse Layup (14 PTS) (DeRozan 5 AST),Made Shot,Reverse Layup Shot,1,0
+491,560,PT01M09.00S,4,1610612764,WAS,202322,Wall,J. Wall,6,8,1,Made,1,102,108,210,h,Wall 1' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,1,0
+492,561,PT00M58.70S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0,0,0,h,Beal P.FOUL (P4.T4) (N.Buchert),Foul,Personal,1,0
+493,563,PT00M53.10S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan Out of Bounds Lost Ball Turnover (P4.T18),Turnover,Out of Bounds Lost Ball Turnover,1,0
+494,565,PT00M53.10S,4,0,,563,,,0,0,0,,0,0,0,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0
+495,566,PT00M42.20S,4,1610612764,WAS,202322,Wall,J. Wall,-150,213,26,Made,1,105,108,213,h,Wall 26' 3PT Jump Shot (30 PTS) (Mark Morris 5 AST),Made Shot,Jump Shot,1,0
+496,568,PT00M20.90S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,-147,213,26,Made,1,105,111,216,v,DeRozan 26' 3PT Jump Shot (29 PTS),Made Shot,Jump Shot,1,0
+497,569,PT00M20.00S,4,0,,568,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+498,570,PT00M20.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,h,WIZARDS Timeout: Short (Full 5 Short 2),Timeout,Short,0,0
+499,573,PT00M18.50S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0,0,0,v,Powell IN.FOUL (P4.PN) (M.Davis),Foul,Inbound,1,0
+500,574,PT00M18.50S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,106,111,217,h,Beal Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,1,0
+501,577,PT00M12.90S,4,1610612764,WAS,202322,Wall,J. Wall,20,262,26,Missed,1,0,0,0,h,MISS Wall 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+502,578,PT00M10.90S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:1 Def:10),Rebound,Unknown,1,0
+503,579,PT00M09.40S,4,1610612764,WAS,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,0,0,0,h,Bogdanovic P.FOUL (P1.PN) (N.Buchert),Foul,Personal,1,0
+504,580,PT00M09.40S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,106,112,218,v,DeRozan Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0
+505,582,PT00M09.40S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,MISS DeRozan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+506,584,PT00M08.90S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:2 Def:10),Rebound,Unknown,1,0
+507,585,PT00M07.80S,4,1610612764,WAS,202693,Morris,M. Morris,0,0,0,,0,0,0,0,h,Mark Morris Personal Take Foul (P3.PN) (M.Davis),Foul,Personal Take,1,0
+508,586,PT00M07.80S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,106,113,219,v,DeRozan Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,0
+509,588,PT00M07.80S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,106,114,220,v,DeRozan Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0
+510,591,PT00M01.10S,4,1610612764,WAS,202322,Wall,J. Wall,-97,269,29,Missed,1,0,0,0,h,MISS Wall 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+511,592,PT00M00.10S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:2 Def:11),Rebound,Unknown,1,0
+512,593,PT00M00.00S,4,0,,0,,,0,0,0,,0,106,114,220,,End of 4th Period (9:37 PM EST),period,end,1,0

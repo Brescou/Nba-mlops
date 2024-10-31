@@ -1,0 +1,505 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:10 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,Jump Ball B. Wallace vs. O'Neal: Tip to Billups,Jump Ball,,0,0
+3,2,PT11M46.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Missed,1,,,0,h,MISS B. Wallace Layup,Missed Shot,Layup Shot,0,0
+4,2,PT11M46.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis BLOCK (1 BLK),,,0,0
+5,3,PT11M44.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+6,4,PT11M29.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,-28,192,19,Made,1,0,2,2,v,O'Neal 19' Jump Shot (2 PTS) (Miller 1 AST),Made Shot,Jump Shot,0,0
+7,5,PT11M09.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley S.FOUL (P1.T1),Foul,Shooting,0,0
+8,6,PT11M09.00S,1,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,1,2,3,h,R. Wallace Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+9,7,PT11M09.00S,1,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,2,2,4,h,R. Wallace Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+10,8,PT10M53.00S,1,1610612754,IND,397,Miller,R. Miller,-171,-5,17,Missed,1,,,0,v,MISS Miller 17' Jump Shot,Missed Shot,Jump Shot,0,0
+11,9,PT10M51.00S,1,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+12,10,PT10M44.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson P.FOUL (P1.T2),Foul,Personal,0,0
+13,11,PT10M33.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley S.FOUL (P2.T3),Foul,Shooting,0,0
+14,12,PT10M33.00S,1,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,3,2,5,h,Billups Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+15,13,PT10M33.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,SUB: Johnson FOR Tinsley,Substitution,,0,0
+16,14,PT10M33.00S,1,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,4,2,6,h,Billups Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+17,15,PT10M16.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,-138,-3,14,Missed,1,,,0,v,MISS O'Neal 14' Jump Shot,Missed Shot,Jump Shot,0,0
+18,16,PT10M14.00S,1,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+19,17,PT10M10.00S,1,1610612765,DET,1497,Billups,C. Billups,184,105,21,Missed,1,,,0,h,MISS Billups 21' Jump Shot,Missed Shot,Jump Shot,0,0
+20,18,PT10M08.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+21,19,PT10M08.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller S.FOUL (P1.T4),Foul,Shooting,0,0
+22,20,PT10M08.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,5,2,7,h,B. Wallace Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+23,21,PT10M08.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,6,2,8,h,B. Wallace Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+24,22,PT09M51.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,-164,15,16,Made,1,6,4,10,v,O'Neal 16' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,0,0
+25,23,PT09M32.00S,1,1610612765,DET,739,Wallace,R. Wallace,-146,117,19,Made,1,8,4,12,h,R. Wallace 19' Jump Shot (4 PTS) (Hamilton 1 AST),Made Shot,Jump Shot,0,0
+26,24,PT09M17.00S,1,1610612754,IND,1533,Johnson,A. Johnson,-105,160,19,Missed,1,,,0,v,MISS Johnson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+27,25,PT09M16.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+28,26,PT09M07.00S,1,1610612765,DET,1497,Billups,C. Billups,0,0,0,Made,1,10,4,14,h,Billups Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+29,27,PT08M46.00S,1,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince P.FOUL (P1.T1),Foul,Personal,0,0
+30,28,PT08M37.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,Missed,1,,,0,v,MISS Jackson Layup,Missed Shot,Layup Shot,0,0
+31,28,PT08M37.00S,1,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace BLOCK (1 BLK),,,0,0
+32,29,PT08M36.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0
+33,30,PT08M33.00S,1,1610612754,IND,397,Miller,R. Miller,-164,5,16,Missed,1,,,0,v,MISS Miller 16' Jump Shot,Missed Shot,Jump Shot,0,0
+34,31,PT08M31.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+35,32,PT08M21.00S,1,1610612765,DET,739,Wallace,R. Wallace,174,53,18,Missed,1,,,0,h,MISS R. Wallace 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+36,33,PT08M18.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+37,34,PT08M14.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,Made,1,10,6,16,v,Davis Alley Oop Dunk (2 PTS) (Johnson 1 AST),Made Shot,Alley Oop Dunk Shot,0,0
+38,35,PT07M47.00S,1,1610612765,DET,2419,Prince,T. Prince,223,58,0,Missed,1,,,0,h,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+39,36,PT07M46.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0
+40,37,PT07M25.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0
+41,38,PT07M06.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,Made,1,12,6,18,h,Hamilton Finger Roll (2 PTS),Made Shot,Finger Roll Shot,0,0
+42,39,PT06M42.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,Made,1,12,8,20,v,O'Neal Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+43,40,PT06M18.00S,1,1610612765,DET,1112,Wallace,B. Wallace,146,30,15,Missed,1,,,0,h,MISS B. Wallace 15' Jump Shot,Missed Shot,Jump Shot,0,0
+44,41,PT06M16.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+45,42,PT05M59.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,-159,17,16,Missed,1,,,0,v,MISS O'Neal 16' Jump Shot,Missed Shot,Jump Shot,0,0
+46,43,PT05M58.00S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+47,44,PT05M58.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis L.B.FOUL (P1.PN),Foul,Loose Ball,0,0
+48,45,PT05M58.00S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+49,47,PT05M58.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+50,48,PT05M58.00S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Normal Rebound,0,0
+51,49,PT05M58.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+52,50,PT05M57.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+53,51,PT05M40.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0
+54,51,PT05M40.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace STEAL (1 STL),,,0,0
+55,52,PT05M36.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,Made,1,14,8,22,h,Hamilton Layup (4 PTS) (Billups 1 AST),Made Shot,Layup Shot,0,0
+56,53,PT05M16.00S,1,1610612754,IND,397,Miller,R. Miller,-172,-1,17,Made,1,14,10,24,v,Miller 17' Jump Shot (2 PTS) (Johnson 2 AST),Made Shot,Jump Shot,0,0
+57,54,PT04M59.00S,1,1610612765,DET,2419,Prince,T. Prince,0,0,0,Missed,1,,,0,h,MISS Prince Layup,Missed Shot,Layup Shot,0,0
+58,55,PT04M58.00S,1,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+59,56,PT04M56.00S,1,1610612765,DET,2419,Prince,T. Prince,0,0,0,Made,1,16,10,26,h,Prince Layup (2 PTS),Made Shot,Layup Shot,0,0
+60,57,PT04M39.00S,1,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace S.FOUL (P1.T2),Foul,Shooting,0,0
+61,58,PT04M39.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,16,11,27,v,O'Neal Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+62,59,PT04M39.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,16,12,28,v,O'Neal Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+63,60,PT04M28.00S,1,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+64,60,PT04M28.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson STEAL (1 STL),,,0,0
+65,61,PT04M13.00S,1,1610612754,IND,1536,Jackson,S. Jackson,71,242,25,Missed,1,,,0,v,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+66,62,PT04M11.00S,1,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+67,63,PT03M54.00S,1,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+68,63,PT03M54.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson STEAL (2 STL),,,0,0
+69,64,PT03M47.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,Missed,1,,,0,v,MISS Jackson Layup,Missed Shot,Layup Shot,0,0
+70,64,PT03M47.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace BLOCK (1 BLK),,,0,0
+71,65,PT03M44.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+72,66,PT03M40.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal OFF.Foul (P1),Foul,Offensive,0,0
+73,67,PT03M40.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal Foul Turnover (P1.T3),Turnover,Foul,0,0
+74,68,PT03M40.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,SUB: Foster FOR Davis,Substitution,,0,0
+75,69,PT03M40.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis T.FOUL (P1.PN),Foul,Technical,0,0
+76,70,PT03M40.00S,1,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,17,12,29,h,Billups Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+77,71,PT03M40.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,SUB: F. Jones FOR Miller,Substitution,,0,0
+78,72,PT03M22.00S,1,1610612765,DET,739,Wallace,R. Wallace,62,3,6,Missed,1,,,0,h,MISS R. Wallace 6' Hook Shot,Missed Shot,Hook Shot,0,0
+79,73,PT03M21.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+80,74,PT03M20.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Made,1,19,12,31,h,B. Wallace Follow Up Dunk (4 PTS),Made Shot,Follow Up Dunk Shot,0,0
+81,75,PT03M12.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+82,77,PT03M12.00S,1,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,SUB: J. Jones FOR Jackson,Substitution,,0,0
+83,78,PT03M12.00S,1,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,SUB: McDyess FOR R. Wallace,Substitution,,0,0
+84,79,PT02M59.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,-153,26,16,Made,1,19,14,33,v,O'Neal 16' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+85,80,PT02M41.00S,1,1610612765,DET,686,McDyess,A. McDyess,0,0,0,Missed,1,,,0,h,MISS McDyess Layup,Missed Shot,Layup Shot,0,0
+86,80,PT02M41.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal BLOCK (1 BLK),,,0,0
+87,81,PT02M39.00S,1,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+88,82,PT02M26.00S,1,1610612754,IND,1533,Johnson,A. Johnson,0,0,0,Missed,1,,,0,v,MISS Johnson Layup,Missed Shot,Layup Shot,0,0
+89,82,PT02M26.00S,1,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess BLOCK (1 BLK),,,0,0
+90,83,PT02M24.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+91,84,PT02M22.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,-177,13,18,Missed,1,,,0,v,MISS O'Neal 18' Jump Shot,Missed Shot,Jump Shot,0,0
+92,85,PT02M21.00S,1,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+93,86,PT02M21.00S,1,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Dupree FOR Prince,Substitution,,0,0
+94,87,PT02M13.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,-123,15,12,Made,1,19,16,35,v,O'Neal 12' Turnaround Jump Shot (12 PTS),Made Shot,Turnaround Jump Shot,0,0
+95,88,PT01M48.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,Hamilton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+96,88,PT01M48.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal STEAL (1 STL),,,0,0
+97,89,PT01M37.00S,1,1610612754,IND,2410,Jones,F. Jones,0,0,0,Missed,1,,,0,v,MISS F. Jones Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+98,90,PT01M34.00S,1,1610612765,DET,2648,Dupree,R. Dupree,0,0,0,,0,,,0,h,Dupree REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+99,91,PT01M21.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Made,1,21,16,37,h,B. Wallace Finger Roll (6 PTS) (Hamilton 2 AST),Made Shot,Finger Roll Shot,0,0
+100,92,PT00M54.40S,1,1610612754,IND,1533,Johnson,A. Johnson,0,0,0,Made,1,21,18,39,v,Johnson Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+101,93,PT00M40.70S,1,1610612765,DET,1888,Hamilton,R. Hamilton,-141,84,16,Made,1,23,18,41,h,Hamilton 16' Jump Shot (6 PTS) (Billups 2 AST),Made Shot,Jump Shot,0,0
+102,94,PT00M22.90S,1,1610612754,IND,2410,Jones,F. Jones,0,0,0,Missed,1,,,0,v,MISS F. Jones Layup,Missed Shot,Layup Shot,0,0
+103,94,PT00M22.90S,1,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess BLOCK (2 BLK),,,0,0
+104,95,PT00M20.60S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0
+105,96,PT00M20.60S,1,1610612754,IND,2592,Jones,J. Jones,0,0,0,,0,,,0,v,SUB: Jackson FOR J. Jones,Substitution,,0,0
+106,97,PT00M20.60S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,SUB: Croshere FOR O'Neal,Substitution,,0,0
+107,98,PT00M16.90S,1,1610612754,IND,2410,Jones,F. Jones,141,81,16,Missed,1,,,0,v,MISS F. Jones 16' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+108,99,PT00M15.20S,1,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+109,100,PT00M15.20S,1,1610612765,DET,2648,Dupree,R. Dupree,0,0,0,,0,,,0,h,Dupree S.FOUL (P1.T3),Foul,Shooting,0,0
+110,101,PT00M15.20S,1,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,23,19,42,v,Foster Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+111,102,PT00M15.20S,1,1610612765,DET,2648,Dupree,R. Dupree,0,0,0,,0,,,0,h,SUB: Arroyo FOR Dupree,Substitution,,0,0
+112,103,PT00M15.20S,1,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,23,20,43,v,Foster Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+113,104,PT00M01.80S,1,1610612765,DET,1497,Billups,C. Billups,98,258,28,Missed,1,,,0,h,MISS Billups 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+114,105,PT00M00.10S,1,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+115,106,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,20,43,,End of 1st Period (8:39 PM EST),period,end,0,0
+116,108,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,20,43,,Start of 2nd Period (8:43 PM EST),period,start,0,0
+117,109,PT11M45.00S,2,1610612754,IND,1536,Jackson,S. Jackson,-184,43,19,Missed,1,,,0,v,MISS Jackson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+118,110,PT11M44.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+119,111,PT11M26.00S,2,1610612765,DET,686,McDyess,A. McDyess,0,0,0,Made,1,25,20,45,h,McDyess Dunk (2 PTS) (Hamilton 3 AST),Made Shot,Dunk Shot,0,0
+120,112,PT11M10.00S,2,1610612754,IND,2410,Jones,F. Jones,-168,64,18,Missed,1,,,0,v,MISS F. Jones 18' Jump Shot,Missed Shot,Jump Shot,0,0
+121,113,PT11M07.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+122,114,PT10M59.00S,2,1610612754,IND,1536,Jackson,S. Jackson,172,84,19,Made,1,25,22,47,v,Jackson 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+123,115,PT10M34.00S,2,1610612765,DET,2306,Arroyo,C. Arroyo,186,61,20,Made,1,27,22,49,h,Arroyo 20' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+124,116,PT10M21.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0
+125,116,PT10M21.00S,2,1610612765,DET,2306,Arroyo,C. Arroyo,0,0,0,,0,,,0,h,Arroyo STEAL (1 STL),,,0,0
+126,117,PT10M17.00S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,Made,1,29,22,51,h,Hamilton Layup (8 PTS) (Prince 1 AST),Made Shot,Layup Shot,0,0
+127,118,PT10M09.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+128,120,PT09M57.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,Missed,1,,,0,v,MISS Jackson Layup,Missed Shot,Layup Shot,0,0
+129,121,PT09M56.00S,2,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+130,122,PT09M50.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Made,1,31,22,53,h,B. Wallace Alley Oop Dunk (8 PTS) (Prince 2 AST),Made Shot,Alley Oop Dunk Shot,0,0
+131,123,PT09M24.00S,2,1610612754,IND,1536,Jackson,S. Jackson,-117,235,26,Missed,1,,,0,v,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+132,124,PT09M22.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:4 Def:2),Rebound,Unknown,0,0
+133,125,PT09M21.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,Made,1,31,24,55,v,Foster Layup (4 PTS),Made Shot,Layup Shot,0,0
+134,126,PT09M07.00S,2,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0
+135,126,PT09M07.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson STEAL (3 STL),,,0,0
+136,127,PT09M01.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0
+137,127,PT09M01.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace STEAL (2 STL),,,0,0
+138,128,PT08M53.00S,2,1610612765,DET,686,McDyess,A. McDyess,-102,25,11,Made,1,33,24,57,h,McDyess 11' Jump Shot (4 PTS) (Arroyo 1 AST),Made Shot,Jump Shot,0,0
+139,129,PT08M53.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson S.FOUL (P2.T1),Foul,Shooting,0,0
+140,130,PT08M53.00S,2,1610612754,IND,1506,Croshere,A. Croshere,0,0,0,,0,,,0,v,SUB: O'Neal FOR Croshere,Substitution,,0,0
+141,131,PT08M53.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,SUB: J. Jones FOR Jackson,Substitution,,0,0
+142,132,PT08M53.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson T.FOUL (P2.T1),Foul,Technical,0,0
+143,133,PT08M53.00S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,34,24,58,h,Hamilton Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0
+144,136,PT08M53.00S,2,1610612754,IND,2410,Jones,F. Jones,0,0,0,,0,,,0,v,SUB: Miller FOR F. Jones,Substitution,,0,0
+145,134,PT08M53.00S,2,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,MISS McDyess Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+146,135,PT08M52.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+147,137,PT08M45.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,Made,1,34,26,60,v,Tinsley Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+148,138,PT08M45.00S,2,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess S.FOUL (P1.T1),Foul,Shooting,0,0
+149,139,PT08M45.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,MISS Tinsley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+150,140,PT08M44.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+151,141,PT08M27.00S,2,1610612765,DET,1112,Wallace,B. Wallace,-135,13,14,Made,1,36,26,62,h,B. Wallace 14' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,0,0
+152,142,PT08M08.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,-130,20,13,Made,1,36,28,64,v,O'Neal 13' Turnaround Jump Shot (14 PTS) (Foster 1 AST),Made Shot,Turnaround Jump Shot,0,0
+153,143,PT08M08.00S,2,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess L.B.FOUL (P2.T2),Foul,Loose Ball,0,0
+154,144,PT08M08.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,SUB: R. Wallace FOR B. Wallace,Substitution,,0,0
+155,145,PT08M08.00S,2,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Hunter FOR Prince,Substitution,,0,0
+156,146,PT08M08.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,36,29,65,v,Foster Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+157,147,PT07M54.00S,2,1610612765,DET,1888,Hamilton,R. Hamilton,138,30,14,Missed,1,,,0,h,MISS Hamilton 14' Jump Shot,Missed Shot,Jump Shot,0,0
+158,148,PT07M53.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0
+159,149,PT07M53.00S,2,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,SUB: B. Wallace FOR McDyess,Substitution,,0,0
+160,150,PT07M34.00S,2,1610612765,DET,2306,Arroyo,C. Arroyo,0,0,0,,0,,,0,h,Arroyo P.FOUL (P1.T3),Foul,Personal,0,0
+161,151,PT07M34.00S,2,1610612765,DET,2306,Arroyo,C. Arroyo,0,0,0,,0,,,0,h,SUB: Billups FOR Arroyo,Substitution,,0,0
+162,152,PT07M23.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,-151,5,15,Missed,1,,,0,v,MISS O'Neal 15' Jump Shot,Missed Shot,Jump Shot,0,0
+163,153,PT07M21.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+164,154,PT07M17.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,Missed,1,,,0,h,MISS Hunter Layup,Missed Shot,Layup Shot,0,0
+165,155,PT07M15.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+166,156,PT07M09.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+167,156,PT07M09.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace STEAL (3 STL),,,0,0
+168,157,PT07M07.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley P.FOUL (P3.T2),Foul,Personal,0,0
+169,158,PT07M07.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,SUB: Johnson FOR Tinsley,Substitution,,0,0
+170,159,PT06M55.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,Made,1,38,29,67,h,Hunter Reverse Layup (2 PTS) (Billups 3 AST),Made Shot,Reverse Layup Shot,0,0
+171,160,PT06M40.00S,2,1610612754,IND,397,Miller,R. Miller,13,265,27,Missed,1,,,0,v,MISS Miller 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+172,161,PT06M38.00S,2,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+173,162,PT06M30.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Made,1,40,29,69,h,B. Wallace Finger Roll (12 PTS) (Billups 4 AST),Made Shot,Finger Roll Shot,0,0
+174,163,PT06M22.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+175,165,PT06M22.00S,2,1610612754,IND,2592,Jones,J. Jones,0,0,0,,0,,,0,v,SUB: Jackson FOR J. Jones,Substitution,,0,0
+176,166,PT06M09.00S,2,1610612754,IND,397,Miller,R. Miller,-169,7,17,Missed,1,,,0,v,MISS Miller 17' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+177,167,PT06M06.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+178,171,PT05M58.00S,2,1610612765,DET,739,Wallace,R. Wallace,56,61,8,Missed,1,,,0,h,MISS R. Wallace 8' Jump Shot,Missed Shot,Jump Shot,0,0
+179,171,PT05M58.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster BLOCK (1 BLK),,,0,0
+180,172,PT05M56.00S,2,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+181,168,PT05M53.00S,2,1610612765,DET,1497,Billups,C. Billups,97,238,26,Missed,1,,,0,h,MISS Billups 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+182,169,PT05M51.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+183,170,PT05M44.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+184,174,PT05M44.00S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,SUB: Prince FOR Hamilton,Substitution,,0,0
+185,175,PT05M44.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,SUB: Davis FOR Foster,Substitution,,0,0
+186,176,PT05M31.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal S.FOUL (P2.T3),Foul,Shooting,0,0
+187,177,PT05M31.00S,2,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,41,29,70,h,R. Wallace Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+188,178,PT05M31.00S,2,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,42,29,71,h,R. Wallace Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+189,179,PT05M11.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,Missed,1,,,0,v,MISS Jackson Layup,Missed Shot,Layup Shot,0,0
+190,180,PT05M09.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+191,181,PT05M06.00S,2,1610612765,DET,2419,Prince,T. Prince,0,0,0,Missed,1,,,0,h,MISS Prince Layup,Missed Shot,Layup Shot,0,0
+192,182,PT05M03.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:4 Def:7),Rebound,Unknown,0,0
+193,183,PT05M02.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Missed,1,,,0,h,MISS B. Wallace Tip Shot,Missed Shot,Tip Shot,0,0
+194,184,PT05M00.00S,2,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+195,185,PT04M58.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,Made,1,42,31,73,v,Jackson Layup (4 PTS) (Miller 2 AST),Made Shot,Layup Shot,0,0
+196,186,PT04M36.00S,2,1610612765,DET,739,Wallace,R. Wallace,-135,10,14,Made,1,44,31,75,h,R. Wallace 14' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+197,187,PT04M17.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,-169,3,17,Missed,1,,,0,v,MISS O'Neal 17' Jump Shot,Missed Shot,Jump Shot,0,0
+198,188,PT04M16.00S,2,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+199,189,PT04M03.00S,2,1610612765,DET,739,Wallace,R. Wallace,225,-5,0,Missed,1,,,0,h,MISS R. Wallace 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+200,190,PT04M00.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+201,191,PT03M50.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,Made,1,44,33,77,v,Jackson Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,0,0
+202,192,PT03M21.00S,2,1610612765,DET,739,Wallace,R. Wallace,0,0,0,Missed,1,,,0,h,MISS R. Wallace Layup,Missed Shot,Layup Shot,0,0
+203,192,PT03M21.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal BLOCK (2 BLK),,,0,0
+204,193,PT03M19.00S,2,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+205,194,PT03M09.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,-149,45,16,Missed,1,,,0,v,MISS O'Neal 16' Jump Shot,Missed Shot,Jump Shot,0,0
+206,195,PT03M08.00S,2,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+207,196,PT02M55.00S,2,1610612765,DET,283,Hunter,L. Hunter,-94,250,27,Made,1,47,33,80,h,Hunter 27' 3PT Jump Shot (5 PTS) (Billups 5 AST),Made Shot,Jump Shot,0,0
+208,197,PT02M36.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis Traveling Turnover (P1.T7),Turnover,Traveling,0,0
+209,198,PT02M36.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+210,200,PT02M36.00S,2,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,SUB: Campbell FOR R. Wallace,Substitution,,0,0
+211,201,PT02M36.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,,,0,h,SUB: Hamilton FOR Hunter,Substitution,,0,0
+212,202,PT02M14.00S,2,1610612765,DET,1112,Wallace,B. Wallace,-133,15,13,Made,1,49,33,82,h,B. Wallace 13' Turnaround Jump Shot (14 PTS),Made Shot,Turnaround Jump Shot,0,0
+213,203,PT01M54.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,148,43,15,Missed,1,,,0,v,MISS O'Neal 15' Jump Shot,Missed Shot,Jump Shot,0,0
+214,204,PT01M53.00S,2,1610612765,DET,922,Campbell,E. Campbell,0,0,0,,0,,,0,h,Campbell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+215,205,PT01M36.00S,2,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0
+216,205,PT01M36.00S,2,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller STEAL (1 STL),,,0,0
+217,206,PT01M32.00S,2,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+218,206,PT01M32.00S,2,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince STEAL (1 STL),,,0,0
+219,207,PT01M11.00S,2,1610612765,DET,2419,Prince,T. Prince,100,7,10,Missed,1,,,0,h,MISS Prince 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+220,208,PT01M09.00S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,Hamilton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+221,209,PT01M05.00S,2,1610612765,DET,1888,Hamilton,R. Hamilton,-97,94,14,Missed,1,,,0,h,MISS Hamilton 14' Jump Shot,Missed Shot,Jump Shot,0,0
+222,210,PT01M02.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+223,211,PT00M47.90S,2,1610612754,IND,1536,Jackson,S. Jackson,-230,-1,0,Made,1,49,36,85,v,Jackson 3PT Jump Shot (9 PTS) (Johnson 3 AST),Made Shot,Jump Shot,0,0
+224,212,PT00M31.40S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis P.FOUL (P2.T4),Foul,Personal,0,0
+225,213,PT00M31.40S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,SUB: Foster FOR Davis,Substitution,,0,0
+226,214,PT00M25.90S,2,1610612765,DET,1888,Hamilton,R. Hamilton,75,49,9,Missed,1,,,0,h,MISS Hamilton 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+227,215,PT00M23.40S,2,1610612754,IND,1533,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+228,216,PT00M05.90S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,Made,1,49,38,87,v,O'Neal Layup (16 PTS),Made Shot,Layup Shot,0,0
+229,217,PT00M01.50S,2,1610612754,IND,1533,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.PN),Foul,Shooting,0,0
+230,218,PT00M01.50S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,50,38,88,h,Hamilton Free Throw 1 of 3 (10 PTS),Free Throw,Free Throw 1 of 3,0,0
+231,219,PT00M01.50S,2,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,SUB: Hunter FOR Billups,Substitution,,0,0
+232,220,PT00M01.50S,2,1610612765,DET,922,Campbell,E. Campbell,0,0,0,,0,,,0,h,SUB: Ham FOR Campbell,Substitution,,0,0
+233,221,PT00M01.50S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,51,38,89,h,Hamilton Free Throw 2 of 3 (11 PTS),Free Throw,Free Throw 2 of 3,0,0
+234,222,PT00M01.50S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+235,223,PT00M01.50S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,52,38,90,h,Hamilton Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,0,0
+236,226,PT00M01.50S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal OFF.Foul (P3),Foul,Offensive,0,0
+237,227,PT00M01.50S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal Foul Turnover (P2.T9),Turnover,Foul,0,0
+238,228,PT00M01.50S,2,1610612765,DET,1032,Ham,D. Ham,0,0,0,,0,,,0,h,SUB: Billups FOR Ham,Substitution,,0,0
+239,229,PT00M01.50S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,SUB: Croshere FOR Foster,Substitution,,0,0
+240,230,PT00M01.50S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,SUB: F. Jones FOR O'Neal,Substitution,,0,0
+241,231,PT00M01.00S,2,1610612765,DET,283,Hunter,L. Hunter,118,358,38,Missed,1,,,0,h,MISS Hunter 38' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+242,232,PT00M00.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+243,233,PT00M00.00S,2,0,,0,,,0,0,0,,0,52,38,90,,End of 2nd Period (9:17 PM EST),period,end,0,0
+244,235,PT12M00.00S,3,0,,0,,,0,0,0,,0,52,38,90,,Start of 3rd Period (9:38 PM EST),period,start,0,0
+245,236,PT11M53.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0
+246,236,PT11M53.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace STEAL (4 STL),,,0,0
+247,237,PT11M52.00S,3,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis S.FOUL (P3.T1),Foul,Shooting,0,0
+248,238,PT11M52.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,53,38,91,h,B. Wallace Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+249,239,PT11M52.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+250,241,PT11M49.00S,3,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+251,242,PT11M38.00S,3,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,Missed,1,,,0,v,MISS Jackson Dunk,Missed Shot,Dunk Shot,0,0
+252,242,PT11M38.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince BLOCK (1 BLK),,,0,0
+253,243,PT11M35.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:4 Def:8),Rebound,Unknown,0,0
+254,244,PT11M31.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Made,1,55,38,93,h,B. Wallace Layup (17 PTS) (Billups 6 AST),Made Shot,Layup Shot,0,0
+255,245,PT11M31.00S,3,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis S.FOUL (P4.T2),Foul,Shooting,0,0
+256,246,PT11M31.00S,3,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,SUB: Foster FOR Davis,Substitution,,0,0
+257,247,PT11M31.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+258,248,PT11M29.00S,3,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+259,249,PT11M21.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,38,51,6,Made,1,55,40,95,v,Tinsley 6' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,0,0
+260,250,PT11M00.00S,3,1610612765,DET,1497,Billups,C. Billups,0,0,0,Made,1,57,40,97,h,Billups Driving Layup (7 PTS) (B. Wallace 1 AST),Made Shot,Driving Layup Shot,0,0
+261,251,PT10M43.00S,3,1610612754,IND,1536,Jackson,S. Jackson,-92,245,26,Made,1,57,43,100,v,Jackson 26' 3PT Jump Shot (12 PTS) (Tinsley 1 AST),Made Shot,Jump Shot,0,0
+262,252,PT10M26.00S,3,1610612765,DET,739,Wallace,R. Wallace,0,0,0,Missed,1,,,0,h,MISS R. Wallace Layup,Missed Shot,Layup Shot,0,0
+263,253,PT10M25.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+264,254,PT10M12.00S,3,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace S.FOUL (P2.T1),Foul,Shooting,0,0
+265,255,PT10M12.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,57,44,101,v,O'Neal Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+266,256,PT10M12.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,57,45,102,v,O'Neal Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+267,257,PT09M54.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,166,7,17,Missed,1,,,0,h,MISS Hamilton 17' Jump Shot,Missed Shot,Jump Shot,0,0
+268,258,PT09M52.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+269,259,PT09M39.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal Traveling Turnover (P3.T11),Turnover,Traveling,0,0
+270,260,PT09M21.00S,3,1610612765,DET,2419,Prince,T. Prince,-20,51,5,Made,1,59,45,104,h,Prince 5' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+271,261,PT09M01.00S,3,1610612754,IND,1536,Jackson,S. Jackson,172,-3,17,Missed,1,,,0,v,MISS Jackson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+272,262,PT08M59.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:5 Def:4),Rebound,Unknown,0,0
+273,263,PT08M57.00S,3,1610612754,IND,1536,Jackson,S. Jackson,164,51,17,Missed,1,,,0,v,MISS Jackson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+274,264,PT08M55.00S,3,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+275,265,PT08M51.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,Missed,1,,,0,h,MISS Hamilton Dunk,Missed Shot,Dunk Shot,0,0
+276,278,PT08M50.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+277,266,PT08M39.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,0
+278,266,PT08M39.00S,3,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace STEAL (1 STL),,,0,0
+279,267,PT08M36.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster S.FOUL (P1.T3),Foul,Shooting,0,0
+280,268,PT08M36.00S,3,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,60,45,105,h,Billups Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+281,269,PT08M36.00S,3,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,MISS Billups Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+282,270,PT08M35.00S,3,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+283,271,PT08M20.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,107,76,13,Made,1,60,47,107,v,Tinsley 13' Running Jump Shot (6 PTS),Made Shot,Running Jump Shot,0,0
+284,272,PT07M55.00S,3,1610612765,DET,2419,Prince,T. Prince,-237,0,24,Missed,1,,,0,h,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+285,273,PT07M53.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+286,274,PT07M33.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,146,0,15,Missed,1,,,0,v,MISS O'Neal 15' Jump Shot,Missed Shot,Jump Shot,0,0
+287,275,PT07M31.00S,3,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+288,276,PT07M17.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,-153,54,16,Made,1,62,47,109,h,Hamilton 16' Jump Shot (14 PTS) (Billups 7 AST),Made Shot,Jump Shot,0,0
+289,277,PT07M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+290,279,PT07M02.00S,3,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups P.FOUL (P1.T2),Foul,Personal,0,0
+291,280,PT06M55.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,-108,26,11,Missed,1,,,0,v,MISS Tinsley 11' Jump Shot,Missed Shot,Jump Shot,0,0
+292,281,PT06M53.00S,3,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+293,282,PT06M40.00S,3,1610612765,DET,739,Wallace,R. Wallace,133,7,13,Missed,1,,,0,h,MISS R. Wallace 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+294,283,PT06M37.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+295,284,PT06M19.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,0
+296,285,PT05M56.00S,3,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson P.FOUL (P3.T4),Foul,Personal,0,0
+297,286,PT05M51.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster S.FOUL (P2.PN),Foul,Shooting,0,0
+298,287,PT05M51.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+299,288,PT05M51.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Normal Rebound,0,0
+300,289,PT05M51.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+301,290,PT05M50.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+302,291,PT05M38.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller OFF.Foul (P2),Foul,Offensive,0,0
+303,292,PT05M38.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller Foul Turnover (P2.T14),Turnover,Foul,0,0
+304,293,PT05M28.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster P.FOUL (P3.PN),Foul,Personal,0,0
+305,294,PT05M28.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,63,47,110,h,Hamilton Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+306,295,PT05M28.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,64,47,111,h,Hamilton Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+307,296,PT05M17.00S,3,1610612754,IND,397,Miller,R. Miller,151,0,15,Made,1,64,49,113,v,Miller 15' Jump Shot (4 PTS) (Jackson 1 AST),Made Shot,Jump Shot,0,0
+308,297,PT05M02.00S,3,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace OFF.Foul (P3),Foul,Offensive,0,0
+309,298,PT05M02.00S,3,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace Foul Turnover (P1.T6),Turnover,Foul,0,0
+310,299,PT04M49.00S,3,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,Made,1,64,51,115,v,Jackson Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,0
+311,300,PT04M49.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince S.FOUL (P2.T3),Foul,Shooting,0,0
+312,301,PT04M49.00S,3,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,64,52,116,v,Jackson Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0
+313,302,PT04M34.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,Made,1,66,52,118,h,Prince Layup (6 PTS) (R. Wallace 1 AST),Made Shot,Layup Shot,0,0
+314,303,PT04M16.00S,3,1610612754,IND,1536,Jackson,S. Jackson,171,31,17,Missed,1,,,0,v,MISS Jackson 17' Jump Shot,Missed Shot,Jump Shot,0,0
+315,304,PT04M14.00S,3,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+316,305,PT04M07.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,Missed,1,,,0,h,MISS Prince Layup,Missed Shot,Layup Shot,0,0
+317,306,PT04M05.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+318,307,PT04M05.00S,3,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson S.FOUL (P4.PN),Foul,Shooting,0,0
+319,308,PT04M05.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,MISS Prince Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+320,309,PT04M05.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Normal Rebound,0,0
+321,310,PT04M05.00S,3,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,SUB: J. Jones FOR Jackson,Substitution,,0,0
+322,311,PT04M05.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,MISS Prince Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+323,312,PT04M04.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:5 Def:5),Rebound,Unknown,0,0
+324,313,PT03M48.00S,3,1610612754,IND,2592,Jones,J. Jones,-8,206,21,Missed,1,,,0,v,MISS J. Jones 21' Jump Shot,Missed Shot,Jump Shot,0,0
+325,314,PT03M46.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+326,315,PT03M46.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Hunter FOR Prince,Substitution,,0,0
+327,316,PT03M46.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+328,318,PT03M46.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,SUB: F. Jones FOR Miller,Substitution,,0,0
+329,319,PT03M30.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,Missed,1,,,0,h,MISS Hamilton Driving Layup,Missed Shot,Driving Layup Shot,0,0
+330,320,PT03M28.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:5 Def:8),Rebound,Unknown,0,0
+331,321,PT03M26.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Made,1,68,52,120,h,B. Wallace Follow Up Dunk (19 PTS),Made Shot,Follow Up Dunk Shot,0,0
+332,322,PT03M12.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,-75,26,8,Missed,1,,,0,v,MISS O'Neal 8' Jump Shot,Missed Shot,Jump Shot,0,0
+333,323,PT03M10.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:6 Def:5),Rebound,Unknown,0,0
+334,324,PT03M09.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,Made,1,68,54,122,v,Foster Layup (7 PTS),Made Shot,Layup Shot,0,0
+335,325,PT02M50.00S,3,1610612754,IND,2592,Jones,J. Jones,0,0,0,,0,,,0,v,J. Jones P.FOUL (P1.PN),Foul,Personal,0,0
+336,326,PT02M50.00S,3,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,SUB: McDyess FOR R. Wallace,Substitution,,0,0
+337,327,PT02M50.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+338,328,PT02M50.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Normal Rebound,0,0
+339,329,PT02M50.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,SUB: Johnson FOR Foster,Substitution,,0,0
+340,330,PT02M50.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+341,331,PT02M50.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0
+342,332,PT02M42.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,,,0,h,Hunter P.FOUL (P1.T4),Foul,Personal,0,0
+343,333,PT02M41.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,Hamilton P.FOUL (P1.PN),Foul,Personal,0,0
+344,334,PT02M41.00S,3,1610612754,IND,2410,Jones,F. Jones,0,0,0,,0,,,0,v,MISS F. Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+345,335,PT02M41.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0
+346,336,PT02M41.00S,3,1610612754,IND,2410,Jones,F. Jones,0,0,0,,0,68,55,123,v,F. Jones Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+347,337,PT02M29.00S,3,1610612765,DET,686,McDyess,A. McDyess,-171,0,17,Missed,1,,,0,h,MISS McDyess 17' Jump Shot,Missed Shot,Jump Shot,0,0
+348,338,PT02M27.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+349,339,PT02M16.00S,3,1610612754,IND,2410,Jones,F. Jones,-218,141,26,Missed,1,,,0,v,MISS F. Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+350,340,PT02M14.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:5 Def:9),Rebound,Unknown,0,0
+351,341,PT02M01.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Missed,1,,,0,h,MISS B. Wallace Layup,Missed Shot,Layup Shot,0,0
+352,341,PT02M01.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley BLOCK (1 BLK),,,0,0
+353,342,PT01M58.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0
+354,343,PT01M45.00S,3,1610612754,IND,2592,Jones,J. Jones,-176,178,25,Missed,1,,,0,v,MISS J. Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+355,344,PT01M44.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0
+356,345,PT01M34.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,Missed,1,,,0,v,MISS Tinsley Layup,Missed Shot,Layup Shot,0,0
+357,346,PT01M33.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0
+358,347,PT01M33.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,O'Neal L.B.FOUL (P4.PN),Foul,Loose Ball,0,0
+359,348,PT01M33.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,69,55,124,h,B. Wallace Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+360,349,PT01M33.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,SUB: Foster FOR O'Neal,Substitution,,0,0
+361,350,PT01M33.00S,3,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,SUB: Prince FOR Billups,Substitution,,0,0
+362,352,PT01M33.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,SUB: Croshere FOR Tinsley,Substitution,,0,0
+363,353,PT01M33.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+364,354,PT01M32.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:6 Def:6),Rebound,Unknown,0,0
+365,355,PT01M22.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,Hamilton P.FOUL (P2.PN),Foul,Personal,0,0
+366,356,PT01M22.00S,3,1610612754,IND,1533,Johnson,A. Johnson,0,0,0,,0,69,56,125,v,Johnson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+367,357,PT01M22.00S,3,1610612754,IND,1533,Johnson,A. Johnson,0,0,0,,0,69,57,126,v,Johnson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+368,358,PT01M06.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,-168,-3,17,Missed,1,,,0,h,MISS Hamilton 17' Jump Shot,Missed Shot,Jump Shot,0,0
+369,359,PT01M05.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,B. Wallace REBOUND (Off:6 Def:9),Rebound,Unknown,0,0
+370,360,PT01M05.00S,3,1610612754,IND,1506,Croshere,A. Croshere,0,0,0,,0,,,0,v,Croshere L.B.FOUL (P1.PN),Foul,Loose Ball,0,0
+371,361,PT01M05.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,MISS B. Wallace Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+372,362,PT01M05.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Normal Rebound,0,0
+373,363,PT01M05.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,70,57,127,h,B. Wallace Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+374,364,PT00M43.90S,3,1610612754,IND,2410,Jones,F. Jones,0,0,0,,0,,,0,v,F. Jones Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0
+375,364,PT00M43.90S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,Hamilton STEAL (1 STL),,,0,0
+376,365,PT00M34.90S,3,1610612765,DET,283,Hunter,L. Hunter,-243,31,24,Missed,1,,,0,h,MISS Hunter 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+377,366,PT00M30.90S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster REBOUND (Off:6 Def:7),Rebound,Unknown,0,0
+378,367,PT00M14.90S,3,1610612754,IND,2410,Jones,F. Jones,-232,2,0,Missed,1,,,0,v,MISS F. Jones 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+379,368,PT00M11.90S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,Hamilton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+380,369,PT00M01.30S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster S.FOUL (P4.PN),Foul,Shooting,0,0
+381,370,PT00M01.30S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,71,57,128,h,Hamilton Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+382,371,PT00M01.30S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,72,57,129,h,Hamilton Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+383,372,PT00M00.20S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,v,Foster Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0
+384,372,PT00M00.20S,3,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess STEAL (1 STL),,,0,0
+385,373,PT00M00.00S,3,0,,0,,,0,0,0,,0,72,57,129,,End of 3rd Period (10:12 PM EST),period,end,0,0
+386,375,PT12M00.00S,4,0,,0,,,0,0,0,,0,72,57,129,,Start of 4th Period (10:15 PM EST),period,start,0,0
+387,376,PT11M40.00S,4,1610612765,DET,283,Hunter,L. Hunter,-184,10,18,Missed,1,,,0,h,MISS Hunter 18' Jump Shot,Missed Shot,Jump Shot,0,0
+388,377,PT11M38.00S,4,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,,,0,h,Hunter REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+389,378,PT11M25.00S,4,1610612765,DET,2419,Prince,T. Prince,172,64,18,Missed,1,,,0,h,MISS Prince 18' Jump Shot,Missed Shot,Jump Shot,0,0
+390,379,PT11M23.00S,4,1610612754,IND,2410,Jones,F. Jones,0,0,0,,0,,,0,v,F. Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+391,380,PT11M01.00S,4,1610612754,IND,1536,Jackson,S. Jackson,-85,257,27,Missed,1,,,0,v,MISS Jackson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+392,381,PT10M58.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+393,382,PT10M39.00S,4,1610612754,IND,1533,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P2.T1),Foul,Shooting,0,0
+394,383,PT10M39.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,MISS Hamilton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+395,384,PT10M39.00S,4,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Normal Rebound,0,0
+396,385,PT10M39.00S,4,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,h,SUB: R. Wallace FOR B. Wallace,Substitution,,0,0
+397,386,PT10M39.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,73,57,130,h,Hamilton Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+398,387,PT10M29.00S,4,1610612754,IND,1536,Jackson,S. Jackson,233,3,0,Missed,1,,,0,v,MISS Jackson 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+399,388,PT10M26.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,Hamilton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+400,389,PT10M24.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,Hamilton Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0
+401,390,PT10M01.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,159,17,16,Missed,1,,,0,v,MISS O'Neal 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+402,391,PT09M57.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+403,392,PT09M43.00S,4,1610612765,DET,739,Wallace,R. Wallace,-223,28,0,Missed,1,,,0,h,MISS R. Wallace 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+404,393,PT09M40.00S,4,1610612754,IND,2410,Jones,F. Jones,0,0,0,,0,,,0,v,F. Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+405,394,PT09M27.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,59,38,7,Missed,1,,,0,v,MISS O'Neal 7' Hook Shot,Missed Shot,Hook Shot,0,0
+406,394,PT09M27.00S,4,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace BLOCK (2 BLK),,,0,0
+407,395,PT09M24.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+408,396,PT09M19.00S,4,1610612765,DET,2419,Prince,T. Prince,0,0,0,Made,1,75,57,132,h,Prince Alley Oop Dunk (8 PTS) (Hamilton 4 AST),Made Shot,Alley Oop Dunk Shot,0,0
+409,397,PT09M18.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+410,399,PT09M18.00S,4,1610612754,IND,2410,Jones,F. Jones,0,0,0,,0,,,0,v,SUB: Miller FOR F. Jones,Substitution,,0,0
+411,400,PT09M18.00S,4,1610612754,IND,1533,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Tinsley FOR Johnson,Substitution,,0,0
+412,401,PT09M03.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,125,105,16,Missed,1,,,0,v,MISS Tinsley 16' Jump Shot,Missed Shot,Jump Shot,0,0
+413,401,PT09M03.00S,4,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,,,0,h,Hunter BLOCK (1 BLK),,,0,0
+414,402,PT09M00.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+415,403,PT08M56.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,128,26,13,Made,1,75,59,134,v,Tinsley 13' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,0
+416,404,PT08M38.00S,4,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,,,0,h,Hunter Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+417,404,PT08M38.00S,4,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis STEAL (1 STL),,,0,0
+418,405,PT08M23.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,Hamilton P.FOUL (P3.T1),Foul,Personal,0,0
+419,406,PT08M18.00S,4,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis OFF.Foul (P5),Foul,Offensive,0,0
+420,407,PT08M18.00S,4,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,Davis Foul Turnover (P2.T17),Turnover,Foul,0,0
+421,408,PT08M01.00S,4,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0
+422,408,PT08M01.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley STEAL (1 STL),,,0,0
+423,409,PT08M01.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess P.FOUL (P3.T2),Foul,Personal,0,0
+424,410,PT07M52.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,98,145,18,Missed,1,,,0,v,MISS Tinsley 18' Jump Shot,Missed Shot,Jump Shot,0,0
+425,411,PT07M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0
+426,412,PT07M35.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,161,43,17,Missed,1,,,0,v,MISS O'Neal 17' Jump Shot,Missed Shot,Jump Shot,0,0
+427,413,PT07M33.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+428,414,PT07M18.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,232,41,24,Made,1,78,59,137,h,Hamilton 24' 3PT Jump Shot (22 PTS) (R. Wallace 2 AST),Made Shot,Jump Shot,0,0
+429,415,PT07M01.00S,4,1610612754,IND,397,Miller,R. Miller,121,2,12,Made,1,78,61,139,v,Miller 12' Running Jump Shot (6 PTS) (Tinsley 2 AST),Made Shot,Running Jump Shot,0,0
+430,416,PT06M44.00S,4,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson P.FOUL (P5.T2),Foul,Personal,0,0
+431,417,PT06M44.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,SUB: Billups FOR Hamilton,Substitution,,0,0
+432,418,PT06M44.00S,4,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,v,SUB: Croshere FOR Davis,Substitution,,0,0
+433,419,PT06M35.00S,4,1610612765,DET,739,Wallace,R. Wallace,-126,2,13,Made,1,80,61,141,h,R. Wallace 13' Turnaround Jump Shot (10 PTS) (Hunter 1 AST),Made Shot,Turnaround Jump Shot,0,0
+434,420,PT06M35.00S,4,1610612754,IND,1506,Croshere,A. Croshere,0,0,0,,0,,,0,v,Croshere S.FOUL (P2.T3),Foul,Shooting,0,0
+435,421,PT06M35.00S,4,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,81,61,142,h,R. Wallace Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0
+436,422,PT06M28.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,Made,1,81,63,144,v,Tinsley Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+437,423,PT06M28.00S,4,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups S.FOUL (P2.T3),Foul,Shooting,0,0
+438,424,PT06M28.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,MISS Tinsley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+439,425,PT06M27.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+440,426,PT06M17.00S,4,1610612765,DET,1497,Billups,C. Billups,-209,160,26,Made,1,84,63,147,h,Billups 26' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,0,0
+441,427,PT06M04.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,130,26,13,Made,1,84,65,149,v,Tinsley 13' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,0,0
+442,428,PT06M04.00S,4,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups S.FOUL (P3.T4),Foul,Shooting,0,0
+443,429,PT06M04.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,MISS Tinsley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+444,430,PT06M04.00S,4,1610612754,IND,1506,Croshere,A. Croshere,0,0,0,,0,,,0,v,Croshere REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+445,431,PT05M51.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,Missed,1,,,0,v,MISS O'Neal Layup,Missed Shot,Layup Shot,0,0
+446,432,PT05M50.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+447,433,PT05M32.00S,4,1610612765,DET,739,Wallace,R. Wallace,80,8,8,Missed,1,,,0,h,MISS R. Wallace 8' Jump Shot,Missed Shot,Jump Shot,0,0
+448,434,PT05M29.00S,4,1610612754,IND,1506,Croshere,A. Croshere,0,0,0,,0,,,0,v,Croshere REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+449,435,PT05M19.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley Bad Pass Turnover (P6.T18),Turnover,Bad Pass,0,0
+450,435,PT05M19.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess STEAL (2 STL),,,0,0
+451,436,PT05M15.00S,4,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,Miller S.FOUL (P3.T4),Foul,Shooting,0,0
+452,437,PT05M15.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+453,439,PT05M15.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,85,65,150,h,McDyess Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+454,440,PT05M15.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,MISS McDyess Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+455,441,PT05M15.00S,4,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+456,442,PT05M01.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,Made,1,85,67,152,v,O'Neal Dunk (20 PTS) (Miller 3 AST),Made Shot,Dunk Shot,0,0
+457,443,PT04M47.00S,4,1610612765,DET,739,Wallace,R. Wallace,0,0,0,Missed,1,,,0,h,MISS R. Wallace Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,0
+458,444,PT04M46.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0
+459,445,PT04M46.00S,4,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,,,0,h,SUB: Hamilton FOR Hunter,Substitution,,0,0
+460,446,PT04M36.00S,4,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups S.FOUL (P4.PN),Foul,Shooting,0,0
+461,447,PT04M36.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,85,68,153,v,Tinsley Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+462,448,PT04M36.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,MISS Tinsley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+463,449,PT04M35.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+464,450,PT04M13.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,-66,112,13,Made,1,87,68,155,h,Hamilton 13' Jump Shot (24 PTS),Made Shot,Jump Shot,0,0
+465,451,PT03M54.00S,4,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,R. Wallace S.FOUL (P4.PN),Foul,Shooting,0,0
+466,452,PT03M54.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,87,69,156,v,O'Neal Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0
+467,453,PT03M54.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,SUB: Gill FOR Tinsley,Substitution,,0,0
+468,454,PT03M54.00S,4,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,v,SUB: J. Jones FOR Miller,Substitution,,0,0
+469,455,PT03M54.00S,4,1610612754,IND,1536,Jackson,S. Jackson,0,0,0,,0,,,0,v,SUB: F. Jones FOR Jackson,Substitution,,0,0
+470,456,PT03M54.00S,4,1610612765,DET,1497,Billups,C. Billups,0,0,0,,0,,,0,h,SUB: Arroyo FOR Billups,Substitution,,0,0
+471,457,PT03M54.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,87,70,157,v,O'Neal Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0
+472,458,PT03M40.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,-25,97,10,Made,1,89,70,159,h,Hamilton 10' Running Jump Shot (26 PTS) (Arroyo 2 AST),Made Shot,Running Jump Shot,0,0
+473,459,PT03M19.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,-140,56,15,Missed,1,,,0,v,MISS O'Neal 15' Jump Shot,Missed Shot,Jump Shot,0,0
+474,460,PT03M17.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,McDyess REBOUND (Off:0 Def:9),Rebound,Unknown,0,0
+475,461,PT02M55.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,-154,61,17,Made,1,91,70,161,h,Hamilton 17' Jump Shot (28 PTS),Made Shot,Jump Shot,0,0
+476,462,PT02M53.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Short (Reg.4 Short 2),Timeout,Short,0,0
+477,463,PT02M53.00S,4,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+478,465,PT02M53.00S,4,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Hunter FOR Prince,Substitution,,0,0
+479,466,PT02M53.00S,4,1610612765,DET,739,Wallace,R. Wallace,0,0,0,,0,,,0,h,SUB: Dupree FOR R. Wallace,Substitution,,0,0
+480,467,PT02M53.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,,,0,h,SUB: Milicic FOR Hamilton,Substitution,,0,0
+481,468,PT02M53.00S,4,1610612765,DET,686,McDyess,A. McDyess,0,0,0,,0,,,0,h,SUB: Campbell FOR McDyess,Substitution,,0,0
+482,469,PT02M53.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,v,SUB: Pollard FOR O'Neal,Substitution,,0,0
+483,470,PT02M34.00S,4,1610612754,IND,1506,Croshere,A. Croshere,-138,84,16,Made,1,91,72,163,v,Croshere 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+484,471,PT02M06.00S,4,1610612765,DET,922,Campbell,E. Campbell,-87,36,9,Missed,1,,,0,h,MISS Campbell 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+485,472,PT02M03.00S,4,1610612754,IND,1513,Pollard,S. Pollard,0,0,0,,0,,,0,v,Pollard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+486,473,PT02M02.00S,4,1610612765,DET,2545,Milicic,D. Milicic,0,0,0,,0,,,0,h,Milicic P.FOUL (P1.PN),Foul,Personal,0,0
+487,474,PT02M02.00S,4,1610612754,IND,2109,Gill,E. Gill,0,0,0,,0,91,73,164,v,Gill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+488,475,PT02M02.00S,4,1610612754,IND,2109,Gill,E. Gill,0,0,0,,0,91,74,165,v,Gill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+489,476,PT01M44.00S,4,1610612765,DET,2306,Arroyo,C. Arroyo,0,0,0,Missed,1,,,0,h,MISS Arroyo Layup,Missed Shot,Layup Shot,0,0
+490,477,PT01M42.00S,4,1610612754,IND,2592,Jones,J. Jones,0,0,0,,0,,,0,v,J. Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+491,478,PT01M32.00S,4,1610612754,IND,2109,Gill,E. Gill,228,40,0,Made,1,91,77,168,v,Gill 3PT Jump Shot (5 PTS) (J. Jones 1 AST),Made Shot,Jump Shot,0,0
+492,479,PT01M17.00S,4,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,,,0,h,Hunter Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0
+493,480,PT01M10.00S,4,1610612754,IND,2109,Gill,E. Gill,0,0,0,Made,1,91,79,170,v,Gill Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,0
+494,481,PT01M10.00S,4,1610612765,DET,2306,Arroyo,C. Arroyo,0,0,0,,0,,,0,h,Arroyo S.FOUL (P2.PN),Foul,Shooting,0,0
+495,482,PT01M10.00S,4,1610612754,IND,2109,Gill,E. Gill,0,0,0,,0,,,0,v,MISS Gill Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+496,483,PT01M06.00S,4,1610612765,DET,2648,Dupree,R. Dupree,0,0,0,,0,,,0,h,Dupree REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+497,484,PT00M48.70S,4,1610612765,DET,283,Hunter,L. Hunter,-131,222,26,Made,1,94,79,173,h,Hunter 26' 3PT Jump Shot (8 PTS) (Campbell 1 AST),Made Shot,Jump Shot,0,0
+498,485,PT00M34.60S,4,1610612765,DET,2648,Dupree,R. Dupree,0,0,0,,0,,,0,h,Dupree S.FOUL (P2.PN),Foul,Shooting,0,0
+499,486,PT00M34.60S,4,1610612754,IND,1506,Croshere,A. Croshere,0,0,0,,0,94,80,174,v,Croshere Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+500,487,PT00M34.60S,4,1610612754,IND,1506,Croshere,A. Croshere,0,0,0,,0,94,81,175,v,Croshere Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+501,488,PT00M17.60S,4,1610612765,DET,2306,Arroyo,C. Arroyo,0,0,0,Made,1,96,81,177,h,Arroyo Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+502,489,PT00M06.90S,4,1610612754,IND,2592,Jones,J. Jones,-99,229,25,Missed,1,,,0,v,MISS J. Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+503,490,PT00M04.70S,4,1610612765,DET,922,Campbell,E. Campbell,0,0,0,,0,,,0,h,Campbell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+504,491,PT00M00.00S,4,0,,0,,,0,0,0,,0,96,81,177,,End of 4th Period (10:45 PM EST),period,end,0,0

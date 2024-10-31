@@ -1,0 +1,524 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Jump Ball Sengun vs. Valanciunas: Tip to Daniels,Jump Ball,,1,0
+3,7,PT11M49.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet S.FOUL (P1.T1) (M.Boland),Foul,Shooting,1,0
+4,9,PT11M49.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+5,10,PT11M49.00S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Rebound,Rebound,Normal Rebound,0,0
+6,11,PT11M49.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,0
+7,12,PT11M49.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+8,13,PT11M46.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+9,14,PT11M31.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-91,63,11,Made,1,2,0,2,h,Sengun 11' Floating Jump Shot (2 PTS) (VanVleet 1 AST),Made Shot,Floating Jump shot,1,2
+10,16,PT11M22.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks P.FOUL (P1.T2) (N.Sago),Foul,Personal,1,0
+11,18,PT11M13.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-13,7,1,Made,1,2,2,4,v,Valanciunas 1' Cutting Dunk Shot (2 PTS) (Ingram 1 AST),Made Shot,Cutting Dunk Shot,1,2
+12,20,PT10M55.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-230,-2,0,Made,1,5,2,7,h,Smith Jr. 3PT Jump Shot (3 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,1,3
+13,22,PT10M43.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,76,235,25,Made,1,5,5,10,v,Valanciunas 25' 3PT Jump Shot (5 PTS) (Hawkins 1 AST),Made Shot,Jump Shot,1,3
+14,24,PT10M34.00S,1,1610612745,HOU,1630224,Green,J. Green,59,3,6,Missed,1,,,0,h,MISS Ja. Green 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2
+15,24,PT10M34.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas BLOCK (1 BLK),,,1,2
+16,26,PT10M34.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0
+17,28,PT10M31.00S,1,1610612745,HOU,1630224,Green,J. Green,-172,25,17,Made,1,7,5,12,h,Ja. Green 17' Jump Shot (2 PTS) (Brooks 1 AST),Made Shot,Jump Shot,1,2
+18,30,PT10M11.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks S.FOUL (P2.T3) (M.Boland),Foul,Shooting,1,0
+19,32,PT10M11.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+20,33,PT10M11.00S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Rebound,Rebound,Normal Rebound,0,0
+21,34,PT10M11.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Tate FOR Brooks,Substitution,,0,0
+22,36,PT10M11.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,7,6,13,v,Williamson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0
+23,37,PT09M49.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-59,41,7,Missed,1,,,0,h,MISS Sengun 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2
+24,37,PT09M49.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas BLOCK (2 BLK),,,1,2
+25,39,PT09M46.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+26,40,PT09M37.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,87,29,9,Made,1,7,8,15,v,Ingram 9' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2
+27,42,PT09M25.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson S.FOUL (P1.T1) (M.Boland),Foul,Shooting,1,0
+28,44,PT09M25.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,8,8,16,h,Ja. Green Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+29,45,PT09M25.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,9,8,17,h,Ja. Green Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+30,46,PT09M02.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,12,2,1,Made,1,9,10,19,v,Williamson 1' Driving Layup (3 PTS) (Daniels 1 AST),Made Shot,Driving Layup Shot,1,2
+31,49,PT08M45.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas P.FOUL (P1.T2) (T.Ford),Foul,Personal,1,0
+32,51,PT08M33.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,12,10,2,Made,1,11,10,21,h,Sengun 2' Driving Dunk (4 PTS) (VanVleet 3 AST),Made Shot,Driving Dunk Shot,1,2
+33,53,PT08M21.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-11,78,8,Made,1,11,12,23,v,Williamson 8' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2
+34,54,PT08M21.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P1.T4) (T.Ford),Foul,Shooting,1,0
+35,58,PT08M21.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,0
+36,56,PT08M21.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,11,13,24,v,Williamson Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0
+37,59,PT07M57.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,142,225,27,Missed,1,,,0,h,MISS VanVleet 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+38,60,PT07M53.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+39,61,PT07M46.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,4,15,2,Made,1,11,15,26,v,Ingram 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2
+40,62,PT07M46.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+41,64,PT07M30.00S,1,1610612745,HOU,1630224,Green,J. Green,81,14,8,Missed,1,,,0,h,MISS Ja. Green 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2
+42,65,PT07M28.00S,1,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+43,66,PT07M21.00S,1,1610612740,NOP,1630700,Daniels,D. Daniels,-11,115,12,Made,1,11,17,28,v,Daniels 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2
+44,67,PT06M57.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-104,226,25,Missed,1,,,0,h,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+45,68,PT06M55.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+46,69,PT06M42.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,-178,191,26,Missed,1,,,0,v,MISS Hawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+47,70,PT06M37.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+48,71,PT06M28.00S,1,1610612745,HOU,1630256,Tate,J. Tate,162,211,27,Missed,1,,,0,h,MISS Tate 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+49,72,PT06M26.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+50,73,PT06M07.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-64,101,12,Missed,1,,,0,v,MISS Williamson 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+51,74,PT06M05.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+52,75,PT06M04.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-9,15,2,Made,1,11,19,30,v,Williamson 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2
+53,79,PT05M50.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,SUB: Holiday FOR Ja. Green,Substitution,,0,0
+54,80,PT05M50.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Eason FOR Smith Jr.,Substitution,,0,0
+55,81,PT05M50.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,SUB: Ryan FOR Williamson,Substitution,,0,0
+56,82,PT05M50.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,SUB: Seabron FOR Hawkins,Substitution,,0,0
+57,76,PT05M50.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,39,3,4,Missed,1,,,0,h,MISS VanVleet 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+58,77,PT05M50.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0
+59,87,PT05M43.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,178,42,18,Made,1,13,19,32,h,Sengun 18' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2
+60,88,PT05M27.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+61,89,PT05M09.00S,1,1610612745,HOU,1628988,Holiday,A. Holiday,195,179,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+62,90,PT05M06.00S,1,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+63,92,PT04M50.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate P.FOUL (P1.PN) (M.Boland),Foul,Personal,1,0
+64,94,PT04M50.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,13,20,33,v,Ingram Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0
+65,95,PT04M50.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,13,21,34,v,Ingram Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0
+66,96,PT04M27.00S,1,1610612745,HOU,1631106,Eason,T. Eason,-58,36,7,Missed,1,,,0,h,MISS Eason 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+67,96,PT04M27.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas BLOCK (3 BLK),,,1,2
+68,97,PT04M26.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+69,98,PT04M24.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,15,17,2,Made,1,15,21,36,h,Sengun 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2
+70,99,PT04M14.00S,1,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+71,99,PT04M14.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate STEAL (1 STL),,,1,0
+72,101,PT04M09.00S,1,1610612745,HOU,1631106,Eason,T. Eason,17,13,2,Missed,1,,,0,h,MISS Eason 2' Running Layup,Missed Shot,Running Layup Shot,1,2
+73,102,PT04M07.00S,1,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+74,103,PT03M54.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-93,20,10,Made,1,15,23,38,v,Valanciunas 10' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,1,2
+75,104,PT03M39.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,-48,277,28,Made,1,18,23,41,h,VanVleet 28' 3PT Jump Shot (3 PTS) (Tate 1 AST),Made Shot,Jump Shot,1,3
+76,106,PT03M25.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-37,191,19,Missed,1,,,0,v,MISS Ingram 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+77,107,PT03M23.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+78,108,PT03M16.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,10,1,Missed,1,,,0,h,MISS VanVleet 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+79,109,PT03M13.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+80,110,PT03M02.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-65,90,11,Made,1,18,25,43,v,Ingram 11' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,2
+81,111,PT02M55.00S,1,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,Ryan P.FOUL (P1.T3) (M.Boland),Foul,Personal,1,0
+82,113,PT02M55.00S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+83,114,PT02M55.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,SUB: Landale FOR VanVleet,Substitution,,0,0
+84,115,PT02M55.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Sengun,Substitution,,0,0
+85,116,PT02M55.00S,1,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,SUB: Nance Jr. FOR Daniels,Substitution,,0,0
+86,117,PT02M55.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,SUB: Williamson FOR Ingram,Substitution,,0,0
+87,118,PT02M55.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Hawkins FOR Valanciunas,Substitution,,0,0
+88,124,PT02M49.00S,1,1610612745,HOU,1630224,Green,J. Green,-71,250,26,Made,1,21,25,46,h,Ja. Green 26' 3PT Jump Shot (7 PTS) (Holiday 1 AST),Made Shot,Jump Shot,1,3
+89,126,PT02M34.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-13,13,2,Made,1,21,27,48,v,Williamson 2' Driving Layup (10 PTS) (Nance Jr. 1 AST),Made Shot,Driving Layup Shot,1,2
+90,128,PT02M16.00S,1,1610612745,HOU,1629111,Landale,J. Landale,145,120,19,Missed,1,,,0,h,MISS Landale 19' Jump Shot,Missed Shot,Jump Shot,1,2
+91,129,PT02M10.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+92,130,PT02M04.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0
+93,131,PT01M54.00S,1,1610612745,HOU,1630224,Green,J. Green,-127,224,26,Missed,1,,,0,h,MISS Ja. Green 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+94,132,PT01M50.00S,1,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,Seabron REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+95,133,PT01M43.00S,1,1610612740,NOP,1630346,Ryan,M. Ryan,224,4,0,Missed,1,,,0,v,MISS Ryan 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+96,134,PT01M41.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+97,135,PT01M30.00S,1,1610612745,HOU,1630224,Green,J. Green,16,261,26,Made,1,24,27,51,h,Ja. Green 26' 3PT Jump Shot (10 PTS) (Tate 2 AST),Made Shot,Jump Shot,1,3
+98,137,PT01M19.00S,1,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason S.FOUL (P1.PN) (M.Boland),Foul,Shooting,1,0
+99,139,PT01M19.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,24,28,52,v,Williamson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0
+100,140,PT01M19.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Tate,Substitution,,0,0
+101,142,PT01M19.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,24,29,53,v,Williamson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0
+102,143,PT01M05.00S,1,1610612745,HOU,1630224,Green,J. Green,-12,4,1,Missed,1,,,0,h,MISS Ja. Green 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2
+103,144,PT01M03.00S,1,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,Ryan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+104,145,PT00M57.10S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,-237,1,24,Missed,1,,,0,v,MISS Hawkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+105,146,PT00M54.60S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+106,147,PT00M50.20S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins S.FOUL (P1.T4) (T.Ford),Foul,Shooting,1,0
+107,149,PT00M50.20S,1,1610612745,HOU,1628988,Holiday,A. Holiday,0,0,0,,0,25,29,54,h,Holiday Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+108,151,PT00M50.20S,1,1610612745,HOU,1628988,Holiday,A. Holiday,0,0,0,,0,26,29,55,h,Holiday Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+109,152,PT00M35.30S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-69,52,9,Made,1,26,31,57,v,Williamson 9' Driving Floating Bank Jump Shot (14 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2
+110,153,PT00M22.10S,1,1610612745,HOU,1630224,Green,J. Green,29,257,26,Missed,1,,,0,h,MISS Ja. Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+111,154,PT00M18.90S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+112,155,PT00M18.10S,1,1610612745,HOU,1629111,Landale,J. Landale,-4,19,2,Missed,1,,,0,h,MISS Landale 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2
+113,156,PT00M17.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+114,174,PT00M16.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-12,30,3,Missed,1,,,0,h,MISS Smith Jr. 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2
+115,175,PT00M16.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+116,159,PT00M02.60S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+117,160,PT00M02.60S,1,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,SUB: Daniels FOR Ryan,Substitution,,0,0
+118,162,PT00M00.00S,1,1610612745,HOU,1630224,Green,J. Green,12,261,26,Missed,1,,,0,h,MISS Ja. Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+119,163,PT00M00.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0
+120,164,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,31,57,,End of 1st Period (8:39 PM EST),period,end,1,0
+121,171,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,31,57,,Start of 2nd Period (8:41 PM EST),period,start,0,0
+122,172,PT11M45.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,-54,62,8,Missed,1,,,0,h,MISS Brooks 8' Jump Shot,Missed Shot,Jump Shot,1,2
+123,173,PT11M43.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+124,176,PT11M26.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-31,12,3,Missed,1,,,0,v,MISS Williamson 3' Layup,Missed Shot,Layup Shot,1,2
+125,177,PT11M25.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+126,178,PT11M24.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0
+127,180,PT11M24.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,26,32,58,v,Williamson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0
+128,181,PT11M24.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,26,33,59,v,Williamson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0
+129,182,PT11M03.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,-94,47,11,Missed,1,,,0,h,MISS Brooks 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+130,183,PT11M01.00S,2,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,Ryan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+131,184,PT10M50.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,25,22,3,Missed,1,,,0,v,MISS Seabron 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2
+132,185,PT10M48.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+133,186,PT10M39.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+134,186,PT10M39.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,Seabron STEAL (1 STL),,,1,0
+135,188,PT10M34.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,-5,13,1,Missed,1,,,0,v,MISS Seabron 1' Running Layup,Missed Shot,Running Layup Shot,1,2
+136,188,PT10M34.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason BLOCK (1 BLK),,,1,2
+137,190,PT10M32.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+138,191,PT10M29.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Lost Ball Turnover (P2.T2),Turnover,Lost Ball,1,0
+139,191,PT10M29.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins STEAL (1 STL),,,1,0
+140,193,PT10M16.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,21,21,3,Missed,1,,,0,v,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+141,194,PT10M14.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+142,195,PT10M12.00S,2,1610612745,HOU,1631106,Eason,T. Eason,9,13,2,Made,1,28,33,61,h,Eason 2' Running Dunk (2 PTS) (Smith Jr. 1 AST),Made Shot,Running Dunk Shot,1,2
+143,197,PT09M55.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,221,32,0,Missed,1,,,0,v,MISS Hawkins 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+144,198,PT09M53.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+145,199,PT09M47.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,152,229,27,Made,1,31,33,64,h,VanVleet 27' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3
+146,200,PT09M47.00S,2,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+147,201,PT09M47.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Tate FOR Landale,Substitution,,0,0
+148,202,PT09M47.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,SUB: Je. Green FOR Eason,Substitution,,0,0
+149,205,PT09M28.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+150,205,PT09M28.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet STEAL (1 STL),,,1,0
+151,207,PT09M17.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,59,63,9,Made,1,33,33,66,h,Brooks 9' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2
+152,208,PT08M53.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,9,11,1,Missed,1,,,0,v,MISS Seabron 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+153,209,PT08M52.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+154,210,PT08M49.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins S.FOUL (P2.T1) (T.Ford),Foul,Shooting,1,0
+155,212,PT08M49.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,34,33,67,h,Brooks Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0
+156,214,PT08M49.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,SUB: Daniels FOR Williamson,Substitution,,0,0
+157,218,PT08M49.00S,2,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,SUB: Ingram FOR Ryan,Substitution,,0,0
+158,217,PT08M49.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,35,33,68,h,Brooks Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0
+159,219,PT08M24.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,-62,52,8,Missed,1,,,0,v,MISS Hawkins 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2
+160,220,PT08M22.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+161,221,PT08M18.00S,2,1610612745,HOU,1630256,Tate,J. Tate,-42,32,5,Missed,1,,,0,h,MISS Tate 5' Running Layup,Missed Shot,Running Layup Shot,1,2
+162,222,PT08M15.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+163,223,PT08M10.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks P.FOUL (P3.T2) (N.Sago),Foul,Personal,1,0
+164,225,PT08M10.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Sengun FOR Brooks,Substitution,,0,0
+165,227,PT08M10.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0
+166,229,PT08M10.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks T.FOUL (P3.T2) (T.Ford),Foul,Technical,0,0
+167,230,PT08M10.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,35,34,69,v,Ingram Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,1,0
+168,231,PT07M55.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-66,120,14,Missed,1,,,0,v,MISS Ingram 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+169,232,PT07M53.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+170,233,PT07M52.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-20,95,10,Missed,1,,,0,v,MISS Valanciunas 10' Putback Layup,Missed Shot,Putback Layup Shot,1,2
+171,234,PT07M47.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+172,235,PT07M47.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-12,33,4,Made,1,35,36,71,v,Valanciunas 4' Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2
+173,236,PT07M35.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-237,11,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+174,237,PT07M31.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+175,238,PT07M25.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-102,239,26,Missed,1,,,0,v,MISS Ingram 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+176,239,PT07M23.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+177,240,PT07M13.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,11,257,26,Missed,1,,,0,h,MISS Sengun 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+178,241,PT07M11.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+179,242,PT06M56.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,6,117,12,Made,1,37,36,73,h,VanVleet 12' Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,1,2
+180,243,PT06M45.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,148,89,17,Made,1,37,38,75,v,Valanciunas 17' Jump Shot (11 PTS) (Ingram 2 AST),Made Shot,Jump Shot,1,2
+181,245,PT06M27.00S,2,1610612745,HOU,1630256,Tate,J. Tate,-4,9,1,Made,1,39,38,77,h,Tate 1' Layup (2 PTS) (Sengun 1 AST),Made Shot,Layup Shot,1,2
+182,247,PT06M19.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P2.T3) (T.Ford),Foul,Personal,1,0
+183,249,PT06M19.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Smith Jr.,Substitution,,0,0
+184,251,PT06M07.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-2,4,0,Made,1,39,40,79,v,Ingram Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2
+185,252,PT05M51.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,43,103,11,Made,1,41,40,81,h,Sengun 11' Floating Jump Shot (10 PTS) (VanVleet 4 AST),Made Shot,Floating Jump shot,1,2
+186,254,PT05M42.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0
+187,254,PT05M42.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate STEAL (2 STL),,,1,0
+188,256,PT05M32.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels P.FOUL (P1.T2) (T.Ford),Foul,Personal,1,0
+189,258,PT05M32.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,SUB: Holiday FOR VanVleet,Substitution,,0,0
+190,259,PT05M32.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,SUB: Williamson FOR Seabron,Substitution,,0,0
+191,262,PT05M24.00S,2,1610612745,HOU,1628988,Holiday,A. Holiday,174,192,26,Made,1,44,40,84,h,Holiday 26' 3PT Jump Shot (5 PTS) (Ja. Green 1 AST),Made Shot,Jump Shot,1,3
+192,264,PT05M08.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-26,16,3,Missed,1,,,0,v,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+193,265,PT05M06.00S,2,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,,,0,h,Je. Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+194,266,PT04M48.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson S.FOUL (P2.T3) (N.Sago),Foul,Shooting,1,0
+195,268,PT04M48.00S,2,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,45,40,85,h,Je. Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0
+196,269,PT04M48.00S,2,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,46,40,86,h,Je. Green Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0
+197,270,PT04M30.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson Backcourt Turnover (P3.T7),Turnover,Backcourt Turnover,1,0
+198,271,PT04M30.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,SUB: Ryan FOR Hawkins,Substitution,,0,0
+199,273,PT04M19.00S,2,1610612745,HOU,1630224,Green,J. Green,40,5,4,Made,1,48,40,88,h,Ja. Green 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2
+200,274,PT03M57.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson Out of Bounds - Bad Pass Turnover Turnover (P4.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+201,275,PT03M52.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,2,34,3,Made,1,50,40,90,h,Sengun 3' Driving Floating Jump Shot (12 PTS) (Holiday 2 AST),Made Shot,Driving Floating Jump Shot,1,2
+202,277,PT03M52.00S,2,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+203,278,PT03M52.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Zeller FOR Valanciunas,Substitution,,0,0
+204,279,PT03M52.00S,2,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,SUB: Hawkins FOR Ryan,Substitution,,0,0
+205,282,PT03M31.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,-194,181,27,Missed,1,,,0,v,MISS Daniels 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+206,283,PT03M31.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0
+207,285,PT03M13.00S,2,1610612745,HOU,1630256,Tate,J. Tate,229,101,25,Missed,1,,,0,h,MISS Tate 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+208,286,PT03M09.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+209,287,PT03M08.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+210,287,PT03M08.00S,2,1610612740,NOP,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,Zeller STEAL (1 STL),,,1,0
+211,289,PT02M57.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-31,107,11,Missed,1,,,0,v,MISS Williamson 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+212,290,PT02M53.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+213,291,PT02M46.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram P.FOUL (P1.T4) (T.Ford),Foul,Personal,1,0
+214,293,PT02M40.00S,2,1610612740,NOP,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,Zeller P.FOUL (P1.PN) (M.Boland),Foul,Personal,1,0
+215,295,PT02M40.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,51,40,91,h,Ja. Green Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0
+216,296,PT02M40.00S,2,1610612745,HOU,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,h,SUB: VanVleet FOR Holiday,Substitution,,0,0
+217,298,PT02M40.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,52,40,92,h,Ja. Green Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0
+218,299,PT02M19.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0
+219,299,PT02M19.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate STEAL (3 STL),,,1,0
+220,301,PT02M15.00S,2,1610612745,HOU,1630256,Tate,J. Tate,1,15,2,Made,1,54,40,94,h,Tate 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2
+221,303,PT02M00.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-170,121,21,Made,1,54,42,96,v,Ingram 21' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2
+222,304,PT02M00.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate AWAY.FROM.PLAY.FOUL (P2.T4) (M.Boland),Foul,Away From Play,1,0
+223,315,PT02M00.00S,2,1610612740,NOP,203469,Zeller,C. Zeller,0,0,0,,0,54,43,97,v,Zeller Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,1,0
+224,307,PT01M43.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0
+225,308,PT01M43.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Eason FOR Tate,Substitution,,0,0
+226,310,PT01M30.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason S.FOUL (P2.PN) (N.Sago),Foul,Shooting,1,0
+227,312,PT01M30.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,MISS Ingram Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+228,313,PT01M30.00S,2,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Rebound,Rebound,Normal Rebound,1,0
+229,314,PT01M30.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,MISS Ingram Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+230,316,PT01M27.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+231,317,PT01M13.00S,2,1610612745,HOU,1631106,Eason,T. Eason,-11,10,1,Missed,1,,,0,h,MISS Eason 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2
+232,318,PT01M11.00S,2,1610612740,NOP,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+233,319,PT01M05.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-22,13,3,Made,1,54,45,99,v,Williamson 3' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2
+234,320,PT00M44.70S,2,1610612745,HOU,1630224,Green,J. Green,31,16,3,Missed,1,,,0,h,MISS Ja. Green 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2
+235,321,PT00M43.10S,2,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,,,0,h,Je. Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+236,322,PT00M43.10S,2,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,,,0,h,Je. Green Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,1,0
+237,323,PT00M33.90S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-134,226,26,Missed,1,,,0,v,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+238,324,PT00M31.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:3 Def:2),Rebound,Unknown,1,0
+239,325,PT00M09.80S,2,1610612745,HOU,201145,Green,J. Green,-222,41,0,Missed,1,,,0,h,MISS Je. Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+240,326,PT00M07.70S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+241,327,PT00M01.30S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-29,262,26,Made,1,54,48,102,v,Ingram 26' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3
+242,328,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,48,102,,End of 2nd Period (9:10 PM EST),period,end,1,0
+243,338,PT12M00.00S,3,0,,0,,,0,0,0,,0,54,48,102,,Start of 3rd Period (9:25 PM EST),period,start,0,0
+244,339,PT11M47.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,97,239,26,Missed,1,,,0,h,MISS VanVleet 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+245,340,PT11M45.00S,3,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Rebound,Rebound,Unknown,1,0
+246,342,PT11M31.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,-143,208,25,Made,1,54,51,105,v,Hawkins 25' 3PT Jump Shot (3 PTS) (Valanciunas 1 AST),Made Shot,Jump Shot,1,3
+247,345,PT11M11.00S,3,1610612745,HOU,1630224,Green,J. Green,-21,16,3,Made,1,56,51,107,h,Ja. Green 3' Reverse Layup (16 PTS),Made Shot,Reverse Layup Shot,1,2
+248,346,PT11M03.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,-178,193,26,Missed,1,,,0,v,MISS Daniels 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+249,347,PT11M02.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0
+250,349,PT10M46.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0
+251,349,PT10M46.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins STEAL (2 STL),,,1,0
+252,351,PT10M42.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,10,9,1,Made,1,56,53,109,v,Hawkins 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2
+253,352,PT10M28.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-10,118,12,Made,1,58,53,111,h,Sengun 12' Floating Jump Shot (14 PTS) (VanVleet 5 AST),Made Shot,Floating Jump shot,1,2
+254,354,PT10M17.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,74,250,26,Made,1,58,56,114,v,Hawkins 26' 3PT Pullup Jump Shot (8 PTS) (Valanciunas 2 AST),Made Shot,Pullup Jump shot,1,3
+255,356,PT10M16.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+256,357,PT09M58.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-5,22,2,Made,1,60,56,116,h,Sengun 2' Cutting Dunk Shot (16 PTS) (Smith Jr. 2 AST),Made Shot,Cutting Dunk Shot,1,2
+257,359,PT09M43.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0
+258,361,PT09M43.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,60,57,117,v,Hawkins Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0
+259,362,PT09M43.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,MISS Hawkins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+260,363,PT09M43.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+261,364,PT09M21.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-77,15,8,Missed,1,,,0,h,MISS Sengun 8' Hook Shot,Missed Shot,Hook Shot,1,2
+262,365,PT09M19.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+263,366,PT09M10.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,-227,5,0,Made,1,60,60,120,v,Hawkins 3PT Jump Shot (12 PTS) (Ingram 3 AST),Made Shot,Jump Shot,1,3
+264,368,PT08M57.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,78,247,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+265,369,PT08M53.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+266,370,PT08M46.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks S.FOUL (P4.T2) (T.Ford),Foul,Shooting,1,0
+267,372,PT08M46.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,MISS Ingram Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+268,373,PT08M46.00S,3,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Rebound,Rebound,Normal Rebound,0,0
+269,374,PT08M46.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Tate FOR Brooks,Substitution,,0,0
+270,376,PT08M46.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,60,61,121,v,Ingram Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0
+271,377,PT08M31.00S,3,1610612745,HOU,1630256,Tate,J. Tate,-233,38,24,Missed,1,,,0,h,MISS Tate 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+272,378,PT08M27.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+273,379,PT08M21.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,22,252,25,Missed,1,,,0,v,MISS Ingram 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+274,380,PT08M19.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+275,381,PT08M17.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,10,15,2,Made,1,60,63,123,v,Daniels 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2
+276,382,PT08M01.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,-50,46,7,Missed,1,,,0,h,MISS VanVleet 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+277,383,PT08M00.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+278,384,PT07M53.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-9,11,1,Made,1,60,65,125,v,Ingram 1' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2
+279,385,PT07M40.00S,3,1610612745,HOU,1630224,Green,J. Green,176,172,25,Missed,1,,,0,h,MISS Ja. Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+280,386,PT07M38.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0
+281,388,PT07M33.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,0
+282,388,PT07M33.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels STEAL (1 STL),,,1,0
+283,390,PT07M21.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet S.FOUL (P2.T3) (N.Sago),Foul,Shooting,0,0
+284,392,PT07M21.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate T.FOUL (P2.T3) (N.Sago),Foul,Technical,1,0
+285,393,PT07M21.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,60,66,126,v,Hawkins Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,0,0
+286,394,PT07M21.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,60,67,127,v,Williamson Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0
+287,395,PT07M21.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,60,68,128,v,Williamson Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0
+288,396,PT07M14.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels P.FOUL (P2.T1) (T.Ford),Foul,Personal,1,0
+289,398,PT07M03.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins P.FOUL (P3.T2) (T.Ford),Foul,Personal,1,0
+290,400,PT06M57.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-6,125,13,Made,1,62,68,130,h,Smith Jr. 13' Driving Floating Jump Shot (5 PTS) (VanVleet 6 AST),Made Shot,Driving Floating Jump Shot,1,2
+291,402,PT06M57.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson S.FOUL (P3.T3) (M.Boland),Foul,Shooting,1,0
+292,404,PT06M57.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,63,68,131,h,Smith Jr. Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0
+293,405,PT06M46.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,-159,187,25,Missed,1,,,0,v,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+294,406,PT06M44.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+295,407,PT06M37.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-29,195,20,Missed,1,,,0,v,MISS Ingram 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2
+296,408,PT06M30.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+297,409,PT06M24.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Out of Bounds - Bad Pass Turnover Turnover (P4.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+298,410,PT06M24.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,SUB: Robinson-Earl FOR Williamson,Substitution,,0,0
+299,412,PT06M07.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,59,95,11,Missed,1,,,0,v,MISS Hawkins 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+300,412,PT06M07.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet BLOCK (1 BLK),,,1,2
+301,414,PT06M05.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+302,415,PT05M48.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,59,85,10,Made,1,65,68,133,h,Sengun 10' Turnaround Hook Shot (18 PTS),Made Shot,Turnaround Hook Shot,1,2
+303,416,PT05M40.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram OFF.Foul (P2) (T.Ford),Foul,Offensive,1,0
+304,418,PT05M40.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,1,0
+305,419,PT05M40.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,SUB: Holiday FOR Ja. Green,Substitution,,0,0
+306,420,PT05M40.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Eason FOR Smith Jr.,Substitution,,0,0
+307,423,PT05M40.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,SUB: Ryan FOR Hawkins,Substitution,,0,0
+308,425,PT05M24.00S,3,1610612745,HOU,1630256,Tate,J. Tate,-234,29,24,Made,1,68,68,136,h,Tate 24' 3PT Jump Shot (7 PTS) (Sengun 2 AST),Made Shot,Jump Shot,1,3
+309,427,PT05M15.00S,3,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+310,428,PT05M08.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-89,90,13,Made,1,68,70,138,v,Ingram 13' Fadeaway Jumper (21 PTS),Made Shot,Fadeaway Jump Shot,1,2
+311,429,PT04M52.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0
+312,429,PT04M52.00S,3,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,Ryan STEAL (1 STL),,,1,0
+313,431,PT04M46.00S,3,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,Ryan Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0
+314,431,PT04M46.00S,3,1610612745,HOU,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0
+315,433,PT04M28.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-178,188,26,Missed,1,,,0,h,MISS Sengun 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+316,434,PT04M25.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+317,435,PT04M19.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate S.FOUL (P3.T4) (M.Boland),Foul,Shooting,1,0
+318,437,PT04M19.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,68,71,139,v,Daniels Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0
+319,438,PT04M19.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Je. Green FOR Sengun,Substitution,,0,0
+320,439,PT04M19.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0
+321,442,PT04M19.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,68,72,140,v,Daniels Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0
+322,443,PT04M01.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,-151,214,26,Missed,1,,,0,h,MISS VanVleet 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+323,444,PT03M58.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+324,445,PT03M36.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,-170,179,25,Missed,1,,,0,v,MISS Daniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+325,446,PT03M33.00S,3,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,,,0,h,Je. Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+326,447,PT03M28.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,-21,6,2,Made,1,70,72,142,h,VanVleet 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2
+327,448,PT03M10.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-152,195,25,Missed,1,,,0,v,MISS Ingram 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+328,449,PT03M07.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+329,450,PT02M58.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-126,116,17,Made,1,70,74,144,v,Ingram 17' Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,2
+330,455,PT02M44.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,SUB: Williamson FOR Ingram,Substitution,,0,0
+331,456,PT02M44.00S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,v,SUB: Hawkins FOR Robinson-Earl,Substitution,,0,0
+332,459,PT02M29.00S,3,1610612745,HOU,1628988,Holiday,A. Holiday,-167,200,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+333,460,PT02M26.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+334,461,PT02M18.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,-16,5,2,Missed,1,,,0,v,MISS Daniels 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2
+335,461,PT02M18.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason BLOCK (2 BLK),,,1,2
+336,463,PT02M14.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+337,464,PT02M09.00S,3,1610612745,HOU,1631106,Eason,T. Eason,-119,235,26,Missed,1,,,0,h,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+338,465,PT02M07.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+339,466,PT01M57.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,31,41,5,Missed,1,,,0,v,MISS Williamson 5' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2
+340,467,PT01M55.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+341,468,PT01M53.00S,3,1610612745,HOU,1628988,Holiday,A. Holiday,4,21,2,Missed,1,,,0,h,MISS Holiday 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2
+342,469,PT01M47.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+343,470,PT01M47.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,Missed,1,,,0,h,MISS Eason Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2
+344,471,PT01M46.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+345,472,PT01M44.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate S.FOUL (P4.PN) (N.Sago),Foul,Shooting,1,0
+346,474,PT01M44.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate T.FOUL (P4.PN) (N.Sago),Foul,Technical,0,0
+347,727,PT01M44.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate Ejection:Other,Ejection,Other,0,0
+348,475,PT01M44.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Tate,Substitution,,0,0
+349,476,PT01M44.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,SUB: Landale FOR Eason,Substitution,,0,0
+350,479,PT01M44.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,70,75,145,v,Hawkins Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,1,0
+351,480,PT01M44.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,SUB: Eason FOR VanVleet,Substitution,,0,0
+352,482,PT01M44.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,70,76,146,v,Daniels Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0
+353,483,PT01M44.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,70,77,147,v,Daniels Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0
+354,484,PT01M27.00S,3,1610612745,HOU,1628988,Holiday,A. Holiday,-43,33,5,Missed,1,,,0,h,MISS Holiday 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+355,485,PT01M24.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+356,486,PT01M14.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-50,19,5,Made,1,70,79,149,v,Williamson 5' Turnaround Hook Shot (22 PTS),Made Shot,Turnaround Hook Shot,1,2
+357,487,PT01M01.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson P.FOUL (P4.T4) (M.Boland),Foul,Personal,1,0
+358,489,PT01M01.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+359,490,PT01M01.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,SUB: Ingram FOR Williamson,Substitution,,0,0
+360,492,PT00M50.80S,3,1610612745,HOU,1630224,Green,J. Green,227,86,24,Missed,1,,,0,h,MISS Ja. Green 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3
+361,493,PT00M48.50S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+362,494,PT00M30.70S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,-129,224,26,Missed,1,,,0,v,MISS Hawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+363,495,PT00M27.10S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+364,496,PT00M11.50S,3,1610612745,HOU,1631106,Eason,T. Eason,227,-3,0,Missed,1,,,0,h,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+365,497,PT00M08.30S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+366,498,PT00M01.30S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-195,152,25,Missed,1,,,0,v,MISS Ingram 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+367,499,PT00M00.10S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+368,500,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,79,149,,End of 3rd Period (9:55 PM EST),period,end,1,0
+369,509,PT12M00.00S,4,0,,0,,,0,0,0,,0,70,79,149,,Start of 4th Period (9:57 PM EST),period,start,0,0
+370,510,PT11M46.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-153,6,15,Missed,1,,,0,v,MISS Valanciunas 15' Jump Shot,Missed Shot,Jump Shot,1,2
+371,511,PT11M42.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+372,512,PT11M36.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,21,183,18,Made,1,72,79,151,h,VanVleet 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2
+373,513,PT11M17.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,153,190,24,Made,1,72,82,154,v,Robinson-Earl 24' 3PT Jump Shot (3 PTS) (Daniels 2 AST),Made Shot,Jump Shot,1,3
+374,515,PT10M57.00S,4,1610612745,HOU,1630224,Green,J. Green,10,17,2,Made,1,74,82,156,h,Ja. Green 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2
+375,516,PT10M40.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-60,31,7,Missed,1,,,0,v,MISS Ingram 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+376,517,PT10M37.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+377,518,PT10M22.00S,4,1610612745,HOU,201145,Green,J. Green,-31,7,3,Made,1,76,82,158,h,Je. Green 3' Driving Finger Roll Layup (4 PTS) (VanVleet 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2
+378,520,PT10M22.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas S.FOUL (P2.T1) (T.Ford),Foul,Shooting,1,0
+379,522,PT10M22.00S,4,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,77,82,159,h,Je. Green Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0
+380,523,PT09M57.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,12,88,9,Missed,1,,,0,v,MISS Valanciunas 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2
+381,524,PT09M55.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:1 Def:7),Rebound,Unknown,1,0
+382,525,PT09M48.00S,4,1610612745,HOU,1631106,Eason,T. Eason,47,15,5,Missed,1,,,0,h,MISS Eason 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+383,526,PT09M45.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+384,527,PT09M41.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,10,6,1,Made,1,77,84,161,v,Robinson-Earl 1' Cutting Dunk Shot (5 PTS) (Ingram 4 AST),Made Shot,Cutting Dunk Shot,1,2
+385,529,PT09M22.00S,4,1610612745,HOU,1630224,Green,J. Green,-23,12,3,Made,1,79,84,163,h,Ja. Green 3' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2
+386,530,PT09M10.00S,4,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,,,0,h,Je. Green S.FOUL (P1.T1) (T.Ford),Foul,Shooting,1,0
+387,532,PT09M10.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,79,85,164,v,Ingram Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0
+388,533,PT09M10.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Eason,Substitution,,0,0
+389,534,PT09M10.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,SUB: Nance Jr. FOR Daniels,Substitution,,0,0
+390,535,PT09M10.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Ryan FOR Valanciunas,Substitution,,0,0
+391,539,PT09M10.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,79,86,165,v,Ingram Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0
+392,540,PT08M51.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-20,120,12,Missed,1,,,0,h,MISS Smith Jr. 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2
+393,541,PT08M49.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+394,542,PT08M45.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram Out of Bounds Lost Ball Turnover (P4.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0
+395,543,PT08M45.00S,4,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,,,0,h,SUB: Sengun FOR Je. Green,Substitution,,0,0
+396,544,PT08M45.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0
+397,547,PT08M34.00S,4,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,Ryan P.FOUL (P2.T2) (M.Boland),Foul,Personal,1,0
+398,549,PT08M30.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,-54,54,8,Made,1,81,86,167,h,Brooks 8' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,2
+399,550,PT08M30.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins S.FOUL (P4.T3) (T.Ford),Foul,Shooting,1,0
+400,552,PT08M30.00S,4,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,SUB: Williamson FOR Ryan,Substitution,,0,0
+401,554,PT08M30.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,MISS Brooks Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+402,555,PT08M27.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+403,556,PT08M08.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0
+404,556,PT08M08.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks STEAL (1 STL),,,1,0
+405,558,PT08M04.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas S.FOUL (P3.T4) (N.Sago),Foul,Shooting,1,0
+406,560,PT08M04.00S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+407,561,PT08M04.00S,4,0,,558,,,0,0,0,,0,81,86,167,,Instant Replay4th Period (10:05 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0
+408,562,PT08M04.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,82,86,168,h,Brooks Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0
+409,563,PT08M04.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,SUB: Daniels FOR Ingram,Substitution,,0,0
+410,565,PT08M04.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,MISS Brooks Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+411,566,PT08M04.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+412,567,PT07M47.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,39,68,8,Missed,1,,,0,v,MISS Williamson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2
+413,568,PT07M45.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+414,569,PT07M41.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-61,73,10,Missed,1,,,0,h,MISS Smith Jr. 10' Running Layup,Missed Shot,Running Layup Shot,1,2
+415,569,PT07M41.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas BLOCK (4 BLK),,,1,2
+416,571,PT07M41.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+417,572,PT07M24.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,2,78,8,Missed,1,,,0,v,MISS Valanciunas 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2
+418,572,PT07M24.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun BLOCK (1 BLK),,,1,2
+419,574,PT07M22.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+420,575,PT07M12.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,119,226,26,Missed,1,,,0,h,MISS VanVleet 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+421,576,PT07M09.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+422,577,PT06M59.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P3.T2) (T.Ford),Foul,Personal,1,0
+423,579,PT06M46.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,23,17,3,Made,1,82,88,170,v,Valanciunas 3' Reverse Layup (13 PTS),Made Shot,Reverse Layup Shot,1,2
+424,580,PT06M34.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas S.FOUL (P4.PN) (M.Boland),Foul,Shooting,1,0
+425,582,PT06M34.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,83,88,171,h,Ja. Green Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0
+426,583,PT06M34.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,v,SUB: Ingram FOR Robinson-Earl,Substitution,,0,0
+427,585,PT06M34.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,84,88,172,h,Ja. Green Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0
+428,586,PT06M25.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-137,200,24,Missed,1,,,0,v,MISS Ingram 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+429,587,PT06M21.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+430,588,PT06M16.00S,4,1610612745,HOU,1630224,Green,J. Green,-25,18,3,Missed,1,,,0,h,MISS Ja. Green 3' Running Layup,Missed Shot,Running Layup Shot,1,2
+431,588,PT06M16.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram BLOCK (1 BLK),,,1,2
+432,590,PT06M14.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+433,591,PT06M09.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,11,13,2,Made,1,84,90,174,v,Williamson 2' Cutting Dunk Shot (24 PTS) (Ingram 5 AST),Made Shot,Cutting Dunk Shot,1,2
+434,593,PT05M50.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,2,15,2,Made,1,86,90,176,h,Sengun 2' Cutting Layup Shot (20 PTS) (VanVleet 8 AST),Made Shot,Cutting Layup Shot,1,2
+435,595,PT05M32.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-5,9,1,Missed,1,,,0,v,MISS Valanciunas 1' Layup,Missed Shot,Layup Shot,1,2
+436,595,PT05M32.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks BLOCK (1 BLK),,,1,2
+437,597,PT05M32.00S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Rebound,Rebound,Unknown,1,0
+438,599,PT05M32.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Je. Green FOR Smith Jr.,Substitution,,0,0
+439,601,PT05M22.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,16,247,25,Made,1,86,93,179,v,Ingram 25' 3PT Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,3
+440,602,PT05M16.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+441,605,PT05M05.00S,4,1610612745,HOU,1630224,Green,J. Green,142,214,26,Missed,1,,,0,h,MISS Ja. Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+442,606,PT05M02.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+443,607,PT04M49.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,34,51,6,Missed,1,,,0,v,MISS Ingram 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2
+444,608,PT04M47.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:3 Def:6),Rebound,Unknown,1,0
+445,609,PT04M44.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Jump Ball Sengun vs. Valanciunas: Tip to VanVleet,Jump Ball,,1,0
+446,612,PT04M44.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0
+447,612,PT04M44.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun STEAL (1 STL),,,1,0
+448,614,PT04M43.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins S.FOUL (P5.PN) (M.Boland),Foul,Shooting,1,0
+449,616,PT04M43.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,87,93,180,h,Ja. Green Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0
+450,617,PT04M43.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,88,93,181,h,Ja. Green Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0
+451,618,PT04M26.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks P.FOUL (P5.T3) (T.Ford),Foul,Personal,1,0
+452,620,PT04M16.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,16,58,6,Made,1,88,95,183,v,Valanciunas 6' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2
+453,621,PT04M16.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P2.T4) (M.Boland),Foul,Shooting,1,0
+454,623,PT04M16.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0
+455,624,PT04M16.00S,4,0,,621,,,0,0,0,,0,88,95,183,,Instant Replay4th Period (10:20 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0
+456,627,PT04M16.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+457,628,PT04M16.00S,4,1610612745,HOU,201145,Green,J. Green,0,0,0,,0,,,0,h,Je. Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+458,629,PT03M54.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,-40,257,26,Made,1,91,95,186,h,Brooks 26' 3PT Jump Shot (10 PTS) (Sengun 3 AST),Made Shot,Jump Shot,1,3
+459,631,PT03M35.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas OFF.Foul (P5) (N.Sago),Foul,Offensive,1,0
+460,633,PT03M35.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,1,0
+461,634,PT03M14.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas P.FOUL (P6.PN) (M.Boland),Foul,Personal,1,0
+462,636,PT03M14.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0
+463,638,PT03M14.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,92,95,187,h,Sengun Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0
+464,639,PT03M14.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,93,95,188,h,Sengun Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0
+465,640,PT02M55.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,233,-4,0,Made,1,93,98,191,v,Ingram 3PT Jump Shot (31 PTS) (Williamson 1 AST),Made Shot,Jump Shot,1,3
+466,644,PT02M34.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,5,8,1,Missed,1,,,0,h,MISS Brooks 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2
+467,645,PT02M31.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+468,646,PT02M21.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,26,1,3,Missed,1,,,0,v,MISS Williamson 3' Layup,Missed Shot,Layup Shot,1,2
+469,647,PT02M19.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+470,648,PT02M13.00S,4,1610612745,HOU,201145,Green,J. Green,228,6,0,Missed,1,,,0,h,MISS Je. Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+471,649,PT02M11.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:4 Def:3),Rebound,Unknown,1,0
+472,650,PT02M11.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,-11,15,2,Made,1,95,98,193,h,Sengun 2' Putback Layup (24 PTS),Made Shot,Putback Layup Shot,1,2
+473,651,PT02M11.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.PN) (T.Ford),Foul,Shooting,1,0
+474,653,PT02M11.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,MISS Sengun Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+475,654,PT02M11.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+476,655,PT01M56.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun L.B.FOUL (P3.PN) (M.Boland),Foul,Loose Ball,1,0
+477,657,PT01M56.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,95,99,194,v,Daniels Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0
+478,658,PT01M56.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,95,100,195,v,Daniels Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0
+479,659,PT01M44.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson S.FOUL (P5.PN) (M.Boland),Foul,Shooting,1,0
+480,661,PT01M44.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,MISS Sengun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+481,662,PT01M44.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0
+482,663,PT01M44.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,MISS Sengun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0
+483,664,PT01M41.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,v,Ingram REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+484,665,PT01M23.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson Lost Ball Turnover (P5.T16),Turnover,Lost Ball,1,0
+485,665,PT01M23.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun STEAL (2 STL),,,1,0
+486,667,PT01M18.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,-181,194,27,Missed,1,,,0,h,MISS VanVleet 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+487,668,PT01M17.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+488,669,PT01M14.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,224,11,0,Made,1,98,100,198,h,VanVleet 3PT Jump Shot (15 PTS) (Brooks 2 AST),Made Shot,Jump Shot,1,3
+489,671,PT00M58.80S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0
+490,671,PT00M58.80S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks STEAL (2 STL),,,1,0
+491,673,PT00M55.70S,4,1610612745,HOU,1628415,Brooks,D. Brooks,-17,17,2,Missed,1,,,0,h,MISS Brooks 2' Running Layup,Missed Shot,Running Layup Shot,1,2
+492,673,PT00M55.70S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,,,0,v,Williamson BLOCK (1 BLK),,,1,2
+493,675,PT00M55.70S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0
+494,677,PT00M47.30S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,88,270,28,Made,1,101,100,201,h,VanVleet 28' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3
+495,678,PT00M47.30S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+496,679,PT00M47.30S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,SUB: Eason FOR Ja. Green,Substitution,,0,0
+497,681,PT00M34.80S,4,1610612740,NOP,1627742,Ingram,B. Ingram,12,255,26,Missed,1,,,0,v,MISS Ingram 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+498,682,PT00M32.60S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:4 Def:4),Rebound,Unknown,1,0
+499,683,PT00M15.40S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,Hawkins S.FOUL (P6.PN) (N.Sago),Foul,Shooting,1,0
+500,685,PT00M15.40S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,v,SUB: Zeller FOR Hawkins,Substitution,,0,0
+501,687,PT00M15.40S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,102,100,202,h,VanVleet Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0
+502,688,PT00M15.40S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,103,100,203,h,VanVleet Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0
+503,689,PT00M15.40S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0
+504,690,PT00M15.40S,4,1610612740,NOP,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,SUB: Ryan FOR Zeller,Substitution,,0,0
+505,692,PT00M03.10S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-78,235,25,Missed,1,,,0,v,MISS Ingram 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3
+506,695,PT00M03.10S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Rebound,Rebound,Unknown,1,0
+507,696,PT00M03.10S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason L.B.FOUL (P3.PN) (T.Ford),Foul,Loose Ball,1,0
+508,698,PT00M03.10S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+509,699,PT00M03.10S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Pelicans Rebound,Rebound,Normal Rebound,1,0
+510,700,PT00M03.10S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,SUB: Zeller FOR Daniels,Substitution,,0,0
+511,702,PT00M03.10S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,103,101,204,v,Nance Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0
+512,703,PT00M03.10S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0
+513,704,PT00M03.10S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Eason,Substitution,,0,0
+514,705,PT00M03.10S,4,1610612740,NOP,1630346,Ryan,M. Ryan,0,0,0,,0,,,0,v,SUB: Daniels FOR Ryan,Substitution,,0,0
+515,706,PT00M03.10S,4,1610612740,NOP,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,SUB: Robinson-Earl FOR Zeller,Substitution,,0,0
+516,711,PT00M02.50S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,v,Robinson-Earl Personal Take Foul (P1.PN) (T.Ford),Foul,Personal Take,1,0
+517,713,PT00M02.50S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,MISS Ja. Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+518,714,PT00M02.50S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0
+519,715,PT00M02.50S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Eason FOR Sengun,Substitution,,0,0
+520,716,PT00M02.50S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,v,SUB: Ryan FOR Robinson-Earl,Substitution,,0,0
+521,719,PT00M02.50S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,104,101,205,h,Ja. Green Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0
+522,720,PT00M01.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Out of Bounds Lost Ball Turnover (P1.T18),Turnover,Out of Bounds Lost Ball Turnover,1,0
+523,721,PT00M00.00S,4,0,,0,,,0,0,0,,0,104,101,205,,End of 4th Period (10:39 PM EST),period,end,1,0

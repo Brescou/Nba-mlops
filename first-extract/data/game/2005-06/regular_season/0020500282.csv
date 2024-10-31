@@ -1,0 +1,522 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Jump Ball Howard vs. Camby: Tip to Buckner,Jump Ball,,0,0
+3,2,PT11M48.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby Traveling Turnover (P1.T1),Turnover,Traveling,0,0
+4,3,PT11M36.00S,1,1610612753,ORL,1883,Francis,S. Francis,-3,120,12,Missed,1,0,0,0,h,MISS Francis 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+5,4,PT11M34.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+6,5,PT11M32.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Made,1,2,0,2,h,Howard  Layup (2 PTS),Made Shot,Layup Shot,0,0
+7,6,PT11M18.00S,1,1610612743,DEN,948,Camby,M. Camby,94,-13,9,Missed,1,0,0,0,v,MISS Camby 9' Jump Shot,Missed Shot,Jump Shot,0,0
+8,7,PT11M16.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+9,8,PT11M01.00S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+10,8,PT11M01.00S,1,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,Buckner STEAL (1 STL),,,0,0
+11,9,PT10M54.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,2,2,4,v,Anthony  Layup (2 PTS) (Buckner 1 AST),Made Shot,Layup Shot,0,0
+12,10,PT10M33.00S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,Made,1,4,2,6,h,Turkoglu  Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,0,0
+13,11,PT10M27.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,4,4,8,v,Anthony  Layup (4 PTS) (Miller 1 AST),Made Shot,Layup Shot,0,0
+14,12,PT10M13.00S,1,1610612753,ORL,1499,Battie,T. Battie,120,-6,12,Missed,1,0,0,0,h,MISS Battie 12' Jump Shot,Missed Shot,Jump Shot,0,0
+15,13,PT10M11.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+16,14,PT09M50.00S,1,1610612743,DEN,1922,Elson,F. Elson,-184,97,21,Made,1,4,6,10,v,Elson 21' Jump Shot (2 PTS) (Miller 2 AST),Made Shot,Jump Shot,0,0
+17,15,PT09M28.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,-117,166,20,Made,1,6,6,12,h,Stevenson 20' Jump Shot (2 PTS) (Battie 1 AST),Made Shot,Jump Shot,0,0
+18,16,PT09M12.00S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu P.FOUL (P1.T1),Foul,Personal,0,0
+19,17,PT09M12.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis P.FOUL (P1.T2),Foul,Personal,0,0
+20,18,PT09M05.00S,1,1610612743,DEN,1922,Elson,F. Elson,102,151,18,Made,1,6,8,14,v,Elson 18' Jump Shot (4 PTS) (Miller 3 AST),Made Shot,Jump Shot,0,0
+21,20,PT08M43.00S,1,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+22,19,PT08M43.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Made,1,8,8,16,h,Stevenson  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+23,21,PT08M24.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,Made,1,8,10,18,v,Camby  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+24,22,PT08M22.00S,1,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+25,23,PT08M14.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P1.T3),Foul,Shooting,0,0
+26,24,PT08M14.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,MISS Miller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+27,25,PT08M14.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+28,26,PT08M14.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,8,11,19,v,Miller Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+29,27,PT08M05.00S,1,1610612753,ORL,1499,Battie,T. Battie,0,0,0,Made,1,10,11,21,h,Battie  Dunk (2 PTS) (Francis 1 AST),Made Shot,Dunk Shot,0,0
+30,28,PT07M47.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,0,0,0,v,MISS Camby  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+31,29,PT07M46.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+32,30,PT07M39.00S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,159,210,26,Made,1,13,11,24,h,Turkoglu 26' 3PT Jump Shot (5 PTS) (Francis 2 AST),Made Shot,Jump Shot,0,0
+33,31,PT07M26.00S,1,1610612743,DEN,1889,Miller,A. Miller,-18,115,12,Made,1,13,13,26,v,Miller 12' Running Jump Shot (3 PTS),Made Shot,Running Jump Shot,0,0
+34,32,PT07M15.00S,1,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson P.FOUL (P1.T1),Foul,Personal,0,0
+35,33,PT07M14.00S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0
+36,33,PT07M14.00S,1,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson STEAL (1 STL),,,0,0
+37,34,PT07M11.00S,1,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+38,35,PT06M57.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0
+39,35,PT06M57.00S,1,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,Buckner STEAL (2 STL),,,0,0
+40,36,PT06M54.00S,1,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie S.FOUL (P1.T4),Foul,Shooting,0,0
+41,37,PT06M54.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,13,14,27,v,Camby Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+42,38,PT06M54.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,MISS Camby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+43,39,PT06M53.00S,1,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+44,40,PT06M36.00S,1,1610612753,ORL,1883,Francis,S. Francis,-49,53,7,Missed,1,0,0,0,h,MISS Francis 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+45,41,PT06M35.00S,1,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,Buckner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+46,42,PT06M30.00S,1,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie S.FOUL (P2.PN),Foul,Shooting,0,0
+47,43,PT06M30.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+48,46,PT06M30.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,13,15,28,v,Camby Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+49,47,PT06M30.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,MISS Camby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+50,48,PT06M29.00S,1,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+51,49,PT06M16.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson Traveling Turnover (P1.T5),Turnover,Traveling,0,0
+52,50,PT06M16.00S,1,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,SUB: Garrity FOR Battie,Substitution,,0,0
+53,51,PT05M59.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,-202,23,20,Missed,1,0,0,0,v,MISS Anthony 20' Jump Shot,Missed Shot,Jump Shot,0,0
+54,52,PT05M57.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+55,53,PT05M37.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Traveling Turnover (P2.T6),Turnover,Traveling,0,0
+56,54,PT05M24.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,0,0,0,v,MISS Camby  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+57,55,PT05M23.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+58,56,PT05M18.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Made,1,15,15,30,h,Francis  Driving Layup (2 PTS) (Howard 1 AST),Made Shot,Driving Layup Shot,0,0
+59,57,PT05M01.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,15,17,32,v,Anthony  Layup (6 PTS) (Miller 4 AST),Made Shot,Layup Shot,0,0
+60,58,PT04M48.00S,1,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,Buckner P.FOUL (P1.T2),Foul,Personal,0,0
+61,60,PT04M48.00S,1,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,SUB: Najera FOR Elson,Substitution,,0,0
+62,61,PT04M35.00S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,-154,215,26,Missed,1,0,0,0,h,MISS Turkoglu 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+63,62,PT04M33.00S,1,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,Buckner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+64,63,PT04M28.00S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu P.FOUL (P2.PN),Foul,Personal,0,0
+65,64,PT04M28.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,15,18,33,v,Anthony Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+66,65,PT04M28.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,15,19,34,v,Anthony Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+67,66,PT04M16.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Made,1,17,19,36,h,Francis  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+68,67,PT04M02.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller OFF.Foul (P1),Foul,Offensive,0,0
+69,68,PT04M02.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller Foul Turnover (P1.T3),Turnover,Foul,0,0
+70,69,PT04M02.00S,1,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,SUB: Augmon FOR Turkoglu,Substitution,,0,0
+71,70,PT03M51.00S,1,1610612753,ORL,1727,Garrity,P. Garrity,-56,202,21,Missed,1,0,0,0,h,MISS Garrity 21' Jump Shot,Missed Shot,Jump Shot,0,0
+72,71,PT03M49.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+73,72,PT03M40.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0
+74,72,PT03M40.00S,1,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon STEAL (1 STL),,,0,0
+75,73,PT03M35.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,SUB: Boykins FOR Miller,Substitution,,0,0
+76,74,PT03M35.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,SUB: Kleiza FOR Camby,Substitution,,0,0
+77,75,PT03M29.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Missed,1,0,0,0,h,MISS Howard  Layup,Missed Shot,Layup Shot,0,0
+78,76,PT03M27.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+79,77,PT03M18.00S,1,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,Buckner OFF.Foul (P2),Foul,Offensive,0,0
+80,78,PT03M18.00S,1,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,Buckner Foul Turnover (P1.T5),Turnover,Foul,0,0
+81,79,PT03M18.00S,1,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,SUB: Nelson FOR Francis,Substitution,,0,0
+82,80,PT03M03.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,144,8,14,Made,1,19,19,38,h,Stevenson 14' Jump Shot (6 PTS) (Nelson 1 AST),Made Shot,Jump Shot,0,0
+83,81,PT02M39.00S,1,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,Missed,1,0,0,0,v,MISS Kleiza  Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+84,82,PT02M37.00S,1,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+85,83,PT02M31.00S,1,1610612753,ORL,2749,Nelson,J. Nelson,-110,155,19,Made,1,21,19,40,h,Nelson 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+86,84,PT02M16.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony Traveling Turnover (P1.T6),Turnover,Traveling,0,0
+87,85,PT02M16.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+88,87,PT02M16.00S,1,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,SUB: Watson FOR Buckner,Substitution,,0,0
+89,88,PT02M04.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Made,1,23,19,42,h,Howard  Slam Dunk (4 PTS) (Stevenson 1 AST),Made Shot,Slam Dunk Shot,0,0
+90,89,PT02M04.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera S.FOUL (P1.T3),Foul,Shooting,0,0
+91,90,PT02M04.00S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,24,19,43,h,Howard Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+92,91,PT01M46.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0,0,0,v,MISS Anthony  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+93,93,PT01M44.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+94,92,PT01M44.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Missed,1,0,0,0,v,MISS Najera  Tip Shot,Missed Shot,Tip Shot,0,0
+95,94,PT01M44.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+96,95,PT01M41.00S,1,1610612743,DEN,1863,Boykins,E. Boykins,167,-1,17,Made,1,24,21,45,v,Boykins 17' Jump Shot (2 PTS) (Anthony 1 AST),Made Shot,Jump Shot,0,0
+97,96,PT01M26.00S,1,1610612743,DEN,2248,Watson,E. Watson,0,0,0,,0,0,0,0,v,Watson P.FOUL (P1.T4),Foul,Personal,0,0
+98,97,PT01M19.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,120,161,20,Made,1,26,21,47,h,Stevenson 20' Jump Shot (8 PTS) (Augmon 1 AST),Made Shot,Jump Shot,0,0
+99,98,PT01M08.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera OFF.Foul (P2),Foul,Offensive,0,0
+100,99,PT01M08.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera Foul Turnover (P1.T7),Turnover,Foul,0,0
+101,100,PT00M53.90S,1,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,Missed,1,0,0,0,h,MISS Augmon  Layup,Missed Shot,Layup Shot,0,0
+102,101,PT00M52.30S,1,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+103,102,PT00M52.30S,1,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Jump Ball Augmon vs. Kleiza: Tip to Najera,Jump Ball,,0,0
+104,103,PT00M52.30S,1,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0
+105,103,PT00M52.30S,1,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,Kleiza STEAL (1 STL),,,0,0
+106,104,PT00M46.20S,1,1610612743,DEN,2248,Watson,E. Watson,0,0,0,,0,0,0,0,v,Watson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0
+107,105,PT00M29.30S,1,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,Kleiza P.FOUL (P1.PN),Foul,Personal,0,0
+108,106,PT00M29.30S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+109,107,PT00M29.30S,1,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+110,108,PT00M29.30S,1,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,27,21,48,h,Howard Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+111,109,PT00M15.90S,1,1610612743,DEN,1863,Boykins,E. Boykins,61,153,16,Missed,1,0,0,0,v,MISS Boykins 16' Jump Shot,Missed Shot,Jump Shot,0,0
+112,110,PT00M13.70S,1,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+113,111,PT00M00.90S,1,1610612753,ORL,2749,Nelson,J. Nelson,174,87,19,Missed,1,0,0,0,h,MISS Nelson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+114,112,PT00M00.30S,1,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,Kleiza REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+115,113,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,21,48,,End of 1st Period (7:39 PM EST),period,end,0,0
+116,114,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,21,48,,Start of 2nd Period (7:42 PM EST),period,start,0,0
+117,115,PT11M46.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,-136,245,28,Missed,1,0,0,0,h,MISS Garrity 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+118,116,PT11M45.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+119,117,PT11M34.00S,2,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon P.FOUL (P1.T1),Foul,Personal,0,0
+120,118,PT11M29.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,-145,49,15,Missed,1,0,0,0,v,MISS Boykins 15' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,0
+121,119,PT11M27.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+122,120,PT11M16.00S,2,1610612743,DEN,2059,Najera,E. Najera,18,143,14,Missed,1,0,0,0,v,MISS Najera 14' Jump Shot,Missed Shot,Jump Shot,0,0
+123,121,PT11M15.00S,2,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+124,122,PT11M05.00S,2,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0
+125,122,PT11M05.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony STEAL (1 STL),,,0,0
+126,123,PT10M59.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,27,23,50,v,Anthony  Layup (10 PTS) (Boykins 1 AST),Made Shot,Layup Shot,0,0
+127,124,PT10M44.00S,2,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Missed,1,0,0,0,h,MISS Francis  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+128,125,PT10M43.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,Kleiza REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+129,126,PT10M38.00S,2,1610612743,DEN,2248,Watson,E. Watson,79,2,8,Made,1,27,25,52,v,Watson 8' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,0
+130,127,PT10M30.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+131,130,PT10M30.00S,2,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Battie FOR Howard,Substitution,,0,0
+132,131,PT10M18.00S,2,1610612753,ORL,278,Augmon,S. Augmon,-56,33,7,Missed,1,0,0,0,h,MISS Augmon 7' Jump Shot,Missed Shot,Jump Shot,0,0
+133,132,PT10M16.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+134,133,PT10M16.00S,2,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,Made,1,29,25,54,h,Augmon  Layup (2 PTS),Made Shot,Layup Shot,0,0
+135,137,PT10M16.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera S.FOUL (P3.T1),Foul,Shooting,0,0
+136,134,PT10M16.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,SUB: Miller FOR Anthony,Substitution,,0,0
+137,135,PT10M16.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,SUB: Camby FOR Najera,Substitution,,0,0
+138,136,PT10M16.00S,2,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,MISS Augmon Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+139,139,PT10M16.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+140,138,PT10M03.00S,2,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon P.FOUL (P2.T2),Foul,Personal,0,0
+141,140,PT10M03.00S,2,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,SUB: Turkoglu FOR Augmon,Substitution,,0,0
+142,141,PT09M54.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu S.FOUL (P3.T3),Foul,Shooting,0,0
+143,143,PT09M54.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,29,26,55,v,Miller Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+144,144,PT09M54.00S,2,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,SUB: Morris FOR Turkoglu,Substitution,,0,0
+145,145,PT09M54.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,MISS Miller Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+146,147,PT09M52.00S,2,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+147,149,PT09M33.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,-113,238,26,Made,1,32,26,58,h,Garrity 26' 3PT Jump Shot (3 PTS) (Francis 3 AST),Made Shot,Jump Shot,0,0
+148,150,PT09M12.00S,2,1610612743,DEN,2248,Watson,E. Watson,-49,199,20,Missed,1,0,0,0,v,MISS Watson 20' Jump Shot,Missed Shot,Jump Shot,0,0
+149,151,PT09M10.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+150,152,PT09M05.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Missed,1,0,0,0,v,MISS Miller  Tip Shot,Missed Shot,Tip Shot,0,0
+151,153,PT09M04.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,Garrity REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+152,154,PT08M59.00S,2,1610612753,ORL,2242,Morris,T. Morris,149,56,16,Missed,1,0,0,0,h,MISS Morris 16' Jump Shot,Missed Shot,Jump Shot,0,0
+153,155,PT08M57.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+154,156,PT08M48.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,v,Boykins Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0
+155,156,PT08M48.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,Garrity STEAL (1 STL),,,0,0
+156,157,PT08M29.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,-117,229,26,Missed,1,0,0,0,h,MISS Nelson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+157,158,PT08M27.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+158,159,PT08M21.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,44,171,18,Missed,1,0,0,0,v,MISS Boykins 18' Jump Shot,Missed Shot,Jump Shot,0,0
+159,159,PT08M21.00S,2,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris BLOCK (1 BLK),,,0,0
+160,160,PT08M18.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+161,161,PT08M07.00S,2,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis Traveling Turnover (P1.T9),Turnover,Traveling,0,0
+162,162,PT07M47.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,136,140,20,Missed,1,0,0,0,v,MISS Kleiza 20' Jump Shot,Missed Shot,Jump Shot,0,0
+163,164,PT07M47.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+164,165,PT07M47.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,SUB: Elson FOR Kleiza,Substitution,,0,0
+165,166,PT07M34.00S,2,1610612753,ORL,1883,Francis,S. Francis,-117,33,12,Missed,1,0,0,0,h,MISS Francis 12' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,0
+166,167,PT07M33.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+167,168,PT07M22.00S,2,1610612743,DEN,948,Camby,M. Camby,74,94,12,Made,1,32,28,60,v,Camby 12' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+168,169,PT07M00.00S,2,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson P.FOUL (P2.T2),Foul,Personal,0,0
+169,170,PT07M00.00S,2,1610612743,DEN,2248,Watson,E. Watson,0,0,0,,0,0,0,0,v,SUB: Buckner FOR Watson,Substitution,,0,0
+170,171,PT06M53.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,-148,97,18,Made,1,34,28,62,h,Nelson 18' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+171,172,PT06M37.00S,2,1610612743,DEN,948,Camby,M. Camby,-90,197,22,Missed,1,0,0,0,v,MISS Camby 22' Jump Shot,Missed Shot,Jump Shot,0,0
+172,173,PT06M35.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,v,Boykins REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+173,174,PT06M33.00S,2,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis P.FOUL (P2.T4),Foul,Personal,0,0
+174,175,PT06M33.00S,2,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,SUB: Stevenson FOR Francis,Substitution,,0,0
+175,176,PT06M22.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie S.FOUL (P3.PN),Foul,Shooting,0,0
+176,177,PT06M22.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,MISS Miller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+177,178,PT06M22.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+178,179,PT06M22.00S,2,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,SUB: Howard FOR Battie,Substitution,,0,0
+179,180,PT06M22.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,34,29,63,v,Miller Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+180,181,PT06M08.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Nuggets T.Foul (Def. 3 Sec Miller ),Foul,Defense 3 Second,0,0
+181,182,PT06M08.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,MISS Garrity Free Throw Technical,Free Throw,Free Throw Technical,0,0
+182,183,PT06M08.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+183,184,PT05M56.00S,2,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Made,1,36,29,65,h,Howard  Layup (8 PTS) (Morris 1 AST),Made Shot,Layup Shot,0,0
+184,185,PT05M41.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson P.FOUL (P1.PN),Foul,Personal,0,0
+185,186,PT05M41.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+186,190,PT05M41.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,MISS Miller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+187,191,PT05M41.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+188,192,PT05M41.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,MISS Miller Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+189,194,PT05M41.00S,2,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+190,197,PT05M30.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+191,197,PT05M30.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller STEAL (1 STL),,,0,0
+192,212,PT05M27.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson S.FOUL (P1.PN),Foul,Shooting,0,0
+193,200,PT05M27.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,36,30,66,v,Miller Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+194,201,PT05M27.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,36,31,67,v,Miller Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+195,202,PT05M11.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,-143,222,26,Missed,1,0,0,0,h,MISS Garrity 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+196,203,PT05M09.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+197,204,PT04M58.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,v,Boykins Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0
+198,204,PT04M58.00S,2,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris STEAL (1 STL),,,0,0
+199,205,PT04M54.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,Made,1,38,31,69,h,Nelson  Layup (6 PTS),Made Shot,Layup Shot,0,0
+200,206,PT04M54.00S,2,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,Buckner S.FOUL (P3.T3),Foul,Shooting,0,0
+201,207,PT04M54.00S,2,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,SUB: Anthony FOR Buckner,Substitution,,0,0
+202,208,PT04M54.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,39,31,70,h,Nelson Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+203,209,PT04M40.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0,0,0,v,MISS Anthony  Layup,Missed Shot,Layup Shot,0,0
+204,211,PT04M37.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+205,210,PT04M37.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,0,0,0,v,MISS Camby  Tip Shot,Missed Shot,Tip Shot,0,0
+206,213,PT04M36.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,Garrity REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+207,214,PT04M19.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,-59,117,13,Missed,1,0,0,0,h,MISS Nelson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+208,215,PT04M17.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+209,216,PT04M07.00S,2,1610612743,DEN,948,Camby,M. Camby,-36,196,20,Made,1,39,33,72,v,Camby 20' Jump Shot (8 PTS) (Boykins 2 AST),Made Shot,Jump Shot,0,0
+210,217,PT03M48.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Missed,1,0,0,0,h,MISS Stevenson  Layup,Missed Shot,Layup Shot,0,0
+211,219,PT03M48.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+212,221,PT03M48.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson OFF.Foul (P2),Foul,Offensive,0,0
+213,222,PT03M48.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson Foul Turnover (P3.T11),Turnover,Foul,0,0
+214,223,PT03M48.00S,2,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,SUB: Kasun FOR Garrity,Substitution,,0,0
+215,225,PT03M48.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,v,SUB: Lenard FOR Boykins,Substitution,,0,0
+216,226,PT03M29.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0,0,0,v,MISS Anthony  Layup,Missed Shot,Layup Shot,0,0
+217,226,PT03M29.00S,2,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris BLOCK (2 BLK),,,0,0
+218,227,PT03M26.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+219,228,PT03M22.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0
+220,228,PT03M22.00S,2,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard STEAL (1 STL),,,0,0
+221,229,PT03M14.00S,2,1610612743,DEN,948,Camby,M. Camby,159,-9,16,Made,1,39,35,74,v,Camby 16' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+222,230,PT02M48.00S,2,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,Made,1,41,35,76,h,Kasun  Dunk (2 PTS) (Stevenson 2 AST),Made Shot,Dunk Shot,0,0
+223,232,PT02M35.00S,2,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,Missed,1,0,0,0,v,MISS Lenard  Layup,Missed Shot,Layup Shot,0,0
+224,232,PT02M35.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson BLOCK (1 BLK),,,0,0
+225,233,PT02M35.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+226,235,PT02M35.00S,2,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard L.B.FOUL (P1.T4),Foul,Loose Ball,0,0
+227,236,PT02M35.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+228,238,PT02M35.00S,2,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,SUB: Francis FOR Nelson,Substitution,,0,0
+229,239,PT02M17.00S,2,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,Missed,1,0,0,0,h,MISS Kasun  Hook Shot,Missed Shot,Hook Shot,0,0
+230,241,PT02M15.00S,2,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,,0,0,0,0,h,Kasun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+231,240,PT02M15.00S,2,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,Missed,1,0,0,0,h,MISS Kasun  Tip Shot,Missed Shot,Tip Shot,0,0
+232,242,PT02M15.00S,2,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+233,243,PT02M15.00S,2,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Made,1,43,35,78,h,Howard  Layup (10 PTS),Made Shot,Layup Shot,0,0
+234,244,PT02M15.00S,2,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson S.FOUL (P3.PN),Foul,Shooting,0,0
+235,245,PT02M15.00S,2,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,44,35,79,h,Howard Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0
+236,246,PT01M50.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Missed,1,0,0,0,v,MISS Miller  Layup,Missed Shot,Layup Shot,0,0
+237,248,PT01M47.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+238,247,PT01M47.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,44,37,81,v,Anthony  Follow Up Dunk (12 PTS),Made Shot,Follow Up Dunk Shot,0,0
+239,249,PT01M27.00S,2,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,Made,1,46,37,83,h,Kasun  Dunk (4 PTS) (Francis 4 AST),Made Shot,Dunk Shot,0,0
+240,250,PT01M10.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,46,39,85,v,Anthony  Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,0
+241,251,PT00M51.90S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Missed,1,0,0,0,h,MISS Stevenson  Layup,Missed Shot,Layup Shot,0,0
+242,252,PT00M50.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+243,253,PT00M50.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson FLAGRANT.FOUL.TYPE1 (P3.PN),Foul,Flagrant Type 1,0,0
+244,254,PT00M50.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,46,40,86,v,Camby Free Throw Flagrant 1 of 2 (11 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0
+245,255,PT00M50.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,46,41,87,v,Camby Free Throw Flagrant 2 of 2 (12 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0
+246,256,PT00M50.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,SUB: Nelson FOR Stevenson,Substitution,,0,0
+247,257,PT00M39.20S,2,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris S.FOUL (P1.PN),Foul,Shooting,0,0
+248,259,PT00M39.20S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,46,42,88,v,Anthony Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+249,261,PT00M39.20S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,46,43,89,v,Anthony Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+250,262,PT00M26.40S,2,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Made,1,48,43,91,h,Francis  Layup (6 PTS),Made Shot,Layup Shot,0,0
+251,263,PT00M25.10S,2,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,,0,0,0,0,h,SUB: Augmon FOR Kasun,Substitution,,0,0
+252,264,PT00M25.10S,2,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,SUB: Boykins FOR Elson,Substitution,,0,0
+253,265,PT00M05.20S,2,1610612743,DEN,702,Lenard,V. Lenard,-238,114,26,Made,1,48,46,94,v,Lenard 26' 3PT Jump Shot (3 PTS) (Miller 5 AST),Made Shot,Jump Shot,0,0
+254,266,PT00M01.00S,2,1610612753,ORL,1883,Francis,S. Francis,98,17,10,Missed,1,0,0,0,h,MISS Francis 10' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+255,267,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+256,268,PT00M00.00S,2,0,,0,,,0,0,0,,0,48,46,94,,End of 2nd Period (8:15 PM EST),period,end,0,0
+257,269,PT12M00.00S,3,0,,0,,,0,0,0,,0,48,46,94,,Start of 3rd Period (8:32 PM EST),period,start,0,0
+258,270,PT11M47.00S,3,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson P.FOUL (P4.T1),Foul,Personal,0,0
+259,271,PT11M47.00S,3,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,SUB: Najera FOR Elson,Substitution,,0,0
+260,272,PT11M43.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,95,248,27,Missed,1,0,0,0,h,MISS Turkoglu 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+261,273,PT11M41.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+262,274,PT11M37.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera P.FOUL (P4.T2),Foul,Personal,0,0
+263,275,PT11M32.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard OFF.Foul (P2),Foul,Offensive,0,0
+264,276,PT11M32.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Foul Turnover (P4.T13),Turnover,Foul,0,0
+265,277,PT11M13.00S,3,1610612743,DEN,1889,Miller,A. Miller,47,51,7,Missed,1,0,0,0,v,MISS Miller 7' Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+266,278,PT11M11.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+267,279,PT11M00.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,-110,176,21,Made,1,50,46,96,h,Stevenson 21' Jump Shot (10 PTS) (Turkoglu 1 AST),Made Shot,Jump Shot,0,0
+268,280,PT10M45.00S,3,1610612743,DEN,1761,Buckner,G. Buckner,228,0,0,Missed,1,0,0,0,v,MISS Buckner  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+269,281,PT10M41.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+270,282,PT10M31.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,-210,-29,21,Made,1,52,46,98,h,Stevenson 21' Jump Shot (12 PTS) (Turkoglu 2 AST),Made Shot,Jump Shot,0,0
+271,283,PT10M16.00S,3,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,MAGIC T.Foul (Def. 3 Sec Battie ),Foul,Defense 3 Second,0,0
+272,284,PT10M16.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,52,47,99,v,Anthony Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0
+273,285,PT10M04.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Missed,1,0,0,0,v,MISS Najera  Layup,Missed Shot,Layup Shot,0,0
+274,287,PT09M59.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+275,286,PT09M59.00S,3,1610612743,DEN,1889,Miller,A. Miller,69,25,7,Made,1,52,49,101,v,Miller 7' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+276,288,PT09M48.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0
+277,288,PT09M48.00S,3,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,Buckner STEAL (3 STL),,,0,0
+278,289,PT09M38.00S,3,1610612743,DEN,1761,Buckner,G. Buckner,18,187,19,Missed,1,0,0,0,v,MISS Buckner 19' Jump Shot,Missed Shot,Jump Shot,0,0
+279,290,PT09M37.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+280,291,PT09M22.00S,3,1610612753,ORL,1499,Battie,T. Battie,0,0,0,Made,1,54,49,103,h,Battie  Slam Dunk (4 PTS) (Howard 2 AST),Made Shot,Slam Dunk Shot,0,0
+281,292,PT09M09.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu S.FOUL (P4.T1),Foul,Shooting,0,0
+282,293,PT09M09.00S,3,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,SUB: Augmon FOR Turkoglu,Substitution,,0,0
+283,294,PT09M09.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,54,50,104,v,Anthony Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+284,295,PT09M09.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,54,51,105,v,Anthony Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+285,296,PT08M49.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis Step Out of Bounds Turnover (P3.T15),Turnover,Step Out of Bounds Turnover,0,0
+286,297,PT08M36.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis P.FOUL (P3.T2),Foul,Personal,0,0
+287,298,PT08M30.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,-112,168,20,Missed,1,0,0,0,v,MISS Anthony 20' Jump Shot,Missed Shot,Jump Shot,0,0
+288,299,PT08M28.00S,3,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+289,300,PT08M18.00S,3,1610612753,ORL,1883,Francis,S. Francis,74,235,25,Made,1,57,51,108,h,Francis 25' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+290,301,PT07M53.00S,3,1610612743,DEN,1761,Buckner,G. Buckner,98,164,19,Missed,1,0,0,0,v,MISS Buckner 19' Jump Shot,Missed Shot,Jump Shot,0,0
+291,302,PT07M50.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+292,303,PT07M39.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,-140,161,21,Made,1,59,51,110,h,Stevenson 21' Jump Shot (14 PTS) (Augmon 2 AST),Made Shot,Jump Shot,0,0
+293,304,PT07M22.00S,3,1610612743,DEN,948,Camby,M. Camby,136,-8,14,Missed,1,0,0,0,v,MISS Camby 14' Jump Shot,Missed Shot,Jump Shot,0,0
+294,305,PT07M20.00S,3,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+295,306,PT07M04.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,174,94,20,Made,1,61,51,112,h,Stevenson 20' Jump Shot (16 PTS) (Augmon 3 AST),Made Shot,Jump Shot,0,0
+296,307,PT07M02.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+297,308,PT07M02.00S,3,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,SUB: Lenard FOR Buckner,Substitution,,0,0
+298,310,PT06M48.00S,3,1610612743,DEN,702,Lenard,V. Lenard,102,146,18,Made,1,61,53,114,v,Lenard 18' Jump Shot (5 PTS) (Miller 6 AST),Made Shot,Jump Shot,0,0
+299,311,PT06M31.00S,3,1610612753,ORL,1499,Battie,T. Battie,-82,173,19,Made,1,63,53,116,h,Battie 19' Jump Shot (6 PTS) (Francis 5 AST),Made Shot,Jump Shot,0,0
+300,312,PT06M07.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller Traveling Turnover (P2.T11),Turnover,Traveling,0,0
+301,313,PT05M54.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Bad Pass Turnover (P5.T16),Turnover,Bad Pass,0,0
+302,313,PT05M54.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard STEAL (2 STL),,,0,0
+303,314,PT05M49.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,0,0,0,v,MISS Camby  Layup,Missed Shot,Layup Shot,0,0
+304,314,PT05M49.00S,3,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,Augmon BLOCK (1 BLK),,,0,0
+305,315,PT05M49.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+306,316,PT05M41.00S,3,1610612743,DEN,948,Camby,M. Camby,-2,69,7,Missed,1,0,0,0,v,MISS Camby 7' Jump Shot,Missed Shot,Jump Shot,0,0
+307,317,PT05M40.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+308,318,PT05M34.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller P.FOUL (P2.T3),Foul,Personal,0,0
+309,319,PT05M27.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,41,184,19,Missed,1,0,0,0,h,MISS Stevenson 19' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+310,320,PT05M25.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+311,321,PT05M21.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0
+312,321,PT05M21.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis STEAL (1 STL),,,0,0
+313,322,PT05M10.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+314,325,PT04M57.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Missed,1,0,0,0,h,MISS Howard  Layup,Missed Shot,Layup Shot,0,0
+315,326,PT04M55.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+316,327,PT04M39.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera OFF.Foul (P5),Foul,Offensive,0,0
+317,328,PT04M39.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,Najera Foul Turnover (P2.T13),Turnover,Foul,0,0
+318,329,PT04M18.00S,3,1610612753,ORL,278,Augmon,S. Augmon,-80,61,10,Missed,1,0,0,0,h,MISS Augmon 10' Jump Shot,Missed Shot,Jump Shot,0,0
+319,330,PT04M17.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+320,331,PT04M02.00S,3,1610612743,DEN,702,Lenard,V. Lenard,-245,12,25,Missed,1,0,0,0,v,MISS Lenard 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+321,332,PT04M00.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+322,333,PT03M57.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony S.FOUL (P1.T4),Foul,Shooting,0,0
+323,334,PT03M57.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,64,53,117,h,Francis Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+324,335,PT03M57.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,SUB: Boykins FOR Miller,Substitution,,0,0
+325,336,PT03M57.00S,3,1610612753,ORL,278,Augmon,S. Augmon,0,0,0,,0,0,0,0,h,SUB: Morris FOR Augmon,Substitution,,0,0
+326,337,PT03M57.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,65,53,118,h,Francis Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+327,338,PT03M44.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,65,55,120,v,Anthony  Driving Dunk (21 PTS),Made Shot,Driving Dunk Shot,0,0
+328,339,PT03M38.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby S.FOUL (P1.PN),Foul,Shooting,0,0
+329,340,PT03M38.00S,3,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,SUB: Nelson FOR Francis,Substitution,,0,0
+330,341,PT03M38.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+331,342,PT03M38.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+332,343,PT03M38.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+333,344,PT03M37.00S,3,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+334,345,PT03M26.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Missed,1,0,0,0,h,MISS Howard  Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,0
+335,346,PT03M24.00S,3,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+336,347,PT03M24.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby P.FOUL (P2.PN),Foul,Personal,0,0
+337,348,PT03M24.00S,3,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,66,55,121,h,Battie Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+338,349,PT03M24.00S,3,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,67,55,122,h,Battie Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+339,350,PT03M02.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0,0,0,v,MISS Anthony  Layup,Missed Shot,Layup Shot,0,0
+340,350,PT03M02.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard BLOCK (1 BLK),,,0,0
+341,351,PT03M00.00S,3,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+342,352,PT02M47.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Missed,1,0,0,0,h,MISS Howard  Layup,Missed Shot,Layup Shot,0,0
+343,352,PT02M47.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard BLOCK (1 BLK),,,0,0
+344,353,PT02M45.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:8),Rebound,Unknown,0,0
+345,354,PT02M45.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,Made,1,69,55,124,h,Howard  Layup (13 PTS),Made Shot,Layup Shot,0,0
+346,355,PT02M45.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby S.FOUL (P3.PN),Foul,Shooting,0,0
+347,356,PT02M45.00S,3,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,SUB: Garrity FOR Battie,Substitution,,0,0
+348,357,PT02M45.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,70,55,125,h,Howard Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0
+349,358,PT02M22.00S,3,1610612743,DEN,1863,Boykins,E. Boykins,-131,123,18,Missed,1,0,0,0,v,MISS Boykins 18' Jump Shot,Missed Shot,Jump Shot,0,0
+350,358,PT02M22.00S,3,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson BLOCK (1 BLK),,,0,0
+351,359,PT02M19.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:9),Rebound,Unknown,0,0
+352,360,PT02M14.00S,3,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,Garrity Traveling Turnover (P1.T17),Turnover,Traveling,0,0
+353,361,PT02M14.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,SUB: Elson FOR Camby,Substitution,,0,0
+354,362,PT02M02.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony OFF.Foul (P2),Foul,Offensive,0,0
+355,363,PT02M02.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony Foul Turnover (P2.T14),Turnover,Foul,0,0
+356,364,PT01M39.00S,3,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,Missed,1,0,0,0,h,MISS Nelson  Layup,Missed Shot,Layup Shot,0,0
+357,365,PT01M38.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:9),Rebound,Unknown,0,0
+358,366,PT01M37.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony S.FOUL (P3.PN),Foul,Shooting,0,0
+359,367,PT01M37.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+360,368,PT01M37.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+361,369,PT01M37.00S,3,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,71,55,126,h,Howard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+362,370,PT01M26.00S,3,1610612743,DEN,1863,Boykins,E. Boykins,-25,160,16,Made,1,71,57,128,v,Boykins 16' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+363,371,PT01M06.00S,3,1610612753,ORL,1727,Garrity,P. Garrity,-41,247,25,Missed,1,0,0,0,h,MISS Garrity 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+364,372,PT01M04.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+365,373,PT00M58.90S,3,1610612743,DEN,702,Lenard,V. Lenard,-92,237,25,Missed,1,0,0,0,v,MISS Lenard 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+366,374,PT00M56.70S,3,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,Garrity REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+367,375,PT00M37.90S,3,1610612753,ORL,2242,Morris,T. Morris,0,0,0,Missed,1,0,0,0,h,MISS Morris  Layup,Missed Shot,Layup Shot,0,0
+368,376,PT00M36.90S,3,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+369,377,PT00M21.90S,3,1610612753,ORL,2749,Nelson,J. Nelson,-3,145,15,Missed,1,0,0,0,h,MISS Nelson 15' Jump Shot,Missed Shot,Jump Shot,0,0
+370,378,PT00M19.90S,3,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,v,Boykins REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+371,379,PT00M02.90S,3,1610612743,DEN,2546,Anthony,C. Anthony,156,187,24,Missed,1,0,0,0,v,MISS Anthony 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+372,380,PT00M00.80S,3,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+373,381,PT00M00.00S,3,0,,0,,,0,0,0,,0,71,57,128,,End of 3rd Period (8:59 PM EST),period,end,0,0
+374,382,PT12M00.00S,4,0,,0,,,0,0,0,,0,71,57,128,,Start of 4th Period (9:02 PM EST),period,start,0,0
+375,383,PT11M37.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,-94,232,25,Missed,1,0,0,0,v,MISS Boykins 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+376,384,PT11M35.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+377,385,PT11M21.00S,4,1610612753,ORL,2242,Morris,T. Morris,181,-16,18,Missed,1,0,0,0,h,MISS Morris 18' Jump Shot,Missed Shot,Jump Shot,0,0
+378,386,PT11M20.00S,4,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+379,387,PT11M17.00S,4,1610612753,ORL,1727,Garrity,P. Garrity,85,235,25,Made,1,74,57,131,h,Garrity 25' 3PT Jump Shot (6 PTS) (Nelson 2 AST),Made Shot,Jump Shot,0,0
+380,388,PT10M53.00S,4,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,,0,0,0,0,h,Kasun S.FOUL (P1.T1),Foul,Shooting,0,0
+381,389,PT10M53.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0,0,0,v,SUB: Kleiza FOR Najera,Substitution,,0,0
+382,390,PT10M53.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,MISS Anthony Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+383,391,PT10M53.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+384,392,PT10M53.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,MISS Anthony Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+385,393,PT10M52.00S,4,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+386,394,PT10M38.00S,4,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,,0,0,0,0,h,Kasun OFF.Foul (P2),Foul,Offensive,0,0
+387,395,PT10M38.00S,4,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,,0,0,0,0,h,Kasun Foul Turnover (P1.T18),Turnover,Foul,0,0
+388,396,PT10M38.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,SUB: Miller FOR Anthony,Substitution,,0,0
+389,397,PT10M27.00S,4,1610612743,DEN,702,Lenard,V. Lenard,169,-1,17,Made,1,74,59,133,v,Lenard 17' Jump Shot (7 PTS) (Miller 7 AST),Made Shot,Jump Shot,0,0
+390,398,PT10M06.00S,4,1610612753,ORL,1727,Garrity,P. Garrity,-187,206,28,Made,1,77,59,136,h,Garrity 28' 3PT Jump Shot (9 PTS) (Francis 6 AST),Made Shot,Jump Shot,0,0
+391,399,PT09M52.00S,4,1610612743,DEN,702,Lenard,V. Lenard,123,141,19,Missed,1,0,0,0,v,MISS Lenard 19' Jump Shot,Missed Shot,Jump Shot,0,0
+392,400,PT09M52.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+393,401,PT09M52.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,Kleiza L.B.FOUL (P2.T1),Foul,Loose Ball,0,0
+394,402,PT09M39.00S,4,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,Garrity Lost Ball Turnover (P2.T19),Turnover,Lost Ball,0,0
+395,402,PT09M39.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard STEAL (3 STL),,,0,0
+396,403,PT09M37.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,Made,1,77,61,138,v,Kleiza  Driving Layup (2 PTS) (Lenard 1 AST),Made Shot,Driving Layup Shot,0,0
+397,404,PT09M37.00S,4,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris S.FOUL (P2.T2),Foul,Shooting,0,0
+398,405,PT09M37.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,77,62,139,v,Kleiza Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+399,406,PT09M13.00S,4,1610612753,ORL,1883,Francis,S. Francis,-46,146,15,Missed,1,0,0,0,h,MISS Francis 15' Jump Shot,Missed Shot,Jump Shot,0,0
+400,408,PT09M11.00S,4,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+401,407,PT09M11.00S,4,1610612753,ORL,2242,Morris,T. Morris,0,0,0,Missed,1,0,0,0,h,MISS Morris  Tip Shot,Missed Shot,Tip Shot,0,0
+402,409,PT09M11.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Unknown,0,0
+403,410,PT08M50.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,Kleiza Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0
+404,410,PT08M50.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis STEAL (2 STL),,,0,0
+405,411,PT08M48.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,v,Boykins P.FOUL (P1.T2),Foul,Personal,0,0
+406,412,PT08M48.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+407,415,PT08M30.00S,4,1610612753,ORL,2749,Nelson,J. Nelson,238,-5,24,Missed,1,0,0,0,h,MISS Nelson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+408,416,PT08M28.00S,4,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,Garrity REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+409,417,PT08M17.00S,4,1610612753,ORL,1883,Francis,S. Francis,-80,150,17,Missed,1,0,0,0,h,MISS Francis 17' Jump Shot,Missed Shot,Jump Shot,0,0
+410,418,PT08M15.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,Kleiza REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+411,419,PT08M11.00S,4,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,Nelson S.FOUL (P2.T3),Foul,Shooting,0,0
+412,420,PT08M11.00S,4,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,77,63,140,v,Elson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+413,421,PT08M11.00S,4,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,MISS Elson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+414,422,PT08M10.00S,4,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+415,423,PT07M48.00S,4,1610612753,ORL,2242,Morris,T. Morris,190,40,19,Missed,1,0,0,0,h,MISS Morris 19' Jump Shot,Missed Shot,Jump Shot,0,0
+416,424,PT07M47.00S,4,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,,0,0,0,0,h,Kasun REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+417,425,PT07M40.00S,4,1610612753,ORL,1727,Garrity,P. Garrity,-146,225,27,Missed,1,0,0,0,h,MISS Garrity 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+418,426,PT07M38.00S,4,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+419,427,PT07M23.00S,4,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0
+420,427,PT07M23.00S,4,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,Morris STEAL (2 STL),,,0,0
+421,428,PT07M18.00S,4,1610612753,ORL,2242,Morris,T. Morris,0,0,0,Missed,1,0,0,0,h,MISS Morris  Layup,Missed Shot,Layup Shot,0,0
+422,428,PT07M18.00S,4,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson BLOCK (1 BLK),,,0,0
+423,429,PT07M18.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+424,432,PT07M18.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,Kleiza P.FOUL (P3.T3),Foul,Personal,0,0
+425,430,PT07M18.00S,4,1610612753,ORL,1727,Garrity,P. Garrity,0,0,0,,0,0,0,0,h,SUB: Battie FOR Garrity,Substitution,,0,0
+426,431,PT07M18.00S,4,1610612753,ORL,2435,Kasun,M. Kasun,0,0,0,,0,0,0,0,h,SUB: Howard FOR Kasun,Substitution,,0,0
+427,433,PT07M12.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie Bad Pass Turnover (P2.T20),Turnover,Bad Pass,0,0
+428,433,PT07M12.00S,4,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson STEAL (2 STL),,,0,0
+429,434,PT07M08.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,Made,1,77,65,142,v,Boykins  Layup (6 PTS) (Miller 8 AST),Made Shot,Layup Shot,0,0
+430,435,PT06M48.00S,4,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson S.FOUL (P5.T4),Foul,Shooting,0,0
+431,437,PT06M48.00S,4,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,SUB: Camby FOR Elson,Substitution,,0,0
+432,438,PT06M48.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,MISS Battie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+433,439,PT06M48.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+434,440,PT06M48.00S,4,1610612753,ORL,2242,Morris,T. Morris,0,0,0,,0,0,0,0,h,SUB: Stevenson FOR Morris,Substitution,,0,0
+435,441,PT06M48.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,78,65,143,h,Battie Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+436,444,PT06M30.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie S.FOUL (P4.T4),Foul,Shooting,0,0
+437,445,PT06M30.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,SUB: Buckner FOR Lenard,Substitution,,0,0
+438,446,PT06M30.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,78,66,144,v,Kleiza Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+439,447,PT06M30.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,78,67,145,v,Kleiza Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+440,448,PT06M14.00S,4,1610612753,ORL,1499,Battie,T. Battie,-61,97,11,Made,1,80,67,147,h,Battie 11' Jump Shot (11 PTS) (Francis 7 AST),Made Shot,Jump Shot,0,0
+441,449,PT05M56.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,156,5,16,Missed,1,0,0,0,v,MISS Boykins 16' Jump Shot,Missed Shot,Jump Shot,0,0
+442,450,PT05M54.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+443,451,PT05M51.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,Made,1,80,69,149,v,Camby  Layup (14 PTS),Made Shot,Layup Shot,0,0
+444,452,PT05M35.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,-10,197,20,Made,1,82,69,151,h,Stevenson 20' Jump Shot (18 PTS) (Nelson 3 AST),Made Shot,Jump Shot,0,0
+445,453,PT05M18.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,103,143,18,Missed,1,0,0,0,v,MISS Kleiza 18' Jump Shot,Missed Shot,Jump Shot,0,0
+446,454,PT05M17.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+447,455,PT05M02.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,Miller S.FOUL (P3.PN),Foul,Shooting,0,0
+448,456,PT05M02.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+449,458,PT05M02.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,SUB: Anthony FOR Kleiza,Substitution,,0,0
+450,459,PT05M02.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,83,69,152,h,Battie Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+451,460,PT05M02.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,84,69,153,h,Battie Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+452,461,PT04M53.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie S.FOUL (P5.PN),Foul,Shooting,0,0
+453,462,PT04M53.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,84,70,154,v,Anthony Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0
+454,463,PT04M53.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,84,71,155,v,Anthony Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+455,464,PT04M43.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard OFF.Foul (P3),Foul,Offensive,0,0
+456,465,PT04M43.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Foul Turnover (P6.T21),Turnover,Foul,0,0
+457,466,PT04M32.00S,4,1610612743,DEN,1889,Miller,A. Miller,-89,184,20,Missed,1,0,0,0,v,MISS Miller 20' Jump Shot,Missed Shot,Jump Shot,0,0
+458,467,PT04M32.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+459,468,PT04M32.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby L.B.FOUL (P4.PN),Foul,Loose Ball,0,0
+460,469,PT04M32.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,85,71,156,h,Howard Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+461,470,PT04M32.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0,0,0,v,SUB: Lenard FOR Boykins,Substitution,,0,0
+462,471,PT04M32.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,86,71,157,h,Howard Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+463,472,PT04M16.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,Anthony Bad Pass Turnover (P3.T17),Turnover,Bad Pass,0,0
+464,473,PT04M16.00S,4,1610612743,DEN,1761,Buckner,G. Buckner,0,0,0,,0,0,0,0,v,SUB: Hodge FOR Buckner,Substitution,,0,0
+465,474,PT04M04.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Missed,1,0,0,0,h,MISS Stevenson  Layup,Missed Shot,Layup Shot,0,0
+466,475,PT04M03.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+467,476,PT03M57.00S,4,1610612743,DEN,702,Lenard,V. Lenard,-161,206,26,Missed,1,0,0,0,v,MISS Lenard 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+468,477,PT03M55.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+469,478,PT03M37.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,Made,1,88,71,159,h,Battie  Slam Dunk (15 PTS) (Nelson 4 AST),Made Shot,Slam Dunk Shot,0,0
+470,479,PT03M25.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,Made,1,88,73,161,v,Lenard  Layup (9 PTS) (Miller 9 AST),Made Shot,Layup Shot,0,0
+471,481,PT03M10.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Missed,1,0,0,0,h,MISS Francis  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+472,482,PT03M09.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+473,483,PT03M05.00S,4,1610612743,DEN,101125,Hodge,J. Hodge,0,0,0,Made,1,88,75,163,v,Hodge  Layup (2 PTS) (Miller 10 AST),Made Shot,Layup Shot,0,0
+474,484,PT02M45.00S,4,1610612753,ORL,1499,Battie,T. Battie,-52,61,8,Missed,1,0,0,0,h,MISS Battie 8' Jump Shot,Missed Shot,Jump Shot,0,0
+475,485,PT02M42.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+476,486,PT02M41.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0
+477,487,PT02M41.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+478,489,PT02M41.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0,0,0,v,SUB: Watson FOR Miller,Substitution,,0,0
+479,490,PT02M17.00S,4,1610612753,ORL,2749,Nelson,J. Nelson,117,233,26,Missed,1,0,0,0,h,MISS Nelson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+480,491,PT02M15.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby REBOUND (Off:2 Def:10),Rebound,Unknown,0,0
+481,494,PT02M12.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,Battie S.FOUL (P6.PN),Foul,Shooting,0,0
+482,495,PT02M12.00S,4,1610612743,DEN,101125,Hodge,J. Hodge,0,0,0,,0,88,76,164,v,Hodge Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+483,496,PT02M12.00S,4,1610612753,ORL,1499,Battie,T. Battie,0,0,0,,0,0,0,0,h,SUB: Turkoglu FOR Battie,Substitution,,0,0
+484,497,PT02M12.00S,4,1610612743,DEN,101125,Hodge,J. Hodge,0,0,0,,0,88,77,165,v,Hodge Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+485,499,PT01M53.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,Camby Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+486,498,PT01M53.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,Made,1,90,77,167,h,Francis  Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,0
+487,500,PT01M38.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,Made,1,90,79,169,v,Lenard  Layup (11 PTS),Made Shot,Layup Shot,0,0
+488,503,PT01M12.00S,4,1610612753,ORL,1883,Francis,S. Francis,-161,224,28,Missed,1,0,0,0,h,MISS Francis 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+489,504,PT01M11.00S,4,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,Turkoglu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+490,506,PT01M10.00S,4,1610612743,DEN,101125,Hodge,J. Hodge,0,0,0,,0,0,0,0,v,Hodge S.FOUL (P1.PN),Foul,Shooting,0,0
+491,507,PT01M10.00S,4,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,MISS Turkoglu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+492,508,PT01M10.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+493,511,PT01M10.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,v,SUB: Elson FOR Anthony,Substitution,,0,0
+494,512,PT01M10.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0,0,0,v,SUB: Kleiza FOR Camby,Substitution,,0,0
+495,509,PT01M10.00S,4,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,0,0,0,h,MISS Turkoglu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+496,510,PT01M08.00S,4,1610612743,DEN,1922,Elson,F. Elson,0,0,0,,0,0,0,0,v,Elson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+497,513,PT01M00.00S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P4.PN),Foul,Shooting,0,0
+498,514,PT01M00.00S,4,1610612743,DEN,2248,Watson,E. Watson,0,0,0,,0,90,80,170,v,Watson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+499,515,PT01M00.00S,4,1610612743,DEN,2248,Watson,E. Watson,0,0,0,,0,0,0,0,v,MISS Watson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+500,516,PT00M59.30S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,0,0,0,h,Francis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+501,517,PT00M51.00S,4,1610612743,DEN,101125,Hodge,J. Hodge,0,0,0,,0,0,0,0,v,Hodge P.FOUL (P2.PN),Foul,Personal,0,0
+502,518,PT00M51.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,91,80,171,h,Francis Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+503,519,PT00M51.00S,4,1610612753,ORL,1883,Francis,S. Francis,0,0,0,,0,92,80,172,h,Francis Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+504,522,PT00M41.70S,4,1610612743,DEN,702,Lenard,V. Lenard,121,214,25,Made,1,92,83,175,v,Lenard 25' 3PT Jump Shot (14 PTS) (Watson 1 AST),Made Shot,Jump Shot,0,0
+505,523,PT00M39.30S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard P.FOUL (P2.PN),Foul,Personal,0,0
+506,524,PT00M39.30S,4,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,MISS Nelson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+507,525,PT00M39.30S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0
+508,526,PT00M39.30S,4,1610612753,ORL,2749,Nelson,J. Nelson,0,0,0,,0,0,0,0,h,MISS Nelson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+509,527,PT00M39.30S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0,0,0,v,Kleiza REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+510,528,PT00M39.30S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0
+511,531,PT00M33.50S,4,1610612743,DEN,702,Lenard,V. Lenard,135,199,24,Missed,1,0,0,0,v,MISS Lenard 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+512,532,PT00M31.70S,4,0,,1610612753,,,0,0,0,,0,0,0,0,h,MAGIC Rebound,Rebound,Unknown,0,0
+513,533,PT00M18.70S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0,0,0,v,Lenard P.FOUL (P3.PN),Foul,Personal,0,0
+514,534,PT00M18.70S,4,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,93,83,176,h,Turkoglu Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+515,535,PT00M18.70S,4,1610612753,ORL,2045,Turkoglu,H. Turkoglu,0,0,0,,0,94,83,177,h,Turkoglu Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+516,536,PT00M13.20S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0,0,0,h,Stevenson P.FOUL (P4.PN),Foul,Personal,0,0
+517,537,PT00M13.20S,4,1610612743,DEN,101125,Hodge,J. Hodge,0,0,0,,0,0,0,0,v,MISS Hodge Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+518,538,PT00M13.20S,4,0,,1610612743,,,0,0,0,,0,0,0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0
+519,539,PT00M13.20S,4,1610612743,DEN,101125,Hodge,J. Hodge,0,0,0,,0,0,0,0,v,MISS Hodge Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+520,540,PT00M10.90S,4,1610612753,ORL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:4 Def:10),Rebound,Unknown,0,0
+521,541,PT00M00.00S,4,0,,0,,,0,0,0,,0,94,83,177,,End of 4th Period (9:37 PM EST),period,end,0,0

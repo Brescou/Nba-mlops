@@ -1,0 +1,531 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (3:41 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jump Ball Jordan vs. Pachulia: Tip to Nowitzki,Jump Ball,,1,0
+3,2,PT11M45.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,Pachulia Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+4,2,PT11M45.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul STEAL (1 STL),,,1,0
+5,3,PT11M37.00S,1,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+6,4,PT11M30.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson OFF.Foul (P1) (K.Fitzgerald),Foul,Offensive,1,0
+7,5,PT11M30.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson Foul Turnover (P1.T2),Turnover,Foul,1,0
+8,6,PT11M12.00S,1,1610612746,LAC,200755,Redick,J. Redick,-120,124,17,Made,1,2,0,2,h,Redick 17' Pullup Jump Shot (2 PTS) (Paul 1 AST),Made Shot,Pullup Jump shot,1,0
+9,7,PT11M00.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,-20,21,3,Made,1,2,2,4,v,Pachulia 3' Cutting Layup Shot (2 PTS) (Nowitzki 1 AST),Made Shot,Cutting Layup Shot,1,0
+10,8,PT10M48.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,6,23,2,Missed,1,0,0,0,h,MISS Griffin 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+11,8,PT10M48.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,Pachulia BLOCK (1 BLK),,,1,0
+12,9,PT10M44.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+13,10,PT10M35.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin S.FOUL (P1.T1) (K.Mauer),Foul,Shooting,1,0
+14,11,PT10M35.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,2,3,5,v,Nowitzki Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+15,13,PT10M35.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,2,4,6,v,Nowitzki Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+16,15,PT10M20.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-7,16,2,Made,1,4,4,8,h,Griffin 2' Layup (2 PTS) (Redick 1 AST),Made Shot,Layup Shot,1,0
+17,16,PT09M55.00S,1,1610612742,DAL,101114,Williams,D. Williams,-2,23,2,Made,1,4,6,10,v,D. Williams 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+18,17,PT09M45.00S,1,1610612746,LAC,200755,Redick,J. Redick,-197,105,22,Made,1,6,6,12,h,Redick 22' Pullup Jump Shot (4 PTS) (Mbah a Moute 1 AST),Made Shot,Pullup Jump shot,1,0
+19,18,PT09M33.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,87,232,25,Missed,1,0,0,0,v,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+20,19,PT09M31.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+21,20,PT09M17.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,Pachulia Shooting Block Foul (P1.T1) (K.Mauer),Foul,Shooting Block,1,0
+22,21,PT09M17.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+23,22,PT09M17.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+24,23,PT09M17.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+25,25,PT09M16.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,Pachulia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+26,26,PT08M54.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,6,16,2,Made,1,6,8,14,v,Pachulia 2' Layup (4 PTS) (D. Williams 1 AST),Made Shot,Layup Shot,1,0
+27,27,PT08M40.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,6,21,2,Made,1,8,8,16,h,Mbah a Moute 2' Cutting Finger Roll Layup Shot (2 PTS) (Paul 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,0
+28,28,PT08M14.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,-47,82,9,Missed,1,0,0,0,v,MISS Matthews 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+29,29,PT08M11.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+30,30,PT08M07.00S,1,1610612746,LAC,200755,Redick,J. Redick,-181,16,18,Made,1,10,8,18,h,Redick 18' Running Pull-Up Jump Shot (6 PTS) (Griffin 1 AST),Made Shot,Running Pull-Up Jump Shot,1,0
+31,31,PT07M48.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-197,2,20,Missed,1,0,0,0,v,MISS Nowitzki 20' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+32,32,PT07M46.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+33,34,PT07M35.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-194,7,19,Missed,1,0,0,0,h,MISS Griffin 19' Jump Shot,Missed Shot,Jump Shot,1,0
+34,35,PT07M34.00S,1,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+35,36,PT07M28.00S,1,1610612742,DAL,101114,Williams,D. Williams,-14,26,3,Missed,1,0,0,0,v,MISS D. Williams 3' Running Layup,Missed Shot,Running Layup Shot,1,0
+36,36,PT07M28.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute BLOCK (1 BLK),,,1,0
+37,37,PT07M21.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+38,38,PT07M13.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-71,169,18,Missed,1,0,0,0,h,MISS Griffin 18' Jump Shot,Missed Shot,Jump Shot,1,0
+39,39,PT07M12.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+40,40,PT07M10.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,12,38,4,Missed,1,0,0,0,h,MISS Jordan 4' Hook Shot,Missed Shot,Hook Shot,1,0
+41,41,PT07M06.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+42,42,PT06M56.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-150,11,15,Made,1,10,10,20,v,Nowitzki 15' Jump Shot (4 PTS) (D. Williams 2 AST),Made Shot,Jump Shot,1,0
+43,43,PT06M33.00S,1,1610612746,LAC,200755,Redick,J. Redick,-63,154,17,Missed,1,0,0,0,h,MISS Redick 17' Jump Shot,Missed Shot,Jump Shot,1,0
+44,44,PT06M32.00S,1,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+45,45,PT06M29.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute S.FOUL (P1.T2) (K.Mauer),Foul,Shooting,1,0
+46,46,PT06M29.00S,1,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,10,11,21,v,D. Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+47,48,PT06M29.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Lee FOR Nowitzki,Substitution,,0,0
+48,49,PT06M29.00S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,SUB: Harris FOR Anderson,Substitution,,0,0
+49,50,PT06M29.00S,1,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: W. Johnson FOR Mbah a Moute,Substitution,,0,0
+50,52,PT06M29.00S,1,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,10,12,22,v,D. Williams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+51,55,PT06M18.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,v,Matthews P.FOUL (P1.T2) (K.Mauer),Foul,Personal,1,0
+52,56,PT06M07.00S,1,1610612746,LAC,101108,Paul,C. Paul,-104,136,17,Missed,1,0,0,0,h,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+53,57,PT06M07.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+54,58,PT06M07.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee L.B.FOUL (P1.T3) (K.Fitzgerald),Foul,Loose Ball,1,0
+55,60,PT05M56.00S,1,1610612746,LAC,200755,Redick,J. Redick,-163,203,26,Made,1,13,12,25,h,Redick 26' 3PT Jump Shot (9 PTS) (Paul 3 AST),Made Shot,Jump Shot,1,0
+56,61,PT05M41.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,Pachulia Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+57,62,PT05M41.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+58,64,PT05M41.00S,1,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,SUB: Felton FOR D. Williams,Substitution,,0,0
+59,65,PT05M16.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-184,90,20,Missed,1,0,0,0,h,MISS Griffin 20' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+60,66,PT05M14.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+61,67,PT04M57.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,-76,252,26,Missed,1,0,0,0,v,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+62,68,PT04M55.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+63,69,PT04M43.00S,1,1610612746,LAC,101108,Paul,C. Paul,-246,-5,25,Missed,1,0,0,0,h,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+64,70,PT04M41.00S,1,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+65,71,PT04M23.00S,1,1610612742,DAL,101109,Felton,R. Felton,53,247,25,Missed,1,0,0,0,v,MISS Felton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+66,72,PT04M20.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+67,73,PT04M03.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-71,198,21,Missed,1,0,0,0,h,MISS Griffin 21' Jump Shot,Missed Shot,Jump Shot,1,0
+68,74,PT04M01.00S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+69,75,PT03M45.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul P.FOUL (P1.T3) (K.Mauer),Foul,Personal,1,0
+70,76,PT03M45.00S,1,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,SUB: Crawford FOR Redick,Substitution,,0,0
+71,77,PT03M45.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,SUB: Green FOR Griffin,Substitution,,0,0
+72,79,PT03M30.00S,1,1610612742,DAL,2734,Harris,D. Harris,-246,-6,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+73,80,PT03M30.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+74,81,PT03M30.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,0
+75,82,PT03M19.00S,1,1610612746,LAC,101108,Paul,C. Paul,105,126,16,Made,1,15,12,27,h,Paul 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+76,83,PT03M04.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,v,Matthews Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0
+77,83,PT03M04.00S,1,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,h,Green STEAL (1 STL),,,1,0
+78,84,PT03M00.00S,1,1610612746,LAC,201145,Green,J. Green,0,1,0,Made,1,17,12,29,h,Green  Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,0
+79,85,PT03M00.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+80,87,PT03M00.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,SUB: Rivers FOR Paul,Substitution,,0,0
+81,89,PT02M38.00S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+82,89,PT02M38.00S,1,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,h,Green STEAL (2 STL),,,1,0
+83,90,PT02M32.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,240,-19,24,Made,1,20,12,32,h,Crawford 24' 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,1,0
+84,91,PT02M11.00S,1,1610612742,DAL,101109,Felton,R. Felton,14,11,2,Made,1,20,14,34,v,Felton 2' Driving Finger Roll Layup (2 PTS) (Matthews 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+85,92,PT02M11.00S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers S.FOUL (P1.T4) (K.Mauer),Foul,Shooting,1,0
+86,93,PT02M11.00S,1,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,SUB: Nowitzki FOR Pachulia,Substitution,,0,0
+87,94,PT02M11.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Matthews,Substitution,,0,0
+88,95,PT02M11.00S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,MISS Felton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+89,97,PT02M08.00S,1,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+90,98,PT01M54.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan OFF.Foul (P1) (K.Fitzgerald),Foul,Offensive,1,0
+91,99,PT01M54.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan Foul Turnover (P1.T2),Turnover,Foul,1,0
+92,100,PT01M44.00S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0
+93,100,PT01M44.00S,1,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,h,Green STEAL (3 STL),,,1,0
+94,101,PT01M40.00S,1,1610612746,LAC,201145,Green,J. Green,0,1,0,Made,1,22,14,36,h,Green  Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,0
+95,102,PT01M16.00S,1,1610612742,DAL,101109,Felton,R. Felton,107,247,27,Made,1,22,17,39,v,Felton 27' 3PT Jump Shot (5 PTS) (Harris 1 AST),Made Shot,Jump Shot,1,0
+96,103,PT00M58.90S,1,1610612746,LAC,201145,Green,J. Green,35,65,7,Missed,1,0,0,0,h,MISS Green 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+97,104,PT00M55.60S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+98,105,PT00M49.80S,1,1610612742,DAL,101109,Felton,R. Felton,20,18,3,Made,1,22,19,41,v,Felton 3' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,0
+99,106,PT00M37.90S,1,1610612746,LAC,201145,Green,J. Green,-81,257,27,Missed,1,0,0,0,h,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+100,107,PT00M35.90S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+101,108,PT00M29.40S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers P.FOUL (P2.PN) (E.Dalen),Foul,Personal,1,0
+102,110,PT00M29.40S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,22,20,42,v,Felton Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+103,112,PT00M29.40S,1,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,22,21,43,v,Felton Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+104,114,PT00M07.50S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris S.FOUL (P1.T4) (K.Fitzgerald),Foul,Shooting,1,0
+105,115,PT00M07.50S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,23,21,44,h,Crawford Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0
+106,117,PT00M07.50S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,MISS Crawford Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0
+107,118,PT00M07.50S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+108,119,PT00M07.50S,1,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Rivers,Substitution,,0,0
+109,120,PT00M07.50S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,SUB: Aldrich FOR Jordan,Substitution,,0,0
+110,121,PT00M07.50S,1,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,MISS Crawford Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0
+111,123,PT00M06.60S,1,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+112,124,PT00M01.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,53,252,26,Missed,1,0,0,0,v,MISS Nowitzki 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+113,125,PT00M00.00S,1,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+114,126,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,21,44,,End of 1st Period (4:07 PM EST),period,end,0,0
+115,128,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,21,44,,Start of 2nd Period (4:09 PM EST),period,start,0,0
+116,129,PT11M42.00S,2,1610612746,LAC,203085,Rivers,A. Rivers,-1,56,6,Missed,1,0,0,0,h,MISS Rivers 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+117,129,PT11M42.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton BLOCK (1 BLK),,,1,0
+118,130,PT11M40.00S,2,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+119,131,PT11M40.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0
+120,132,PT11M40.00S,2,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,23,22,45,v,Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+121,134,PT11M40.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,SUB: D. Williams FOR Harris,Substitution,,0,0
+122,135,PT11M40.00S,2,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,23,23,46,v,Anderson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+123,137,PT11M27.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,127,244,28,Made,1,26,23,49,h,Crawford 28' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,0
+124,138,PT11M09.00S,2,1610612742,DAL,1626147,Anderson,J. Anderson,104,247,27,Missed,1,0,0,0,v,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+125,139,PT11M07.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+126,140,PT10M54.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,133,223,26,Missed,1,0,0,0,h,MISS Crawford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+127,141,PT10M53.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+128,142,PT10M47.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich Personal Block Foul (P1.T2) (K.Fitzgerald),Foul,Personal Block,1,0
+129,143,PT10M47.00S,2,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,h,SUB: Prigioni FOR W. Johnson,Substitution,,0,0
+130,144,PT10M47.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Mejri FOR Lee,Substitution,,0,0
+131,145,PT10M40.00S,2,1610612742,DAL,101109,Felton,R. Felton,-9,56,6,Made,1,26,25,51,v,Felton 6' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,0
+132,147,PT10M30.00S,2,1610612746,LAC,203085,Rivers,A. Rivers,68,41,8,Missed,1,0,0,0,h,MISS Rivers 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+133,148,PT10M28.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+134,149,PT10M21.00S,2,1610612742,DAL,101109,Felton,R. Felton,1,61,6,Made,1,26,27,53,v,Felton 6' Turnaround Hook Shot (13 PTS),Made Shot,Turnaround Hook Shot,1,0
+135,150,PT09M59.00S,2,1610612746,LAC,201145,Green,J. Green,24,18,3,Missed,1,0,0,0,h,MISS Green 3' Jump Shot,Missed Shot,Jump Shot,1,0
+136,150,PT09M59.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri BLOCK (1 BLK),,,1,0
+137,151,PT09M57.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+138,152,PT09M53.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,112,264,29,Made,1,29,27,56,h,Crawford 29' 3PT Jump Shot (10 PTS) (Aldrich 1 AST),Made Shot,Jump Shot,1,0
+139,153,PT09M44.00S,2,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,h,Prigioni Shooting Block Foul (P1.T3) (K.Mauer),Foul,Shooting Block,1,0
+140,154,PT09M44.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,MISS Mejri Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+141,155,PT09M44.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+142,156,PT09M44.00S,2,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,SUB: Paul FOR Rivers,Substitution,,0,0
+143,157,PT09M44.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,29,28,57,v,Mejri Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+144,159,PT09M33.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+145,159,PT09M33.00S,2,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson STEAL (1 STL),,,1,0
+146,160,PT09M21.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,CLIPPERS T.Foul (Def. 3 Sec Aldrich ) (K.Mauer),Foul,Defense 3 Second,1,0
+147,161,PT09M21.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,29,29,58,v,Nowitzki Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+148,163,PT09M18.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0
+149,163,PT09M18.00S,2,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,h,Prigioni STEAL (1 STL),,,1,0
+150,165,PT09M09.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri Violation:Defensive Goaltending (K.Fitzgerald),Violation,Defensive Goaltending,0,0
+151,164,PT09M09.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,6,38,4,Made,1,31,29,60,h,Aldrich 4' Turnaround Hook Shot (2 PTS) (Paul 4 AST),Made Shot,Turnaround Hook Shot,1,0
+152,167,PT08M49.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,28,7,3,Missed,1,0,0,0,v,MISS Mejri 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+153,168,PT08M46.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+154,170,PT08M41.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri Violation:Defensive Goaltending (E.Dalen),Violation,Defensive Goaltending,0,0
+155,169,PT08M41.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-16,23,3,Made,1,33,29,62,h,Crawford 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,0
+156,172,PT08M27.00S,2,1610612742,DAL,101114,Williams,D. Williams,-189,126,23,Made,1,33,31,64,v,D. Williams 23' Jump Shot (6 PTS) (Felton 1 AST),Made Shot,Jump Shot,1,0
+157,173,PT08M15.00S,2,1610612746,LAC,201145,Green,J. Green,9,31,3,Missed,1,0,0,0,h,MISS Green 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+158,174,PT08M12.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+159,175,PT08M06.00S,2,1610612742,DAL,101114,Williams,D. Williams,-179,170,25,Missed,1,0,0,0,v,MISS D. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+160,176,PT08M04.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+161,177,PT07M50.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,-32,18,4,Made,1,35,31,66,h,Aldrich 4' Reverse Layup (4 PTS) (Crawford 1 AST),Made Shot,Reverse Layup Shot,1,0
+162,178,PT07M49.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+163,181,PT07M49.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,SUB: Redick FOR Crawford,Substitution,,0,0
+164,182,PT07M49.00S,2,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,h,SUB: Griffin FOR Green,Substitution,,0,0
+165,183,PT07M49.00S,2,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,SUB: Harris FOR Anderson,Substitution,,0,0
+166,184,PT07M49.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Lee FOR Nowitzki,Substitution,,0,0
+167,185,PT07M49.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,SUB: Matthews FOR Felton,Substitution,,0,0
+168,186,PT07M23.00S,2,1610612742,DAL,2734,Harris,D. Harris,187,2,19,Missed,1,0,0,0,v,MISS Harris 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+169,187,PT07M23.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+170,188,PT07M23.00S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,0
+171,189,PT07M12.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,-6,65,7,Missed,1,0,0,0,h,MISS Aldrich 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+172,190,PT07M09.00S,2,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+173,191,PT06M59.00S,2,1610612742,DAL,101114,Williams,D. Williams,101,57,12,Made,1,35,33,68,v,D. Williams 12' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,0
+174,192,PT06M43.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,123,105,16,Made,1,37,33,70,h,Griffin 16' Jump Shot (4 PTS) (Paul 5 AST),Made Shot,Jump Shot,1,0
+175,193,PT06M19.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,135,-11,14,Made,1,37,35,72,v,Matthews 14' Jump Shot (2 PTS),Made Shot,Jump Shot,1,0
+176,194,PT06M04.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,-122,105,16,Missed,1,0,0,0,h,MISS Griffin 16' Jump Shot,Missed Shot,Jump Shot,1,0
+177,195,PT06M03.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+178,196,PT05M43.00S,2,1610612742,DAL,101114,Williams,D. Williams,-168,218,28,Missed,1,0,0,0,v,MISS D. Williams 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+179,197,PT05M41.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+180,198,PT05M37.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+181,200,PT05M37.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,SUB: Pachulia FOR Mejri,Substitution,,0,0
+182,201,PT05M37.00S,2,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,SUB: Jordan FOR Aldrich,Substitution,,0,0
+183,202,PT05M18.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,-2,21,2,Made,1,39,35,74,h,Jordan 2' Layup (2 PTS) (Griffin 2 AST),Made Shot,Layup Shot,1,0
+184,203,PT04M55.00S,2,1610612742,DAL,101114,Williams,D. Williams,-122,92,15,Missed,1,0,0,0,v,MISS D. Williams 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+185,204,PT04M53.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+186,205,PT04M49.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee S.FOUL (P2.T1) (E.Dalen),Foul,Shooting,1,0
+187,206,PT04M49.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,40,35,75,h,Jordan Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+188,209,PT04M49.00S,2,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,SUB: Felton FOR D. Williams,Substitution,,0,0
+189,210,PT04M49.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+190,212,PT04M48.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+191,213,PT04M29.00S,2,1610612742,DAL,101135,Lee,D. Lee,-43,31,5,Missed,1,0,0,0,v,MISS Lee 5' Hook Shot,Missed Shot,Hook Shot,1,0
+192,214,PT04M27.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+193,215,PT04M17.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,-42,149,15,Missed,1,0,0,0,h,MISS Griffin 15' Jump Shot,Missed Shot,Jump Shot,1,0
+194,216,PT04M16.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+195,217,PT04M16.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,v,Matthews P.FOUL (P2.T2) (K.Fitzgerald),Foul,Personal,1,0
+196,218,PT04M16.00S,2,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Nowitzki FOR Lee,Substitution,,0,0
+197,220,PT04M16.00S,2,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,SUB: Mejri FOR Pachulia,Substitution,,0,0
+198,221,PT04M13.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton P.FOUL (P1.T3) (K.Fitzgerald),Foul,Personal,1,0
+199,222,PT03M59.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,-34,18,4,Missed,1,0,0,0,h,MISS Griffin 4' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+200,223,PT03M56.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+201,224,PT03M53.00S,2,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,h,Prigioni Shooting Block Foul (P2.T4) (K.Fitzgerald),Foul,Shooting Block,1,0
+202,225,PT03M53.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,40,36,76,v,Felton Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+203,227,PT03M53.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,40,37,77,v,Felton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+204,229,PT03M31.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,-24,13,3,Missed,1,0,0,0,h,MISS Griffin 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+205,230,PT03M29.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+206,231,PT03M23.00S,2,1610612742,DAL,2734,Harris,D. Harris,-238,31,24,Made,1,40,40,80,v,Harris 24' 3PT Jump Shot (3 PTS) (Felton 2 AST),Made Shot,Jump Shot,1,0
+207,232,PT03M12.00S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Personal Block Foul (P2.T4) (K.Mauer),Foul,Personal Block,1,0
+208,233,PT03M12.00S,2,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,h,SUB: Crawford FOR Prigioni,Substitution,,0,0
+209,234,PT02M54.00S,2,1610612746,LAC,101108,Paul,C. Paul,23,192,19,Missed,1,0,0,0,h,MISS Paul 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+210,235,PT02M51.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+211,236,PT02M35.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin P.FOUL (P2.PN) (K.Fitzgerald),Foul,Personal,1,0
+212,237,PT02M35.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+213,239,PT02M35.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,40,41,81,v,Nowitzki Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+214,241,PT02M35.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,40,42,82,v,Nowitzki Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+215,243,PT02M20.00S,2,1610612746,LAC,200755,Redick,J. Redick,-259,7,26,Made,1,43,42,85,h,Redick 26' 3PT Jump Shot (12 PTS) (Paul 6 AST),Made Shot,Jump Shot,1,0
+216,244,PT02M04.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,135,121,18,Made,1,43,44,87,v,Nowitzki 18' Turnaround Jump Shot (9 PTS) (Matthews 2 AST),Made Shot,Turnaround Jump Shot,1,0
+217,245,PT01M45.00S,2,1610612746,LAC,101108,Paul,C. Paul,148,141,20,Missed,1,0,0,0,h,MISS Paul 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+218,246,PT01M42.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+219,247,PT01M22.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,101,234,25,Missed,1,0,0,0,v,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+220,248,PT01M21.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+221,249,PT01M11.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,132,95,16,Made,1,45,44,89,h,Crawford 16' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,0
+222,250,PT00M57.90S,2,1610612742,DAL,101109,Felton,R. Felton,-29,116,12,Missed,1,0,0,0,v,MISS Felton 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+223,251,PT00M53.80S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+224,252,PT00M51.90S,2,1610612746,LAC,101108,Paul,C. Paul,-4,18,2,Made,1,47,44,91,h,Paul 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,0
+225,253,PT00M51.90S,2,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+226,255,PT00M33.80S,2,1610612742,DAL,202083,Matthews,W. Matthews,-176,214,28,Made,1,47,47,94,v,Matthews 28' 3PT Step Back Jump Shot (5 PTS) (Felton 3 AST),Made Shot,Step Back Jump shot,1,0
+227,256,PT00M32.30S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri Personal Take Foul (P1.PN) (E.Dalen),Foul,Personal Take,1,0
+228,257,PT00M32.30S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+229,258,PT00M32.30S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+230,259,PT00M32.30S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,SUB: Mbah a Moute FOR Crawford,Substitution,,0,0
+231,260,PT00M32.30S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,SUB: Prigioni FOR Griffin,Substitution,,0,0
+232,261,PT00M32.30S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+233,263,PT00M30.90S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+234,264,PT00M14.90S,2,1610612742,DAL,101109,Felton,R. Felton,12,26,3,Missed,1,0,0,0,v,MISS Felton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+235,264,PT00M14.90S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan BLOCK (1 BLK),,,1,0
+236,265,PT00M11.50S,2,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+237,266,PT00M08.00S,2,1610612742,DAL,2734,Harris,D. Harris,-250,7,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+238,267,PT00M08.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+239,268,PT00M08.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+240,269,PT00M08.00S,2,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: W. Johnson FOR Mbah a Moute,Substitution,,0,0
+241,270,PT00M08.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,SUB: Griffin FOR Jordan,Substitution,,0,0
+242,271,PT00M08.00S,2,1610612746,LAC,203143,Prigioni,P. Prigioni,0,0,0,,0,0,0,0,h,SUB: Crawford FOR Prigioni,Substitution,,0,0
+243,272,PT00M08.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Nowitzki,Substitution,,0,0
+244,273,PT00M01.90S,2,1610612746,LAC,200755,Redick,J. Redick,55,16,6,Made,1,49,47,96,h,Redick 6' Driving Floating Jump Shot (14 PTS) (Paul 7 AST),Made Shot,Driving Floating Jump Shot,1,0
+245,274,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,47,96,,End of 2nd Period (4:40 PM EST),period,end,0,0
+246,276,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,47,96,,Start of 3rd Period (4:56 PM EST),period,start,0,0
+247,277,PT11M42.00S,3,1610612746,LAC,200755,Redick,J. Redick,119,151,19,Missed,1,0,0,0,h,MISS Redick 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+248,277,PT11M42.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,Pachulia BLOCK (2 BLK),,,1,0
+249,278,PT11M42.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+250,280,PT11M39.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,87,169,19,Missed,1,0,0,0,h,MISS Griffin 19' Jump Shot,Missed Shot,Jump Shot,1,0
+251,281,PT11M38.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+252,282,PT11M31.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin S.FOUL (P3.T1) (K.Fitzgerald),Foul,Shooting,1,0
+253,283,PT11M31.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,MISS Pachulia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+254,284,PT11M31.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+255,285,PT11M31.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,49,48,97,v,Pachulia Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+256,287,PT11M12.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,1,23,2,Made,1,51,48,99,h,Jordan 2' Finger Roll Layup (5 PTS) (Paul 8 AST),Made Shot,Finger Roll Layup Shot,1,0
+257,288,PT11M12.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+258,289,PT11M00.00S,3,1610612742,DAL,101114,Williams,D. Williams,-91,129,16,Missed,1,0,0,0,v,MISS D. Williams 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+259,290,PT10M57.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+260,291,PT10M42.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki S.FOUL (P1.T1) (K.Fitzgerald),Foul,Shooting,1,0
+261,292,PT10M42.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+262,293,PT10M42.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+263,294,PT10M42.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+264,296,PT10M40.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+265,297,PT10M22.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,101,85,13,Missed,1,0,0,0,v,MISS Nowitzki 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+266,298,PT10M18.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,Pachulia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+267,299,PT10M17.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,-4,16,2,Missed,1,0,0,0,v,MISS Pachulia 2' Putback Layup,Missed Shot,Putback Layup Shot,1,0
+268,300,PT10M16.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+269,301,PT10M08.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute Traveling Turnover (P1.T4),Turnover,Traveling,1,0
+270,302,PT09M59.00S,3,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+271,303,PT09M47.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,1,0
+272,304,PT09M47.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+273,305,PT09M47.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+274,306,PT09M47.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+275,308,PT09M46.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,Pachulia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+276,309,PT09M36.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,92,232,25,Made,1,51,51,102,v,Nowitzki 25' 3PT Jump Shot (12 PTS) (D. Williams 3 AST),Made Shot,Jump Shot,1,0
+277,310,PT09M22.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki Shooting Block Foul (P2.T3) (K.Mauer),Foul,Shooting Block,1,0
+278,311,PT09M22.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,MISS Griffin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+279,312,PT09M22.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+280,313,PT09M22.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,52,51,103,h,Griffin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+281,316,PT09M05.00S,3,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0
+282,316,PT09M05.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute STEAL (1 STL),,,1,0
+283,317,PT09M05.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson P.FOUL (P3.T4) (K.Mauer),Foul,Personal,1,0
+284,318,PT08M51.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-34,21,4,Made,1,54,51,105,h,Griffin 4' Driving Hook Shot (7 PTS),Made Shot,Driving Hook Shot,1,0
+285,319,PT08M27.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,128,70,15,Missed,1,0,0,0,v,MISS Matthews 15' Jump Shot,Missed Shot,Jump Shot,1,0
+286,320,PT08M26.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+287,321,PT08M13.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-4,23,2,Made,1,56,51,107,h,Griffin 2' Cutting Finger Roll Layup Shot (9 PTS) (Paul 9 AST),Made Shot,Cutting Finger Roll Layup Shot,1,0
+288,322,PT08M13.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+289,324,PT07M47.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,-56,174,18,Missed,1,0,0,0,v,MISS Matthews 18' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+290,325,PT07M47.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+291,326,PT07M47.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,SUB: Felton FOR Anderson,Substitution,,0,0
+292,327,PT07M46.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute S.FOUL (P2.T2) (K.Mauer),Foul,Shooting,1,0
+293,328,PT07M46.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,56,52,108,v,Matthews Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+294,330,PT07M46.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,56,53,109,v,Matthews Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+295,332,PT07M45.00S,3,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams Personal Take Foul (P1.PN) (E.Dalen),Foul,Personal Take,1,0
+296,334,PT07M45.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+297,335,PT07M45.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+298,336,PT07M45.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+299,338,PT07M44.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,Pachulia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+300,339,PT07M27.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-132,228,26,Missed,1,0,0,0,v,MISS Nowitzki 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+301,340,PT07M25.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+302,341,PT07M21.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+303,343,PT07M01.00S,3,1610612742,DAL,101109,Felton,R. Felton,128,218,25,Missed,1,0,0,0,v,MISS Felton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+304,344,PT07M00.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+305,345,PT06M43.00S,3,1610612746,LAC,200755,Redick,J. Redick,-127,252,28,Made,1,59,53,112,h,Redick 28' 3PT Jump Shot (17 PTS) (Griffin 3 AST),Made Shot,Jump Shot,1,0
+306,346,PT06M24.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,-70,259,27,Missed,1,0,0,0,v,MISS Matthews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+307,347,PT06M23.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+308,350,PT06M20.00S,3,1610612742,DAL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0,0,0,v,SUB: Mejri FOR Pachulia,Substitution,,0,0
+309,351,PT06M12.00S,3,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Personal Take Foul (P3.PN) (K.Mauer),Foul,Personal Take,1,0
+310,352,PT06M12.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+311,353,PT06M12.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+312,354,PT06M12.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+313,356,PT06M10.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+314,357,PT06M06.00S,3,1610612746,LAC,200755,Redick,J. Redick,97,228,25,Made,1,62,53,115,h,Redick 25' 3PT Jump Shot (20 PTS) (Griffin 4 AST),Made Shot,Jump Shot,1,0
+315,358,PT05M40.00S,3,1610612742,DAL,101109,Felton,R. Felton,35,38,5,Made,1,62,55,117,v,Felton 5' Driving Floating Jump Shot (17 PTS) (Matthews 3 AST),Made Shot,Driving Floating Jump Shot,1,0
+316,359,PT05M37.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri Personal Take Foul (P2.PN) (K.Fitzgerald),Foul,Personal Take,1,0
+317,360,PT05M37.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,63,55,118,h,Jordan Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+318,363,PT05M37.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Lee FOR Nowitzki,Substitution,,0,0
+319,364,PT05M37.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+320,366,PT05M36.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+321,367,PT05M31.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0
+322,367,PT05M31.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin STEAL (1 STL),,,1,0
+323,368,PT05M27.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+324,368,PT05M27.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri STEAL (1 STL),,,1,0
+325,369,PT05M24.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,v,Matthews Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0
+326,369,PT05M24.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,Mbah a Moute STEAL (2 STL),,,1,0
+327,370,PT05M24.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,v,Matthews T.FOUL (P2.PN) (E.Dalen),Foul,Technical,0,0
+328,371,PT05M24.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,64,55,119,h,Paul Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0
+329,373,PT05M24.00S,3,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,SUB: Harris FOR D. Williams,Substitution,,0,0
+330,374,PT05M15.00S,3,1610612746,LAC,101108,Paul,C. Paul,-184,203,27,Missed,1,0,0,0,h,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+331,375,PT05M14.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+332,376,PT04M56.00S,3,1610612742,DAL,101109,Felton,R. Felton,-106,249,27,Missed,1,0,0,0,v,MISS Felton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+333,377,PT04M54.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+334,378,PT04M39.00S,3,1610612746,LAC,101108,Paul,C. Paul,69,247,26,Missed,1,0,0,0,h,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+335,379,PT04M38.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+336,380,PT04M38.00S,3,1610612746,LAC,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,h,SUB: Crawford FOR Mbah a Moute,Substitution,,0,0
+337,381,PT04M13.00S,3,1610612742,DAL,2734,Harris,D. Harris,-171,116,21,Made,1,64,57,121,v,Harris 21' Jump Shot (5 PTS),Made Shot,Jump Shot,1,0
+338,382,PT04M13.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Violation: Delay of game Violation,Violation,Delay Of Game,0,0
+339,383,PT04M07.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri Shooting Block Foul (P3.PN) (E.Dalen),Foul,Shooting Block,1,0
+340,384,PT04M07.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,65,57,122,h,Griffin Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+341,386,PT04M07.00S,3,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,SUB: Green FOR Redick,Substitution,,0,0
+342,387,PT04M07.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,MISS Griffin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+343,389,PT04M05.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+344,403,PT03M58.00S,3,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0
+345,403,PT03M58.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin STEAL (2 STL),,,1,0
+346,415,PT03M56.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0
+347,415,PT03M56.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee STEAL (1 STL),,,1,0
+348,390,PT03M46.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin S.FOUL (P4.T3) (K.Fitzgerald),Foul,Shooting,1,0
+349,391,PT03M46.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,65,58,123,v,Lee Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+350,393,PT03M46.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,SUB: W. Johnson FOR Griffin,Substitution,,0,0
+351,394,PT03M46.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,65,59,124,v,Lee Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+352,396,PT03M45.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris Personal Take Foul (P2.PN) (E.Dalen),Foul,Personal Take,1,0
+353,397,PT03M45.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,66,59,125,h,Jordan Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+354,399,PT03M45.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,67,59,126,h,Jordan Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+355,401,PT03M28.00S,3,1610612742,DAL,101135,Lee,D. Lee,43,28,5,Missed,1,0,0,0,v,MISS Lee 5' Hook Shot,Missed Shot,Hook Shot,1,0
+356,401,PT03M28.00S,3,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,h,W. Johnson BLOCK (1 BLK),,,1,0
+357,402,PT03M27.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+358,404,PT03M24.00S,3,1610612746,LAC,201145,Green,J. Green,2,36,4,Made,1,69,59,128,h,Green 4' Running Finger Roll Layup (6 PTS) (Paul 10 AST),Made Shot,Running Finger Roll Layup Shot,1,0
+359,405,PT03M24.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris S.FOUL (P3.PN) (E.Dalen),Foul,Shooting,1,0
+360,406,PT03M24.00S,3,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,70,59,129,h,Green Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+361,408,PT03M05.00S,3,1610612742,DAL,101109,Felton,R. Felton,148,223,27,Missed,1,0,0,0,v,MISS Felton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+362,409,PT03M03.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+363,410,PT02M50.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,v,Matthews Lost Ball Turnover (P3.T15),Turnover,Lost Ball,1,0
+364,410,PT02M50.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford STEAL (1 STL),,,1,0
+365,411,PT02M44.00S,3,1610612746,LAC,101108,Paul,C. Paul,14,18,2,Missed,1,0,0,0,h,MISS Paul 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+366,412,PT02M39.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+367,413,PT02M34.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,-73,272,28,Missed,1,0,0,0,v,MISS Matthews 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+368,414,PT02M31.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+369,416,PT02M22.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,-43,116,12,Missed,1,0,0,0,h,MISS Crawford 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+370,417,PT02M21.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,Mejri REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+371,418,PT02M11.00S,3,1610612742,DAL,2734,Harris,D. Harris,-246,2,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+372,419,PT02M11.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+373,420,PT02M11.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+374,422,PT02M11.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,SUB: Rivers FOR Paul,Substitution,,0,0
+375,423,PT02M11.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Matthews,Substitution,,0,0
+376,424,PT02M11.00S,3,1610612742,DAL,101135,Lee,D. Lee,0,0,0,,0,0,0,0,v,SUB: Nowitzki FOR Lee,Substitution,,0,0
+377,425,PT02M11.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,0,0,0,v,SUB: D. Williams FOR Mejri,Substitution,,0,0
+378,426,PT01M52.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,14,26,3,Made,1,72,59,131,h,Jordan 3' Finger Roll Layup (10 PTS) (Crawford 2 AST),Made Shot,Finger Roll Layup Shot,1,0
+379,427,PT01M52.00S,3,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams S.FOUL (P2.PN) (K.Fitzgerald),Foul,Shooting,1,0
+380,428,PT01M52.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+381,430,PT01M52.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+382,431,PT01M52.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,SUB: Aldrich FOR Jordan,Substitution,,0,0
+383,432,PT01M41.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,84,252,27,Missed,1,0,0,0,v,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+384,433,PT01M39.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+385,434,PT01M33.00S,3,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams P.FOUL (P3.PN) (K.Mauer),Foul,Personal,1,0
+386,435,PT01M33.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,73,59,132,h,Crawford Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+387,437,PT01M33.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,74,59,133,h,Crawford Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+388,439,PT01M23.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich S.FOUL (P2.T4) (K.Mauer),Foul,Shooting,1,0
+389,440,PT01M23.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,MISS Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+390,441,PT01M23.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+391,442,PT01M23.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+392,444,PT01M20.00S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:1 Def:6),Rebound,Unknown,1,0
+393,445,PT01M00.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,45,41,6,Made,1,76,59,135,h,Crawford 6' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,0
+394,446,PT01M00.00S,3,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Short (Reg.3 Short 2),Timeout,Short,0,0
+395,448,PT01M00.00S,3,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,SUB: Villanueva FOR Anderson,Substitution,,0,0
+396,449,PT00M45.90S,3,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Bad Pass Turnover (P4.T16),Turnover,Bad Pass,1,0
+397,449,PT00M45.90S,3,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers STEAL (1 STL),,,1,0
+398,451,PT00M41.40S,3,1610612746,LAC,203085,Rivers,A. Rivers,-7,16,2,Missed,1,0,0,0,h,MISS Rivers 2' Running Layup,Missed Shot,Running Layup Shot,1,0
+399,451,PT00M41.40S,3,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton BLOCK (2 BLK),,,1,0
+400,452,PT00M41.40S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+401,453,PT00M34.90S,3,1610612746,LAC,2037,Crawford,J. Crawford,64,262,27,Missed,1,0,0,0,h,MISS Crawford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+402,454,PT00M32.90S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+403,455,PT00M22.90S,3,1610612742,DAL,101111,Villanueva,C. Villanueva,-35,11,4,Missed,1,0,0,0,v,MISS Villanueva 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+404,455,PT00M22.90S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich BLOCK (1 BLK),,,1,0
+405,456,PT00M17.90S,3,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,h,W. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+406,457,PT00M01.90S,3,1610612746,LAC,2037,Crawford,J. Crawford,99,136,17,Missed,1,0,0,0,h,MISS Crawford 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+407,458,PT00M01.10S,3,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+408,461,PT00M00.00S,3,0,,459,,,0,0,0,,0,0,0,0,,Support Ruling,Instant Replay,Support Ruling,0,0
+409,462,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,59,135,,End of 3rd Period (5:34 PM EST),period,end,0,0
+410,464,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,59,135,,Start of 4th Period (5:36 PM EST),period,start,0,0
+411,465,PT11M46.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-4,26,3,Made,1,76,61,137,v,Nowitzki 3' Layup (14 PTS) (Villanueva 1 AST),Made Shot,Layup Shot,1,0
+412,466,PT11M20.00S,4,1610612746,LAC,201145,Green,J. Green,-142,-15,14,Made,1,78,61,139,h,Green 14' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+413,467,PT11M01.00S,4,1610612742,DAL,2734,Harris,D. Harris,256,11,26,Made,1,78,64,142,v,Harris 26' 3PT Jump Shot (8 PTS) (Villanueva 2 AST),Made Shot,Jump Shot,1,0
+414,468,PT10M30.00S,4,1610612746,LAC,201145,Green,J. Green,-27,75,8,Missed,1,0,0,0,h,MISS Green 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,0
+415,469,PT10M28.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,Nowitzki REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+416,470,PT10M19.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,14,31,3,Missed,1,0,0,0,v,MISS Villanueva 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+417,470,PT10M19.00S,4,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,h,Green BLOCK (1 BLK),,,1,0
+418,471,PT10M19.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+419,472,PT10M19.00S,4,1610612746,LAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,SUB: Griffin FOR Aldrich,Substitution,,0,0
+420,474,PT10M11.00S,4,1610612742,DAL,101114,Williams,D. Williams,153,77,17,Made,1,78,66,144,v,D. Williams 17' Pullup Jump Shot (10 PTS) (Nowitzki 2 AST),Made Shot,Pullup Jump shot,1,0
+421,475,PT09M47.00S,4,1610612746,LAC,201145,Green,J. Green,-101,106,15,Made,1,80,66,146,h,Green 15' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,1,0
+422,476,PT09M37.00S,4,1610612742,DAL,101114,Williams,D. Williams,9,16,2,Made,1,80,68,148,v,D. Williams 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,0
+423,477,PT09M15.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,-122,259,29,Missed,1,0,0,0,h,MISS Rivers 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+424,478,PT09M13.00S,4,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+425,479,PT09M00.00S,4,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,h,W. Johnson S.FOUL (P1.T1) (K.Fitzgerald),Foul,Shooting,1,0
+426,480,PT09M00.00S,4,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,MISS D. Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+427,481,PT09M00.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+428,482,PT09M00.00S,4,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,MISS D. Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+429,484,PT08M59.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+430,485,PT08M42.00S,4,1610612746,LAC,202325,Johnson,W. Johnson,-253,16,25,Made,1,83,68,151,h,W. Johnson 25' 3PT Jump Shot (3 PTS) (Griffin 5 AST),Made Shot,Jump Shot,1,0
+431,486,PT08M41.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,0
+432,488,PT08M41.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Nowitzki,Substitution,,0,0
+433,489,PT08M41.00S,4,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,SUB: Powell FOR Felton,Substitution,,0,0
+434,491,PT08M28.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,9,11,1,Missed,1,0,0,0,v,MISS Villanueva 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+435,493,PT08M26.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+436,492,PT08M26.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,-1,7,1,Made,1,83,70,153,v,Villanueva 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,0
+437,494,PT08M13.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,Rivers Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0
+438,494,PT08M13.00S,4,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams STEAL (1 STL),,,1,0
+439,495,PT08M11.00S,4,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,h,W. Johnson S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,1,0
+440,496,PT08M11.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,83,71,154,v,Anderson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+441,498,PT08M11.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+442,500,PT08M09.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+443,501,PT07M55.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+444,501,PT07M55.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,Harris STEAL (1 STL),,,1,0
+445,502,PT07M51.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,1,0,Made,1,83,73,156,v,Powell  Running Alley Oop Dunk Shot (2 PTS) (Anderson 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,0
+446,503,PT07M38.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,66,110,13,Missed,1,0,0,0,h,MISS Crawford 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+447,504,PT07M36.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,0,0,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+448,505,PT07M36.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford T.FOUL (P1.T2) (K.Fitzgerald),Foul,Technical,0,0
+449,506,PT07M36.00S,4,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,83,74,157,v,D. Williams Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,0,0
+450,508,PT07M36.00S,4,1610612746,LAC,203085,Rivers,A. Rivers,0,0,0,,0,0,0,0,h,SUB: Paul FOR Rivers,Substitution,,0,0
+451,509,PT07M36.00S,4,1610612746,LAC,202325,Johnson,W. Johnson,0,0,0,,0,0,0,0,h,SUB: Redick FOR W. Johnson,Substitution,,0,0
+452,510,PT07M29.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul P.FOUL (P2.T3) (K.Fitzgerald),Foul,Personal,1,0
+453,511,PT07M20.00S,4,1610612742,DAL,101114,Williams,D. Williams,112,100,15,Made,1,83,76,159,v,D. Williams 15' Pullup Bank Shot (15 PTS),Made Shot,Pullup Bank shot,1,0
+454,512,PT06M55.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0
+455,512,PT06M55.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva STEAL (1 STL),,,1,0
+456,513,PT06M45.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,169,188,25,Missed,1,0,0,0,v,MISS Villanueva 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+457,514,PT06M45.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+458,515,PT06M45.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+459,517,PT06M45.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0,0,0,v,SUB: Felton FOR Harris,Substitution,,0,0
+460,518,PT06M31.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,1,0,Made,1,85,76,161,h,Griffin  Dunk (12 PTS) (Green 2 AST),Made Shot,Dunk Shot,1,0
+461,519,PT06M07.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,153,208,26,Made,1,85,79,164,v,Villanueva 26' 3PT Jump Shot (5 PTS) (Felton 4 AST),Made Shot,Jump Shot,1,0
+462,520,PT05M47.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,32,110,11,Missed,1,0,0,0,h,MISS Crawford 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+463,521,PT05M45.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+464,522,PT05M31.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,-30,26,4,Missed,1,0,0,0,v,MISS Villanueva 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+465,523,PT05M25.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+466,524,PT05M25.00S,4,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,D. Williams P.FOUL (P4.T1) (K.Mauer),Foul,Personal,1,0
+467,525,PT05M25.00S,4,1610612746,LAC,201145,Green,J. Green,0,0,0,,0,0,0,0,h,SUB: Jordan FOR Green,Substitution,,0,0
+468,526,PT05M25.00S,4,1610612742,DAL,101114,Williams,D. Williams,0,0,0,,0,0,0,0,v,SUB: Matthews FOR D. Williams,Substitution,,0,0
+469,527,PT05M15.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,-29,13,3,Missed,1,0,0,0,h,MISS Griffin 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,0
+470,528,PT05M12.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+471,529,PT05M07.00S,4,1610612742,DAL,101109,Felton,R. Felton,101,134,17,Missed,1,0,0,0,v,MISS Felton 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+472,530,PT05M03.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+473,531,PT04M46.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,9,36,4,Made,1,87,79,166,h,Griffin 4' Turnaround Hook Shot (14 PTS),Made Shot,Turnaround Hook Shot,1,0
+474,532,PT04M19.00S,4,1610612742,DAL,101109,Felton,R. Felton,25,18,3,Made,1,87,81,168,v,Felton 3' Jump Bank Shot (19 PTS),Made Shot,Jump Bank Shot,1,0
+475,533,PT04M01.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,1,0,Made,1,89,81,170,h,Jordan  Alley Oop Dunk (12 PTS) (Griffin 6 AST),Made Shot,Alley Oop Dunk Shot,1,0
+476,534,PT03M46.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,141,232,27,Made,1,89,84,173,v,Villanueva 27' 3PT Jump Shot (8 PTS) (Felton 5 AST),Made Shot,Jump Shot,1,0
+477,535,PT03M28.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,1,21,2,Made,1,91,84,175,h,Griffin 2' Cutting Layup Shot (16 PTS) (Paul 11 AST),Made Shot,Cutting Layup Shot,1,0
+478,536,PT03M28.00S,4,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton S.FOUL (P4.T2) (K.Fitzgerald),Foul,Shooting,1,0
+479,537,PT03M28.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,92,84,176,h,Griffin Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0
+480,538,PT03M19.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin S.FOUL (P5.T4) (K.Mauer),Foul,Shooting,1,0
+481,539,PT03M19.00S,4,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,92,85,177,v,Felton Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+482,541,PT03M19.00S,4,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,92,86,178,v,Felton Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+483,543,PT02M58.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-251,-1,25,Made,1,95,86,181,h,Crawford 25' 3PT Jump Shot (21 PTS) (Griffin 7 AST),Made Shot,Jump Shot,1,0
+484,544,PT02M38.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,-73,257,27,Missed,1,0,0,0,v,MISS Villanueva 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+485,545,PT02M37.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+486,546,PT02M25.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva Personal Block Foul (P1.T3) (K.Mauer),Foul,Personal Block,1,0
+487,547,PT02M25.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+488,549,PT02M16.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva P.FOUL (P2.T4) (K.Fitzgerald),Foul,Personal,1,0
+489,552,PT02M16.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 4 Short 2),Timeout,Short,0,0
+490,554,PT02M14.00S,4,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,Felton Personal Take Foul (P5.PN) (K.Fitzgerald),Foul,Personal Take,1,0
+491,555,PT02M14.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+492,556,PT02M14.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+493,557,PT02M14.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,96,86,182,h,Jordan Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+494,559,PT02M02.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,-160,213,27,Missed,1,0,0,0,v,MISS Villanueva 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+495,560,PT02M02.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+496,561,PT02M02.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson L.B.FOUL (P4.PN) (K.Fitzgerald),Foul,Loose Ball,1,0
+497,562,PT02M02.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,97,86,183,h,Crawford Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0
+498,564,PT02M02.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,0,0,0,v,SUB: McGee FOR Matthews,Substitution,,0,0
+499,565,PT02M02.00S,4,1610612742,DAL,101109,Felton,R. Felton,0,0,0,,0,0,0,0,v,SUB: Lee FOR Felton,Substitution,,0,0
+500,566,PT02M02.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,MISS Crawford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+501,568,PT02M01.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+502,569,PT01M48.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,-112,232,26,Missed,1,0,0,0,v,MISS Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+503,570,PT01M47.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,0,0,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+504,571,PT01M45.00S,4,1610612742,DAL,203939,Powell,D. Powell,9,51,5,Made,1,97,88,185,v,Powell 5' Jump Shot (4 PTS),Made Shot,Jump Shot,1,0
+505,572,PT01M22.00S,4,1610612746,LAC,101108,Paul,C. Paul,240,-11,24,Missed,1,0,0,0,h,MISS Paul 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+506,573,PT01M20.00S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+507,574,PT01M15.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,81,57,10,Missed,1,0,0,0,v,MISS Anderson 10' Jump Shot,Missed Shot,Jump Shot,1,0
+508,574,PT01M15.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,Redick BLOCK (1 BLK),,,1,0
+509,575,PT01M15.00S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+510,576,PT01M09.00S,4,1610612742,DAL,201580,McGee,J. McGee,137,90,16,Missed,1,0,0,0,v,MISS McGee 16' Jump Shot,Missed Shot,Jump Shot,1,0
+511,577,PT01M08.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:2 Def:9),Rebound,Unknown,1,0
+512,578,PT00M55.00S,4,1610612742,DAL,1626147,Anderson,J. Anderson,0,0,0,,0,0,0,0,v,Anderson S.FOUL (P5.PN) (E.Dalen),Foul,Shooting,1,0
+513,579,PT00M55.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,98,88,186,h,Jordan Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+514,581,PT00M55.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,SUB: Ayres FOR Griffin,Substitution,,0,0
+515,582,PT00M55.00S,4,1610612746,LAC,200755,Redick,J. Redick,0,0,0,,0,0,0,0,h,SUB: Rivers FOR Redick,Substitution,,0,0
+516,583,PT00M55.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,SUB: Green FOR Paul,Substitution,,0,0
+517,584,PT00M55.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,SUB: Wilcox FOR Crawford,Substitution,,0,0
+518,585,PT00M55.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+519,587,PT00M53.90S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,0,0,0,v,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+520,588,PT00M53.20S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan Personal Take Foul (P2.PN) (K.Fitzgerald),Foul,Personal Take,1,0
+521,589,PT00M53.20S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,0,0,0,v,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+522,590,PT00M53.20S,4,0,,1610612742,,,0,0,0,,0,0,0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+523,591,PT00M53.20S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,SUB: Prigioni FOR Jordan,Substitution,,0,0
+524,592,PT00M53.20S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,0,0,0,v,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+525,594,PT00M51.90S,4,1610612746,LAC,203912,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,h,Wilcox REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+526,595,PT00M34.90S,4,1610612746,LAC,201145,Green,J. Green,-153,239,28,Missed,1,0,0,0,h,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+527,596,PT00M32.90S,4,1610612742,DAL,201580,McGee,J. McGee,0,0,0,,0,0,0,0,v,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+528,597,PT00M24.90S,4,1610612742,DAL,101111,Villanueva,C. Villanueva,-122,228,26,Made,1,98,91,189,v,Villanueva 26' 3PT Step Back Jump Shot (11 PTS) (Anderson 2 AST),Made Shot,Step Back Jump shot,1,0
+529,598,PT00M00.90S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0
+530,599,PT00M00.00S,4,0,,0,,,0,0,0,,0,98,91,189,,End of 4th Period (6:08 PM EST),period,end,0,0

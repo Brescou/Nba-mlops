@@ -1,0 +1,505 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:52 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Jump Ball Nene vs. O'Neal: Tip to Beasley,Jump Ball,,0,0
+3,2,PT11M38.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,-144,28,15,Made,1,0,2,2,v,O'Neal 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+4,3,PT11M22.00S,1,1610612743,DEN,2030,Martin,K. Martin,-67,37,8,Missed,1,0,0,0,h,MISS Martin 8' Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+5,4,PT11M22.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+6,5,PT11M11.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,2,79,8,Missed,1,0,0,0,v,MISS O'Neal 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+7,6,PT11M10.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+8,7,PT10M58.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,Missed,1,0,0,0,h,MISS Martin  Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,0
+9,8,PT10M57.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+10,9,PT10M47.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,129,233,27,Missed,1,0,0,0,v,MISS Chalmers 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+11,10,PT10M47.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+12,11,PT10M35.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,72,45,8,Missed,1,0,0,0,h,MISS Anthony 8' Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+13,12,PT10M34.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+14,13,PT10M31.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,Heat T.Foul (Def. 3 Sec O'Neal ),Foul,Defense 3 Second,0,0
+15,14,PT10M31.00S,1,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,1,2,3,h,Billups Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+16,16,PT10M24.00S,1,1610612743,DEN,2403,Hilario,Nene,-105,43,11,Missed,1,0,0,0,h,MISS Nene 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+17,17,PT10M24.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+18,20,PT10M01.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,95,157,18,Missed,1,0,0,0,v,MISS Beasley 18' Jump Shot,Missed Shot,Jump Shot,0,0
+19,21,PT10M00.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+20,22,PT09M52.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,-154,58,16,Made,1,3,2,5,h,Afflalo 16' Jump Shot (2 PTS) (Billups 1 AST),Made Shot,Jump Shot,0,0
+21,23,PT09M35.00S,1,1610612748,MIA,2548,Wade,D. Wade,-208,131,25,Missed,1,0,0,0,v,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+22,24,PT09M34.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+23,25,PT09M33.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers P.FOUL (P1.T1),Foul,Personal,0,0
+24,26,PT09M25.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+25,26,PT09M25.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson STEAL (1 STL),,,0,0
+26,27,PT09M24.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo P.FOUL (P1.T1),Foul,Personal,0,0
+27,28,PT09M08.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,177,63,19,Missed,1,0,0,0,v,MISS Richardson 19' Jump Shot,Missed Shot,Jump Shot,0,0
+28,29,PT09M07.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+29,30,PT08M51.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,-14,56,6,Made,1,5,2,7,h,Anthony 6' Running Hook Shot (2 PTS),Made Shot,Running Hook Shot,0,0
+30,31,PT08M34.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo S.FOUL (P2.T2),Foul,Shooting,0,0
+31,32,PT08M34.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+32,33,PT08M34.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+33,34,PT08M34.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,5,3,8,v,Wade Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+34,36,PT08M25.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,119,68,14,Missed,1,0,0,0,h,MISS Anthony 14' Jump Shot,Missed Shot,Jump Shot,0,0
+35,37,PT08M24.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+36,38,PT08M14.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,2,76,8,Made,1,5,5,10,v,Chalmers 8' Floating Jump Shot (2 PTS) (Wade 1 AST),Made Shot,Floating Jump shot,0,0
+37,39,PT08M08.00S,1,1610612743,DEN,1497,Billups,C. Billups,-164,116,20,Missed,1,0,0,0,h,MISS Billups 20' Jump Shot,Missed Shot,Jump Shot,0,0
+38,40,PT08M07.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+39,41,PT07M57.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,Made,1,5,7,12,v,Beasley  Layup (2 PTS) (Richardson 1 AST),Made Shot,Layup Shot,0,0
+40,42,PT07M39.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers IN.FOUL (P2.T2),Foul,Inbound,0,0
+41,43,PT07M39.00S,1,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,6,7,13,h,Billups Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+42,45,PT07M39.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,SUB: Jones FOR Chalmers,Substitution,,0,0
+43,46,PT07M39.00S,1,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,7,7,14,h,Billups Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+44,48,PT07M15.00S,1,1610612748,MIA,2592,Jones,J. Jones,98,76,12,Missed,1,0,0,0,v,MISS Jones 12' Jump Shot,Missed Shot,Jump Shot,0,0
+45,49,PT07M14.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Unknown,0,0
+46,50,PT07M02.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,146,202,25,Made,1,10,7,17,h,Afflalo 25' 3PT Jump Shot (5 PTS) (Billups 2 AST),Made Shot,Jump Shot,0,0
+47,51,PT07M02.00S,1,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0,0,0,v,Jones L.B.FOUL (P1.T3),Foul,Loose Ball,0,0
+48,52,PT07M02.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,MISS Nene Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+49,54,PT07M00.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+50,55,PT06M45.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,Missed,1,0,0,0,v,MISS Beasley  Layup,Missed Shot,Layup Shot,0,0
+51,57,PT06M44.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Unknown,0,0
+52,56,PT06M44.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley Traveling Turnover (P1.T1),Turnover,Traveling,0,0
+53,58,PT06M27.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,12,7,19,h,Anthony  Layup (4 PTS),Made Shot,Layup Shot,0,0
+54,59,PT06M20.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+55,63,PT06M10.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+56,63,PT06M10.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin STEAL (1 STL),,,0,0
+57,64,PT06M02.00S,1,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0,0,0,v,Jones S.FOUL (P2.T4),Foul,Shooting,0,0
+58,65,PT06M02.00S,1,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,13,7,20,h,Billups Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+59,67,PT06M02.00S,1,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,MISS Billups Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+60,69,PT06M00.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+61,70,PT05M54.00S,1,1610612743,DEN,1497,Billups,C. Billups,-180,177,25,Missed,1,0,0,0,h,MISS Billups 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+62,71,PT05M54.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+63,72,PT05M48.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo P.FOUL (P3.T3),Foul,Personal,0,0
+64,73,PT05M48.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,SUB: Smith FOR Afflalo,Substitution,,0,0
+65,74,PT05M40.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,-119,83,15,Missed,1,0,0,0,v,MISS Beasley 15' Jump Shot,Missed Shot,Jump Shot,0,0
+66,75,PT05M39.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+67,76,PT05M31.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0,0,0,h,MISS Anthony  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+68,77,PT05M29.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+69,78,PT05M23.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,105,122,16,Made,1,13,9,22,v,Beasley 16' Jump Shot (4 PTS) (Wade 2 AST),Made Shot,Jump Shot,0,0
+70,79,PT05M06.00S,1,1610612743,DEN,1497,Billups,C. Billups,96,17,10,Missed,1,0,0,0,h,MISS Billups 10' Jump Shot,Missed Shot,Jump Shot,0,0
+71,80,PT05M05.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+72,81,PT05M00.00S,1,1610612748,MIA,2548,Wade,D. Wade,50,164,17,Missed,1,0,0,0,v,MISS Wade 17' Jump Shot,Missed Shot,Jump Shot,0,0
+73,83,PT04M59.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+74,82,PT04M58.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,Made,1,13,11,24,v,O'Neal  Layup (4 PTS),Made Shot,Layup Shot,0,0
+75,84,PT04M36.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,15,11,26,h,Nene  Driving Dunk (2 PTS) (Smith 1 AST),Made Shot,Driving Dunk Shot,0,0
+76,85,PT04M24.00S,1,1610612748,MIA,2592,Jones,J. Jones,225,20,0,Made,1,15,14,29,v,Jones  3PT Jump Shot (3 PTS) (Wade 3 AST),Made Shot,Jump Shot,0,0
+77,86,PT04M24.00S,1,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,Billups S.FOUL (P1.T4),Foul,Shooting,0,0
+78,87,PT04M24.00S,1,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0,0,0,v,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+79,89,PT04M22.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+80,90,PT04M10.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,159,81,18,Missed,1,0,0,0,h,MISS Anthony 18' Jump Shot,Missed Shot,Jump Shot,0,0
+81,91,PT04M09.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+82,92,PT03M59.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,-88,58,11,Missed,1,0,0,0,v,MISS O'Neal 11' Jump Shot,Missed Shot,Jump Shot,0,0
+83,94,PT03M58.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+84,93,PT03M58.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,0,0,0,v,MISS Wade  Tip Shot,Missed Shot,Tip Shot,0,0
+85,96,PT03M57.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+86,95,PT03M57.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,15,16,31,v,Wade  Tip Shot (3 PTS),Made Shot,Tip Shot,0,0
+87,97,PT03M34.00S,1,1610612743,DEN,2403,Hilario,Nene,7,55,6,Missed,1,0,0,0,h,MISS Nene 6' Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+88,97,PT03M34.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,O'Neal BLOCK (1 BLK),,,0,0
+89,98,PT03M33.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+90,99,PT03M28.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,SUB: Andersen FOR Nene,Substitution,,0,0
+91,100,PT03M28.00S,1,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,SUB: Haslem FOR Beasley,Substitution,,0,0
+92,101,PT03M16.00S,1,1610612748,MIA,2592,Jones,J. Jones,141,94,17,Missed,1,0,0,0,v,MISS Jones 17' Jump Shot,Missed Shot,Jump Shot,0,0
+93,101,PT03M16.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony BLOCK (1 BLK),,,0,0
+94,102,PT03M15.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,O'Neal REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+95,103,PT03M13.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,0,0,0,v,MISS Wade  Layup,Missed Shot,Layup Shot,0,0
+96,103,PT03M13.00S,1,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen BLOCK (1 BLK),,,0,0
+97,104,PT03M11.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Unknown,0,0
+98,105,PT03M11.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0
+99,106,PT03M11.00S,1,0,,1334,,,0,0,0,,0,0,0,0,,George Karl Foul:T.FOUL,Foul,Technical,0,0
+100,107,PT03M11.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,MISS Richardson Free Throw Technical,Free Throw,Free Throw Technical,0,0
+101,108,PT03M11.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0
+102,109,PT03M11.00S,1,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,SUB: Anthony FOR O'Neal,Substitution,,0,0
+103,111,PT02M56.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0,0,0,h,MISS Anthony  Layup,Missed Shot,Layup Shot,0,0
+104,113,PT02M55.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+105,112,PT02M55.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0,0,0,h,MISS Anthony  Tip Shot,Missed Shot,Tip Shot,0,0
+106,114,PT02M53.00S,1,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+107,115,PT02M48.00S,1,1610612743,DEN,2747,Smith,J. Smith,-144,206,25,Made,1,18,16,34,h,Smith 25' 3PT Jump Shot (3 PTS) (Billups 3 AST),Made Shot,Jump Shot,0,0
+108,116,PT02M35.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony S.FOUL (P1.PN),Foul,Shooting,0,0
+109,117,PT02M35.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+110,120,PT02M35.00S,1,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,SUB: Lawson FOR Billups,Substitution,,0,0
+111,121,PT02M35.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,18,17,35,v,Wade Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+112,123,PT02M35.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,MISS Wade Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+113,125,PT02M32.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+114,126,PT02M29.00S,1,1610612748,MIA,2548,Wade,D. Wade,-1,173,17,Missed,1,0,0,0,v,MISS Wade 17' Jump Shot,Missed Shot,Jump Shot,0,0
+115,127,PT02M26.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+116,128,PT02M15.00S,1,1610612743,DEN,2747,Smith,J. Smith,-129,195,23,Made,1,20,17,37,h,Smith 23' Jump Shot (5 PTS),Made Shot,Jump Shot,0,0
+117,129,PT02M03.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,0,0,0,v,MISS Wade  Layup,Missed Shot,Layup Shot,0,0
+118,129,PT02M03.00S,1,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith BLOCK (1 BLK),,,0,0
+119,130,PT02M02.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Unknown,0,0
+120,131,PT01M53.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin P.FOUL (P1.PN),Foul,Personal,0,0
+121,133,PT01M53.00S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0,0,0,v,MISS Anthony Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+122,134,PT01M53.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+123,135,PT01M53.00S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,20,18,38,v,Anthony Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+124,137,PT01M39.00S,1,1610612743,DEN,2030,Martin,K. Martin,108,48,12,Missed,1,0,0,0,h,MISS Martin 12' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+125,138,PT01M37.00S,1,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Unknown,0,0
+126,139,PT01M37.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson L.B.FOUL (P1.PN),Foul,Loose Ball,0,0
+127,140,PT01M37.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,21,18,39,h,Anthony Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+128,142,PT01M37.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,22,18,40,h,Anthony Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+129,144,PT01M22.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,-228,65,24,Missed,1,0,0,0,v,MISS Richardson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+130,145,PT01M22.00S,1,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+131,146,PT01M11.00S,1,1610612743,DEN,2030,Martin,K. Martin,-204,22,21,Missed,1,0,0,0,h,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,0,0
+132,147,PT01M10.00S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0,0,0,v,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+133,148,PT01M10.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson T.FOUL (P1.PN),Foul,Technical,0,0
+134,149,PT01M10.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,23,18,41,h,Anthony Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0
+135,151,PT01M10.00S,1,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,SUB: Beasley FOR Richardson,Substitution,,0,0
+136,152,PT00M54.90S,1,1610612748,MIA,201563,Beasley,M. Beasley,228,15,0,Missed,1,0,0,0,v,MISS Beasley  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+137,153,PT00M54.60S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0,0,0,v,Anthony REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+138,154,PT00M49.90S,1,1610612748,MIA,2548,Wade,D. Wade,-187,4,19,Missed,1,0,0,0,v,MISS Wade 19' Jump Shot,Missed Shot,Jump Shot,0,0
+139,155,PT00M48.60S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0,0,0,v,Anthony REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+140,156,PT00M47.60S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,Made,1,23,20,43,v,Anthony  Layup (3 PTS),Made Shot,Layup Shot,0,0
+141,157,PT00M41.80S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade P.FOUL (P1.PN),Foul,Personal,0,0
+142,158,PT00M41.80S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,24,20,44,h,Lawson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+143,160,PT00M41.80S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,25,20,45,h,Lawson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+144,162,PT00M21.30S,1,1610612748,MIA,2617,Haslem,U. Haslem,60,144,16,Made,1,25,22,47,v,Haslem 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+145,163,PT00M01.90S,1,1610612743,DEN,2747,Smith,J. Smith,-152,154,22,Missed,1,0,0,0,h,MISS Smith 22' Jump Shot,Missed Shot,Jump Shot,0,0
+146,164,PT00M00.90S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+147,165,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,22,47,,End of 1st Period (11:22 PM EST),period,end,0,0
+148,167,PT12M00.00S,2,0,,0,,,0,0,0,,0,25,22,47,,Start of 2nd Period (11:26 PM EST),period,start,0,0
+149,168,PT11M46.00S,2,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0,0,0,v,Jones S.FOUL (P3.T1),Foul,Shooting,0,0
+150,169,PT11M46.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,MISS Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+151,170,PT11M46.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0
+152,171,PT11M46.00S,2,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0,0,0,v,SUB: Wright FOR Jones,Substitution,,0,0
+153,172,PT11M46.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,MISS Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+154,174,PT11M45.00S,2,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0,0,0,v,Anthony REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+155,175,PT11M31.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,Made,1,25,24,49,v,Beasley  Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+156,176,PT11M08.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,-108,70,13,Missed,1,0,0,0,h,MISS Anthony 13' Jump Shot,Missed Shot,Jump Shot,0,0
+157,178,PT11M07.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+158,177,PT11M07.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,Made,1,27,24,51,h,Andersen  Tip Shot (2 PTS),Made Shot,Tip Shot,0,0
+159,179,PT10M47.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,190,46,20,Made,1,27,26,53,v,Beasley 20' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+160,180,PT10M33.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,29,26,55,h,Anthony  Layup (9 PTS) (Nene 1 AST),Made Shot,Layup Shot,0,0
+161,181,PT10M09.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony P.FOUL (P2.T1),Foul,Personal,0,0
+162,182,PT10M09.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,SUB: Graham FOR Anthony,Substitution,,0,0
+163,183,PT10M01.00S,2,1610612743,DEN,101121,Graham,J. Graham,0,0,0,,0,0,0,0,h,Graham S.FOUL (P1.T2),Foul,Shooting,0,0
+164,184,PT10M01.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,29,27,56,v,Beasley Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+165,186,PT10M01.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,29,28,57,v,Beasley Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+166,188,PT09M47.00S,2,1610612743,DEN,2747,Smith,J. Smith,149,45,16,Missed,1,0,0,0,h,MISS Smith 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+167,189,PT09M46.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Unknown,0,0
+168,190,PT09M40.00S,2,1610612743,DEN,2403,Hilario,Nene,-119,129,18,Made,1,31,28,59,h,Nene 18' Jump Shot (4 PTS) (Smith 2 AST),Made Shot,Jump Shot,0,0
+169,191,PT09M21.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,154,137,21,Missed,1,0,0,0,v,MISS Beasley 21' Jump Shot,Missed Shot,Jump Shot,0,0
+170,192,PT09M19.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+171,193,PT09M16.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+172,193,PT09M16.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley STEAL (1 STL),,,0,0
+173,194,PT09M08.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,-182,9,18,Missed,1,0,0,0,v,MISS Haslem 18' Jump Shot,Missed Shot,Jump Shot,0,0
+174,195,PT09M06.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+175,196,PT09M03.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,Made,1,33,28,61,h,Smith  Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,0
+176,197,PT09M03.00S,2,1610612748,MIA,2748,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright S.FOUL (P1.T2),Foul,Shooting,0,0
+177,198,PT09M03.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,MISS Smith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+178,200,PT09M01.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+179,201,PT08M47.00S,2,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0,0,0,v,Anthony Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0
+180,201,PT08M47.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene STEAL (1 STL),,,0,0
+181,202,PT08M42.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,35,28,63,h,Nene  Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,0,0
+182,203,PT08M35.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+183,206,PT08M35.00S,2,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0,0,0,v,SUB: O'Neal FOR Anthony,Substitution,,0,0
+184,207,PT08M25.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,58,183,19,Missed,1,0,0,0,v,MISS Beasley 19' Jump Shot,Missed Shot,Jump Shot,0,0
+185,208,PT08M24.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem REBOUND (Off:2 Def:0),Rebound,Unknown,0,0
+186,209,PT08M12.00S,2,1610612748,MIA,2306,Arroyo,C. Arroyo,0,0,0,Missed,1,0,0,0,v,MISS Arroyo  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+187,209,PT08M12.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen BLOCK (2 BLK),,,0,0
+188,210,PT08M09.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+189,211,PT08M03.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,37,28,65,h,Nene  Finger Roll Layup (8 PTS) (Smith 3 AST),Made Shot,Finger Roll Layup Shot,0,0
+190,212,PT07M35.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0
+191,213,PT07M35.00S,2,1610612748,MIA,2306,Arroyo,C. Arroyo,0,0,0,,0,0,0,0,v,SUB: Chalmers FOR Arroyo,Substitution,,0,0
+192,214,PT07M35.00S,2,1610612748,MIA,2748,Wright,D. Wright,0,0,0,,0,0,0,0,v,SUB: Wade FOR Wright,Substitution,,0,0
+193,215,PT07M24.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,39,28,67,h,Nene  Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+194,216,PT07M24.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem S.FOUL (P1.T3),Foul,Shooting,0,0
+195,217,PT07M24.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,40,28,68,h,Nene Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0
+196,219,PT07M21.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+197,221,PT07M21.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,SUB: Richardson FOR Haslem,Substitution,,0,0
+198,222,PT07M10.00S,2,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0
+199,222,PT07M10.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen STEAL (1 STL),,,0,0
+200,223,PT07M02.00S,2,1610612743,DEN,2747,Smith,J. Smith,-182,124,22,Missed,1,0,0,0,h,MISS Smith 22' Jump Shot,Missed Shot,Jump Shot,0,0
+201,225,PT07M01.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+202,224,PT07M01.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,0,0,0,h,MISS Nene  Tip Shot,Missed Shot,Tip Shot,0,0
+203,226,PT06M58.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+204,227,PT06M51.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0
+205,227,PT06M51.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene STEAL (2 STL),,,0,0
+206,228,PT06M50.00S,2,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,O'Neal P.FOUL (P1.T4),Foul,Personal,0,0
+207,229,PT06M29.00S,2,1610612743,DEN,101121,Graham,J. Graham,73,187,20,Made,1,42,28,70,h,Graham 20' Jump Shot (2 PTS) (Lawson 1 AST),Made Shot,Jump Shot,0,0
+208,230,PT06M13.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith P.FOUL (P1.T3),Foul,Personal,0,0
+209,231,PT06M13.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,h,SUB: Billups FOR Lawson,Substitution,,0,0
+210,232,PT05M59.00S,2,1610612748,MIA,2548,Wade,D. Wade,-123,152,20,Missed,1,0,0,0,v,MISS Wade 20' Jump Shot,Missed Shot,Jump Shot,0,0
+211,233,PT05M59.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+212,234,PT05M39.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+213,238,PT05M37.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,0,0,0,h,MISS Nene  Layup,Missed Shot,Layup Shot,0,0
+214,239,PT05M36.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Unknown,0,0
+215,240,PT05M21.00S,2,1610612743,DEN,101121,Graham,J. Graham,0,0,0,Missed,1,0,0,0,h,MISS Graham  Layup,Missed Shot,Layup Shot,0,0
+216,241,PT05M19.00S,2,1610612743,DEN,101121,Graham,J. Graham,0,0,0,,0,0,0,0,h,Graham REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+217,242,PT05M16.00S,2,1610612743,DEN,101121,Graham,J. Graham,11,58,6,Missed,1,0,0,0,h,MISS Graham 6' Hook Shot,Missed Shot,Hook Shot,0,0
+218,243,PT05M15.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+219,244,PT05M09.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,30,206,21,Made,1,42,30,72,v,Beasley 21' Jump Shot (12 PTS) (Wade 4 AST),Made Shot,Jump Shot,0,0
+220,245,PT04M53.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,0,0,0,h,MISS Nene  Layup,Missed Shot,Layup Shot,0,0
+221,245,PT04M53.00S,2,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,O'Neal BLOCK (2 BLK),,,0,0
+222,246,PT04M52.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Unknown,0,0
+223,247,PT04M52.00S,2,1610612743,DEN,101121,Graham,J. Graham,0,0,0,,0,0,0,0,h,SUB: Anthony FOR Graham,Substitution,,0,0
+224,248,PT04M52.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,SUB: Martin FOR Andersen,Substitution,,0,0
+225,249,PT04M47.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers S.FOUL (P3.PN),Foul,Shooting,0,0
+226,250,PT04M47.00S,2,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,43,30,73,h,Billups Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+227,252,PT04M47.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,SUB: Jones FOR Chalmers,Substitution,,0,0
+228,253,PT04M47.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,SUB: Andersen FOR Nene,Substitution,,0,0
+229,254,PT04M47.00S,2,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,44,30,74,h,Billups Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+230,256,PT04M32.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,Missed,1,0,0,0,v,MISS Beasley  Dunk,Missed Shot,Dunk Shot,0,0
+231,256,PT04M32.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen BLOCK (3 BLK),,,0,0
+232,257,PT04M29.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+233,258,PT04M23.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,-187,160,25,Missed,1,0,0,0,h,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+234,259,PT04M19.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+235,260,PT04M14.00S,2,1610612743,DEN,2747,Smith,J. Smith,237,35,24,Made,1,47,30,77,h,Smith 24' 3PT Jump Shot (10 PTS) (Billups 4 AST),Made Shot,Jump Shot,0,0
+236,261,PT04M06.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+237,265,PT04M00.00S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin S.FOUL (P2.T4),Foul,Shooting,0,0
+238,266,PT04M00.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,MISS Beasley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+239,267,PT04M00.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+240,268,PT04M00.00S,2,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,SUB: Haslem FOR O'Neal,Substitution,,0,0
+241,269,PT04M00.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,47,31,78,v,Beasley Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+242,271,PT03M48.00S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Offensive Goaltending Turnover (P1.T3),Turnover,Offensive Goaltending,0,0
+243,272,PT03M34.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen S.FOUL (P1.PN),Foul,Shooting,0,0
+244,273,PT03M34.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,47,32,79,v,Wade Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+245,275,PT03M34.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,47,33,80,v,Wade Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+246,277,PT03M19.00S,2,1610612743,DEN,2747,Smith,J. Smith,67,251,26,Made,1,50,33,83,h,Smith 26' 3PT Jump Shot (13 PTS) (Billups 5 AST),Made Shot,Jump Shot,0,0
+247,278,PT03M06.00S,2,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,Billups S.FOUL (P2.PN),Foul,Shooting,0,0
+248,279,PT03M06.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,50,34,84,v,Haslem Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+249,281,PT03M06.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,MISS Haslem Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+250,283,PT03M06.00S,2,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,Billups REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+251,284,PT02M53.00S,2,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson S.FOUL (P2.PN),Foul,Shooting,0,0
+252,285,PT02M53.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,51,34,85,h,Anthony Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+253,287,PT02M53.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,52,34,86,h,Anthony Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+254,289,PT02M38.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,-6,202,20,Missed,1,0,0,0,v,MISS Beasley 20' Jump Shot,Missed Shot,Jump Shot,0,0
+255,290,PT02M38.00S,2,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,Billups REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+256,291,PT02M21.00S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley S.FOUL (P1.PN),Foul,Shooting,0,0
+257,292,PT02M21.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,53,34,87,h,Andersen Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+258,294,PT02M21.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,54,34,88,h,Andersen Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+259,296,PT02M05.00S,2,1610612748,MIA,2047,Richardson,Q. Richardson,96,233,25,Made,1,54,37,91,v,Richardson 25' 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,0,0
+260,297,PT01M42.00S,2,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0,0,0,v,Jones S.FOUL (P4.PN),Foul,Shooting,0,0
+261,298,PT01M42.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,55,37,92,h,Smith Free Throw 1 of 3 (14 PTS),Free Throw,Free Throw 1 of 3,0,0
+262,300,PT01M42.00S,2,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0,0,0,v,SUB: Wright FOR Jones,Substitution,,0,0
+263,301,PT01M42.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,56,37,93,h,Smith Free Throw 2 of 3 (15 PTS),Free Throw,Free Throw 2 of 3,0,0
+264,303,PT01M42.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,57,37,94,h,Smith Free Throw 3 of 3 (16 PTS),Free Throw,Free Throw 3 of 3,0,0
+265,305,PT01M29.00S,2,1610612748,MIA,2548,Wade,D. Wade,16,68,7,Missed,1,0,0,0,v,MISS Wade 7' Jump Shot,Missed Shot,Jump Shot,0,0
+266,307,PT01M26.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem REBOUND (Off:3 Def:0),Rebound,Unknown,0,0
+267,306,PT01M26.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,Missed,1,0,0,0,v,MISS Haslem  Tip Shot,Missed Shot,Tip Shot,0,0
+268,309,PT01M24.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+269,308,PT01M23.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,57,39,96,v,Wade  Layup (8 PTS),Made Shot,Layup Shot,0,0
+270,310,PT01M15.00S,2,1610612743,DEN,2747,Smith,J. Smith,-228,131,26,Missed,1,0,0,0,h,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+271,311,PT01M13.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+272,312,PT01M04.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,14,51,5,Missed,1,0,0,0,v,MISS Haslem 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+273,313,PT01M03.00S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+274,314,PT00M55.90S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+275,314,PT00M55.90S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade STEAL (1 STL),,,0,0
+276,315,PT00M52.50S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade OFF.Foul (P2),Foul,Offensive,0,0
+277,316,PT00M52.50S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade Foul Turnover (P3.T8),Turnover,Foul,0,0
+278,317,PT00M52.50S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,SUB: Graham FOR Anthony,Substitution,,0,0
+279,318,PT00M52.50S,2,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,SUB: Lawson FOR Billups,Substitution,,0,0
+280,319,PT00M41.90S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0
+281,319,PT00M41.90S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem STEAL (1 STL),,,0,0
+282,320,PT00M38.60S,2,1610612748,MIA,2748,Wright,D. Wright,0,0,0,Made,1,57,41,98,v,Wright  Layup (2 PTS),Made Shot,Layup Shot,0,0
+283,321,PT00M20.50S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem S.FOUL (P2.PN),Foul,Shooting,0,0
+284,322,PT00M20.50S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,SUB: Nene FOR Martin,Substitution,,0,0
+285,323,PT00M20.50S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,58,41,99,h,Andersen Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+286,325,PT00M20.50S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,MISS Andersen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+287,327,PT00M19.90S,2,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+288,328,PT00M03.80S,2,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith P.FOUL (P2.PN),Foul,Personal,0,0
+289,329,PT00M03.80S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+290,330,PT00M03.80S,2,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+291,331,PT00M03.80S,2,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Timeout: Short (Full 1 Short 1),Timeout,Short,0,0
+292,333,PT00M03.80S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,58,42,100,v,Wade Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+293,335,PT00M00.20S,2,1610612743,DEN,201951,Lawson,T. Lawson,118,65,13,Missed,1,0,0,0,h,MISS Lawson 13' Jump Shot,Missed Shot,Jump Shot,0,0
+294,336,PT00M00.00S,2,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Unknown,0,0
+295,337,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,42,100,,Instant Replay2nd Period (12:03 PM EST),Instant Replay,Support Ruling,0,0
+296,338,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,42,100,,End of 2nd Period (12:04 PM EST),period,end,0,0
+297,340,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,42,100,,Start of 3rd Period (12:24 PM EST),period,start,0,0
+298,341,PT11M46.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,0,0,0,h,MISS Nene  Layup,Missed Shot,Layup Shot,0,0
+299,341,PT11M46.00S,3,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson BLOCK (1 BLK),,,0,0
+300,342,PT11M45.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+301,343,PT11M40.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,58,44,102,v,Wade  Dunk (11 PTS) (Chalmers 1 AST),Made Shot,Dunk Shot,0,0
+302,344,PT11M27.00S,3,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,O'Neal P.FOUL (P2.T1),Foul,Personal,0,0
+303,345,PT11M24.00S,3,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson P.FOUL (P3.T2),Foul,Personal,0,0
+304,346,PT11M15.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+305,346,PT11M15.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers STEAL (1 STL),,,0,0
+306,347,PT10M56.00S,3,1610612748,MIA,2047,Richardson,Q. Richardson,223,129,26,Missed,1,0,0,0,v,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+307,348,PT10M55.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+308,349,PT10M43.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,-141,200,24,Made,1,61,44,105,h,Anthony 24' 3PT Jump Shot (14 PTS) (Billups 6 AST),Made Shot,Jump Shot,0,0
+309,350,PT10M29.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,164,114,20,Made,1,61,46,107,v,Chalmers 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+310,351,PT10M13.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,Chalmers S.FOUL (P4.T3),Foul,Shooting,0,0
+311,352,PT10M13.00S,3,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,62,46,108,h,Billups Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+312,354,PT10M13.00S,3,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,63,46,109,h,Billups Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+313,356,PT09M59.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,-7,70,7,Made,1,63,48,111,v,Chalmers 7' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,0,0
+314,357,PT09M39.00S,3,1610612743,DEN,2030,Martin,K. Martin,6,66,7,Made,1,65,48,113,h,Martin 7' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,0
+315,358,PT09M39.00S,3,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley S.FOUL (P2.T4),Foul,Shooting,0,0
+316,359,PT09M39.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,66,48,114,h,Martin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+317,361,PT09M25.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,-53,55,8,Missed,1,0,0,0,v,MISS Chalmers 8' Floating Jump Shot,Missed Shot,Floating Jump shot,0,0
+318,361,PT09M25.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin BLOCK (1 BLK),,,0,0
+319,362,PT09M24.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Unknown,0,0
+320,363,PT09M03.00S,3,1610612743,DEN,2403,Hilario,Nene,50,55,7,Missed,1,0,0,0,h,MISS Nene 7' Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+321,364,PT09M03.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:3 Def:6),Rebound,Unknown,0,0
+322,365,PT08M53.00S,3,1610612748,MIA,201563,Beasley,M. Beasley,157,91,18,Missed,1,0,0,0,v,MISS Beasley 18' Jump Shot,Missed Shot,Jump Shot,0,0
+323,366,PT08M53.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+324,367,PT08M51.00S,3,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley P.FOUL (P3.PN),Foul,Personal,0,0
+325,368,PT08M51.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,67,48,115,h,Martin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+326,370,PT08M51.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,68,48,116,h,Martin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+327,372,PT08M38.00S,3,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,Made,1,68,50,118,v,Beasley  Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,0
+328,373,PT08M21.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,-75,32,8,Missed,1,0,0,0,h,MISS Afflalo 8' Jump Shot,Missed Shot,Jump Shot,0,0
+329,374,PT08M20.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+330,375,PT08M18.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,Made,1,70,50,120,h,Afflalo  Layup (7 PTS),Made Shot,Layup Shot,0,0
+331,376,PT08M04.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,SUB: Andersen FOR Nene,Substitution,,0,0
+332,377,PT07M50.00S,3,1610612748,MIA,201563,Beasley,M. Beasley,-4,60,6,Missed,1,0,0,0,v,MISS Beasley 6' Hook Shot,Missed Shot,Hook Shot,0,0
+333,377,PT07M50.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin BLOCK (2 BLK),,,0,0
+334,378,PT07M49.00S,3,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+335,379,PT07M46.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade P.FOUL (P3.PN),Foul,Personal,0,0
+336,380,PT07M46.00S,3,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,71,50,121,h,Billups Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+337,382,PT07M46.00S,3,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,72,50,122,h,Billups Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+338,384,PT07M31.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony P.FOUL (P3.T1),Foul,Personal,0,0
+339,385,PT07M28.00S,3,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,Made,1,72,52,124,v,O'Neal  Driving Dunk (6 PTS) (Richardson 2 AST),Made Shot,Driving Dunk Shot,0,0
+340,386,PT07M07.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0
+341,386,PT07M07.00S,3,1610612748,MIA,2047,Richardson,Q. Richardson,0,0,0,,0,0,0,0,v,Richardson STEAL (2 STL),,,0,0
+342,387,PT06M57.00S,3,1610612748,MIA,2548,Wade,D. Wade,-96,198,22,Made,1,72,54,126,v,Wade 22' Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+343,388,PT06M40.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,166,71,18,Made,1,74,54,128,h,Anthony 18' Jump Shot (16 PTS),Made Shot,Jump Shot,0,0
+344,389,PT06M21.00S,3,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley Step Out of Bounds Turnover (P2.T9),Turnover,Step Out of Bounds Turnover,0,0
+345,390,PT06M08.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,-232,23,0,Made,1,77,54,131,h,Afflalo  3PT Jump Shot (10 PTS) (Martin 1 AST),Made Shot,Jump Shot,0,0
+346,391,PT06M08.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+347,401,PT06M08.00S,3,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,SUB: Haslem FOR Beasley,Substitution,,0,0
+348,394,PT05M58.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo S.FOUL (P4.T2),Foul,Shooting,0,0
+349,395,PT05M58.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,77,55,132,v,Wade Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+350,397,PT05M58.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,77,56,133,v,Wade Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+351,399,PT05M34.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,202,162,26,Missed,1,0,0,0,h,MISS Anthony 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+352,400,PT05M33.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem REBOUND (Off:3 Def:1),Rebound,Unknown,0,0
+353,402,PT05M14.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,16,253,25,Missed,1,0,0,0,v,MISS Chalmers 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+354,403,PT05M13.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem REBOUND (Off:4 Def:1),Rebound,Unknown,0,0
+355,404,PT05M03.00S,3,1610612748,MIA,2548,Wade,D. Wade,-230,38,0,Missed,1,0,0,0,v,MISS Wade  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+356,405,PT05M03.00S,3,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+357,406,PT04M40.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,212,70,22,Made,1,79,56,135,h,Afflalo 22' Jump Shot (12 PTS),Made Shot,Jump Shot,0,0
+358,407,PT04M26.00S,3,1610612748,MIA,2548,Wade,D. Wade,-60,195,20,Made,1,79,58,137,v,Wade 20' Jump Shot (17 PTS) (Chalmers 2 AST),Made Shot,Jump Shot,0,0
+359,408,PT04M11.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,Made,1,81,58,139,h,Martin  Alley Oop Dunk (7 PTS) (Billups 7 AST),Made Shot,Alley Oop Dunk Shot,0,0
+360,409,PT03M47.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin S.FOUL (P3.T3),Foul,Shooting,0,0
+361,410,PT03M47.00S,3,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,SUB: Smith FOR Andersen,Substitution,,0,0
+362,411,PT03M47.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,SUB: Nene FOR Afflalo,Substitution,,0,0
+363,412,PT03M47.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,81,59,140,v,Chalmers Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+364,414,PT03M47.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,MISS Chalmers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+365,416,PT03M46.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+366,417,PT03M32.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem S.FOUL (P3.PN),Foul,Shooting,0,0
+367,418,PT03M32.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,82,59,141,h,Martin Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+368,420,PT03M32.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+369,422,PT03M30.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+370,423,PT03M24.00S,3,1610612743,DEN,2030,Martin,K. Martin,67,68,10,Made,1,84,59,143,h,Martin 10' Jump Hook Shot (10 PTS) (Nene 2 AST),Made Shot,Jump Hook Shot,0,0
+371,424,PT03M03.00S,3,1610612748,MIA,979,O'Neal,J. O'Neal,-143,140,20,Made,1,84,61,145,v,O'Neal 20' Jump Shot (8 PTS) (Chalmers 3 AST),Made Shot,Jump Shot,0,0
+372,425,PT02M44.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony Palming Turnover (P3.T8),Turnover,Palming Turnover,0,0
+373,426,PT02M44.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,0
+374,430,PT02M31.00S,3,1610612748,MIA,979,O'Neal,J. O'Neal,-136,65,15,Missed,1,0,0,0,v,MISS O'Neal 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+375,431,PT02M30.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene REBOUND (Off:3 Def:5),Rebound,Unknown,0,0
+376,432,PT02M29.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem P.FOUL (P4.PN),Foul,Personal,0,0
+377,433,PT02M29.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,85,61,146,h,Nene Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+378,435,PT02M29.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,86,61,147,h,Nene Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+379,437,PT02M17.00S,3,1610612748,MIA,2548,Wade,D. Wade,-152,116,19,Made,1,86,63,149,v,Wade 19' Jump Shot (19 PTS) (Haslem 1 AST),Made Shot,Jump Shot,0,0
+380,438,PT02M17.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith S.FOUL (P3.T4),Foul,Shooting,0,0
+381,439,PT02M17.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,86,64,150,v,Wade Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0
+382,441,PT01M52.00S,3,1610612743,DEN,1497,Billups,C. Billups,233,33,24,Made,1,89,64,153,h,Billups 24' 3PT Jump Shot (13 PTS) (Nene 3 AST),Made Shot,Jump Shot,0,0
+383,442,PT01M40.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin S.FOUL (P4.PN),Foul,Shooting,0,0
+384,443,PT01M40.00S,3,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,0,0,0,v,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+385,444,PT01M40.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+386,445,PT01M40.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0,0,0,v,SUB: Wright FOR Chalmers,Substitution,,0,0
+387,446,PT01M40.00S,3,1610612748,MIA,979,O'Neal,J. O'Neal,0,0,0,,0,89,65,154,v,O'Neal Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+388,448,PT01M19.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,180,98,20,Missed,1,0,0,0,h,MISS Anthony 20' Jump Shot,Missed Shot,Jump Shot,0,0
+389,449,PT01M19.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade REBOUND (Off:3 Def:7),Rebound,Unknown,0,0
+390,450,PT01M11.00S,3,1610612748,MIA,2548,Wade,D. Wade,-14,243,24,Missed,1,0,0,0,v,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+391,450,PT01M11.00S,3,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith BLOCK (2 BLK),,,0,0
+392,451,PT01M10.00S,3,1610612743,DEN,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,Billups REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+393,452,PT01M09.00S,3,0,,1787,,,0,0,0,,0,0,0,0,,Erik Spoelstra Foul:T.FOUL,Foul,Technical,0,0
+394,453,PT01M09.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade T.FOUL (P3.PN),Foul,Technical,0,0
+395,454,PT01M09.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,90,65,155,h,Anthony Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0
+396,456,PT01M09.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,MISS Anthony Free Throw Technical,Free Throw,Free Throw Technical,0,0
+397,457,PT01M09.00S,3,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0
+398,458,PT00M59.40S,3,1610612743,DEN,1497,Billups,C. Billups,-81,261,27,Missed,1,0,0,0,h,MISS Billups 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+399,459,PT00M59.40S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Unknown,0,0
+400,460,PT00M49.60S,3,1610612748,MIA,2548,Wade,D. Wade,-171,129,21,Made,1,90,67,157,v,Wade 21' Jump Shot (22 PTS),Made Shot,Jump Shot,0,0
+401,461,PT00M39.90S,3,1610612743,DEN,2030,Martin,K. Martin,9,51,5,Made,1,92,67,159,h,Martin 5' Jump Shot (12 PTS) (Smith 4 AST),Made Shot,Jump Shot,0,0
+402,462,PT00M39.90S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin T.FOUL (P4.PN),Foul,Technical,0,0
+403,463,PT00M39.90S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin T.FOUL (P4.PN),Foul,Technical,0,0
+404,464,PT00M39.90S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,Martin Ejection:Second Technical,Ejection,Second Technical,0,0
+405,465,PT00M39.90S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0,0,0,h,SUB: Andersen FOR Martin,Substitution,,0,0
+406,466,PT00M39.90S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,MISS Wade Free Throw Technical,Free Throw,Free Throw Technical,0,0
+407,467,PT00M39.90S,3,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Normal Rebound,0,0
+408,468,PT00M39.90S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,92,68,160,v,Wade Free Throw Technical (23 PTS),Free Throw,Free Throw Technical,0,0
+409,470,PT00M24.60S,3,1610612748,MIA,979,O'Neal,J. O'Neal,-172,20,17,Missed,1,0,0,0,v,MISS O'Neal 17' Jump Shot,Missed Shot,Jump Shot,0,0
+410,471,PT00M24.20S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+411,474,PT00M00.20S,3,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,0
+412,475,PT00M00.00S,3,0,,0,,,0,0,0,,0,92,68,160,,End of 3rd Period (12:57 PM EST),period,end,0,0
+413,477,PT12M00.00S,4,0,,0,,,0,0,0,,0,92,68,160,,Start of 4th Period (12:59 PM EST),period,start,0,0
+414,478,PT11M47.00S,4,1610612748,MIA,2548,Wade,D. Wade,68,180,19,Missed,1,0,0,0,v,MISS Wade 19' Jump Shot,Missed Shot,Jump Shot,0,0
+415,479,PT11M47.00S,4,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+416,480,PT11M34.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,94,68,162,h,Nene  Layup (15 PTS) (Anthony 1 AST),Made Shot,Layup Shot,0,0
+417,481,PT11M15.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,Nene S.FOUL (P1.T1),Foul,Shooting,0,0
+418,482,PT11M15.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,94,69,163,v,Haslem Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+419,484,PT11M15.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,94,70,164,v,Haslem Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+420,486,PT10M59.00S,4,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,Made,1,96,70,166,h,Andersen  Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,0
+421,487,PT10M32.00S,4,1610612748,MIA,2548,Wade,D. Wade,-156,48,16,Made,1,96,72,168,v,Wade 16' Turnaround Jump Shot (25 PTS),Made Shot,Turnaround Jump Shot,0,0
+422,488,PT10M16.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,-152,42,16,Missed,1,0,0,0,h,MISS Anthony 16' Jump Shot,Missed Shot,Jump Shot,0,0
+423,489,PT10M16.00S,4,1610612748,MIA,2306,Arroyo,C. Arroyo,0,0,0,,0,0,0,0,v,Arroyo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+424,490,PT10M08.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,Haslem Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0
+425,491,PT09M51.00S,4,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,Made,1,98,72,170,h,Andersen  Dunk (9 PTS) (Nene 4 AST),Made Shot,Dunk Shot,0,0
+426,492,PT09M34.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,Wade Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0
+427,492,PT09M34.00S,4,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen STEAL (2 STL),,,0,0
+428,493,PT09M29.00S,4,1610612748,MIA,2748,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright S.FOUL (P2.T1),Foul,Shooting,0,0
+429,494,PT09M29.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,99,72,171,h,Anthony Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0
+430,496,PT09M29.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,100,72,172,h,Anthony Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+431,498,PT09M22.00S,4,1610612748,MIA,2306,Arroyo,C. Arroyo,0,0,0,Made,1,100,74,174,v,Arroyo  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+432,499,PT09M10.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,9,251,25,Made,1,103,74,177,h,Anthony 25' 3PT Jump Shot (22 PTS) (Smith 5 AST),Made Shot,Jump Shot,0,0
+433,500,PT08M53.00S,4,1610612748,MIA,201563,Beasley,M. Beasley,106,155,19,Missed,1,0,0,0,v,MISS Beasley 19' Jump Shot,Missed Shot,Jump Shot,0,0
+434,501,PT08M52.00S,4,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+435,502,PT08M45.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony Palming Turnover (P4.T10),Turnover,Palming Turnover,0,0
+436,503,PT08M45.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+437,505,PT08M45.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,SUB: Afflalo FOR Anthony,Substitution,,0,0
+438,506,PT08M45.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0,0,0,h,SUB: Allen FOR Nene,Substitution,,0,0
+439,507,PT08M45.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,v,SUB: Magloire FOR Wade,Substitution,,0,0
+440,508,PT08M45.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,v,SUB: Cook FOR Haslem,Substitution,,0,0
+441,509,PT08M31.00S,4,1610612748,MIA,2306,Arroyo,C. Arroyo,-177,139,23,Missed,1,0,0,0,v,MISS Arroyo 23' Jump Shot,Missed Shot,Jump Shot,0,0
+442,510,PT08M30.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0,0,0,h,Afflalo REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+443,511,PT08M21.00S,4,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0
+444,511,PT08M21.00S,4,1610612748,MIA,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire STEAL (1 STL),,,0,0
+445,512,PT08M15.00S,4,1610612748,MIA,201161,Cook,D. Cook,238,30,24,Made,1,103,77,180,v,Cook 24' 3PT Jump Shot (3 PTS) (Arroyo 1 AST),Made Shot,Jump Shot,0,0
+446,513,PT07M52.00S,4,1610612743,DEN,2747,Smith,J. Smith,-152,190,24,Missed,1,0,0,0,h,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+447,514,PT07M52.00S,4,1610612748,MIA,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+448,515,PT07M41.00S,4,1610612748,MIA,201563,Beasley,M. Beasley,-200,147,25,Missed,1,0,0,0,v,MISS Beasley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+449,516,PT07M40.00S,4,1610612748,MIA,2306,Arroyo,C. Arroyo,0,0,0,,0,0,0,0,v,Arroyo REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+450,517,PT07M33.00S,4,1610612743,DEN,2124,Allen,M. Allen,0,0,0,,0,0,0,0,h,Allen P.FOUL (P1.T2),Foul,Personal,0,0
+451,518,PT07M23.00S,4,1610612748,MIA,201161,Cook,D. Cook,-177,73,19,Missed,1,0,0,0,v,MISS Cook 19' Jump Shot,Missed Shot,Jump Shot,0,0
+452,519,PT07M21.00S,4,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,Beasley REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+453,520,PT07M20.00S,4,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,Made,1,103,79,182,v,Beasley  Dunk (17 PTS),Made Shot,Dunk Shot,0,0
+454,521,PT06M57.00S,4,1610612743,DEN,201951,Lawson,T. Lawson,14,56,6,Made,1,105,79,184,h,Lawson 6' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,0,0
+455,522,PT06M42.00S,4,1610612748,MIA,2748,Wright,D. Wright,162,86,18,Missed,1,0,0,0,v,MISS Wright 18' Jump Shot,Missed Shot,Jump Shot,0,0
+456,523,PT06M42.00S,4,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+457,524,PT06M19.00S,4,1610612743,DEN,2747,Smith,J. Smith,157,210,26,Missed,1,0,0,0,h,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+458,525,PT06M17.00S,4,1610612748,MIA,2748,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+459,526,PT06M07.00S,4,1610612748,MIA,2748,Wright,D. Wright,-230,37,0,Made,1,105,82,187,v,Wright  3PT Jump Shot (5 PTS) (Cook 1 AST),Made Shot,Jump Shot,0,0
+460,527,PT05M38.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,-149,203,25,Made,1,108,82,190,h,Afflalo 25' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,0,0
+461,528,PT05M14.00S,4,1610612748,MIA,2048,Magloire,J. Magloire,0,0,0,Made,1,108,84,192,v,Magloire  Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,0,0
+462,529,PT04M52.00S,4,1610612743,DEN,201951,Lawson,T. Lawson,49,60,8,Made,1,110,84,194,h,Lawson 8' Floating Jump Shot (6 PTS) (Smith 6 AST),Made Shot,Floating Jump shot,0,0
+463,530,PT04M34.00S,4,1610612748,MIA,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire Traveling Turnover (P1.T12),Turnover,Traveling,0,0
+464,531,PT04M34.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+465,533,PT04M34.00S,4,1610612743,DEN,2747,Smith,J. Smith,0,0,0,,0,0,0,0,h,SUB: Petro FOR Smith,Substitution,,0,0
+466,534,PT04M34.00S,4,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,SUB: Graham FOR Andersen,Substitution,,0,0
+467,535,PT04M34.00S,4,1610612748,MIA,201563,Beasley,M. Beasley,0,0,0,,0,0,0,0,v,SUB: Jones FOR Beasley,Substitution,,0,0
+468,536,PT04M17.00S,4,1610612743,DEN,101130,Petro,J. Petro,180,50,19,Made,1,112,84,196,h,Petro 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+469,537,PT04M00.00S,4,1610612748,MIA,201161,Cook,D. Cook,222,126,26,Made,1,112,87,199,v,Cook 26' 3PT Jump Shot (6 PTS) (Arroyo 2 AST),Made Shot,Jump Shot,0,0
+470,538,PT03M38.00S,4,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,Missed,1,0,0,0,h,MISS Lawson  Driving Layup,Missed Shot,Driving Layup Shot,0,0
+471,538,PT03M38.00S,4,1610612748,MIA,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire BLOCK (1 BLK),,,0,0
+472,539,PT03M35.00S,4,1610612748,MIA,2748,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+473,540,PT03M27.00S,4,1610612748,MIA,2592,Jones,J. Jones,-223,20,0,Missed,1,0,0,0,v,MISS Jones  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+474,541,PT03M26.00S,4,1610612748,MIA,2748,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+475,542,PT03M25.00S,4,1610612748,MIA,2748,Wright,D. Wright,0,0,0,Made,1,112,89,201,v,Wright  Dunk (7 PTS),Made Shot,Dunk Shot,0,0
+476,543,PT03M04.00S,4,1610612748,MIA,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire S.FOUL (P1.T2),Foul,Shooting,0,0
+477,544,PT03M04.00S,4,1610612743,DEN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,h,MISS Petro Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+478,545,PT03M04.00S,4,0,,1610612743,,,0,0,0,,0,0,0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0
+479,546,PT03M04.00S,4,1610612743,DEN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,h,MISS Petro Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+480,548,PT03M03.00S,4,1610612748,MIA,2748,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+481,549,PT03M03.00S,4,1610612743,DEN,101121,Graham,J. Graham,0,0,0,,0,0,0,0,h,Graham P.FOUL (P2.T3),Foul,Personal,0,0
+482,550,PT02M50.00S,4,1610612748,MIA,2748,Wright,D. Wright,237,33,24,Missed,1,0,0,0,v,MISS Wright 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+483,551,PT02M49.00S,4,1610612743,DEN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,h,Petro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+484,552,PT02M32.00S,4,1610612743,DEN,2124,Allen,M. Allen,-192,42,20,Missed,1,0,0,0,h,MISS Allen 20' Jump Shot,Missed Shot,Jump Shot,0,0
+485,553,PT02M32.00S,4,1610612748,MIA,2748,Wright,D. Wright,0,0,0,,0,0,0,0,v,Wright REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+486,554,PT02M19.00S,4,1610612748,MIA,2592,Jones,J. Jones,199,152,25,Made,1,112,92,204,v,Jones 25' 3PT Jump Shot (6 PTS) (Wright 1 AST),Made Shot,Jump Shot,0,0
+487,555,PT01M57.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,55,101,12,Made,1,114,92,206,h,Afflalo 12' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,0,0
+488,556,PT01M48.00S,4,1610612748,MIA,2048,Magloire,J. Magloire,0,0,0,Made,1,114,94,208,v,Magloire  Layup (4 PTS),Made Shot,Layup Shot,0,0
+489,557,PT01M31.00S,4,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,h,Lawson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0
+490,557,PT01M31.00S,4,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0,0,0,v,Jones STEAL (1 STL),,,0,0
+491,558,PT01M30.00S,4,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0,0,0,h,Lawson P.FOUL (P1.T4),Foul,Personal,0,0
+492,559,PT01M30.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0
+493,563,PT01M26.00S,4,1610612743,DEN,101130,Petro,J. Petro,0,0,0,,0,0,0,0,h,Petro S.FOUL (P1.PN),Foul,Shooting,0,0
+494,564,PT01M26.00S,4,1610612748,MIA,2306,Arroyo,C. Arroyo,0,0,0,,0,114,95,209,v,Arroyo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+495,566,PT01M26.00S,4,1610612748,MIA,2306,Arroyo,C. Arroyo,0,0,0,,0,114,96,210,v,Arroyo Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+496,568,PT01M00.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,129,165,21,Missed,1,0,0,0,h,MISS Afflalo 21' Jump Shot,Missed Shot,Jump Shot,0,0
+497,569,PT00M59.80S,4,1610612748,MIA,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+498,570,PT00M38.70S,4,1610612748,MIA,2592,Jones,J. Jones,113,220,25,Missed,1,0,0,0,v,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+499,571,PT00M37.70S,4,0,,1610612748,,,0,0,0,,0,0,0,0,v,Heat Rebound,Rebound,Unknown,0,0
+500,572,PT00M33.90S,4,1610612748,MIA,201161,Cook,D. Cook,-197,58,21,Missed,1,0,0,0,v,MISS Cook 21' Jump Shot,Missed Shot,Jump Shot,0,0
+501,573,PT00M33.40S,4,1610612743,DEN,2124,Allen,M. Allen,0,0,0,,0,0,0,0,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+502,574,PT00M08.90S,4,1610612743,DEN,101121,Graham,J. Graham,-237,40,24,Missed,1,0,0,0,h,MISS Graham 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+503,575,PT00M07.90S,4,1610612748,MIA,2048,Magloire,J. Magloire,0,0,0,,0,0,0,0,v,Magloire REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+504,576,PT00M00.00S,4,0,,0,,,0,0,0,,0,114,96,210,,End of 4th Period (13:25 PM EST),period,end,0,0

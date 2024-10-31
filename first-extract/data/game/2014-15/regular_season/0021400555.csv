@@ -1,0 +1,477 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Jump Ball Howard vs. Gobert: Tip to Beverley,Jump Ball,,1,0
+3,2,PT11M39.00S,1,1610612745,HOU,2730,Howard,D. Howard,40,48,6,Missed,1,0,0,0,h,MISS Howard 6' Running Hook Shot,Missed Shot,Running Hook Shot,1,0
+4,3,PT11M37.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+5,4,PT11M16.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,-202,-11,20,Missed,1,0,0,0,v,MISS Ingles 20' Jump Shot,Missed Shot,Jump Shot,1,0
+6,5,PT11M15.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+7,6,PT11M05.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0
+8,6,PT11M05.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,Ingles STEAL (1 STL),,,1,0
+9,7,PT10M50.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+10,7,PT10M50.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden STEAL (1 STL),,,1,0
+11,8,PT10M46.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,1,0,Made,1,2,0,2,h,Harden  Dunk (2 PTS) (Beverley 1 AST),Made Shot,Dunk Shot,1,0
+12,9,PT10M28.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,69,93,12,Made,1,2,2,4,v,Hayward 12' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,1,0
+13,10,PT10M09.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,233,0,0,Missed,1,0,0,0,h,MISS Beverley  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+14,11,PT10M08.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+15,12,PT09M49.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,1,0,Made,1,2,4,6,v,Gobert  Slam Dunk (2 PTS) (Ingles 1 AST),Made Shot,Slam Dunk Shot,1,0
+16,13,PT09M38.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,-174,110,21,Missed,1,0,0,0,h,MISS Ariza 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+17,14,PT09M35.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+18,15,PT09M30.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,204,-6,20,Missed,1,0,0,0,h,MISS Beverley 20' Jump Shot,Missed Shot,Jump Shot,1,0
+19,16,PT09M29.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+20,17,PT09M25.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-90,0,9,Made,1,4,4,8,h,Motiejunas 9' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,0
+21,18,PT08M56.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,-27,4,3,Missed,1,0,0,0,v,MISS Ingles 3' Layup,Missed Shot,Layup Shot,1,0
+22,19,PT08M54.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+23,20,PT08M48.00S,1,1610612745,HOU,201935,Harden,J. Harden,-157,190,25,Missed,1,0,0,0,h,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+24,21,PT08M46.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+25,22,PT08M32.00S,1,1610612762,UTA,202324,Favors,D. Favors,26,0,3,Made,1,4,6,10,v,Favors 3' Layup (2 PTS) (Gobert 1 AST),Made Shot,Layup Shot,1,0
+26,23,PT08M32.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden S.FOUL (P1.T1),Foul,Shooting,1,0
+27,26,PT08M32.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Violation:Lane,Violation,Lane,0,0
+28,28,PT08M32.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,4,7,11,v,Favors Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+29,31,PT08M13.00S,1,1610612745,HOU,2730,Howard,D. Howard,10,33,3,Missed,1,0,0,0,h,MISS Howard 3' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,0
+30,32,PT08M11.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+31,33,PT08M07.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley P.FOUL (P1.T2),Foul,Personal,1,0
+32,34,PT07M55.00S,1,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0
+33,34,PT07M55.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley STEAL (1 STL),,,1,0
+34,35,PT07M52.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors S.FOUL (P1.T1),Foul,Shooting,1,0
+35,36,PT07M52.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,5,7,12,h,Beverley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+36,38,PT07M52.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,6,7,13,h,Beverley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+37,40,PT07M33.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0
+38,40,PT07M33.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (1 STL),,,1,0
+39,42,PT07M20.00S,1,1610612745,HOU,2730,Howard,D. Howard,6,4,1,Made,1,8,7,15,h,Howard 1' Layup (2 PTS) (Harden 1 AST),Made Shot,Layup Shot,1,0
+40,43,PT07M03.00S,1,1610612762,UTA,202324,Favors,D. Favors,9,143,14,Made,1,8,9,17,v,Favors 14' Jump Shot (5 PTS) (Burke 1 AST),Made Shot,Jump Shot,1,0
+41,44,PT06M51.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0
+42,44,PT06M51.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors STEAL (1 STL),,,1,0
+43,45,PT06M45.00S,1,1610612762,UTA,203504,Burke,T. Burke,182,96,21,Made,1,8,11,19,v,Burke 21' Pullup Jump Shot (2 PTS) (Ingles 2 AST),Made Shot,Pullup Jump shot,1,0
+44,46,PT06M25.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0
+45,47,PT06M16.00S,1,1610612762,UTA,202324,Favors,D. Favors,-4,1,0,Made,1,8,13,21,v,Favors  Layup (7 PTS) (Burke 2 AST),Made Shot,Layup Shot,1,0
+46,49,PT05M56.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+47,51,PT05M54.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+48,51,PT05M54.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward STEAL (1 STL),,,1,0
+49,52,PT05M36.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza P.FOUL (P1.T3),Foul,Personal,1,0
+50,53,PT05M30.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+51,54,PT05M18.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0
+52,54,PT05M18.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,Ingles STEAL (2 STL),,,1,0
+53,55,PT05M12.00S,1,1610612762,UTA,203504,Burke,T. Burke,72,11,7,Missed,1,0,0,0,v,MISS Burke 7' Jump Shot,Missed Shot,Jump Shot,1,0
+54,57,PT05M11.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+55,56,PT05M11.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,-11,-2,1,Missed,1,0,0,0,v,MISS Hayward 1' Tip Shot,Missed Shot,Tip Shot,1,0
+56,58,PT05M09.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+57,59,PT05M03.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,-223,-16,0,Missed,1,0,0,0,h,MISS Beverley  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+58,60,PT05M01.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,Ingles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+59,61,PT04M59.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,Ingles Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0
+60,61,PT04M59.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (2 STL),,,1,0
+61,62,PT04M56.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,1,0,Made,1,10,13,23,h,Ariza  Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,1,0
+62,63,PT04M37.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors Offensive Charge Foul (P2.T2),Foul,Offensive Charge,1,0
+63,64,PT04M37.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors Foul Turnover (P2.T6),Turnover,Foul,1,0
+64,65,PT04M37.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,SUB: Smith FOR Ariza,Substitution,,0,0
+65,66,PT04M37.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Howard,Substitution,,0,0
+66,67,PT04M37.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,SUB: Terry FOR Beverley,Substitution,,0,0
+67,68,PT04M37.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,SUB: Kanter FOR Favors,Substitution,,0,0
+68,69,PT04M29.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0
+69,70,PT04M09.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,31,-5,3,Missed,1,0,0,0,v,MISS Hayward 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+70,71,PT04M07.00S,1,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+71,72,PT04M02.00S,1,1610612745,HOU,2746,Smith,J. Smith,0,1,0,Made,1,12,13,25,h,Smith  Driving Slam Dunk (2 PTS),Made Shot,Driving Slam Dunk Shot,1,0
+72,73,PT03M45.00S,1,1610612762,UTA,203504,Burke,T. Burke,-231,39,0,Made,1,12,16,28,v,Burke  3PT Jump Shot (5 PTS) (Hayward 1 AST),Made Shot,Jump Shot,1,0
+73,74,PT03M20.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-229,37,0,Made,1,15,16,31,h,Motiejunas  3PT Jump Shot (5 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,0
+74,75,PT03M05.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,-174,72,19,Missed,1,0,0,0,v,MISS Kanter 19' Jump Shot,Missed Shot,Jump Shot,1,0
+75,76,PT03M03.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+76,77,PT02M58.00S,1,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke S.FOUL (P1.T3),Foul,Shooting,1,0
+77,78,PT02M58.00S,1,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+78,80,PT02M58.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,SUB: Millsap FOR Gobert,Substitution,,0,0
+79,81,PT02M58.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,SUB: Booker FOR Ingles,Substitution,,0,0
+80,82,PT02M58.00S,1,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,SUB: Exum FOR Burke,Substitution,,0,0
+81,83,PT02M58.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,16,16,32,h,Harden Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+82,85,PT02M58.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,17,16,33,h,Harden Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+83,87,PT02M42.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,9,115,12,Missed,1,0,0,0,v,MISS Hayward 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+84,88,PT02M40.00S,1,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+85,89,PT02M34.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter Offensive Charge Foul (P1.T4),Foul,Offensive Charge,1,0
+86,90,PT02M34.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter Foul Turnover (P1.T7),Turnover,Foul,1,0
+87,91,PT02M12.00S,1,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap S.FOUL (P1.PN),Foul,Shooting,1,0
+88,92,PT02M12.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,18,16,34,h,Harden Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+89,94,PT02M12.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,SUB: Howard FOR Motiejunas,Substitution,,0,0
+90,95,PT02M12.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,19,16,35,h,Harden Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+91,98,PT02M00.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0
+92,99,PT01M46.00S,1,1610612745,HOU,2746,Smith,J. Smith,102,231,25,Missed,1,0,0,0,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+93,100,PT01M45.00S,1,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,0,0,0,v,Exum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+94,101,PT01M36.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,-226,7,0,Missed,1,0,0,0,v,MISS Hayward  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+95,102,PT01M35.00S,1,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+96,103,PT01M30.00S,1,1610612745,HOU,201935,Harden,J. Harden,-11,-8,1,Made,1,21,16,37,h,Harden 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,0
+97,104,PT01M17.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer P.FOUL (P1.T4),Foul,Personal,1,0
+98,105,PT01M17.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,SUB: Papanikolaou FOR Harden,Substitution,,0,0
+99,106,PT01M05.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,228,99,25,Made,1,21,19,40,v,Hayward 25' 3PT Jump Shot (5 PTS) (Millsap 1 AST),Made Shot,Jump Shot,1,0
+100,107,PT00M49.90S,1,1610612745,HOU,2746,Smith,J. Smith,-52,184,19,Missed,1,0,0,0,h,MISS Smith 19' Jump Shot,Missed Shot,Jump Shot,1,0
+101,108,PT00M47.90S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+102,109,PT00M34.90S,1,1610612762,UTA,202330,Hayward,G. Hayward,37,112,12,Missed,1,0,0,0,v,MISS Hayward 12' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+103,110,PT00M33.40S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+104,111,PT00M33.40S,1,1610612762,UTA,202683,Freedom,E. Freedom,-67,6,7,Made,1,21,21,42,v,Kanter 7' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,1,0
+105,112,PT00M24.00S,1,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker S.FOUL (P1.PN),Foul,Shooting,1,0
+106,113,PT00M24.00S,1,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,22,21,43,h,Smith Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+107,115,PT00M24.00S,1,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,23,21,44,h,Smith Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+108,117,PT00M03.10S,1,1610612762,UTA,202344,Booker,T. Booker,113,183,22,Made,1,23,23,46,v,Booker 22' Jump Shot (2 PTS) (Hayward 2 AST),Made Shot,Jump Shot,1,0
+109,118,PT00M00.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,58,410,41,Missed,1,0,0,0,h,MISS Brewer 41' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+110,119,PT00M00.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+111,120,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,23,46,,End of 1st Period (8:36 PM EST),period,end,0,0
+112,122,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,23,46,,Start of 2nd Period (8:39 PM EST),period,start,0,0
+113,123,PT11M43.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,-95,12,10,Made,1,23,25,48,v,Kanter 10' Turnaround Jump Shot (4 PTS) (Ingles 3 AST),Made Shot,Turnaround Jump Shot,1,0
+114,124,PT11M31.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Poss Lost Ball Turnover (P1.T7),Turnover,Poss Lost Ball Turnover,1,0
+115,125,PT11M10.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,-18,-5,2,Made,1,23,27,50,v,Kanter 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+116,127,PT10M47.00S,2,1610612745,HOU,2746,Smith,J. Smith,34,47,6,Missed,1,0,0,0,h,MISS Smith 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+117,128,PT10M46.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,Ingles REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+118,129,PT10M28.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,-62,55,8,Missed,1,0,0,0,v,MISS Millsap 8' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,0
+119,130,PT10M26.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+120,131,PT10M21.00S,2,1610612745,HOU,2746,Smith,J. Smith,-8,0,1,Made,1,25,27,52,h,Smith 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+121,132,PT10M08.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter OFF.Foul (P2),Foul,Offensive,1,0
+122,133,PT10M08.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter Foul Turnover (P2.T9),Turnover,Foul,1,0
+123,134,PT10M08.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,SUB: Gobert FOR Kanter,Substitution,,0,0
+124,135,PT10M08.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,0,0,0,v,SUB: Burke FOR Exum,Substitution,,0,0
+125,137,PT09M56.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,242,-3,24,Missed,1,0,0,0,h,MISS Brewer 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+126,138,PT09M54.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+127,139,PT09M51.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,28,0,3,Missed,1,0,0,0,h,MISS Brewer 3' Layup,Missed Shot,Layup Shot,1,0
+128,139,PT09M51.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap BLOCK (1 BLK),,,1,0
+129,140,PT09M50.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+130,141,PT09M43.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0
+131,141,PT09M43.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer STEAL (1 STL),,,1,0
+132,142,PT09M38.00S,2,1610612745,HOU,1891,Terry,J. Terry,-123,219,25,Missed,1,0,0,0,h,MISS Terry 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+133,143,PT09M36.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+134,144,PT09M35.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0
+135,144,PT09M35.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer STEAL (2 STL),,,1,0
+136,145,PT09M34.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert S.FOUL (P1.T1),Foul,Shooting,1,0
+137,146,PT09M34.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,MISS Brewer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+138,147,PT09M34.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0
+139,148,PT09M34.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,26,27,53,h,Brewer Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+140,151,PT09M26.00S,2,1610612762,UTA,203504,Burke,T. Burke,91,105,14,Missed,1,0,0,0,v,MISS Burke 14' Running Jump Shot,Missed Shot,Running Jump Shot,1,0
+141,152,PT09M24.00S,2,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+142,153,PT09M17.00S,2,1610612745,HOU,2746,Smith,J. Smith,47,50,7,Missed,1,0,0,0,h,MISS Smith 7' Hook Shot,Missed Shot,Hook Shot,1,0
+143,154,PT09M15.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+144,155,PT08M59.00S,2,1610612762,UTA,202344,Booker,T. Booker,234,9,0,Missed,1,0,0,0,v,MISS Booker  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+145,156,PT08M58.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+146,157,PT08M44.00S,2,1610612745,HOU,2730,Howard,D. Howard,51,4,5,Made,1,28,27,55,h,Howard 5' Turnaround Bank Hook Shot (4 PTS) (Terry 1 AST),Made Shot,Turnaround Bank Hook Shot,1,0
+147,158,PT08M19.00S,2,1610612762,UTA,203504,Burke,T. Burke,40,14,4,Made,1,28,29,57,v,Burke 4' Layup (7 PTS),Made Shot,Layup Shot,1,0
+148,160,PT08M09.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+149,162,PT08M09.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,SUB: Motiejunas FOR Smith,Substitution,,0,0
+150,164,PT08M04.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,29,75,8,Missed,1,0,0,0,h,MISS Motiejunas 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+151,164,PT08M04.00S,2,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker BLOCK (1 BLK),,,1,0
+152,165,PT08M03.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+153,166,PT07M53.00S,2,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,-70,241,25,Made,1,31,29,60,h,Papanikolaou 25' 3PT Jump Shot (3 PTS) (Howard 1 AST),Made Shot,Jump Shot,1,0
+154,167,PT07M27.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0
+155,168,PT07M08.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,-52,118,13,Missed,1,0,0,0,h,MISS Brewer 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+156,170,PT07M06.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+157,169,PT07M06.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,1,0,Missed,1,0,0,0,h,MISS Howard  Dunk,Missed Shot,Dunk Shot,1,0
+158,171,PT07M04.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,Ingles REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+159,172,PT06M56.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert Traveling Turnover (P3.T13),Turnover,Traveling,1,0
+160,173,PT06M56.00S,2,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,SUB: Favors FOR Booker,Substitution,,0,0
+161,174,PT06M39.00S,2,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,9,249,25,Missed,1,0,0,0,h,MISS Papanikolaou 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+162,175,PT06M38.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+163,176,PT06M20.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,236,25,24,Missed,1,0,0,0,v,MISS Millsap 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+164,177,PT06M19.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+165,178,PT06M05.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,234,0,0,Made,1,34,29,63,h,Brewer  3PT Jump Shot (4 PTS) (Terry 2 AST),Made Shot,Jump Shot,1,0
+166,179,PT05M56.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+167,181,PT05M56.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,SUB: Ariza FOR Brewer,Substitution,,0,0
+168,182,PT05M56.00S,2,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,SUB: Beverley FOR Papanikolaou,Substitution,,0,0
+169,183,PT05M56.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,SUB: Hayward FOR Millsap,Substitution,,0,0
+170,184,PT05M56.00S,2,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,h,SUB: Harden FOR Terry,Substitution,,0,0
+171,186,PT05M56.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,SUB: Millsap FOR Ingles,Substitution,,0,0
+172,185,PT05M43.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0
+173,187,PT05M30.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Lost Ball Turnover (P4.T8),Turnover,Lost Ball,1,0
+174,187,PT05M30.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap STEAL (1 STL),,,1,0
+175,189,PT05M16.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0
+176,189,PT05M16.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas STEAL (1 STL),,,1,0
+177,191,PT05M11.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,21,-3,2,Missed,1,0,0,0,h,MISS Beverley 2' Layup,Missed Shot,Layup Shot,1,0
+178,192,PT05M09.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+179,193,PT04M54.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,-226,102,25,Missed,1,0,0,0,v,MISS Millsap 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+180,194,PT04M52.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+181,195,PT04M50.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P1.T1),Foul,Shooting,1,0
+182,196,PT04M50.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,34,30,64,v,Favors Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+183,198,PT04M50.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,34,31,65,v,Favors Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+184,201,PT04M28.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,1,0,Missed,1,0,0,0,h,MISS Ariza  Driving Slam Dunk,Missed Shot,Driving Slam Dunk Shot,1,0
+185,201,PT04M28.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert BLOCK (1 BLK),,,1,0
+186,202,PT04M26.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+187,203,PT04M10.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward Lost Ball Turnover (P3.T16),Turnover,Lost Ball,1,0
+188,203,PT04M10.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard STEAL (1 STL),,,1,0
+189,205,PT03M51.00S,2,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,SUB: Exum FOR Millsap,Substitution,,0,0
+190,206,PT03M51.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Smith FOR Howard,Substitution,,0,0
+191,208,PT03M46.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-109,228,25,Missed,1,0,0,0,h,MISS Motiejunas 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+192,209,PT03M45.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+193,210,PT03M39.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke P.FOUL (P2.T2),Foul,Personal,1,0
+194,211,PT03M32.00S,2,1610612745,HOU,201935,Harden,J. Harden,196,0,20,Missed,1,0,0,0,h,MISS Harden 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+195,212,PT03M30.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+196,213,PT03M09.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden S.FOUL (P2.T2),Foul,Shooting,1,0
+197,214,PT03M09.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,0,0,0,v,MISS Exum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+198,215,PT03M09.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0
+199,217,PT03M09.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,SUB: Kanter FOR Favors,Substitution,,0,0
+200,218,PT03M09.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,34,32,66,v,Exum Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+201,220,PT02M51.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,62,159,17,Missed,1,0,0,0,h,MISS Ariza 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,0
+202,221,PT02M49.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+203,222,PT02M45.00S,2,1610612762,UTA,203957,Exum,D. Exum,-19,9,2,Made,1,34,34,68,v,Exum 2' Layup (3 PTS) (Hayward 3 AST),Made Shot,Layup Shot,1,0
+204,223,PT02M44.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+205,225,PT02M28.00S,2,1610612745,HOU,2746,Smith,J. Smith,24,1,2,Made,1,36,34,70,h,Smith 2' Layup (8 PTS) (Motiejunas 1 AST),Made Shot,Layup Shot,1,0
+206,226,PT02M14.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,-15,85,9,Missed,1,0,0,0,v,MISS Kanter 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,0
+207,227,PT02M12.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+208,228,PT02M07.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,0,0,0,v,Exum S.FOUL (P1.T3),Foul,Shooting,1,0
+209,229,PT02M07.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,37,34,71,h,Harden Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0
+210,231,PT02M07.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,38,34,72,h,Harden Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,0,0
+211,233,PT02M07.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,39,34,73,h,Harden Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,0,0
+212,235,PT02M07.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke OFF.Foul (P3),Foul,Offensive,1,0
+213,236,PT02M07.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke Foul Turnover (P2.T17),Turnover,Foul,1,0
+214,237,PT02M07.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,SUB: Williams FOR Burke,Substitution,,0,0
+215,238,PT01M59.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+216,241,PT01M51.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,-90,11,9,Made,1,41,34,75,h,Beverley 9' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,1,0
+217,242,PT01M30.00S,2,1610612762,UTA,203957,Exum,D. Exum,-171,195,26,Missed,1,0,0,0,v,MISS Exum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+218,243,PT01M29.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+219,244,PT01M24.00S,2,1610612745,HOU,201935,Harden,J. Harden,225,134,26,Missed,1,0,0,0,h,MISS Harden 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+220,245,PT01M23.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Rebound,Rebound,Unknown,0,0
+221,246,PT01M23.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley L.B.FOUL (P2.T3),Foul,Loose Ball,1,0
+222,247,PT01M09.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,0,0,0,v,Exum Backcourt Turnover (P1.T18),Turnover,Backcourt Turnover,1,0
+223,248,PT01M09.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,0,0,0,v,SUB: Clark FOR Exum,Substitution,,0,0
+224,249,PT00M55.80S,2,1610612745,HOU,2772,Ariza,T. Ariza,242,-10,24,Made,1,44,34,78,h,Ariza 24' 3PT Jump Shot (5 PTS) (Beverley 2 AST),Made Shot,Jump Shot,1,0
+225,250,PT00M40.90S,2,1610612762,UTA,202343,Williams,E. Williams,190,172,26,Made,1,44,37,81,v,Williams 26' 3PT Jump Shot (3 PTS) (Clark 1 AST),Made Shot,Jump Shot,1,0
+226,251,PT00M24.90S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,1,74,7,Made,1,46,37,83,h,Motiejunas 7' Turnaround Hook Shot (7 PTS) (Beverley 3 AST),Made Shot,Turnaround Hook Shot,1,0
+227,252,PT00M00.50S,2,1610612762,UTA,202343,Williams,E. Williams,184,159,24,Missed,1,0,0,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+228,253,PT00M00.00S,2,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Rebound,Rebound,Unknown,1,0
+229,254,PT00M00.00S,2,0,,0,,,0,0,0,,0,46,37,83,,End of 2nd Period (9:07 PM EST),period,end,0,0
+230,256,PT12M00.00S,3,0,,0,,,0,0,0,,0,46,37,83,,Start of 3rd Period (9:23 PM EST),period,start,0,0
+231,257,PT11M48.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,-46,214,22,Missed,1,0,0,0,v,MISS Hayward 22' Jump Shot,Missed Shot,Jump Shot,1,0
+232,258,PT11M47.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+233,259,PT11M41.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-10,3,1,Made,1,48,37,85,h,Motiejunas 1' Layup (9 PTS) (Harden 2 AST),Made Shot,Layup Shot,1,0
+234,260,PT11M25.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza S.FOUL (P2.T1),Foul,Shooting,1,0
+235,261,PT11M25.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,48,38,86,v,Favors Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+236,263,PT11M25.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,48,39,87,v,Favors Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+237,265,PT11M08.00S,3,1610612745,HOU,201935,Harden,J. Harden,-191,-10,19,Made,1,50,39,89,h,Harden 19' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,0
+238,266,PT10M50.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,1,0,Made,1,50,41,91,v,Gobert  Dunk (4 PTS) (Ingles 4 AST),Made Shot,Dunk Shot,1,0
+239,267,PT10M26.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,-40,110,12,Missed,1,0,0,0,h,MISS Beverley 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+240,268,PT10M24.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+241,269,PT10M17.00S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke Bad Pass Turnover (P3.T19),Turnover,Bad Pass,1,0
+242,269,PT10M17.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley STEAL (2 STL),,,1,0
+243,270,PT10M12.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,18,-3,2,Missed,1,0,0,0,h,MISS Beverley 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+244,271,PT10M10.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+245,272,PT09M58.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas S.FOUL (P1.T2),Foul,Shooting,1,0
+246,273,PT09M58.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,50,42,92,v,Hayward Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+247,275,PT09M58.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,SUB: Williams FOR Ingles,Substitution,,0,0
+248,276,PT09M58.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,50,43,93,v,Hayward Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+249,278,PT09M44.00S,3,1610612745,HOU,2730,Howard,D. Howard,-56,0,6,Missed,1,0,0,0,h,MISS Howard 6' Hook Shot,Missed Shot,Hook Shot,1,0
+250,279,PT09M42.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors REBOUND (Off:0 Def:7),Rebound,Unknown,1,0
+251,280,PT09M23.00S,3,1610612762,UTA,202343,Williams,E. Williams,0,0,0,,0,0,0,0,v,Williams Bad Pass Turnover (P1.T20),Turnover,Bad Pass,1,0
+252,280,PT09M23.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (3 STL),,,1,0
+253,281,PT09M19.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+254,281,PT09M19.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward STEAL (2 STL),,,1,0
+255,282,PT09M19.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden P.FOUL (P3.T3),Foul,Personal,1,0
+256,284,PT09M08.00S,3,1610612762,UTA,202324,Favors,D. Favors,-98,-3,10,Missed,1,0,0,0,v,MISS Favors 10' Jump Shot,Missed Shot,Jump Shot,1,0
+257,285,PT09M06.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+258,286,PT08M48.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,236,44,24,Missed,1,0,0,0,h,MISS Ariza 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+259,287,PT08M47.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+260,288,PT08M41.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0
+261,288,PT08M41.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors STEAL (2 STL),,,1,0
+262,289,PT08M23.00S,3,1610612762,UTA,203504,Burke,T. Burke,236,89,25,Missed,1,0,0,0,v,MISS Burke 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+263,290,PT08M21.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+264,291,PT08M16.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward S.FOUL (P1.T1),Foul,Shooting,1,0
+265,292,PT08M16.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,51,43,94,h,Harden Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+266,294,PT08M16.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,52,43,95,h,Harden Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+267,296,PT07M59.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,1,0,Made,1,52,45,97,v,Favors  Slam Dunk (13 PTS) (Hayward 4 AST),Made Shot,Slam Dunk Shot,1,0
+268,297,PT07M46.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-105,3,11,Made,1,54,45,99,h,Motiejunas 11' Hook Shot (11 PTS) (Ariza 1 AST),Made Shot,Hook Shot,1,0
+269,298,PT07M25.00S,3,1610612762,UTA,202324,Favors,D. Favors,6,156,16,Made,1,54,47,101,v,Favors 16' Jump Shot (15 PTS) (Gobert 2 AST),Made Shot,Jump Shot,1,0
+270,299,PT07M12.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Bad Pass Turnover (P5.T11),Turnover,Bad Pass,1,0
+271,299,PT07M12.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert STEAL (1 STL),,,1,0
+272,300,PT07M06.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P2.T4),Foul,Shooting,1,0
+273,301,PT07M06.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+274,305,PT07M06.00S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,54,48,102,v,Burke Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+275,307,PT07M06.00S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,54,49,103,v,Burke Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+276,309,PT06M53.00S,3,1610612745,HOU,201935,Harden,J. Harden,154,192,25,Made,1,57,49,106,h,Harden 25' 3PT Jump Shot (18 PTS) (Beverley 4 AST),Made Shot,Jump Shot,1,0
+277,310,PT06M35.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,Favors Bad Pass Turnover (P3.T21),Turnover,Bad Pass,1,0
+278,310,PT06M35.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (4 STL),,,1,0
+279,311,PT06M23.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,7,252,25,Made,1,60,49,109,h,Beverley 25' 3PT Jump Shot (7 PTS) (Ariza 2 AST),Made Shot,Jump Shot,1,0
+280,312,PT05M55.00S,3,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Turnover: Shot Clock (T#22),Turnover,Shot Clock Turnover,0,0
+281,313,PT05M55.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,SUB: Booker FOR Gobert,Substitution,,0,0
+282,314,PT05M43.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,233,15,0,Made,1,63,49,112,h,Ariza  3PT Jump Shot (8 PTS) (Beverley 5 AST),Made Shot,Jump Shot,1,0
+283,315,PT05M35.00S,3,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+284,318,PT05M35.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,0,0,0,v,SUB: Kanter FOR Favors,Substitution,,0,0
+285,319,PT05M35.00S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,SUB: Ingles FOR Burke,Substitution,,0,0
+286,320,PT05M30.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,-79,1,8,Missed,1,0,0,0,v,MISS Hayward 8' Jump Shot,Missed Shot,Jump Shot,1,0
+287,321,PT05M29.00S,3,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+288,322,PT05M28.00S,3,1610612762,UTA,202683,Freedom,E. Freedom,12,6,1,Made,1,63,51,114,v,Kanter 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,0
+289,323,PT05M12.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0
+290,324,PT04M57.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,-5,3,1,Made,1,63,53,116,v,Ingles 1' Layup (2 PTS) (Hayward 5 AST),Made Shot,Layup Shot,1,0
+291,325,PT04M44.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard OFF.Foul (P3),Foul,Offensive,1,0
+292,326,PT04M44.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Foul Turnover (P3.T13),Turnover,Foul,1,0
+293,327,PT04M44.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,0,0,0,v,SUB: Millsap FOR Ingles,Substitution,,0,0
+294,328,PT04M36.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward Bad Pass Turnover (P4.T23),Turnover,Bad Pass,1,0
+295,329,PT04M25.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker S.FOUL (P2.T2),Foul,Shooting,1,0
+296,330,PT04M25.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,64,53,117,h,Ariza Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+297,332,PT04M25.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,65,53,118,h,Ariza Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+298,334,PT04M23.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker Bad Pass Turnover (P1.T24),Turnover,Bad Pass,1,0
+299,334,PT04M23.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas STEAL (2 STL),,,1,0
+300,335,PT04M12.00S,3,1610612745,HOU,201935,Harden,J. Harden,220,134,26,Made,1,68,53,121,h,Harden 26' 3PT Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,0
+301,336,PT03M57.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,168,127,21,Missed,1,0,0,0,v,MISS Hayward 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+302,337,PT03M55.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+303,338,PT03M39.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,-228,-17,0,Missed,1,0,0,0,h,MISS Beverley  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+304,339,PT03M38.00S,3,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+305,340,PT03M19.00S,3,1610612762,UTA,202407,Millsap,E. Millsap,162,129,21,Missed,1,0,0,0,v,MISS Millsap 21' Jump Shot,Missed Shot,Jump Shot,1,0
+306,341,PT03M18.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+307,343,PT03M12.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,SUB: Smith FOR Ariza,Substitution,,0,0
+308,344,PT03M12.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Terry FOR Howard,Substitution,,0,0
+309,345,PT03M12.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Beverley,Substitution,,0,0
+310,346,PT02M55.00S,3,1610612745,HOU,201935,Harden,J. Harden,173,96,20,Missed,1,0,0,0,h,MISS Harden 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+311,347,PT02M53.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+312,348,PT02M51.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,0,0,0,v,Hayward Bad Pass Turnover (P5.T25),Turnover,Bad Pass,1,0
+313,349,PT02M40.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker S.FOUL (P3.T3),Foul,Shooting,1,0
+314,350,PT02M40.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,69,53,122,h,Motiejunas Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+315,352,PT02M40.00S,3,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,SUB: Gobert FOR Kanter,Substitution,,0,0
+316,353,PT02M40.00S,3,1610612762,UTA,202343,Williams,E. Williams,0,0,0,,0,0,0,0,v,SUB: Burke FOR Williams,Substitution,,0,0
+317,354,PT02M40.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,MISS Motiejunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+318,356,PT02M40.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+319,357,PT02M29.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer P.FOUL (P2.PN),Foul,Personal,1,0
+320,358,PT02M29.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,69,54,123,v,Hayward Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+321,360,PT02M29.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,69,55,124,v,Hayward Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+322,362,PT02M17.00S,3,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap Violation:Kicked Ball,Violation,Kicked Ball,0,0
+323,363,PT02M06.00S,3,1610612745,HOU,201935,Harden,J. Harden,-105,56,12,Made,1,71,55,126,h,Harden 12' Fadeaway Jumper (23 PTS),Made Shot,Fadeaway Jump Shot,1,0
+324,364,PT01M47.00S,3,1610612762,UTA,203504,Burke,T. Burke,40,203,21,Missed,1,0,0,0,v,MISS Burke 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+325,365,PT01M44.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+326,366,PT01M31.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,36,85,9,Made,1,73,55,128,h,Motiejunas 9' Hook Shot (14 PTS) (Harden 3 AST),Made Shot,Hook Shot,1,0
+327,367,PT01M16.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,1,0,Made,1,73,57,130,v,Booker  Dunk (4 PTS) (Gobert 3 AST),Made Shot,Dunk Shot,1,0
+328,368,PT00M51.10S,3,1610612745,HOU,201147,Brewer,C. Brewer,-223,4,0,Made,1,76,57,133,h,Brewer  3PT Jump Shot (7 PTS) (Harden 4 AST),Made Shot,Jump Shot,1,0
+329,369,PT00M32.90S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke Lost Ball Turnover (P4.T26),Turnover,Lost Ball,1,0
+330,369,PT00M32.90S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas STEAL (3 STL),,,1,0
+331,370,PT00M30.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,-8,3,1,Made,1,78,57,135,h,Brewer 1' Layup (9 PTS) (Terry 3 AST),Made Shot,Layup Shot,1,0
+332,371,PT00M07.80S,3,1610612762,UTA,202344,Booker,T. Booker,-59,195,20,Missed,1,0,0,0,v,MISS Booker 20' Jump Shot,Missed Shot,Jump Shot,1,0
+333,372,PT00M06.90S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+334,373,PT00M00.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,237,-3,24,Missed,1,0,0,0,h,MISS Brewer 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+335,374,PT00M00.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+336,375,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,57,135,,End of 3rd Period (9:48 PM EST),period,end,0,0
+337,376,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,57,135,,Start of 4th Period (9:51 PM EST),period,start,0,0
+338,377,PT11M57.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0
+339,377,PT11M57.00S,4,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap STEAL (2 STL),,,1,0
+340,378,PT11M53.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,-5,-2,1,Made,1,78,59,137,v,Kanter 1' Layup (10 PTS) (Millsap 2 AST),Made Shot,Layup Shot,1,0
+341,379,PT11M38.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0
+342,379,PT11M38.00S,4,1610612762,UTA,202343,Williams,E. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (1 STL),,,1,0
+343,380,PT11M32.00S,4,1610612762,UTA,202407,Millsap,E. Millsap,-221,104,24,Made,1,78,62,140,v,Millsap 24' 3PT Jump Shot (3 PTS) (Burke 3 AST),Made Shot,Jump Shot,1,0
+344,384,PT11M08.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,1,0,Made,1,80,62,142,h,Howard  Alley Oop Dunk (6 PTS) (Smith 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+345,385,PT10M43.00S,4,1610612762,UTA,203504,Burke,T. Burke,-177,176,25,Missed,1,0,0,0,v,MISS Burke 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+346,386,PT10M43.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+347,387,PT10M43.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter L.B.FOUL (P3.T1),Foul,Loose Ball,1,0
+348,390,PT10M28.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0
+349,390,PT10M28.00S,4,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap STEAL (3 STL),,,1,0
+350,391,PT10M23.00S,4,1610612762,UTA,202407,Millsap,E. Millsap,15,-11,2,Missed,1,0,0,0,v,MISS Millsap 2' Layup,Missed Shot,Layup Shot,1,0
+351,391,PT10M23.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith BLOCK (1 BLK),,,1,0
+352,392,PT10M21.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+353,393,PT10M17.00S,4,1610612745,HOU,2730,Howard,D. Howard,-13,14,2,Made,1,82,62,144,h,Howard 2' Layup (8 PTS) (Brewer 1 AST),Made Shot,Layup Shot,1,0
+354,394,PT09M58.00S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,h,Terry P.FOUL (P1.T1),Foul,Personal,1,0
+355,395,PT09M47.00S,4,1610612762,UTA,202343,Williams,E. Williams,230,119,26,Missed,1,0,0,0,v,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+356,396,PT09M46.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+357,397,PT09M38.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,-229,-3,0,Missed,1,0,0,0,h,MISS Papanikolaou  3PT Jump Shot,Missed Shot,Jump Shot,1,0
+358,398,PT09M37.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+359,399,PT09M21.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,-24,12,3,Missed,1,0,0,0,v,MISS Kanter 3' Layup,Missed Shot,Layup Shot,1,0
+360,399,PT09M21.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard BLOCK (1 BLK),,,1,0
+361,400,PT09M20.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Rebound,Rebound,Unknown,0,0
+362,401,PT09M16.00S,4,1610612762,UTA,202343,Williams,E. Williams,-199,63,21,Missed,1,0,0,0,v,MISS Williams 21' Jump Shot,Missed Shot,Jump Shot,1,0
+363,402,PT09M14.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+364,403,PT09M13.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,21,-14,3,Made,1,82,64,146,v,Kanter 3' Layup (12 PTS),Made Shot,Layup Shot,1,0
+365,404,PT09M13.00S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,h,Terry S.FOUL (P2.T2),Foul,Shooting,1,0
+366,405,PT09M13.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,MISS Kanter Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+367,407,PT09M13.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+368,408,PT09M03.00S,4,1610612745,HOU,2746,Smith,J. Smith,-40,9,4,Missed,1,0,0,0,h,MISS Smith 4' Jump Shot,Missed Shot,Jump Shot,1,0
+369,408,PT09M03.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert BLOCK (2 BLK),,,1,0
+370,409,PT09M02.00S,4,1610612762,UTA,202343,Williams,E. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+371,410,PT08M59.00S,4,1610612762,UTA,202343,Williams,E. Williams,0,0,0,,0,0,0,0,v,Williams Bad Pass Turnover (P2.T27),Turnover,Bad Pass,1,0
+372,410,PT08M59.00S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,h,Terry STEAL (1 STL),,,1,0
+373,411,PT08M55.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,1,0,Made,1,84,64,148,h,Smith  Slam Dunk (10 PTS) (Terry 4 AST),Made Shot,Slam Dunk Shot,1,0
+374,412,PT08M42.00S,4,1610612762,UTA,203504,Burke,T. Burke,-26,64,7,Made,1,84,66,150,v,Burke 7' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,1,0
+375,413,PT08M42.00S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,h,Terry S.FOUL (P3.T3),Foul,Shooting,1,0
+376,414,PT08M42.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Regular,Timeout,Regular,0,0
+377,418,PT08M42.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,SUB: Evans FOR Kanter,Substitution,,0,0
+378,419,PT08M42.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,84,67,151,v,Burke Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0
+379,421,PT08M28.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Timeout: Short (Full 3 Short 2),Timeout,Short,0,0
+380,422,PT08M20.00S,4,1610612745,HOU,2730,Howard,D. Howard,-59,67,9,Missed,1,0,0,0,h,MISS Howard 9' Hook Shot,Missed Shot,Hook Shot,1,0
+381,423,PT08M18.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+382,424,PT08M07.00S,4,1610612762,UTA,203504,Burke,T. Burke,-65,170,18,Made,1,84,69,153,v,Burke 18' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,0
+383,425,PT07M52.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,236,7,24,Missed,1,0,0,0,h,MISS Brewer 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+384,426,PT07M50.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Rebound,Rebound,Unknown,0,0
+385,427,PT07M30.00S,4,1610612762,UTA,203504,Burke,T. Burke,9,30,3,Made,1,84,71,155,v,Burke 3' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+386,428,PT07M17.00S,4,1610612745,HOU,2746,Smith,J. Smith,-62,0,6,Missed,1,0,0,0,h,MISS Smith 6' Hook Shot,Missed Shot,Hook Shot,1,0
+387,428,PT07M17.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,Gobert BLOCK (3 BLK),,,1,0
+388,429,PT07M15.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+389,430,PT07M04.00S,4,1610612762,UTA,202407,Millsap,E. Millsap,-5,151,15,Missed,1,0,0,0,v,MISS Millsap 15' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+390,431,PT07M02.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+391,432,PT06M59.00S,4,1610612762,UTA,203504,Burke,T. Burke,-218,116,25,Missed,1,0,0,0,v,MISS Burke 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+392,433,PT06M58.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Rebound,Rebound,Unknown,1,0
+393,434,PT06M58.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,Smith L.B.FOUL (P1.T4),Foul,Loose Ball,1,0
+394,435,PT06M58.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0,0,0,h,SUB: Motiejunas FOR Brewer,Substitution,,0,0
+395,436,PT06M58.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0,0,0,h,SUB: Beverley FOR Smith,Substitution,,0,0
+396,437,PT06M58.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,SUB: Harden FOR Papanikolaou,Substitution,,0,0
+397,441,PT06M58.00S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0,0,0,h,SUB: Ariza FOR Terry,Substitution,,0,0
+398,438,PT06M41.00S,4,1610612762,UTA,202407,Millsap,E. Millsap,198,160,25,Missed,1,0,0,0,v,MISS Millsap 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+399,439,PT06M39.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+400,440,PT06M19.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas Bad Pass Turnover (P4.T17),Turnover,Bad Pass,1,0
+401,440,PT06M19.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans STEAL (1 STL),,,1,0
+402,442,PT06M12.00S,4,1610612762,UTA,203504,Burke,T. Burke,24,0,2,Missed,1,0,0,0,v,MISS Burke 2' Layup,Missed Shot,Layup Shot,1,0
+403,442,PT06M12.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden BLOCK (1 BLK),,,1,0
+404,443,PT06M11.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+405,444,PT06M11.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,Burke P.FOUL (P4.T2),Foul,Personal,1,0
+406,446,PT05M58.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,64,6,Missed,1,0,0,0,h,MISS Beverley 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+407,447,PT05M56.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+408,448,PT05M56.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas P.FOUL (P2.PN),Foul,Personal,1,0
+409,449,PT05M56.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,0
+410,452,PT05M56.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,SUB: Kanter FOR Gobert,Substitution,,0,0
+411,453,PT05M56.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,84,72,156,v,Evans Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+412,455,PT05M56.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,84,73,157,v,Evans Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+413,457,PT05M42.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,239,44,24,Missed,1,0,0,0,h,MISS Ariza 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+414,458,PT05M40.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+415,459,PT05M19.00S,4,1610612762,UTA,202343,Williams,E. Williams,-59,17,6,Missed,1,0,0,0,v,MISS Williams 6' Jump Shot,Missed Shot,Jump Shot,1,0
+416,460,PT05M17.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,Motiejunas REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+417,461,PT05M00.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden Lost Ball Turnover (P6.T18),Turnover,Lost Ball,1,0
+418,461,PT05M00.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans STEAL (2 STL),,,1,0
+419,462,PT04M54.00S,4,1610612762,UTA,202343,Williams,E. Williams,-10,-2,1,Missed,1,0,0,0,v,MISS Williams 1' Layup,Missed Shot,Layup Shot,1,0
+420,463,PT04M53.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter REBOUND (Off:4 Def:1),Rebound,Unknown,1,0
+421,464,PT04M53.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,-18,-2,2,Missed,1,0,0,0,v,MISS Kanter 2' Tip Shot,Missed Shot,Tip Shot,1,0
+422,465,PT04M53.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Rebound,Rebound,Unknown,0,0
+423,466,PT04M53.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley S.FOUL (P3.PN),Foul,Shooting,1,0
+424,467,PT04M53.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,84,74,158,v,Kanter Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+425,469,PT04M53.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,84,75,159,v,Kanter Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+426,471,PT04M38.00S,4,1610612745,HOU,201935,Harden,J. Harden,-212,135,25,Made,1,87,75,162,h,Harden 25' 3PT Jump Shot (26 PTS) (Ariza 3 AST),Made Shot,Jump Shot,1,0
+427,472,PT04M12.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Turnover: Shot Clock (T#28),Turnover,Shot Clock Turnover,0,0
+428,474,PT04M01.00S,4,1610612745,HOU,201935,Harden,J. Harden,-196,146,24,Made,1,90,75,165,h,Harden 24' 3PT Jump Shot (29 PTS) (Beverley 6 AST),Made Shot,Jump Shot,1,0
+429,476,PT03M36.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Turnover: Shot Clock (T#29),Turnover,Shot Clock Turnover,0,0
+430,477,PT03M36.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,SUB: Gobert FOR Kanter,Substitution,,0,0
+431,478,PT03M19.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,-182,167,25,Missed,1,0,0,0,h,MISS Ariza 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+432,479,PT03M18.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+433,480,PT03M10.00S,4,1610612762,UTA,203504,Burke,T. Burke,143,123,19,Missed,1,0,0,0,v,MISS Burke 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+434,481,PT03M07.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+435,482,PT02M48.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans Shooting Block Foul (P1.T3),Foul,Shooting Block,1,0
+436,483,PT02M48.00S,4,0,,1610612762,,,0,0,0,,0,0,0,0,v,Jazz Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+437,485,PT02M48.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,v,SUB: Clark FOR Gobert,Substitution,,0,0
+438,486,PT02M48.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,0,0,0,v,SUB: Kanter FOR Burke,Substitution,,0,0
+439,487,PT02M48.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,MISS Harden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+440,488,PT02M48.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0
+441,489,PT02M48.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,91,75,166,h,Harden Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0
+442,491,PT02M37.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P4.PN),Foul,Shooting,1,0
+443,492,PT02M37.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,91,76,167,v,Kanter Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+444,494,PT02M37.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,91,77,168,v,Kanter Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+445,496,PT02M20.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,110,228,25,Missed,1,0,0,0,h,MISS Beverley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+446,497,PT02M19.00S,4,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+447,498,PT02M05.00S,4,1610612762,UTA,202407,Millsap,E. Millsap,0,0,0,,0,0,0,0,v,Millsap Bad Pass Turnover (P4.T30),Turnover,Bad Pass,1,0
+448,498,PT02M05.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,Ariza STEAL (5 STL),,,1,0
+449,499,PT01M59.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,239,0,24,Made,1,94,77,171,h,Beverley 24' 3PT Jump Shot (10 PTS) (Harden 5 AST),Made Shot,Jump Shot,1,0
+450,500,PT01M45.00S,4,1610612762,UTA,202407,Millsap,E. Millsap,-98,160,19,Missed,1,0,0,0,v,MISS Millsap 19' Jump Shot,Missed Shot,Jump Shot,1,0
+451,501,PT01M43.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+452,502,PT01M36.00S,4,1610612745,HOU,201935,Harden,J. Harden,-177,198,27,Missed,1,0,0,0,h,MISS Harden 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+453,503,PT01M35.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,Harden REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+454,504,PT01M26.00S,4,1610612745,HOU,201935,Harden,J. Harden,-213,131,25,Missed,1,0,0,0,h,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+455,504,PT01M26.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans BLOCK (1 BLK),,,1,0
+456,505,PT01M24.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter REBOUND (Off:4 Def:2),Rebound,Unknown,1,0
+457,506,PT01M20.00S,4,1610612762,UTA,202379,Evans,J. Evans,0,1,0,Missed,1,0,0,0,v,MISS Evans  Dunk,Missed Shot,Dunk Shot,1,0
+458,507,PT01M20.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+459,508,PT01M20.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0,0,0,h,SUB: Canaan FOR Ariza,Substitution,,0,0
+460,509,PT01M20.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0,0,0,h,SUB: Dorsey FOR Motiejunas,Substitution,,0,0
+461,510,PT01M20.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Shved FOR Howard,Substitution,,0,0
+462,511,PT01M20.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,h,SUB: Papanikolaou FOR Harden,Substitution,,0,0
+463,512,PT01M03.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,h,Beverley Bad Pass Turnover (P1.T19),Turnover,Bad Pass,0,0
+464,512,PT01M03.00S,4,1610612762,UTA,202343,Williams,E. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (2 STL),,,0,0
+465,513,PT01M01.00S,4,1610612762,UTA,202343,Williams,E. Williams,0,0,0,,0,0,0,0,v,Williams Bad Pass Turnover (P3.T31),Turnover,Bad Pass,0,0
+466,513,PT01M01.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou STEAL (1 STL),,,0,0
+467,514,PT00M56.00S,4,1610612745,HOU,203123,Papanikolaou,K. Papanikolaou,0,0,0,,0,0,0,0,h,Papanikolaou Bad Pass Turnover (P3.T20),Turnover,Bad Pass,1,0
+468,514,PT00M56.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,0,0,0,v,Kanter STEAL (1 STL),,,1,0
+469,515,PT00M45.40S,4,1610612762,UTA,202407,Millsap,E. Millsap,7,-13,1,Made,1,94,79,173,v,Millsap 1' Layup (5 PTS) (Kanter 1 AST),Made Shot,Layup Shot,1,0
+470,517,PT00M37.90S,4,1610612745,HOU,201976,Beverley,P. Beverley,237,48,24,Missed,1,0,0,0,h,MISS Beverley 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+471,518,PT00M36.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,h,ROCKETS Rebound,Rebound,Unknown,0,0
+472,519,PT00M33.90S,4,1610612745,HOU,203144,Shved,A. Shved,241,64,25,Made,1,97,79,176,h,Shved 25' 3PT Jump Shot (3 PTS) (Beverley 7 AST),Made Shot,Jump Shot,1,0
+473,521,PT00M13.90S,4,1610612762,UTA,203546,Clark,I. Clark,-198,164,26,Missed,1,0,0,0,v,MISS Clark 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+474,522,PT00M11.90S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,0,0,0,v,Evans REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+475,523,PT00M09.20S,4,1610612762,UTA,202407,Millsap,E. Millsap,97,238,26,Made,1,97,82,179,v,Millsap 26' 3PT Jump Shot (8 PTS) (Evans 1 AST),Made Shot,Jump Shot,1,0
+476,525,PT00M00.00S,4,0,,0,,,0,0,0,,0,97,82,179,,End of 4th Period (10:20 PM EST),period,end,0,0

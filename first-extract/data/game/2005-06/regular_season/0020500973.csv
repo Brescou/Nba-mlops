@@ -1,0 +1,435 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:49 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Jump Ball Kaman vs. Hunter: Tip to Salmons,Jump Ball,,0,0
+3,2,PT11M43.00S,1,1610612755,PHI,185,Webber,C. Webber,-154,81,17,Missed,1,0,0,0,v,MISS Webber 17' Jump Shot,Missed Shot,Jump Shot,0,0
+4,3,PT11M42.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+5,4,PT11M16.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,-154,204,26,Made,1,3,0,3,h,Mobley 26' 3PT Jump Shot (3 PTS) (Brand 1 AST),Made Shot,Jump Shot,0,0
+6,5,PT10M56.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,Made,1,3,2,5,v,Hunter  Layup (2 PTS) (Salmons 1 AST),Made Shot,Layup Shot,0,0
+7,6,PT10M56.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman S.FOUL (P1.T1),Foul,Shooting,0,0
+8,7,PT10M56.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,MISS Hunter Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+9,8,PT10M56.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+10,9,PT10M35.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,-107,145,18,Made,1,5,2,7,h,Mobley 18' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,0,0
+11,10,PT10M10.00S,1,1610612755,PHI,2594,Korver,K. Korver,-95,130,16,Missed,1,0,0,0,v,MISS Korver 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+12,11,PT10M08.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+13,12,PT10M03.00S,1,1610612746,LAC,208,Cassell,S. Cassell,-113,163,20,Missed,1,0,0,0,h,MISS Cassell 20' Jump Shot,Missed Shot,Jump Shot,0,0
+14,13,PT10M02.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+15,14,PT09M54.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Missed,1,0,0,0,v,MISS Iguodala  Layup,Missed Shot,Layup Shot,0,0
+16,14,PT09M54.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman BLOCK (1 BLK),,,0,0
+17,15,PT09M53.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+18,16,PT09M47.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,h,MISS Mobley  Layup,Missed Shot,Layup Shot,0,0
+19,16,PT09M47.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,Hunter BLOCK (1 BLK),,,0,0
+20,17,PT09M45.00S,1,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+21,18,PT09M39.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross S.FOUL (P1.T2),Foul,Shooting,0,0
+22,19,PT09M39.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,5,3,8,v,Iguodala Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+23,20,PT09M39.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,5,4,9,v,Iguodala Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+24,21,PT09M30.00S,1,1610612746,LAC,1882,Brand,E. Brand,84,141,16,Made,1,7,4,11,h,Brand 16' Jump Shot (2 PTS) (Kaman 1 AST),Made Shot,Jump Shot,0,0
+25,22,PT09M16.00S,1,1610612755,PHI,185,Webber,C. Webber,-66,74,10,Made,1,7,6,13,v,Webber 10' Jump Hook Shot (2 PTS) (Korver 1 AST),Made Shot,Jump Hook Shot,0,0
+26,23,PT09M01.00S,1,1610612746,LAC,1882,Brand,E. Brand,-52,59,8,Made,1,9,6,15,h,Brand 8' Running Hook Shot (4 PTS),Made Shot,Running Hook Shot,0,0
+27,24,PT08M41.00S,1,1610612755,PHI,185,Webber,C. Webber,-18,63,7,Made,1,9,8,17,v,Webber 7' Driving Hook Shot (4 PTS) (Salmons 2 AST),Made Shot,Driving Hook Shot,0,0
+28,25,PT08M23.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Missed,1,0,0,0,h,MISS Ross  Layup,Missed Shot,Layup Shot,0,0
+29,26,PT08M22.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+30,27,PT08M21.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0,0,0,h,MISS Kaman  Layup,Missed Shot,Layup Shot,0,0
+31,28,PT08M21.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+32,29,PT08M20.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0,0,0,h,MISS Kaman  Layup,Missed Shot,Layup Shot,0,0
+33,30,PT08M20.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+34,31,PT08M13.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,Made,1,9,10,19,v,Hunter  Layup (4 PTS) (Salmons 3 AST),Made Shot,Layup Shot,0,0
+35,32,PT07M54.00S,1,1610612746,LAC,208,Cassell,S. Cassell,-146,20,15,Missed,1,0,0,0,h,MISS Cassell 15' Jump Shot,Missed Shot,Jump Shot,0,0
+36,33,PT07M53.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+37,34,PT07M40.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Missed,1,0,0,0,v,MISS Iguodala  Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+38,35,PT07M39.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Unknown,0,0
+39,36,PT07M39.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+40,36,PT07M39.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross STEAL (1 STL),,,0,0
+41,37,PT07M35.00S,1,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver S.FOUL (P1.T1),Foul,Shooting,0,0
+42,38,PT07M35.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,10,10,20,h,Brand Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+43,39,PT07M35.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,11,10,21,h,Brand Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+44,41,PT07M15.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell S.FOUL (P1.T3),Foul,Shooting,0,0
+45,42,PT07M15.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,MISS Hunter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+46,43,PT07M15.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+47,44,PT07M15.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,MISS Hunter Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+48,45,PT07M15.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+49,46,PT06M52.00S,1,1610612746,LAC,1882,Brand,E. Brand,89,150,17,Missed,1,0,0,0,h,MISS Brand 17' Jump Shot,Missed Shot,Jump Shot,0,0
+50,47,PT06M50.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+51,48,PT06M37.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,Hunter Traveling Turnover (P1.T2),Turnover,Traveling,0,0
+52,49,PT06M24.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0
+53,49,PT06M24.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber STEAL (1 STL),,,0,0
+54,50,PT06M20.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,Made,1,11,12,23,v,Webber  Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,0
+55,51,PT06M07.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,h,MISS Mobley  Layup,Missed Shot,Layup Shot,0,0
+56,51,PT06M07.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,Hunter BLOCK (2 BLK),,,0,0
+57,52,PT06M05.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+58,53,PT05M54.00S,1,1610612746,LAC,208,Cassell,S. Cassell,-99,158,19,Made,1,13,12,25,h,Cassell 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+59,54,PT05M39.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,Made,1,13,14,27,v,Hunter  Slam Dunk (6 PTS) (Salmons 4 AST),Made Shot,Slam Dunk Shot,0,0
+60,56,PT05M18.00S,1,1610612746,LAC,1882,Brand,E. Brand,-10,107,11,Made,1,15,14,29,h,Brand 11' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,0
+61,57,PT04M55.00S,1,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,Missed,1,0,0,0,v,MISS Salmons  Layup,Missed Shot,Layup Shot,0,0
+62,57,PT04M55.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand BLOCK (1 BLK),,,0,0
+63,58,PT04M53.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+64,59,PT04M50.00S,1,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver S.FOUL (P2.T2),Foul,Shooting,0,0
+65,60,PT04M50.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+66,62,PT04M50.00S,1,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,SUB: Ollie FOR Korver,Substitution,,0,0
+67,63,PT04M50.00S,1,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,SUB: Dalembert FOR Hunter,Substitution,,0,0
+68,64,PT04M50.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,16,14,30,h,Cassell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+69,65,PT04M50.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,17,14,31,h,Cassell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+70,66,PT04M39.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,CLIPPERS T.Foul (Def. 3 Sec Kaman ),Foul,Defense 3 Second,0,0
+71,67,PT04M39.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,MISS Webber Free Throw Technical,Free Throw,Free Throw Technical,0,0
+72,68,PT04M39.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+73,69,PT04M39.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Maggette FOR Ross,Substitution,,0,0
+74,71,PT04M23.00S,1,1610612755,PHI,1563,Ollie,K. Ollie,-84,64,11,Made,1,17,16,33,v,Ollie 11' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,0
+75,73,PT04M03.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,h,MISS Mobley  Layup,Missed Shot,Layup Shot,0,0
+76,74,PT04M02.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Unknown,0,0
+77,75,PT03M46.00S,1,1610612755,PHI,2422,Salmons,J. Salmons,233,8,0,Missed,1,0,0,0,v,MISS Salmons  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+78,76,PT03M45.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+79,77,PT03M27.00S,1,1610612746,LAC,208,Cassell,S. Cassell,-90,107,14,Made,1,19,16,35,h,Cassell 14' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,0,0
+80,78,PT03M15.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,CLIPPERS T.Foul (Def. 3 Sec Kaman ),Foul,Defense 3 Second,0,0
+81,79,PT03M15.00S,1,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,SUB: Barnes FOR Salmons,Substitution,,0,0
+82,80,PT03M15.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,MISS Webber Free Throw Technical,Free Throw,Free Throw Technical,0,0
+83,81,PT03M15.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+84,83,PT03M15.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+85,85,PT03M08.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+86,85,PT03M08.00S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell STEAL (1 STL),,,0,0
+87,86,PT03M04.00S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Made,1,21,16,37,h,Mobley  Driving Layup (7 PTS) (Cassell 1 AST),Made Shot,Driving Layup Shot,0,0
+88,87,PT02M43.00S,1,1610612755,PHI,185,Webber,C. Webber,-126,104,16,Missed,1,0,0,0,v,MISS Webber 16' Jump Shot,Missed Shot,Jump Shot,0,0
+89,88,PT02M42.00S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+90,89,PT02M26.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,38,53,7,Missed,1,0,0,0,v,MISS Dalembert 7' Jump Shot,Missed Shot,Jump Shot,0,0
+91,89,PT02M26.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman BLOCK (2 BLK),,,0,0
+92,90,PT02M24.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+93,91,PT02M07.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,23,16,39,h,Kaman  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+94,92,PT01M49.00S,1,1610612755,PHI,185,Webber,C. Webber,-112,25,11,Missed,1,0,0,0,v,MISS Webber 11' Jump Shot,Missed Shot,Jump Shot,0,0
+95,93,PT01M48.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+96,94,PT01M41.00S,1,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,0
+97,95,PT01M22.00S,1,1610612746,LAC,208,Cassell,S. Cassell,-245,5,25,Missed,1,0,0,0,h,MISS Cassell 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+98,96,PT01M21.00S,1,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,Dalembert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+99,97,PT01M11.00S,1,1610612755,PHI,2440,Barnes,M. Barnes,-18,72,7,Missed,1,0,0,0,v,MISS Barnes 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+100,99,PT01M10.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+101,98,PT01M10.00S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,Made,1,23,18,41,v,Webber  Tip Shot (8 PTS),Made Shot,Tip Shot,0,0
+102,100,PT00M58.90S,1,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Made,1,25,18,43,h,Mobley  Driving Layup (9 PTS) (Cassell 2 AST),Made Shot,Driving Layup Shot,0,0
+103,101,PT00M43.20S,1,1610612755,PHI,185,Webber,C. Webber,-5,66,7,Missed,1,0,0,0,v,MISS Webber 7' Hook Shot,Missed Shot,Hook Shot,0,0
+104,102,PT00M40.70S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+105,103,PT00M37.70S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Made,1,27,18,45,h,Maggette  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+106,104,PT00M23.90S,1,1610612755,PHI,185,Webber,C. Webber,-133,137,19,Made,1,27,20,47,v,Webber 19' Turnaround Jump Shot (10 PTS) (Ollie 1 AST),Made Shot,Turnaround Jump Shot,0,0
+107,105,PT00M23.90S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell S.FOUL (P2.T4),Foul,Shooting,0,0
+108,106,PT00M23.90S,1,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,SUB: Salmons FOR Iguodala,Substitution,,0,0
+109,107,PT00M23.90S,1,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,SUB: Livingston FOR Cassell,Substitution,,0,0
+110,108,PT00M23.90S,1,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,27,21,48,v,Webber Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0
+111,109,PT00M00.30S,1,1610612746,LAC,1882,Brand,E. Brand,-113,132,17,Missed,1,0,0,0,h,MISS Brand 17' Jump Shot,Missed Shot,Jump Shot,0,0
+112,110,PT00M00.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+113,111,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,21,48,,End of 1st Period (11:15 PM EST),period,end,0,0
+114,113,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,21,48,,Start of 2nd Period (11:17 PM EST),period,start,0,0
+115,116,PT11M38.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,33,43,5,Missed,1,0,0,0,h,MISS N'Dong 5' Jump Shot,Missed Shot,Jump Shot,0,0
+116,117,PT11M36.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+117,118,PT11M26.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,-48,207,21,Made,1,29,21,50,h,Maggette 21' Jump Shot (4 PTS) (Brand 2 AST),Made Shot,Jump Shot,0,0
+118,119,PT11M01.00S,2,1610612755,PHI,2422,Salmons,J. Salmons,166,94,19,Missed,1,0,0,0,v,MISS Salmons 19' Jump Shot,Missed Shot,Jump Shot,0,0
+119,120,PT11M00.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+120,121,PT10M50.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,94,166,19,Missed,1,0,0,0,h,MISS Maggette 19' Jump Shot,Missed Shot,Jump Shot,0,0
+121,122,PT10M49.00S,2,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,0,0,0,v,Ollie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+122,123,PT10M40.00S,2,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,Made,1,29,23,52,v,Salmons  Driving Layup (2 PTS) (Ollie 2 AST),Made Shot,Driving Layup Shot,0,0
+123,124,PT10M18.00S,2,1610612746,LAC,1882,Brand,E. Brand,-108,155,19,Missed,1,0,0,0,h,MISS Brand 19' Jump Shot,Missed Shot,Jump Shot,0,0
+124,125,PT10M17.00S,2,1610612755,PHI,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+125,126,PT10M12.00S,2,1610612755,PHI,2440,Barnes,M. Barnes,0,0,0,Missed,1,0,0,0,v,MISS Barnes  Layup,Missed Shot,Layup Shot,0,0
+126,127,PT10M11.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,N'Dong REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+127,128,PT10M05.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,210,130,25,Made,1,32,23,55,h,Radmanovic 25' 3PT Jump Shot (3 PTS) (Livingston 1 AST),Made Shot,Jump Shot,0,0
+128,129,PT09M44.00S,2,1610612755,PHI,2422,Salmons,J. Salmons,80,135,16,Missed,1,0,0,0,v,MISS Salmons 16' Jump Shot,Missed Shot,Jump Shot,0,0
+129,130,PT09M43.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+130,131,PT09M38.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0
+131,132,PT09M15.00S,2,1610612755,PHI,1563,Ollie,K. Ollie,117,145,19,Made,1,32,25,57,v,Ollie 19' Jump Shot (4 PTS) (Salmons 5 AST),Made Shot,Jump Shot,0,0
+132,133,PT09M03.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,-89,114,14,Made,1,34,25,59,h,Livingston 14' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+133,134,PT08M55.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston P.FOUL (P1.T1),Foul,Personal,0,0
+134,135,PT08M55.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+135,137,PT08M55.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,SUB: Kaman FOR Brand,Substitution,,0,0
+136,138,PT08M41.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,-115,18,12,Missed,1,0,0,0,v,MISS Dalembert 12' Jump Shot,Missed Shot,Jump Shot,0,0
+137,139,PT08M40.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+138,140,PT08M19.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,252,25,Missed,1,0,0,0,h,MISS Radmanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+139,141,PT08M18.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,Hunter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+140,142,PT08M02.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,Missed,1,0,0,0,v,MISS Hunter  Layup,Missed Shot,Layup Shot,0,0
+141,142,PT08M02.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,N'Dong BLOCK (1 BLK),,,0,0
+142,143,PT08M01.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+143,144,PT07M52.00S,2,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons S.FOUL (P1.T1),Foul,Shooting,0,0
+144,145,PT07M52.00S,2,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,0,0,0,v,SUB: Webber FOR Ollie,Substitution,,0,0
+145,146,PT07M52.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,SUB: Iguodala FOR Dalembert,Substitution,,0,0
+146,147,PT07M52.00S,2,1610612755,PHI,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,SUB: Korver FOR Barnes,Substitution,,0,0
+147,148,PT07M52.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,35,25,60,h,Maggette Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+148,149,PT07M52.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,36,25,61,h,Maggette Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+149,151,PT07M38.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,-8,36,4,Missed,1,0,0,0,v,MISS Hunter 4' Jump Shot,Missed Shot,Jump Shot,0,0
+150,151,PT07M38.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman BLOCK (3 BLK),,,0,0
+151,152,PT07M36.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,Hunter REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+152,153,PT07M31.00S,2,1610612755,PHI,185,Webber,C. Webber,-21,99,10,Missed,1,0,0,0,v,MISS Webber 10' Jump Shot,Missed Shot,Jump Shot,0,0
+153,154,PT07M30.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+154,155,PT07M23.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,Missed,1,0,0,0,h,MISS N'Dong  Layup,Missed Shot,Layup Shot,0,0
+155,155,PT07M23.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber BLOCK (1 BLK),,,0,0
+156,156,PT07M21.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,N'Dong REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+157,157,PT07M20.00S,2,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons S.FOUL (P2.T2),Foul,Shooting,0,0
+158,158,PT07M20.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,MISS N'Dong Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+159,159,PT07M20.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+160,160,PT07M20.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,37,25,62,h,N'Dong Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+161,162,PT07M02.00S,2,1610612755,PHI,185,Webber,C. Webber,8,87,9,Missed,1,0,0,0,v,MISS Webber 9' Running Hook Shot,Missed Shot,Running Hook Shot,0,0
+162,163,PT07M01.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,N'Dong REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+163,164,PT06M53.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,-95,22,10,Missed,1,0,0,0,h,MISS Kaman 10' Hook Shot,Missed Shot,Hook Shot,0,0
+164,165,PT06M52.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,N'Dong REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+165,166,PT06M50.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,Missed,1,0,0,0,h,MISS N'Dong  Layup,Missed Shot,Layup Shot,0,0
+166,167,PT06M49.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+167,168,PT06M44.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,Made,1,37,27,64,v,Hunter  Layup (8 PTS) (Salmons 6 AST),Made Shot,Layup Shot,0,0
+168,169,PT06M24.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,Missed,1,0,0,0,h,MISS Radmanovic  Layup,Missed Shot,Layup Shot,0,0
+169,169,PT06M24.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber BLOCK (2 BLK),,,0,0
+170,170,PT06M21.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+171,171,PT06M18.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0
+172,171,PT06M18.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,N'Dong STEAL (1 STL),,,0,0
+173,172,PT06M14.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,177,128,22,Made,1,39,27,66,h,Radmanovic 22' Jump Shot (5 PTS) (Livingston 2 AST),Made Shot,Jump Shot,0,0
+174,173,PT06M03.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+175,177,PT05M56.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,Made,1,39,29,68,v,Webber  Reverse Dunk (13 PTS) (Korver 2 AST),Made Shot,Reverse Dunk Shot,0,0
+176,178,PT05M32.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,-64,58,9,Missed,1,0,0,0,h,MISS Maggette 9' Jump Shot,Missed Shot,Jump Shot,0,0
+177,178,PT05M32.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala BLOCK (1 BLK),,,0,0
+178,179,PT05M29.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,N'Dong REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+179,180,PT05M28.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,80,35,9,Made,1,41,29,70,h,N'Dong 9' Jump Shot (3 PTS),Made Shot,Jump Shot,0,0
+180,182,PT05M04.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,-181,197,27,Missed,1,0,0,0,v,MISS Iguodala 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+181,183,PT05M02.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+182,184,PT04M53.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Missed,1,0,0,0,h,MISS Maggette  Layup,Missed Shot,Layup Shot,0,0
+183,185,PT04M52.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+184,186,PT04M47.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,Made,1,41,31,72,v,Hunter  Slam Dunk (10 PTS) (Webber 1 AST),Made Shot,Slam Dunk Shot,0,0
+185,187,PT04M47.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,N'Dong S.FOUL (P1.T2),Foul,Shooting,0,0
+186,188,PT04M47.00S,2,1610612746,LAC,101238,Ndong,B. Ndong,0,0,0,,0,0,0,0,h,SUB: Brand FOR N'Dong,Substitution,,0,0
+187,189,PT04M47.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,SUB: Mobley FOR Maggette,Substitution,,0,0
+188,190,PT04M47.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,MISS Hunter Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+189,191,PT04M46.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+190,192,PT04M36.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,Made,1,43,31,74,h,Livingston  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+191,193,PT04M14.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,43,33,76,v,Iguodala  Driving Finger Roll (4 PTS) (Korver 3 AST),Made Shot,Driving Finger Roll Shot,0,0
+192,194,PT03M57.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,-238,-8,24,Made,1,46,33,79,h,Radmanovic 24' 3PT Jump Shot (8 PTS) (Livingston 3 AST),Made Shot,Jump Shot,0,0
+193,195,PT03M42.00S,2,1610612755,PHI,2594,Korver,K. Korver,223,-8,0,Made,1,46,36,82,v,Korver  3PT Jump Shot (3 PTS) (Salmons 7 AST),Made Shot,Jump Shot,0,0
+194,196,PT03M31.00S,2,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,SUB: Dalembert FOR Hunter,Substitution,,0,0
+195,197,PT03M28.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,-118,146,19,Missed,1,0,0,0,h,MISS Livingston 19' Jump Shot,Missed Shot,Jump Shot,0,0
+196,198,PT03M26.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+197,199,PT03M24.00S,2,0,,1473,,,0,0,0,,0,0,0,0,,Mike Dunleavy Foul:T.FOUL,Foul,Technical,0,0
+198,200,PT03M24.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,46,37,83,v,Korver Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0
+199,201,PT03M18.00S,2,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,Missed,1,0,0,0,v,MISS Salmons  Layup,Missed Shot,Layup Shot,0,0
+200,201,PT03M18.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston BLOCK (1 BLK),,,0,0
+201,202,PT03M17.00S,2,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Unknown,0,0
+202,203,PT03M10.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,-131,22,13,Missed,1,0,0,0,v,MISS Iguodala 13' Jump Shot,Missed Shot,Jump Shot,0,0
+203,204,PT03M08.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+204,205,PT02M59.00S,2,1610612746,LAC,1882,Brand,E. Brand,64,130,14,Missed,1,0,0,0,h,MISS Brand 14' Jump Shot,Missed Shot,Jump Shot,0,0
+205,206,PT02M57.00S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+206,207,PT02M50.00S,2,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+207,208,PT02M50.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+208,211,PT02M42.00S,2,1610612746,LAC,2209,Radmanovic,V. Radmanovic,-238,20,24,Missed,1,0,0,0,h,MISS Radmanovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+209,212,PT02M41.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+210,213,PT02M24.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,Missed,1,0,0,0,v,MISS Webber  Layup,Missed Shot,Layup Shot,0,0
+211,213,PT02M24.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand BLOCK (2 BLK),,,0,0
+212,214,PT02M22.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+213,215,PT02M21.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand S.FOUL (P1.T3),Foul,Shooting,0,0
+214,216,PT02M21.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,46,38,84,v,Webber Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+215,217,PT02M21.00S,2,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0,0,0,v,SUB: Bradley FOR Dalembert,Substitution,,0,0
+216,218,PT02M21.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,46,39,85,v,Webber Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+217,219,PT02M10.00S,2,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Out of Bounds Lost Ball Turnover (P2.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0
+218,220,PT01M54.00S,2,1610612755,PHI,2214,Bradley,M. Bradley,-13,163,16,Missed,1,0,0,0,v,MISS Bradley 16' Jump Shot,Missed Shot,Jump Shot,0,0
+219,221,PT01M53.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+220,222,PT01M48.00S,2,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+221,222,PT01M48.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand STEAL (1 STL),,,0,0
+222,223,PT01M37.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,48,39,87,h,Brand  Reverse Layup (10 PTS),Made Shot,Reverse Layup Shot,0,0
+223,224,PT01M09.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Missed,1,0,0,0,v,MISS Iguodala  Layup,Missed Shot,Layup Shot,0,0
+224,225,PT01M07.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+225,226,PT00M53.70S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,50,39,89,h,Brand  Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,0
+226,227,PT00M45.40S,2,1610612755,PHI,185,Webber,C. Webber,-18,77,8,Made,1,50,41,91,v,Webber 8' Turnaround Jump Shot (17 PTS),Made Shot,Turnaround Jump Shot,0,0
+227,228,PT00M28.60S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,52,41,93,h,Kaman  Layup (4 PTS) (Livingston 4 AST),Made Shot,Layup Shot,0,0
+228,229,PT00M23.80S,2,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+229,231,PT00M23.80S,2,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,SUB: Ollie FOR Salmons,Substitution,,0,0
+230,232,PT00M03.40S,2,1610612755,PHI,2594,Korver,K. Korver,-230,171,29,Made,1,52,44,96,v,Korver 29' 3PT Jump Shot (7 PTS) (Ollie 3 AST),Made Shot,Jump Shot,0,0
+231,233,PT00M01.20S,2,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,0,0,0,v,Ollie P.FOUL (P1.T3),Foul,Personal,0,0
+232,234,PT00M01.20S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0
+233,236,PT00M01.20S,2,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,SUB: Hunter FOR Korver,Substitution,,0,0
+234,237,PT00M00.60S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Missed,1,0,0,0,h,MISS Brand  Alley Oop Layup,Missed Shot,Alley Oop Layup shot,0,0
+235,238,PT00M00.00S,2,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+236,239,PT00M00.00S,2,0,,0,,,0,0,0,,0,52,44,96,,End of 2nd Period (11:46 PM EST),period,end,0,0
+237,241,PT12M00.00S,3,0,,0,,,0,0,0,,0,52,44,96,,Start of 3rd Period (12:03 PM EST),period,start,0,0
+238,242,PT11M44.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,47,25,5,Missed,1,0,0,0,h,MISS Kaman 5' Jump Shot,Missed Shot,Jump Shot,0,0
+239,243,PT11M43.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+240,244,PT11M23.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,Made,1,52,46,98,v,Hunter  Slam Dunk (12 PTS) (Salmons 8 AST),Made Shot,Slam Dunk Shot,0,0
+241,245,PT10M54.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,225,5,0,Made,1,55,46,101,h,Mobley  3PT Jump Shot (12 PTS) (Brand 3 AST),Made Shot,Jump Shot,0,0
+242,246,PT10M37.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross S.FOUL (P2.T1),Foul,Shooting,0,0
+243,247,PT10M37.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,MISS Hunter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+244,248,PT10M37.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+245,249,PT10M37.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,55,47,102,v,Hunter Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0
+246,250,PT10M24.00S,3,1610612746,LAC,1882,Brand,E. Brand,80,146,17,Made,1,57,47,104,h,Brand 17' Jump Shot (14 PTS) (Cassell 3 AST),Made Shot,Jump Shot,0,0
+247,251,PT10M05.00S,3,1610612755,PHI,2422,Salmons,J. Salmons,34,91,10,Missed,1,0,0,0,v,MISS Salmons 10' Jump Shot,Missed Shot,Jump Shot,0,0
+248,252,PT10M03.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+249,253,PT09M59.00S,3,1610612746,LAC,208,Cassell,S. Cassell,-131,227,26,Missed,1,0,0,0,h,MISS Cassell 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+250,254,PT09M58.00S,3,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+251,255,PT09M46.00S,3,1610612755,PHI,2594,Korver,K. Korver,-102,146,18,Made,1,57,49,106,v,Korver 18' Turnaround Jump Shot (9 PTS) (Salmons 9 AST),Made Shot,Turnaround Jump Shot,0,0
+252,256,PT09M27.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,-36,23,4,Made,1,59,49,108,h,Kaman 4' Turnaround Hook Shot (6 PTS) (Brand 4 AST),Made Shot,Turnaround Hook Shot,0,0
+253,257,PT09M07.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,-15,40,4,Made,1,59,51,110,v,Hunter 4' Running Hook Shot (15 PTS) (Salmons 10 AST),Made Shot,Running Hook Shot,0,0
+254,258,PT08M58.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Made,1,61,51,112,h,Mobley  Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,0
+255,259,PT08M35.00S,3,1610612755,PHI,2594,Korver,K. Korver,-118,91,15,Missed,1,0,0,0,v,MISS Korver 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+256,260,PT08M33.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+257,261,PT08M24.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala S.FOUL (P1.T1),Foul,Shooting,0,0
+258,262,PT08M24.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,62,51,113,h,Mobley Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+259,263,PT08M24.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,63,51,114,h,Mobley Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+260,264,PT08M04.00S,3,1610612755,PHI,2422,Salmons,J. Salmons,90,20,9,Made,1,63,53,116,v,Salmons 9' Fadeaway Jumper (4 PTS) (Webber 2 AST),Made Shot,Fadeaway Jump Shot,0,0
+261,265,PT07M53.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,65,53,118,h,Brand  Driving Layup (16 PTS) (Cassell 4 AST),Made Shot,Driving Layup Shot,0,0
+262,266,PT07M31.00S,3,1610612755,PHI,185,Webber,C. Webber,-112,155,19,Missed,1,0,0,0,v,MISS Webber 19' Jump Shot,Missed Shot,Jump Shot,0,0
+263,267,PT07M29.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+264,268,PT07M21.00S,3,1610612746,LAC,1882,Brand,E. Brand,-120,15,12,Made,1,67,53,120,h,Brand 12' Turnaround Jump Shot (18 PTS),Made Shot,Turnaround Jump Shot,0,0
+265,269,PT07M16.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+266,272,PT06M57.00S,3,1610612755,PHI,185,Webber,C. Webber,-74,54,9,Made,1,67,55,122,v,Webber 9' Turnaround Hook Shot (19 PTS) (Salmons 11 AST),Made Shot,Turnaround Hook Shot,0,0
+267,273,PT06M30.00S,3,1610612746,LAC,1882,Brand,E. Brand,108,146,18,Missed,1,0,0,0,h,MISS Brand 18' Jump Shot,Missed Shot,Jump Shot,0,0
+268,274,PT06M29.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,Hunter REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+269,275,PT06M11.00S,3,1610612755,PHI,185,Webber,C. Webber,0,146,15,Missed,1,0,0,0,v,MISS Webber 15' Jump Shot,Missed Shot,Jump Shot,0,0
+270,276,PT06M10.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,Hunter REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+271,277,PT06M06.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,Made,1,67,57,124,v,Hunter  Slam Dunk (17 PTS) (Webber 3 AST),Made Shot,Slam Dunk Shot,0,0
+272,278,PT05M47.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,95,120,15,Made,1,69,57,126,h,Mobley 15' Jump Shot (18 PTS),Made Shot,Jump Shot,0,0
+273,279,PT05M26.00S,3,1610612755,PHI,185,Webber,C. Webber,154,199,25,Missed,1,0,0,0,v,MISS Webber 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+274,280,PT05M24.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+275,281,PT05M21.00S,3,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber S.FOUL (P1.T2),Foul,Shooting,0,0
+276,282,PT05M21.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,70,57,127,h,Ross Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+277,283,PT05M21.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,71,57,128,h,Ross Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+278,284,PT05M01.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,-75,20,8,Missed,1,0,0,0,v,MISS Iguodala 8' Jump Shot,Missed Shot,Jump Shot,0,0
+279,284,PT05M01.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman BLOCK (4 BLK),,,0,0
+280,285,PT04M59.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+281,286,PT04M56.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,Missed,1,0,0,0,h,MISS Mobley  Layup,Missed Shot,Layup Shot,0,0
+282,287,PT04M54.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+283,288,PT04M52.00S,3,1610612746,LAC,208,Cassell,S. Cassell,-215,150,26,Made,1,74,57,131,h,Cassell 26' 3PT Jump Shot (9 PTS) (Ross 1 AST),Made Shot,Jump Shot,0,0
+284,289,PT04M28.00S,3,1610612755,PHI,185,Webber,C. Webber,-48,72,9,Missed,1,0,0,0,v,MISS Webber 9' Jump Shot,Missed Shot,Jump Shot,0,0
+285,289,PT04M28.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand BLOCK (3 BLK),,,0,0
+286,290,PT04M26.00S,3,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+287,291,PT04M25.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Made,1,74,59,133,v,Iguodala  Slam Dunk (6 PTS) (Webber 4 AST),Made Shot,Slam Dunk Shot,0,0
+288,292,PT04M02.00S,3,1610612746,LAC,208,Cassell,S. Cassell,-135,160,21,Missed,1,0,0,0,h,MISS Cassell 21' Jump Shot,Missed Shot,Jump Shot,0,0
+289,293,PT04M01.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+290,294,PT03M43.00S,3,1610612755,PHI,2594,Korver,K. Korver,202,137,24,Made,1,74,62,136,v,Korver 24' 3PT Jump Shot (12 PTS) (Webber 5 AST),Made Shot,Jump Shot,0,0
+291,295,PT03M29.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,76,62,138,h,Kaman  Layup (8 PTS) (Mobley 1 AST),Made Shot,Layup Shot,0,0
+292,296,PT03M11.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,Ross S.FOUL (P3.T2),Foul,Shooting,0,0
+293,297,PT03M11.00S,3,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,76,63,139,v,Salmons Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+294,298,PT03M11.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,SUB: Ollie FOR Iguodala,Substitution,,0,0
+295,299,PT03M11.00S,3,1610612755,PHI,2212,Hunter,S. Hunter,0,0,0,,0,0,0,0,v,SUB: Bradley FOR Hunter,Substitution,,0,0
+296,300,PT03M11.00S,3,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0,0,0,h,SUB: Radmanovic FOR Ross,Substitution,,0,0
+297,301,PT03M11.00S,3,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,76,64,140,v,Salmons Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+298,302,PT02M58.00S,3,1610612746,LAC,1749,Mobley,C. Mobley,-179,148,23,Made,1,78,64,142,h,Mobley 23' Jump Shot (20 PTS) (Cassell 5 AST),Made Shot,Jump Shot,0,0
+299,303,PT02M41.00S,3,1610612755,PHI,2594,Korver,K. Korver,-238,53,24,Missed,1,0,0,0,v,MISS Korver 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+300,304,PT02M38.00S,3,1610612755,PHI,2214,Bradley,M. Bradley,0,0,0,,0,0,0,0,v,Bradley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+301,305,PT02M29.00S,3,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0
+302,305,PT02M29.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman STEAL (1 STL),,,0,0
+303,306,PT02M21.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,255,26,Missed,1,0,0,0,h,MISS Cassell 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+304,307,PT02M20.00S,3,1610612755,PHI,2214,Bradley,M. Bradley,0,0,0,,0,0,0,0,v,Bradley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+305,308,PT02M08.00S,3,1610612755,PHI,2422,Salmons,J. Salmons,186,150,24,Missed,1,0,0,0,v,MISS Salmons 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+306,309,PT02M06.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+307,310,PT01M59.00S,3,1610612746,LAC,1882,Brand,E. Brand,-80,115,14,Made,1,80,64,144,h,Brand 14' Jump Shot (20 PTS) (Cassell 6 AST),Made Shot,Jump Shot,0,0
+308,311,PT01M48.00S,3,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Short (Reg.3 Short 2),Timeout,Short,0,0
+309,313,PT01M48.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0
+310,315,PT01M48.00S,3,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,SUB: Randolph FOR Webber,Substitution,,0,0
+311,316,PT01M48.00S,3,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,SUB: Livingston FOR Cassell,Substitution,,0,0
+312,317,PT01M35.00S,3,1610612755,PHI,2422,Salmons,J. Salmons,-138,110,18,Missed,1,0,0,0,v,MISS Salmons 18' Jump Shot,Missed Shot,Jump Shot,0,0
+313,318,PT01M34.00S,3,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+314,319,PT01M20.00S,3,1610612746,LAC,2209,Radmanovic,V. Radmanovic,8,258,26,Missed,1,0,0,0,h,MISS Radmanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+315,320,PT01M18.00S,3,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+316,321,PT01M00.00S,3,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,Missed,1,0,0,0,v,MISS Randolph  Layup,Missed Shot,Layup Shot,0,0
+317,321,PT01M00.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand BLOCK (4 BLK),,,0,0
+318,322,PT00M57.20S,3,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+319,323,PT00M49.20S,3,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,SUB: Iguodala FOR Salmons,Substitution,,0,0
+320,324,PT00M49.20S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,SUB: Maggette FOR Kaman,Substitution,,0,0
+321,325,PT00M46.10S,3,1610612746,LAC,1882,Brand,E. Brand,-107,150,18,Made,1,82,64,146,h,Brand 18' Jump Shot (22 PTS) (Livingston 5 AST),Made Shot,Jump Shot,0,0
+322,326,PT00M34.20S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand S.FOUL (P2.T3),Foul,Shooting,0,0
+323,327,PT00M34.20S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,82,65,147,v,Iguodala Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+324,328,PT00M34.20S,3,1610612755,PHI,2214,Bradley,M. Bradley,0,0,0,,0,0,0,0,v,SUB: Barnes FOR Bradley,Substitution,,0,0
+325,329,PT00M34.20S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,82,66,148,v,Iguodala Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+326,330,PT00M26.80S,3,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,Missed,1,0,0,0,h,MISS Radmanovic  Layup,Missed Shot,Layup Shot,0,0
+327,331,PT00M26.20S,3,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,0,0,0,v,Ollie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+328,332,PT00M03.40S,3,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,Missed,1,0,0,0,v,MISS Randolph  Layup,Missed Shot,Layup Shot,0,0
+329,332,PT00M03.40S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand BLOCK (5 BLK),,,0,0
+330,333,PT00M02.10S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+331,334,PT00M00.20S,3,1610612746,LAC,1894,Maggette,C. Maggette,-194,570,60,Missed,1,0,0,0,h,MISS Maggette 60' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+332,335,PT00M00.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0
+333,336,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,66,148,,End of 3rd Period (12:26 PM EST),period,end,0,0
+334,338,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,66,148,,Start of 4th Period (12:29 PM EST),period,start,0,0
+335,339,PT11M48.00S,4,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,Made,1,82,68,150,v,Ollie  Layup (6 PTS) (Iguodala 1 AST),Made Shot,Layup Shot,0,0
+336,340,PT11M26.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,Made,1,84,68,152,h,Radmanovic  Driving Layup (10 PTS) (Maggette 1 AST),Made Shot,Driving Layup Shot,0,0
+337,341,PT11M08.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Out of Bounds Lost Ball Turnover (P3.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0
+338,342,PT10M54.00S,4,1610612755,PHI,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes P.FOUL (P1.T1),Foul,Personal,0,0
+339,343,PT10M54.00S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,SUB: Salmons FOR Korver,Substitution,,0,0
+340,344,PT10M54.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,MISS Brand Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+341,345,PT10M54.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+342,346,PT10M54.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,MISS Brand Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+343,347,PT10M53.00S,4,1610612755,PHI,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+344,348,PT10M38.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,Mobley P.FOUL (P1.T1),Foul,Personal,0,0
+345,349,PT10M30.00S,4,1610612755,PHI,185,Webber,C. Webber,-16,74,8,Missed,1,0,0,0,v,MISS Webber 8' Jump Shot,Missed Shot,Jump Shot,0,0
+346,349,PT10M30.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand BLOCK (6 BLK),,,0,0
+347,350,PT10M29.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:1 Def:8),Rebound,Unknown,0,0
+348,351,PT10M08.00S,4,1610612746,LAC,1882,Brand,E. Brand,-122,130,18,Missed,1,0,0,0,h,MISS Brand 18' Jump Shot,Missed Shot,Jump Shot,0,0
+349,352,PT10M07.00S,4,1610612755,PHI,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+350,353,PT09M51.00S,4,1610612755,PHI,1563,Ollie,K. Ollie,-128,140,19,Missed,1,0,0,0,v,MISS Ollie 19' Jump Shot,Missed Shot,Jump Shot,0,0
+351,354,PT09M49.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,Brand REBOUND (Off:1 Def:9),Rebound,Unknown,0,0
+352,355,PT09M42.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,-182,173,25,Made,1,87,68,155,h,Radmanovic 25' 3PT Jump Shot (13 PTS) (Livingston 6 AST),Made Shot,Jump Shot,0,0
+353,356,PT09M23.00S,4,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,Missed,1,0,0,0,v,MISS Salmons  Layup,Missed Shot,Layup Shot,0,0
+354,356,PT09M23.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic BLOCK (1 BLK),,,0,0
+355,357,PT09M22.00S,4,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,Salmons REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+356,358,PT09M20.00S,4,1610612755,PHI,2422,Salmons,J. Salmons,84,53,10,Made,1,87,70,157,v,Salmons 10' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+357,359,PT09M02.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Bad Pass Turnover (P3.T4),Turnover,Bad Pass,0,0
+358,360,PT08M49.00S,4,1610612755,PHI,2422,Salmons,J. Salmons,16,183,18,Missed,1,0,0,0,v,MISS Salmons 18' Jump Shot,Missed Shot,Jump Shot,0,0
+359,361,PT08M47.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+360,362,PT08M33.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,89,70,159,h,Brand  Driving Layup (24 PTS) (Radmanovic 1 AST),Made Shot,Driving Layup Shot,0,0
+361,363,PT08M31.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,0
+362,365,PT08M31.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0,0,0,h,SUB: Kaman FOR Brand,Substitution,,0,0
+363,366,PT08M31.00S,4,1610612746,LAC,1749,Mobley,C. Mobley,0,0,0,,0,0,0,0,h,SUB: Cassell FOR Mobley,Substitution,,0,0
+364,367,PT08M08.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,Missed,1,0,0,0,v,MISS Iguodala  Dunk,Missed Shot,Dunk Shot,0,0
+365,368,PT08M07.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+366,369,PT08M04.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Offensive Goaltending Turnover (P4.T10),Turnover,Offensive Goaltending,0,0
+367,370,PT07M52.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,89,117,15,Made,1,91,70,161,h,Maggette 15' Jump Bank Shot (8 PTS) (Kaman 2 AST),Made Shot,Jump Bank Shot,0,0
+368,371,PT07M32.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman S.FOUL (P2.T2),Foul,Shooting,0,0
+369,372,PT07M32.00S,4,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,0,0,0,v,SUB: Korver FOR Ollie,Substitution,,0,0
+370,373,PT07M32.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,MISS Iguodala Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+371,374,PT07M32.00S,4,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Rebound,Rebound,Normal Rebound,0,0
+372,375,PT07M32.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,MISS Iguodala Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+373,376,PT07M31.00S,4,1610612755,PHI,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+374,377,PT07M30.00S,4,1610612755,PHI,2594,Korver,K. Korver,-172,199,26,Missed,1,0,0,0,v,MISS Korver 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+375,378,PT07M28.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+376,379,PT07M10.00S,4,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber S.FOUL (P2.T2),Foul,Shooting,0,0
+377,380,PT07M10.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,MISS Maggette Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+378,381,PT07M10.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0
+379,382,PT07M10.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,92,70,162,h,Maggette Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+380,383,PT06M53.00S,4,1610612755,PHI,185,Webber,C. Webber,-15,151,15,Missed,1,0,0,0,v,MISS Webber 15' Jump Shot,Missed Shot,Jump Shot,0,0
+381,384,PT06M51.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+382,385,PT06M29.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,-189,187,27,Missed,1,0,0,0,h,MISS Radmanovic 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+383,386,PT06M28.00S,4,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+384,387,PT06M23.00S,4,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,Made,1,92,72,164,v,Salmons  Driving Layup (10 PTS) (Webber 6 AST),Made Shot,Driving Layup Shot,0,0
+385,388,PT06M02.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0,0,0,h,Maggette Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0
+386,388,PT06M02.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala STEAL (1 STL),,,0,0
+387,389,PT05M58.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,Cassell P.FOUL (P3.T3),Foul,Personal,0,0
+388,390,PT05M58.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+389,392,PT05M58.00S,4,1610612755,PHI,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,SUB: Randolph FOR Barnes,Substitution,,0,0
+390,393,PT05M58.00S,4,1610612746,LAC,208,Cassell,S. Cassell,0,0,0,,0,0,0,0,h,SUB: Ewing FOR Cassell,Substitution,,0,0
+391,394,PT05M38.00S,4,1610612755,PHI,2594,Korver,K. Korver,-240,8,24,Missed,1,0,0,0,v,MISS Korver 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+392,395,PT05M37.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+393,396,PT05M18.00S,4,1610612746,LAC,101137,Ewing,D. Ewing,-11,153,15,Missed,1,0,0,0,h,MISS Ewing 15' Jump Shot,Missed Shot,Jump Shot,0,0
+394,397,PT05M16.00S,4,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,Webber REBOUND (Off:4 Def:5),Rebound,Unknown,0,0
+395,398,PT05M10.00S,4,1610612755,PHI,185,Webber,C. Webber,-6,219,22,Missed,1,0,0,0,v,MISS Webber 22' Jump Shot,Missed Shot,Jump Shot,0,0
+396,399,PT05M08.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0,0,0,h,Radmanovic REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+397,400,PT05M05.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Bad Pass Turnover (P4.T6),Turnover,Bad Pass,0,0
+398,400,PT05M05.00S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver STEAL (1 STL),,,0,0
+399,401,PT04M57.00S,4,1610612755,PHI,2594,Korver,K. Korver,-161,202,26,Made,1,92,75,167,v,Korver 26' 3PT Jump Shot (15 PTS) (Salmons 12 AST),Made Shot,Jump Shot,0,0
+400,402,PT04M36.00S,4,1610612746,LAC,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,h,Livingston Bad Pass Turnover (P5.T7),Turnover,Bad Pass,0,0
+401,403,PT04M36.00S,4,1610612755,PHI,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,v,SUB: Williams FOR Salmons,Substitution,,0,0
+402,404,PT04M29.00S,4,1610612755,PHI,185,Webber,C. Webber,0,0,0,,0,0,0,0,v,SUB: Bradley FOR Webber,Substitution,,0,0
+403,405,PT04M23.00S,4,1610612755,PHI,2594,Korver,K. Korver,61,132,15,Made,1,92,77,169,v,Korver 15' Jump Shot (17 PTS) (Bradley 1 AST),Made Shot,Jump Shot,0,0
+404,406,PT03M59.00S,4,1610612746,LAC,101137,Ewing,D. Ewing,0,0,0,Made,1,94,77,171,h,Ewing  Running Layup (2 PTS) (Kaman 3 AST),Made Shot,Running Layup Shot,0,0
+405,407,PT03M41.00S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala Bad Pass Turnover (P5.T11),Turnover,Bad Pass,0,0
+406,407,PT03M41.00S,4,1610612746,LAC,101137,Ewing,D. Ewing,0,0,0,,0,0,0,0,h,Ewing STEAL (1 STL),,,0,0
+407,408,PT03M36.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Missed,1,0,0,0,h,MISS Maggette  Layup,Missed Shot,Layup Shot,0,0
+408,409,PT03M36.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+409,410,PT03M31.00S,4,1610612755,PHI,101150,Williams,L. Williams,0,0,0,Made,1,94,79,173,v,Williams  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+410,411,PT03M08.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,97,130,16,Missed,1,0,0,0,h,MISS Kaman 16' Jump Shot,Missed Shot,Jump Shot,0,0
+411,412,PT03M07.00S,4,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+412,413,PT02M56.00S,4,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,Made,1,94,81,175,v,Randolph  Slam Dunk (2 PTS) (Williams 1 AST),Made Shot,Slam Dunk Shot,0,0
+413,414,PT02M41.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0
+414,418,PT02M36.00S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver S.FOUL (P3.T3),Foul,Shooting,0,0
+415,419,PT02M36.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,95,81,176,h,Maggette Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0
+416,420,PT02M36.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,96,81,177,h,Maggette Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0
+417,421,PT02M18.00S,4,1610612755,PHI,101150,Williams,L. Williams,227,2,0,Missed,1,0,0,0,v,MISS Williams  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+418,422,PT02M15.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,Kaman REBOUND (Off:2 Def:10),Rebound,Unknown,0,0
+419,423,PT01M54.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,156,202,26,Missed,1,0,0,0,h,MISS Maggette 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+420,424,PT01M52.00S,4,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+421,425,PT01M43.00S,4,1610612755,PHI,2214,Bradley,M. Bradley,-171,187,25,Made,1,96,84,180,v,Bradley 25' 3PT Jump Shot (3 PTS) (Korver 4 AST),Made Shot,Jump Shot,0,0
+422,426,PT01M23.00S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,-240,-8,24,Missed,1,0,0,0,h,MISS Radmanovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+423,427,PT01M22.00S,4,1610612755,PHI,2594,Korver,K. Korver,0,0,0,,0,0,0,0,v,Korver REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+424,428,PT01M10.00S,4,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph Traveling Turnover (P1.T12),Turnover,Traveling,0,0
+425,429,PT00M51.90S,4,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph S.FOUL (P1.T4),Foul,Shooting,0,0
+426,430,PT00M51.90S,4,1610612746,LAC,101137,Ewing,D. Ewing,0,0,0,,0,97,84,181,h,Ewing Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+427,431,PT00M51.90S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0,0,0,h,SUB: N'Dong FOR Kaman,Substitution,,0,0
+428,432,PT00M51.90S,4,1610612746,LAC,101137,Ewing,D. Ewing,0,0,0,,0,0,0,0,h,MISS Ewing Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+429,433,PT00M51.90S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0,0,0,v,Iguodala REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+430,434,PT00M51.10S,4,0,,1610612755,,,0,0,0,,0,0,0,0,v,76ers Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,0
+431,435,PT00M42.20S,4,1610612755,PHI,2738,Iguodala,A. Iguodala,24,257,26,Made,1,97,87,184,v,Iguodala 26' 3PT Jump Shot (11 PTS) (Korver 5 AST),Made Shot,Jump Shot,0,0
+432,436,PT00M17.60S,4,1610612746,LAC,2209,Radmanovic,V. Radmanovic,-57,107,12,Made,1,99,87,186,h,Radmanovic 12' Jump Shot (15 PTS),Made Shot,Jump Shot,0,0
+433,437,PT00M17.60S,4,1610612755,PHI,101183,Randolph,S. Randolph,0,0,0,Made,1,99,89,188,v,Randolph  Dunk (4 PTS) (Williams 2 AST),Made Shot,Dunk Shot,0,0
+434,438,PT00M00.00S,4,0,,0,,,0,0,0,,0,99,89,188,,End of 4th Period (12:57 PM EST),period,end,0,0

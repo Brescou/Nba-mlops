@@ -1,0 +1,509 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (3:11 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,Jump Ball Harrington vs. Gasol: Tip to Gay,Jump Ball,,0,0
+3,2,PT11M42.00S,1,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,Harrington P.FOUL (P1.T1),Foul,Personal,0,0
+4,3,PT11M26.00S,1,1610612763,MEM,200814,Kinsey,T. Kinsey,46,25,5,Missed,1,0,0,0,v,MISS Kinsey 5' Jump Shot,Missed Shot,Jump Shot,0,0
+5,3,PT11M26.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (1 BLK),,,0,0
+6,4,PT11M24.00S,1,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,Ellis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+7,5,PT11M22.00S,1,1610612744,GSW,101145,Ellis,M. Ellis,-15,20,3,Missed,1,0,0,0,h,MISS Ellis 3' Layup,Missed Shot,Layup Shot,0,0
+8,6,PT11M20.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+9,7,PT11M03.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay OFF.Foul (P1),Foul,Offensive,0,0
+10,8,PT11M03.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay Foul Turnover (P1.T1),Turnover,Foul,0,0
+11,9,PT10M41.00S,1,1610612744,GSW,1536,Jackson,S. Jackson,-33,20,4,Missed,1,0,0,0,h,MISS Jackson 4' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+12,10,PT10M40.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+13,11,PT10M32.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,-20,33,4,Missed,1,0,0,0,v,MISS Warrick 4' Driving Finger Roll,Missed Shot,Driving Finger Roll Shot,0,0
+14,12,PT10M31.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+15,13,PT10M24.00S,1,1610612744,GSW,101145,Ellis,M. Ellis,-169,7,17,Missed,1,0,0,0,h,MISS Ellis 17' Jump Shot,Missed Shot,Jump Shot,0,0
+16,14,PT10M23.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+17,15,PT10M18.00S,1,1610612763,MEM,200814,Kinsey,T. Kinsey,-25,20,3,Missed,1,0,0,0,v,MISS Kinsey 3' Finger Roll,Missed Shot,Finger Roll Shot,0,0
+18,16,PT10M16.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+19,17,PT10M14.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,Made,1,0,2,2,v,Warrick  Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,0,0
+20,18,PT10M00.00S,1,1610612744,GSW,1884,Davis,B. Davis,44,99,11,Made,1,2,2,4,h,Davis 11' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,0
+21,20,PT09M34.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0
+22,22,PT09M19.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,-11,35,4,Made,1,4,2,6,h,Richardson 4' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,0
+23,23,PT09M06.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0
+24,23,PT09M06.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis STEAL (1 STL),,,0,0
+25,24,PT09M03.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+26,25,PT09M03.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,SUB: Swift FOR Gasol,Substitution,,0,0
+27,26,PT09M03.00S,1,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,SUB: Atkins FOR Harrington,Substitution,,0,0
+28,27,PT08M45.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay Lost Ball Turnover (P3.T4),Turnover,Lost Ball,0,0
+29,27,PT08M45.00S,1,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,Ellis STEAL (1 STL),,,0,0
+30,28,PT08M45.00S,1,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,Atkins P.FOUL (P1.T1),Foul,Personal,0,0
+31,29,PT08M36.00S,1,1610612744,GSW,1733,Harrington,A. Harrington,-107,122,16,Made,1,6,2,8,h,Harrington 16' Jump Shot (2 PTS) (Ellis 1 AST),Made Shot,Jump Shot,0,0
+32,30,PT08M19.00S,1,1610612763,MEM,200752,Gay,R. Gay,-20,197,20,Missed,1,0,0,0,v,MISS Gay 20' Jump Shot,Missed Shot,Jump Shot,0,0
+33,31,PT08M18.00S,1,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,Ellis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+34,32,PT08M18.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay L.B.FOUL (P2.T2),Foul,Loose Ball,0,0
+35,33,PT08M18.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,SUB: Jones FOR Gay,Substitution,,0,0
+36,34,PT08M09.00S,1,1610612744,GSW,1733,Harrington,A. Harrington,-15,12,2,Missed,1,0,0,0,h,MISS Harrington 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+37,35,PT08M07.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+38,36,PT08M02.00S,1,1610612763,MEM,200814,Kinsey,T. Kinsey,-15,12,2,Made,1,6,4,10,v,Kinsey 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+39,37,PT07M46.00S,1,1610612744,GSW,1536,Jackson,S. Jackson,21,10,2,Made,1,8,4,12,h,Jackson 2' Driving Layup (2 PTS) (Harrington 1 AST),Made Shot,Driving Layup Shot,0,0
+40,38,PT07M29.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,20,23,3,Missed,1,0,0,0,v,MISS Warrick 3' Jump Shot,Missed Shot,Jump Shot,0,0
+41,38,PT07M29.00S,1,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,Jackson BLOCK (1 BLK),,,0,0
+42,39,PT07M29.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+43,40,PT07M29.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,Made,1,8,6,14,v,Warrick  Layup (4 PTS),Made Shot,Layup Shot,0,0
+44,41,PT07M29.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis S.FOUL (P1.T2),Foul,Shooting,0,0
+45,56,PT07M29.00S,1,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,SUB: Gasol FOR Swift,Substitution,,0,0
+46,42,PT07M29.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,MISS Warrick Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+47,43,PT07M27.00S,1,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,Harrington REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+48,44,PT07M21.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,204,166,26,Missed,1,0,0,0,h,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+49,45,PT07M20.00S,1,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+50,46,PT07M10.00S,1,1610612763,MEM,2563,Jones,D. Jones,59,7,6,Missed,1,0,0,0,v,MISS Jones 6' Jump Shot,Missed Shot,Jump Shot,0,0
+51,46,PT07M10.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis BLOCK (2 BLK),,,0,0
+52,47,PT07M09.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0
+53,48,PT07M03.00S,1,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,Made,1,8,8,16,v,Kinsey  Slam Dunk (4 PTS) (Gasol 1 AST),Made Shot,Slam Dunk Shot,0,0
+54,49,PT06M54.00S,1,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,Made,1,10,8,18,h,Harrington  Follow Up Dunk (4 PTS) (Jackson 1 AST),Made Shot,Follow Up Dunk Shot,0,0
+55,50,PT06M33.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,39,38,5,Missed,1,0,0,0,v,MISS Warrick 5' Hook Shot,Missed Shot,Hook Shot,0,0
+56,51,PT06M30.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+57,52,PT06M28.00S,1,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,Made,1,12,8,20,h,Ellis  Slam Dunk (2 PTS) (Davis 1 AST),Made Shot,Slam Dunk Shot,0,0
+58,53,PT06M10.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson S.FOUL (P1.T3),Foul,Shooting,0,0
+59,54,PT06M10.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,12,9,21,v,Gasol Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+60,55,PT06M10.00S,1,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,SUB: Harrington FOR Kinsey,Substitution,,0,0
+61,57,PT06M10.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,12,10,22,v,Gasol Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+62,58,PT05M49.00S,1,1610612744,GSW,101145,Ellis,M. Ellis,10,41,4,Missed,1,0,0,0,h,MISS Ellis 4' Jump Shot,Missed Shot,Jump Shot,0,0
+63,58,PT05M49.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol BLOCK (1 BLK),,,0,0
+64,59,PT05M48.00S,1,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,Harrington REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+65,60,PT05M46.00S,1,1610612763,MEM,2563,Jones,D. Jones,0,0,0,Made,1,12,12,24,v,Jones  Slam Dunk (2 PTS) (Harrington 1 AST),Made Shot,Slam Dunk Shot,0,0
+66,61,PT05M24.00S,1,1610612744,GSW,1884,Davis,B. Davis,15,23,3,Missed,1,0,0,0,h,MISS Davis 3' Layup,Missed Shot,Layup Shot,0,0
+67,62,PT05M23.00S,1,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,Harrington REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+68,63,PT05M18.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,-23,25,3,Made,1,12,14,26,v,Gasol 3' Jump Bank Shot (4 PTS) (Atkins 1 AST),Made Shot,Jump Bank Shot,0,0
+69,64,PT05M03.00S,1,1610612744,GSW,1884,Davis,B. Davis,-230,-9,0,Made,1,15,14,29,h,Davis  3PT Jump Shot (5 PTS) (Richardson 1 AST),Made Shot,Jump Shot,0,0
+70,65,PT04M50.00S,1,1610612763,MEM,1088,Atkins,C. Atkins,8,20,2,Made,1,15,16,31,v,Atkins 2' Driving Finger Roll (2 PTS),Made Shot,Driving Finger Roll Shot,0,0
+71,66,PT04M43.00S,1,1610612744,GSW,1536,Jackson,S. Jackson,118,225,25,Made,1,18,16,34,h,Jackson 25' 3PT Jump Shot (5 PTS) (Harrington 2 AST),Made Shot,Jump Shot,0,0
+72,67,PT04M18.00S,1,1610612763,MEM,1088,Atkins,C. Atkins,-21,257,26,Made,1,18,19,37,v,Atkins 26' 3PT Jump Shot (5 PTS) (Gasol 2 AST),Made Shot,Jump Shot,0,0
+73,69,PT03M59.00S,1,1610612744,GSW,1536,Jackson,S. Jackson,-238,30,24,Made,1,21,19,40,h,Jackson 24' 3PT Jump Shot (8 PTS) (Ellis 2 AST),Made Shot,Jump Shot,0,0
+74,70,PT03M45.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,-23,10,3,Missed,1,0,0,0,v,MISS Warrick 3' Layup,Missed Shot,Layup Shot,0,0
+75,70,PT03M45.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson BLOCK (1 BLK),,,0,0
+76,71,PT03M45.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0
+77,72,PT03M45.00S,1,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+78,74,PT03M45.00S,1,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,SUB: Kinsey FOR Harrington,Substitution,,0,0
+79,76,PT03M37.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,-39,25,5,Made,1,21,21,42,v,Gasol 5' Jump Shot (6 PTS) (Kinsey 1 AST),Made Shot,Jump Shot,0,0
+80,77,PT03M37.00S,1,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,Ellis S.FOUL (P1.T4),Foul,Shooting,0,0
+81,78,PT03M37.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,21,22,43,v,Gasol Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+82,79,PT03M22.00S,1,1610612744,GSW,1733,Harrington,A. Harrington,-177,15,18,Made,1,23,22,45,h,Harrington 18' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+83,80,PT03M04.00S,1,1610612763,MEM,2563,Jones,D. Jones,-54,92,11,Missed,1,0,0,0,v,MISS Jones 11' Jump Shot,Missed Shot,Jump Shot,0,0
+84,81,PT03M02.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+85,82,PT02M56.00S,1,1610612744,GSW,1733,Harrington,A. Harrington,80,233,25,Made,1,26,22,48,h,Harrington 25' 3PT Jump Shot (9 PTS) (Richardson 2 AST),Made Shot,Jump Shot,0,0
+86,83,PT02M40.00S,1,1610612763,MEM,1088,Atkins,C. Atkins,-225,-16,0,Made,1,26,25,51,v,Atkins  3PT Jump Shot (8 PTS) (Kinsey 2 AST),Made Shot,Jump Shot,0,0
+87,84,PT02M36.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,Made,1,28,25,53,h,Richardson  Alley Oop Dunk (4 PTS) (Davis 2 AST),Made Shot,Alley Oop Dunk Shot,0,0
+88,85,PT02M20.00S,1,1610612763,MEM,101124,Warrick,H. Warrick,24,8,3,Made,1,28,27,55,v,Warrick 3' Driving Layup (6 PTS) (Gasol 3 AST),Made Shot,Driving Layup Shot,0,0
+89,86,PT01M57.00S,1,1610612744,GSW,2202,Richardson,J. Richardson,-172,179,25,Missed,1,0,0,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+90,87,PT01M56.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+91,88,PT01M51.00S,1,1610612763,MEM,1088,Atkins,C. Atkins,-112,155,19,Missed,1,0,0,0,v,MISS Atkins 19' Jump Shot,Missed Shot,Jump Shot,0,0
+92,89,PT01M50.00S,1,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,Harrington REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+93,90,PT01M47.00S,1,1610612744,GSW,1884,Davis,B. Davis,15,2,2,Made,1,30,27,57,h,Davis 2' Driving Layup (7 PTS) (Harrington 3 AST),Made Shot,Driving Layup Shot,0,0
+94,91,PT01M22.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis T.FOUL (P1.T4),Foul,Technical,0,0
+95,92,PT01M22.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+96,94,PT01M22.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis T.FOUL (P1.T4),Foul,Technical,0,0
+97,95,PT01M22.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,Davis Ejection:Second Technical,Ejection,Second Technical,0,0
+98,96,PT01M22.00S,1,1610612744,GSW,1884,Davis,B. Davis,0,0,0,,0,0,0,0,h,SUB: Barnes FOR Davis,Substitution,,0,0
+99,97,PT01M22.00S,1,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,30,28,58,v,Atkins Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0
+100,98,PT01M22.00S,1,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,30,29,59,v,Atkins Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,0
+101,100,PT01M06.00S,1,1610612763,MEM,2200,Gasol,P. Gasol,-156,-5,16,Made,1,30,31,61,v,Gasol 16' Turnaround Jump Shot (9 PTS) (Kinsey 3 AST),Made Shot,Turnaround Jump Shot,0,0
+102,102,PT00M53.60S,1,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Grizzlies T.Foul (Def. 3 Sec Jones ),Foul,Defense 3 Second,0,0
+103,103,PT00M53.60S,1,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,MISS Ellis Free Throw Technical,Free Throw,Free Throw Technical,0,0
+104,104,PT00M53.60S,1,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+105,105,PT00M44.90S,1,1610612744,GSW,1536,Jackson,S. Jackson,-177,191,26,Missed,1,0,0,0,h,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+106,106,PT00M43.80S,1,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0
+107,107,PT00M21.90S,1,1610612763,MEM,1088,Atkins,C. Atkins,-20,26,3,Missed,1,0,0,0,v,MISS Atkins 3' Running Jump Shot,Missed Shot,Running Jump Shot,0,0
+108,108,PT00M20.90S,1,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+109,109,PT00M18.90S,1,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones S.FOUL (P1.T3),Foul,Shooting,0,0
+110,110,PT00M18.90S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,31,31,62,h,Richardson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+111,111,PT00M18.90S,1,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,SUB: Biedrins FOR Harrington,Substitution,,0,0
+112,112,PT00M18.90S,1,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,32,31,63,h,Richardson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+113,113,PT00M00.20S,1,1610612763,MEM,2563,Jones,D. Jones,-2,33,3,Missed,1,0,0,0,v,MISS Jones 3' Jump Shot,Missed Shot,Jump Shot,0,0
+114,113,PT00M00.20S,1,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,Ellis BLOCK (1 BLK),,,0,0
+115,114,PT00M00.00S,1,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+116,115,PT00M00.00S,1,0,,0,,,0,0,0,,0,32,31,63,,End of 1st Period (3:35 PM EST),period,end,0,0
+117,117,PT12M00.00S,2,0,,0,,,0,0,0,,0,32,31,63,,Start of 2nd Period (3:38 PM EST),period,start,0,0
+118,118,PT11M43.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0
+119,118,PT11M43.00S,2,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones STEAL (1 STL),,,0,0
+120,119,PT11M40.00S,2,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,Jackson S.FOUL (P1.T1),Foul,Shooting,0,0
+121,120,PT11M40.00S,2,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,32,32,64,v,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+122,121,PT11M40.00S,2,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,32,33,65,v,Jones Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+123,122,PT11M20.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,-18,3,2,Made,1,34,33,67,h,Biedrins 2' Layup (2 PTS) (Richardson 3 AST),Made Shot,Layup Shot,0,0
+124,123,PT10M54.00S,2,1610612763,MEM,101124,Warrick,H. Warrick,-153,17,15,Missed,1,0,0,0,v,MISS Warrick 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,0
+125,124,PT10M52.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+126,125,PT10M46.00S,2,1610612744,GSW,1536,Jackson,S. Jackson,-233,81,25,Made,1,37,33,70,h,Jackson 25' 3PT Jump Shot (11 PTS) (Richardson 4 AST),Made Shot,Jump Shot,0,0
+127,126,PT10M27.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,-230,3,0,Missed,1,0,0,0,v,MISS Kinsey  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+128,127,PT10M26.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+129,128,PT10M19.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,230,-3,0,Missed,1,0,0,0,h,MISS Richardson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+130,129,PT10M17.00S,2,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+131,130,PT10M13.00S,2,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones Poss Lost Ball Turnover (P1.T5),Turnover,Poss Lost Ball Turnover,0,0
+132,131,PT10M13.00S,2,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,SUB: Harrington FOR Jones,Substitution,,0,0
+133,132,PT10M13.00S,2,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,SUB: Gay FOR Atkins,Substitution,,0,0
+134,133,PT09M58.00S,2,1610612744,GSW,101145,Ellis,M. Ellis,-232,-1,0,Missed,1,0,0,0,h,MISS Ellis  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+135,134,PT09M58.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0
+136,135,PT09M58.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins L.B.FOUL (P1.T2),Foul,Loose Ball,0,0
+137,136,PT09M58.00S,2,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,SUB: Swift FOR Warrick,Substitution,,0,0
+138,137,PT09M42.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0
+139,137,PT09M42.00S,2,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes STEAL (1 STL),,,0,0
+140,138,PT09M33.00S,2,1610612744,GSW,1536,Jackson,S. Jackson,-228,-18,0,Missed,1,0,0,0,h,MISS Jackson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+141,139,PT09M32.00S,2,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,Swift REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+142,140,PT09M22.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Richardson,Substitution,,0,0
+143,141,PT09M18.00S,2,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0
+144,141,PT09M18.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus STEAL (1 STL),,,0,0
+145,142,PT09M07.00S,2,1610612744,GSW,2440,Barnes,M. Barnes,232,-5,0,Missed,1,0,0,0,h,MISS Barnes  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+146,143,PT09M06.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+147,144,PT09M03.00S,2,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,Swift S.FOUL (P1.T1),Foul,Shooting,0,0
+148,145,PT09M03.00S,2,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,38,33,71,h,Ellis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+149,146,PT09M03.00S,2,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,39,33,72,h,Ellis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+150,147,PT08M45.00S,2,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol 3 Second Violation Turnover (P2.T8),Turnover,3 Second Violation,0,0
+151,148,PT08M45.00S,2,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+152,152,PT08M34.00S,2,1610612744,GSW,101145,Ellis,M. Ellis,-25,206,21,Missed,1,0,0,0,h,MISS Ellis 21' Jump Shot,Missed Shot,Jump Shot,0,0
+153,153,PT08M32.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+154,154,PT08M15.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,26,40,5,Missed,1,0,0,0,v,MISS Kinsey 5' Jump Shot,Missed Shot,Jump Shot,0,0
+155,154,PT08M15.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus BLOCK (1 BLK),,,0,0
+156,155,PT08M14.00S,2,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+157,156,PT08M10.00S,2,1610612744,GSW,101145,Ellis,M. Ellis,13,15,2,Missed,1,0,0,0,h,MISS Ellis 2' Layup,Missed Shot,Layup Shot,0,0
+158,157,PT08M08.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+159,158,PT08M01.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay Traveling Turnover (P4.T9),Turnover,Traveling,0,0
+160,159,PT07M48.00S,2,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,Made,1,41,33,74,h,Barnes  Slam Dunk (2 PTS) (Ellis 3 AST),Made Shot,Slam Dunk Shot,0,0
+161,160,PT07M36.00S,2,1610612763,MEM,2031,Swift,S. Swift,-26,196,20,Made,1,41,35,76,v,Swift 20' Jump Shot (2 PTS) (Gay 1 AST),Made Shot,Jump Shot,0,0
+162,161,PT07M24.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,Made,1,43,35,78,h,Biedrins  Slam Dunk (4 PTS) (Ellis 4 AST),Made Shot,Slam Dunk Shot,0,0
+163,162,PT07M00.00S,2,1610612763,MEM,2454,Harrington,J. Harrington,3,71,7,Made,1,43,37,80,v,Harrington 7' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,0,0
+164,163,PT06M51.00S,2,1610612744,GSW,101145,Ellis,M. Ellis,-10,13,2,Missed,1,0,0,0,h,MISS Ellis 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+165,164,PT06M50.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+166,165,PT06M34.00S,2,1610612763,MEM,200752,Gay,R. Gay,-148,194,24,Made,1,43,40,83,v,Gay 24' 3PT Jump Shot (3 PTS) (Gasol 4 AST),Made Shot,Jump Shot,0,0
+167,166,PT06M18.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0
+168,166,PT06M18.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey STEAL (1 STL),,,0,0
+169,167,PT06M12.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus S.FOUL (P1.T3),Foul,Shooting,0,0
+170,168,PT06M12.00S,2,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,43,41,84,v,Swift Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+171,169,PT06M12.00S,2,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,SUB: Harrington FOR Jackson,Substitution,,0,0
+172,170,PT06M12.00S,2,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+173,174,PT06M12.00S,2,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,43,42,85,v,Swift Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+174,175,PT06M00.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,-8,8,1,Made,1,45,42,87,h,Biedrins 1' Reverse Layup (6 PTS) (Barnes 1 AST),Made Shot,Reverse Layup Shot,0,0
+175,176,PT05M39.00S,2,1610612763,MEM,2200,Gasol,P. Gasol,143,95,17,Missed,1,0,0,0,v,MISS Gasol 17' Jump Shot,Missed Shot,Jump Shot,0,0
+176,177,PT05M38.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+177,178,PT05M26.00S,2,1610612744,GSW,2440,Barnes,M. Barnes,-227,31,0,Made,1,48,42,90,h,Barnes  3PT Jump Shot (5 PTS) (Harrington 4 AST),Made Shot,Jump Shot,0,0
+178,179,PT05M07.00S,2,1610612763,MEM,2200,Gasol,P. Gasol,-44,12,5,Made,1,48,44,92,v,Gasol 5' Turnaround Hook Shot (11 PTS),Made Shot,Turnaround Hook Shot,0,0
+179,180,PT04M53.00S,2,1610612744,GSW,1733,Harrington,A. Harrington,-228,26,0,Missed,1,0,0,0,h,MISS Harrington  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+180,181,PT04M52.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+181,182,PT04M46.00S,2,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,Harrington OFF.Foul (P1),Foul,Offensive,0,0
+182,183,PT04M46.00S,2,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,Harrington Foul Turnover (P1.T10),Turnover,Foul,0,0
+183,184,PT04M46.00S,2,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,SUB: Atkins FOR Harrington,Substitution,,0,0
+184,185,PT04M32.00S,2,1610612744,GSW,2440,Barnes,M. Barnes,-117,233,26,Missed,1,0,0,0,h,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+185,186,PT04M31.00S,2,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,Swift REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+186,187,PT04M19.00S,2,1610612763,MEM,2200,Gasol,P. Gasol,33,20,4,Made,1,48,46,94,v,Gasol 4' Jump Bank Shot (13 PTS) (Gay 2 AST),Made Shot,Jump Bank Shot,0,0
+187,188,PT04M00.00S,2,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+188,188,PT04M00.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay STEAL (1 STL),,,0,0
+189,189,PT03M57.00S,2,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,Ellis P.FOUL (P2.T4),Foul,Personal,0,0
+190,190,PT03M57.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,48,47,95,v,Kinsey Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+191,191,PT03M57.00S,2,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,SUB: Warrick FOR Swift,Substitution,,0,0
+192,192,PT03M57.00S,2,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,SUB: Richardson FOR Barnes,Substitution,,0,0
+193,193,PT03M57.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,MISS Kinsey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+194,194,PT03M56.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+195,195,PT03M45.00S,2,1610612744,GSW,101145,Ellis,M. Ellis,120,127,17,Made,1,50,47,97,h,Ellis 17' Fadeaway Jumper (6 PTS) (Biedrins 1 AST),Made Shot,Fadeaway Jump Shot,0,0
+196,196,PT03M22.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,67,243,25,Missed,1,0,0,0,v,MISS Kinsey 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+197,197,PT03M20.00S,2,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+198,198,PT03M13.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins P.FOUL (P2.PN),Foul,Personal,0,0
+199,199,PT03M13.00S,2,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,50,48,98,v,Gasol Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+200,200,PT03M13.00S,2,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,50,49,99,v,Gasol Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+201,201,PT02M57.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0
+202,201,PT02M57.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay STEAL (2 STL),,,0,0
+203,202,PT02M43.00S,2,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,Made,1,50,51,101,v,Gasol  Slam Dunk (17 PTS) (Gay 3 AST),Made Shot,Slam Dunk Shot,0,0
+204,222,PT02M29.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,-107,144,18,Missed,1,0,0,0,h,MISS Richardson 18' Jump Shot,Missed Shot,Jump Shot,0,0
+205,223,PT02M28.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0
+206,203,PT02M28.00S,2,0,,1483,,,0,0,0,,0,0,0,0,,Don Nelson Foul:T.FOUL,Foul,Technical,0,0
+207,204,PT02M28.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+208,208,PT02M28.00S,2,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,50,52,102,v,Atkins Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,0,0
+209,209,PT02M28.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Jump Ball Biedrins vs. Gasol: Tip to Kinsey,Jump Ball,,0,0
+210,211,PT02M07.00S,2,1610612763,MEM,101124,Warrick,H. Warrick,24,13,3,Made,1,50,54,104,v,Warrick 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+211,212,PT01M45.00S,2,1610612744,GSW,101145,Ellis,M. Ellis,235,-3,24,Missed,1,0,0,0,h,MISS Ellis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+212,213,PT01M44.00S,2,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,Atkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+213,214,PT01M38.00S,2,1610612763,MEM,1088,Atkins,C. Atkins,136,230,27,Missed,1,0,0,0,v,MISS Atkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+214,215,PT01M36.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+215,216,PT01M27.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,98,243,26,Missed,1,0,0,0,h,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+216,217,PT01M26.00S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+217,218,PT01M11.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay Traveling Turnover (P5.T11),Turnover,Traveling,0,0
+218,219,PT01M11.00S,2,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,SUB: Jackson FOR Biedrins,Substitution,,0,0
+219,220,PT01M00.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,233,-16,0,Made,1,53,54,107,h,Pietrus  3PT Jump Shot (3 PTS) (Ellis 5 AST),Made Shot,Jump Shot,0,0
+220,221,PT00M55.30S,2,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+221,224,PT00M48.00S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson P.FOUL (P2.PN),Foul,Personal,0,0
+222,226,PT00M48.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,53,55,108,v,Gay Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0
+223,227,PT00M48.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,MISS Gay Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+224,228,PT00M44.90S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+225,229,PT00M33.90S,2,1610612744,GSW,1733,Harrington,A. Harrington,-161,187,25,Made,1,56,55,111,h,Harrington 25' 3PT Jump Shot (12 PTS) (Richardson 5 AST),Made Shot,Jump Shot,0,0
+226,231,PT00M21.90S,2,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson P.FOUL (P3.PN),Foul,Personal,0,0
+227,232,PT00M21.90S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,56,56,112,v,Kinsey Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0
+228,233,PT00M21.90S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,SUB: Jones FOR Gay,Substitution,,0,0
+229,234,PT00M21.90S,2,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,MISS Kinsey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+230,235,PT00M19.90S,2,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+231,236,PT00M04.40S,2,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick P.FOUL (P1.T2),Foul,Personal,0,0
+232,237,PT00M01.00S,2,1610612744,GSW,1733,Harrington,A. Harrington,20,10,2,Missed,1,0,0,0,h,MISS Harrington 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+233,238,PT00M00.00S,2,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+234,239,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,56,112,,Instant Replay2nd Period (4:08 PM EST),Instant Replay,Support Ruling,0,0
+235,240,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,56,112,,End of 2nd Period (4:09 PM EST),period,end,0,0
+236,242,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,56,112,,Start of 3rd Period (4:25 PM EST),period,start,0,0
+237,243,PT11M47.00S,3,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,Missed,1,0,0,0,h,MISS Harrington  Layup,Missed Shot,Layup Shot,0,0
+238,244,PT11M45.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+239,245,PT11M42.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,Made,1,56,58,114,v,Warrick  Slam Dunk (10 PTS) (Gay 4 AST),Made Shot,Slam Dunk Shot,0,0
+240,246,PT11M27.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,21,33,4,Made,1,58,58,116,h,Richardson 4' Running Hook Shot (8 PTS),Made Shot,Running Hook Shot,0,0
+241,247,PT11M14.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,Made,1,58,60,118,v,Warrick  Alley Oop Layup (12 PTS) (Harrington 2 AST),Made Shot,Alley Oop Layup shot,0,0
+242,248,PT11M14.00S,3,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,Harrington S.FOUL (P2.T1),Foul,Shooting,0,0
+243,249,PT11M14.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,58,61,119,v,Warrick Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0
+244,250,PT10M57.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,28,8,3,Missed,1,0,0,0,h,MISS Richardson 3' Layup,Missed Shot,Layup Shot,0,0
+245,252,PT10M55.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+246,251,PT10M55.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,Missed,1,0,0,0,h,MISS Biedrins  Tip Shot,Missed Shot,Tip Shot,0,0
+247,253,PT10M54.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+248,254,PT10M53.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,-13,28,3,Missed,1,0,0,0,h,MISS Biedrins 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0
+249,255,PT10M51.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+250,256,PT10M35.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,69,18,7,Missed,1,0,0,0,v,MISS Warrick 7' Jump Shot,Missed Shot,Jump Shot,0,0
+251,257,PT10M33.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+252,258,PT10M27.00S,3,1610612744,GSW,1536,Jackson,S. Jackson,-207,137,25,Missed,1,0,0,0,h,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+253,259,PT10M26.00S,3,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+254,260,PT10M09.00S,3,1610612763,MEM,200752,Gay,R. Gay,179,92,20,Missed,1,0,0,0,v,MISS Gay 20' Jump Shot,Missed Shot,Jump Shot,0,0
+255,261,PT10M08.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:2 Def:8),Rebound,Unknown,0,0
+256,262,PT09M56.00S,3,1610612744,GSW,101145,Ellis,M. Ellis,136,145,20,Made,1,60,61,121,h,Ellis 20' Jump Shot (8 PTS) (Richardson 6 AST),Made Shot,Jump Shot,0,0
+257,263,PT09M48.00S,3,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,Jackson S.FOUL (P2.T2),Foul,Shooting,0,0
+258,264,PT09M48.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,60,62,122,v,Gay Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+259,265,PT09M48.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,60,63,123,v,Gay Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+260,266,PT09M32.00S,3,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,Harrington Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0
+261,266,PT09M32.00S,3,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,Harrington STEAL (1 STL),,,0,0
+262,267,PT09M26.00S,3,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,Harrington Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0
+263,267,PT09M26.00S,3,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,Harrington STEAL (1 STL),,,0,0
+264,268,PT09M19.00S,3,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,Jackson Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+265,268,PT09M19.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick STEAL (1 STL),,,0,0
+266,269,PT09M06.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,-36,153,16,Missed,1,0,0,0,v,MISS Warrick 16' Jump Shot,Missed Shot,Jump Shot,0,0
+267,270,PT09M05.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:2 Def:9),Rebound,Unknown,0,0
+268,271,PT08M58.00S,3,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol S.FOUL (P1.T1),Foul,Shooting,0,0
+269,272,PT08M58.00S,3,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,SUB: Barnes FOR Harrington,Substitution,,0,0
+270,273,PT08M58.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,MISS Biedrins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+271,274,PT08M58.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+272,277,PT08M58.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay Violation:Lane,Violation,Lane,0,0
+273,278,PT08M58.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,61,63,124,h,Biedrins Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0
+274,279,PT08M42.00S,3,1610612763,MEM,200752,Gay,R. Gay,8,64,6,Missed,1,0,0,0,v,MISS Gay 6' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,0
+275,280,PT08M40.00S,3,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+276,281,PT08M39.00S,3,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes P.FOUL (P1.T3),Foul,Personal,0,0
+277,282,PT08M35.00S,3,1610612763,MEM,200814,Kinsey,T. Kinsey,126,122,18,Made,1,61,65,126,v,Kinsey 18' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+278,283,PT08M26.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,-11,8,1,Made,1,63,65,128,h,Richardson 1' Reverse Layup (10 PTS) (Biedrins 2 AST),Made Shot,Reverse Layup Shot,0,0
+279,284,PT08M26.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay S.FOUL (P3.T2),Foul,Shooting,0,0
+280,285,PT08M26.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,64,65,129,h,Richardson Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0
+281,286,PT08M09.00S,3,1610612763,MEM,200752,Gay,R. Gay,-123,-14,12,Made,1,64,67,131,v,Gay 12' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,0
+282,287,PT07M50.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,232,10,0,Missed,1,0,0,0,h,MISS Richardson  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+283,288,PT07M49.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+284,289,PT07M32.00S,3,1610612763,MEM,2200,Gasol,P. Gasol,-56,118,13,Made,1,64,69,133,v,Gasol 13' Fadeaway Jumper (19 PTS) (Harrington 3 AST),Made Shot,Fadeaway Jump Shot,0,0
+285,290,PT07M22.00S,3,1610612744,GSW,2440,Barnes,M. Barnes,-23,10,3,Made,1,66,69,135,h,Barnes 3' Driving Layup (7 PTS) (Jackson 2 AST),Made Shot,Driving Layup Shot,0,0
+286,291,PT06M58.00S,3,1610612763,MEM,2454,Harrington,J. Harrington,-21,20,3,Made,1,66,71,137,v,Harrington 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0
+287,292,PT06M36.00S,3,1610612744,GSW,2440,Barnes,M. Barnes,228,64,24,Missed,1,0,0,0,h,MISS Barnes 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+288,293,PT06M35.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+289,294,PT06M25.00S,3,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes FLAGRANT.FOUL.TYPE1 (P2.T4),Foul,Flagrant Type 1,0,0
+290,445,PT06M25.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Short (Reg.2 Short 2),Timeout,Short,0,0
+291,295,PT06M25.00S,3,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,66,72,138,v,Harrington Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0
+292,296,PT06M25.00S,3,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,MISS Harrington Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0
+293,297,PT06M25.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0
+294,298,PT06M25.00S,3,1610612763,MEM,2454,Harrington,J. Harrington,0,0,0,,0,0,0,0,v,SUB: Atkins FOR Harrington,Substitution,,0,0
+295,299,PT06M20.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0
+296,299,PT06M20.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson STEAL (1 STL),,,0,0
+297,300,PT06M20.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick L.B.FOUL (P2.T3),Foul,Loose Ball,0,0
+298,301,PT06M10.00S,3,1610612744,GSW,1536,Jackson,S. Jackson,-8,15,2,Made,1,68,72,140,h,Jackson 2' Driving Layup (13 PTS) (Ellis 6 AST),Made Shot,Driving Layup Shot,0,0
+299,302,PT05M50.00S,3,1610612763,MEM,200814,Kinsey,T. Kinsey,-44,18,5,Missed,1,0,0,0,v,MISS Kinsey 5' Jump Shot,Missed Shot,Jump Shot,0,0
+300,302,PT05M50.00S,3,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,Jackson BLOCK (2 BLK),,,0,0
+301,303,PT05M50.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0
+302,304,PT05M50.00S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+303,307,PT05M50.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,SUB: Swift FOR Warrick,Substitution,,0,0
+304,308,PT05M47.00S,3,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,Atkins Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0
+305,308,PT05M47.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson STEAL (2 STL),,,0,0
+306,309,PT05M43.00S,3,1610612744,GSW,2440,Barnes,M. Barnes,15,15,2,Made,1,70,72,142,h,Barnes 2' Layup (9 PTS) (Jackson 3 AST),Made Shot,Layup Shot,0,0
+307,310,PT05M25.00S,3,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0
+308,310,PT05M25.00S,3,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,Ellis STEAL (2 STL),,,0,0
+309,311,PT05M21.00S,3,1610612744,GSW,101145,Ellis,M. Ellis,-16,22,3,Made,1,72,72,144,h,Ellis 3' Driving Layup (10 PTS) (Jackson 4 AST),Made Shot,Driving Layup Shot,0,0
+310,312,PT05M17.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.3 Short 2),Timeout,Regular,0,0
+311,316,PT04M58.00S,3,1610612763,MEM,200814,Kinsey,T. Kinsey,-240,2,24,Missed,1,0,0,0,v,MISS Kinsey 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+312,317,PT04M57.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+313,318,PT04M53.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,16,28,3,Made,1,74,72,146,h,Richardson 3' Driving Finger Roll (13 PTS) (Ellis 7 AST),Made Shot,Driving Finger Roll Shot,0,0
+314,319,PT04M41.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,Made,1,74,74,148,v,Gay  Alley Oop Dunk (10 PTS) (Kinsey 4 AST),Made Shot,Alley Oop Dunk Shot,0,0
+315,320,PT04M29.00S,3,1610612744,GSW,101145,Ellis,M. Ellis,16,169,17,Missed,1,0,0,0,h,MISS Ellis 17' Jump Shot,Missed Shot,Jump Shot,0,0
+316,321,PT04M28.00S,3,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,Swift REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+317,322,PT04M16.00S,3,1610612763,MEM,1088,Atkins,C. Atkins,-235,56,24,Missed,1,0,0,0,v,MISS Atkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+318,323,PT04M15.00S,3,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,Swift REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+319,324,PT04M14.00S,3,1610612763,MEM,2031,Swift,S. Swift,15,13,2,Made,1,74,76,150,v,Swift 2' Layup (6 PTS),Made Shot,Layup Shot,0,0
+320,325,PT04M04.00S,3,1610612744,GSW,1536,Jackson,S. Jackson,110,232,26,Made,1,77,76,153,h,Jackson 26' 3PT Jump Shot (16 PTS) (Biedrins 3 AST),Made Shot,Jump Shot,0,0
+321,326,PT03M38.00S,3,1610612763,MEM,200752,Gay,R. Gay,80,240,25,Missed,1,0,0,0,v,MISS Gay 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+322,327,PT03M37.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+323,328,PT03M33.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0
+324,328,PT03M33.00S,3,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey STEAL (2 STL),,,0,0
+325,329,PT03M20.00S,3,1610612763,MEM,200814,Kinsey,T. Kinsey,-169,23,17,Made,1,77,78,155,v,Kinsey 17' Jump Shot (10 PTS),Made Shot,Jump Shot,0,0
+326,330,PT02M59.00S,3,1610612744,GSW,1536,Jackson,S. Jackson,228,68,24,Missed,1,0,0,0,h,MISS Jackson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+327,331,PT02M58.00S,3,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,Swift REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+328,332,PT02M44.00S,3,1610612763,MEM,2031,Swift,S. Swift,-16,3,2,Missed,1,0,0,0,v,MISS Swift 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+329,332,PT02M44.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson BLOCK (2 BLK),,,0,0
+330,333,PT02M43.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+331,334,PT02M37.00S,3,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,Jackson Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0
+332,334,PT02M37.00S,3,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,Atkins STEAL (1 STL),,,0,0
+333,335,PT02M32.00S,3,1610612763,MEM,1088,Atkins,C. Atkins,20,17,3,Missed,1,0,0,0,v,MISS Atkins 3' Layup,Missed Shot,Layup Shot,0,0
+334,337,PT02M30.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+335,336,PT02M30.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,Made,1,77,80,157,v,Gay  Follow Up Dunk (12 PTS),Made Shot,Follow Up Dunk Shot,0,0
+336,338,PT02M11.00S,3,1610612744,GSW,101145,Ellis,M. Ellis,-176,179,25,Made,1,80,80,160,h,Ellis 25' 3PT Jump Shot (13 PTS) (Richardson 7 AST),Made Shot,Jump Shot,0,0
+337,339,PT01M59.00S,3,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,Swift Traveling Turnover (P1.T16),Turnover,Traveling,0,0
+338,340,PT01M59.00S,3,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,SUB: Jones FOR Kinsey,Substitution,,0,0
+339,341,PT01M59.00S,3,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Richardson,Substitution,,0,0
+340,342,PT01M59.00S,3,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,SUB: Warrick FOR Gasol,Substitution,,0,0
+341,343,PT01M45.00S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,238,-8,24,Missed,1,0,0,0,h,MISS Pietrus 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+342,344,PT01M43.00S,3,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+343,345,PT01M27.00S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus S.FOUL (P2.PN),Foul,Shooting,0,0
+344,346,PT01M27.00S,3,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,80,81,161,v,Swift Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+345,347,PT01M27.00S,3,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,SUB: Harrington FOR Barnes,Substitution,,0,0
+346,348,PT01M27.00S,3,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,80,82,162,v,Swift Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+347,349,PT01M18.00S,3,1610612744,GSW,2740,Biedrins,A. Biedrins,-13,12,2,Made,1,82,82,164,h,Biedrins 2' Driving Layup (9 PTS) (Jackson 5 AST),Made Shot,Driving Layup Shot,0,0
+348,350,PT01M03.00S,3,1610612763,MEM,101124,Warrick,H. Warrick,-3,74,7,Made,1,82,84,166,v,Warrick 7' Turnaround Jump Shot (15 PTS) (Atkins 2 AST),Made Shot,Turnaround Jump Shot,0,0
+349,351,PT00M55.60S,3,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,Jackson Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0
+350,352,PT00M55.60S,3,1610612763,MEM,2031,Swift,S. Swift,0,0,0,,0,0,0,0,v,SUB: Gasol FOR Swift,Substitution,,0,0
+351,353,PT00M45.30S,3,1610612763,MEM,200752,Gay,R. Gay,236,63,24,Made,1,82,87,169,v,Gay 24' 3PT Jump Shot (15 PTS) (Atkins 3 AST),Made Shot,Jump Shot,0,0
+352,354,PT00M30.90S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay S.FOUL (P4.T4),Foul,Shooting,0,0
+353,355,PT00M30.90S,3,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,83,87,170,h,Ellis Free Throw 1 of 3 (14 PTS),Free Throw,Free Throw 1 of 3,0,0
+354,356,PT00M30.90S,3,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,0,0,0,h,SUB: Barnes FOR Jackson,Substitution,,0,0
+355,357,PT00M30.90S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,SUB: Kinsey FOR Gay,Substitution,,0,0
+356,358,PT00M30.90S,3,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,MISS Ellis Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0
+357,359,PT00M30.90S,3,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+358,360,PT00M30.90S,3,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,MISS Ellis Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0
+359,361,PT00M29.90S,3,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+360,362,PT00M09.60S,3,1610612763,MEM,200814,Kinsey,T. Kinsey,-13,112,11,Made,1,83,89,172,v,Kinsey 11' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,0,0
+361,363,PT00M00.00S,3,1610612744,GSW,2554,Pietrus,M. Pietrus,179,171,25,Made,1,86,89,175,h,Pietrus 25' 3PT Jump Shot (6 PTS) (Ellis 8 AST),Made Shot,Jump Shot,0,0
+362,364,PT00M00.00S,3,0,,0,,,0,0,0,,0,86,89,175,,Instant Replay3rd Period (4:51 PM EST),Instant Replay,Support Ruling,0,0
+363,365,PT00M00.00S,3,0,,0,,,0,0,0,,0,86,89,175,,End of 3rd Period (4:52 PM EST),period,end,0,0
+364,367,PT12M00.00S,4,0,,0,,,0,0,0,,0,86,89,175,,Start of 4th Period (4:55 PM EST),period,start,0,0
+365,369,PT11M42.00S,4,1610612763,MEM,2563,Jones,D. Jones,18,25,3,Made,1,86,91,177,v,Jones 3' Layup (6 PTS),Made Shot,Layup Shot,0,0
+366,370,PT11M42.00S,4,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes S.FOUL (P3.T1),Foul,Shooting,0,0
+367,371,PT11M42.00S,4,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,86,92,178,v,Jones Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0
+368,372,PT11M31.00S,4,1610612744,GSW,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,SUB: Richardson FOR Barnes,Substitution,,0,0
+369,373,PT11M26.00S,4,1610612744,GSW,1733,Harrington,A. Harrington,-44,186,19,Made,1,88,92,180,h,Harrington 19' Jump Shot (14 PTS),Made Shot,Jump Shot,0,0
+370,374,PT10M58.00S,4,1610612763,MEM,1088,Atkins,C. Atkins,-141,227,27,Made,1,88,95,183,v,Atkins 27' 3PT Jump Shot (14 PTS) (Jones 1 AST),Made Shot,Jump Shot,0,0
+371,375,PT10M40.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,-21,7,2,Missed,1,0,0,0,h,MISS Biedrins 2' Driving Layup,Missed Shot,Driving Layup Shot,0,0
+372,375,PT10M40.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol BLOCK (2 BLK),,,0,0
+373,376,PT10M38.00S,4,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+374,377,PT10M29.00S,4,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,Harrington S.FOUL (P3.T2),Foul,Shooting,0,0
+375,378,PT10M29.00S,4,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,88,96,184,v,Warrick Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+376,379,PT10M29.00S,4,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,88,97,185,v,Warrick Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+377,381,PT10M10.00S,4,1610612744,GSW,1733,Harrington,A. Harrington,-161,220,27,Made,1,91,97,188,h,Harrington 27' 3PT Jump Shot (17 PTS) (Pietrus 1 AST),Made Shot,Jump Shot,0,0
+378,383,PT09M55.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,125,138,19,Missed,1,0,0,0,v,MISS Kinsey 19' Jump Shot,Missed Shot,Jump Shot,0,0
+379,383,PT09M55.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus BLOCK (2 BLK),,,0,0
+380,384,PT09M54.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+381,385,PT09M54.00S,4,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,Atkins P.FOUL (P2.T1),Foul,Personal,0,0
+382,386,PT09M46.00S,4,1610612744,GSW,101145,Ellis,M. Ellis,62,161,17,Missed,1,0,0,0,h,MISS Ellis 17' Jump Shot,Missed Shot,Jump Shot,0,0
+383,387,PT09M44.00S,4,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+384,388,PT09M32.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol Poss Lost Ball Turnover (P4.T17),Turnover,Poss Lost Ball Turnover,0,0
+385,389,PT09M17.00S,4,1610612744,GSW,1733,Harrington,A. Harrington,-89,28,9,Missed,1,0,0,0,h,MISS Harrington 9' Jump Shot,Missed Shot,Jump Shot,0,0
+386,390,PT09M16.00S,4,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+387,391,PT09M00.00S,4,1610612763,MEM,2563,Jones,D. Jones,233,49,24,Missed,1,0,0,0,v,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+388,392,PT08M59.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:2 Def:10),Rebound,Unknown,0,0
+389,393,PT08M54.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,205,161,26,Missed,1,0,0,0,h,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+390,394,PT08M52.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:0 Def:7),Rebound,Unknown,0,0
+391,395,PT08M31.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,57,76,10,Missed,1,0,0,0,v,MISS Gasol 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0
+392,396,PT08M30.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:2 Def:11),Rebound,Unknown,0,0
+393,397,PT08M25.00S,4,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones S.FOUL (P2.T2),Foul,Shooting,0,0
+394,398,PT08M25.00S,4,0,,0,,,0,0,0,,0,0,0,0,,Timeout: Official,Timeout,Official,0,0
+395,400,PT08M25.00S,4,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,SUB: Jackson FOR Ellis,Substitution,,0,0
+396,401,PT08M25.00S,4,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,SUB: Gay FOR Jones,Substitution,,0,0
+397,402,PT08M25.00S,4,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,MISS Harrington Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+398,403,PT08M25.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0
+399,404,PT08M25.00S,4,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,MISS Harrington Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+400,405,PT08M24.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+401,406,PT07M58.00S,4,1610612763,MEM,101124,Warrick,H. Warrick,-130,-5,13,Made,1,91,99,190,v,Warrick 13' Fadeaway Jumper (19 PTS) (Kinsey 5 AST),Made Shot,Fadeaway Jump Shot,0,0
+402,407,PT07M38.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,-16,18,2,Made,1,93,99,192,h,Richardson 2' Layup (15 PTS) (Jackson 6 AST),Made Shot,Layup Shot,0,0
+403,408,PT07M23.00S,4,1610612763,MEM,101124,Warrick,H. Warrick,24,10,3,Missed,1,0,0,0,v,MISS Warrick 3' Layup,Missed Shot,Layup Shot,0,0
+404,408,PT07M23.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus BLOCK (3 BLK),,,0,0
+405,409,PT07M21.00S,4,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,Harrington REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+406,410,PT07M14.00S,4,1610612744,GSW,1733,Harrington,A. Harrington,179,196,27,Missed,1,0,0,0,h,MISS Harrington 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+407,411,PT07M11.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+408,412,PT07M09.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,20,10,2,Made,1,95,99,194,h,Richardson 2' Reverse Layup (17 PTS) (Pietrus 2 AST),Made Shot,Reverse Layup Shot,0,0
+409,413,PT07M09.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol S.FOUL (P2.T3),Foul,Shooting,0,0
+410,414,PT07M09.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,96,99,195,h,Richardson Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0
+411,415,PT06M42.00S,4,1610612763,MEM,1088,Atkins,C. Atkins,135,224,26,Missed,1,0,0,0,v,MISS Atkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+412,416,PT06M41.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:2 Def:12),Rebound,Unknown,0,0
+413,417,PT06M35.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,153,214,26,Made,1,99,99,198,h,Richardson 26' 3PT Jump Shot (21 PTS) (Jackson 7 AST),Made Shot,Jump Shot,0,0
+414,418,PT06M15.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus P.FOUL (P3.T3),Foul,Personal,0,0
+415,419,PT06M00.00S,4,1610612763,MEM,1088,Atkins,C. Atkins,-209,135,25,Made,1,99,102,201,v,Atkins 25' 3PT Jump Shot (17 PTS) (Gasol 5 AST),Made Shot,Jump Shot,0,0
+416,420,PT05M47.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,-228,-9,0,Made,1,102,102,204,h,Pietrus  3PT Jump Shot (9 PTS) (Harrington 5 AST),Made Shot,Jump Shot,0,0
+417,421,PT05M25.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson S.FOUL (P4.T4),Foul,Shooting,0,0
+418,422,PT05M25.00S,4,0,,1610612744,,,0,0,0,,0,0,0,0,h,WARRIORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+419,424,PT05M25.00S,4,1610612744,GSW,1733,Harrington,A. Harrington,0,0,0,,0,0,0,0,h,SUB: Ellis FOR Harrington,Substitution,,0,0
+420,426,PT05M25.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,102,103,205,v,Gasol Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+421,427,PT05M25.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,MISS Gasol Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+422,428,PT05M23.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:2 Def:13),Rebound,Unknown,0,0
+423,429,PT05M04.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,227,10,0,Made,1,105,103,208,h,Richardson  3PT Jump Shot (24 PTS) (Jackson 8 AST),Made Shot,Jump Shot,0,0
+424,430,PT04M43.00S,4,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,Warrick Poss Lost Ball Turnover (P2.T18),Turnover,Poss Lost Ball Turnover,0,0
+425,431,PT04M27.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,-230,-13,0,Made,1,108,103,211,h,Pietrus  3PT Jump Shot (12 PTS) (Ellis 9 AST),Made Shot,Jump Shot,0,0
+426,432,PT04M12.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,WARRIORS T.Foul (Def. 3 Sec Richardson ),Foul,Defense 3 Second,0,0
+427,433,PT04M12.00S,4,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,108,104,212,v,Atkins Free Throw Technical (18 PTS),Free Throw,Free Throw Technical,0,0
+428,435,PT04M09.00S,4,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,Atkins OFF.Foul (P3),Foul,Offensive,0,0
+429,436,PT04M09.00S,4,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,Atkins Foul Turnover (P2.T19),Turnover,Foul,0,0
+430,437,PT03M54.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,29,257,26,Missed,1,0,0,0,h,MISS Richardson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+431,438,PT03M53.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0
+432,439,PT03M38.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,0
+433,443,PT03M35.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,0
+434,446,PT03M28.00S,4,1610612763,MEM,1088,Atkins,C. Atkins,-232,-3,0,Missed,1,0,0,0,v,MISS Atkins  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+435,446,PT03M28.00S,4,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,Ellis BLOCK (2 BLK),,,0,0
+436,447,PT03M27.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+437,448,PT03M20.00S,4,1610612744,GSW,1536,Jackson,S. Jackson,11,0,1,Made,1,110,104,214,h,Jackson 1' Driving Layup (18 PTS) (Richardson 8 AST),Made Shot,Driving Layup Shot,0,0
+438,449,PT03M02.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson P.FOUL (P5.PN),Foul,Personal,0,0
+439,450,PT03M02.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,MISS Gasol Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+440,451,PT03M02.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0
+441,452,PT03M02.00S,4,1610612763,MEM,101124,Warrick,H. Warrick,0,0,0,,0,0,0,0,v,SUB: Jones FOR Warrick,Substitution,,0,0
+442,453,PT03M02.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,110,105,215,v,Gasol Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+443,454,PT02M44.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,33,25,4,Missed,1,0,0,0,h,MISS Biedrins 4' Jump Shot,Missed Shot,Jump Shot,0,0
+444,454,PT02M44.00S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay BLOCK (1 BLK),,,0,0
+445,455,PT02M43.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:3 Def:13),Rebound,Unknown,0,0
+446,456,PT02M42.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,11,22,2,Missed,1,0,0,0,h,MISS Biedrins 2' Layup,Missed Shot,Layup Shot,0,0
+447,458,PT02M41.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:4 Def:13),Rebound,Unknown,0,0
+448,457,PT02M39.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,-21,17,3,Made,1,112,105,217,h,Biedrins 3' Reverse Layup (11 PTS),Made Shot,Reverse Layup Shot,0,0
+449,459,PT02M29.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus S.FOUL (P4.PN),Foul,Shooting,0,0
+450,460,PT02M29.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,112,106,218,v,Kinsey Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0
+451,461,PT02M29.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,112,107,219,v,Kinsey Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0
+452,462,PT02M16.00S,4,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,Atkins P.FOUL (P4.T4),Foul,Personal,0,0
+453,463,PT02M11.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,Made,1,114,107,221,h,Biedrins  Slam Dunk (13 PTS) (Jackson 9 AST),Made Shot,Slam Dunk Shot,0,0
+454,464,PT02M01.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins P.FOUL (P3.PN),Foul,Personal,0,0
+455,465,PT02M01.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,114,108,222,v,Gasol Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0
+456,467,PT02M01.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,114,109,223,v,Gasol Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+457,468,PT01M45.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,233,-14,0,Missed,1,0,0,0,h,MISS Pietrus  3PT Jump Shot,Missed Shot,Jump Shot,0,0
+458,469,PT01M43.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,Kinsey REBOUND (Off:0 Def:8),Rebound,Unknown,0,0
+459,470,PT01M31.00S,4,1610612763,MEM,2563,Jones,D. Jones,28,18,3,Missed,1,0,0,0,v,MISS Jones 3' Layup,Missed Shot,Layup Shot,0,0
+460,472,PT01M29.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+461,471,PT01M29.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,Missed,1,0,0,0,v,MISS Gasol  Layup,Missed Shot,Layup Shot,0,0
+462,473,PT01M28.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+463,474,PT01M14.00S,4,1610612744,GSW,1536,Jackson,S. Jackson,-10,15,2,Made,1,116,109,225,h,Jackson 2' Running Layup (20 PTS),Made Shot,Running Layup Shot,0,0
+464,475,PT01M14.00S,4,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones S.FOUL (P3.PN),Foul,Shooting,0,0
+465,476,PT01M14.00S,4,1610612744,GSW,1536,Jackson,S. Jackson,0,0,0,,0,117,109,226,h,Jackson Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,0
+466,477,PT01M07.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus S.FOUL (P5.PN),Foul,Shooting,0,0
+467,478,PT01M07.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,117,110,227,v,Kinsey Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+468,479,PT01M07.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,0,0,0,v,MISS Kinsey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+469,480,PT01M05.00S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+470,481,PT00M56.60S,4,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,Ellis P.FOUL (P3.PN),Foul,Personal,0,0
+471,482,PT00M56.60S,4,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,MISS Atkins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+472,483,PT00M56.60S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0
+473,484,PT00M56.60S,4,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,117,111,228,v,Atkins Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0
+474,485,PT00M34.90S,4,1610612744,GSW,1536,Jackson,S. Jackson,82,201,22,Missed,1,0,0,0,h,MISS Jackson 22' Jump Shot,Missed Shot,Jump Shot,0,0
+475,486,PT00M32.90S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus REBOUND (Off:4 Def:3),Rebound,Unknown,0,0
+476,487,PT00M31.90S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0
+477,487,PT00M31.90S,4,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones STEAL (2 STL),,,0,0
+478,488,PT00M28.90S,4,1610612763,MEM,2563,Jones,D. Jones,-13,22,3,Missed,1,0,0,0,v,MISS Jones 3' Layup,Missed Shot,Layup Shot,0,0
+479,489,PT00M26.90S,4,1610612763,MEM,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,v,Gasol REBOUND (Off:5 Def:4),Rebound,Unknown,0,0
+480,490,PT00M24.90S,4,1610612763,MEM,2200,Gasol,P. Gasol,34,18,4,Missed,1,0,0,0,v,MISS Gasol 4' Jump Shot,Missed Shot,Jump Shot,0,0
+481,490,PT00M24.90S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,Pietrus BLOCK (4 BLK),,,0,0
+482,491,PT00M22.70S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+483,492,PT00M20.00S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins P.FOUL (P4.PN),Foul,Personal,0,0
+484,493,PT00M20.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,117,112,229,v,Kinsey Free Throw 1 of 3 (16 PTS),Free Throw,Free Throw 1 of 3,0,0
+485,494,PT00M20.00S,4,1610612744,GSW,2554,Pietrus,M. Pietrus,0,0,0,,0,0,0,0,h,SUB: Jasikevicius FOR Pietrus,Substitution,,0,0
+486,495,PT00M20.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,117,113,230,v,Kinsey Free Throw 2 of 3 (17 PTS),Free Throw,Free Throw 2 of 3,0,0
+487,496,PT00M20.00S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,0,0,0,,0,117,114,231,v,Kinsey Free Throw 3 of 3 (18 PTS),Free Throw,Free Throw 3 of 3,0,0
+488,497,PT00M18.30S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay P.FOUL (P5.PN),Foul,Personal,0,0
+489,498,PT00M18.30S,4,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,118,114,232,h,Ellis Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0
+490,499,PT00M18.30S,4,1610612744,GSW,101180,Jasikevicius,S. Jasikevicius,0,0,0,,0,0,0,0,h,SUB: Pietrus FOR Jasikevicius,Substitution,,0,0
+491,500,PT00M18.30S,4,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,h,MISS Ellis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+492,502,PT00M14.90S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,Biedrins REBOUND (Off:5 Def:13),Rebound,Unknown,0,0
+493,501,PT00M14.90S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,-8,15,2,Missed,1,0,0,0,h,MISS Biedrins 2' Layup,Missed Shot,Layup Shot,0,0
+494,503,PT00M13.90S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+495,504,PT00M06.90S,4,1610612763,MEM,200752,Gay,R. Gay,18,20,3,Missed,1,0,0,0,v,MISS Gay 3' Layup,Missed Shot,Layup Shot,0,0
+496,505,PT00M06.60S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0,0,0,h,Richardson REBOUND (Off:0 Def:6),Rebound,Unknown,0,0
+497,506,PT00M06.60S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,Gay P.FOUL (P6.PN),Foul,Personal,0,0
+498,508,PT00M06.60S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0,0,0,v,SUB: Al. Johnson FOR Gay,Substitution,,0,0
+499,509,PT00M06.60S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,119,114,233,h,Richardson Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0
+500,510,PT00M06.60S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,120,114,234,h,Richardson Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0
+501,511,PT00M06.60S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.6 Short 2),Timeout,Regular,0,0
+502,514,PT00M06.60S,4,1610612744,GSW,2740,Biedrins,A. Biedrins,0,0,0,,0,0,0,0,h,SUB: Barnes FOR Biedrins,Substitution,,0,0
+503,515,PT00M02.10S,4,1610612763,MEM,200814,Kinsey,T. Kinsey,182,204,27,Made,1,120,117,237,v,Kinsey 27' 3PT Jump Shot (21 PTS) (Atkins 4 AST),Made Shot,Jump Shot,0,0
+504,516,PT00M01.60S,4,1610612763,MEM,1088,Atkins,C. Atkins,0,0,0,,0,0,0,0,v,Atkins P.FOUL (P5.PN),Foul,Personal,0,0
+505,517,PT00M01.60S,4,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,121,117,238,h,Ellis Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0
+506,518,PT00M01.60S,4,1610612744,GSW,101145,Ellis,M. Ellis,0,0,0,,0,122,117,239,h,Ellis Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0
+507,519,PT00M00.00S,4,1610612763,MEM,2563,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones Traveling Turnover (P2.T20),Turnover,Traveling,0,0
+508,520,PT00M00.00S,4,0,,0,,,0,0,0,,0,122,117,239,,End of 4th Period (5:34 PM EST),period,end,0,0

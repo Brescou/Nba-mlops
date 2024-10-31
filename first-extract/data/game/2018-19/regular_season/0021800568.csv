@@ -1,0 +1,502 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:13 PM EST),period,start,0,0
+2,4,PT12M00.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Jump Ball Whiteside vs. Bryant: Tip to Winslow,Jump Ball,,1,0
+3,7,PT11M40.00S,1,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant S.FOUL (P1.T1) (K.Fitzgerald),Foul,Shooting,1,0
+4,9,PT11M40.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,1,0,1,h,Whiteside Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+5,10,PT11M40.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,2,0,2,h,Whiteside Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+6,12,PT11M23.00S,1,1610612764,WAS,201145,Green,J. Green,64,154,17,Made,1,2,2,4,v,Green 17' Jump Shot (2 PTS) (Beal 1 AST),Made Shot,Jump Shot,1,0
+7,14,PT11M04.00S,1,1610612748,MIA,1626159,Winslow,J. Winslow,-192,156,25,Made,1,5,2,7,h,Winslow 25' 3PT Jump Shot (3 PTS) (Richardson 1 AST),Made Shot,Jump Shot,1,0
+8,16,PT10M55.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,-198,159,25,Missed,1,,,0,v,MISS Ariza 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+9,17,PT10M53.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,J. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+10,18,PT10M44.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,-230,5,0,Missed,1,,,0,h,MISS J. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+11,21,PT10M44.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+12,19,PT10M38.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0
+13,19,PT10M38.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson STEAL (1 STL),,,1,0
+14,22,PT10M27.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,105,226,25,Missed,1,,,0,h,MISS Richardson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+15,23,PT10M25.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+16,24,PT10M20.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside S.FOUL (P1.T1) (A.Smith),Foul,Shooting,1,0
+17,26,PT10M20.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,5,3,8,v,Beal Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+18,27,PT10M20.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,5,4,9,v,Beal Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+19,28,PT10M06.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,3,9,1,Made,1,7,4,11,h,Whiteside 1' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,0
+20,29,PT09M47.00S,1,1610612764,WAS,201145,Green,J. Green,-231,8,0,Missed,1,,,0,v,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+21,30,PT09M44.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+22,31,PT09M36.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,17,10,2,Missed,1,,,0,h,MISS J. Johnson 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+23,32,PT09M35.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+24,33,PT09M35.00S,1,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant L.B.FOUL (P2.T2) (D.Taylor),Foul,Loose Ball,1,0
+25,35,PT09M35.00S,1,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,SUB: Mahinmi FOR Bryant,Substitution,,0,0
+26,37,PT09M23.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,105,237,26,Missed,1,,,0,h,MISS Richardson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+27,38,PT09M22.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+28,39,PT09M21.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0
+29,40,PT09M12.00S,1,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,h,McGruder P.FOUL (P1.T2) (K.Fitzgerald),Foul,Personal,1,0
+30,42,PT09M03.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,21,11,2,Missed,1,,,0,v,MISS Ariza 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+31,43,PT09M01.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+32,45,PT08M50.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,-13,1,1,Missed,1,,,0,h,MISS Richardson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+33,46,PT08M49.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+34,47,PT08M49.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,-6,1,Made,1,9,4,13,h,Whiteside 1' Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,0
+35,48,PT08M49.00S,1,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,Green S.FOUL (P1.T3) (A.Smith),Foul,Shooting,1,0
+36,50,PT08M49.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,MISS Whiteside Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0
+37,51,PT08M47.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,,,0,v,Ariza REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+38,52,PT08M41.00S,1,1610612764,WAS,201145,Green,J. Green,2,7,1,Missed,1,,,0,v,MISS Green 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+39,53,PT08M39.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+40,54,PT08M39.00S,1,0,,2623,,,0,0,0,,0,,,0,,Scott Brooks Foul:T.FOUL (A.Smith),Foul,Technical,1,0
+41,55,PT08M39.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,10,4,14,h,Richardson Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0
+42,56,PT08M25.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,231,6,0,Made,1,13,4,17,h,J. Johnson 3PT Jump Shot (3 PTS) (Winslow 1 AST),Made Shot,Jump Shot,1,0
+43,58,PT08M24.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+44,59,PT08M04.00S,1,1610612764,WAS,203078,Beal,B. Beal,24,216,22,Missed,1,,,0,v,MISS Beal 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+45,60,PT08M00.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+46,61,PT08M00.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,-6,1,Missed,1,,,0,v,MISS Mahinmi 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+47,74,PT08M00.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+48,62,PT07M46.00S,1,1610612748,MIA,1626159,Winslow,J. Winslow,-36,158,16,Made,1,15,4,19,h,Winslow 16' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,0
+49,63,PT07M34.00S,1,1610612764,WAS,203078,Beal,B. Beal,8,12,1,Made,1,15,6,21,v,Beal 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,0
+50,64,PT07M17.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,-2,6,1,Made,1,17,6,23,h,J. Johnson 1' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,0
+51,65,PT07M15.00S,1,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,Winslow S.FOUL (P1.T3) (K.Fitzgerald),Foul,Shooting,1,0
+52,67,PT07M15.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,17,7,24,v,Ariza Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+53,68,PT07M15.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,17,8,25,v,Ariza Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+54,69,PT06M57.00S,1,1610612748,MIA,203585,McGruder,R. McGruder,-14,6,2,Missed,1,,,0,h,MISS McGruder 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,0
+55,70,PT06M54.00S,1,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+56,71,PT06M51.00S,1,1610612764,WAS,203078,Beal,B. Beal,-161,204,26,Missed,1,,,0,v,MISS Beal 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+57,72,PT06M48.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+58,73,PT06M45.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,-17,2,2,Made,1,17,10,27,v,Mahinmi 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,0
+59,75,PT06M40.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,30,253,25,Made,1,20,10,30,h,J. Johnson 25' 3PT Jump Shot (8 PTS) (Winslow 2 AST),Made Shot,Jump Shot,1,0
+60,76,PT06M24.00S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,14,84,9,Missed,1,,,0,v,MISS Satoransky 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+61,77,PT06M24.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+62,79,PT06M17.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+63,80,PT06M10.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,4,5,1,Missed,1,,,0,v,MISS Ariza 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+64,81,PT06M08.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+65,83,PT06M01.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,J. Johnson Offensive Charge Foul (P1) (K.Fitzgerald),Foul,Offensive Charge,1,0
+66,85,PT06M01.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,J. Johnson Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0
+67,86,PT05M47.00S,1,1610612764,WAS,203078,Beal,B. Beal,82,125,15,Made,1,20,12,32,v,Beal 15' Pullup Jump Shot (6 PTS) (Ariza 1 AST),Made Shot,Pullup Jump shot,1,0
+68,87,PT05M34.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,-4,22,2,Missed,1,,,0,h,MISS J. Johnson 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,0
+69,87,PT05M34.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi BLOCK (1 BLK),,,1,0
+70,89,PT05M34.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+71,91,PT05M34.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,SUB: Wade FOR Richardson,Substitution,,0,0
+72,93,PT05M25.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,176,185,26,Missed,1,,,0,h,MISS J. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+73,94,PT05M24.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+74,96,PT05M11.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,3,58,6,Made,1,22,12,34,h,Whiteside 6' Driving Hook Shot (8 PTS) (Winslow 3 AST),Made Shot,Driving Hook Shot,1,0
+75,98,PT05M03.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,4,5,1,Made,1,22,14,36,v,Ariza 1' Driving Dunk (4 PTS) (Green 1 AST),Made Shot,Driving Dunk Shot,1,0
+76,100,PT04M45.00S,1,1610612748,MIA,2548,Wade,D. Wade,109,153,19,Missed,1,,,0,h,MISS Wade 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+77,101,PT04M42.00S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+78,102,PT04M25.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,-8,7,1,Missed,1,,,0,v,MISS Ariza 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+79,102,PT04M25.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside BLOCK (1 BLK),,,1,0
+80,103,PT04M25.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+81,105,PT04M25.00S,1,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Green,Substitution,,0,0
+82,108,PT04M25.00S,1,0,,0,,,0,0,0,,0,22,14,36,,Instant Replay1st Period (8:31 PM EST),Instant Replay,Overturn Ruling,0,0
+83,109,PT04M23.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,26,27,4,Missed,1,,,0,v,MISS Mahinmi 4' Layup,Missed Shot,Layup Shot,1,0
+84,112,PT04M22.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+85,111,PT04M22.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0
+86,113,PT04M15.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi P.FOUL (P1.T4) (D.Taylor),Foul,Personal,1,0
+87,115,PT04M05.00S,1,1610612748,MIA,203585,McGruder,R. McGruder,-226,21,0,Missed,1,,,0,h,MISS McGruder 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+88,116,PT04M03.00S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+89,117,PT04M03.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,J. Johnson Personal Take Foul (P2.T4) (K.Fitzgerald),Foul,Personal Take,1,0
+90,119,PT04M03.00S,1,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,SUB: T. Johnson FOR J. Johnson,Substitution,,0,0
+91,120,PT04M03.00S,1,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,h,SUB: Jones Jr. FOR McGruder,Substitution,,0,0
+92,121,PT04M03.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,,,0,v,SUB: Dekker FOR Ariza,Substitution,,0,0
+93,125,PT03M46.00S,1,1610612764,WAS,203078,Beal,B. Beal,11,15,2,Made,1,22,16,38,v,Beal 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,0
+94,126,PT03M26.00S,1,1610612748,MIA,204020,Johnson,T. Johnson,-2,96,10,Made,1,24,16,40,h,T. Johnson 10' Floating Jump Shot (2 PTS) (Wade 1 AST),Made Shot,Floating Jump shot,1,0
+95,127,PT03M15.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,165,193,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+96,128,PT03M15.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:1 Def:4),Rebound,Unknown,1,0
+97,130,PT03M09.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+98,132,PT03M09.00S,1,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,SUB: Randle FOR Satoransky,Substitution,,0,0
+99,134,PT02M52.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+100,135,PT02M38.00S,1,1610612764,WAS,1626184,Randle,C. Randle,228,7,0,Missed,1,,,0,v,MISS Randle 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+101,136,PT02M35.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:1 Def:5),Rebound,Unknown,1,0
+102,137,PT02M25.00S,1,1610612748,MIA,204020,Johnson,T. Johnson,-2,105,11,Missed,1,,,0,h,MISS T. Johnson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+103,138,PT02M22.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+104,139,PT02M20.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,-37,105,11,Made,1,26,16,42,h,Whiteside 11' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,0
+105,140,PT02M11.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-160,204,26,Missed,1,,,0,v,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+106,141,PT02M07.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi REBOUND (Off:3 Def:0),Rebound,Unknown,1,0
+107,142,PT02M07.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-19,63,7,Made,1,26,18,44,v,Porter Jr. 7' Floating Jump Shot (2 PTS) (Mahinmi 1 AST),Made Shot,Floating Jump shot,1,0
+108,144,PT02M07.00S,1,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,Winslow S.FOUL (P2.PN) (A.Smith),Foul,Shooting,1,0
+109,146,PT02M07.00S,1,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,SUB: Adebayo FOR Winslow,Substitution,,0,0
+110,147,PT02M07.00S,1,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,SUB: Olynyk FOR Whiteside,Substitution,,0,0
+111,150,PT02M07.00S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,MISS Porter Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+112,151,PT02M04.00S,1,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+113,152,PT01M45.00S,1,1610612748,MIA,2548,Wade,D. Wade,33,96,10,Made,1,28,18,46,h,Wade 10' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+114,153,PT01M29.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,10,12,2,Made,1,28,20,48,v,Mahinmi 2' Layup (4 PTS) (Randle 1 AST),Made Shot,Layup Shot,1,0
+115,155,PT01M29.00S,1,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,1,0
+116,157,PT01M29.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,MISS Mahinmi Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+117,158,PT01M25.00S,1,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+118,159,PT01M19.00S,1,1610612748,MIA,2548,Wade,D. Wade,-15,25,3,Missed,1,,,0,h,MISS Wade 3' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+119,159,PT01M19.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi BLOCK (2 BLK),,,1,0
+120,161,PT01M19.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+121,163,PT01M10.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+122,163,PT01M10.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi STEAL (1 STL),,,1,0
+123,165,PT01M04.00S,1,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. P.FOUL (P1.PN) (K.Fitzgerald),Foul,Personal,1,0
+124,167,PT01M04.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,28,21,49,v,Beal Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+125,168,PT01M04.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,28,22,50,v,Beal Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+126,169,PT00M54.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,94,90,13,Made,1,30,22,52,h,Adebayo 13' Pullup Jump Shot (2 PTS) (T. Johnson 1 AST),Made Shot,Pullup Jump shot,1,0
+127,171,PT00M40.30S,1,1610612764,WAS,1626184,Randle,C. Randle,-73,0,7,Made,1,30,24,54,v,Randle 7' Driving Floating Jump Shot (2 PTS) (Beal 2 AST),Made Shot,Driving Floating Jump Shot,1,0
+128,173,PT00M35.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi P.FOUL (P2.PN) (K.Fitzgerald),Foul,Personal,1,0
+129,175,PT00M35.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+130,176,PT00M35.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+131,177,PT00M35.00S,1,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,SUB: Green FOR Mahinmi,Substitution,,0,0
+132,179,PT00M35.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,31,24,55,h,Wade Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+133,180,PT00M29.90S,1,1610612764,WAS,203078,Beal,B. Beal,51,60,8,Missed,1,,,0,v,MISS Beal 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+134,181,PT00M28.20S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+135,182,PT00M09.10S,1,1610612748,MIA,2548,Wade,D. Wade,-204,137,25,Missed,1,,,0,h,MISS Wade 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+136,183,PT00M06.50S,1,1610612764,WAS,1626155,Dekker,S. Dekker,0,0,0,,0,,,0,v,Dekker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+137,184,PT00M02.50S,1,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,234,-15,0,Missed,1,,,0,v,MISS Porter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+138,185,PT00M01.70S,1,1610612764,WAS,1626155,Dekker,S. Dekker,0,0,0,,0,,,0,v,Dekker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0
+139,186,PT00M00.70S,1,1610612764,WAS,1626155,Dekker,S. Dekker,0,-6,1,Missed,1,,,0,v,MISS Dekker 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+140,187,PT00M00.10S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+141,188,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,24,55,,End of 1st Period (8:45 PM EST),period,end,1,0
+142,192,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,24,55,,Start of 2nd Period (8:48 PM EST),period,start,0,0
+143,193,PT11M46.00S,2,1610612764,WAS,201145,Green,J. Green,-2,118,12,Missed,1,,,0,v,MISS Green 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+144,194,PT11M42.00S,2,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+145,195,PT11M37.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,149,232,28,Missed,1,,,0,h,MISS T. Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+146,196,PT11M35.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+147,197,PT11M28.00S,2,1610612764,WAS,1626184,Randle,C. Randle,96,235,25,Made,1,31,27,58,v,Randle 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,0
+148,198,PT11M13.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,T. Johnson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0
+149,198,PT11M13.00S,2,1610612764,WAS,1626155,Dekker,S. Dekker,0,0,0,,0,,,0,v,Dekker STEAL (1 STL),,,1,0
+150,200,PT10M55.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,8,11,1,Made,1,31,29,60,v,Porter Jr. 1' Driving Dunk (4 PTS) (Ariza 2 AST),Made Shot,Driving Dunk Shot,1,0
+151,202,PT10M33.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,231,43,0,Made,1,34,29,63,h,Olynyk 3PT Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Jump Shot,1,0
+152,204,PT10M09.00S,2,1610612764,WAS,1626184,Randle,C. Randle,222,-16,0,Missed,1,,,0,v,MISS Randle 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+153,205,PT10M07.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+154,206,PT10M00.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,18,256,26,Missed,1,,,0,h,MISS Olynyk 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+155,207,PT09M58.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+156,208,PT09M52.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,Green Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0
+157,208,PT09M52.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade STEAL (1 STL),,,1,0
+158,210,PT09M39.00S,2,1610612764,WAS,1626155,Dekker,S. Dekker,0,0,0,,0,,,0,v,Dekker P.FOUL (P1.T1) (A.Smith),Foul,Personal,1,0
+159,212,PT09M33.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,18,32,4,Missed,1,,,0,h,MISS Olynyk 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,0
+160,213,PT09M30.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+161,214,PT09M26.00S,2,1610612764,WAS,1626155,Dekker,S. Dekker,-14,17,2,Missed,1,,,0,v,MISS Dekker 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+162,214,PT09M26.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo BLOCK (1 BLK),,,1,0
+163,216,PT09M21.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+164,217,PT09M20.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-6,17,2,Made,1,34,31,65,v,Porter Jr. 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,0
+165,218,PT09M06.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,-11,13,2,Missed,1,,,0,h,MISS T. Johnson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+166,219,PT09M05.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,T. Johnson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0
+167,245,PT09M05.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,-17,4,2,Missed,1,,,0,h,MISS T. Johnson 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+168,246,PT09M04.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,T. Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0
+169,220,PT09M01.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,0,-6,1,Missed,1,,,0,h,MISS T. Johnson 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+170,221,PT09M00.00S,2,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+171,222,PT08M54.00S,2,1610612748,MIA,2548,Wade,D. Wade,9,247,25,Missed,1,,,0,h,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+172,223,PT08M54.00S,2,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+173,224,PT08M44.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,17,2,Made,1,36,31,67,h,Wade 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,0
+174,225,PT08M31.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,-230,4,0,Made,1,36,34,70,v,Ariza 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,0
+175,226,PT08M10.00S,2,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,-3,9,1,Made,1,38,34,72,h,Jones Jr. 1' Cutting Layup Shot (2 PTS) (T. Johnson 2 AST),Made Shot,Cutting Layup Shot,1,0
+176,228,PT07M59.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,59,88,11,Made,1,38,36,74,v,Porter Jr. 11' Turnaround Fadeaway (8 PTS) (Randle 2 AST),Made Shot,Turnaround Fadeaway shot,1,0
+177,230,PT07M59.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+178,231,PT07M59.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,SUB: Richardson FOR Wade,Substitution,,0,0
+179,232,PT07M59.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,SUB: Beal FOR Porter Jr.,Substitution,,0,0
+180,235,PT07M42.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,-19,16,2,Made,1,40,36,76,h,T. Johnson 2' Driving Layup (4 PTS) (Adebayo 2 AST),Made Shot,Driving Layup Shot,1,0
+181,237,PT07M34.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo S.FOUL (P1.T1) (A.Smith),Foul,Shooting,1,0
+182,239,PT07M34.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,40,37,77,v,Green Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+183,240,PT07M34.00S,2,1610612764,WAS,1626184,Randle,C. Randle,0,0,0,,0,,,0,v,SUB: Satoransky FOR Randle,Substitution,,0,0
+184,242,PT07M34.00S,2,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,40,38,78,v,Green Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+185,243,PT07M25.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,-203,143,25,Missed,1,,,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+186,244,PT07M22.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+187,247,PT07M13.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,121,219,25,Made,1,40,41,81,v,Ariza 25' 3PT Step Back Jump Shot (10 PTS) (Satoransky 1 AST),Made Shot,Step Back Jump shot,1,0
+188,249,PT06M52.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,Olynyk Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0
+189,249,PT06M52.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,,,0,v,Ariza STEAL (1 STL),,,1,0
+190,251,PT06M45.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0
+191,251,PT06M45.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,T. Johnson STEAL (1 STL),,,1,0
+192,253,PT06M39.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,17,11,2,Missed,1,,,0,h,MISS Adebayo 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,0
+193,254,PT06M36.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0
+194,255,PT06M33.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-14,8,2,Made,1,42,41,83,h,Adebayo 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,0
+195,256,PT06M23.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,-203,158,26,Missed,1,,,0,v,MISS Ariza 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+196,257,PT06M21.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,T. Johnson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+197,258,PT06M19.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,,,0,v,Ariza S.FOUL (P1.T2) (A.Smith),Foul,Shooting,1,0
+198,260,PT06M19.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,43,41,84,h,Richardson Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0
+199,261,PT06M19.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,h,SUB: Whiteside FOR Olynyk,Substitution,,0,0
+200,262,PT06M19.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,SUB: Winslow FOR Adebayo,Substitution,,0,0
+201,263,PT06M19.00S,2,1610612764,WAS,1626155,Dekker,S. Dekker,0,0,0,,0,,,0,v,SUB: Bryant FOR Dekker,Substitution,,0,0
+202,267,PT06M19.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,44,41,85,h,Richardson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+203,268,PT06M12.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,9,22,2,Missed,1,,,0,v,MISS Satoransky 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+204,269,PT06M12.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+205,270,PT06M12.00S,2,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. P.FOUL (P2.T2) (A.Smith),Foul,Personal,1,0
+206,272,PT06M04.00S,2,1610612764,WAS,1628418,Bryant,T. Bryant,102,80,13,Made,1,44,43,87,v,Bryant 13' Jump Shot (2 PTS) (Beal 3 AST),Made Shot,Jump Shot,1,0
+207,274,PT05M51.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,-3,11,1,Made,1,46,43,89,h,T. Johnson 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,0
+208,275,PT05M35.00S,2,1610612764,WAS,203078,Beal,B. Beal,-232,4,0,Made,1,46,46,92,v,Beal 3PT Jump Shot (13 PTS) (Ariza 3 AST),Made Shot,Jump Shot,1,0
+209,277,PT05M14.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal S.FOUL (P1.T3) (A.Smith),Foul,Shooting,1,0
+210,279,PT05M14.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,47,46,93,h,Whiteside Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0
+211,280,PT05M14.00S,2,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,SUB: J. Johnson FOR Jones Jr.,Substitution,,0,0
+212,282,PT05M14.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,MISS Whiteside Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+213,283,PT05M12.00S,2,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+214,284,PT05M01.00S,2,1610612764,WAS,201145,Green,J. Green,120,10,12,Made,1,47,48,95,v,Green 12' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,0
+215,285,PT04M47.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,161,209,26,Missed,1,,,0,h,MISS T. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+216,286,PT04M43.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,,,0,v,Ariza REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+217,287,PT04M27.00S,2,1610612764,WAS,1628418,Bryant,T. Bryant,6,43,4,Made,1,47,50,97,v,Bryant 4' Floating Jump Shot (4 PTS) (Green 2 AST),Made Shot,Floating Jump shot,1,0
+218,289,PT04M10.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,-3,10,1,Made,1,49,50,99,h,Whiteside 1' Driving Dunk (13 PTS),Made Shot,Driving Dunk Shot,1,0
+219,290,PT04M08.00S,2,0,,1610612748,,,0,0,0,,0,,,0,,Delay Of Game,Violation,Delay Of Game,0,0
+220,291,PT03M51.00S,2,1610612764,WAS,203078,Beal,B. Beal,2,42,4,Made,1,49,52,101,v,Beal 4' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,0
+221,292,PT03M40.00S,2,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,1,0
+222,294,PT03M40.00S,2,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,MISS Winslow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+223,295,PT03M40.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+224,296,PT03M40.00S,2,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,SUB: McGruder FOR T. Johnson,Substitution,,0,0
+225,298,PT03M40.00S,2,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,50,52,102,h,Winslow Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+226,299,PT03M34.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,234,1,0,Missed,1,,,0,v,MISS Ariza 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+227,300,PT03M34.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+228,302,PT03M21.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,-9,15,2,Made,1,52,52,104,h,Richardson 2' Driving Finger Roll Layup (5 PTS) (Winslow 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,0
+229,304,PT03M09.00S,2,1610612764,WAS,203078,Beal,B. Beal,11,7,1,Missed,1,,,0,v,MISS Beal 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+230,305,PT03M06.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+231,306,PT03M01.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,235,4,24,Missed,1,,,0,h,MISS Richardson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+232,307,PT02M59.00S,2,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+233,308,PT02M49.00S,2,1610612764,WAS,1628418,Bryant,T. Bryant,-16,8,2,Made,1,52,54,106,v,Bryant 2' Driving Reverse Layup (6 PTS) (Beal 4 AST),Made Shot,Driving Reverse Layup Shot,1,0
+234,310,PT02M42.00S,2,1610612748,MIA,203585,McGruder,R. McGruder,14,4,1,Made,1,54,54,108,h,McGruder 1' Driving Layup (2 PTS) (Winslow 5 AST),Made Shot,Driving Layup Shot,1,0
+235,312,PT02M42.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+236,313,PT02M26.00S,2,1610612764,WAS,203078,Beal,B. Beal,-123,228,26,Missed,1,,,0,v,MISS Beal 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+237,314,PT02M24.00S,2,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+238,315,PT02M14.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,-3,69,7,Missed,1,,,0,h,MISS Whiteside 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,0
+239,316,PT02M12.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+240,317,PT02M05.00S,2,1610612764,WAS,203078,Beal,B. Beal,26,248,25,Missed,1,,,0,v,MISS Beal 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+241,318,PT02M03.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+242,319,PT01M51.00S,2,1610612748,MIA,1626159,Winslow,J. Winslow,16,19,2,Made,1,56,54,110,h,Winslow 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,0
+243,320,PT01M36.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,-234,7,0,Made,1,56,57,113,v,Ariza 3PT Jump Shot (13 PTS) (Satoransky 2 AST),Made Shot,Jump Shot,1,0
+244,322,PT01M15.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,-14,16,2,Made,1,58,57,115,h,Richardson 2' Driving Layup (7 PTS) (Winslow 6 AST),Made Shot,Driving Layup Shot,1,0
+245,324,PT00M54.00S,2,1610612764,WAS,203078,Beal,B. Beal,14,7,2,Missed,1,,,0,v,MISS Beal 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+246,324,PT00M54.00S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside BLOCK (2 BLK),,,1,0
+247,326,PT00M54.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+248,327,PT00M54.00S,2,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant L.B.FOUL (P3.PN) (K.Fitzgerald),Foul,Loose Ball,1,0
+249,330,PT00M54.00S,2,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,59,57,116,h,Winslow Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+250,331,PT00M54.00S,2,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,SUB: Jones Jr. FOR J. Johnson,Substitution,,0,0
+251,332,PT00M54.00S,2,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Bryant,Substitution,,0,0
+252,335,PT00M54.00S,2,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,MISS Winslow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+253,336,PT00M53.50S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0
+254,337,PT00M53.50S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson P.FOUL (P1.T3) (A.Smith),Foul,Personal,1,0
+255,339,PT00M33.30S,2,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,1,0
+256,341,PT00M33.30S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,MISS Beal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+257,342,PT00M33.30S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+258,343,PT00M33.30S,2,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,SUB: T. Johnson FOR Jones Jr.,Substitution,,0,0
+259,345,PT00M33.30S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,59,58,117,v,Beal Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0
+260,346,PT00M18.70S,2,1610612748,MIA,202355,Whiteside,H. Whiteside,40,13,4,Made,1,61,58,119,h,Whiteside 4' Hook Shot (15 PTS) (Winslow 7 AST),Made Shot,Hook Shot,1,0
+261,349,PT00M03.00S,2,1610612764,WAS,201145,Green,J. Green,3,69,7,Missed,1,,,0,v,MISS Green 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+262,350,PT00M02.00S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+263,351,PT00M01.50S,2,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,-6,1,Missed,1,,,0,v,MISS Porter Jr. 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+264,352,PT00M00.10S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+265,353,PT00M00.00S,2,0,,0,,,0,0,0,,0,61,58,119,,End of 2nd Period (9:14 PM EST),period,end,1,0
+266,358,PT12M00.00S,3,0,,0,,,0,0,0,,0,61,58,119,,Start of 3rd Period (9:29 PM EST),period,start,0,0
+267,359,PT11M45.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,226,114,25,Missed,1,,,0,v,MISS Ariza 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+268,360,PT11M42.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:2 Def:8),Rebound,Unknown,1,0
+269,361,PT11M22.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,14,99,10,Missed,1,,,0,h,MISS Whiteside 10' Hook Shot,Missed Shot,Hook Shot,1,0
+270,362,PT11M20.00S,3,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+271,363,PT11M06.00S,3,1610612764,WAS,203107,Satoransky,T. Satoransky,94,156,18,Made,1,61,60,121,v,Satoransky 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,0
+272,364,PT10M49.00S,3,1610612748,MIA,201949,Johnson,J. Johnson,-229,0,0,Missed,1,,,0,h,MISS J. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+273,365,PT10M47.00S,3,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+274,366,PT10M39.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,-168,188,25,Made,1,61,63,124,v,Ariza 25' 3PT Jump Shot (16 PTS) (Green 3 AST),Made Shot,Jump Shot,1,0
+275,368,PT10M26.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,131,220,26,Made,1,64,63,127,h,McGruder 26' 3PT Jump Shot (5 PTS) (Winslow 8 AST),Made Shot,Jump Shot,1,0
+276,370,PT10M03.00S,3,1610612764,WAS,203078,Beal,B. Beal,125,210,24,Made,1,64,66,130,v,Beal 24' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,0
+277,371,PT09M52.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,-1,6,1,Made,1,66,66,132,h,Whiteside 1' Layup (17 PTS) (Winslow 9 AST),Made Shot,Layup Shot,1,0
+278,373,PT09M34.00S,3,1610612764,WAS,1628418,Bryant,T. Bryant,82,176,19,Made,1,66,68,134,v,Bryant 19' Pullup Jump Shot (8 PTS) (Ariza 4 AST),Made Shot,Pullup Jump shot,1,0
+279,375,PT09M20.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,33,70,8,Missed,1,,,0,h,MISS Whiteside 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+280,376,PT09M18.00S,3,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+281,377,PT09M12.00S,3,1610612764,WAS,203078,Beal,B. Beal,110,229,25,Missed,1,,,0,v,MISS Beal 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+282,378,PT09M10.00S,3,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,J. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+283,379,PT09M00.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,-16,12,2,Made,1,68,68,136,h,Richardson 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,0
+284,380,PT08M38.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0
+285,380,PT08M38.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside STEAL (1 STL),,,1,0
+286,382,PT08M28.00S,3,1610612748,MIA,201949,Johnson,J. Johnson,3,2,0,Made,1,70,68,138,h,J. Johnson Driving Dunk (10 PTS) (Richardson 2 AST),Made Shot,Driving Dunk Shot,1,0
+287,385,PT08M06.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,h,McGruder S.FOUL (P2.T1) (A.Smith),Foul,Shooting,1,0
+288,387,PT08M06.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,MISS Beal Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0
+289,388,PT08M06.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0
+290,389,PT08M06.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,70,69,139,v,Beal Free Throw 2 of 3 (20 PTS),Free Throw,Free Throw 2 of 3,0,0
+291,390,PT08M06.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,70,70,140,v,Beal Free Throw 3 of 3 (21 PTS),Free Throw,Free Throw 3 of 3,0,0
+292,391,PT07M54.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,-11,4,1,Missed,1,,,0,h,MISS McGruder 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+293,392,PT07M53.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:3 Def:8),Rebound,Unknown,1,0
+294,393,PT07M52.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,-6,1,Made,1,72,70,142,h,Whiteside 1' Tip Dunk Shot (19 PTS),Made Shot,Tip Dunk Shot,1,0
+295,394,PT07M31.00S,3,1610612764,WAS,1628418,Bryant,T. Bryant,-6,10,1,Made,1,72,72,144,v,Bryant 1' Alley Oop Dunk (10 PTS) (Beal 5 AST),Made Shot,Alley Oop Dunk Shot,1,0
+296,396,PT07M14.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,-9,188,19,Missed,1,,,0,h,MISS Whiteside 19' Jump Shot,Missed Shot,Jump Shot,1,0
+297,397,PT07M12.00S,3,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+298,398,PT07M07.00S,3,1610612764,WAS,203078,Beal,B. Beal,3,89,9,Missed,1,,,0,v,MISS Beal 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+299,399,PT07M06.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:3),Rebound,Unknown,1,0
+300,412,PT07M05.00S,3,1610612764,WAS,203078,Beal,B. Beal,-9,39,4,Missed,1,,,0,v,MISS Beal 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+301,413,PT07M04.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:3 Def:9),Rebound,Unknown,1,0
+302,400,PT06M56.00S,3,1610612748,MIA,201949,Johnson,J. Johnson,-1,7,1,Missed,1,,,0,h,MISS J. Johnson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+303,401,PT06M53.00S,3,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,Bryant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+304,402,PT06M34.00S,3,1610612764,WAS,1628418,Bryant,T. Bryant,-11,162,16,Missed,1,,,0,v,MISS Bryant 16' Jump Shot,Missed Shot,Jump Shot,1,0
+305,403,PT06M32.00S,3,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,J. Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+306,404,PT06M24.00S,3,1610612748,MIA,201949,Johnson,J. Johnson,-23,256,26,Made,1,75,72,147,h,J. Johnson 26' 3PT Pullup Jump Shot (13 PTS) (McGruder 1 AST),Made Shot,Pullup Jump shot,1,0
+307,406,PT05M55.00S,3,1610612764,WAS,201145,Green,J. Green,-124,-6,12,Made,1,75,74,149,v,Green 12' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+308,408,PT05M45.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,-231,21,0,Made,1,78,74,152,h,Richardson 3PT Jump Shot (12 PTS) (Winslow 10 AST),Made Shot,Jump Shot,1,0
+309,410,PT05M45.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0
+310,411,PT05M45.00S,3,0,,408,,,0,0,0,,0,78,74,152,,Instant Replay3rd Period (9:37 PM EST),Instant Replay,Support Ruling,0,0
+311,414,PT05M45.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,SUB: Wade FOR Richardson,Substitution,,0,0
+312,416,PT05M35.00S,3,1610612764,WAS,201145,Green,J. Green,7,11,1,Made,1,78,76,154,v,Green 1' Alley Oop Dunk (10 PTS) (Satoransky 3 AST),Made Shot,Alley Oop Dunk Shot,1,0
+313,418,PT05M17.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,-232,12,0,Missed,1,,,0,h,MISS McGruder 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+314,419,PT05M13.00S,3,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+315,420,PT05M08.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,h,McGruder S.FOUL (P3.T2) (A.Smith),Foul,Shooting,1,0
+316,422,PT05M08.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,78,77,155,v,Beal Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0
+317,423,PT05M08.00S,3,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Green,Substitution,,0,0
+318,425,PT05M08.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,78,78,156,v,Beal Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0
+319,426,PT04M45.00S,3,1610612748,MIA,1626159,Winslow,J. Winslow,105,-11,11,Missed,1,,,0,h,MISS Winslow 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+320,427,PT04M44.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:4 Def:9),Rebound,Unknown,1,0
+321,428,PT04M38.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,-2,4,0,Made,1,80,78,158,h,Whiteside Putback Dunk (21 PTS),Made Shot,Putback Dunk Shot,1,0
+322,429,PT04M32.00S,3,1610612764,WAS,203078,Beal,B. Beal,-6,10,1,Made,1,80,80,160,v,Beal 1' Running Layup (25 PTS),Made Shot,Running Layup Shot,1,0
+323,430,PT04M24.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+324,431,PT04M24.00S,3,1610612748,MIA,203585,McGruder,R. McGruder,0,0,0,,0,,,0,h,SUB: Richardson FOR McGruder,Substitution,,0,0
+325,433,PT04M12.00S,3,1610612764,WAS,203078,Beal,B. Beal,-2,121,12,Missed,1,,,0,v,MISS Beal 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+326,434,PT04M12.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+327,435,PT04M07.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,144,221,26,Missed,1,,,0,v,MISS Ariza 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+328,436,PT04M04.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:4 Def:10),Rebound,Unknown,1,0
+329,437,PT03M54.00S,3,1610612748,MIA,1626159,Winslow,J. Winslow,8,6,1,Made,1,82,80,162,h,Winslow 1' Layup (11 PTS) (Richardson 3 AST),Made Shot,Layup Shot,1,0
+330,439,PT03M37.00S,3,1610612764,WAS,203107,Satoransky,T. Satoransky,-29,110,11,Missed,1,,,0,v,MISS Satoransky 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+331,440,PT03M35.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:4 Def:11),Rebound,Unknown,1,0
+332,441,PT03M22.00S,3,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky S.FOUL (P2.T1) (A.Smith),Foul,Shooting,1,0
+333,443,PT03M22.00S,3,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,83,80,163,h,J. Johnson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0
+334,444,PT03M22.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,,,0,v,SUB: Randle FOR Ariza,Substitution,,0,0
+335,445,PT03M22.00S,3,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,SUB: Dekker FOR Satoransky,Substitution,,0,0
+336,448,PT03M22.00S,3,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,84,80,164,h,J. Johnson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0
+337,449,PT02M59.00S,3,1610612764,WAS,1626155,Dekker,S. Dekker,3,9,1,Made,1,84,82,166,v,Dekker 1' Dunk (2 PTS) (Randle 3 AST),Made Shot,Dunk Shot,1,0
+338,451,PT02M42.00S,3,1610612748,MIA,2548,Wade,D. Wade,-228,55,0,Missed,1,,,0,h,MISS Wade 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+339,452,PT02M40.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:2 Def:4),Rebound,Unknown,1,0
+340,453,PT02M33.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,24,248,25,Missed,1,,,0,v,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+341,454,PT02M31.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+342,455,PT02M20.00S,3,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,J. Johnson Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0
+343,455,PT02M20.00S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. STEAL (1 STL),,,1,0
+344,458,PT02M17.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Out of Bounds Lost Ball Turnover (P3.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0
+345,459,PT02M17.00S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+346,461,PT02M17.00S,3,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,SUB: T. Johnson FOR Winslow,Substitution,,0,0
+347,462,PT02M17.00S,3,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,SUB: Adebayo FOR Whiteside,Substitution,,0,0
+348,463,PT02M17.00S,3,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,SUB: Mahinmi FOR Bryant,Substitution,,0,0
+349,467,PT02M06.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-8,8,1,Made,1,86,82,168,h,Adebayo 1' Alley Oop Dunk (6 PTS) (Wade 2 AST),Made Shot,Alley Oop Dunk Shot,1,0
+350,470,PT01M38.00S,3,1610612764,WAS,1626184,Randle,C. Randle,7,11,1,Missed,1,,,0,v,MISS Randle 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+351,470,PT01M38.00S,3,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,T. Johnson BLOCK (1 BLK),,,1,0
+352,471,PT01M38.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0
+353,473,PT01M38.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,0
+354,474,PT01M38.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,SUB: Ariza FOR Beal,Substitution,,0,0
+355,476,PT01M20.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,-230,86,25,Made,1,89,82,171,h,Richardson 25' 3PT Jump Shot (15 PTS) (Adebayo 3 AST),Made Shot,Jump Shot,1,0
+356,478,PT01M05.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,229,9,0,Missed,1,,,0,v,MISS Ariza 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+357,479,PT01M03.00S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+358,481,PT00M53.50S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,29,33,4,Made,1,91,82,173,h,Adebayo 4' Cutting Layup Shot (8 PTS) (Wade 3 AST),Made Shot,Cutting Layup Shot,1,0
+359,483,PT00M43.10S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo S.FOUL (P2.T3) (A.Smith),Foul,Shooting,1,0
+360,485,PT00M43.10S,3,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,91,83,174,v,Ariza Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0
+361,486,PT00M43.10S,3,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,91,84,175,v,Ariza Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0
+362,487,PT00M35.80S,3,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi S.FOUL (P3.T2) (A.Smith),Foul,Shooting,1,0
+363,489,PT00M35.80S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,92,84,176,h,Adebayo Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0
+364,490,PT00M35.80S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,93,84,177,h,Adebayo Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+365,492,PT00M19.40S,3,1610612764,WAS,2772,Ariza,T. Ariza,12,5,1,Missed,1,,,0,v,MISS Ariza 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+366,493,PT00M16.50S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,1,0
+367,494,PT00M14.60S,3,1610612748,MIA,201949,Johnson,J. Johnson,-1,22,2,Made,1,95,84,179,h,J. Johnson 2' Running Dunk (17 PTS) (Wade 4 AST),Made Shot,Running Dunk Shot,1,0
+368,496,PT00M06.20S,3,1610612764,WAS,1626184,Randle,C. Randle,-184,171,25,Missed,1,,,0,v,MISS Randle 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+369,497,PT00M05.50S,3,1610612764,WAS,1626155,Dekker,S. Dekker,0,0,0,,0,,,0,v,Dekker REBOUND (Off:2 Def:1),Rebound,Unknown,1,0
+370,499,PT00M01.50S,3,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-84,152,17,Made,1,95,86,181,v,Porter Jr. 17' Step Back Jump Shot (10 PTS) (Ariza 5 AST),Made Shot,Step Back Jump shot,1,0
+371,501,PT00M00.00S,3,0,,0,,,0,0,0,,0,95,86,181,,End of 3rd Period (9:54 PM EST),period,end,1,0
+372,504,PT12M00.00S,4,0,,0,,,0,0,0,,0,95,86,181,,Start of 4th Period (9:57 PM EST),period,start,0,0
+373,505,PT11M49.00S,4,1610612748,MIA,204020,Johnson,T. Johnson,11,53,5,Missed,1,,,0,h,MISS T. Johnson 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,0
+374,506,PT11M48.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0
+375,542,PT11M47.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-6,13,1,Missed,1,,,0,h,MISS Adebayo 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,0
+376,543,PT11M46.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+377,508,PT11M42.00S,4,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,T. Johnson Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0
+378,508,PT11M42.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. STEAL (2 STL),,,1,0
+379,510,PT11M36.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,-10,9,1,Missed,1,,,0,v,MISS Ariza 1' Running Layup,Missed Shot,Running Layup Shot,1,0
+380,510,PT11M36.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson BLOCK (1 BLK),,,1,0
+381,512,PT11M32.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+382,513,PT11M29.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0
+383,513,PT11M29.00S,4,1610612764,WAS,1626155,Dekker,S. Dekker,0,0,0,,0,,,0,v,Dekker STEAL (2 STL),,,1,0
+384,515,PT11M16.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-26,113,12,Missed,1,,,0,v,MISS Porter Jr. 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+385,516,PT11M13.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+386,517,PT11M08.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,-175,181,25,Missed,1,,,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+387,518,PT11M06.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi REBOUND (Off:3 Def:1),Rebound,Unknown,1,0
+388,519,PT10M49.00S,4,1610612764,WAS,1626155,Dekker,S. Dekker,19,20,3,Made,1,95,88,183,v,Dekker 3' Cutting Layup Shot (4 PTS) (Porter Jr. 1 AST),Made Shot,Cutting Layup Shot,1,0
+389,521,PT10M27.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-23,55,6,Missed,1,,,0,h,MISS Adebayo 6' Hook Shot,Missed Shot,Hook Shot,1,0
+390,522,PT10M24.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0
+391,523,PT10M19.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0
+392,523,PT10M19.00S,4,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. STEAL (1 STL),,,1,0
+393,525,PT10M15.00S,4,1610612748,MIA,2548,Wade,D. Wade,4,7,1,Made,1,97,88,185,h,Wade 1' Running Layup (7 PTS) (Adebayo 4 AST),Made Shot,Running Layup Shot,1,0
+394,527,PT09M58.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,82,159,18,Made,1,97,90,187,v,Porter Jr. 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,0
+395,528,PT09M41.00S,4,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,1,0
+396,529,PT09M41.00S,4,1610612764,WAS,1626184,Randle,C. Randle,0,0,0,,0,,,0,v,SUB: Beal FOR Randle,Substitution,,0,0
+397,531,PT09M30.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0
+398,531,PT09M30.00S,4,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,T. Johnson STEAL (2 STL),,,1,0
+399,533,PT09M16.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,-39,118,12,Missed,1,,,0,h,MISS Richardson 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+400,534,PT09M16.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0
+401,535,PT09M16.00S,4,1610612764,WAS,1626155,Dekker,S. Dekker,0,0,0,,0,,,0,v,Dekker L.B.FOUL (P2.T1) (D.Taylor),Foul,Loose Ball,1,0
+402,537,PT09M15.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi P.FOUL (P4.T2) (D.Taylor),Foul,Personal,1,0
+403,539,PT09M02.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,163,184,25,Missed,1,,,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+404,540,PT09M00.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+405,541,PT09M00.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,Mahinmi T.FOUL (P4.T2) (K.Fitzgerald),Foul,Technical,1,0
+406,544,PT09M00.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,98,90,188,h,Richardson Free Throw Technical (16 PTS),Free Throw,Free Throw Technical,0,0
+407,545,PT09M00.00S,4,1610612764,WAS,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,v,SUB: Bryant FOR Mahinmi,Substitution,,0,0
+408,548,PT08M48.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,-188,37,19,Made,1,100,90,190,h,Richardson 19' Pullup Jump Shot (18 PTS) (Adebayo 5 AST),Made Shot,Pullup Jump shot,1,0
+409,550,PT08M35.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,0,17,2,Missed,1,,,0,v,MISS Ariza 2' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+410,550,PT08M35.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade BLOCK (1 BLK),,,1,0
+411,552,PT08M34.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,1,0
+412,553,PT08M30.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,3,21,2,Made,1,100,92,192,v,Porter Jr. 2' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,1,0
+413,554,PT08M23.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. P.FOUL (P1.T3) (K.Fitzgerald),Foul,Personal,1,0
+414,556,PT08M23.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,SUB: Satoransky FOR Porter Jr.,Substitution,,0,0
+415,558,PT08M13.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,-2,8,1,Missed,1,,,0,h,MISS Richardson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+416,559,PT08M13.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+417,560,PT08M13.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo L.B.FOUL (P3.T1) (D.Taylor),Foul,Loose Ball,1,0
+418,562,PT08M13.00S,4,1610612764,WAS,1626155,Dekker,S. Dekker,0,0,0,,0,,,0,v,SUB: Green FOR Dekker,Substitution,,0,0
+419,565,PT07M57.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,-227,11,0,Made,1,100,95,195,v,Ariza 3PT Jump Shot (21 PTS) (Beal 6 AST),Made Shot,Jump Shot,1,0
+420,567,PT07M40.00S,4,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,237,17,24,Made,1,103,95,198,h,Jones Jr. 24' 3PT Jump Shot (5 PTS) (Wade 5 AST),Made Shot,Jump Shot,1,0
+421,570,PT07M15.00S,4,1610612764,WAS,203078,Beal,B. Beal,-105,-4,11,Missed,1,,,0,v,MISS Beal 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,0
+422,571,PT07M12.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+423,572,PT07M02.00S,4,1610612748,MIA,2548,Wade,D. Wade,-152,5,15,Made,1,105,95,200,h,Wade 15' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,1,0
+424,573,PT07M02.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0
+425,574,PT06M47.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,-9,0,1,Missed,1,,,0,v,MISS Satoransky 1' Driving Layup,Missed Shot,Driving Layup Shot,1,0
+426,575,PT06M46.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:3 Def:4),Rebound,Unknown,1,0
+427,576,PT06M39.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson Step Out of Bounds Turnover (P2.T13),Turnover,Step Out of Bounds Turnover,1,0
+428,577,PT06M28.00S,4,1610612764,WAS,203078,Beal,B. Beal,-195,157,25,Made,1,105,98,203,v,Beal 25' 3PT Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,0
+429,578,PT06M12.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0
+430,578,PT06M12.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky STEAL (1 STL),,,1,0
+431,580,PT06M08.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,-9,9,1,Made,1,105,100,205,v,Satoransky 1' Running Layup (4 PTS) (Beal 7 AST),Made Shot,Running Layup Shot,1,0
+432,582,PT05M44.00S,4,1610612748,MIA,2548,Wade,D. Wade,51,55,8,Made,1,107,100,207,h,Wade 8' Turnaround Fadeaway (11 PTS) (T. Johnson 3 AST),Made Shot,Turnaround Fadeaway shot,1,0
+433,584,PT05M28.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Bad Pass Turnover (P5.T10),Turnover,Bad Pass,1,0
+434,584,PT05M28.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo STEAL (1 STL),,,1,0
+435,586,PT05M25.00S,4,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. Offensive Charge Foul (P4) (A.Smith),Foul,Offensive Charge,1,0
+436,588,PT05M25.00S,4,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,1,0
+437,589,PT05M25.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,SUB: Whiteside FOR Wade,Substitution,,0,0
+438,590,PT05M25.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,SUB: Winslow FOR Adebayo,Substitution,,0,0
+439,593,PT05M15.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,230,57,24,Missed,1,,,0,v,MISS Ariza 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+440,594,PT05M12.00S,4,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,1,0
+441,595,PT04M58.00S,4,1610612748,MIA,1626159,Winslow,J. Winslow,89,236,25,Missed,1,,,0,h,MISS Winslow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+442,596,PT04M56.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,,,0,v,Ariza REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+443,597,PT04M51.00S,4,1610612764,WAS,203078,Beal,B. Beal,-200,143,25,Missed,1,,,0,v,MISS Beal 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+444,598,PT04M49.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:4 Def:12),Rebound,Unknown,1,0
+445,599,PT04M39.00S,4,1610612748,MIA,204020,Johnson,T. Johnson,-22,249,25,Missed,1,,,0,h,MISS T. Johnson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+446,600,PT04M35.00S,4,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+447,601,PT04M32.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,,,0,v,Ariza Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+448,602,PT04M32.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+449,603,PT04M08.00S,4,1610612748,MIA,1626159,Winslow,J. Winslow,106,-11,11,Missed,1,,,0,h,MISS Winslow 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,0
+450,604,PT04M06.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+451,605,PT04M05.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,5,5,1,Made,1,107,102,209,v,Satoransky 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,0
+452,606,PT04M05.00S,4,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,Jones Jr. Violation:Defensive Goaltending (K.Fitzgerald),Violation,Defensive Goaltending,1,0
+453,607,PT03M48.00S,4,1610612748,MIA,1626159,Winslow,J. Winslow,-218,122,25,Missed,1,,,0,h,MISS Winslow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+454,608,PT03M45.00S,4,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:6),Rebound,Unknown,1,0
+455,609,PT03M23.00S,4,1610612764,WAS,1628418,Bryant,T. Bryant,-5,13,1,Missed,1,,,0,v,MISS Bryant 1' Layup,Missed Shot,Layup Shot,1,0
+456,610,PT03M21.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:4 Def:13),Rebound,Unknown,1,0
+457,611,PT03M15.00S,4,1610612748,MIA,204020,Johnson,T. Johnson,-56,4,6,Made,1,109,102,211,h,T. Johnson 6' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,0
+458,612,PT03M15.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0
+459,613,PT03M15.00S,4,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,h,SUB: Wade FOR Jones Jr.,Substitution,,0,0
+460,614,PT03M15.00S,4,1610612748,MIA,204020,Johnson,T. Johnson,0,0,0,,0,,,0,h,SUB: J. Johnson FOR T. Johnson,Substitution,,0,0
+461,615,PT03M15.00S,4,1610612764,WAS,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Bryant,Substitution,,0,0
+462,619,PT02M59.00S,4,1610612764,WAS,201145,Green,J. Green,19,255,26,Missed,1,,,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+463,620,PT02M57.00S,4,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,Winslow REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+464,621,PT02M44.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside Out of Bounds - Bad Pass Turnover Turnover (P2.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0
+465,622,PT02M37.00S,4,1610612764,WAS,203078,Beal,B. Beal,122,236,27,Missed,1,,,0,v,MISS Beal 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+466,623,PT02M37.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0
+467,625,PT02M34.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,12,9,2,Made,1,109,104,213,v,Satoransky 2' Layup (8 PTS) (Ariza 6 AST),Made Shot,Layup Shot,1,0
+468,627,PT02M17.00S,4,1610612748,MIA,2548,Wade,D. Wade,-3,80,8,Missed,1,,,0,h,MISS Wade 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,0
+469,628,PT02M16.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:2 Def:5),Rebound,Unknown,1,0
+470,629,PT02M12.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,140,210,25,Missed,1,,,0,v,MISS Satoransky 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+471,630,PT02M07.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,Whiteside REBOUND (Off:4 Def:14),Rebound,Unknown,1,0
+472,631,PT01M52.00S,4,1610612748,MIA,1626159,Winslow,J. Winslow,0,0,0,,0,,,0,h,Winslow Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0
+473,631,PT01M52.00S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. STEAL (3 STL),,,1,0
+474,633,PT01M48.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky Traveling Turnover (P2.T12),Turnover,Traveling,1,0
+475,634,PT01M48.00S,4,1610612748,MIA,202355,Whiteside,H. Whiteside,0,0,0,,0,,,0,h,SUB: Adebayo FOR Whiteside,Substitution,,0,0
+476,636,PT01M35.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,-68,204,22,Missed,1,,,0,h,MISS Richardson 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,0
+477,637,PT01M34.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:2 Def:6),Rebound,Unknown,1,0
+478,638,PT01M27.00S,4,1610612764,WAS,203078,Beal,B. Beal,14,10,2,Made,1,109,106,215,v,Beal 2' Driving Layup (30 PTS),Made Shot,Driving Layup Shot,1,0
+479,639,PT01M12.00S,4,1610612764,WAS,203107,Satoransky,T. Satoransky,0,0,0,,0,,,0,v,Satoransky S.FOUL (P3.T4) (A.Smith),Foul,Shooting,1,0
+480,641,PT01M12.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,110,106,216,h,Wade Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0
+481,642,PT01M12.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,MISS Wade Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+482,643,PT01M11.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:2 Def:7),Rebound,Unknown,1,0
+483,644,PT01M07.00S,4,1610612764,WAS,203078,Beal,B. Beal,-11,252,25,Made,1,110,109,219,v,Beal 25' 3PT Running Pull-Up Jump Shot (33 PTS),Made Shot,Running Pull-Up Jump Shot,1,0
+484,645,PT00M47.70S,4,1610612748,MIA,1626159,Winslow,J. Winslow,11,13,2,Made,1,112,109,221,h,Winslow 2' Driving Layup (13 PTS) (Wade 6 AST),Made Shot,Driving Layup Shot,1,0
+485,646,PT00M32.30S,4,1610612764,WAS,201145,Green,J. Green,181,178,25,Missed,1,,,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+486,647,PT00M31.40S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0
+487,648,PT00M19.40S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Personal Take Foul (P2.PN) (D.Taylor),Foul,Personal Take,1,0
+488,650,PT00M19.40S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,MISS Adebayo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0
+489,651,PT00M19.40S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0
+490,652,PT00M19.40S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,113,109,222,h,Adebayo Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0
+491,653,PT00M19.40S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0
+492,655,PT00M18.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade P.FOUL (P1.T2) (A.Smith),Foul,Personal,1,0
+493,657,PT00M12.40S,4,1610612764,WAS,203490,Porter Jr.,O. Porter Jr.,-230,35,0,Missed,1,,,0,v,MISS Porter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+494,658,PT00M10.20S,4,1610612748,MIA,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,J. Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0
+495,659,PT00M10.20S,4,1610612764,WAS,201145,Green,J. Green,0,0,0,,0,,,0,v,Green Personal Take Foul (P2.PN) (A.Smith),Foul,Personal Take,1,0
+496,661,PT00M10.20S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,114,109,223,h,Wade Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0
+497,662,PT00M10.20S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,115,109,224,h,Wade Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0
+498,663,PT00M10.20S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0
+499,664,PT00M06.50S,4,1610612764,WAS,203078,Beal,B. Beal,-234,17,0,Missed,1,,,0,v,MISS Beal 3PT Jump Shot,Missed Shot,Jump Shot,1,0
+500,665,PT00M05.50S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,1,0
+501,666,PT00M00.00S,4,0,,0,,,0,0,0,,0,115,109,224,,End of 4th Period (10:29 PM EST),period,end,1,0

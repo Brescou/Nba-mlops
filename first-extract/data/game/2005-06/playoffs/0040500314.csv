@@ -1,0 +1,455 @@
+actionId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue
+1,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:10 PM EST),period,start,0,0
+2,1,PT12M00.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Jump Ball Marion vs. Nowitzki: Tip to Harris,Jump Ball,,0,0
+3,2,PT11M39.00S,1,1610612742,DAL,2734,Harris,D. Harris,120,150,19,Made,1,0,2,2,v,Harris 19' Jump Shot (2 PTS) (Nowitzki 1 AST),Made Shot,Jump Shot,0,0
+4,3,PT11M27.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki S.FOUL (P1.T1),Foul,Shooting,0,0
+5,4,PT11M27.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,1,2,3,h,Marion Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+6,5,PT11M27.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,MISS Marion Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+7,6,PT11M26.00S,1,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,Van Horn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+8,7,PT11M14.00S,1,1610612742,DAL,2572,Howard,J. Howard,-90,151,18,Made,1,1,4,5,v,Howard 18' Jump Shot (2 PTS) (Harris 1 AST),Made Shot,Jump Shot,0,0
+9,8,PT10M58.00S,1,1610612756,PHX,1952,Bell,R. Bell,5,164,16,Made,1,3,4,7,h,Bell 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+10,9,PT10M42.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+11,9,PT10M42.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion STEAL (1 STL),,,0,0
+12,10,PT10M24.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,5,4,9,h,Marion Dunk (3 PTS) (T. Thomas 1 AST),Made Shot,Dunk Shot,0,0
+13,11,PT10M08.00S,1,1610612742,DAL,2572,Howard,J. Howard,-84,158,18,Missed,1,,,0,v,MISS Howard 18' Jump Shot,Missed Shot,Jump Shot,0,0
+14,12,PT10M06.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+15,13,PT09M48.00S,1,1610612742,DAL,2572,Howard,J. Howard,-230,15,0,Missed,1,,,0,v,MISS Howard 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+16,14,PT09M46.00S,1,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+17,15,PT09M35.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,7,4,11,h,Marion Dunk (5 PTS) (Diaw 1 AST),Made Shot,Dunk Shot,0,0
+18,16,PT09M12.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-34,82,9,Missed,1,,,0,v,MISS Nowitzki 9' Jump Shot,Missed Shot,Jump Shot,0,0
+19,17,PT09M12.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+20,18,PT08M56.00S,1,1610612756,PHX,1952,Bell,R. Bell,156,10,16,Made,1,9,4,13,h,Bell 16' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+21,19,PT08M56.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P1.T2),Foul,Shooting,0,0
+22,20,PT08M56.00S,1,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,10,4,14,h,Bell Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0
+23,21,PT08M39.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard OFF.Foul (P1),Foul,Offensive,0,0
+24,22,PT08M39.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard Foul Turnover (P1.T2),Turnover,Foul,0,0
+25,23,PT08M22.00S,1,1610612756,PHX,2564,Diaw,B. Diaw,29,74,8,Made,1,12,4,16,h,Diaw 8' Hook Shot (2 PTS),Made Shot,Hook Shot,0,0
+26,24,PT08M16.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0
+27,26,PT08M06.00S,1,1610612742,DAL,2734,Harris,D. Harris,-92,141,17,Made,1,12,6,18,v,Harris 17' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+28,27,PT07M45.00S,1,1610612756,PHX,959,Nash,S. Nash,-62,95,11,Missed,1,,,0,h,MISS Nash 11' Jump Shot,Missed Shot,Jump Shot,0,0
+29,28,PT07M42.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+30,29,PT07M38.00S,1,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas P.FOUL (P1.T1),Foul,Personal,0,0
+31,30,PT07M33.00S,1,1610612742,DAL,1891,Terry,J. Terry,151,45,16,Missed,1,,,0,v,MISS Terry 16' Jump Shot,Missed Shot,Jump Shot,0,0
+32,32,PT07M31.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+33,31,PT07M31.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,12,8,20,v,Howard Layup (4 PTS),Made Shot,Layup Shot,0,0
+34,33,PT07M12.00S,1,1610612756,PHX,959,Nash,S. Nash,-52,151,16,Missed,1,,,0,h,MISS Nash 16' Jump Shot,Missed Shot,Jump Shot,0,0
+35,34,PT07M10.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+36,35,PT07M00.00S,1,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,Bell P.FOUL (P1.T2),Foul,Personal,0,0
+37,36,PT06M48.00S,1,1610612742,DAL,1496,Van Horn,K. Van Horn,-34,74,8,Missed,1,,,0,v,MISS Van Horn 8' Jump Shot,Missed Shot,Jump Shot,0,0
+38,36,PT06M48.00S,1,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw BLOCK (1 BLK),,,0,0
+39,37,PT06M45.00S,1,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+40,38,PT06M38.00S,1,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Made,1,14,8,22,h,Diaw Reverse Layup (4 PTS) (Nash 1 AST),Made Shot,Reverse Layup Shot,0,0
+41,39,PT06M18.00S,1,1610612742,DAL,2572,Howard,J. Howard,44,51,7,Made,1,14,10,24,v,Howard 7' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,0,0
+42,41,PT06M10.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+43,40,PT06M10.00S,1,1610612756,PHX,959,Nash,S. Nash,0,0,0,Made,1,16,10,26,h,Nash Layup (2 PTS),Made Shot,Layup Shot,0,0
+44,42,PT05M52.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-120,58,13,Made,1,16,12,28,v,Nowitzki 13' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,0,0
+45,43,PT05M35.00S,1,1610612756,PHX,959,Nash,S. Nash,98,115,15,Missed,1,,,0,h,MISS Nash 15' Jump Shot,Missed Shot,Jump Shot,0,0
+46,44,PT05M34.00S,1,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,Van Horn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+47,45,PT05M20.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion P.FOUL (P1.T3),Foul,Personal,0,0
+48,46,PT05M20.00S,1,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,SUB: Barbosa FOR Bell,Substitution,,0,0
+49,47,PT05M20.00S,1,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,SUB: Jones FOR Diaw,Substitution,,0,0
+50,48,PT05M20.00S,1,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,SUB: Diop FOR Van Horn,Substitution,,0,0
+51,49,PT05M15.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+52,49,PT05M15.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion STEAL (2 STL),,,0,0
+53,50,PT04M53.00S,1,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,,,0,h,Nash Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0
+54,50,PT04M53.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop STEAL (1 STL),,,0,0
+55,51,PT04M50.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0
+56,51,PT04M50.00S,1,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,0,0
+57,52,PT04M50.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki P.FOUL (P2.T3),Foul,Personal,0,0
+58,53,PT04M50.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,SUB: Stackhouse FOR Nowitzki,Substitution,,0,0
+59,54,PT04M35.00S,1,1610612756,PHX,959,Nash,S. Nash,-186,31,19,Made,1,18,12,30,h,Nash 19' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+60,56,PT04M15.00S,1,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0
+61,55,PT04M15.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,Made,1,18,14,32,v,Diop Layup (2 PTS),Made Shot,Layup Shot,0,0
+62,57,PT04M02.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop S.FOUL (P1.T4),Foul,Shooting,0,0
+63,58,PT04M02.00S,1,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,MISS T. Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+64,59,PT04M02.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+65,60,PT04M02.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,SUB: Griffin FOR Terry,Substitution,,0,0
+66,61,PT04M02.00S,1,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,MISS T. Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+67,62,PT04M00.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+68,63,PT03M41.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,3,163,16,Missed,1,,,0,v,MISS Stackhouse 16' Jump Shot,Missed Shot,Jump Shot,0,0
+69,63,PT03M41.00S,1,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones BLOCK (1 BLK),,,0,0
+70,64,PT03M38.00S,1,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+71,65,PT03M35.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Missed,1,,,0,h,MISS Marion Layup,Missed Shot,Layup Shot,0,0
+72,66,PT03M34.00S,1,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+73,67,PT03M24.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0
+74,68,PT03M12.00S,1,1610612756,PHX,959,Nash,S. Nash,0,0,0,Missed,1,,,0,h,MISS Nash Layup,Missed Shot,Layup Shot,0,0
+75,69,PT03M11.00S,1,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+76,70,PT02M50.00S,1,1610612742,DAL,2572,Howard,J. Howard,85,156,18,Made,1,18,16,34,v,Howard 18' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+77,71,PT02M50.00S,1,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P1.T4),Foul,Shooting,0,0
+78,72,PT02M50.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0
+79,74,PT02M50.00S,1,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,SUB: House FOR T. Thomas,Substitution,,0,0
+80,75,PT02M50.00S,1,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,,,0,h,SUB: Diaw FOR Nash,Substitution,,0,0
+81,77,PT02M50.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,18,17,35,v,Howard Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0
+82,78,PT02M41.00S,1,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin P.FOUL (P1.PN),Foul,Personal,0,0
+83,79,PT02M41.00S,1,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,19,17,36,h,Diaw Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+84,80,PT02M41.00S,1,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,MISS Diaw Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+85,81,PT02M38.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+86,82,PT02M25.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,Made,1,19,19,38,v,Stackhouse Slam Dunk (2 PTS) (Harris 2 AST),Made Shot,Slam Dunk Shot,0,0
+87,83,PT02M10.00S,1,1610612756,PHX,1890,Marion,S. Marion,-43,84,9,Made,1,21,19,40,h,Marion 9' Jump Shot (7 PTS) (Barbosa 1 AST),Made Shot,Jump Shot,0,0
+88,84,PT01M53.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,36,104,11,Made,1,21,21,42,v,Stackhouse 11' Jump Shot (4 PTS) (Harris 3 AST),Made Shot,Jump Shot,0,0
+89,85,PT01M39.00S,1,1610612756,PHX,2067,House,E. House,144,94,17,Made,1,23,21,44,h,House 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+90,86,PT01M21.00S,1,1610612742,DAL,1559,Griffin,A. Griffin,71,53,9,Made,1,23,23,46,v,Griffin 9' Jump Shot (2 PTS) (Howard 1 AST),Made Shot,Jump Shot,0,0
+91,87,PT01M21.00S,1,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P2.PN),Foul,Shooting,0,0
+92,88,PT01M21.00S,1,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Bell FOR Jones,Substitution,,0,0
+93,89,PT01M21.00S,1,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,23,24,47,v,Griffin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0
+94,90,PT01M04.00S,1,1610612756,PHX,2067,House,E. House,-156,97,18,Made,1,25,24,49,h,House 18' Jump Shot (4 PTS) (Diaw 2 AST),Made Shot,Jump Shot,0,0
+95,91,PT00M43.30S,1,1610612756,PHX,2067,House,E. House,0,0,0,,0,,,0,h,House S.FOUL (P1.PN),Foul,Shooting,0,0
+96,92,PT00M43.30S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,25,25,50,v,Stackhouse Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+97,93,PT00M43.30S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,25,26,51,v,Stackhouse Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+98,94,PT00M37.00S,1,1610612756,PHX,2571,Barbosa,L. Barbosa,-154,194,25,Made,1,28,26,54,h,Barbosa 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,0
+99,95,PT00M18.90S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+100,95,PT00M18.90S,1,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa STEAL (1 STL),,,0,0
+101,96,PT00M11.90S,1,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Missed,1,,,0,h,MISS Diaw Layup,Missed Shot,Layup Shot,0,0
+102,96,PT00M11.90S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop BLOCK (1 BLK),,,0,0
+103,97,PT00M08.90S,1,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+104,98,PT00M07.90S,1,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Missed,1,,,0,h,MISS Diaw Layup,Missed Shot,Layup Shot,0,0
+105,99,PT00M06.90S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+106,100,PT00M00.10S,1,1610612742,DAL,1559,Griffin,A. Griffin,163,12,16,Made,1,28,28,56,v,Griffin 16' Jump Shot (5 PTS) (Stackhouse 1 AST),Made Shot,Jump Shot,0,0
+107,101,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,28,56,,End of 1st Period (9:37 PM EST),period,end,0,0
+108,103,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,28,56,,Start of 2nd Period (9:41 PM EST),period,start,0,0
+109,104,PT11M45.00S,2,1610612756,PHX,1501,Thomas,T. Thomas,-11,91,9,Made,1,30,28,58,h,T. Thomas 9' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+110,105,PT11M22.00S,2,1610612742,DAL,1891,Terry,J. Terry,146,7,15,Missed,1,,,0,v,MISS Terry 15' Jump Shot,Missed Shot,Jump Shot,0,0
+111,106,PT11M21.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+112,107,PT11M08.00S,2,1610612742,DAL,1559,Griffin,A. Griffin,-36,72,8,Made,1,30,30,60,v,Griffin 8' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+113,108,PT10M58.00S,2,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Made,1,32,30,62,h,Diaw Dunk (7 PTS) (Bell 1 AST),Made Shot,Dunk Shot,0,0
+114,109,PT10M32.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,-172,187,25,Missed,1,,,0,v,MISS Stackhouse 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+115,110,PT10M30.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+116,111,PT10M30.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,SUB: Nowitzki FOR Howard,Substitution,,0,0
+117,112,PT10M10.00S,2,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,Missed,1,,,0,v,MISS Griffin Reverse Layup,Missed Shot,Reverse Layup Shot,0,0
+118,112,PT10M10.00S,2,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw BLOCK (2 BLK),,,0,0
+119,113,PT10M09.00S,2,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+120,114,PT10M08.00S,2,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,Missed,1,,,0,v,MISS Griffin Layup,Missed Shot,Layup Shot,0,0
+121,115,PT10M07.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+122,116,PT10M07.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0
+123,117,PT09M54.00S,2,1610612756,PHX,2067,House,E. House,85,140,16,Missed,1,,,0,h,MISS House 16' Jump Shot,Missed Shot,Jump Shot,0,0
+124,118,PT09M52.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+125,119,PT09M41.00S,2,1610612742,DAL,1891,Terry,J. Terry,89,137,16,Missed,1,,,0,v,MISS Terry 16' Jump Shot,Missed Shot,Jump Shot,0,0
+126,120,PT09M40.00S,2,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+127,121,PT09M40.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa P.FOUL (P1.T1),Foul,Personal,0,0
+128,122,PT09M29.00S,2,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas P.FOUL (P2.T2),Foul,Personal,0,0
+129,123,PT09M26.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-102,194,22,Missed,1,,,0,v,MISS Nowitzki 22' Jump Shot,Missed Shot,Jump Shot,0,0
+130,124,PT09M24.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+131,125,PT09M15.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,Made,1,34,30,64,h,Barbosa Layup (5 PTS) (Diaw 3 AST),Made Shot,Layup Shot,0,0
+132,126,PT08M57.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,-123,2,12,Made,1,34,32,66,v,Stackhouse 12' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,0
+133,127,PT08M44.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,Made,1,36,32,68,h,Barbosa Layup (7 PTS) (House 1 AST),Made Shot,Layup Shot,0,0
+134,128,PT08M31.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,-110,54,12,Missed,1,,,0,v,MISS Stackhouse 12' Jump Shot,Missed Shot,Jump Shot,0,0
+135,129,PT08M29.00S,2,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+136,130,PT08M26.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,89,128,16,Made,1,38,32,70,h,Barbosa 16' Jump Shot (9 PTS) (Diaw 4 AST),Made Shot,Jump Shot,0,0
+137,131,PT08M19.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0
+138,133,PT08M19.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,SUB: Van Horn FOR Diop,Substitution,,0,0
+139,134,PT08M19.00S,2,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,SUB: Howard FOR Griffin,Substitution,,0,0
+140,135,PT08M19.00S,2,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,SUB: Marion FOR T. Thomas,Substitution,,0,0
+141,136,PT08M19.00S,2,1610612756,PHX,2067,House,E. House,0,0,0,,0,,,0,h,SUB: Nash FOR House,Substitution,,0,0
+142,137,PT08M05.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa S.FOUL (P2.T3),Foul,Shooting,0,0
+143,138,PT08M05.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,38,33,71,v,Nowitzki Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0
+144,139,PT08M05.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,38,34,72,v,Nowitzki Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0
+145,140,PT07M46.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,40,34,74,h,Marion Slam Dunk (9 PTS) (Nash 2 AST),Made Shot,Slam Dunk Shot,0,0
+146,141,PT07M25.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0
+147,141,PT07M25.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion STEAL (3 STL),,,0,0
+148,142,PT07M13.00S,2,1610612756,PHX,959,Nash,S. Nash,57,150,16,Made,1,42,34,76,h,Nash 16' Jump Shot (6 PTS),Made Shot,Jump Shot,0,0
+149,143,PT06M57.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard OFF.Foul (P2),Foul,Offensive,0,0
+150,144,PT06M57.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard Foul Turnover (P3.T9),Turnover,Foul,0,0
+151,145,PT06M57.00S,2,0,,2885,,,0,0,0,,0,,,0,,Avery Johnson Foul:T.FOUL,Foul,Technical,0,0
+152,146,PT06M57.00S,2,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,43,34,77,h,Nash Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0
+153,147,PT06M40.00S,2,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw OFF.Foul (P1),Foul,Offensive,0,0
+154,148,PT06M40.00S,2,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw Foul Turnover (P1.T2),Turnover,Foul,0,0
+155,149,PT06M40.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,SUB: Harris FOR Terry,Substitution,,0,0
+156,150,PT06M25.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,6,87,9,Missed,1,,,0,v,MISS Nowitzki 9' Jump Shot,Missed Shot,Jump Shot,0,0
+157,151,PT06M22.00S,2,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0
+158,152,PT06M17.00S,2,1610612756,PHX,1952,Bell,R. Bell,184,178,26,Missed,1,,,0,h,MISS Bell 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+159,153,PT06M16.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+160,154,PT06M07.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris P.FOUL (P2.T1),Foul,Personal,0,0
+161,155,PT05M53.00S,2,1610612756,PHX,1952,Bell,R. Bell,-85,79,12,Missed,1,,,0,h,MISS Bell 12' Jump Shot,Missed Shot,Jump Shot,0,0
+162,156,PT05M51.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+163,157,PT05M35.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,121,92,15,Missed,1,,,0,v,MISS Nowitzki 15' Jump Shot,Missed Shot,Jump Shot,0,0
+164,157,PT05M35.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion BLOCK (1 BLK),,,0,0
+165,158,PT05M34.00S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+166,159,PT05M34.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse L.B.FOUL (P1.T2),Foul,Loose Ball,0,0
+167,160,PT05M34.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+168,163,PT05M34.00S,2,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,SUB: T. Thomas FOR Diaw,Substitution,,0,0
+169,164,PT05M19.00S,2,1610612756,PHX,1501,Thomas,T. Thomas,-156,54,17,Made,1,45,34,79,h,T. Thomas 17' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+170,165,PT04M59.00S,2,1610612742,DAL,2572,Howard,J. Howard,92,49,10,Made,1,45,36,81,v,Howard 10' Jump Bank Shot (11 PTS),Made Shot,Jump Bank Shot,0,0
+171,166,PT04M44.00S,2,1610612756,PHX,1952,Bell,R. Bell,250,33,25,Missed,1,,,0,h,MISS Bell 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+172,167,PT04M42.00S,2,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,Van Horn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+173,168,PT04M37.00S,2,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,,,0,h,Nash S.FOUL (P1.T4),Foul,Shooting,0,0
+174,169,PT04M37.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,45,37,82,v,Harris Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+175,170,PT04M37.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,SUB: Terry FOR Stackhouse,Substitution,,0,0
+176,171,PT04M37.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,45,38,83,v,Harris Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+177,172,PT04M17.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,181,191,26,Missed,1,,,0,h,MISS Barbosa 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+178,173,PT04M15.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+179,174,PT04M01.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Made,1,45,40,85,v,Harris Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,0
+180,175,PT03M50.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,-85,45,10,Made,1,47,40,87,h,Barbosa 10' Jump Bank Shot (11 PTS),Made Shot,Jump Bank Shot,0,0
+181,176,PT03M32.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Missed,1,,,0,v,MISS Harris Layup,Missed Shot,Layup Shot,0,0
+182,176,PT03M32.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion BLOCK (2 BLK),,,0,0
+183,177,PT03M29.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+184,178,PT03M24.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,Made,1,49,40,89,h,Barbosa Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,0
+185,179,PT03M08.00S,2,1610612742,DAL,2572,Howard,J. Howard,38,82,9,Made,1,49,42,91,v,Howard 9' Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+186,180,PT03M08.00S,2,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,Bell S.FOUL (P2.PN),Foul,Shooting,0,0
+187,181,PT03M08.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,49,43,92,v,Howard Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0
+188,182,PT02M58.00S,2,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,Van Horn P.FOUL (P1.T3),Foul,Personal,0,0
+189,183,PT02M58.00S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0
+190,185,PT02M58.00S,2,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,SUB: Diop FOR Van Horn,Substitution,,0,0
+191,187,PT02M41.00S,2,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0
+192,187,PT02M41.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki STEAL (1 STL),,,0,0
+193,188,PT02M37.00S,2,1610612742,DAL,1891,Terry,J. Terry,133,112,17,Missed,1,,,0,v,MISS Terry 17' Jump Shot,Missed Shot,Jump Shot,0,0
+194,189,PT02M35.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+195,190,PT02M25.00S,2,1610612756,PHX,1890,Marion,S. Marion,-92,74,12,Missed,1,,,0,h,MISS Marion 12' Jump Shot,Missed Shot,Jump Shot,0,0
+196,191,PT02M23.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+197,192,PT02M01.00S,2,1610612742,DAL,2572,Howard,J. Howard,49,99,11,Missed,1,,,0,v,MISS Howard 11' Jump Shot,Missed Shot,Jump Shot,0,0
+198,193,PT02M00.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+199,194,PT01M52.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-41,61,7,Missed,1,,,0,v,MISS Nowitzki 7' Jump Shot,Missed Shot,Jump Shot,0,0
+200,194,PT01M52.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion BLOCK (3 BLK),,,0,0
+201,195,PT01M52.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+202,196,PT01M52.00S,2,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,SUB: Diaw FOR Bell,Substitution,,0,0
+203,197,PT01M39.00S,2,1610612742,DAL,2572,Howard,J. Howard,-59,166,18,Missed,1,,,0,v,MISS Howard 18' Jump Shot,Missed Shot,Jump Shot,0,0
+204,198,PT01M37.00S,2,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+205,199,PT01M25.00S,2,1610612756,PHX,2564,Diaw,B. Diaw,-29,53,6,Missed,1,,,0,h,MISS Diaw 6' Jump Shot,Missed Shot,Jump Shot,0,0
+206,201,PT01M24.00S,2,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw REBOUND (Off:2 Def:1),Rebound,Unknown,0,0
+207,200,PT01M24.00S,2,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Missed,1,,,0,h,MISS Diaw Tip Shot,Missed Shot,Tip Shot,0,0
+208,202,PT01M22.00S,2,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+209,203,PT01M04.00S,2,1610612756,PHX,1890,Marion,S. Marion,100,81,13,Missed,1,,,0,h,MISS Marion 13' Jump Shot,Missed Shot,Jump Shot,0,0
+210,204,PT01M03.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+211,205,PT00M51.60S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,Made,1,49,45,94,v,Terry Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,0
+212,206,PT00M32.60S,2,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0
+213,206,PT00M32.60S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry STEAL (1 STL),,,0,0
+214,207,PT00M32.60S,2,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas P.FOUL (P3.PN),Foul,Personal,0,0
+215,208,PT00M32.60S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,MISS Terry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+216,209,PT00M32.60S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+217,210,PT00M32.60S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,SUB: Stackhouse FOR Nowitzki,Substitution,,0,0
+218,211,PT00M32.60S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,49,46,95,v,Terry Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0
+219,212,PT00M19.90S,2,1610612756,PHX,959,Nash,S. Nash,-118,12,12,Made,1,51,46,97,h,Nash 12' Jump Shot (9 PTS),Made Shot,Jump Shot,0,0
+220,213,PT00M16.20S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0
+221,215,PT00M16.20S,2,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,SUB: Bell FOR T. Thomas,Substitution,,0,0
+222,216,PT00M16.20S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,SUB: Nowitzki FOR Diop,Substitution,,0,0
+223,217,PT00M00.10S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-43,183,19,Missed,1,,,0,v,MISS Nowitzki 19' Jump Shot,Missed Shot,Jump Shot,0,0
+224,219,PT00M00.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+225,218,PT00M00.00S,2,0,,0,,,0,0,0,,0,51,46,97,,End of 2nd Period (10:13 PM EST),period,end,0,0
+226,224,PT12M00.00S,3,0,,0,,,0,0,0,,0,51,46,97,,Start of 3rd Period (10:33 PM EST),period,start,0,0
+227,225,PT11M47.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop S.FOUL (P2.T1),Foul,Shooting,0,0
+228,226,PT11M47.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,MISS Marion Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+229,227,PT11M47.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+230,228,PT11M47.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,52,46,98,h,Marion Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0
+231,229,PT11M30.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,138,92,17,Missed,1,,,0,v,MISS Nowitzki 17' Jump Shot,Missed Shot,Jump Shot,0,0
+232,230,PT11M28.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+233,231,PT11M11.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0
+234,231,PT11M11.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris STEAL (1 STL),,,0,0
+235,232,PT11M05.00S,3,1610612742,DAL,1891,Terry,J. Terry,-217,118,25,Made,1,52,49,101,v,Terry 25' 3PT Jump Shot (6 PTS) (Harris 4 AST),Made Shot,Jump Shot,0,0
+236,233,PT10M38.00S,3,1610612756,PHX,959,Nash,S. Nash,28,81,9,Made,1,54,49,103,h,Nash 9' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,0,0
+237,234,PT10M24.00S,3,1610612742,DAL,2734,Harris,D. Harris,148,26,15,Made,1,54,51,105,v,Harris 15' Jump Shot (10 PTS) (Nowitzki 2 AST),Made Shot,Jump Shot,0,0
+238,235,PT10M13.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,135,132,19,Made,1,56,51,107,h,Diaw 19' Jump Shot (9 PTS) (Nash 3 AST),Made Shot,Jump Shot,0,0
+239,236,PT09M53.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-217,127,25,Made,1,56,54,110,v,Nowitzki 25' 3PT Jump Shot (7 PTS) (Harris 5 AST),Made Shot,Jump Shot,0,0
+240,237,PT09M43.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,-69,158,17,Missed,1,,,0,h,MISS Diaw 17' Jump Shot,Missed Shot,Jump Shot,0,0
+241,238,PT09M40.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+242,239,PT09M23.00S,3,1610612742,DAL,2734,Harris,D. Harris,-100,135,17,Missed,1,,,0,v,MISS Harris 17' Jump Shot,Missed Shot,Jump Shot,0,0
+243,240,PT09M21.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+244,241,PT09M08.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Missed,1,,,0,h,MISS Diaw Layup,Missed Shot,Layup Shot,0,0
+245,242,PT09M06.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+246,243,PT08M46.00S,3,1610612742,DAL,2734,Harris,D. Harris,159,199,25,Missed,1,,,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+247,244,PT08M45.00S,3,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0
+248,245,PT08M20.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,184,191,27,Missed,1,,,0,h,MISS Diaw 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+249,246,PT08M18.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:2 Def:2),Rebound,Unknown,0,0
+250,247,PT08M08.00S,3,1610612756,PHX,1890,Marion,S. Marion,85,40,9,Missed,1,,,0,h,MISS Marion 9' Jump Shot,Missed Shot,Jump Shot,0,0
+251,248,PT08M06.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+252,249,PT08M03.00S,3,1610612756,PHX,959,Nash,S. Nash,238,74,25,Made,1,59,54,113,h,Nash 25' 3PT Jump Shot (14 PTS) (Marion 1 AST),Made Shot,Jump Shot,0,0
+253,250,PT07M43.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw S.FOUL (P2.T1),Foul,Shooting,0,0
+254,251,PT07M43.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,59,55,114,v,Terry Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0
+255,252,PT07M43.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,59,56,115,v,Terry Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0
+256,253,PT07M28.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Missed,1,,,0,h,MISS Diaw Layup,Missed Shot,Layup Shot,0,0
+257,254,PT07M26.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+258,255,PT07M10.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,125,13,Missed,1,,,0,v,MISS Nowitzki 13' Jump Shot,Missed Shot,Jump Shot,0,0
+259,256,PT07M08.00S,3,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+260,257,PT06M55.00S,3,1610612756,PHX,1890,Marion,S. Marion,241,5,24,Made,1,62,56,118,h,Marion 24' 3PT Jump Shot (13 PTS) (Bell 2 AST),Made Shot,Jump Shot,0,0
+261,258,PT06M53.00S,3,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0
+262,261,PT06M53.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,SUB: Stackhouse FOR Harris,Substitution,,0,0
+263,262,PT06M42.00S,3,1610612742,DAL,2572,Howard,J. Howard,67,122,14,Missed,1,,,0,v,MISS Howard 14' Jump Shot,Missed Shot,Jump Shot,0,0
+264,263,PT06M39.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:3 Def:3),Rebound,Unknown,0,0
+265,264,PT06M21.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P3.T2),Foul,Shooting,0,0
+266,265,PT06M21.00S,3,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,MISS T. Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+267,266,PT06M21.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+268,267,PT06M21.00S,3,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,63,56,119,h,T. Thomas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0
+269,268,PT05M59.00S,3,1610612742,DAL,2572,Howard,J. Howard,199,115,23,Missed,1,,,0,v,MISS Howard 23' Jump Shot,Missed Shot,Jump Shot,0,0
+270,269,PT05M57.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:3 Def:2),Rebound,Unknown,0,0
+271,270,PT05M53.00S,3,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,T. Thomas S.FOUL (P4.T2),Foul,Shooting,0,0
+272,271,PT05M53.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,SUB: Griffin FOR Diop,Substitution,,0,0
+273,272,PT05M53.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,63,57,120,v,Nowitzki Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0
+274,273,PT05M53.00S,3,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,SUB: Barbosa FOR T. Thomas,Substitution,,0,0
+275,274,PT05M53.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,63,58,121,v,Nowitzki Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0
+276,275,PT05M40.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,72,145,16,Missed,1,,,0,h,MISS Diaw 16' Jump Shot,Missed Shot,Jump Shot,0,0
+277,276,PT05M37.00S,3,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+278,277,PT05M26.00S,3,1610612742,DAL,1891,Terry,J. Terry,-118,143,19,Missed,1,,,0,v,MISS Terry 19' Jump Shot,Missed Shot,Jump Shot,0,0
+279,278,PT05M24.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw REBOUND (Off:2 Def:3),Rebound,Unknown,0,0
+280,279,PT05M19.00S,3,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,,,0,h,Nash Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0
+281,279,PT05M19.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry STEAL (2 STL),,,0,0
+282,280,PT05M15.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,Made,1,63,60,123,v,Terry Layup (10 PTS),Made Shot,Layup Shot,0,0
+283,281,PT04M52.00S,3,1610612756,PHX,959,Nash,S. Nash,0,0,0,Made,1,65,60,125,h,Nash Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,0
+284,282,PT04M34.00S,3,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,Made,1,65,62,127,v,Griffin Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,0
+285,283,PT04M11.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,80,46,9,Made,1,67,62,129,h,Diaw 9' Jump Bank Shot (11 PTS) (Nash 4 AST),Made Shot,Jump Bank Shot,0,0
+286,284,PT03M49.00S,3,1610612742,DAL,1891,Terry,J. Terry,149,207,26,Made,1,67,65,132,v,Terry 26' 3PT Jump Shot (13 PTS) (Stackhouse 2 AST),Made Shot,Jump Shot,0,0
+287,285,PT03M38.00S,3,1610612756,PHX,1952,Bell,R. Bell,-62,122,14,Made,1,69,65,134,h,Bell 14' Jump Shot (7 PTS),Made Shot,Jump Shot,0,0
+288,286,PT03M26.00S,3,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,Bell P.FOUL (P3.T3),Foul,Personal,0,0
+289,287,PT03M16.00S,3,1610612742,DAL,1891,Terry,J. Terry,176,196,26,Missed,1,,,0,v,MISS Terry 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+290,288,PT03M14.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+291,289,PT03M09.00S,3,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin OFF.Foul (P2),Foul,Offensive,0,0
+292,290,PT03M09.00S,3,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin Foul Turnover (P1.T10),Turnover,Foul,0,0
+293,291,PT02M59.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,79,35,9,Made,1,71,65,136,h,Diaw 9' Jump Bank Shot (13 PTS) (Nash 5 AST),Made Shot,Jump Bank Shot,0,0
+294,292,PT02M39.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,71,138,16,Missed,1,,,0,v,MISS Nowitzki 16' Jump Shot,Missed Shot,Jump Shot,0,0
+295,293,PT02M38.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+296,294,PT02M29.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Mavericks T.Foul (Def. 3 Sec Nowitzki ),Foul,Defense 3 Second,0,0
+297,295,PT02M29.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0
+298,297,PT02M29.00S,3,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,SUB: Jones FOR Diaw,Substitution,,0,0
+299,298,PT02M29.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,SUB: Harris FOR Nowitzki,Substitution,,0,0
+300,299,PT02M29.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,SUB: Diop FOR Terry,Substitution,,0,0
+301,300,PT02M29.00S,3,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,72,65,137,h,Nash Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0
+302,301,PT02M29.00S,3,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,SUB: Diaw FOR Bell,Substitution,,0,0
+303,302,PT02M19.00S,3,1610612756,PHX,959,Nash,S. Nash,0,0,0,Made,1,74,65,139,h,Nash Driving Layup (19 PTS),Made Shot,Driving Layup Shot,0,0
+304,303,PT01M55.00S,3,1610612742,DAL,2572,Howard,J. Howard,103,89,14,Missed,1,,,0,v,MISS Howard 14' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,0
+305,305,PT01M52.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+306,304,PT01M52.00S,3,1610612742,DAL,2572,Howard,J. Howard,34,68,8,Made,1,74,67,141,v,Howard 8' Jump Shot (16 PTS),Made Shot,Jump Shot,0,0
+307,306,PT01M45.00S,3,1610612756,PHX,2571,Barbosa,L. Barbosa,195,176,26,Made,1,77,67,144,h,Barbosa 26' 3PT Jump Shot (16 PTS) (Nash 6 AST),Made Shot,Jump Shot,0,0
+308,307,PT01M26.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Missed,1,,,0,v,MISS Harris Layup,Missed Shot,Layup Shot,0,0
+309,308,PT01M25.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+310,309,PT01M10.00S,3,1610612756,PHX,959,Nash,S. Nash,108,94,14,Missed,1,,,0,h,MISS Nash 14' Jump Shot,Missed Shot,Jump Shot,0,0
+311,310,PT01M09.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+312,311,PT01M05.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0
+313,312,PT01M05.00S,3,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,SUB: Nowitzki FOR Griffin,Substitution,,0,0
+314,313,PT00M51.90S,3,1610612756,PHX,2564,Diaw,B. Diaw,121,158,20,Missed,1,,,0,h,MISS Diaw 20' Jump Shot,Missed Shot,Jump Shot,0,0
+315,314,PT00M48.90S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+316,315,PT00M41.90S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,-6,86,9,Missed,1,,,0,v,MISS Stackhouse 9' Jump Shot,Missed Shot,Jump Shot,0,0
+317,316,PT00M39.90S,3,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+318,317,PT00M32.90S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,79,67,146,h,Marion Dunk (15 PTS),Made Shot,Dunk Shot,0,0
+319,318,PT00M17.40S,3,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw S.FOUL (P3.T4),Foul,Shooting,0,0
+320,319,PT00M17.40S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,SUB: Terry FOR Howard,Substitution,,0,0
+321,320,PT00M17.40S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+322,321,PT00M17.40S,3,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+323,322,PT00M17.40S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,MISS Harris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+324,323,PT00M15.90S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:3 Def:4),Rebound,Unknown,0,0
+325,324,PT00M08.30S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry P.FOUL (P1.T3),Foul,Personal,0,0
+326,325,PT00M00.10S,3,1610612756,PHX,2564,Diaw,B. Diaw,176,196,26,Missed,1,,,0,h,MISS Diaw 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+327,327,PT00M00.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0
+328,326,PT00M00.00S,3,0,,0,,,0,0,0,,0,79,67,146,,End of 3rd Period (10:59 PM EST),period,end,0,0
+329,329,PT12M00.00S,4,0,,0,,,0,0,0,,0,79,67,146,,Start of 4th Period (11:03 PM EST),period,start,0,0
+330,330,PT11M50.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion P.FOUL (P2.T1),Foul,Personal,0,0
+331,331,PT11M44.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Traveling Turnover (P2.T12),Turnover,Traveling,0,0
+332,332,PT11M30.00S,4,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Made,1,81,67,148,h,Diaw Driving Dunk (15 PTS) (Barbosa 2 AST),Made Shot,Driving Dunk Shot,0,0
+333,333,PT11M30.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki S.FOUL (P3.T1),Foul,Shooting,0,0
+334,334,PT11M30.00S,4,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,82,67,149,h,Diaw Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0
+335,335,PT11M11.00S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,8,176,18,Missed,1,,,0,v,MISS Van Horn 18' Jump Shot,Missed Shot,Jump Shot,0,0
+336,336,PT11M11.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+337,337,PT11M11.00S,4,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,Bell P.FOUL (P4.T2),Foul,Personal,0,0
+338,338,PT11M11.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,SUB: Griffin FOR Harris,Substitution,,0,0
+339,339,PT11M08.00S,4,0,,1783,,,0,0,0,,0,,,0,,Mike D'Antoni Foul:T.FOUL,Foul,Technical,0,0
+340,340,PT11M08.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,MISS Nowitzki Free Throw Technical,Free Throw,Free Throw Technical,0,0
+341,341,PT11M08.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+342,343,PT10M56.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-133,105,17,Made,1,82,69,151,v,Nowitzki 17' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,0,0
+343,344,PT10M44.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,-99,229,25,Made,1,85,69,154,h,Barbosa 25' 3PT Jump Shot (19 PTS) (Bell 3 AST),Made Shot,Jump Shot,0,0
+344,345,PT10M24.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,195,196,28,Missed,1,,,0,v,MISS Stackhouse 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+345,346,PT10M22.00S,4,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+346,347,PT10M17.00S,4,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Made,1,87,69,156,h,Diaw Dunk (18 PTS) (Marion 2 AST),Made Shot,Dunk Shot,0,0
+347,348,PT10M14.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0
+348,351,PT10M14.00S,4,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,SUB: Howard FOR Griffin,Substitution,,0,0
+349,352,PT10M04.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa P.FOUL (P3.T3),Foul,Personal,0,0
+350,353,PT09M52.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,Made,1,87,71,158,v,Stackhouse Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,0
+351,354,PT09M39.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,-207,148,25,Missed,1,,,0,h,MISS Barbosa 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+352,355,PT09M37.00S,4,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+353,356,PT09M22.00S,4,1610612756,PHX,2592,Jones,J. Jones,140,49,15,Missed,1,,,0,h,MISS Jones 15' Jump Shot,Missed Shot,Jump Shot,0,0
+354,357,PT09M20.00S,4,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0
+355,358,PT09M15.00S,4,1610612756,PHX,1952,Bell,R. Bell,5,66,7,Made,1,89,71,160,h,Bell 7' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,0,0
+356,359,PT09M01.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse OFF.Foul (P2),Foul,Offensive,0,0
+357,360,PT09M01.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse Foul Turnover (P2.T13),Turnover,Foul,0,0
+358,361,PT09M01.00S,4,1610612756,PHX,1952,Bell,R. Bell,0,0,0,,0,,,0,h,SUB: Nash FOR Bell,Substitution,,0,0
+359,362,PT08M38.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,131,112,17,Missed,1,,,0,h,MISS Barbosa 17' Jump Shot,Missed Shot,Jump Shot,0,0
+360,363,PT08M36.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+361,364,PT08M30.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,62,99,12,Missed,1,,,0,v,MISS Stackhouse 12' Jump Shot,Missed Shot,Jump Shot,0,0
+362,365,PT08M29.00S,4,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0
+363,366,PT08M29.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse P.FOUL (P3.T2),Foul,Personal,0,0
+364,367,PT08M14.00S,4,1610612756,PHX,2564,Diaw,B. Diaw,144,59,16,Missed,1,,,0,h,MISS Diaw 16' Jump Shot,Missed Shot,Jump Shot,0,0
+365,371,PT07M46.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:4 Def:4),Rebound,Unknown,0,0
+366,370,PT07M46.00S,4,1610612756,PHX,1890,Marion,S. Marion,80,181,20,Missed,1,,,0,h,MISS Marion 20' Jump Shot,Missed Shot,Jump Shot,0,0
+367,372,PT07M44.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+368,373,PT07M43.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-119,44,13,Missed,1,,,0,v,MISS Nowitzki 13' Jump Shot,Missed Shot,Jump Shot,0,0
+369,374,PT07M39.00S,4,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0
+370,375,PT07M24.00S,4,1610612756,PHX,2592,Jones,J. Jones,-161,202,26,Missed,1,,,0,h,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+371,376,PT07M22.00S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,Van Horn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0
+372,377,PT07M17.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Short (Reg.4 Short 2),Timeout,Short,0,0
+373,379,PT07M17.00S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,SUB: Harris FOR Van Horn,Substitution,,0,0
+374,381,PT07M01.00S,4,1610612742,DAL,1891,Terry,J. Terry,-186,202,27,Missed,1,,,0,v,MISS Terry 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+375,382,PT06M59.00S,4,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw REBOUND (Off:2 Def:6),Rebound,Unknown,0,0
+376,383,PT06M54.00S,4,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,Made,1,91,71,162,h,Diaw Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,0
+377,384,PT06M54.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse S.FOUL (P4.T3),Foul,Shooting,0,0
+378,385,PT06M54.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,SUB: Dampier FOR Stackhouse,Substitution,,0,0
+379,386,PT06M54.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,SUB: Van Horn FOR Nowitzki,Substitution,,0,0
+380,387,PT06M54.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,,,0,h,SUB: T. Thomas FOR Marion,Substitution,,0,0
+381,388,PT06M54.00S,4,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,MISS Diaw Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0
+382,389,PT06M52.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+383,390,PT06M37.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Missed,1,,,0,v,MISS Harris Layup,Missed Shot,Layup Shot,0,0
+384,390,PT06M37.00S,4,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,,,0,h,Nash BLOCK (1 BLK),,,0,0
+385,391,PT06M37.00S,4,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0
+386,392,PT06M37.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier P.FOUL (P1.T4),Foul,Personal,0,0
+387,393,PT06M37.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,SUB: Daniels FOR Terry,Substitution,,0,0
+388,394,PT06M17.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,233,26,0,Made,1,94,71,165,h,Barbosa 3PT Jump Shot (22 PTS) (Nash 7 AST),Made Shot,Jump Shot,0,0
+389,395,PT05M53.00S,4,1610612742,DAL,2572,Howard,J. Howard,-113,130,17,Missed,1,,,0,v,MISS Howard 17' Jump Shot,Missed Shot,Jump Shot,0,0
+390,396,PT05M51.00S,4,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,0,0
+391,397,PT05M47.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris P.FOUL (P3.PN),Foul,Personal,0,0
+392,398,PT05M47.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0
+393,401,PT05M47.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,SUB: Griffin FOR Howard,Substitution,,0,0
+394,402,PT05M47.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,SUB: Armstrong FOR Harris,Substitution,,0,0
+395,403,PT05M47.00S,4,1610612756,PHX,1501,Thomas,T. Thomas,0,0,0,,0,,,0,h,SUB: K. Thomas FOR T. Thomas,Substitution,,0,0
+396,404,PT05M47.00S,4,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,95,71,166,h,Nash Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0
+397,405,PT05M47.00S,4,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,96,71,167,h,Nash Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0
+398,406,PT05M34.00S,4,1610612742,DAL,2605,Daniels,M. Daniels,0,0,0,,0,,,0,v,Daniels Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0
+399,407,PT05M34.00S,4,1610612756,PHX,959,Nash,S. Nash,0,0,0,,0,,,0,h,SUB: House FOR Nash,Substitution,,0,0
+400,408,PT05M22.00S,4,1610612756,PHX,2592,Jones,J. Jones,-174,8,17,Missed,1,,,0,h,MISS Jones 17' Jump Shot,Missed Shot,Jump Shot,0,0
+401,409,PT05M20.00S,4,1610612742,DAL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,Armstrong REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+402,410,PT05M14.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa P.FOUL (P4.T4),Foul,Personal,0,0
+403,411,PT05M04.00S,4,1610612742,DAL,1559,Griffin,A. Griffin,0,76,8,Made,1,96,73,169,v,Griffin 8' Running Hook Shot (11 PTS),Made Shot,Running Hook Shot,0,0
+404,412,PT04M47.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier P.FOUL (P2.PN),Foul,Personal,0,0
+405,413,PT04M47.00S,4,1610612756,PHX,703,Thomas,K. Thomas,0,0,0,,0,,,0,h,MISS K. Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+406,414,PT04M47.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0
+407,415,PT04M47.00S,4,1610612756,PHX,703,Thomas,K. Thomas,0,0,0,,0,97,73,170,h,K. Thomas Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0
+408,416,PT04M35.00S,4,1610612756,PHX,703,Thomas,K. Thomas,0,0,0,,0,,,0,h,K. Thomas S.FOUL (P1.PN),Foul,Shooting,0,0
+409,417,PT04M35.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,97,74,171,v,Dampier Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0
+410,418,PT04M35.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,97,75,172,v,Dampier Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0
+411,419,PT04M20.00S,4,1610612756,PHX,2067,House,E. House,5,196,20,Missed,1,,,0,h,MISS House 20' Jump Shot,Missed Shot,Jump Shot,0,0
+412,420,PT04M18.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+413,421,PT04M12.00S,4,1610612742,DAL,353,Armstrong,D. Armstrong,0,0,0,Missed,1,,,0,v,MISS Armstrong Layup,Missed Shot,Layup Shot,0,0
+414,422,PT04M11.00S,4,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:6),Rebound,Unknown,0,0
+415,423,PT04M03.00S,4,1610612756,PHX,2592,Jones,J. Jones,-182,164,24,Made,1,100,75,175,h,Jones 24' 3PT Jump Shot (3 PTS) (House 2 AST),Made Shot,Jump Shot,0,0
+416,424,PT03M37.00S,4,1610612742,DAL,353,Armstrong,D. Armstrong,-192,148,24,Missed,1,,,0,v,MISS Armstrong 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+417,425,PT03M34.00S,4,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,Diaw REBOUND (Off:2 Def:7),Rebound,Unknown,0,0
+418,426,PT03M19.00S,4,1610612756,PHX,2067,House,E. House,171,105,20,Missed,1,,,0,h,MISS House 20' Jump Shot,Missed Shot,Jump Shot,0,0
+419,427,PT03M17.00S,4,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0
+420,428,PT03M10.00S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,-131,17,13,Missed,1,,,0,v,MISS Van Horn 13' Jump Shot,Missed Shot,Jump Shot,0,0
+421,428,PT03M10.00S,4,1610612756,PHX,2067,House,E. House,0,0,0,,0,,,0,h,House BLOCK (1 BLK),,,0,0
+422,429,PT03M10.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,0
+423,430,PT02M58.00S,4,1610612742,DAL,1559,Griffin,A. Griffin,-6,82,8,Made,1,100,77,177,v,Griffin 8' Jump Shot (13 PTS),Made Shot,Jump Shot,0,0
+424,431,PT02M53.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0
+425,433,PT02M53.00S,4,1610612756,PHX,2564,Diaw,B. Diaw,0,0,0,,0,,,0,h,SUB: Burke FOR Diaw,Substitution,,0,0
+426,435,PT02M50.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,Barbosa Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0
+427,436,PT02M29.00S,4,1610612742,DAL,2605,Daniels,M. Daniels,-95,100,14,Missed,1,,,0,v,MISS Daniels 14' Jump Shot,Missed Shot,Jump Shot,0,0
+428,437,PT02M27.00S,4,1610612742,DAL,2605,Daniels,M. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+429,438,PT02M23.00S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,Made,1,100,79,179,v,Van Horn Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,0
+430,439,PT02M02.00S,4,1610612756,PHX,2469,Burke,P. Burke,133,40,14,Missed,1,,,0,h,MISS Burke 14' Jump Shot,Missed Shot,Jump Shot,0,0
+431,439,PT02M02.00S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,Van Horn BLOCK (1 BLK),,,0,0
+432,440,PT01M59.00S,4,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0
+433,441,PT01M50.00S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,-61,148,16,Made,1,100,81,181,v,Van Horn 16' Jump Shot (4 PTS),Made Shot,Jump Shot,0,0
+434,442,PT01M37.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,Made,1,102,81,183,h,Barbosa Driving Layup (24 PTS),Made Shot,Driving Layup Shot,0,0
+435,443,PT01M32.00S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,166,191,25,Missed,1,,,0,v,MISS Van Horn 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+436,444,PT01M30.00S,4,1610612756,PHX,2592,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:7),Rebound,Unknown,0,0
+437,445,PT01M24.00S,4,1610612742,DAL,353,Armstrong,D. Armstrong,0,0,0,,0,,,0,v,Armstrong P.FOUL (P1.PN),Foul,Personal,0,0
+438,446,PT01M24.00S,4,1610612742,DAL,1559,Griffin,A. Griffin,0,0,0,,0,,,0,v,SUB: Powell FOR Griffin,Substitution,,0,0
+439,447,PT01M24.00S,4,1610612756,PHX,2067,House,E. House,0,0,0,,0,103,81,184,h,House Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0
+440,448,PT01M24.00S,4,1610612756,PHX,2571,Barbosa,L. Barbosa,0,0,0,,0,,,0,h,SUB: Tskitishvili FOR Barbosa,Substitution,,0,0
+441,449,PT01M24.00S,4,1610612756,PHX,2067,House,E. House,0,0,0,,0,104,81,185,h,House Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0
+442,450,PT01M15.00S,4,1610612756,PHX,703,Thomas,K. Thomas,0,0,0,,0,,,0,h,K. Thomas P.FOUL (P2.PN),Foul,Personal,0,0
+443,451,PT01M15.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,MISS Dampier Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0
+444,452,PT01M15.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,0
+445,453,PT01M15.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,MISS Dampier Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0
+446,454,PT01M13.00S,4,1610612756,PHX,703,Thomas,K. Thomas,0,0,0,,0,,,0,h,K. Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0
+447,455,PT00M54.90S,4,1610612756,PHX,2469,Burke,P. Burke,230,92,25,Missed,1,,,0,h,MISS Burke 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+448,456,PT00M52.80S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,0,0,0,,0,,,0,v,Van Horn REBOUND (Off:0 Def:5),Rebound,Unknown,0,0
+449,457,PT00M44.00S,4,1610612742,DAL,353,Armstrong,D. Armstrong,110,179,21,Made,1,104,83,187,v,Armstrong 21' Jump Shot (2 PTS),Made Shot,Jump Shot,0,0
+450,458,PT00M25.20S,4,1610612756,PHX,2067,House,E. House,-151,91,18,Made,1,106,83,189,h,House 18' Jump Shot (8 PTS),Made Shot,Jump Shot,0,0
+451,459,PT00M11.90S,4,1610612742,DAL,353,Armstrong,D. Armstrong,-168,187,25,Missed,1,,,0,v,MISS Armstrong 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,0
+452,460,PT00M09.90S,4,1610612742,DAL,2694,Powell,J. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0
+453,461,PT00M07.60S,4,1610612742,DAL,1496,Van Horn,K. Van Horn,-181,183,26,Made,1,106,86,192,v,Van Horn 26' 3PT Jump Shot (7 PTS) (Powell 1 AST),Made Shot,Jump Shot,0,0
+454,462,PT00M00.00S,4,0,,0,,,0,0,0,,0,106,86,192,,End of 4th Period (11:38 PM EST),period,end,0,0
