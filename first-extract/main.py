@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 from NBADataExtractor import NBADataExtractor
-from dict_endpoint import nba_endpoints_games
+from dict_endpoint import nba_endpoints_games, nba_endpoints_player
 
 
 def initialize_dataframe(file_path):
@@ -13,12 +13,12 @@ def initialize_dataframe(file_path):
 
 
 def main():
-    extractor = NBADataExtractor(
-        nba_endpoints_games,
-        season_start=1996,
-        season_end=2023,
-        output_dir="./data/game/"
-    )
+    # extractor = NBADataExtractor(
+    #     nba_endpoints_games,
+    #     season_start=1996,
+    #     season_end=2023,
+    #     output_dir="./data/game/"
+    # )
 
     regular_season_path = "./data/game/regular_season_game_logs.csv"
     playoffs_path = "./data/game/playoffs_game_logs.csv"
@@ -30,7 +30,12 @@ def main():
     #     initialize_dataframe(playoffs_path)
     #     initialize_dataframe(regular_season_path)
 
-    extractor.extract_all_play_by_play()
+    # extractor.extract_all_play_by_play()
+    extractor = NBADataExtractor(
+        nba_endpoints_player,
+        output_dir="./data/"
+    )
+    extractor.fetch_player_bios()
     extractor.close_session()
 
 
