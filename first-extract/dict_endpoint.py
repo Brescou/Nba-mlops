@@ -1,4 +1,20 @@
 nba_endpoints_player = {
+    "player_bios": {
+        "url": "playerindex",
+        "params": {
+            "LeagueID": "00",
+            "Season": "2024-25",
+            "Historical": 1,
+            "TeamID": 0,
+            "Country": "",
+            "College": "",
+            "DraftPick": "",
+            "DraftRound": "",
+            "DraftYear": "",
+            "Height": "",
+            "Weight": ""
+        }
+    },
     "general": {
         "traditional": {
             "url": "leaguedashplayerstats",
