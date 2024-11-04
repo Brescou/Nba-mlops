@@ -160,6 +160,34 @@ nba_endpoints_player = {
                 "SeasonType": None,
             }
         }
+    },
+    "boxscore": {
+        "url": "playergamelogs",
+        "params": {
+            "DateFrom": "",
+            "DateTo": "",
+            "GameSegment": "",
+            "ISTRound": "",
+            "LastNGames": 0,
+            "LeagueID": "00",
+            "Location": "",
+            "MeasureType": None,
+            "Month": 0,
+            "OpponentTeamID": 0,
+            "Outcome": "",
+            "PORound": 0,
+            "PaceAdjust": "N",
+            "PerMode": "Totals",
+            "Period": 0,
+            "PlusMinus": "N",
+            "Rank": "N",
+            "Season": None,
+            "SeasonSegment": "",
+            "SeasonType": None,
+            "ShotClockRange": "",
+            "VsConference": "",
+            "VsDivision": "",
+        }
     }
 }
 nba_endpoints_teams = {
@@ -241,6 +269,34 @@ nba_endpoints_teams = {
                 "Season": None,
                 "SeasonType": None,
             }
+        }
+    },
+    "boxscore": {
+        "url": "teamgamelogs",
+        "params": {
+            "DateFrom": "",
+            "DateTo": "",
+            "GameSegment": "",
+            "ISTRound": "",
+            "LastNGames": 0,
+            "LeagueID": "00",
+            "Location": "",
+            "MeasureType": None,
+            "Month": 0,
+            "OpponentTeamID": 0,
+            "Outcome": "",
+            "PORound": 0,
+            "PaceAdjust": "N",
+            "PerMode": "Totals",
+            "Period": 0,
+            "PlusMinus": "N",
+            "Rank": "N",
+            "Season": None,
+            "SeasonSegment": "",
+            "SeasonType": None,
+            "ShotClockRange": "",
+            "VsConference": "",
+            "VsDivision": "",
         }
     }
 }

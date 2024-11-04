@@ -224,11 +224,17 @@ class NBADataExtractor:
         else:
             logging.error("No player bios found.")
 
-    def fetch_endpoint_data(self, endpoint, sub_endpoint, params):
-        if endpoint not in self.endpoints or sub_endpoint not in self.endpoints[endpoint]:
-            logging.error(f"Endpoint {endpoint}/{sub_endpoint} not found in endpoints.")
-            return None
-        url = NBAParams.build_url(self.endpoints[endpoint][sub_endpoint])
+    def fetch_endpoint_data(self, endpoint, params, sub_endpoint=None):
+        if sub_endpoint:
+            if endpoint not in self.endpoints or sub_endpoint not in self.endpoints[endpoint]:
+                logging.error(f"Endpoint {endpoint}/{sub_endpoint} not found in endpoints.")
+                return None
+            url = NBAParams.build_url(self.endpoints[endpoint][sub_endpoint])
+        else:
+            if endpoint not in self.endpoints:
+                logging.error(f"Endpoint {endpoint} not found in endpoints.")
+                return None
+            url = NBAParams.build_url(self.endpoints[endpoint])
         ua = UserAgent()
         self.session.headers.update({'User-Agent': ua.random})
         response = None
@@ -250,17 +256,15 @@ class NBADataExtractor:
             logging.error(f"Request Error occurred: {e}")
             return None
 
-    import os
-    import pandas as pd
-    import logging
-
     def fetch_player_stats(self, endpoint, sub_endpoint, season, season_type=None, **kwargs):
         params = self.endpoints[endpoint][sub_endpoint]["params"].copy()
-        params["Season"] = season
-        params["SeasonType"] = season_type if season_type else self.season_type
+        params.update({
+            "Season": season,
+            "SeasonType": season_type if season_type else self.season_type
+        })
         for key, value in kwargs.items():
             params[key] = value
-        player_stats = self.fetch_endpoint_data(endpoint, sub_endpoint, params)
+        player_stats = self.fetch_endpoint_data(endpoint=endpoint, sub_endpoint=sub_endpoint, params=params)
         if player_stats and "resultSets" in player_stats:
             headers = player_stats["resultSets"][0]["headers"]
             rows = player_stats["resultSets"][0]["rowSet"]
@@ -286,6 +290,87 @@ class NBADataExtractor:
                     pbar.set_description(f"Processing Season {season}, Type: {season_type}")
                     self.fetch_player_stats(endpoint, sub_endpoint, season, season_type, **kwargs)
                     pbar.update(1)
+
+    def fetch_player_boxscore_for_multiple_seasons(self, season_start=None, season_end=None):
+        measure_types = ["Base", "Advanced", "Misc", "Scoring", "Usage"]
+        seasons = range(season_start if season_start else self.season_start,
+                        (season_end if season_end else self.season_end))
+        with tqdm(seasons, desc="Processing Seasons", unit="season") as pbar:
+            for season_year in pbar:
+                season = f"{season_year}-{str(season_year + 1)[-2:]}"
+                for measure_type in measure_types:
+                    params = self.endpoints["boxscore"]["params"].copy()
+                    params.update({
+                        "Season": season,
+                        "SeasonType": self.season_type,
+                        "MeasureType": measure_type
+                    })
+                    response = self.fetch_endpoint_data("boxscore", params=params)
+                    if response and "resultSets" in response:
+                        headers = response["resultSets"][0]["headers"]
+                        rows = response["resultSets"][0]["rowSet"]
+                        df = pd.DataFrame(rows, columns=headers)
+                        output_dir = "data/player/boxscores"
+                        os.makedirs(output_dir, exist_ok=True)
+                        file_path = os.path.join(output_dir,
+                                                 f"{season}_{self.season_type.lower().replace(' ', '_')}_{measure_type.lower()}.csv")
+                        if os.path.exists(file_path):
+                            existing_df = pd.read_csv(file_path)
+                            if not existing_df.equals(df):
+                                df.to_csv(file_path, index=False)
+                                pbar.set_postfix({"Status": f"Updated {measure_type}"})
+                            else:
+                                pbar.set_postfix({"Status": f"No update needed for {measure_type}"})
+                        else:
+                            df.to_csv(file_path, index=False)
+                            pbar.set_postfix({"Status": f"Saved {measure_type}"})
+                    else:
+                        logging.error(
+                            f"No data found for season {season}, type {self.season_type}, measure {measure_type}.")
+                        pbar.set_postfix({"Status": f"Failed {measure_type}"})
+                pbar.update(1)
+
+    def fetch_team_boxscore_for_multiple_seasons(self, season_start=None, season_end=None):
+        measure_types = ["Base", "Advanced", "Misc", "Scoring", "Four Factors"]
+        seasons = range(season_start if season_start else self.season_start,
+                        (season_end if season_end else self.season_end))
+        with tqdm(seasons, desc="Processing Team Seasons") as pbar:
+            for season_year in pbar:
+                season = f"{season_year}-{str(season_year + 1)[-2:]}"
+                for measure_type in measure_types:
+                    params = self.endpoints["boxscore"]["params"].copy()
+                    params.update({
+                        "Season": season,
+                        "SeasonType": self.season_type,
+                        "MeasureType": measure_type
+                    })
+                    response = self.fetch_endpoint_data("boxscore", params=params)
+                    if response and "resultSets" in response:
+                        headers = response["resultSets"][0]["headers"]
+                        rows = response["resultSets"][0]["rowSet"]
+                        df = pd.DataFrame(rows, columns=headers)
+                        output_dir = "data/teams/boxscores"
+                        os.makedirs(output_dir, exist_ok=True)
+                        file_path = os.path.join(output_dir,
+                                                 f"{season}_{self.season_type.lower().replace(' ', '_')}_{measure_type.lower()}.csv")
+                        if os.path.exists(file_path):
+                            existing_df = pd.read_csv(file_path)
+                            if not existing_df.equals(df):
+                                df.to_csv(file_path, index=False)
+                                pbar.set_postfix({"Status": f"Updated {measure_type}"})
+                            else:
+                                pbar.set_postfix({"Status": f"No update needed for {measure_type}"})
+                        else:
+                            df.to_csv(file_path, index=False)
+                            pbar.set_postfix({"Status": f"Saved {measure_type}"})
+                    else:
+                        logging.error(
+                            f"No data found for season {season}, type {self.season_type}, measure {measure_type}.")
+                        pbar.set_postfix({"Status": f"Failed {measure_type}"})
+                    time.sleep(self.delay)
+
+                pbar.update(1)
+                time.sleep(self.delay)
 
     def close_session(self):
         self.session.close()
