@@ -42,7 +42,7 @@ CREATE TABLE "game" (
 
 CREATE TABLE "player_boxscore" (
   "boxscore_id" INTEGER PRIMARY KEY,
-  "season_year" INTEGER,
+  "season_year" VARCHAR(20),
   "player_id" INTEGER,
   "team_id" INTEGER,
   "game_id" INTEGER,

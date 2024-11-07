@@ -6,8 +6,6 @@ from psycopg2.extras import execute_values
 def clean_csv(file_path):
     df = pd.read_csv(file_path)
 
-    df = df[df.columns.drop(list(df.filter(regex='rank|fantasy')))]
-
     print("\nNombre de valeurs manquantes par colonne :")
     print(df.isna().sum())
     
@@ -23,8 +21,6 @@ def clean_csv(file_path):
     print("Types de données avant conversion :")
     print(df.dtypes)
 
-    print(df['GAME_ID'].is_unique)  
-
     return df
 
 # Connexion à PostgreSQL
@@ -39,7 +35,7 @@ def connect_db():
 
 # Insertion des données games
 def load_game_data(data):
-    print(data.describe())
+
     conn = connect_db()
     cursor = conn.cursor()
     

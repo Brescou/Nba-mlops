@@ -36,8 +36,6 @@ def convert_height_to_inches(height_str):
 def clean_csv(file_path):
     df = pd.read_csv(file_path)
 
-    df = df[df.columns.drop(list(df.filter(regex='rank|fantasy')))]
-
     df = df.where(pd.notnull(df), None)
 
     df['IS_DEFUNCT'] = df['IS_DEFUNCT'].apply(lambda x: True if x == 1 else (False if x == 0 else None))
