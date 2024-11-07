@@ -1,7 +1,6 @@
 
 import psycopg2
 
-# Configuration de la connexion
 db_params = {
     "host": "localhost",
     "port": "5432",
@@ -10,7 +9,6 @@ db_params = {
     "password": "postgres"
 }
 
-# Connexion à PostgreSQL
 try:
     conn = psycopg2.connect(**db_params)
     conn.autocommit = True
@@ -19,7 +17,6 @@ try:
 except Exception as e:
     print(f"Erreur de connexion: {e}")
 
-# Option 1 : Supprimer le schéma si nécessaire avant de le recréer
 try:
     cursor.execute("DROP SCHEMA IF EXISTS public CASCADE;")
     cursor.execute("CREATE SCHEMA public;")
@@ -27,7 +24,6 @@ try:
 except Exception as e:
     print(f"Erreur lors de la suppression du schéma: {e}")
 
-# Charger le schéma SQL
 try:
     with open("./first-extract/NbaBD.sql", "r") as file:
         schema_sql = file.read()
@@ -37,6 +33,5 @@ except Exception as e:
     print(f"Erreur lors du chargement du schéma: {e}")
 
 
-# Fermer la connexion
 cursor.close()
 conn.close()

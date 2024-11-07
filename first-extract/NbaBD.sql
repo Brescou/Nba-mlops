@@ -33,12 +33,11 @@ CREATE TABLE "team" (
 
 CREATE TABLE "game" (
   "game_id" INTEGER PRIMARY KEY,
-  "season_year" INTEGER,
+  "season_year" VARCHAR(20),
   "date" DATE,
   "home_team_id" INTEGER,
   "away_team_id" INTEGER,
-  "result" VARCHAR(20),
-  "created_at" TIMESTAMP
+  "result" VARCHAR(20)
 );
 
 CREATE TABLE "player_boxscore" (
