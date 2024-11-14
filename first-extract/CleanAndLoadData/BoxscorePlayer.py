@@ -22,7 +22,7 @@ def clean_csv(file_path):
 
     df = df.drop_duplicates() 
 
-    df['BOXSCORE_ID'] = range(1, len(df) + 1)
+    df['BOXSCORE_ID'] = df['PLAYER_ID'].astype(str) + df['GAME_ID'].astype(str)
 
     print(df.describe())
 
@@ -46,10 +46,6 @@ def load_boxscore_data(data):
     
     boxscore_df = data[['BOXSCORE_ID','SEASON_YEAR', 'PLAYER_ID', 'TEAM_ID', 'GAME_ID', 'GAME_DATE', 
                       'MATCHUP', 'WL', 'MIN']]
-    
-    boxscoreBase_df = data[["BOXSCORE_ID", "FGM", "FGA", "FG_PCT", "FG3M", "FG3A", "FG3_PCT", 
-    "FTM", "FTA", "FT_PCT", "OREB", "DREB", "REB", "AST", "TOV","STL", "BLK", "BLKA", "PF", "PFD",
-    "PTS", "PLUS_MINUS", "DD2","TD3", "MIN_SEC"]]
 
     num_boxscores = data['BOXSCORE_ID'].nunique()
 
