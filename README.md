@@ -3,7 +3,7 @@
 This project is a visualisation tools for NBA data with MLops practices top keep it updated and running.
 
 ## Installation 
-
+Use Python 3.11
 ```bash
 pip install -r requirements.txt
 ```
