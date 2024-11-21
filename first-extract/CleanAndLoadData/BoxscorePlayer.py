@@ -100,7 +100,7 @@ for csv_file in boxscoreScoringCSV:
 
         df_boxscore_scoring = data[columns_boxscoreScoring]
 
-        # Charger les données dans la scoring de données
+        # Charger les données scoring
         with DB() as db:
             db.load_data_from_dataframe("player_boxscore_scoring", df_boxscore_scoring)
 
@@ -119,6 +119,26 @@ for csv_file in boxscoreUsageCSV:
 
         df_boxscore_usage = data[columns_boxscoreUsage]
 
-        # Charger les données dans la usage de données
+        # Charger les données usage 
         with DB() as db:
             db.load_data_from_dataframe("player_boxscore_usage", df_boxscore_usage)
+
+boxscoreAdvancedCSV = Get_all_csv("./first-extract/data/player/boxscores/", "advanced")
+
+for csv_file in boxscoreAdvancedCSV:
+        print(f"Traitement du fichier : {csv_file}")
+                
+        data = clean_csv(csv_file)
+
+        columns_boxscoreAdvanced = [
+            "BOXSCORE_ID", "E_OFF_RATING", "OFF_RATING", "sp_work_OFF_RATING",
+            "E_DEF_RATING", "DEF_RATING", "sp_work_DEF_RATING", "E_NET_RATING", "NET_RATING",
+            "sp_work_NET_RATING", "AST_PCT", "AST_TO", "AST_RATIO", "OREB_PCT", "DREB_PCT",
+            "REB_PCT", "TM_TOV_PCT", "E_TOV_PCT", "EFG_PCT", "TS_PCT", "USG_PCT", "PACE", "PIE"
+        ]
+
+        df_boxscore_advanced = data[columns_boxscoreAdvanced]
+
+        # Charger les données advanced 
+        with DB() as db:
+            db.load_data_from_dataframe("player_boxscore_advanced", df_boxscore_advanced)

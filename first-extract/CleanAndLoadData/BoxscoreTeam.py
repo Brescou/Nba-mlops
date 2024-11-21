@@ -25,20 +25,12 @@ def clean_csv(file_path):
     df = pd.read_csv(file_path)
 
     df = df[df.columns.drop(list(df.filter(regex='RANK|FANTASY')))]
-
-    print("\nNombre de valeurs manquantes par colonne :")
-    print(df.isna().sum())
     
     df = df.where(pd.notnull(df), None)
-
-    print("\nNombre de doublons dans le DataFrame :")
-    print(df.duplicated().sum())
 
     df = df.drop_duplicates() 
 
     df['BOXSCORE_ID'] = df['TEAM_ID'].astype(str) + '-' + df['GAME_ID'].astype(str)
-
-    print(df.describe())
 
     return df
 

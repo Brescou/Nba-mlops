@@ -13,7 +13,7 @@ alter table public.team owner to postgres;
 
 create table public.game
 (
-    game_id integer not null primary key,
+    game_id      varchar(225) not null primary key,
     season_year  varchar(20),
     date  date,
     home_team_id integer references public.team,
@@ -57,7 +57,7 @@ create table public.player_boxscore
     season_year varchar(20),
     player_id   integer references public.player,
     team_id     integer references public.team,
-    game_id     integer references public.game,
+    game_id     varchar(225) references public.game,
     game_date   date,
     matchup     varchar(100),
     wl          char,
@@ -71,28 +71,28 @@ alter table public.player_boxscore owner to postgres;
 create table public.player_boxscore_advanced
 (
     boxscore_id        varchar(225) not null primary key references public.player_boxscore,
-    e_off_rating       numeric(5, 2),
-    off_rating         numeric(5, 2),
-    sp_work_off_rating numeric(5, 2),
-    e_def_rating       numeric(5, 2),
-    def_rating         numeric(5, 2),
-    sp_work_def_rating numeric(5, 2),
-    e_net_rating       numeric(5, 2),
-    net_rating         numeric(5, 2),
-    sp_work_net_rating numeric(5, 2),
-    ast_pct            numeric(5, 2),
-    ast_to             numeric(5, 2),
-    ast_ratio          numeric(5, 2),
-    oreb_pct           numeric(5, 2),
-    dreb_pct           numeric(5, 2),
-    reb_pct            numeric(5, 2),
-    tm_tov_pct         numeric(5, 2),
-    e_tov_pct          numeric(5, 2),
-    efg_pct            numeric(5, 2),
-    ts_pct             numeric(5, 2),
-    usg_pct            numeric(5, 2),
-    pace               numeric(5, 2),
-    pie                numeric(5, 2)
+    e_off_rating       numeric(7, 4),
+    off_rating         numeric(7, 4),
+    sp_work_off_rating numeric(7, 4),
+    e_def_rating       numeric(7, 4),
+    def_rating         numeric(7, 4),
+    sp_work_def_rating numeric(7, 4),
+    e_net_rating       numeric(7, 4),
+    net_rating         numeric(7, 4),
+    sp_work_net_rating numeric(7, 4),
+    ast_pct            numeric(7, 4),
+    ast_to             numeric(7, 4),
+    ast_ratio          numeric(7, 4),
+    oreb_pct           numeric(7, 4),
+    dreb_pct           numeric(7, 4),
+    reb_pct            numeric(7, 4),
+    tm_tov_pct         numeric(7, 4),
+    e_tov_pct          numeric(7, 4),
+    efg_pct            numeric(7, 4),
+    ts_pct             numeric(7, 4),
+    usg_pct            numeric(7, 4),
+    pace               numeric(7, 4),
+    pie                numeric(7, 4)
 );
 
 alter table public.player_boxscore_advanced owner to postgres;
@@ -205,7 +205,7 @@ create table public.team_boxscore
     boxscore_id varchar(225) not null primary key,
     season_year  varchar(20),
     team_id     integer references public.team,
-    game_id     integer references public.game,
+    game_id     varchar(225) references public.game,
     game_date   date,
     matchup     varchar(100),
     wl          char,
@@ -315,3 +315,35 @@ create table public.team_boxscore_scoring
 
 alter table public.team_boxscore_scoring owner to postgres;
 
+create table play_by_play
+(
+    play_id       serial primary key,
+    game_id       varchar(225) not null,
+    action_id     integer      NOT NULL,
+    action_number integer,
+    clock         TIME,
+    elapsed       INTERVAL,
+    period        integer      NOT NULL,
+    team_id       integer      NOT NULL,
+    player_id     integer,
+    x_legacy      integer,
+    y_legacy      integer,
+    shot_distance integer,
+    shot_result   varchar(20),
+    is_field_goal boolean,
+    score_home    integer,
+    score_away    integer,
+    points_total  integer,
+    location      varchar(5),
+    description   text,
+    action_type   varchar(50),
+    sub_type      varchar(50),
+    shot_value    integer,
+    FOREIGN KEY (game_id) REFERENCES game (game_id),
+    FOREIGN KEY (team_id) REFERENCES team (team_id),
+    FOREIGN KEY (player_id) REFERENCES player (player_id)
+);
+
+CREATE INDEX idx_game_id ON play_by_play (game_id);
+CREATE INDEX idx_player_id ON play_by_play (player_id);
+CREATE INDEX idx_team_id ON play_by_play (team_id);
