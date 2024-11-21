@@ -64,7 +64,6 @@ class DB:
             logging.error(f"Error fetching data: {e}")
             return None
 
-
     def insert_bulk_data(self, table, columns, data):
         try:
             with self.connection.cursor() as cursor:
@@ -76,12 +75,26 @@ class DB:
             self.connection.rollback()
             logging.error(f"Error inserting data: {e}")
 
-    def load_data_from_dataframe(self,table,dataframe):
+    def insert_one_row(self, table, columns, data_row):
+        try:
+            with self.connection.cursor() as cursor:
+                query = f"INSERT INTO {table} ({', '.join(columns)}) VALUES ({', '.join(['%s'] * len(data_row))})"
+                cursor.execute(query, data_row)
+                self.connection.commit()
+        except Exception as e:
+            self.connection.rollback()
+            logging.error(f"Error inserting row {data_row}: {e}")
+
+    # def load_data_from_dataframe(self, table, dataframe):
+    #     columns = list(dataframe.columns)
+    #     data = [tuple(x) for x in dataframe.to_numpy()]
+    #     self.insert_bulk_data(table, columns, data)
+
+
+    def load_data_from_dataframe(self, table, dataframe):
         columns = list(dataframe.columns)
-        data = [tuple(x) for x in dataframe.to_numpy()]
-        self.insert_bulk_data(table, columns, data)
-
-
+        for data_row in dataframe.itertuples(index=False, name=None):
+            self.insert_one_row(table, columns, data_row)
 
     def __enter__(self):
         self.connect()
@@ -89,5 +102,3 @@ class DB:
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.close()
-
-
