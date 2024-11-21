@@ -203,7 +203,7 @@ alter table public.player_boxscore_usage owner to postgres;
 create table public.team_boxscore
 (
     boxscore_id varchar(225) not null primary key,
-    season_year integer,
+    season_year  varchar(20),
     team_id     integer references public.team,
     game_id     integer references public.game,
     game_date   date,
@@ -217,8 +217,8 @@ alter table public.team_boxscore owner to postgres;
 create table public.team_boxscore_advanced
 (
     boxscore_id      varchar(225) not null primary key references public.team_boxscore,
-    offensive_rating numeric(5, 2),
-    defensive_rating numeric(5, 2),
+    off_rating       numeric(5, 2),
+    def_rating       numeric(5, 2),
     net_rating       numeric(5, 2),
     ast_pct          numeric(5, 2),
     ast_to           numeric(5, 2),

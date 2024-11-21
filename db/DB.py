@@ -38,6 +38,8 @@ class DB:
             logging.info("Database connection closed.")
 
     def execute_query(self, query, params=None):
+        if self.connection is None or self.connection.closed:
+           raise ConnectionError("Database connection is not established.")
         try:
             with self.connection.cursor() as cursor:
                 cursor.execute(query, params)
@@ -66,6 +68,8 @@ class DB:
 
 
     def insert_bulk_data(self, table, columns, data):
+        if self.connection is None or self.connection.closed:
+           raise ConnectionError("Database connection is not established.")
         try:
             with self.connection.cursor() as cursor:
                 query = f"INSERT INTO {table} ({', '.join(columns)}) VALUES %s"
@@ -80,8 +84,6 @@ class DB:
         columns = list(dataframe.columns)
         data = [tuple(x) for x in dataframe.to_numpy()]
         self.insert_bulk_data(table, columns, data)
-
-
 
     def __enter__(self):
         self.connect()

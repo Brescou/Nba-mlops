@@ -1,124 +1,126 @@
 import pandas as pd
-import psycopg2
-from psycopg2.extras import execute_values 
+# import psycopg2
+# from psycopg2.extras import execute_values 
+
+import sys
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))  
+parent_dir = os.path.abspath(os.path.join(current_dir, '../../'))  
+sys.path.append(os.path.join(parent_dir, 'db'))
+
+from db.DB import DB 
+
+def Get_all_csv(directory,keyword):
+    # Lister les fichiers CSV contenant "base" dans leur nom
+    csv_files = [
+        os.path.join(directory, file)
+        for file in os.listdir(directory)
+        if file.endswith(".csv") and keyword in file.lower() and "2024-25" not in file
+    ]
+
+    # Vérifier les fichiers identifiés
+    print(f"Fichiers CSV identifiés : {csv_files}")
+
+    return csv_files
 
 # Fonction de nettoyage pour un fichier CSV
 def clean_csv(file_path):
     df = pd.read_csv(file_path)
 
     df = df[df.columns.drop(list(df.filter(regex='RANK|FANTASY')))]
-
-    print("\nNombre de valeurs manquantes par colonne :")
-    print(df.isna().sum())
     
     df = df.where(pd.notnull(df), None)
 
-    df['DD2'] = df['DD2'].apply(lambda x: True if x == 1 else (False if x == 0 else None))
-
-    df['TD3'] = df['TD3'].apply(lambda x: True if x == 1 else (False if x == 0 else None))
-
-    print("\nNombre de doublons dans le DataFrame :")
-    print(df.duplicated().sum())
-
     df = df.drop_duplicates() 
 
-    df['BOXSCORE_ID'] = df['PLAYER_ID'].astype(str) + df['GAME_ID'].astype(str)
-
-    print(df.describe())
+    df['BOXSCORE_ID'] = df['PLAYER_ID'].astype(str) + '-' + df['GAME_ID'].astype(str)
 
     return df
 
-# Connexion à PostgreSQL
-def connect_db():
-    conn = psycopg2.connect(
-        host="localhost",
-        database="nba_db",
-        user="postgres",
-        password="postgres"
-    )
-    return conn
+# boxscoreBaseCSV = Get_all_csv("./first-extract/data/player/boxscores/", "base")
 
-# Insertion des données boxscores
-def load_boxscore_data(data):
+# for csv_file in boxscoreBaseCSV:
+#         print(f"Traitement du fichier : {csv_file}")
+                
+#         data = clean_csv(csv_file)
 
-    conn = connect_db()
-    cursor = conn.cursor()
-    
-    boxscore_df = data[['BOXSCORE_ID','SEASON_YEAR', 'PLAYER_ID', 'TEAM_ID', 'GAME_ID', 'GAME_DATE', 
-                      'MATCHUP', 'WL', 'MIN']]
+#         data['DD2'] = data['DD2'].apply(lambda x: True if x == 1 else (False if x == 0 else None))
 
-    num_boxscores = data['BOXSCORE_ID'].nunique()
+#         data['TD3'] = data['TD3'].apply(lambda x: True if x == 1 else (False if x == 0 else None))
 
-    print(f"Nombre de boxscore dans le DataFrame : {num_boxscores}")
+#         columns_boxscore = [
+#             "BOXSCORE_ID", "SEASON_YEAR", "TEAM_ID", "GAME_ID", "GAME_DATE",
+#             "MATCHUP", "WL", "MIN"
+#             ]
+#         df_boxscore = data[columns_boxscore]
 
-    insertBoxscore_query = """
-        INSERT INTO player_boxscore (boxscore_id, season_year, player_id, team_id, game_id, game_date, matchup, wl, min)
-        VALUES %s
-        ON CONFLICT (boxscore_id) DO NOTHING
-    """
- 
-    values_boxscore = [( row['BOXSCORE_ID'], row['SEASON_YEAR'], row['PLAYER_ID'], row['TEAM_ID'], row['GAME_ID'], row['GAME_DATE'], 
-    row['MATCHUP'], row['WL'], row['MIN']
-    ) for index, row in boxscore_df.iterrows()]
+#         columns_boxscoreBase = [
+#             "BOXSCORE_ID", "FGM", "FGA", "FG_PCT", "FG3M", "FG3A", "FG3_PCT", 
+#             "FTM", "FTA", "FT_PCT", "OREB", "DREB", "REB", "AST", "TOV","STL", "BLK", "BLKA", "PF", "PFD",
+#             "PTS", "PLUS_MINUS", "DD2","TD3", "MIN_SEC"
+#         ]
+#         df_boxscore_base = data[columns_boxscoreBase]
 
-    try:
-        execute_values(cursor, insertBoxscore_query, values_boxscore)
-        print("Les informations des boxscores ont été insérées avec succès")
-        conn.commit()
-    except Exception as e:
-        print(f"Erreur lors de l'insertion des informations des boxscores : {e}")
+#         # Charger les données dans la base de données
+#         with DB() as db:
+#             db.load_data_from_dataframe("player_boxscore", df_boxscore)
+#             db.load_data_from_dataframe("player_boxscore_base", df_boxscore_base)
 
-    try:
-        cursor.execute("SELECT COUNT(*) FROM player_boxscore")
-        game_count = cursor.fetchone()[0]
-        print(f"Nombre de boxscores dans la base de données : {game_count}")
-    except Exception as e:
-        print(f"Erreur lors de la récupération du nombre de boxscores : {e}")
+# boxscoreMiscCSV = Get_all_csv("./first-extract/data/player/boxscores/", "misc")
 
-    cursor.close()
-    conn.close()
+# for csv_file in boxscoreMiscCSV:
+#         print(f"Traitement du fichier : {csv_file}")
+                
+#         data = clean_csv(csv_file)
 
-# Insertion des données boxscores base
-def load_boxscoreBase_data(data):
+#         columns_boxscoreMisc = [
+#             "BOXSCORE_ID","PTS_OFF_TOV","PTS_2ND_CHANCE","PTS_FB","PTS_PAINT","OPP_PTS_OFF_TOV",
+#             "OPP_PTS_2ND_CHANCE","OPP_PTS_FB","OPP_PTS_PAINT","BLK",
+#             "BLKA","PF","PFD","MIN_SEC"
+#         ]
 
-    conn = connect_db()
-    cursor = conn.cursor()
-    
-    boxscoreBase_df = data[["BOXSCORE_ID", "FGM", "FGA", "FG_PCT", "FG3M", "FG3A", "FG3_PCT", 
-    "FTM", "FTA", "FT_PCT", "OREB", "DREB", "REB", "AST", "TOV","STL", "BLK", "BLKA", "PF", "PFD",
-    "PTS", "PLUS_MINUS", "DD2","TD3", "MIN_SEC"]]
+#         df_boxscore_misc = data[columns_boxscoreMisc]
 
-    insertBoxscoreBase_query = """
-        INSERT INTO player_boxscore_base (boxscore_id, fgm, fga, fg_pct, fg3m, fg3a, fg3_pct, ftm, fta, ft_pct, oreb, 
-        dreb, reb, ast, tov, stl, blk, blka, pf, pfd, pts, plus_minus, dd2, td3, min_sec)
-        VALUES %s
-        ON CONFLICT (boxscore_id) DO NOTHING
-    """
- 
-    values_boxscoreBase = [( row['BOXSCORE_ID'], row['FGM'], row['FGA'], row['FG_PCT'], row['FG3M'], row['FG3A'], row['FG3_PCT'], 
-        row['FTM'], row['FTA'], row['FT_PCT'], row['OREB'], row['DREB'], row['REB'],
-        row['AST'], row['TOV'], row['STL'], row['BLK'], row['BLKA'], row['PF'], row['PFD'],
-        row['PTS'], row['PLUS_MINUS'], row['DD2'], row['TD3'], row['MIN_SEC']
-    ) for index, row in boxscoreBase_df.iterrows()]
+#         # Charger les données dans la misc de données
+#         with DB() as db:
+#             db.load_data_from_dataframe("player_boxscore_misc", df_boxscore_misc)
 
-    try:
-        execute_values(cursor, insertBoxscoreBase_query, values_boxscoreBase)
-        print("Les informations des boxscores Base ont été insérées avec succès")
-        conn.commit()
-    except Exception as e:
-        print(f"Erreur lors de l'insertion des informations des boxscores Base : {e}")
+# boxscoreScoringCSV = Get_all_csv("./first-extract/data/player/boxscores/", "scoring")
 
-    try:
-        cursor.execute("SELECT COUNT(*) FROM player_boxscore_base")
-        base_count = cursor.fetchone()[0]
-        print(f"Nombre de boxscores bases dans la base de données : {base_count}")
-    except Exception as e:
-        print(f"Erreur lors de la récupération du nombre de boxscores bases : {e}")
+# for csv_file in boxscoreScoringCSV:
+#         print(f"Traitement du fichier : {csv_file}")
+                
+#         data = clean_csv(csv_file)
 
-    cursor.close()
-    conn.close()
+#         columns_boxscoreScoring = [
+#             'BOXSCORE_ID', 'PCT_FGA_2PT', 'PCT_FGA_3PT', 'PCT_PTS_2PT', 'PCT_PTS_2PT_MR',
+#             'PCT_PTS_3PT', 'PCT_PTS_FB', 'PCT_PTS_FT', 'PCT_PTS_OFF_TOV', 'PCT_PTS_PAINT',
+#             'PCT_AST_2PM', 'PCT_UAST_2PM', 'PCT_AST_3PM', 'PCT_UAST_3PM', 'PCT_AST_FGM',
+#             'PCT_UAST_FGM', 'FGM', 'FGA', 'FG_PCT', 'MIN_SEC'
+#         ]
 
+#         df_boxscore_scoring = data[columns_boxscoreScoring]
 
-data = clean_csv("./first-extract/data/player/boxscores/2023-24_regular_season_base.csv")
-load_boxscore_data(data)
-load_boxscoreBase_data(data)
+#         # Charger les données dans la scoring de données
+#         with DB() as db:
+#             db.load_data_from_dataframe("player_boxscore_scoring", df_boxscore_scoring)
+
+boxscoreUsageCSV = Get_all_csv("./first-extract/data/player/boxscores/", "usage")
+
+for csv_file in boxscoreUsageCSV:
+        print(f"Traitement du fichier : {csv_file}")
+                
+        data = clean_csv(csv_file)
+
+        columns_boxscoreUsage = [
+            'BOXSCORE_ID', 'USG_PCT', 'PCT_FGM', 'PCT_FGA', 'PCT_FG3M', 'PCT_FG3A', 
+            'PCT_FTM', 'PCT_FTA', 'PCT_OREB', 'PCT_DREB', 'PCT_REB', 'PCT_AST', 
+            'PCT_TOV', 'PCT_STL', 'PCT_BLK', 'PCT_BLKA', 'PCT_PF', 'PCT_PFD', 'PCT_PTS', 'MIN_SEC'
+        ]
+
+        df_boxscore_usage = data[columns_boxscoreUsage]
+
+        # Charger les données dans la usage de données
+        with DB() as db:
+            db.load_data_from_dataframe("player_boxscore_usage", df_boxscore_usage)
