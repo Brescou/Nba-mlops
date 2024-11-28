@@ -1,6 +1,13 @@
 import streamlit as st
 
-st.title("Games lists page")
+from db.DB import DB
+
+st.title("NBA Games")
+
+db_instance = DB()
+db_instance.connect()
+
+
 
 with st.container():
     pass
