@@ -1,120 +1,118 @@
 import os
+from datetime import timedelta
+
 import pandas as pd
 from db.DB import DB
 import logging
 
 logging.basicConfig(level=logging.INFO)
 
-# Instance de la base de données
-db_instance = DB()
-db_instance.connect()
 
-
-def clean_csv(file_path):
-    df = pd.read_csv(file_path)
-    df = df.where(pd.notnull(df), None)
-    df['HEIGHT'] = df['HEIGHT'].apply(convert_height_to_inches)
-    df['ROSTER_STATUS'] = df['ROSTER_STATUS'].apply(convert_roster_status)
-    df['JERSEY_NUMBER'] = df['JERSEY_NUMBER'].apply(clean_jersey_number)
-    return df
-
-
-def clean_jersey_number(jersey_number):
-    if isinstance(jersey_number, str) and '-' in jersey_number:
-        return int(jersey_number.split('-')[0])
-    elif str(jersey_number).isdigit():
-        return int(jersey_number)
-    return None
-
-
-def convert_roster_status(value):
-    if value == 'NaN' or pd.isna(value):
+def parse_clock_to_time(clock_str):
+    try:
+        time_part = clock_str[2:].split("M")
+        minutes = int(time_part[0]) if len(time_part) > 0 else 0
+        seconds = float(time_part[1].replace("S", "")) if len(time_part) > 1 else 0
+        return f"{minutes:02}:{int(seconds):02}"
+    except Exception as e:
+        logging.error(f"Error parsing clock: {clock_str} - {e}")
         return None
-    elif value == 1.0 or value == 1:
-        return True
-    elif value == 0.0 or value == 0:
-        return False
-    return None
 
 
-def convert_height_to_inches(height_str):
-    if isinstance(height_str, str) and '-' in height_str:
-        feet, inches = height_str.split('-')
-        try:
-            feet = int(feet)
-            inches = int(inches)
-            total_inches = feet * 12 + inches
-            return total_inches
-        except ValueError:
-            return None
-    return None
+def parse_elapsed_to_interval(clock_value):
+    try:
+        minutes, seconds = map(int, clock_value.split(":"))
+        return f"{minutes} minutes {seconds} seconds"
+    except Exception as e:
+        logging.error(f"Error parsing elapsed: {clock_value} - {e}")
+        return None
 
 
-def load_player_data(file_path):
-    data = clean_csv(file_path)
-    players_df = data[[
-        'PERSON_ID', 'PLAYER_FIRST_NAME', 'PLAYER_LAST_NAME', 'PLAYER_SLUG', 'TEAM_ID',
-        'IS_DEFUNCT', 'JERSEY_NUMBER', 'POSITION', 'HEIGHT', 'WEIGHT', 'COLLEGE', 'COUNTRY',
-        'DRAFT_YEAR', 'DRAFT_ROUND', 'DRAFT_NUMBER', 'ROSTER_STATUS', 'PTS', 'REB', 'AST',
-        'STATS_TIMEFRAME', 'FROM_YEAR', 'TO_YEAR'
-    ]]
-    db_instance.insert_bulk_data(
-        table="player",
-        columns=[
-            "player_id", "firstname", "lastname", "player_slug", "team_id", "is_defunct", "jersey_number",
-            "position", "height", "weight", "college", "country", "draft_year", "draft_round",
-            "draft_number", "roster_status", "points", "rebounds", "assists", "stats_timeframe",
-            "from_year", "to_year"
-        ],
-        data=players_df.to_records(index=False)
-    )
-    logging.info("Les joueurs ont été insérés avec succès.")
+def load_play_by_play_data(seasons=[]):
+    base_path = os.path.abspath(os.path.join(os.getcwd(), "..")) + "/data/game/"
+    db_instance = DB()
+    db_instance.connect()
+    if not os.path.exists(base_path):
+        logging.error("Base path does not exist.")
+        return
+    try:
+        for season in seasons:
+            season_path = os.path.join(base_path, season)
+            if not os.path.exists(season_path):
+                logging.warning(f"Season path does not exist: {season_path}")
+                continue
+            for subfolder in ["playoffs", "regular_season"]:
+                subfolder_path = os.path.join(season_path, subfolder)
+                if not os.path.exists(subfolder_path):
+                    logging.warning(f"Subfolder path does not exist: {subfolder_path}")
+                    continue
+                for root, _, files in os.walk(subfolder_path):
+                    for file in files:
+                        if file.endswith(".csv"):
+                            csv_path = os.path.join(root, file)
+                            logging.info(f"Processing file: {csv_path}")
+                            game_id = str(file.split(".")[0])
+                            df = pd.read_csv(csv_path)
+                            df["game_id"] = game_id
+                            df["clock"] = df["clock"].apply(parse_clock_to_time)
+                            df["elapsed"] = df["clock"].apply(parse_elapsed_to_interval)
+                            df.rename(columns={
+                                "actionId": "action_id",
+                                "actionNumber": "action_number",
+                                "period": "period",
+                                "teamId": "team_id",
+                                "personId": "player_id",
+                                "xLegacy": "x_legacy",
+                                "yLegacy": "y_legacy",
+                                "shotDistance": "shot_distance",
+                                "isFieldGoal": "is_field_goal",
+                                "scoreHome": "score_home",
+                                "scoreAway": "score_away",
+                                "pointsTotal": "points_total",
+                                "location": "location",
+                                "description": "description",
+                                "actionType": "action_type",
+                                "subType": "sub_type",
+                                "shotValue": "shot_value"
+                            }, inplace=True)
 
+                            df["is_field_goal"] = df["is_field_goal"].apply(
+                                lambda x: bool(x) if pd.notnull(x) else None)
 
-def load_team_data(data):
-    teams_df = data[['TEAM_ID', 'TEAM_NAME', 'TEAM_CITY', 'TEAM_ABBREVIATION', 'TEAM_SLUG']].drop_duplicates()
-    db_instance.insert_bulk_data(
-        table="team",
-        columns=["team_id", "name", "city", "abbreviation", "slug"],
-        data=teams_df.to_records(index=False)
-    )
-    logging.info("Les équipes ont été insérées avec succès.")
+                            df["player_id"] = df["player_id"].apply(lambda x: None if x == 0 else x)
+                            df["team_id"] = df["team_id"].apply(lambda x: None if x == 0 else x)
+                            df['player_id'] = df['player_id'].astype(float).astype('Int64')
+                            df['team_id'] = df['team_id'].astype(float).astype('Int64')
+                            # if action_type is TimeOut, then team_id = player_id and player_id = None
+                            timeout_condition = df["action_type"] == "Timeout"
+                            df.loc[timeout_condition, "team_id"] = df.loc[timeout_condition, "player_id"]
+                            df.loc[timeout_condition, "player_id"] = None
 
+                            #  get team_id
+                            team_id = df["team_id"].dropna().unique()
+                            # when team_id is null , but player_id is not but have one of the team_id , put it in team_id and do player_id = None
+                            df.loc[
+                                df["team_id"].isnull() & df["player_id"].notnull() & df["player_id"].isin(team_id),
+                                "team_id"
+                            ] = df.loc[
+                                df["team_id"].isnull() & df["player_id"].notnull() & df["player_id"].isin(team_id),
+                                "player_id"
+                            ]
+                            df.loc[
+                                df["team_id"].notnull() & df["player_id"].isin(team_id),
+                                "player_id"
+                            ] = None
 
-def load_game_data(file_path):
-    df = pd.read_csv(file_path, dtype={'GAME_ID': str})
-    df = df.where(pd.notnull(df), None)
-    df['RESULT'] = df.apply(lambda row: 'HOME' if row['HOME_WL'] == 'W' else 'AWAY', axis=1)
-    games_df = df[['GAME_ID', 'SEASON_YEAR', 'GAME_DATE', 'HOME_TEAM_ID', 'AWAY_TEAM_ID', 'RESULT']]
-    db_instance.insert_bulk_data(
-        table="game",
-        columns=["game_id", "season_year", "date", "home_team_id", "away_team_id", "result"],
-        data=games_df.to_records(index=False)
-    )
-    logging.info("Les matchs ont été insérés avec succès.")
+                            df.drop(
+                                columns=["teamTricode", "playerName", "playerNameI", "videoAvailable", "shotResult"],
+                                inplace=True)
+                            db_instance.load_data_from_dataframe("play_by_play", df)
 
-
-def load_play_by_play_data():
-    play_by_play_dir = "../data/game"
-    for root, _, files in os.walk(play_by_play_dir):
-        for file in files:
-            if file.endswith(".csv"):
-                file_path = os.path.join(root, file)
-                df = pd.read_csv(file_path)
-                df['game_id'] = os.path.splitext(file)[0]
-                db_instance.load_data_from_dataframe("play_by_play", df)
-                logging.info(f"Données de {file} insérées avec succès.")
+    except Exception as e:
+        logging.error(f"Error loading play-by-play data: {e}")
+    finally:
+        db_instance.close()
 
 
 if __name__ == "__main__":
-    player_data = clean_csv("../data/player_bios.csv")
-    load_player_data("../data/player_bios.csv")
-    load_team_data(player_data)
-
-    regular_games = pd.read_csv("../data/game/regular_season_game_logs.csv")
-    playoff_games = pd.read_csv("../data/game/playoffs_game_logs.csv")
-    load_game_data(pd.concat([regular_games, playoff_games], ignore_index=True))
-
-    load_play_by_play_data()
-
-    db_instance.close()
+    load_play_by_play_data(['2021-22', '2022-23', '2023-24'])

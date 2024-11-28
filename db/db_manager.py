@@ -8,7 +8,7 @@ DB_NAME = "nba_db"
 DB_USER = "postgres"
 DB_PASSWORD = "postgres"
 
-BACKUP_DIR = "../db_backups"
+BACKUP_DIR = "db/db_backups"
 DDL_FILE = "db/NbaBD.sql"
 
 

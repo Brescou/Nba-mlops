@@ -1,5 +1,7 @@
 import os
 
+import numpy as np
+import pandas as pd
 import psycopg2
 
 import logging
@@ -93,7 +95,8 @@ class DB:
 
     def load_data_from_dataframe(self, table, dataframe):
         columns = list(dataframe.columns)
-        for data_row in dataframe.itertuples(index=False, name=None):
+        for data_row in dataframe.itertuples(index=False):
+            data_row = [int(x) if isinstance(x, np.int64) else (x if pd.notna(x) else None) for x in data_row]
             self.insert_one_row(table, columns, data_row)
 
     def __enter__(self):

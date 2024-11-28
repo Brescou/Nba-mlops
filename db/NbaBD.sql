@@ -338,12 +338,11 @@ create table play_by_play
     clock         TIME,
     elapsed       INTERVAL,
     period        integer      NOT NULL,
-    team_id       integer      NOT NULL,
+    team_id       integer,
     player_id     integer,
     x_legacy      integer,
     y_legacy      integer,
     shot_distance integer,
-    shot_result   varchar(20),
     is_field_goal boolean,
     score_home    integer,
     score_away    integer,
@@ -357,7 +356,6 @@ create table play_by_play
     FOREIGN KEY (team_id) REFERENCES team (team_id),
     FOREIGN KEY (player_id) REFERENCES player (player_id)
 );
-
 CREATE INDEX idx_game_id ON play_by_play (game_id);
 CREATE INDEX idx_player_id ON play_by_play (player_id);
 CREATE INDEX idx_team_id ON play_by_play (team_id);
