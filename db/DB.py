@@ -7,6 +7,8 @@ import psycopg2
 import logging
 
 from psycopg2.extras import execute_values
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
 
 logging.basicConfig(level=logging.INFO)
 
@@ -19,6 +21,8 @@ class DB:
         self.host = os.getenv("DB_HOST", "localhost")
         self.port = os.getenv("DB_PORT", "5432")
         self.connection = None
+        self.engine = None
+        self.Session = None
 
     def connect(self):
         if self.connection is None or self.connection.closed:
@@ -31,6 +35,9 @@ class DB:
                     port=self.port
                 )
                 logging.info("Database connection established.")
+                db_url = f"postgresql://{self.user}:{self.password}@{self.host}:{self.port}/{self.dbname}"
+                self.engine = create_engine(db_url)
+                self.Session = sessionmaker(bind=self.engine)
             except Exception as e:
                 logging.error(f"Error connecting to database: {e}")
 
@@ -38,6 +45,12 @@ class DB:
         if self.connection and not self.connection.closed:
             self.connection.close()
             logging.info("Database connection closed.")
+        if self.engine:
+            self.engine.dispose()
+            logging.info("Database engine disposed.")
+        if self.Session:
+            self.Session.close_all()
+            logging.info("Database session closed.")
 
     def execute_query(self, query, params=None):
         try:
@@ -66,6 +79,14 @@ class DB:
             logging.error(f"Error fetching data: {e}")
             return None
 
+    def fetch_dataframe(self, query):
+        try:
+            with self.engine.connect() as connection:
+                return pd.read_sql_query(query, con=connection)
+        except Exception as e:
+            logging.error(f"Error fetching dataframe: {e}")
+            return None
+
     def insert_bulk_data(self, table, columns, data):
         try:
             with self.connection.cursor() as cursor:
@@ -91,7 +112,6 @@ class DB:
     #     columns = list(dataframe.columns)
     #     data = [tuple(x) for x in dataframe.to_numpy()]
     #     self.insert_bulk_data(table, columns, data)
-
 
     def load_data_from_dataframe(self, table, dataframe):
         columns = list(dataframe.columns)
