@@ -1,15 +1,12 @@
 import pandas as pd
 import streamlit as st
 from db.DB import DB
-from utils.utils import draw_court, fetch_game_details, fetch_play_by_play, get_unique_key_id
+from utils.utils import draw_court, fetch_game_details, fetch_play_by_play
 import matplotlib.pyplot as plt
-from matplotlib.patches import Circle, Rectangle, Arc
 import logging
 import time
 
 logging.basicConfig(level=logging.INFO)
-
-
 
 st.title("Game Details")
 
@@ -230,18 +227,45 @@ else:
             with stat_tabs[1]:
                 query = """
                     SELECT 
+                        CONCAT(p.firstname, ' ', p.lastname) as player_name,
                         t.name as team_name,
-                        ta.*
-                    FROM team_boxscore_advanced ta
-                    JOIN team_boxscore tbs ON ta.boxscore_id = tbs.boxscore_id
-                    JOIN team t ON tbs.team_id = t.team_id
-                    WHERE tbs.game_id = %s AND tbs.team_id IN (%s, %s)
+                        pba.off_rating,
+                        pba.def_rating,
+                        pba.net_rating,
+                        pba.ast_pct,
+                        pba.ast_to,
+                        pba.ast_ratio,
+                        pba.oreb_pct,
+                        pba.dreb_pct,
+                        pba.reb_pct,
+                        pba.tm_tov_pct,
+                        pba.efg_pct,
+                        pba.ts_pct,
+                        pba.usg_pct,
+                        pba.pace,
+                        pba.pie
+                    FROM player_boxscore_advanced pba
+                    JOIN player_boxscore pb ON pba.boxscore_id = pb.boxscore_id
+                    JOIN team t ON pb.team_id = t.team_id
+                    LEFT JOIN player p ON pb.player_id = p.player_id
+                    WHERE pb.game_id = %s
+                    ORDER BY t.name, player_name
                 """
-                advanced_stats = db.fetch_dataframe(query, (game_id, home_team_id, away_team_id))
-                if not advanced_stats.empty:
-                    advanced_stats = advanced_stats.drop('boxscore_id', axis=1)
+                
+                # Ajout de logging pour le debug
+                logging.info(f"Fetching advanced stats for game_id: {game_id}")
+                advanced_stats = db.fetch_dataframe(query, (game_id,))
+                logging.info(f"Advanced stats query result: {len(advanced_stats)} rows")
+                
+                if advanced_stats.empty:
+                    st.info("No advanced statistics available for this game.")
+                    logging.warning(f"No advanced stats found for game_id: {game_id}")
+                else:
+                    if 'boxscore_id' in advanced_stats.columns:
+                        advanced_stats = advanced_stats.drop('boxscore_id', axis=1)
                     
                     column_renames = {
+                        'player_name': 'Player',
                         'team_name': 'Team',
                         'off_rating': 'Offensive Rating',
                         'def_rating': 'Defensive Rating',
@@ -255,24 +279,39 @@ else:
                         'tm_tov_pct': 'Turnover %',
                         'efg_pct': 'Effective FG %',
                         'ts_pct': 'True Shooting %',
+                        'usg_pct': 'Usage %',
                         'pace': 'Pace',
                         'pie': 'Player Impact Estimate'
                     }
                     
                     advanced_stats = advanced_stats.rename(columns=column_renames)
                     
-                    all_columns = [col for col in advanced_stats.columns if col != 'Team']
+                    all_columns = [col for col in advanced_stats.columns if col not in ['Player', 'Team']]
                     selected_columns = st.multiselect(
                         "Select columns to display",
                         options=all_columns,
-                        default=all_columns,
-                        key=f"advanced_stats_columns_{game_id}"
+                        default=['Offensive Rating', 'Defensive Rating', 'Net Rating', 'Usage %'],
+                        key=f"player_advanced_stats_columns_{game_id}"
                     )
                     
-                    if 'Team' in advanced_stats.columns:
-                        st.dataframe(advanced_stats[['Team'] + selected_columns].set_index('Team'), use_container_width=True)
-                    else:
-                        st.error("Team column not found in the data.")
+                    st.dataframe(advanced_stats[['Player', 'Team'] + selected_columns].set_index(['Team', 'Player']), use_container_width=True)
+
+                    with st.expander("Explanation of Advanced Stats"):
+                        st.markdown("""
+                        - **Offensive Rating:** Points produced per 100 possessions
+                        - **Defensive Rating:** Points allowed per 100 possessions
+                        - **Net Rating:** Difference between offensive and defensive rating
+                        - **Assist % (AST%):** Percentage of teammate field goals a player assisted
+                        - **Assist/Turnover Ratio (AST/TO):** Ratio of assists to turnovers
+                        - **Assist Ratio:** Percentage of possessions ending with an assist
+                        - **Offensive/Defensive/Total Rebound % (OREB%/DREB%/REB%):** Percentage of available rebounds obtained
+                        - **Turnover % (TOV%):** Turnovers per 100 plays
+                        - **Effective FG % (eFG%):** Field goal percentage adjusted for three-pointers
+                        - **True Shooting % (TS%):** Shooting percentage adjusted for three-pointers and free throws
+                        - **Usage % (USG%):** Percentage of team plays used by player
+                        - **Pace:** Number of possessions per 48 minutes
+                        - **Player Impact Estimate (PIE):** Measure of player's overall statistical contribution
+                        """)
 
             with stat_tabs[2]:
                 query = """
@@ -449,15 +488,359 @@ else:
         
         with tab3:
             st.markdown("### Player Statistics")
+            stat_tabs = st.tabs(["Base Stats", "Advanced Stats", "Misc Stats", "Scoring Stats", "Usage Stats"])
             
+            with stat_tabs[0]:
+                # Base Stats
+                query = """
+                    SELECT 
+                        CONCAT(p.firstname, ' ', p.lastname) as player_name,
+                        t.name as team_name,
+                        pbs.*
+                    FROM player_boxscore_base pbs
+                    JOIN player_boxscore pb ON pbs.boxscore_id = pb.boxscore_id
+                    JOIN team t ON pb.team_id = t.team_id
+                    LEFT JOIN player p ON p.player_id = CAST(SPLIT_PART(pb.boxscore_id, '-', 1) AS INTEGER)
+                    WHERE pb.game_id = %s
+                    ORDER BY t.name, player_name
+                """
+                base_stats = db.fetch_dataframe(query, (game_id,))
+                
+                if base_stats.empty:
+                    st.info("No base statistics available for this game.")
+                    logging.warning(f"No base stats found for game_id: {game_id}")
+                else:
+                    base_stats = base_stats.drop('boxscore_id', axis=1)
+                    
+                    column_renames = {
+                        'player_name': 'Player',
+                        'team_name': 'Team',
+                        'fgm': 'Field Goals Made',
+                        'fga': 'Field Goals Attempted',
+                        'fg_pct': 'Field Goal %',
+                        'fg3m': '3-Point Field Goals Made',
+                        'fg3a': '3-Point Field Goals Attempted',
+                        'fg3_pct': '3-Point Field Goal %',
+                        'ftm': 'Free Throws Made',
+                        'fta': 'Free Throws Attempted',
+                        'ft_pct': 'Free Throw %',
+                        'oreb': 'Offensive Rebounds',
+                        'dreb': 'Defensive Rebounds',
+                        'reb': 'Total Rebounds',
+                        'ast': 'Assists',
+                        'tov': 'Turnovers',
+                        'stl': 'Steals',
+                        'blk': 'Blocks',
+                        'blka': 'Blocked Attempts',
+                        'pf': 'Personal Fouls',
+                        'pfd': 'Personal Fouls Drawn',
+                        'pts': 'Points',
+                        'plus_minus': 'Plus/Minus',
+                        'min_sec': 'Minutes'
+                    }
+                    
+                    base_stats = base_stats.rename(columns=column_renames)
+                    
+                    all_columns = [col for col in base_stats.columns if col not in ['Player', 'Team']]
+                    selected_columns = st.multiselect(
+                        "Select columns to display",
+                        options=all_columns,
+                        default=['Minutes', 'Points', 'Total Rebounds', 'Assists'],
+                        key=f"player_base_stats_columns_{game_id}"
+                    )
+                    
+                    st.dataframe(base_stats[['Player', 'Team'] + selected_columns].set_index(['Team', 'Player']), use_container_width=True)
+
+                    with st.expander("Explanation of Base Stats"):
+                        st.markdown("""
+                        - **Field Goals Made/Attempted (FGM/FGA):** Number of field goals made and attempted
+                        - **Field Goal % (FG%):** Percentage of field goals made
+                        - **3-Point Field Goals Made/Attempted (3PM/3PA):** Number of three-pointers made and attempted
+                        - **3-Point Field Goal % (3P%):** Percentage of three-pointers made
+                        - **Free Throws Made/Attempted (FTM/FTA):** Number of free throws made and attempted
+                        - **Free Throw % (FT%):** Percentage of free throws made
+                        - **Offensive/Defensive/Total Rebounds (OREB/DREB/REB):** Number of rebounds collected
+                        - **Assists (AST):** Number of passes leading directly to made baskets
+                        - **Turnovers (TOV):** Number of times the ball was lost to the opposing team
+                        - **Steals (STL):** Number of times the ball was stolen from the opposing team
+                        - **Blocks (BLK):** Number of opponent shots blocked
+                        - **Blocked Attempts (BLKA):** Number of times player's shots were blocked
+                        - **Personal Fouls (PF):** Number of fouls committed
+                        - **Personal Fouls Drawn (PFD):** Number of fouls drawn
+                        - **Points (PTS):** Total points scored
+                        - **Plus/Minus (+/-):** Team's point differential while player was on court
+                        """)
+
+            with stat_tabs[1]:
+                # Advanced Stats
+                query = """
+                    SELECT 
+                        CONCAT(p.firstname, ' ', p.lastname) as player_name,
+                        t.name as team_name,
+                        pba.*
+                    FROM player_boxscore_advanced pba
+                    JOIN player_boxscore pb ON pba.boxscore_id = pb.boxscore_id
+                    JOIN team t ON pb.team_id = t.team_id
+                    LEFT JOIN player p ON p.player_id = CAST(SPLIT_PART(pb.boxscore_id, '-', 1) AS INTEGER)
+                    WHERE pb.game_id = %s
+                    ORDER BY t.name, player_name
+                """
+                advanced_stats = db.fetch_dataframe(query, (game_id,))
+                
+                if advanced_stats.empty:
+                    st.info("No advanced statistics available for this game.")
+                    logging.warning(f"No advanced stats found for game_id: {game_id}")
+                else:
+                    if 'boxscore_id' in advanced_stats.columns:
+                        advanced_stats = advanced_stats.drop('boxscore_id', axis=1)
+                    
+                    column_renames = {
+                        'player_name': 'Player',
+                        'team_name': 'Team',
+                        'off_rating': 'Offensive Rating',
+                        'def_rating': 'Defensive Rating',
+                        'net_rating': 'Net Rating',
+                        'ast_pct': 'Assist %',
+                        'ast_to': 'Assist/Turnover Ratio',
+                        'ast_ratio': 'Assist Ratio',
+                        'oreb_pct': 'Offensive Rebound %',
+                        'dreb_pct': 'Defensive Rebound %',
+                        'reb_pct': 'Total Rebound %',
+                        'tm_tov_pct': 'Turnover %',
+                        'efg_pct': 'Effective FG %',
+                        'ts_pct': 'True Shooting %',
+                        'usg_pct': 'Usage %',
+                        'pace': 'Pace',
+                        'pie': 'Player Impact Estimate'
+                    }
+                    
+                    advanced_stats = advanced_stats.rename(columns=column_renames)
+                    
+                    all_columns = [col for col in advanced_stats.columns if col not in ['Player', 'Team']]
+                    selected_columns = st.multiselect(
+                        "Select columns to display",
+                        options=all_columns,
+                        default=['Offensive Rating', 'Defensive Rating', 'Net Rating', 'Usage %'],
+                        key=f"player_advanced_stats_columns_{game_id}"
+                    )
+                    
+                    st.dataframe(advanced_stats[['Player', 'Team'] + selected_columns].set_index(['Team', 'Player']), use_container_width=True)
+
+                    with st.expander("Explanation of Advanced Stats"):
+                        st.markdown("""
+                        - **Offensive Rating:** Points produced per 100 possessions
+                        - **Defensive Rating:** Points allowed per 100 possessions
+                        - **Net Rating:** Difference between offensive and defensive rating
+                        - **Assist % (AST%):** Percentage of teammate field goals a player assisted
+                        - **Assist/Turnover Ratio (AST/TO):** Ratio of assists to turnovers
+                        - **Assist Ratio:** Percentage of possessions ending with an assist
+                        - **Offensive/Defensive/Total Rebound % (OREB%/DREB%/REB%):** Percentage of available rebounds obtained
+                        - **Turnover % (TOV%):** Turnovers per 100 plays
+                        - **Effective FG % (eFG%):** Field goal percentage adjusted for three-pointers
+                        - **True Shooting % (TS%):** Shooting percentage adjusted for three-pointers and free throws
+                        - **Usage % (USG%):** Percentage of team plays used by player
+                        - **Pace:** Number of possessions per 48 minutes
+                        - **Player Impact Estimate (PIE):** Measure of player's overall statistical contribution
+                        """)
+
+            with stat_tabs[2]:
+                # Misc Stats
+                query = """
+                    SELECT 
+                        CONCAT(p.firstname, ' ', p.lastname) as player_name,
+                        t.name as team_name,
+                        pbm.*
+                    FROM player_boxscore_misc pbm
+                    JOIN player_boxscore pb ON pbm.boxscore_id = pb.boxscore_id
+                    JOIN team t ON pb.team_id = t.team_id
+                    LEFT JOIN player p ON p.player_id = CAST(SPLIT_PART(pb.boxscore_id, '-', 1) AS INTEGER)
+                    WHERE pb.game_id = %s
+                    ORDER BY t.name, player_name
+                """
+                misc_stats = db.fetch_dataframe(query, (game_id,))
+                if not misc_stats.empty:
+                    misc_stats = misc_stats.drop('boxscore_id', axis=1)
+                    
+                    column_renames = {
+                        'player_name': 'Player',
+                        'team_name': 'Team',
+                        'pts_off_tov': 'Points Off Turnovers',
+                        'pts_2nd_chance': 'Second Chance Points',
+                        'pts_fb': 'Fast Break Points',
+                        'pts_paint': 'Points in the Paint',
+                        'opp_pts_off_tov': 'Opponent Points Off Turnovers',
+                        'opp_pts_2nd_chance': 'Opponent Second Chance Points',
+                        'opp_pts_fb': 'Opponent Fast Break Points',
+                        'opp_pts_paint': 'Opponent Points in the Paint',
+                        'min_sec': 'Minutes'
+                    }
+                    
+                    misc_stats = misc_stats.rename(columns=column_renames)
+                    
+                    all_columns = [col for col in misc_stats.columns if col not in ['Player', 'Team']]
+                    selected_columns = st.multiselect(
+                        "Select columns to display",
+                        options=all_columns,
+                        default=['Points Off Turnovers', 'Fast Break Points', 'Points in the Paint'],
+                        key=f"player_misc_stats_columns_{game_id}"
+                    )
+                    
+                    st.dataframe(misc_stats[['Player', 'Team'] + selected_columns].set_index(['Team', 'Player']), use_container_width=True)
+
+                    with st.expander("Explanation of Misc Stats"):
+                        st.markdown("""
+                        - **Points Off Turnovers:** Points scored following opponent turnovers
+                        - **Second Chance Points:** Points scored after offensive rebounds
+                        - **Fast Break Points:** Points scored on fast break opportunities
+                        - **Points in the Paint:** Points scored in the painted area
+                        - **Opponent Points Off Turnovers:** Points allowed following team turnovers
+                        - **Opponent Second Chance Points:** Points allowed after opponent offensive rebounds
+                        - **Opponent Fast Break Points:** Points allowed on opponent fast breaks
+                        - **Opponent Points in the Paint:** Points allowed in the painted area
+                        """)
+
+            with stat_tabs[3]:
+                # Scoring Stats
+                query = """
+                    SELECT 
+                        CONCAT(p.firstname, ' ', p.lastname) as player_name,
+                        t.name as team_name,
+                        pbs.*
+                    FROM player_boxscore_scoring pbs
+                    JOIN player_boxscore pb ON pbs.boxscore_id = pb.boxscore_id
+                    JOIN team t ON pb.team_id = t.team_id
+                    LEFT JOIN player p ON p.player_id = CAST(SPLIT_PART(pb.boxscore_id, '-', 1) AS INTEGER)
+                    WHERE pb.game_id = %s
+                    ORDER BY t.name, player_name
+                """
+                scoring_stats = db.fetch_dataframe(query, (game_id,))
+                if not scoring_stats.empty:
+                    scoring_stats = scoring_stats.drop('boxscore_id', axis=1)
+                    
+                    column_renames = {
+                        'player_name': 'Player',
+                        'team_name': 'Team',
+                        'pct_fga_2pt': '% FGA 2PT',
+                        'pct_fga_3pt': '% FGA 3PT',
+                        'pct_pts_2pt': '% Points 2PT',
+                        'pct_pts_2pt_mr': '% Points 2PT Mid-Range',
+                        'pct_pts_3pt': '% Points 3PT',
+                        'pct_pts_fb': '% Points Fast Break',
+                        'pct_pts_ft': '% Points Free Throw',
+                        'pct_pts_off_tov': '% Points Off Turnovers',
+                        'pct_pts_paint': '% Points in the Paint',
+                        'pct_ast_2pm': '% Assisted 2PM',
+                        'pct_uast_2pm': '% Unassisted 2PM',
+                        'pct_ast_3pm': '% Assisted 3PM',
+                        'pct_uast_3pm': '% Unassisted 3PM',
+                        'pct_ast_fgm': '% Assisted FGM',
+                        'pct_uast_fgm': '% Unassisted FGM',
+                        'min_sec': 'Minutes'
+                    }
+                    
+                    scoring_stats = scoring_stats.rename(columns=column_renames)
+                    
+                    all_columns = [col for col in scoring_stats.columns if col not in ['Player', 'Team']]
+                    selected_columns = st.multiselect(
+                        "Select columns to display",
+                        options=all_columns,
+                        default=['% Points 2PT', '% Points 3PT', '% Points in the Paint'],
+                        key=f"player_scoring_stats_columns_{game_id}"
+                    )
+                    
+                    st.dataframe(scoring_stats[['Player', 'Team'] + selected_columns].set_index(['Team', 'Player']), use_container_width=True)
+
+                    with st.expander("Explanation of Scoring Stats"):
+                        st.markdown("""
+                        - **% FGA 2PT/3PT:** Percentage of field goal attempts from 2-point/3-point range
+                        - **% Points 2PT:** Percentage of points scored on 2-point shots
+                        - **% Points 2PT Mid-Range:** Percentage of points from mid-range shots
+                        - **% Points 3PT:** Percentage of points scored on 3-point shots
+                        - **% Points Fast Break:** Percentage of points scored in transition
+                        - **% Points Free Throw:** Percentage of points scored from free throws
+                        - **% Points Off Turnovers:** Percentage of points scored after turnovers
+                        - **% Points in the Paint:** Percentage of points scored in the painted area
+                        - **% Assisted/Unassisted 2PM:** Percentage of made 2-pointers that were assisted/unassisted
+                        - **% Assisted/Unassisted 3PM:** Percentage of made 3-pointers that were assisted/unassisted
+                        - **% Assisted/Unassisted FGM:** Percentage of all field goals that were assisted/unassisted
+                        """)
+
+            with stat_tabs[4]:
+                # Usage Stats
+                query = """
+                    SELECT 
+                        CONCAT(p.firstname, ' ', p.lastname) as player_name,
+                        t.name as team_name,
+                        pbu.*
+                    FROM player_boxscore_usage pbu
+                    JOIN player_boxscore pb ON pbu.boxscore_id = pb.boxscore_id
+                    JOIN team t ON pb.team_id = t.team_id
+                    LEFT JOIN player p ON p.player_id = CAST(SPLIT_PART(pb.boxscore_id, '-', 1) AS INTEGER)
+                    WHERE pb.game_id = %s
+                    ORDER BY t.name, player_name
+                """
+                usage_stats = db.fetch_dataframe(query, (game_id,))
+                if not usage_stats.empty:
+                    usage_stats = usage_stats.drop('boxscore_id', axis=1)
+                    
+                    column_renames = {
+                        'player_name': 'Player',
+                        'team_name': 'Team',
+                        'usg_pct': 'Usage %',
+                        'pct_fgm': '% of Team FGM',
+                        'pct_fga': '% of Team FGA',
+                        'pct_fg3m': '% of Team 3PM',
+                        'pct_fg3a': '% of Team 3PA',
+                        'pct_ftm': '% of Team FTM',
+                        'pct_fta': '% of Team FTA',
+                        'pct_oreb': '% of Team OREB',
+                        'pct_dreb': '% of Team DREB',
+                        'pct_reb': '% of Team REB',
+                        'pct_ast': '% of Team AST',
+                        'pct_tov': '% of Team TOV',
+                        'pct_stl': '% of Team STL',
+                        'pct_blk': '% of Team BLK',
+                        'pct_blka': '% of Team BLKA',
+                        'pct_pf': '% of Team PF',
+                        'pct_pfd': '% of Team PFD',
+                        'pct_pts': '% of Team PTS',
+                        'min_sec': 'Minutes'
+                    }
+                    
+                    usage_stats = usage_stats.rename(columns=column_renames)
+                    
+                    all_columns = [col for col in usage_stats.columns if col not in ['Player', 'Team']]
+                    selected_columns = st.multiselect(
+                        "Select columns to display",
+                        options=all_columns,
+                        default=['Usage %', '% of Team PTS', '% of Team REB', '% of Team AST'],
+                        key=f"player_usage_stats_columns_{game_id}"
+                    )
+                    
+                    st.dataframe(usage_stats[['Player', 'Team'] + selected_columns].set_index(['Team', 'Player']), use_container_width=True)
+
+                    with st.expander("Explanation of Usage Stats"):
+                        st.markdown("""
+                        - **Usage % (USG%):** Percentage of team plays used by player while on court
+                        - **% FGM/FGA:** Percentage of team's made/attempted field goals
+                        - **% 3PM/3PA:** Percentage of team's made/attempted three-pointers
+                        - **% FTM/FTA:** Percentage of team's made/attempted free throws
+                        - **% OREB/DREB/REB:** Percentage of team's offensive/defensive/total rebounds
+                        - **% AST:** Percentage of team's assists
+                        - **% TOV:** Percentage of team's turnovers
+                        - **% STL:** Percentage of team's steals
+                        - **% BLK:** Percentage of team's blocks
+                        - **% BLKA:** Percentage of team's blocked attempts
+                        - **% PF/PFD:** Percentage of team's fouls committed/drawn
+                        - **% PTS:** Percentage of team's total points
+                        """)
+        
         with tab4:
-            logging.info(f"Rendering shot chart section for game {game_id}")
             st.markdown("### Shot Chart")
             
             shot_chart_col1, shot_chart_col2, shot_chart_col3 = st.columns([1, 1, 2])
             
             with shot_chart_col1:
-                logging.info("Creating team radio button")
                 selected_team = st.radio(
                     "Select Team",
                     [game_details['home_team_name'].iloc[0], game_details['away_team_name'].iloc[0]],

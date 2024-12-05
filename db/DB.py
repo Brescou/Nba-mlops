@@ -95,10 +95,13 @@ class DB:
     def insert_bulk_data(self, table, columns, data):
         try:
             with self.connection.cursor() as cursor:
-                query = f"INSERT INTO {table} ({', '.join(columns)}) VALUES %s"
+                query = f"""
+                    INSERT INTO {table} ({', '.join(columns)}) VALUES %s
+                    ON CONFLICT (boxscore_id) DO UPDATE
+                    SET {', '.join(f"{col} = EXCLUDED.{col}" for col in columns if col != 'boxscore_id')}
+                """
                 execute_values(cursor, query, data)
                 self.connection.commit()
-                logging.info("Data inserted successfully.")
         except Exception as e:
             self.connection.rollback()
             logging.error(f"Error inserting data: {e}")
