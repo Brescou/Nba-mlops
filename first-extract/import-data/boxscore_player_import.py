@@ -139,20 +139,21 @@ class BoxscorePlayerImporter:
                     season_year = f"{season_start}-{str(season_start + 1)[-2:]}"
                     
                     if not self.has_missing_data_for_season(season_year):
-                        tqdm.write(f"No missing data for season {season_year}")
+                        tqdm.write(f"Season {season_year} already processed")
                         continue
                         
                     missing_games = self.get_missing_games_for_season(season_year)
-                    tqdm.write(f"Processing {len(missing_games)} games for {season_year}")
+                    tqdm.write(f"Processing {len(missing_games)} missing games for {season_year}")
 
                     with tqdm(missing_games, desc=f"Games for {season_year}", leave=False, position=1, dynamic_ncols=True) as game_bar:
                         for game_id, is_playoff in game_bar:
-                            advanced_stats = self.process_advanced_stats(game_id, is_playoff, season_year)
-                            if advanced_stats is not None:
-                                if self.insert_advanced_stats(advanced_stats):
-                                    tqdm.write(f"Imported game {game_id}")
-                                else:
-                                    tqdm.write(f"Failed to import game {game_id}")
+                            if not self.is_game_processed(game_id):
+                                advanced_stats = self.process_advanced_stats(game_id, is_playoff, season_year)
+                                if advanced_stats is not None:
+                                    if self.insert_advanced_stats(advanced_stats):
+                                        tqdm.write(f"Imported game {game_id}")
+                                    else:
+                                        tqdm.write(f"Failed to import game {game_id}")
         finally:
             self.db.close()
 
@@ -167,6 +168,16 @@ class BoxscorePlayerImporter:
             ORDER BY pb.game_id;
         """
         return self.db.fetch_data(query)
+
+    def is_game_processed(self, game_id):
+        query = f"""
+            SELECT COUNT(*) 
+            FROM player_boxscore_advanced pba
+            JOIN player_boxscore pb ON pb.boxscore_id = pba.boxscore_id
+            WHERE pb.game_id = '{game_id}'
+        """
+        result = self.db.fetch_data(query)
+        return result[0][0] > 0
 
 if __name__ == "__main__":
     db = DB()
