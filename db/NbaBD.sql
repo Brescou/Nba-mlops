@@ -9,19 +9,21 @@ create table public.team
     slug         varchar(100)
 );
 
-alter table public.team owner to postgres;
+alter table public.team
+    owner to postgres;
 
 create table public.game
 (
-    game_id integer not null primary key,
+    game_id      varchar(225) not null primary key,
     season_year  varchar(20),
-    date  date,
+    date         date,
     home_team_id integer references public.team,
     away_team_id integer references public.team,
-    result varchar(20)
+    result       varchar(20)
 );
 
-alter table public.game owner to postgres;
+alter table public.game
+    owner to postgres;
 
 create table public.player
 (
@@ -49,7 +51,8 @@ create table public.player
     to_year         integer
 );
 
-alter table public.player owner to postgres;
+alter table public.player
+    owner to postgres;
 
 create table public.player_boxscore
 (
@@ -57,7 +60,7 @@ create table public.player_boxscore
     season_year varchar(20),
     player_id   integer references public.player,
     team_id     integer references public.team,
-    game_id     integer references public.game,
+    game_id     varchar(225) references public.game,
     game_date   date,
     matchup     varchar(100),
     wl          char,
@@ -66,7 +69,8 @@ create table public.player_boxscore
     constraint unique_player_game unique (player_id, game_id)
 );
 
-alter table public.player_boxscore owner to postgres;
+alter table public.player_boxscore
+    owner to postgres;
 
 create table public.player_boxscore_advanced
 (
@@ -95,7 +99,8 @@ create table public.player_boxscore_advanced
     pie                numeric(5, 2)
 );
 
-alter table public.player_boxscore_advanced owner to postgres;
+alter table public.player_boxscore_advanced
+    owner to postgres;
 
 create table public.player_boxscore_base
 (
@@ -126,7 +131,8 @@ create table public.player_boxscore_base
     min_sec     varchar(5)
 );
 
-alter table public.player_boxscore_base owner to postgres;
+alter table public.player_boxscore_base
+    owner to postgres;
 
 create table public.player_boxscore_misc
 (
@@ -146,7 +152,8 @@ create table public.player_boxscore_misc
     min_sec            varchar(5)
 );
 
-alter table public.player_boxscore_misc owner to postgres;
+alter table public.player_boxscore_misc
+    owner to postgres;
 
 create table public.player_boxscore_scoring
 (
@@ -172,7 +179,8 @@ create table public.player_boxscore_scoring
     min_sec         varchar(5)
 );
 
-alter table public.player_boxscore_scoring owner to postgres;
+alter table public.player_boxscore_scoring
+    owner to postgres;
 
 create table public.player_boxscore_usage
 (
@@ -198,21 +206,23 @@ create table public.player_boxscore_usage
     min_sec     varchar(5)
 );
 
-alter table public.player_boxscore_usage owner to postgres;
+alter table public.player_boxscore_usage
+    owner to postgres;
 
 create table public.team_boxscore
 (
     boxscore_id varchar(225) not null primary key,
-    season_year integer,
+    season_year varchar(20),
     team_id     integer references public.team,
-    game_id     integer references public.game,
+    game_id     varchar(225) references public.game,
     game_date   date,
     matchup     varchar(100),
     wl          char,
     min         integer
 );
 
-alter table public.team_boxscore owner to postgres;
+alter table public.team_boxscore
+    owner to postgres;
 
 create table public.team_boxscore_advanced
 (
@@ -233,7 +243,8 @@ create table public.team_boxscore_advanced
     pie              numeric(5, 2)
 );
 
-alter table public.team_boxscore_advanced owner to postgres;
+alter table public.team_boxscore_advanced
+    owner to postgres;
 
 create table public.team_boxscore_base
 (
@@ -261,7 +272,8 @@ create table public.team_boxscore_base
     plus_minus  integer
 );
 
-alter table public.team_boxscore_base owner to postgres;
+alter table public.team_boxscore_base
+    owner to postgres;
 
 create table public.team_boxscore_four_factors
 (
@@ -276,7 +288,8 @@ create table public.team_boxscore_four_factors
     opp_oreb_pct numeric(4, 3)
 );
 
-alter table public.team_boxscore_four_factors owner to postgres;
+alter table public.team_boxscore_four_factors
+    owner to postgres;
 
 create table public.team_boxscore_misc
 (
@@ -291,7 +304,8 @@ create table public.team_boxscore_misc
     opp_pts_paint      integer
 );
 
-alter table public.team_boxscore_misc owner to postgres;
+alter table public.team_boxscore_misc
+    owner to postgres;
 
 create table public.team_boxscore_scoring
 (
@@ -313,5 +327,35 @@ create table public.team_boxscore_scoring
     pct_uast_fgm    numeric(4, 3)
 );
 
-alter table public.team_boxscore_scoring owner to postgres;
-
+alter table public.team_boxscore_scoring
+    owner to postgres;
+create table play_by_play
+(
+    play_id       serial primary key,
+    game_id       varchar(225) not null,
+    action_id     integer      NOT NULL,
+    action_number integer,
+    clock         TIME,
+    elapsed       INTERVAL,
+    period        integer      NOT NULL,
+    team_id       integer,
+    player_id     integer,
+    x_legacy      integer,
+    y_legacy      integer,
+    shot_distance integer,
+    is_field_goal boolean,
+    score_home    integer,
+    score_away    integer,
+    points_total  integer,
+    location      varchar(5),
+    description   text,
+    action_type   varchar(50),
+    sub_type      varchar(50),
+    shot_value    integer,
+    FOREIGN KEY (game_id) REFERENCES game (game_id),
+    FOREIGN KEY (team_id) REFERENCES team (team_id),
+    FOREIGN KEY (player_id) REFERENCES player (player_id)
+);
+CREATE INDEX idx_game_id ON play_by_play (game_id);
+CREATE INDEX idx_player_id ON play_by_play (player_id);
+CREATE INDEX idx_team_id ON play_by_play (team_id);

@@ -8,8 +8,8 @@ DB_NAME = "nba_db"
 DB_USER = "postgres"
 DB_PASSWORD = "postgres"
 
-BACKUP_DIR = "../db_backups"
-DDL_FILE = "db/NbaBD.sql"
+BACKUP_DIR = "./db_backups"
+DDL_FILE = "./NbaBD.sql"
 
 
 def backup_database():
@@ -61,6 +61,7 @@ def restore_database():
     except Exception as e:
         print(f"Error during restoration: {e}")
 
+
 def run_ddl_script():
     if not os.path.exists(DDL_FILE):
         print(f"DDL file '{DDL_FILE}' not found.")
@@ -79,12 +80,36 @@ def run_ddl_script():
         print(f"Error executing DDL script: {e}")
 
 
+def reset_database():
+    try:
+        subprocess.run(
+            [
+                "docker", "exec", "-i", "postgres_db",
+                "psql", "-U", DB_USER, "-c", f"DROP DATABASE IF EXISTS {DB_NAME};"
+            ]
+        )
+        print(f"Database '{DB_NAME}' dropped successfully.")
+
+        subprocess.run(
+            [
+                "docker", "exec", "-i", "postgres_db",
+                "psql", "-U", DB_USER, " - c", f"CREATE DATABASE {DB_NAME};"]
+        )
+        print(f"Database '{DB_NAME}' recreated successfully.")
+
+        run_ddl_script()
+        print("Database structure recreated successfully.")
+    except Exception as e:
+        print(f"Error resetting the database: {e}")
+
+
 if __name__ == "__main__":
     print("Options:")
     print("1. Backup the database")
     print("2. Restore the database from the latest backup")
     print("3. Run DDL script to create database structure")
-    choice = input("Choose an option (1/2/3): ")
+    print("4. Reset the database")
+    choice = input("Choose an option (1/2/3/4): ")
 
     if choice == "1":
         backup_database()
@@ -92,5 +117,7 @@ if __name__ == "__main__":
         restore_database()
     elif choice == "3":
         run_ddl_script()
+    elif choice == "4":
+        reset_database()
     else:
         print("Invalid option.")
