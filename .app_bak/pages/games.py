@@ -6,27 +6,24 @@ from db.DB import DB
 
 st.title("NBA Games")
 
-# Initialisation des variables d'état
 if "current_page" not in st.session_state:
     st.session_state["current_page"] = 1
 if "matches_per_page" not in st.session_state:
     st.session_state["matches_per_page"] = 10
 
-# Connexion à la base de données
 db_instance = DB()
 db_instance.connect()
 
-# Fonction pour gérer les changements de page via le slider
+
 def update_page():
     st.session_state["current_page"] = st.session_state["slider_page"]
 
-# Récupération des saisons
+
 seasons = fetch_seasons(db_instance)
 if isinstance(seasons, pd.DataFrame) and seasons.empty:
     st.warning("No seasons found.")
 else:
-    # Sélection de la saison
-    season_col = st.columns([2, 6, 2])  # Largeur centrée pour le sélecteur
+    season_col = st.columns([2, 6, 2])
     with season_col[1]:
         selected_season = st.selectbox("Choose a season:", options=seasons)
 
@@ -35,14 +32,12 @@ else:
         if matches.empty:
             st.info(f"No matches found for season {selected_season}.")
         else:
-            # Pagination
             total_matches = len(matches)
             matches_per_page = st.session_state["matches_per_page"]
             total_pages = (total_matches + matches_per_page - 1) // matches_per_page
 
-            # Gestion des interactions utilisateur
-            st.divider()  # Ligne de séparation
-            pagination_cols = st.columns([1, 4, 1, 2])  # Largeurs ajustées pour alignement
+            st.divider()
+            pagination_cols = st.columns([1, 4, 1, 2])
             with pagination_cols[0]:
                 if st.button("⬅️", help="Previous Page") and st.session_state["current_page"] > 1:
                     st.session_state["current_page"] -= 1
@@ -69,12 +64,10 @@ else:
                     st.session_state["matches_per_page"] = matches_per_page
                     st.session_state["current_page"] = 1
 
-            # Calcul des indices pour afficher les matchs
             start_idx = (st.session_state["current_page"] - 1) * matches_per_page
             end_idx = min(start_idx + matches_per_page, total_matches)
             paginated_matches = matches.iloc[start_idx:end_idx]
 
-            # Afficher les matchs
             st.write(
                 f"Page {st.session_state['current_page']} / {total_pages} "
                 f"(Matches {start_idx + 1} to {end_idx} of {total_matches})"

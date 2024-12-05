@@ -1,6 +1,5 @@
 import os
 
-import numpy as np
 import pandas as pd
 import psycopg2
 
@@ -60,6 +59,9 @@ class DB:
                 logging.info("Query executed successfully.")
         except Exception as e:
             logging.error(f"Error executing query: {e}")
+            logging.error(f"Query: {query}")
+            logging.error(f"Params: {params}")
+            
 
     def fetch_data(self, query):
         try:
@@ -79,13 +81,16 @@ class DB:
             logging.error(f"Error fetching data: {e}")
             return None
 
-    def fetch_dataframe(self, query):
+    def fetch_dataframe(self, query, params=None):
         try:
-            with self.engine.connect() as connection:
-                return pd.read_sql_query(query, con=connection)
+            if params:
+                return pd.read_sql_query(query, self.engine, params=params)
+            return pd.read_sql_query(query, self.engine)
         except Exception as e:
-            logging.error(f"Error fetching dataframe: {e}")
-            return None
+            logging.error(f"Error executing query: {e}")
+            logging.error(f"Query: {query}")
+            logging.error(f"Params: {params}")
+            return pd.DataFrame()
 
     def insert_bulk_data(self, table, columns, data):
         try:
@@ -108,10 +113,6 @@ class DB:
             self.connection.rollback()
             logging.error(f"Error inserting row {data_row}: {e}")
 
-    # def load_data_from_dataframe(self, table, dataframe):
-    #     columns = list(dataframe.columns)
-    #     data = [tuple(x) for x in dataframe.to_numpy()]
-    #     self.insert_bulk_data(table, columns, data)
 
     def load_data_from_dataframe(self, table, dataframe):
         columns = list(dataframe.columns)
