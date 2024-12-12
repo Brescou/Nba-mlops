@@ -8,7 +8,7 @@ DB_NAME = "nba_db"
 DB_USER = "postgres"
 DB_PASSWORD = "postgres"
 
-BACKUP_DIR = "./db_backups"
+BACKUP_DIR = "/db_backups"
 DDL_FILE = "./NbaBD.sql"
 
 
@@ -21,7 +21,12 @@ def backup_database():
             subprocess.run(
                 [
                     "docker", "exec", "-t", "postgres_db",
-                    "pg_dump", "-U", DB_USER, "-d", DB_NAME
+                    "pg_dump", 
+                    "-U", DB_USER,
+                    "-d", DB_NAME,
+                    "--create",      
+                    "--if-exists",   
+                    "--no-owner"     
                 ],
                 stdout=f
             )

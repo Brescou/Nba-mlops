@@ -1,6 +1,7 @@
 import logging
 import os
 from random import randint
+import re
 import time
 import streamlit as st
 from matplotlib.patches import Circle, Rectangle, Arc
@@ -111,6 +112,7 @@ def fetch_play_by_play(db, game_id):
             description,
             action_type,
             sub_type,
+            shot_value,
             t.name AS team_name,
             CONCAT(pl.firstname, ' ', pl.lastname) AS player_name
         FROM play_by_play p
@@ -194,3 +196,82 @@ def draw_court(ax=None, color="black", lw=2, outer_lines=False):
         ax.add_patch(element)
 
     return ax
+
+
+def analyze_timeouts(play_by_play, window_minutes=3):
+    timeouts = play_by_play[play_by_play["action_type"] == "Timeout"].copy()
+
+    timeout_analysis = []
+    for _, timeout in timeouts.iterrows():
+        current_time = timeout["clock"]
+
+        window_time = (
+            pd.to_datetime(current_time.strftime("%H:%M:%S"))
+            + pd.Timedelta(hours=window_minutes)
+        ).time()
+        after_window = (
+            pd.to_datetime(current_time.strftime("%H:%M:%S"))
+            - pd.Timedelta(hours=window_minutes)
+        ).time()
+
+        before_timeout = play_by_play[
+            (play_by_play["clock"] <= window_time)
+            & (play_by_play["clock"] > current_time)
+            & (play_by_play["period"] == timeout["period"])
+        ]
+
+        after_timeout = play_by_play[
+            (play_by_play["clock"] < current_time)
+            & (play_by_play["clock"] >= after_window)
+            & (play_by_play["period"] == timeout["period"])
+        ]
+
+        team_calling_timeout = timeout["team_name"]
+
+        points_before = {
+            "calling_team": sum(
+                before_timeout[
+                    (before_timeout["team_name"] == team_calling_timeout)
+                    & (before_timeout["action_type"] == "Made Shot")
+                ]["shot_value"]
+            ),
+            "opponent": sum(
+                before_timeout[
+                    (before_timeout["team_name"] != team_calling_timeout)
+                    & (before_timeout["action_type"] == "Made Shot")
+                ]["shot_value"]
+            ),
+        }
+
+        points_after = {
+            "calling_team": sum(
+                after_timeout[
+                    (after_timeout["team_name"] == team_calling_timeout)
+                    & (after_timeout["action_type"] == "Made Shot")
+                ]["shot_value"]
+            ),
+            "opponent": sum(
+                after_timeout[
+                    (after_timeout["team_name"] != team_calling_timeout)
+                    & (after_timeout["action_type"] == "Made Shot")
+                ]["shot_value"]
+            ),
+        }
+
+        score_diff_before = points_before["calling_team"] - points_before["opponent"]
+        score_diff_after = points_after["calling_team"] - points_after["opponent"]
+
+        timeout_analysis.append(
+            {
+                "period": timeout["period"],
+                "time": current_time.strftime("%H:%M"),
+                "team": team_calling_timeout,
+                "points_before_team": points_before["calling_team"],
+                "points_before_opp": points_before["opponent"],
+                "points_after_team": points_after["calling_team"],
+                "points_after_opp": points_after["opponent"],
+                "impact": score_diff_after - score_diff_before,
+            }
+        )
+
+    return pd.DataFrame(timeout_analysis)
