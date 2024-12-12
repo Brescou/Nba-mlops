@@ -13,7 +13,7 @@ def Get_all_csv(directory,keyword):
     csv_files = [
         os.path.join(directory, file)
         for file in os.listdir(directory)
-        if file.endswith(".csv") and keyword in file.lower() and "2024-25" not in file
+        if file.endswith(".csv") and keyword in file.lower() 
     ]
 
     print(f"Fichiers CSV identifiés : {csv_files}")

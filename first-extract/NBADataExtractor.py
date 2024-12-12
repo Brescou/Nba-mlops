@@ -11,6 +11,8 @@ from tqdm import tqdm
 
 from params import NBAParams
 
+from datetime import datetime
+
 logging.basicConfig(level=logging.INFO)
 
 
@@ -70,7 +72,7 @@ class NBADataExtractor:
         game_logs = self.fetch_data(endpoint, params)
         if game_logs:
             file_path = os.path.join(
-                self.output_dir, f"{self.season_type.lower().replace(' ', '_')}_game_logs.csv")
+                self.output_dir, f"{self.season_type.lower().replace(' ', '_')}_game_logs_{season}.csv")
             headers = [
                 'SEASON_ID', 'GAME_ID', 'GAME_DATE', 'MATCHUP',
                 'HOME_TEAM_ID', 'HOME_TEAM_ABBREVIATION', 'HOME_TEAM_NAME', 'HOME_WL',
@@ -159,7 +161,7 @@ class NBADataExtractor:
                 "scoreAway", "pointsTotal", "location", "description", "actionType", "subType", "videoAvailable",
                 "shotValue"
             ]
-            with open(file_path, mode='w', newline='') as file:
+            with open(file_path, mode='w', newline='', encoding='utf-8') as file:
                 writer = csv.writer(file)
                 writer.writerow(headers)
                 for row in play_by_play_data["game"]["actions"]:
@@ -175,14 +177,14 @@ class NBADataExtractor:
             logging.error(f"No play-by-play data found for game {game_id}.")
 
     def extract_all_play_by_play(self):
-        regular_season_df = pd.read_csv("data/game/regular_season_game_logs.csv", dtype={'GAME_ID': str})
-        playoffs_df = pd.read_csv("data/game/playoffs_game_logs.csv", dtype={'GAME_ID': str})
+        regular_season_df = pd.read_csv("./first-extract/data/game/regular_season_game_logs_2024-25.csv", dtype={'GAME_ID': str})
+        # playoffs_df = pd.read_csv("data/game/playoffs_game_logs.csv", dtype={'GAME_ID': str})
         if 'processed' not in regular_season_df.columns:
             regular_season_df['processed'] = False
-        if 'processed' not in playoffs_df.columns:
-            playoffs_df['processed'] = False
+        # if 'processed' not in playoffs_df.columns:
+        #     playoffs_df['processed'] = False
         not_processed_regular_season_df = regular_season_df[~regular_season_df['processed']]
-        not_processed_playoffs_df = playoffs_df[~playoffs_df['processed']]
+        # not_processed_playoffs_df = playoffs_df[~playoffs_df['processed']]
         logging.info("Starting play-by-play extraction for regular season games...")
         logging.info(f"Total regular season games to process: {len(not_processed_regular_season_df)}")
         with tqdm(total=len(not_processed_regular_season_df), desc="Regular Season Extraction") as pbar:
@@ -193,22 +195,22 @@ class NBADataExtractor:
                 self.save_play_by_play_to_csv(season, game_id, 'regular_season')
                 pbar.update(1)
                 regular_season_df.loc[regular_season_df['GAME_ID'] == game_id, 'processed'] = True
-                regular_season_df.to_csv("data/game/regular_season_game_logs.csv", index=False)
+                regular_season_df.to_csv("./first-extract/data/game/regular_season_game_logs_2024-25.csv", index=False)
                 time.sleep(self.delay)
         logging.info("Finished extracting regular season play-by-play.")
-        logging.info("Starting play-by-play extraction for playoff games...")
-        logging.info(f"Total playoff games to process: {len(not_processed_playoffs_df)}")
-        with tqdm(total=len(not_processed_playoffs_df), desc="Playoff Extraction") as pbar:
-            for index, row in not_processed_playoffs_df.iterrows():
-                game_id = row['GAME_ID']
-                season = row['SEASON_YEAR']
-                pbar.set_postfix({'game_id': game_id})
-                self.save_play_by_play_to_csv(season, game_id, 'playoffs')
-                pbar.update(1)
-                playoffs_df.loc[playoffs_df['GAME_ID'] == game_id, 'processed'] = True
-                playoffs_df.to_csv("data/game/playoffs_game_logs.csv", index=False)
-                time.sleep(self.delay)
-        logging.info("Finished extracting playoff play-by-play.")
+        # logging.info("Starting play-by-play extraction for playoff games...")
+        # logging.info(f"Total playoff games to process: {len(not_processed_playoffs_df)}")
+        # with tqdm(total=len(not_processed_playoffs_df), desc="Playoff Extraction") as pbar:
+        #     for index, row in not_processed_playoffs_df.iterrows():
+        #         game_id = row['GAME_ID']
+        #         season = row['SEASON_YEAR']
+        #         pbar.set_postfix({'game_id': game_id})
+        #         self.save_play_by_play_to_csv(season, game_id, 'playoffs')
+        #         pbar.update(1)
+        #         playoffs_df.loc[playoffs_df['GAME_ID'] == game_id, 'processed'] = True
+        #         playoffs_df.to_csv("data/game/playoffs_game_logs.csv", index=False)
+        #         time.sleep(self.delay)
+        # logging.info("Finished extracting playoff play-by-play.")
 
     def fetch_player_bios(self):
         endpoint = "player_bios"
@@ -219,8 +221,8 @@ class NBADataExtractor:
             headers = player_data["resultSets"][0]["headers"]
             rows = player_data["resultSets"][0]["rowSet"]
             df_player_bios = pd.DataFrame(rows, columns=headers)
-            df_player_bios.to_csv("data/player_bios.csv", index=False)
-            logging.info("Player bios saved to data/player_bios.csv")
+            df_player_bios.to_csv("./first-extract/data/player_bios_2024-25.csv", index=False)
+            logging.info("Player bios saved to data/player_bios_2024-25.csv")
         else:
             logging.error("No player bios found.")
 
@@ -268,8 +270,9 @@ class NBADataExtractor:
         if player_stats and "resultSets" in player_stats:
             headers = player_stats["resultSets"][0]["headers"]
             rows = player_stats["resultSets"][0]["rowSet"]
-            season_folder = f"data/player/{endpoint}/{sub_endpoint}/{season}"
+            season_folder = f"./first-extract/data/player/{endpoint}/{sub_endpoint}/{season}"
             os.makedirs(season_folder, exist_ok=True)
+            time = datetime.now().strftime('%Y-%m-%d-%H:%M:%S')
             season_file_path = os.path.join(season_folder, f"{season}_{season_type.lower().replace(' ', '_')}.csv")
             season_data = pd.DataFrame(rows, columns=headers)
             if os.path.exists(season_file_path):
@@ -310,7 +313,7 @@ class NBADataExtractor:
                         headers = response["resultSets"][0]["headers"]
                         rows = response["resultSets"][0]["rowSet"]
                         df = pd.DataFrame(rows, columns=headers)
-                        output_dir = "data/player/boxscores"
+                        output_dir = "./first-extract/data/player/boxscores"
                         os.makedirs(output_dir, exist_ok=True)
                         file_path = os.path.join(output_dir,
                                                  f"{season}_{self.season_type.lower().replace(' ', '_')}_{measure_type.lower()}.csv")
@@ -349,7 +352,7 @@ class NBADataExtractor:
                         headers = response["resultSets"][0]["headers"]
                         rows = response["resultSets"][0]["rowSet"]
                         df = pd.DataFrame(rows, columns=headers)
-                        output_dir = "data/teams/boxscores"
+                        output_dir = "./first-extract/data/teams/boxscores"
                         os.makedirs(output_dir, exist_ok=True)
                         file_path = os.path.join(output_dir,
                                                  f"{season}_{self.season_type.lower().replace(' ', '_')}_{measure_type.lower()}.csv")
@@ -377,7 +380,7 @@ class NBADataExtractor:
 
     @staticmethod
     def update_processed_status(season_type="Regular Season"):
-        log_file = f"data/game/{season_type.lower().replace(' ', '_')}_game_logs.csv"
+        log_file = f"first-extract/data/game/{season_type.lower().replace(' ', '_')}_game_logs.csv"
         if os.path.exists(log_file):
             df = pd.read_csv(log_file, dtype={'GAME_ID': str})
             total_games = len(df)
@@ -386,7 +389,7 @@ class NBADataExtractor:
                 for index, row in df.iterrows():
                     game_id = row['GAME_ID']
                     season_year = row['SEASON_YEAR']
-                    season_folder = f"data/game/{season_year}/{season_type.lower().replace(' ', '_')}"
+                    season_folder = f"first-extract/data/game/{season_year}/{season_type.lower().replace(' ', '_')}"
                     expected_file_path = os.path.join(season_folder, f"{game_id}.csv")
                     if os.path.exists(expected_file_path):
                         df.at[index, 'processed'] = True
