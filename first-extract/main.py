@@ -14,22 +14,22 @@ def initialize_dataframe(file_path):
 
 
 def main():
-    # extractor = NBADataExtractor(
-    #     nba_endpoints_games,
-    #     season_start=1996,
-    #     season_end=2023,
-    #     output_dir="./data/game/"
-    # )
+    extractor = NBADataExtractor(
+        nba_endpoints_games,
+        season_start=2024,
+        season_end=2025,
+        output_dir="./data/game/"
+    )
 
     regular_season_path = "./data/game/regular_season_game_logs.csv"
     playoffs_path = "./data/game/playoffs_game_logs.csv"
 
-    # if not os.path.exists(regular_season_path) and not os.path.exists(playoffs_path):
-    #     extractor.extract_seasons()
-    #     extractor.change_season_type("Playoffs")
-    #     extractor.extract_seasons()
-    #     initialize_dataframe(playoffs_path)
-    #     initialize_dataframe(regular_season_path)
+    if not os.path.exists(regular_season_path) and not os.path.exists(playoffs_path):
+        extractor.extract_seasons()
+        # extractor.change_season_type("Playoffs")
+        # extractor.extract_seasons()
+        # initialize_dataframe(playoffs_path)
+        initialize_dataframe(regular_season_path)
 
     # extractor.update_processed_status("Regular Season")
     # extractor.update_processed_status("Playoffs")
@@ -41,7 +41,7 @@ def main():
     #     output_dir="./data/"
     # )
     # extractor.fetch_player_bios()
-    extractor = NBADataExtractor(nba_endpoints_player, season_start=2020, season_end=2023)
+    # extractor = NBADataExtractor(nba_endpoints_player, season_start=2020, season_end=2023)
     # extractor.fetch_stats_for_multiple_seasons(
     #     endpoint="general",
     #     sub_endpoint="traditional",
@@ -51,11 +51,11 @@ def main():
     # extractor.change_season_type("Playoffs")
     # extractor.fetch_player_boxscore_for_multiple_seasons()
 
-    extractor_team = NBADataExtractor(nba_endpoints_teams, season_start=2022, season_end=2024)
+    # extractor_team = NBADataExtractor(nba_endpoints_teams, season_start=2022, season_end=2024)
+    # # extractor_team.fetch_team_boxscore_for_multiple_seasons()
+    # extractor_team.change_season_type("Playoffs")
+    # time.sleep(2)
     # extractor_team.fetch_team_boxscore_for_multiple_seasons()
-    extractor_team.change_season_type("Playoffs")
-    time.sleep(2)
-    extractor_team.fetch_team_boxscore_for_multiple_seasons()
 
 
     extractor.close_session()

@@ -1,12 +1,18 @@
 import pandas as pd
 import streamlit as st
 from db.DB import DB
-from utils.utils import draw_court, fetch_game_details, fetch_play_by_play
+from utils.utils import (
+    analyze_timeouts,
+    draw_court,
+    fetch_game_details,
+    fetch_play_by_play,
+)
 import matplotlib.pyplot as plt
 import logging
 import time
 import plotly.express as px
 import plotly.graph_objects as go
+import re
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
@@ -75,9 +81,9 @@ else:
         )
 
         with tab1:
-            summary_tabs = st.tabs(["Play by Play", "Analysis"])
+            summary_tabs = st.tabs(["Play by Play", "Analysis", "Timeouts"])
 
-            with summary_tabs[0]:  # Play by Play
+            with summary_tabs[0]:
                 logger.debug("Rendering Game Summary tab")
                 st.markdown("### Game Summary")
 
@@ -288,12 +294,14 @@ else:
 
                     default_stats = [
                         "Points",
-                        # "2 Points",
-                        # "3 Points",
-                        # "Rebounds",
-                        # "Off Rebounds",
-                        # "Def Rebounds",
-                        # "Assists",
+                        "2 Points",
+                        "3 Points",
+                        "Assists",
+                        "Rebounds",
+                        "Turnovers",
+                        "Fouls",
+                        "Blocks",
+                        "Steals",
                     ]
 
                     selected_stats = st.multiselect(
@@ -308,18 +316,245 @@ else:
                     home_plays = play_by_play[play_by_play["team_id"] == home_team_id]
                     away_plays = play_by_play[play_by_play["team_id"] == away_team_id]
 
+                    max_period = play_by_play["period"].max()
+                    has_ot = max_period > 4
+                    ot_periods = (
+                        [f"OT{i}" for i in range(1, max_period - 4 + 1)]
+                        if has_ot
+                        else []
+                    )
+
+                    period_choices = [
+                        "Full Game",
+                        "1st Half",
+                        "2nd Half",
+                        "Q1",
+                        "Q2",
+                        "Q3",
+                        "Q4",
+                    ] + ot_periods
+
+                    period_choice = st.selectbox("Select Period", period_choices)
+
+                    if period_choice == "Full Game":
+                        filtered_plays = play_by_play  # Toutes les périodes
+                    elif period_choice == "1st Half":
+                        filtered_plays = play_by_play[
+                            play_by_play["period"].isin([1, 2])
+                        ]  # Périodes 1 et 2
+                    elif period_choice == "2nd Half":
+                        filtered_plays = play_by_play[
+                            play_by_play["period"].isin([3, 4])
+                        ]  # Périodes 3 et 4
+                    elif period_choice.startswith("Q"):
+                        quarter = int(period_choice[1])  # Q1->1, Q2->2, Q3->3, Q4->4
+                        filtered_plays = play_by_play[play_by_play["period"] == quarter]
+                    elif period_choice.startswith("OT"):
+                        ot_number = int(period_choice[2])  # OT1->1, OT2->2, etc.
+                        filtered_plays = play_by_play[
+                            play_by_play["period"] == (4 + ot_number)
+                        ]
+
+                    period_scores = filtered_plays[
+                        filtered_plays["action_type"] == "period"
+                    ]
+
+                    if period_choice == "Full Game":
+                        start_scores = pd.DataFrame(
+                            {"score_home": [0], "score_away": [0]}
+                        )
+                        end_scores = period_scores[
+                            period_scores["period"] == max_period
+                        ]
+                    elif period_choice == "1st Half":
+                        start_scores = pd.DataFrame(
+                            {"score_home": [0], "score_away": [0]}
+                        )
+                        end_scores = period_scores[period_scores["period"] == 2]
+                    elif period_choice == "2nd Half":
+                        start_scores = play_by_play[
+                            (play_by_play["action_type"] == "period")
+                            & (play_by_play["period"] == 2)
+                        ]
+                        end_scores = period_scores[period_scores["period"] == 4]
+                    elif period_choice.startswith("Q"):
+                        quarter = int(period_choice[1])
+                        start_scores = (
+                            pd.DataFrame({"score_home": [0], "score_away": [0]})
+                            if quarter == 1
+                            else play_by_play[
+                                (play_by_play["action_type"] == "period")
+                                & (play_by_play["period"] == quarter - 1)
+                            ]
+                        )
+                        end_scores = period_scores[period_scores["period"] == quarter]
+                    elif period_choice.startswith("OT"):
+                        ot_number = int(period_choice[2])
+                        period = 4 + ot_number
+                        start_scores = play_by_play[
+                            (play_by_play["action_type"] == "period")
+                            & (play_by_play["period"] == period - 1)
+                        ]
+                        end_scores = period_scores[period_scores["period"] == period]
+
                     team_stats = {
                         home_team: {
-                            "Points": home_plays.iloc[-1]["score_home"],
+                            "Points": (
+                                int(
+                                    end_scores["score_home"].iloc[-1]
+                                    - start_scores["score_home"].iloc[-1]
+                                )
+                                if not end_scores.empty and not start_scores.empty
+                                else 0
+                            ),
+                            "2 Points": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == home_team_id)
+                                    & (filtered_plays["action_type"] == "Made Shot")
+                                    & (filtered_plays["shot_value"] == 2)
+                                ]
+                            ),
+                            "3 Points": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == home_team_id)
+                                    & (filtered_plays["action_type"] == "Made Shot")
+                                    & (filtered_plays["shot_value"] == 3)
+                                ]
+                            ),
+                            "Assists": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == home_team_id)
+                                    & (filtered_plays["action_type"] == "Made Shot")
+                                    & (
+                                        filtered_plays["description"].str.contains(
+                                            "AST"
+                                        )
+                                    )
+                                ]
+                            ),
+                            "Rebounds": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == home_team_id)
+                                    & (filtered_plays["action_type"] == "Rebound")
+                                    & ~(
+                                        filtered_plays["description"].str.contains(
+                                            f"{team_name.upper()} Rebound", na=False
+                                        )
+                                    )
+                                ]
+                            ),
+                            "Turnovers": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == home_team_id)
+                                    & (filtered_plays["action_type"] == "Turnover")
+                                ]
+                            ),
+                            "Fouls": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == home_team_id)
+                                    & (filtered_plays["action_type"] == "Foul")
+                                ]
+                            ),
+                            "Blocks": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == home_team_id)
+                                    & (
+                                        filtered_plays["description"].str.contains(
+                                            "BLOCK", na=False
+                                        )
+                                    )
+                                ]
+                            ),
+                            "Steals": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == home_team_id)
+                                    & (
+                                        filtered_plays["description"].str.contains(
+                                            "STEAL", na=False
+                                        )
+                                    )
+                                ]
+                            ),
                         },
                         away_team: {
-                            "Points": away_plays.iloc[-1]["score_away"],
+                            "Points": (
+                                int(
+                                    end_scores["score_away"].iloc[-1]
+                                    - start_scores["score_away"].iloc[-1]
+                                )
+                                if not end_scores.empty and not start_scores.empty
+                                else 0
+                            ),
+                            "2 Points": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == away_team_id)
+                                    & (filtered_plays["action_type"] == "Made Shot")
+                                    & (filtered_plays["shot_value"] == 2)
+                                ]
+                            ),
+                            "3 Points": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == away_team_id)
+                                    & (filtered_plays["action_type"] == "Made Shot")
+                                    & (filtered_plays["shot_value"] == 3)
+                                ]
+                            ),
+                            "Assists": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == away_team_id)
+                                    & (filtered_plays["action_type"] == "Made Shot")
+                                    & (
+                                        filtered_plays["description"].str.contains(
+                                            "AST", na=False
+                                        )
+                                    )
+                                ]
+                            ),
+                            "Rebounds": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == away_team_id)
+                                    & (filtered_plays["action_type"] == "Rebound")
+                                    & ~(
+                                        filtered_plays["description"].str.contains(
+                                            f"{team_name.upper()} Rebound", na=False
+                                        )
+                                    )
+                                ]
+                            ),
+                            "Turnovers": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == away_team_id)
+                                    & (filtered_plays["action_type"] == "Turnover")
+                                ]
+                            ),
+                            "Fouls": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == away_team_id)
+                                    & (filtered_plays["action_type"] == "Foul")
+                                ]
+                            ),
+                            "Blocks": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == away_team_id)
+                                    & (
+                                        filtered_plays["description"].str.contains(
+                                            "BLOCK", na=False
+                                        )
+                                    )
+                                ]
+                            ),
+                            "Steals": len(
+                                filtered_plays[
+                                    (filtered_plays["team_id"] == away_team_id)
+                                    & (
+                                        filtered_plays["description"].str.contains(
+                                            "STEAL", na=False
+                                        )
+                                    )
+                                ]
+                            ),
                         },
                     }
-
-                    # Pour debug
-                    st.write("Home team points:", team_stats[home_team]["Points"])
-                    st.write("Away team points:", team_stats[away_team]["Points"])
 
                     fig = go.Figure()
 
@@ -331,7 +566,7 @@ else:
                             orientation="h",
                             marker_color="#1f77b4",
                             text=[
-                                -team_stats[home_team][stat] for stat in selected_stats
+                                team_stats[home_team][stat] for stat in selected_stats
                             ],
                             textposition="outside",
                             textfont=dict(color="#1f77b4"),
@@ -365,12 +600,13 @@ else:
                             tickfont=dict(size=12),
                         ),
                         xaxis=dict(
-                            title="Value",
+                            title=None,
                             tickmode="linear",
                             tickformat="d",
                             zeroline=True,
                             zerolinewidth=2,
                             zerolinecolor="black",
+                            showticklabels=False,
                         ),
                         showlegend=True,
                         legend=dict(
@@ -397,6 +633,60 @@ else:
                     fig.add_vline(x=0, line_width=1, line_color="black")
 
                     st.plotly_chart(fig, use_container_width=True)
+            with summary_tabs[2]:
+
+                timeout_cols = st.columns([2, 1])
+
+                with timeout_cols[0]:
+                    timeout_data = analyze_timeouts(play_by_play)
+
+                    if not timeout_data.empty:
+
+                        st.markdown("#### Timeout Details")
+                        formatted_timeout_data = timeout_data.copy()
+                        formatted_timeout_data[
+                            "effectiveness"
+                        ] = formatted_timeout_data["impact"].apply(
+                            lambda x: (
+                                "✅ Positive"
+                                if x > 0
+                                else "❌ Negative" if x < 0 else "➖ Neutral"
+                            )
+                        )
+
+                        st.dataframe(
+                            formatted_timeout_data[
+                                [
+                                    "period",
+                                    "time",
+                                    "team",
+                                    "points_before_team",
+                                    "points_before_opp",
+                                    "points_after_team",
+                                    "points_after_opp",
+                                    "effectiveness",
+                                ]
+                            ].rename(
+                                columns={
+                                    "period": "Period",
+                                    "time": "Time",
+                                    "team": "Team",
+                                    "points_before_team": "Points Before (Team)",
+                                    "points_before_opp": "Points Before (Opp)",
+                                    "points_after_team": "Points After (Team)",
+                                    "points_after_opp": "Points After (Opp)",
+                                }
+                            ),
+                            use_container_width=True,
+                        )
+
+                with timeout_cols[1]:
+                    # Global timeout statistics
+                    st.markdown("#### Timeout Statistics")
+
+                    total_timeouts = len(timeout_data)
+
+                    st.metric("Total Timeouts", total_timeouts)
 
         with tab2:
             logger.debug("Rendering Team Stats tab")
