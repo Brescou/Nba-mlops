@@ -8,7 +8,6 @@ if "page_config_set" not in st.session_state:
     )
     st.session_state["page_config_set"] = True
 
-from utils.pages_utils import *
 import logging
 
 from utils.utils import ROOT_DIR

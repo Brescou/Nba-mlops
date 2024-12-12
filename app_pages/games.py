@@ -4,7 +4,6 @@ import streamlit as st
 from app import ROOT_DIR
 from db.DB import DB
 
-from utils.pages_utils import *
 from utils.utils import (
     fetch_seasons,
     fetch_games_by_season,
