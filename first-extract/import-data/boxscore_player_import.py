@@ -1,21 +1,13 @@
+import os
+import sys
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+
 import pandas as pd
 import logging
 from pathlib import Path
-import os
-import sys
 from tqdm import tqdm
-
-current_dir = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.dirname(os.path.dirname(os.path.dirname(current_dir)))
-nba_mlops_root = os.path.join(project_root, "Nba-Mlops")
-sys.path.append(nba_mlops_root)
-
-try:
-    from db.DB import DB
-except ImportError as e:
-    print(f"Error importing DB: {e}")
-    print(f"Looking for DB.py in: {os.path.join(nba_mlops_root, 'db')}")
-    sys.exit(1)
+from db import DB
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -139,11 +131,11 @@ class BoxscorePlayerImporter:
                     season_year = f"{season_start}-{str(season_start + 1)[-2:]}"
                     
                     if not self.has_missing_data_for_season(season_year):
-                        tqdm.write(f"Season {season_year} already processed")
+                        season_bar.write(f"Season {season_year} already processed")
                         continue
                         
                     missing_games = self.get_missing_games_for_season(season_year)
-                    tqdm.write(f"Processing {len(missing_games)} missing games for {season_year}")
+                    season_bar.write(f"Processing {len(missing_games)} missing games for {season_year}")
 
                     with tqdm(missing_games, desc=f"Games for {season_year}", leave=False, position=1, dynamic_ncols=True) as game_bar:
                         for game_id, is_playoff in game_bar:
@@ -151,7 +143,7 @@ class BoxscorePlayerImporter:
                                 advanced_stats = self.process_advanced_stats(game_id, is_playoff, season_year)
                                 if advanced_stats is not None:
                                     if self.insert_advanced_stats(advanced_stats):
-                                        tqdm.write(f"Imported game {game_id}")
+                                        pass
                                     else:
                                         tqdm.write(f"Failed to import game {game_id}")
         finally:
